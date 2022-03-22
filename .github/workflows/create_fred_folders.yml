@@ -17,8 +17,8 @@ jobs:
       - name: Creating folders
         run: |
           echo Running File...
-          status=$(python create_folders.py > log.txt 2>&1; echo $?)
-          cat log.txt
+          status=$(python create_folders.py > config/log_folders.txt 2>&1; echo $?)
+          cat config/log_folders.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
         run: |
