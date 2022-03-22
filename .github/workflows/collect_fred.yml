@@ -16,7 +16,21 @@ jobs:
       - run: pip install -r requirements.txt
       - name: run Main Scraper
         run: |
-          python main.py
+          echo Running File...
+          status=$(python main.py > log.txt 2>&1; echo $?)
+          cat log.txt
+          echo ::set-output name=status::$status
+      - name: Commit log
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add -A
+          git checkout master
+          git diff-index --quiet HEAD || git commit -am "deploy workflow logs"
+          git push
+      - name: Check run status
+        if: steps.run.outputs.status != '0'
+        run: exit "${{ steps.run.outputs.status }}"
       - name: Create File
         run: |
           echo "$(date +'%Y-%m-%dT%H:%M:%S')" > updated.txt
