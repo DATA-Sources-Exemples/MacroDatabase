@@ -14,9 +14,9 @@ jobs:
           python-version: 3.8
           cache: 'pip'
       - run: pip install -r requirements.txt
-      - name: run FRED IDs
+      - name: run Main Scraper
         run: |
-          python fred_ids.py
+          python main.py
       - name: Create File
         run: |
           echo "$(date +'%Y-%m-%dT%H:%M:%S')" > updated.txt
