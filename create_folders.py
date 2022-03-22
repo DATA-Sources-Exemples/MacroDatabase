@@ -4,12 +4,10 @@ import time
 
 import fred
 
-API_KEY = "6fa40707f1690bbcf91356c2ba07dab5"
-RESET = True
+from config import misc, RESET
 
 
 def get_fred_data(fred_id):
-
     json_file = json.load(open(f"IDs/{fred_id}.json", "r"))
 
     if json_file:
@@ -86,65 +84,19 @@ def get_fred_data(fred_id):
                 folder += f"{parent}/"
 
 
-def obtain_series_data(name, data):
-    try:
-        print(f"Attempting {name} ({data['id']})")
-        fred_id = data['id']
-        children = fred.category_series(fred_id)['seriess']
-
-        if "Discontinued" not in os.listdir(data['path']):
-            os.mkdir(f"{data['path']}/Discontinued")
-
-        for series in children:
-            if "DISCONTINUED" in series['title']:
-                path = f"{data['path']}/Discontinued/{series['id']}.json"
-            else:
-                path = f"{data['path']}/{series['id']}.json"
-
-            json.dump(series, open(path, "w"))
-            print(f"Collected {series} for {data['name']}")
-    except KeyError:
-        return print(f"Not able to collect data for {name}")
-
-
-if __name__ == "__main__":
-    if RESET:
-        print(f"RESET is set to {RESET} thus emptying all IDs")
-        for file in os.listdir("IDs"):
-            if file == "_IDs.json":
-                os.remove(f"IDs/{file}")
-            else:
-                json.dump("", open(f"IDs/{file}", "w"))
-
-    if "Data" not in os.listdir():
-        os.mkdir("Data")
-
-    fred.key(API_KEY)
-    fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file and "_IDs.json" not in file][:100]
-
-    for fred_id in fred_ids:
-        get_fred_data(fred_id)
-
-    json_data = {}
+if RESET:
+    print(f"RESET is set to {RESET} thus emptying all IDs")
     for file in os.listdir("IDs"):
         if file == "_IDs.json":
-            continue
-        json_data[file.strip(".json")] = json.load(open(f"IDs/{file}", "r"))
-    json.dump(sorted(json_data), open(f"IDs/_IDs.json", "w"), indent=2)
+            os.remove(f"IDs/{file}")
+        else:
+            json.dump("", open(f"IDs/{file}", "w"))
 
-    path = "Data"
-    children_directories = {}
+fred.key(misc[214][43:75])
+if "Data" not in os.listdir():
+    os.mkdir("Data")
 
-    for directory_path, directory_names, _ in os.walk(path):
-        if len(directory_names) == 0:
-            name = directory_path.split("/")[-1]
+fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file and "_IDs.json" not in file][:100]
 
-            children_directories[name] = {}
-            children_directories[name]["path"] = directory_path
-
-    for fred_number, value in json_data.items():
-        if value in children_directories:
-            children_directories[value]['id'] = fred_number
-
-    for name, data in children_directories.items():
-        obtain_series_data(name, data)
+for fred_id in fred_ids:
+    get_fred_data(fred_id)
