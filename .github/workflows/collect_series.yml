@@ -1,0 +1,33 @@
+name: Collect Series
+on: [push]
+
+jobs:
+  Create-Fred-Folders:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "FRED Series are collected"
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Collecting FRED series
+        run: |
+          echo Running File...
+          status=$(python obtain_series.py > log.txt 2>&1; echo $?)
+          cat log.txt
+          echo ::set-output name=status::$status
+      - name: Commit files and log
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add -A
+          git checkout main
+          git diff-index --quiet HEAD || git commit -am "Update FRED Series"
+          git push
+      - name: Check run status
+        if: steps.run.outputs.status != '0'
+        run: exit "${{ steps.run.outputs.status }}"
