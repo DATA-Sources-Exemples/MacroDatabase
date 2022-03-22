@@ -1,5 +1,4 @@
-Attempting Special Indexes (33580)
-Not able to collect data for Special Indexes
+Not able to collect data for Discontinued
 Attempting Butler County, MO (1069)
 Not able to collect data for Butler County, MO
 Attempting Vernon County, WI (30495)
