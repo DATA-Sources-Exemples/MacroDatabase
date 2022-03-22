@@ -1,0 +1,17 @@
+{
+  "id": "WPU141602013",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Transportation Equipment: Other Parts and Components, Excluding Appliances and Furnishings",
+  "observation_start": "2011-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 08:01:58-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

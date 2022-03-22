@@ -1,0 +1,17 @@
+{
+  "id": "WPS121",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Furniture and Household Durables: Household Furniture",
+  "observation_start": "1967-01-01",
+  "observation_end": "2012-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2018-02-15 13:01:06-06",
+  "popularity": 4,
+  "group_popularity": 6
+}

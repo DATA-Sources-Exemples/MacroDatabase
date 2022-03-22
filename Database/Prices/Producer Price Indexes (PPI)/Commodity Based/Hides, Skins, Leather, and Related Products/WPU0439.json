@@ -1,0 +1,17 @@
+{
+  "id": "WPU0439",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Footwear Including Slippers",
+  "observation_start": "2002-12-01",
+  "observation_end": "2021-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2002=100",
+  "units_short": "Index Dec 2002=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 15:09:08-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

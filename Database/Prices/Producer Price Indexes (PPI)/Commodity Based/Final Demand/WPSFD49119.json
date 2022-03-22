@@ -1,0 +1,17 @@
+{
+  "id": "WPSFD49119",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Final Demand: Total Private and Government Purchased Capital Investment",
+  "observation_start": "2013-08-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Aug 2013=100",
+  "units_short": "Index Aug 2013=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-15 08:05:17-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

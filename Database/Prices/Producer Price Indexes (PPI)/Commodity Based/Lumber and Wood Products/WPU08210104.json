@@ -1,0 +1,17 @@
+{
+  "id": "WPU08210104",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Lumber and Wood Products: Stock Wood Bathroom Vanities and Related Bathroom Cabinetwork Including Tops",
+  "observation_start": "2012-12-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2012=100",
+  "units_short": "Index Dec 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-06-11 07:51:39-05",
+  "popularity": 3,
+  "group_popularity": 3
+}

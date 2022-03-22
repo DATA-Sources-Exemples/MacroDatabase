@@ -1,0 +1,18 @@
+{
+  "id": "ECICOM",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Employment Cost Index: Compensation: Private Industry Workers",
+  "observation_start": "2001-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index Dec 2005=100",
+  "units_short": "Index Dec 2005=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-01-28 07:51:14-06",
+  "popularity": 11,
+  "group_popularity": 11,
+  "notes": "On April 26, 2006, The Employment Cost Index will convert to the 2002 North American Industry Classification System (NAICS) and the 2000 Standard Occupational Classification System (SOC). In addition, several computational changes will be introduced, including rebasing all series to December 2005=100 from June 1989=100, the introduction of new employment weights and seasonal adjustment factors.\nFor more detailed information on NAICS and SOC, including background and definitions, please see the Bureau of Labor Statistics (BLS) websites: https://www.bls.gov/bls/naics.htm and http://www.bls.gov/soc/home.htm."
+}

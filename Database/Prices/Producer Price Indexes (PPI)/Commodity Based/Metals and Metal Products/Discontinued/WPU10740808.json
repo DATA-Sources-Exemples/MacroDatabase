@@ -1,0 +1,17 @@
+{
+  "id": "WPU10740808",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity for Metals and Metal Products: Metal Scaffolding and Shoring and Forming for Concrete Work (DISCONTINUED)",
+  "observation_start": "1985-03-01",
+  "observation_end": "2012-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1983=100",
+  "units_short": "Index Dec 1983=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-14 10:23:13-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

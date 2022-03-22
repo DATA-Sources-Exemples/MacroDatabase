@@ -1,0 +1,17 @@
+{
+  "id": "PCU213112213112M",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Industry: Support Activities for Oil and Gas Operations: Miscellaneous Receipts",
+  "observation_start": "1994-11-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Nov 1994=100",
+  "units_short": "Index Nov 1994=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-05-15 10:03:27-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

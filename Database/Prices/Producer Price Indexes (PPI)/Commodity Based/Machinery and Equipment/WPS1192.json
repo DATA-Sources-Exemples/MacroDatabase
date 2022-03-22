@@ -1,0 +1,17 @@
+{
+  "id": "WPS1192",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Mining Machinery and Equipment",
+  "observation_start": "1974-01-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2020-02-18 14:52:39-06",
+  "popularity": 1,
+  "group_popularity": 7
+}

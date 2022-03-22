@@ -1,0 +1,17 @@
+{
+  "id": "PCU21232221232291",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Industry: Industrial Sand Mining: Hydraulic Fracturing Sand",
+  "observation_start": "2012-12-01",
+  "observation_end": "2020-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2012=100",
+  "units_short": "Index Dec 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-10-14 07:50:04-05",
+  "popularity": 31,
+  "group_popularity": 31
+}

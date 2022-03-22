@@ -1,0 +1,17 @@
+{
+  "id": "WPU10230202",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Borings, Turnings, and Other New Aluminum Base Scrap",
+  "observation_start": "1986-12-01",
+  "observation_end": "2018-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1986=100",
+  "units_short": "Index Dec 1986=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-03-13 10:36:03-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

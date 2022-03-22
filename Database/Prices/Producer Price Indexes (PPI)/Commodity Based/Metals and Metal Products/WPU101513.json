@@ -1,0 +1,17 @@
+{
+  "id": "WPU101513",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Other Forge Shop Products",
+  "observation_start": "1982-06-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1982=100",
+  "units_short": "Index Jun 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 08:03:22-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

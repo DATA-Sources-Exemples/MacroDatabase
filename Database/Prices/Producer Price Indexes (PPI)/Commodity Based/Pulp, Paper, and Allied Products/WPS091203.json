@@ -1,0 +1,17 @@
+{
+  "id": "WPS091203",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Recyclable Paper",
+  "observation_start": "1995-01-01",
+  "observation_end": "2010-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2016-02-17 11:47:10-06",
+  "popularity": 16,
+  "group_popularity": 47
+}

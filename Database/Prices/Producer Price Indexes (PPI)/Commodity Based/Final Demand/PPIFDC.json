@@ -1,0 +1,17 @@
+{
+  "id": "PPIFDC",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Final Demand: Final Demand Construction",
+  "observation_start": "2009-11-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Nov 2009=100",
+  "units_short": "Index Nov 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 07:50:19-05",
+  "popularity": 21,
+  "group_popularity": 25
+}

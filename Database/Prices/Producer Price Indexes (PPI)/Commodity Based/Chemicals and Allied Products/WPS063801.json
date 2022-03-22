@@ -1,0 +1,17 @@
+{
+  "id": "WPS063801",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Pharmaceuticals Affecting Neoplasms, the Endocrine System, and Metabolic Diseases",
+  "observation_start": "2007-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2001=100",
+  "units_short": "Index Jun 2001=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-15 08:06:22-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

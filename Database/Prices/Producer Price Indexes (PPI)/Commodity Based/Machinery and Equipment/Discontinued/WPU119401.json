@@ -1,0 +1,17 @@
+{
+  "id": "WPU119401",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Gasoline Engines (Except Aircraft, Automobile, Highway Truck, Bus and Tank) (DISCONTINUED)",
+  "observation_start": "1947-01-01",
+  "observation_end": "2010-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-14 10:14:25-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

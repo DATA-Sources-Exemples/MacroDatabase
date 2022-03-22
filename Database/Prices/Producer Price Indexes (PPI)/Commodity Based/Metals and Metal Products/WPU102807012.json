@@ -1,0 +1,17 @@
+{
+  "id": "WPU102807012",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Other Nonferrous Castings (Excluding Die-Castings), Excluding Copper and Aluminum, Including Nickel and Zinc",
+  "observation_start": "2011-12-01",
+  "observation_end": "2020-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-01-15 07:57:24-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

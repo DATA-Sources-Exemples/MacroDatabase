@@ -1,0 +1,17 @@
+{
+  "id": "WPS101706",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Pipe and Tube (DISCONTINUED)",
+  "observation_start": "2004-01-01",
+  "observation_end": "2008-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1982=100",
+  "units_short": "Index Jun 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2015-05-14 10:39:57-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

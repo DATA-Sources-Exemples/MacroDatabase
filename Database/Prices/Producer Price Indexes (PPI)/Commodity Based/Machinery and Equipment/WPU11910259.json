@@ -1,0 +1,17 @@
+{
+  "id": "WPU11910259",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Portable Drilling Rigs (Above Ground), Derricks, and Well Surveying Machinery (Excluding Parts)",
+  "observation_start": "2005-01-01",
+  "observation_end": "2020-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2003=100",
+  "units_short": "Index Dec 2003=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-10-14 07:52:57-05",
+  "popularity": 3,
+  "group_popularity": 3
+}

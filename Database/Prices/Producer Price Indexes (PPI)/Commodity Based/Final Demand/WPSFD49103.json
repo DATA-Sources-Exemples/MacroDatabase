@@ -1,0 +1,17 @@
+{
+  "id": "WPSFD49103",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Final Demand: Final Demand Less Foods, Food and Nonalcoholic Beverages for Immediate Consumption, and Energy",
+  "observation_start": "2010-04-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Apr 2010=100",
+  "units_short": "Index Apr 2010=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-15 08:05:19-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

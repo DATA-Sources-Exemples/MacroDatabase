@@ -1,0 +1,17 @@
+{
+  "id": "WPU10170404",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity for Metals and Metal Products: Hot Rolled Steel Structural Shapes, Carbon (DISCONTINUED)",
+  "observation_start": "2010-12-01",
+  "observation_end": "2015-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2010=100",
+  "units_short": "Index Dec 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-06-15 13:50:08-05",
+  "popularity": 2,
+  "group_popularity": 2
+}

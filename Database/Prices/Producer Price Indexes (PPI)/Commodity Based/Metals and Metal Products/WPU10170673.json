@@ -1,0 +1,17 @@
+{
+  "id": "WPU10170673",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Pipe and Tube, Alloy",
+  "observation_start": "2010-12-01",
+  "observation_end": "2021-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2010=100",
+  "units_short": "Index Dec 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-09 10:20:04-06",
+  "popularity": 9,
+  "group_popularity": 9
+}

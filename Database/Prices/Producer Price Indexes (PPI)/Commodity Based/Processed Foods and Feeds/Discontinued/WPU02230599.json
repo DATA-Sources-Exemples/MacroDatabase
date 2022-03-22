@@ -1,0 +1,17 @@
+{
+  "id": "WPU02230599",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Other Shellfish (DISCONTINUED)",
+  "observation_start": "1991-12-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1991=100",
+  "units_short": "Index Dec 1991=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-02-17 10:34:35-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

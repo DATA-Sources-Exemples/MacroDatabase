@@ -1,0 +1,17 @@
+{
+  "id": "WPS027801",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Shortening, Cooking Oil, and Margarine",
+  "observation_start": "2006-01-01",
+  "observation_end": "2011-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2017-02-14 09:57:21-06",
+  "popularity": 1,
+  "group_popularity": 25
+}

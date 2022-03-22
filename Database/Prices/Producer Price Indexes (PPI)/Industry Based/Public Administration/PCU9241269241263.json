@@ -1,0 +1,17 @@
+{
+  "id": "PCU9241269241263",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Commercial Auto Insurance",
+  "observation_start": "1998-06-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1998=100",
+  "units_short": "Index Jun 1998=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 07:53:08-05",
+  "popularity": 22,
+  "group_popularity": 22
+}

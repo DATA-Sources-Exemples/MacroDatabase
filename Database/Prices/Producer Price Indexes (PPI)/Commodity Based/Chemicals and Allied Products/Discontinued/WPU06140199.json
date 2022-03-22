@@ -1,0 +1,17 @@
+{
+  "id": "WPU06140199",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Other Primary Basic Organic Chemicals (DISCONTINUED)",
+  "observation_start": "1995-07-01",
+  "observation_end": "2006-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1987=100",
+  "units_short": "Index Jun 1987=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-14 10:32:55-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

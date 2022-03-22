@@ -1,0 +1,17 @@
+{
+  "id": "PCU21311121311102",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Industry: Drilling Oil and Gas Wells: Drilling in, Spudding in, Tailing in, or Reworking Oil and Gas Wells (DISCONTINUED)",
+  "observation_start": "1992-12-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1992=100",
+  "units_short": "Index Dec 1992=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-11 09:01:46-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

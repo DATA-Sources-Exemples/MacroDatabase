@@ -1,0 +1,17 @@
+{
+  "id": "WPU0381044117",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Textile Products and Apparel: Apparel, Plastic or Rubber (50 Percent or Greater), Including Raincoats and Rubber Pants, Made from Purchased Materials (MFPM)",
+  "observation_start": "2011-12-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-02-14 08:30:51-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

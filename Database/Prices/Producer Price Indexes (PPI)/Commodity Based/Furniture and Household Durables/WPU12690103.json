@@ -1,0 +1,17 @@
+{
+  "id": "WPU12690103",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Furniture and Household Durables: Other Shades and Blinds, Including Curtain and Drapery Fixtures, Poles, and Rods",
+  "observation_start": "1984-06-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1984=100",
+  "units_short": "Index Jun 1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-02-14 08:28:34-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

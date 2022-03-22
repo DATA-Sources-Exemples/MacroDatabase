@@ -1,0 +1,17 @@
+{
+  "id": "WPU61110314",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Contract Work on Textile Products, Apparel, and Leather: Contract Work on Women's/Girls'/Infants' Skirts, Tailored Suits/Coats, Underwear/Nightwear, etc.",
+  "observation_start": "2007-06-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2007=100",
+  "units_short": "Index Jun 2007=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 07:59:44-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

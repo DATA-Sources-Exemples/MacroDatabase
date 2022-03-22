@@ -1,0 +1,17 @@
+{
+  "id": "WPU067505",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Toothpastes, Denture Cleaners, and Mouthwashes",
+  "observation_start": "1987-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 08:04:24-05",
+  "popularity": 3,
+  "group_popularity": 3
+}

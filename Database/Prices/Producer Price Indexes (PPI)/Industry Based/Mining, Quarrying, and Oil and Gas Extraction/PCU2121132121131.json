@@ -1,0 +1,17 @@
+{
+  "id": "PCU2121132121131",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Industry: Anthracite Mining: Run-of-Mine (Raw) Anthracite",
+  "observation_start": "1979-12-01",
+  "observation_end": "2018-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1979=100",
+  "units_short": "Index Dec 1979=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-05-09 07:55:14-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

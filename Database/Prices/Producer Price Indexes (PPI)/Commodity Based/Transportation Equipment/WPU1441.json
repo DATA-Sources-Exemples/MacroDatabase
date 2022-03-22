@@ -1,0 +1,17 @@
+{
+  "id": "WPU1441",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Transportation Equipment: Locomotives, New and Rebuilt, Including Parts",
+  "observation_start": "1984-07-01",
+  "observation_end": "2019-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-11-14 07:56:03-06",
+  "popularity": 2,
+  "group_popularity": 2
+}

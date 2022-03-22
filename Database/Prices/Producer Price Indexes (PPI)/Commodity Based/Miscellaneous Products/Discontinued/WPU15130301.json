@@ -1,0 +1,17 @@
+{
+  "id": "WPU15130301",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity for Miscellaneous Products: Small Arms Ammunition Primers (DISCONTINUED)",
+  "observation_start": "1985-06-01",
+  "observation_end": "2013-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1985=100",
+  "units_short": "Index Jun 1985=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-14 10:11:57-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

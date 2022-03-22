@@ -1,0 +1,18 @@
+{
+  "id": "CIS2020000405000I",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Employment Cost Index: Wages and salaries for Private industry workers in Construction, extraction, farming, fishing, and forestry occupations",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index Dec 2005=100",
+  "units_short": "Index Dec 2005=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-01-28 07:51:48-06",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "See Footnote T on https://www.bls.gov/ect/cimapnote.htm"
+}

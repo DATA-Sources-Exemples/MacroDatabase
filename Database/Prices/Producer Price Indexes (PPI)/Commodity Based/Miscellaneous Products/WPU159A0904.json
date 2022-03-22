@@ -1,0 +1,17 @@
+{
+  "id": "WPU159A0904",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Miscellaneous Products: Other Recyclable Materials",
+  "observation_start": "2011-12-01",
+  "observation_end": "2018-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-10-10 08:02:41-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

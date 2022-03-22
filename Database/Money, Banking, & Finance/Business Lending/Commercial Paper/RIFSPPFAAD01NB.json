@@ -1,0 +1,18 @@
+{
+  "id": "RIFSPPFAAD01NB",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Overnight AA Financial Commercial Paper Interest Rate",
+  "observation_start": "1998-01-02",
+  "observation_end": "2022-03-21",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-22 12:12:03-05",
+  "popularity": 18,
+  "group_popularity": 18,
+  "notes": "For more information, please see http://www.federalreserve.gov/releases/cp/about.htm."
+}

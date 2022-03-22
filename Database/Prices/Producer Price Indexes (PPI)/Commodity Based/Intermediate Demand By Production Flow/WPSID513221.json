@@ -1,0 +1,17 @@
+{
+  "id": "WPSID513221",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Intermediate Demand by Production Flow: Inputs to Stage 1 Construction Producers, Transportation of Passengers",
+  "observation_start": "2009-11-01",
+  "observation_end": "2020-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Nov 2009=100",
+  "units_short": "Index Nov 2009=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-01-15 08:04:08-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

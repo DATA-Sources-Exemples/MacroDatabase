@@ -1,0 +1,18 @@
+{
+  "id": "M12MTVUSM227NFWA",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Moving 12-Month Total Vehicle Miles Traveled",
+  "observation_start": "1970-12-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Miles",
+  "units_short": "Mil. of Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-17 14:37:01-06",
+  "popularity": 60,
+  "group_popularity": 61,
+  "notes": "Vehicle Miles Traveled and the 12-Month Moving Vehicle Miles Traveled series are created by appending the recent monthly figures from the FHA\u2019s Traffic Volume Trends to their Historic Monthly Vehicle Miles Traveled (VMT) data file."
+}

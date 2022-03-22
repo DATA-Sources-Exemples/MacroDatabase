@@ -1,0 +1,17 @@
+{
+  "id": "WPU12660601",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity for Furniture and Household Durables: Consumer Nonriding Lawn, Garden, and Snow Equipment",
+  "observation_start": "2003-06-01",
+  "observation_end": "2018-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2003=100",
+  "units_short": "Index Jun 2003=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-06-13 08:06:49-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

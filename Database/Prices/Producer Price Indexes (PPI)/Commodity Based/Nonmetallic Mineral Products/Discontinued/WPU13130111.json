@@ -1,0 +1,17 @@
+{
+  "id": "WPU13130111",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Machine-Made Pressed and Blown Lighting, Auto, and Electronic Glassware, Made by Glass Producers (DISCONTINUED)",
+  "observation_start": "1983-06-01",
+  "observation_end": "2012-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1983=100",
+  "units_short": "Index Jun 1983=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-14 10:17:17-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

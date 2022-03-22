@@ -1,0 +1,17 @@
+{
+  "id": "WPS1181",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Automatic Environmental Controls for Monitoring Residential, Commercial, and Appliance Use",
+  "observation_start": "1991-01-01",
+  "observation_end": "2016-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-11 11:25:41-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

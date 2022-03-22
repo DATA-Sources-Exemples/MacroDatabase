@@ -1,0 +1,17 @@
+{
+  "id": "WPU119307",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Office Machinery, Including Mailing, Letter Handling, and Addressing Machines and Parts",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-10 07:59:37-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

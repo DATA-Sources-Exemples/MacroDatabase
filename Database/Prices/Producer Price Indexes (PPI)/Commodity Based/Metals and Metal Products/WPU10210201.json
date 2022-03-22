@@ -1,0 +1,17 @@
+{
+  "id": "WPU10210201",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Copper and Nickel Ores",
+  "observation_start": "1991-07-01",
+  "observation_end": "2020-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1988=100",
+  "units_short": "Index Jun 1988=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-01-15 07:57:30-06",
+  "popularity": 1,
+  "group_popularity": 10
+}

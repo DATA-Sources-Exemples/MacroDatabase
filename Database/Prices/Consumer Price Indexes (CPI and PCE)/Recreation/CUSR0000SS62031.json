@@ -1,0 +1,17 @@
+{
+  "id": "CUSR0000SS62031",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Consumer Price Index for All Urban Consumers: Admission to Movies, Theaters, and Concerts in U.S. City Average",
+  "observation_start": "1999-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1997=100",
+  "units_short": "Index Dec 1997=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 07:38:13-06",
+  "popularity": 29,
+  "group_popularity": 30
+}

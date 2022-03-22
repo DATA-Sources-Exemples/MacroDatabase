@@ -1,0 +1,17 @@
+{
+  "id": "WPU012204",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Farm Products: Rye",
+  "observation_start": "1971-01-01",
+  "observation_end": "2021-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-14 07:55:49-06",
+  "popularity": 5,
+  "group_popularity": 5
+}

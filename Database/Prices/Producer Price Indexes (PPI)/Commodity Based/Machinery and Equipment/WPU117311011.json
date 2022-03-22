@@ -1,0 +1,17 @@
+{
+  "id": "WPU117311011",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Land Transportation Motors, Generators, and Control Equipment (Except Parts)",
+  "observation_start": "2014-12-01",
+  "observation_end": "2019-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2014=100",
+  "units_short": "Index Dec 2014=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-05-13 07:55:33-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

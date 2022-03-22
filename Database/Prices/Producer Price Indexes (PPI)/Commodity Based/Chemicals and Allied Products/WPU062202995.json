@@ -1,0 +1,17 @@
+{
+  "id": "WPU062202995",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Chemicals and Allied Products: All Other Inorganic Pigments",
+  "observation_start": "2008-12-01",
+  "observation_end": "2021-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2008=100",
+  "units_short": "Index Dec 2008=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-14 08:03:52-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

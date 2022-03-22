@@ -1,0 +1,17 @@
+{
+  "id": "WPU10830304",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Metals and Metal Products: Industrial Electric Lighting Fixtures, Including Parts and Accessories",
+  "observation_start": "2004-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2004=100",
+  "units_short": "Index Dec 2004=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 08:03:03-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

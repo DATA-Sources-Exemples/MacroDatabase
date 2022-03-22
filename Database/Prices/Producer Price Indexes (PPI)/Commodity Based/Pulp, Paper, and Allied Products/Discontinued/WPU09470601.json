@@ -1,0 +1,17 @@
+{
+  "id": "WPU09470601",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity for Pulp, Paper, and Allied Products: Other Commercial and General Job Printing (Letterpress) (DISCONTINUED)",
+  "observation_start": "1982-06-01",
+  "observation_end": "2009-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1982=100",
+  "units_short": "Index Jun 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-14 10:28:05-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,0 +1,17 @@
+{
+  "id": "WPU159A09",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Miscellaneous Products: All Other Miscellaneous Fabricated Products and Recyclable Materials",
+  "observation_start": "1985-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1985=100",
+  "units_short": "Index Dec 1985=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 08:01:37-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

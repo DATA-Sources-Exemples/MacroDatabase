@@ -1,0 +1,17 @@
+{
+  "id": "WPU11741102",
+  "realtime_start": "2022-03-22",
+  "realtime_end": "2022-03-22",
+  "title": "Producer Price Index by Commodity: Machinery and Equipment: Specialty Transformers, Except Fluorescent Lamp Ballasts",
+  "observation_start": "1989-01-01",
+  "observation_end": "2019-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982=100",
+  "units_short": "Index 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-02-14 07:52:16-06",
+  "popularity": 1,
+  "group_popularity": 1
+}
