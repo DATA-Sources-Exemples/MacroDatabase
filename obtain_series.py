@@ -3,7 +3,7 @@ import os
 
 import fred
 
-from config import misc
+from Config.config import misc
 
 
 def obtain_series_data(name, data):
