@@ -20,6 +20,13 @@ jobs:
       - name: Create File
         run: |
           echo "$(date +'%Y-%m-%dT%H:%M:%S')" > updated.txt
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update FRED IDs
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Auto update for FRED"
+      - name: fetch from master
+        run: git fetch origin main
+      - name: push code to master
+        run: git push origin HEAD:main
