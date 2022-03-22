@@ -22,7 +22,7 @@ jobs:
       - name: Collecting FRED series
         run: |
           echo Running File...
-          status=$(python obtain_series.py > config/log_series.txt 2>&1; echo $?)
+          status=$(python obtain_series.py ${{ secrets.VERY_SECRET_VALUE }} > config/log_series.txt 2>&1; echo $?)
           cat config/log_series.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
