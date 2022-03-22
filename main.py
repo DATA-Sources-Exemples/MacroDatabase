@@ -58,14 +58,17 @@ def get_fred_data(fred_id):
             category_parent = category
 
             while category_parent['categories'][0]['parent_id'] != 0:
-                category_parent = fred.categories(category_parent['categories'][0]['parent_id'])
+                try:
+                    category_parent = fred.categories(category_parent['categories'][0]['parent_id'])
 
-                id = category['categories'][0]['id']
-                name = category_parent['categories'][0]['name']
+                    id = category['categories'][0]['id']
+                    name = category_parent['categories'][0]['name']
 
-                parents_names.insert(0, name)
+                    parents_names.insert(0, name)
 
-                json.dump(name, open(f"IDs/{id}.json", "w"))
+                    json.dump(name, open(f"IDs/{id}.json", "w"))
+                except KeyError as error:
+                    return print(f"An error ocurred {error} for FRED ID {id}")
 
             folder = "Data/"
             for parent in parents_names:
