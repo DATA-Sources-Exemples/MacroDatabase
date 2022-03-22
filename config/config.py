@@ -1,6 +1,6 @@
 import json
 
-misc = json.load(open("misc.json", "r"))
+misc = json.load(open("config/misc.json", "r"))
 RESET = True
 
 
