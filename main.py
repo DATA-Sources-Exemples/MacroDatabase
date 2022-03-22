@@ -61,7 +61,7 @@ def get_fred_data(fred_id):
                 try:
                     category_parent = fred.categories(category_parent['categories'][0]['parent_id'])
 
-                    id = category['categories'][0]['id']
+                    id = category_parent['categories'][0]['id']
                     name = category_parent['categories'][0]['name']
 
                     parents_names.insert(0, name)
@@ -100,7 +100,7 @@ def obtain_series_data(child):
             path = f"{child['path']}/{series['id']}.json"
 
         json.dump(series, open(path, "w"))
-        print(f"Collecties {series} for {child['name']}")
+        print(f"Collected {series} for {child['name']}")
 
 
 if __name__ == "__main__":
