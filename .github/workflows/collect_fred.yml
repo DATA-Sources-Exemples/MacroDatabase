@@ -1,0 +1,25 @@
+name: Collect FRED
+on: [push]
+
+jobs:
+  Collect-FRED:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "FRED Data is collected"
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: run FRED IDs
+        run: |
+          python fred_ids.py
+      - name: Create File
+        run: |
+          echo "$(date +'%Y-%m-%dT%H:%M:%S')" > updated.txt
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update FRED IDs
