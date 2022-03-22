@@ -104,6 +104,9 @@ def obtain_series_data(child):
 
 
 if __name__ == "__main__":
+    if "Data" not in os.listdir():
+        os.mkdir("Data")
+
     fred.key(API_KEY)
     fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file]
 
