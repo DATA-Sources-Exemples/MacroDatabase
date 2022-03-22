@@ -96,7 +96,7 @@ fred.key(misc[214][43:75])
 if "Data" not in os.listdir():
     os.mkdir("Data")
 
-fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file and "_IDs.json" not in file][:100]
+fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file and "_IDs.json" not in file][:15]
 
 for fred_id in fred_ids:
     get_fred_data(fred_id)
