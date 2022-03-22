@@ -1,6 +1,31 @@
-Traceback (most recent call last):
-  File "create_folders.py", line 7, in <module>
-    from config.config import misc, RESET
-  File "/home/runner/work/MacroDatabase/MacroDatabase/config/config.py", line 3, in <module>
-    misc = json.load(open("misc.json", "r"))
-FileNotFoundError: [Errno 2] No such file or directory: 'misc.json'
+RESET is set to True thus emptying all IDs
+Attempting Fred ID 27283
+Alaska (27283) already collected.
+Attempting Fred ID 32807
+Serbia (32807) already collected.
+Attempting Fred ID 29665
+Pike County, PA (29665) already collected.
+Attempting Fred ID 33217
+Labor Force Participation Rate (33217) already collected.
+Attempting Fred ID 29663
+Perry County, PA (29663) already collected.
+Attempting Fred ID 33743
+Aleutian Islands Census Area (33743) already collected.
+Attempting Fred ID 29125
+Belknap County, NH (29125) already collected.
+Attempting Fred ID 31589
+Basic Trading Areas (31589) already collected.
+Attempting Fred ID 30970
+Cumberland, MD-WV (30970) already collected.
+Attempting Fred ID 28053
+Clinton County, IN (28053) already collected.
+Attempting Fred ID 30495
+Vernon County, WI (30495) already collected.
+Attempting Fred ID 1069
+Butler County, MO (1069) already collected.
+Attempting Fred ID 33236
+Imports (33236) already collected.
+Attempting Fred ID 33580
+Special Indexes (33580) already collected.
+Attempting Fred ID 28469
+Bossier Parish, LA (28469) already collected.
