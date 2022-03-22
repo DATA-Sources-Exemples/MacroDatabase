@@ -4,7 +4,7 @@ import time
 
 import fred
 
-from Config.config import misc, RESET
+from config.config import misc, RESET
 
 
 def get_fred_data(fred_id):
