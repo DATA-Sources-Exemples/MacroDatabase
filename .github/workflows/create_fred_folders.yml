@@ -1,8 +1,8 @@
-name: Collect FRED
+name: Create FRED Folders
 on: [push]
 
 jobs:
-  Collect-FRED:
+  Create-Fred-Folders:
     runs-on: ubuntu-latest
     steps:
       - run: echo "FRED Data is collected"
@@ -14,10 +14,10 @@ jobs:
           python-version: 3.8
           cache: 'pip'
       - run: pip install -r requirements.txt
-      - name: Collect data
+      - name: Creating folders
         run: |
           echo Running File...
-          status=$(python main.py > log.txt 2>&1; echo $?)
+          status=$(python create_folders.py > log.txt 2>&1; echo $?)
           cat log.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
