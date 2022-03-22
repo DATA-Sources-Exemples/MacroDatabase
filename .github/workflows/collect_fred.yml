@@ -1,5 +1,4 @@
 name: Collect FRED
-on: [push]
 
 jobs:
   Collect-FRED:
