@@ -86,7 +86,7 @@ def get_fred_data(fred_id):
 
 
 def obtain_series_data(child):
-    print(f"Attempting {child['name']} ({child['id']})..")
+    print(f"Attempting {child['name']} ({str(child['id'])})..")
     fred_id = child['id']
     children = fred.category_series(fred_id)['seriess']
 
