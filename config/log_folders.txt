@@ -1,6 +1,16 @@
-Traceback (most recent call last):
-  File "create_folders.py", line 7, in <module>
-    from config.config import misc, RESET
-  File "/home/runner/work/MacroDatabase/MacroDatabase/config/config.py", line 3, in <module>
-    misc = json.load(open("misc.json", "r"))
-FileNotFoundError: [Errno 2] No such file or directory: 'misc.json'
+RESET is set to True thus emptying all IDs
+Attempting Fred ID 27283
+Attempting Fred ID 32807
+Attempting Fred ID 29665
+Attempting Fred ID 33217
+Attempting Fred ID 29663
+Attempting Fred ID 33743
+Attempting Fred ID 29125
+Attempting Fred ID 31589
+Attempting Fred ID 30970
+Attempting Fred ID 28053
+Attempting Fred ID 30495
+Attempting Fred ID 1069
+Attempting Fred ID 33236
+Attempting Fred ID 33580
+Attempting Fred ID 28469
