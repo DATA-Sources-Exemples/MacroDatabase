@@ -1,5 +1,10 @@
 name: Collect Series
-on: [push]
+on:
+  workflow_run:
+    workflows: ["Create FRED Folders"]
+    branches: [main]
+    types: 
+      - completed
 
 jobs:
   Create-Fred-Folders:
