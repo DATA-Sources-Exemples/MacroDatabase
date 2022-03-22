@@ -21,7 +21,7 @@ def obtain_series_data(name, data):
             else:
                 path = f"{data['path']}/{series['id']}.json"
 
-            json.dump(series, open(path, "w"))
+            json.dump(series, open(path, "w"), indent=2)
             print(f"Collected {series} for {data['name']}")
     except KeyError:
         return print(f"Not able to collect data for {name}")
