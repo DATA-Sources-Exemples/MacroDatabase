@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "create_folders.py", line 7, in <module>
+    from config.config import misc, RESET
+  File "/home/runner/work/MacroDatabase/MacroDatabase/config/config.py", line 3, in <module>
+    misc = json.load(open("misc.json", "r"))
+FileNotFoundError: [Errno 2] No such file or directory: 'misc.json'
