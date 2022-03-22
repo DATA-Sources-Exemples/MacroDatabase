@@ -14,13 +14,13 @@ jobs:
           python-version: 3.8
           cache: 'pip'
       - run: pip install -r requirements.txt
-      - name: run Main Scraper
+      - name: Collect data
         run: |
           echo Running File...
           status=$(python main.py > log.txt 2>&1; echo $?)
           cat log.txt
           echo ::set-output name=status::$status
-      - name: Commit log
+      - name: Commit files and log
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
@@ -31,16 +31,3 @@ jobs:
       - name: Check run status
         if: steps.run.outputs.status != '0'
         run: exit "${{ steps.run.outputs.status }}"
-      - name: Create File
-        run: |
-          echo "$(date +'%Y-%m-%dT%H:%M:%S')" > updated.txt
-      - name: check for changes
-        run: git status
-      - name: stage changed files
-        run: git add .
-      - name: commit changed files
-        run: git commit -m "Auto update for FRED"
-      - name: fetch from master
-        run: git fetch origin main
-      - name: push code to master
-        run: git push origin HEAD:main
