@@ -75,6 +75,10 @@ def get_fred_data(fred_id):
                 if parent not in os.listdir(folder):
                     try:
                         os.mkdir(f"{folder}/{parent}")
+
+                        with open(f"{folder}/{parent}/README.md", mode='a'):
+                            pass
+
                     except FileNotFoundError:
                         return print(f"The folder {folder}/{parent} does not exist yet.")
 
