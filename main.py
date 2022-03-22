@@ -108,7 +108,7 @@ if __name__ == "__main__":
         os.mkdir("Data")
 
     fred.key(API_KEY)
-    fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file]
+    fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file][:10]
 
     for fred_id in fred_ids:
         get_fred_data(fred_id)
