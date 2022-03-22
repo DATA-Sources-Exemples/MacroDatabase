@@ -1,18 +1,16 @@
-Attempting Fred ID 27283
-FRED ID 32807 already acquired
-Attempting Fred ID 29665
-FRED ID 33217 already acquired
-Attempting Fred ID 29663
-FRED ID 33743 already acquired
-Attempting Fred ID 29125
-Attempting Fred ID 31589
-Attempting Fred ID 30970
-Attempting Fred ID 28053
+FRED ID 27283 already acquired
+Attempting Fred ID 32807
+FRED ID 29665 already acquired
+Attempting Fred ID 33217
+FRED ID 29663 already acquired
+Attempting Fred ID 33743
+FRED ID 29125 already acquired
+FRED ID 31589 already acquired
+FRED ID 30970 already acquired
+FRED ID 28053 already acquired
 Traceback (most recent call last):
-  File "main.py", line 120, in <module>
-    json_data[file.strip(".json")] = json.load(open(f"IDs/{file}", "r"))
-  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/json/__init__.py", line 293, in load
-    return loads(fp.read(),
-  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/codecs.py", line 322, in decode
-    (result, consumed) = self._buffer_decode(data, self.errors, final)
-UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 3131: invalid start byte
+  File "main.py", line 138, in <module>
+    obtain_series_data(child)
+  File "main.py", line 89, in obtain_series_data
+    print(f"Attempting {child['name']} ({child['id']})..")
+TypeError: string indices must be integers
