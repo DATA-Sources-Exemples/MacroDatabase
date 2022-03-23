@@ -1,13 +1,16 @@
 import json
 import os
 import time
+import multiprocessing as mp
 
 import fred
 
-from config.config import misc, RESET
+from logs.config import API_KEYS
+RESET = False
 
 
 def get_fred_data(fred_id):
+    fred.key(API_KEYS[int(mp.current_process().name[-1]) - 1])
     json_file = json.load(open(f"IDs/{fred_id}.json", "r"))
 
     if json_file:
@@ -30,6 +33,8 @@ def get_fred_data(fred_id):
 
                     if "error_message" in category.keys():
                         error_message = category['error_message']
+                    else:
+                        error_message = None
 
                     if counter == 6:
                         counter = 0
@@ -40,17 +45,19 @@ def get_fred_data(fred_id):
         id = category['categories'][0]['id']
         name = category['categories'][0]['name']
         parent_id = category['categories'][0]['parent_id']
-        json.dump(name, open(f"IDs/{fred_id}.json", "w"))
+
+        json.dump({'name': name, 'id': id}, open(f"IDs/{fred_id}.json", "w"))
 
         if parent_id == 0 and name not in category:
             print(f"Skipping {name}")
         else:
-            data_names = [x[0] for x in os.walk("Data")]
+            data_names = [x[0] for x in os.walk("Database")]
 
             for x in data_names:
                 split_list = x.split("/")
 
                 if name in split_list:
+                    json.dump({'name': name, 'id': id}, open(f"IDs/{fred_id}.json", "w"))
                     return print(f"{name} ({id}) already collected.")
 
             parents_names = [name]
@@ -65,11 +72,11 @@ def get_fred_data(fred_id):
 
                     parents_names.insert(0, name)
 
-                    json.dump(name, open(f"IDs/{id}.json", "w"))
+                    json.dump({'name': name, 'id': id}, open(f"IDs/{fred_id}.json", "w"))
                 except KeyError as error:
                     return print(f"An error ocurred {error} for FRED ID {id}")
 
-            folder = "Data/"
+            folder = "Database/"
             for parent in parents_names:
                 if parent not in os.listdir(folder):
                     try:
@@ -83,20 +90,23 @@ def get_fred_data(fred_id):
 
                 folder += f"{parent}/"
 
+def activate_get_fred_data():
+    pool = mp.Pool(8)
+    result = pool.map(get_fred_data, fred_ids)
 
-if RESET:
-    print(f"RESET is set to {RESET} thus emptying all IDs")
-    for file in os.listdir("IDs"):
-        if file == "_IDs.json":
-            os.remove(f"IDs/{file}")
-        else:
-            json.dump("", open(f"IDs/{file}", "w"))
 
-fred.key(misc[214][43:75])
-if "Data" not in os.listdir():
-    os.mkdir("Data")
+if __name__ == "__main__":
+    if RESET:
+        print(f"RESET is set to {RESET} thus emptying all IDs")
+        for file in os.listdir("IDs"):
+            if file == "_IDs.json":
+                os.remove(f"IDs/{file}")
+            else:
+                json.dump("", open(f"IDs/{file}", "w"))
 
-fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file and "_IDs.json" not in file][:200]
+    if "Database" not in os.listdir():
+        os.mkdir("Database")
 
-for fred_id in fred_ids:
-    get_fred_data(fred_id)
+    fred_ids = [int(file.strip(".json")) for file in os.listdir("IDs") if ".json" in file and "_IDs.json" not in file]
+
+    activate_get_fred_data()

@@ -7,4 +7,4 @@ API_KEYS = ["6fa40707f1690bbcf91356c2ba07dab5",
             "0ef83f1e1e62ad54109159faebf1a968",
             "145de318472b5f21d6c4037f7694e483"]
 
-RESET = False
+
