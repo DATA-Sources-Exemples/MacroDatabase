@@ -48,5 +48,5 @@ for irow, (idx, row) in enumerate(df.iterrows()):
 df_print[0] = df_print[0].apply(lambda x: "{:,}".format(x).rjust(15))
 
 print(tabulate(
-    df_print, tablefmt="github", headers=['Category', "Sub-Category", "Amount of Files"],
+    df_print, tablefmt="github", headers=['Category', "Sub-Category", "Files"],
     colalign=("left", "left", "right"), showindex=False))
