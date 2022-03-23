@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Methodology/obtain_series.py", line 7, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
