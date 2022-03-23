@@ -17,14 +17,12 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - name: Get date
-        run: echo ”::set-output name=date::$(date+’%Y/%m/%d’)”
+        run: echo "::set-output name=today::$(date +'%Y-%m-%d')"
       - name: Collecting FRED series
-        env:
-          SUPER_SECRET: ${{ secrets.VERY_SECRET_VALUE }}
         run: |
           echo Running File...
-          status=$(python obtain_series.py "$SUPER_SECRET > config/log_series.txt 2>&1; echo $?)
-          cat config/log_series.txt
+          status=$(python obtain_series.py ${{ secrets.VERY_SECRET_VALUE }} > config/${{ steps.date.outputs.today }}.txt 2>&1; echo $?)
+          cat config/${{ steps.date.outputs.today }}.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
         run: |
