@@ -11,9 +11,9 @@ DELETE_JSON = True
 
 
 def obtain_series_data(dictionary):
-    print(f"Attempting {name} ({data['id']})")
     name = dictionary[0]
     data = dictionary[1]
+    print(f"Attempting {name} ({data['id']})")
 
     fred_id = data['id']
 
