@@ -1,0 +1,18 @@
+{
+  "id": "STTMINWGNJ",
+  "realtime_start": "2022-03-23",
+  "realtime_end": "2022-03-23",
+  "title": "State Minimum Wage Rate for New Jersey",
+  "observation_start": "1968-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-01 13:33:04-06",
+  "popularity": 40,
+  "group_popularity": 40,
+  "notes": "State minimum wage is changed annually based on changes in the CPI and a cost of living formula.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
+}
