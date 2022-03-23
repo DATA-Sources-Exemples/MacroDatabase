@@ -100,3 +100,5 @@ if __name__ == "__main__":
 
     for child, data in children_directories.items():
         obtain_series_data((child, data))
+
+    print("All done!")
