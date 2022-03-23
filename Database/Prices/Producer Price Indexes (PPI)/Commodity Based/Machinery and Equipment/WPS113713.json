@@ -1,7 +1,7 @@
 {
   "id": "WPS113713",
-  "realtime_start": "2022-03-22",
-  "realtime_end": "2022-03-22",
+  "realtime_start": "2022-03-23",
+  "realtime_end": "2022-03-23",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Metal Grinding, Polishing, Buffing, Honing, and Lapping Machines",
   "observation_start": "1988-01-01",
   "observation_end": "2015-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:06-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

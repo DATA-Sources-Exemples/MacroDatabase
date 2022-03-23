@@ -1,7 +1,7 @@
 {
   "id": "WPS1191",
-  "realtime_start": "2022-03-22",
-  "realtime_end": "2022-03-22",
+  "realtime_start": "2022-03-23",
+  "realtime_end": "2022-03-23",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Oil Field and Gas Field Machinery (DISCONTINUED)",
   "observation_start": "1994-01-01",
   "observation_end": "2007-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:39:17-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }
