@@ -4,6 +4,7 @@ import time
 
 from natsort import natsorted
 import sys
+from tqdm import tqdm
 
 import fred
 
@@ -52,10 +53,14 @@ if __name__ == "__main__":
     if DELETE_JSON:
         print(f"Because DELETE_JSON is set to {DELETE_JSON}, removing all JSON files within the Database.")
         for directory_path, directory_names, directory_files in os.walk(path):
-            if len(directory_names) == 0:
+            if len(directory_names) == 0 or len(directory_names) == 1 and directory_names[0] == "Discontinued":
+                print(f"Removing JSON files from {directory_path}")
                 for file in directory_files:
                     if ".json" in file:
                         os.remove(f"{directory_path}/{file}")
+
+                with open(f"{directory_path}/README.md", mode='a'):
+                    pass
 
     json_data = {}
     fred.key(SUPER_SECRET)

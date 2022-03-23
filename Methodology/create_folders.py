@@ -86,9 +86,11 @@ def get_fred_data(fred_id):
                             pass
 
                     except FileNotFoundError:
+
                         return print(f"The folder {folder}/{parent} does not exist yet.")
 
                 folder += f"{parent}/"
+
 
 def activate_get_fred_data():
     pool = mp.Pool(8)
