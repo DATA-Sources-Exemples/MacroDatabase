@@ -5,7 +5,7 @@ import multiprocessing as mp
 
 import fred
 
-from logs.config import API_KEYS
+from config import API_KEYS
 RESET = False
 
 

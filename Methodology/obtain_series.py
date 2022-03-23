@@ -7,6 +7,8 @@ import sys
 
 import fred
 
+DELETE_JSON = True
+
 
 def obtain_series_data(dictionary):
     name = dictionary[0]
@@ -45,6 +47,15 @@ def obtain_series_data(dictionary):
 
 if __name__ == "__main__":
     SUPER_SECRET = sys.argv[1]
+    path = "Database"
+
+    if DELETE_JSON:
+        print(f"Because DELETE_JSON is set to {DELETE_JSON}, removing all JSON files within the Database.")
+        for directory_path, directory_names, directory_files in os.walk(path):
+            if len(directory_names) == 0:
+                for file in directory_files:
+                    if ".json" in file:
+                        os.remove(f"{directory_path}/{file}")
 
     json_data = {}
     fred.key(SUPER_SECRET)
@@ -60,7 +71,6 @@ if __name__ == "__main__":
         json_data_sorted[number] = json_data[number]
     json.dump(json_data_sorted, open(f"IDs/_IDs.json", "w"), indent=2)
 
-    path = "Database"
     children_directories = {}
 
     for directory_path, directory_names, _ in os.walk(path):
