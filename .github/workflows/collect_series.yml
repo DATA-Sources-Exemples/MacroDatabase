@@ -23,7 +23,7 @@ jobs:
       - name: Collecting FRED series
         run: |
           echo Running File...
-          status=$(python Methodology/obtainsda_series.py ${{ secrets.VERY_SECRET_VALUE }} > logs/${{ env.MY_DATE }}.txt 2>&1; echo $?)
+          status=$(python Methodology/obtain_series.py ${{ secrets.VERY_SECRET_VALUE }} > logs/${{ env.MY_DATE }}.txt 2>&1; echo $?)
           cat logs/${{ steps.date.outputs.today }}.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
