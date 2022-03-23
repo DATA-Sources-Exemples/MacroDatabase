@@ -4,7 +4,6 @@ import time
 
 from natsort import natsorted
 import sys
-from tqdm import tqdm
 
 import fred
 
