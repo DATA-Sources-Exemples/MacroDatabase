@@ -11,11 +11,17 @@ DELETE_JSON = True
 
 
 def obtain_series_data(dictionary):
+    print(f"Attempting {name} ({data['id']})")
     name = dictionary[0]
     data = dictionary[1]
 
     fred_id = data['id']
-    children = fred.category_series(fred_id)
+
+    try:
+        children = fred.category_series(fred_id)
+    except json.decoder.JSONDecodeError:
+        return print(f"Not able to get data for {name} ({data['id']}")
+
     if 'error_message' in children.keys():
         error_message = children['error_message']
 
@@ -30,7 +36,6 @@ def obtain_series_data(dictionary):
                 else:
                     error_message = None
 
-    print(f"Attempting {name} ({data['id']})")
     children = children['seriess']
 
     if "Discontinued" not in os.listdir(data['path']):
