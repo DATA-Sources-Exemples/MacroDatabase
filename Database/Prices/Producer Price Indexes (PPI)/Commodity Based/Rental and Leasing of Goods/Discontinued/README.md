@@ -1,2 +1,10 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                                       | observation_start   | observation_end   |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS4423     | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED) | 2008-12-01          | 2015-09-01        |
+| WPS442301   | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED) | 2008-12-01          | 2015-09-01        |
+| WPU4422     | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)                          | 2009-03-01          | 2015-09-01        |
+| WPU4423     | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED) | 2008-12-01          | 2015-09-01        |
+| WPU442201   | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)                          | 2009-03-01          | 2015-09-01        |
+| WPU442301   | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED) | 2008-12-01          | 2015-09-01        |
+| WPU44220101 | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)                          | 2009-03-01          | 2015-09-01        |
+| WPU44230101 | Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED) | 2008-12-01          | 2015-09-01        |

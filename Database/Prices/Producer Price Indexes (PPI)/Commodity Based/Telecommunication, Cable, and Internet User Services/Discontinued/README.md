@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                                                                 | observation_start   | observation_end   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPU37120201 | Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Long Distance Business Wired Telephone Service, Domestic (DISCONTINUED)      | 2009-04-01          | 2011-12-01        |
+| WPU37120202 | Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Long Distance Business Wired Telephone Service, International (DISCONTINUED) | 2009-04-01          | 2011-12-01        |
+| WPU37130103 | Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Other Toll Service (DISCONTINUED)                                            | 2008-12-01          | 2011-12-01        |
+| WPU37130104 | Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Other Telephone Services (DISCONTINUED)                                      | 2008-12-01          | 2011-12-01        |

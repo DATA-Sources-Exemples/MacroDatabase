@@ -1,2 +1,27 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                                | observation_start   | observation_end   |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA41700Q156N   | CredAbility Consumer Distress Index for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
+| INTINCOMESAT       | Net Interest Income for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSRSAT            | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| LLSSAT             | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| NIMSAT             | Net Interest Margin for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| NISAT              | Net Income for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| PCRGMP41700        | Total Per Capita Real Gross Domestic Product for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROASAT             | Return on Average Assets for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SANEDUHA175AFRBDAL | Education and Health Services Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                              | 1990-01-01          | 2016-01-01        |
+| SANFIREA175AFRBDAL | Financial Activities Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2016-01-01        |
+| SANGOODA175AFRBDAL | Goods Producing Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                            | 1990-01-01          | 2016-01-01        |
+| SANGOVTA175AFRBDAL | Government Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                                 | 1990-01-01          | 2016-01-01        |
+| SANINFOA175AFRBDAL | Information Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2016-01-01        |
+| SANLEIHA175AFRBDAL | Leisure and Hospitality Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                    | 1990-01-01          | 2016-01-01        |
+| SANMANUA175AFRBDAL | Manufacturing Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                              | 1990-01-01          | 2016-01-01        |
+| SANNRMCA175AFRBDAL | Construction, Mining and Natural Resources Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                 | 1990-01-01          | 2016-01-01        |
+| SANPBSVA175AFRBDAL | Professional and Business Services Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                         | 1990-01-01          | 2016-01-01        |
+| SANPRIVA175AFRBDAL | Private Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                                    | 1990-01-01          | 2016-01-01        |
+| SANSA175AFRBDAL    | Total Nonfarm Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                              | 1990-01-01          | 2016-01-01        |
+| SANSERPA175AFRBDAL | Service-Providing Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2016-01-01        |
+| SANSRVOA175AFRBDAL | Other Services Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2016-01-01        |
+| SANTTULA175AFRBDAL | Trade, Transportation, and Utilities Payroll Employment for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                       | 1990-01-01          | 2016-01-01        |
+| SATAGRIDX          | Economic Conditions Index for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| TOTASSETSAT        | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANSAT         | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

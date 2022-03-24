@@ -1,2 +1,16 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                         | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA41740Q156N       | CredAbility Consumer Distress Index for San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                                | 2005-01-01          | 2013-01-01        |
+| INTINCOMESDI           | Net Interest Income for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSRSDI                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| LLSSDI                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| NIMSDI                 | Net Interest Margin for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| NISDI                  | Net Income for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| PCRGMP41740            | Total Per Capita Real Gross Domestic Product for San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROASDI                 | Return on Average Assets for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SDIAGRIDX              | Economic Conditions Index for San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| SMU06417407072251101   | All Employees: Full-Service Restaurants in San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                             | 1990-01-01          | 2014-12-01        |
+| SMU06417407072251101A  | All Employees: Full-Service Restaurants in San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                             | 1990-01-01          | 2013-01-01        |
+| SMU06417407072251101SA | All Employees: Full-Service Restaurants in San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                             | 1990-01-01          | 2014-12-01        |
+| TOTASSETSDI            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANSDI             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in San Diego-Carlsbad, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

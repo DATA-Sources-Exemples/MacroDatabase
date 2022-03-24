@@ -1,2 +1,13 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id           | title                                                                                                                                                                     | observation_start   | observation_end   |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS08        | Producer Price Index by Commodity: Lumber and Wood Products (DISCONTINUED)                                                                                                | 1967-01-01          | 1974-12-01        |
+| WPS083       | Producer Price Index by Commodity: Lumber and Wood Products: Plywood (DISCONTINUED)                                                                                       | 1967-01-01          | 1989-12-01        |
+| WPS0812      | Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Lumber (DISCONTINUED)                                                                               | 1975-01-01          | 2003-12-01        |
+| WPS0822      | Producer Price Index by Commodity: Lumber and Wood Products: Prefabricated Structural Members (DISCONTINUED)                                                              | 1975-01-01          | 2006-12-01        |
+| WPS0831      | Producer Price Index by Commodity: Lumber and Wood Products: Softwood Veneer and Plywood (DISCONTINUED)                                                                   | 1975-01-01          | 1989-12-01        |
+| WPS0842      | Producer Price Index by Commodity: Lumber and Wood Products: Wood Boxes (DISCONTINUED)                                                                                    | 1975-01-01          | 1993-12-01        |
+| WPS081203    | Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Cut Stock and Dimension (DISCONTINUED)                                                              | 1994-01-01          | 1996-12-01        |
+| WPS081205    | Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Lumber, Not Edge Worked (DISCONTINUED)                                                              | 2004-01-01          | 2008-12-01        |
+| WPS082201    | Producer Price Index by Commodity: Lumber and Wood Products: Prefabricated Structural Members (DISCONTINUED)                                                              | 1998-01-01          | 2006-12-01        |
+| WPS084201    | Producer Price Index by Commodity: Lumber and Wood Products: Wood Boxes (DISCONTINUED)                                                                                    | 1991-01-01          | 1993-12-01        |
+| WPU083501043 | Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Plywood, Excluding Prefinished Hardwood Plywood Made from Purchased Hardwood Plywood (DISCONTINUED) | 2011-12-01          | 2012-12-01        |

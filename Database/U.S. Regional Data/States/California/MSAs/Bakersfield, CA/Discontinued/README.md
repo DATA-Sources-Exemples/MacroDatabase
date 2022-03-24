@@ -1,2 +1,16 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                  | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BAKAGRIDX              | Economic Conditions Index for Bakersfield, CA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| CCDIOA12540Q156N       | CredAbility Consumer Distress Index for Bakersfield-Delano, CA (MSA) (DISCONTINUED)                                    | 2005-01-01          | 2013-01-01        |
+| INTINCOMEBAK           | Net Interest Income for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSBAK                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRBAK                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NIBAK                  | Net Income for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| NIMBAK                 | Net Interest Margin for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| PCRGMP12540            | Total Per Capita Real Gross Domestic Product for Bakersfield, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROABAK                 | Return on Average Assets for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU06125407072259001   | All Employees: Limited-Service Eating Places in Bakersfield-Delano, CA (MSA) (DISCONTINUED)                            | 1990-01-01          | 2014-12-01        |
+| SMU06125407072259001A  | All Employees: Limited-Service Eating Places in Bakersfield-Delano, CA (MSA) (DISCONTINUED)                            | 1990-01-01          | 2013-01-01        |
+| SMU06125407072259001SA | All Employees: Limited-Service Eating Places in Bakersfield-Delano, CA (MSA) (DISCONTINUED)                            | 1990-01-01          | 2014-12-01        |
+| TOTASSETBAK            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANBAK             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Bakersfield, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

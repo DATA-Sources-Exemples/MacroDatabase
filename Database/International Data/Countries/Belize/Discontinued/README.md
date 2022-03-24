@@ -1,2 +1,14 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id             | title                                                                                                                                                         | observation_start   | observation_end   |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| IBANAINIAIBZ   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Belize (DISCONTINUED)                                             | 2002-07-01          | 2003-04-01        |
+| IBANAINIAOBZ   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Belize (DISCONTINUED)                                           | 2002-07-01          | 2015-01-01        |
+| IBANAININIBZ   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Belize (DISCONTINUED)                                                   | 2002-07-01          | 2015-04-01        |
+| IBANRIAIBZ     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Belize (DISCONTINUED)                                               | 2002-04-01          | 2003-04-01        |
+| IBANRIAOBZ     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Belize (DISCONTINUED)                                             | 2002-04-01          | 2015-01-01        |
+| IBANRINIBZ     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Belize (DISCONTINUED)                                                     | 2002-04-01          | 2015-04-01        |
+| IDS1MNIAOGGBZ  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Belize (DISCONTINUED)         | 2006-01-01          | 2015-01-01        |
+| IDS1YMAORIFCBZ | Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Residence of Issuer in Belize (DISCONTINUED)       | 2011-04-01          | 2012-01-01        |
+| IDSGGGAMNIAOBZ | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Belize (DISCONTINUED)  | 2002-07-01          | 2015-01-01        |
+| IDSGGGAMNINIBZ | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Belize (DISCONTINUED)          | 2002-07-01          | 2015-04-01        |
+| IDSOFAMRIAOBZ  | Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Belize (DISCONTINUED) | 2002-04-01          | 2012-01-01        |
+| IDSOFAMRINIBZ  | Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Belize (DISCONTINUED)         | 2002-04-01          | 2012-04-01        |

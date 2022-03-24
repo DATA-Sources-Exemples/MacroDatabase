@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                       | observation_start   | observation_end   |
+|-------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPU30140101 | Producer Price Index by Commodity for Transportation Services: Air Transportation of Freight (DISCONTINUED) | 2008-12-01          | 2016-01-01        |

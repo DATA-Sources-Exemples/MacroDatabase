@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                                                     | observation_start   | observation_end   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS3311     | Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Books (DISCONTINUED)                                                    | 1983-01-01          | 2008-12-01        |
+| WPU33120201 | Producer Price Index by Commodity for Publishing Sales, Excluding Software: Sales and Subscriptions of Newspapers, Daily and Sunday Papers (DISCONTINUED) | 1999-06-01          | 2015-09-01        |
+| WPU33120202 | Producer Price Index by Commodity for Publishing Sales, Excluding Software: Sales and Subscriptions of Newspapers, Weekly and Other Papers (DISCONTINUED) | 1999-06-01          | 2014-04-01        |

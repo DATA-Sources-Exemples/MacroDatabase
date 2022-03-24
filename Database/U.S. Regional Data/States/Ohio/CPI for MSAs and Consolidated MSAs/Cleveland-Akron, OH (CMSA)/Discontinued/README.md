@@ -1,2 +1,103 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                   | observation_start   | observation_end   |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUURA210SA0     | Consumer Price Index for All Urban Consumers: All Items in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                    | 1914-12-01          | 2017-11-01        |
+| CUURA210SA0E    | Consumer Price Index for All Urban Consumers: Energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                       | 1978-02-01          | 2017-12-01        |
+| CUURA210SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)               | 1982-02-01          | 2017-11-01        |
+| CUURA210SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                       | 1975-11-01          | 2017-11-01        |
+| CUURA210SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1966-11-01          | 2017-11-01        |
+| CUURA210SA0LE   | Consumer Price Index for All Urban Consumers: All Items Less Energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                        | 1978-02-01          | 2017-11-01        |
+| CUURA210SAA     | Consumer Price Index for All Urban Consumers: Apparel in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                      | 1952-11-01          | 2017-11-01        |
+| CUURA210SAC     | Consumer Price Index for All Urban Consumers: Commodities in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 1966-11-01          | 2017-11-01        |
+| CUURA210SACL1   | Consumer Price Index for All Urban Consumers: Commodities Less Food in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                        | 1966-11-01          | 2017-11-01        |
+| CUURA210SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)          | 1975-11-01          | 2017-11-01        |
+| CUURA210SAD     | Consumer Price Index for All Urban Consumers: Durables in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                     | 1966-11-01          | 2017-11-01        |
+| CUURA210SAE     | Consumer Price Index for All Urban Consumers: Education and Communication in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1997-12-01          | 2017-11-01        |
+| CUURA210SAEC    | Consumer Price Index for All Urban Consumers: Education and Communication Commodities in Cleveland-Akron, OH (CMSA) (DISCONTINUED)      | 2010-01-01          | 2017-11-01        |
+| CUURA210SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)         | 2010-01-01          | 2017-11-01        |
+| CUURA210SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                           | 1975-11-01          | 2017-11-01        |
+| CUURA210SAF1    | Consumer Price Index for All Urban Consumers: Food in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                         | 1914-12-01          | 2017-11-01        |
+| CUURA210SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                 | 1953-01-01          | 2017-12-01        |
+| CUURA210SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                          | 1975-11-01          | 2017-11-01        |
+| CUURA210SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                     | 1975-11-01          | 2017-11-01        |
+| CUURA210SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 2010-01-01          | 2017-11-01        |
+| CUURA210SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                      | 2010-01-01          | 2017-11-01        |
+| CUURA210SAH     | Consumer Price Index for All Urban Consumers: Housing in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                      | 1975-11-01          | 2017-11-01        |
+| CUURA210SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                      | 1952-11-01          | 2017-12-01        |
+| CUURA210SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                          | 1952-11-01          | 2017-11-01        |
+| CUURA210SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Cleveland-Akron, OH (CMSA) (DISCONTINUED)         | 1975-11-01          | 2017-11-01        |
+| CUURA210SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                             | 1976-01-01          | 2017-12-01        |
+| CUURA210SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Cleveland-Akron, OH (CMSA) (DISCONTINUED)           | 2010-01-01          | 2017-11-01        |
+| CUURA210SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                 | 1947-01-01          | 2017-11-01        |
+| CUURA210SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 1966-11-01          | 2017-11-01        |
+| CUURA210SANL1   | Consumer Price Index for All Urban Consumers: Nondurables Less Food in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                        | 1966-11-01          | 2017-11-01        |
+| CUURA210SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)          | 1975-11-01          | 2017-11-01        |
+| CUURA210SAR     | Consumer Price Index for All Urban Consumers: Recreation in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                   | 1997-12-01          | 2017-11-01        |
+| CUURA210SAS     | Consumer Price Index for All Urban Consumers: Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                     | 1966-11-01          | 2017-11-01        |
+| CUURA210SASL2RS | Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                | 1982-12-01          | 2017-11-01        |
+| CUURA210SASL5   | Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)          | 1966-11-01          | 2017-11-01        |
+| CUURA210SAT     | Consumer Price Index for All Urban Consumers: Transportation in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                               | 1947-01-01          | 2017-11-01        |
+| CUURA210SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                       | 1947-01-01          | 2017-11-01        |
+| CUURA210SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Cleveland-Akron, OH (CMSA) (DISCONTINUED)   | 2010-01-01          | 2017-11-01        |
+| CUURA210SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                          | 1952-12-01          | 2017-11-01        |
+| CUURA210SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                    | 1914-12-01          | 2017-12-01        |
+| CUURA210SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Cleveland-Akron, OH (CMSA) (DISCONTINUED)        | 1982-12-01          | 2017-12-01        |
+| CUURA210SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Cleveland-Akron, OH (CMSA) (DISCONTINUED) | 1982-12-01          | 2017-12-01        |
+| CUURA210SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                              | 1935-03-01          | 2017-12-01        |
+| CUURA210SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 1971-05-01          | 2017-12-01        |
+| CUURA210SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1971-05-01          | 2017-12-01        |
+| CUURA210SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                   | 1978-02-01          | 2017-12-01        |
+| CUURA210SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                         | 1978-02-01          | 2017-12-01        |
+| CUURA210SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                   | 1976-01-01          | 2017-12-01        |
+| CUURA210SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1993-12-01          | 2017-12-01        |
+| CUURA210SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                   | 1981-08-01          | 2017-12-01        |
+| CUUSA210SA0     | Consumer Price Index for All Urban Consumers: All items in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                    | 1984-01-01          | 2017-01-01        |
+| CUUSA210SA0E    | Consumer Price Index for All Urban Consumers: Energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                       | 1984-01-01          | 2017-01-01        |
+| CUUSA210SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)               | 1984-01-01          | 2017-01-01        |
+| CUUSA210SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                       | 1984-01-01          | 2017-01-01        |
+| CUUSA210SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1984-01-01          | 2017-01-01        |
+| CUUSA210SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                        | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAA     | Consumer Price Index for All Urban Consumers: Apparel in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                      | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAC     | Consumer Price Index for All Urban Consumers: Commodities in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-01-01        |
+| CUUSA210SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                        | 1984-01-01          | 2017-01-01        |
+| CUUSA210SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)          | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAD     | Consumer Price Index for All Urban Consumers: Durables in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                     | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1998-01-01          | 2017-01-01        |
+| CUUSA210SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Cleveland-Akron, OH (CMSA) (DISCONTINUED)      | 2010-01-01          | 2017-01-01        |
+| CUUSA210SAES    | Consumer Price Index for All Urban Consumers: Education and communication services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)         | 2010-01-01          | 2017-01-01        |
+| CUUSA210SAF     | Consumer Price Index for All Urban Consumers: Food and beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                           | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAF1    | Consumer Price Index for All Urban Consumers: Food in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                         | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAF11   | Consumer Price Index for All Urban Consumers: Food at home in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                 | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                          | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAG     | Consumer Price Index for All Urban Consumers: Other goods and services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                     | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAGC    | Consumer Price Index for All Urban Consumers: Other goods in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 2010-01-01          | 2017-01-01        |
+| CUUSA210SAGS    | Consumer Price Index for All Urban Consumers: Other personal services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                      | 2010-01-01          | 2017-01-01        |
+| CUUSA210SAH     | Consumer Price Index for All Urban Consumers: Housing in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                      | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                      | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAH2    | Consumer Price Index for All Urban Consumers: Fuels and utilities in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                          | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAH3    | Consumer Price Index for All Urban Consumers: Household furnishings and operations in Cleveland-Akron, OH (CMSA) (DISCONTINUED)         | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAH21   | Consumer Price Index for All Urban Consumers: Household energy in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                             | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAH31   | Consumer Price Index for All Urban Consumers: Household furnishings and supplies in Cleveland-Akron, OH (CMSA) (DISCONTINUED)           | 2010-01-01          | 2017-01-01        |
+| CUUSA210SAM     | Consumer Price Index for All Urban Consumers: Medical care in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                 | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-01-01        |
+| CUUSA210SANL1   | Consumer Price Index for All Urban Consumers: Nondurables less food in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                        | 1984-01-01          | 2017-01-01        |
+| CUUSA210SANL11  | Consumer Price Index for All Urban Consumers: Nondurables less food and beverages in Cleveland-Akron, OH (CMSA) (DISCONTINUED)          | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAR     | Consumer Price Index for All Urban Consumers: Recreation in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                   | 1998-01-01          | 2017-01-01        |
+| CUUSA210SAS     | Consumer Price Index for All Urban Consumers: Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                     | 1984-01-01          | 2017-01-01        |
+| CUUSA210SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                | 1984-01-01          | 2017-01-01        |
+| CUUSA210SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)          | 1984-01-01          | 2017-01-01        |
+| CUUSA210SASS    | Consumer Price Index for All Urban Consumers: Services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                     | 1984-01-01          | 2017-07-01        |
+| CUUSA210SAT     | Consumer Price Index for All Urban Consumers: Transportation in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                               | 1984-01-01          | 2017-01-01        |
+| CUUSA210SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                       | 1984-01-01          | 2017-01-01        |
+| CUUSA210SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Cleveland-Akron, OH (CMSA) (DISCONTINUED)   | 2010-01-01          | 2017-01-01        |
+| CUUSA210SEFV    | Consumer Price Index for All Urban Consumers: Food away from home in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                          | 1984-01-01          | 2017-01-01        |
+| CUUSA210SEHA    | Consumer Price Index for All Urban Consumers: Rent of primary residence in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                    | 1984-01-01          | 2017-01-01        |
+| CUUSA210SEHC    | Consumer Price Index for All Urban Consumers: Owners' equivalent rent of residences in Cleveland-Akron, OH (CMSA) (DISCONTINUED)        | 1984-01-01          | 2017-01-01        |
+| CUUSA210SEHC01  | Consumer Price Index for All Urban Consumers: Owners' equivalent rent of primary residence in Cleveland-Akron, OH (CMSA) (DISCONTINUED) | 1984-01-01          | 2017-01-01        |
+| CUUSA210SEHF    | Consumer Price Index for All Urban Consumers: Energy services in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                              | 1984-01-01          | 2017-01-01        |
+| CUUSA210SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-01-01        |
+| CUUSA210SEHF02  | Consumer Price Index for All Urban Consumers: Utility (piped) gas service in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1984-01-01          | 2017-01-01        |
+| CUUSA210SETB    | Consumer Price Index for All Urban Consumers: Motor fuel in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                                   | 1984-01-01          | 2017-01-01        |
+| CUUSA210SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (all types) in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                         | 1984-01-01          | 2017-01-01        |
+| CUUSA210SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded regular in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                   | 1984-01-01          | 2017-01-01        |
+| CUUSA210SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded midgrade in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                  | 1994-01-01          | 2017-01-01        |
+| CUUSA210SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded premium in Cleveland-Akron, OH (CMSA) (DISCONTINUED)                   | 1984-01-01          | 2017-01-01        |

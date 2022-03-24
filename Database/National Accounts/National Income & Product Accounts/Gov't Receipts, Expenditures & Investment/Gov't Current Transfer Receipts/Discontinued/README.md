@@ -1,2 +1,4 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                | title                                                                                                             | observation_start   | observation_end   |
+|-------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| LA0000231Q027NBEA | State and Local Government Current Receipts: Current transfer receipts: From the rest of the world (DISCONTINUED) | 1999-01-01          | 2016-10-01        |
+| W011RU1Q027NBEA   | Federal government current transfer receipts (DISCONTINUED)                                                       | 1947-01-01          | 2016-10-01        |

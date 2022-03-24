@@ -1,2 +1,10 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                 | observation_start   | observation_end   |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CP0800EU27M086NEST | Harmonized Index of Consumer Prices: Communications for European Union (27 countries) (DISCONTINUED)                  | 1996-01-01          | 2015-12-01        |
+| CP0800EZ17M086NEST | Harmonized Index of Consumer Prices: Communications for Euro area (17 countries) (DISCONTINUED)                       | 1996-01-01          | 2015-12-01        |
+| CP0810EU27M086NEST | Harmonized Index of Consumer Prices: Postal Services for European Union (27 countries) (DISCONTINUED)                 | 1996-01-01          | 2015-12-01        |
+| CP0810EZ17M086NEST | Harmonized Index of Consumer Prices: Postal Services for Euro area (17 countries) (DISCONTINUED)                      | 1996-01-01          | 2015-12-01        |
+| CP0820EU27M086NEST | Harmonized Index of Consumer Prices: Telephone and Telefax Equipment for European Union (27 countries) (DISCONTINUED) | 1998-12-01          | 2015-12-01        |
+| CP0820EZ17M086NEST | Harmonized Index of Consumer Prices: Telephone and Telefax Equipment for Euro area (17 countries) (DISCONTINUED)      | 1996-01-01          | 2015-12-01        |
+| CP0830EU27M086NEST | Harmonized Index of Consumer Prices: Telephone and Telefax Services for European Union (27 countries) (DISCONTINUED)  | 1998-12-01          | 2015-12-01        |
+| CP0830EZ17M086NEST | Harmonized Index of Consumer Prices: Telephone and Telefax Services for Euro area (17 countries) (DISCONTINUED)       | 1996-01-01          | 2015-12-01        |

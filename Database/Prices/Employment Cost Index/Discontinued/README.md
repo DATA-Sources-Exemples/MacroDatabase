@@ -1,2 +1,8 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                | title                                                                                                                             | observation_start   | observation_end   |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CIS1010000000000I | Employment Cost Index: Total compensation for All Civilian workers in All industries and occupations (DISCONTINUED)               | 2001-01-01          | 2017-10-01        |
+| CIS2010000000000I | Employment Cost Index: Total compensation for Private industry workers in All industries and occupations (DISCONTINUED)           | 2001-01-01          | 2017-10-01        |
+| CIS2013000000000I | Employment Cost Index: Total compensation for Private industry workers in Manufacturing (DISCONTINUED)                            | 2001-01-01          | 2017-10-01        |
+| CIS2020000000000I | Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations (DISCONTINUED)           | 2001-01-01          | 2017-10-01        |
+| CIS2030000000000I | Employment Cost Index: Total benefits for Private industry workers in All industries and occupations (DISCONTINUED)               | 2001-01-01          | 2017-10-01        |
+| CIS3010000000000I | Employment Cost Index: Total compensation for State and local government workers in All industries and occupations (DISCONTINUED) | 2001-01-01          | 2017-10-01        |

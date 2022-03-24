@@ -37,22 +37,30 @@ for directory_path, directory_names, _ in os.walk(path_str):
 for directory_path, directory_names, _ in os.walk(path_str):
     if len(directory_names) == 0:
         if directory_path.split("/")[-1] == "Discontinued":
-            directory_path = "/".join(directory_path.split("/")[:-1])
+            paths = directory_path, "/".join(directory_path.split("/")[:-1])
+        else:
+            paths = None, directory_path
 
-        name = directory_path.split("/")[-1]
-        all_json_name = f"_{name}.json"
+        for path in paths:
+            if path:
+                name = paths[1].split("/")[-1]
 
-        print(f"Creating Series README for {name} ({directory_path})")
+                if 'Discontinued' in path:
+                    all_json_name = f"_{name}_Discontinued.json"
+                else:
+                    all_json_name = f"_{name}.json"
 
-        all_json_data = json.load(open(f"{directory_path}/{all_json_name}", "r"))
+                print(f"Creating Series README for {name} ({path})")
 
-        if all_json_data:
-            df = pd.DataFrame.from_dict(all_json_data, orient='index')[
-                ['id', 'title', 'observation_start', 'observation_end']]
-            markdown = df.to_markdown(tablefmt="github", index=False)
+                all_json_data = json.load(open(f"{path}/{all_json_name}", "r"))
 
-            with open(f"{directory_path}/README.md", "w") as file:
-                file.write(markdown)
+                if all_json_data:
+                    df = pd.DataFrame.from_dict(all_json_data, orient='index')[
+                        ['id', 'title', 'observation_start', 'observation_end']]
+                    markdown = df.to_markdown(tablefmt="github", index=False)
+
+                    with open(f"{path}/README.md", "w") as file:
+                        file.write(markdown)
 
 # Create table overview (categories, sub-categories and files) in the main folder
 table_structure = {}

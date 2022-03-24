@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id         | title                                                                                                              | observation_start   | observation_end   |
+|------------|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| IBANRIAIMM | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Myanmar (DISCONTINUED)   | 1972-04-01          | 1972-04-01        |
+| IBANRIAOMM | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Myanmar (DISCONTINUED) | 1972-04-01          | 1987-01-01        |
+| IBANRINIMM | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Myanmar (DISCONTINUED)         | 1972-04-01          | 1987-04-01        |

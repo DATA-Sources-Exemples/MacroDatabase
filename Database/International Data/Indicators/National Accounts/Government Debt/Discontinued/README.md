@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                           | observation_start   | observation_end   |
+|------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDEI08CDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for the Democratic Republic of the Congo (DISCONTINUED) | 1987-01-01          | 2014-01-01        |
+| DDEI08EZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Euro Area (DISCONTINUED)                            | 1980-01-01          | 2015-01-01        |
+| DDEI08ROA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Romania (DISCONTINUED)                              | 1991-01-01          | 2013-01-01        |
+| DDEI081WA156NWDB | Credit to Government and State-Owned Enterprises to GDP for World (DISCONTINUED)                                | 1980-01-01          | 2015-01-01        |

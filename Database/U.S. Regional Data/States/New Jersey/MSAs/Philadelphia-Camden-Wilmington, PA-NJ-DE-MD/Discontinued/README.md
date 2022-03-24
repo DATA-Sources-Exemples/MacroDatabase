@@ -1,2 +1,22 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                                              | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA37980Q156N       | CredAbility Consumer Distress Index for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
+| INTINCOMEPCW           | Net Interest Income for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSPCW                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRPCW                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NIMPCW                 | Net Interest Margin for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| NIPCW                  | Net Income for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| PCRGMP37980            | Total Per Capita Real Gross Domestic Product for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| PCWAGRIDX              | Economic Conditions Index for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| ROAPCW                 | Return on Average Assets for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU42379804245200001   | All Employees: Retail Trade: General Merchandise Stores in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                        | 1990-01-01          | 2014-12-01        |
+| SMU42379804245200001A  | All Employees: Retail Trade: General Merchandise Stores in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                        | 1990-01-01          | 2013-01-01        |
+| SMU42379804245200001SA | All Employees: Retail Trade: General Merchandise Stores in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                        | 1990-01-01          | 2014-12-01        |
+| SMU42379805553000001   | All Employees: Real Estate and Rental and Leasing in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
+| SMU42379805553000001A  | All Employees: Real Estate and Rental and Leasing in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                              | 1990-01-01          | 2013-01-01        |
+| SMU42379805553000001SA | All Employees: Real Estate and Rental and Leasing in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
+| SMU42379806562100001   | All Employees: Health Care: Ambulatory Health Care Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                    | 1990-01-01          | 2014-12-01        |
+| SMU42379806562100001A  | All Employees: Health Care: Ambulatory Health Care Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                    | 1990-01-01          | 2013-01-01        |
+| SMU42379806562100001SA | All Employees: Health Care: Ambulatory Health Care Services in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                    | 1990-01-01          | 2014-12-01        |
+| TOTASSETPCW            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANPCW             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

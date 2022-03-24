@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                         | observation_start   | observation_end   |
+|------------------|-----------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCU221210221210S | Producer Price Index by Industry: Natural Gas Distribution: Secondary Products (DISCONTINUED) | 2010-12-01          | 2016-09-01        |

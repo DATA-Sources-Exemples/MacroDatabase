@@ -1,2 +1,19 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                                       | observation_start   | observation_end   |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA40140Q156N       | CredAbility Consumer Distress Index for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
+| INTINCOMERSB           | Net Interest Income for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSRRSB                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| LLSRSB                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| NIMRSB                 | Net Interest Margin for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| NIRSB                  | Net Income for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| PCRGMP40140            | Total Per Capita Real Gross Domestic Product for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROARSB                 | Return on Average Assets for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| RSBAGRIDX              | Economic Conditions Index for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| SMU06401404245210001   | All Employees: Retail Trade: Department Stores in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2013-12-01        |
+| SMU06401404245210001A  | All Employees: Retail Trade: Department Stores in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2012-01-01        |
+| SMU06401404245210001SA | All Employees: Retail Trade: Department Stores in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2013-12-01        |
+| SMU06401404245290001   | All Employees: Retail Trade: Other General Merchandise Stores in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-12-01        |
+| SMU06401404245290001A  | All Employees: Retail Trade: Other General Merchandise Stores in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2012-01-01        |
+| SMU06401404245290001SA | All Employees: Retail Trade: Other General Merchandise Stores in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-12-01        |
+| TOTASSETRSB            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANRSB             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

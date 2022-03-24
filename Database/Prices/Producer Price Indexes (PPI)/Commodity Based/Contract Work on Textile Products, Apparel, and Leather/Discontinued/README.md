@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id        | title                                                                                                                                        | observation_start   | observation_end   |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS611102 | Producer Price Index by Commodity: Contract Work on Textile Products, Apparel, and Leather: Contract Work on Textile Products (DISCONTINUED) | 1997-01-01          | 1999-12-01        |

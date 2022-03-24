@@ -1,2 +1,11 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                | title                                                                                                                                             | observation_start   | observation_end   |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCU212231212231   | Producer Price Index by Industry: Lead Ore and Zinc Ore Mining (DISCONTINUED)                                                                     | 1985-12-01          | 2002-06-01        |
+| PCU212311212311M  | Producer Price Index by Industry: Dimension Stone Mining and Quarrying: Miscellaneous Receipts (DISCONTINUED)                                     | 2005-06-01          | 2009-11-01        |
+| PCU212313212313S  | Producer Price Index by Industry: Crushed and Broken Granite Mining: Secondary Products (DISCONTINUED)                                            | 1983-12-01          | 2012-01-01        |
+| PCU2123252123252Z | Producer Price Index by Industry: Clay, Ceramic, and Refractory Minerals Mining: Bentonite (DISCONTINUED)                                         | 1984-06-01          | 2017-12-01        |
+| PCU2123912123911Y | Producer Price Index by Industry: Potash, Soda, and Borate Mineral Mining: Potassium Salts and Boron Compounds (DISCONTINUED)                     | 2007-06-01          | 2017-02-01        |
+| PCU2123932123932Z | Producer Price Index by Industry: Other Chemical and Fertilizer Mineral Mining: Barite (DISCONTINUED)                                             | 1984-12-01          | 2013-11-01        |
+| PCU2123932123939Z | Producer Price Index by Industry: Other Chemical and Fertilizer Mineral Mining: Other Chemical and Fertilizer Minerals (DISCONTINUED)             | 2006-06-01          | 2017-12-01        |
+| PCU21311121311101 | Producer Price Index by Industry: Drilling Oil and Gas Wells: Drilling Oil, Gas, Dry, or Service Wells (DISCONTINUED)                             | 1985-12-01          | 2017-12-01        |
+| PCU21311121311102 | Producer Price Index by Industry: Drilling Oil and Gas Wells: Drilling in, Spudding in, Tailing in, or Reworking Oil and Gas Wells (DISCONTINUED) | 1992-12-01          | 2017-12-01        |

@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id        | title                                                                                                                 | observation_start   | observation_end   |
+|-----------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS575    | Producer Price Index by Commodity: Wholesale Trade Services: Chemicals and Allied Products Wholesaling (DISCONTINUED) | 2009-03-01          | 2009-12-01        |
+| WPS5751   | Producer Price Index by Commodity: Wholesale Trade Services: Chemicals and Allied Products Wholesaling (DISCONTINUED) | 2009-03-01          | 2009-12-01        |
+| WPS575101 | Producer Price Index by Commodity: Wholesale Trade Services: Chemicals and Allied Products Wholesaling (DISCONTINUED) | 2009-03-01          | 2009-12-01        |

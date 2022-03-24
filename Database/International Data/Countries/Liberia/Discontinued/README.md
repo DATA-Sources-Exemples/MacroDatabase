@@ -1,2 +1,11 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                                                        | observation_start   | observation_end   |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDOI01LRA156NWDB | Bank Concentration for Liberia (DISCONTINUED)                                                                                                                | 2007-01-01          | 2009-01-01        |
+| IBANRIAILR       | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Liberia (DISCONTINUED)                                             | 2007-10-01          | 2007-10-01        |
+| IBANRIAOLR       | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Liberia (DISCONTINUED)                                           | 2007-10-01          | 2015-04-01        |
+| IBANRINILR       | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Liberia (DISCONTINUED)                                                   | 2007-10-01          | 2007-10-01        |
+| IDS1MNIAOAILR    | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Liberia (DISCONTINUED)                     | 1993-07-01          | 2014-10-01        |
+| IDS1YMAORIAILR   | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Liberia (DISCONTINUED)                       | 1993-07-01          | 2014-10-01        |
+| IDS1YMAORINCLR   | Amount Outstanding Due within One Year of International Debt Securities for Non-financial Corporations Sector, Residence of Issuer in Liberia (DISCONTINUED) | 1993-07-01          | 2014-10-01        |
+| IMMINIAIAOLR     | Amount Outstanding of International Money Market instruments for All Issuers, Nationality of Issuer in Liberia (DISCONTINUED)                                | 1990-01-01          | 1990-04-01        |
+| IMMIRIAOLR       | Amount Outstanding of International Money Market instruments for All Issuers, Residence of Issuer in Liberia (DISCONTINUED)                                  | 1990-01-01          | 1990-04-01        |

@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                               | observation_start   | observation_end   |
+|-------------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP11260 | Total Per Capita Real Gross Domestic Product for Anchorage, AK (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |

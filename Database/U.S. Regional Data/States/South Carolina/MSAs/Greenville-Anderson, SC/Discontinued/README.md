@@ -1,2 +1,64 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                                  | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ANDE345GOVT            | All Employees: Government in Anderson, SC (MSA) (DISCONTINUED)                                                                         | 1990-01-01          | 2014-12-01        |
+| ANDE345GOVTN           | All Employees: Government in Anderson, SC (MSA) (DISCONTINUED)                                                                         | 1990-01-01          | 2014-12-01        |
+| ANDE345LFN             | Civilian Labor Force in Anderson, SC (MSA) (DISCONTINUED)                                                                              | 1990-01-01          | 2014-12-01        |
+| ANDE345MFG             | All Employees: Manufacturing in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2014-12-01        |
+| ANDE345MFGN            | All Employees: Manufacturing in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2014-12-01        |
+| ANDE345NA              | All Employees: Total Nonfarm in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2014-12-01        |
+| ANDE345NAN             | All Employees: Total Nonfarm in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2014-12-01        |
+| ANDE345PCPI            | Per Capita Personal Income in Anderson, SC (MSA) (DISCONTINUED)                                                                        | 1969-01-01          | 2011-01-01        |
+| ANDE345TRAD            | All Employees: Trade, Transportation, and Utilities in Anderson, SC (MSA) (DISCONTINUED)                                               | 1990-01-01          | 2014-12-01        |
+| ANDE345TRADN           | All Employees: Trade, Transportation, and Utilities in Anderson, SC (MSA) (DISCONTINUED)                                               | 1990-01-01          | 2014-12-01        |
+| ANDE345URN             | Unemployment Rate in Anderson, SC (MSA) (DISCONTINUED)                                                                                 | 1990-01-01          | 2014-12-01        |
+| ATNHPIUS11340Q         | All-Transactions House Price Index for Anderson, SC (MSA) (DISCONTINUED)                                                               | 1987-04-01          | 2013-01-01        |
+| CCDIOA24860Q156N       | CredAbility Consumer Distress Index for Greenville-Mauldin-Easley, SC (MSA) (DISCONTINUED)                                             | 2005-01-01          | 2013-01-01        |
+| ENUC113430010          | Total Quarterly Wages in Anderson, SC (MSA) (DISCONTINUED)                                                                             | 1990-01-01          | 2012-10-01        |
+| ENUC113430010SA        | Total Quarterly Wages in Anderson, SC (MSA) (DISCONTINUED)                                                                             | 1990-01-01          | 2012-10-01        |
+| GNVAGRIDX              | Economic Conditions Index for Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| INTINCOMEGNV           | Net Interest Income for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSGNV                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRGNV                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NIGNV                  | Net Income for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| NIMGNV                 | Net Interest Margin for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| PCRGMP24860            | Total Per Capita Real Gross Domestic Product for Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROAGNV                 | Return on Average Assets for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| SMU45113400000000001A  | All Employees: Total Nonfarm in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2013-01-01        |
+| SMU45113400500000001   | All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2014-12-01        |
+| SMU45113400500000001A  | All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2013-01-01        |
+| SMU45113400500000001SA | All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2014-12-01        |
+| SMU45113400500000002   | Average Weekly Hours of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                              | 2007-01-01          | 2014-12-01        |
+| SMU45113400500000002A  | Average Weekly Hours of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                              | 2007-01-01          | 2013-01-01        |
+| SMU45113400500000002SA | Average Weekly Hours of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                              | 2007-01-01          | 2014-12-01        |
+| SMU45113400500000003   | Average Hourly Earnings of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2014-12-01        |
+| SMU45113400500000003A  | Average Hourly Earnings of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2013-01-01        |
+| SMU45113400500000003SA | Average Hourly Earnings of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2014-12-01        |
+| SMU45113400500000011   | Average Weekly Earnings of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2014-12-01        |
+| SMU45113400500000011A  | Average Weekly Earnings of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2013-01-01        |
+| SMU45113400500000011SA | Average Weekly Earnings of All Employees: Total Private in Anderson, SC (MSA) (DISCONTINUED)                                           | 2007-01-01          | 2014-12-01        |
+| SMU45113400600000001   | All Employees: Goods Producing in Anderson, SC (MSA) (DISCONTINUED)                                                                    | 1990-01-01          | 2014-12-01        |
+| SMU45113400600000001A  | All Employees: Goods Producing in Anderson, SC (MSA) (DISCONTINUED)                                                                    | 1990-01-01          | 2013-01-01        |
+| SMU45113400600000001SA | All Employees: Goods Producing in Anderson, SC (MSA) (DISCONTINUED)                                                                    | 1990-01-01          | 2014-12-01        |
+| SMU45113400700000001   | All Employees: Service-Providing in Anderson, SC (MSA) (DISCONTINUED)                                                                  | 1990-01-01          | 2014-12-01        |
+| SMU45113400700000001A  | All Employees: Service-Providing in Anderson, SC (MSA) (DISCONTINUED)                                                                  | 1990-01-01          | 2013-01-01        |
+| SMU45113400700000001SA | All Employees: Service-Providing in Anderson, SC (MSA) (DISCONTINUED)                                                                  | 1990-01-01          | 2014-12-01        |
+| SMU45113400800000001   | All Employees: Private Service Providing in Anderson, SC (MSA) (DISCONTINUED)                                                          | 1990-01-01          | 2014-12-01        |
+| SMU45113400800000001A  | All Employees: Private Service Providing in Anderson, SC (MSA) (DISCONTINUED)                                                          | 1990-01-01          | 2013-01-01        |
+| SMU45113400800000001SA | All Employees: Private Service Providing in Anderson, SC (MSA) (DISCONTINUED)                                                          | 1990-01-01          | 2014-12-01        |
+| SMU45113403000000001A  | All Employees: Manufacturing in Anderson, SC (MSA) (DISCONTINUED)                                                                      | 1990-01-01          | 2013-01-01        |
+| SMU45113404000000001A  | All Employees: Trade, Transportation, and Utilities in Anderson, SC (MSA) (DISCONTINUED)                                               | 1990-01-01          | 2013-01-01        |
+| SMU45113404200000001   | All Employees: Retail Trade in Anderson, SC (MSA) (DISCONTINUED)                                                                       | 1990-01-01          | 2014-12-01        |
+| SMU45113404200000001A  | All Employees: Retail Trade in Anderson, SC (MSA) (DISCONTINUED)                                                                       | 1990-01-01          | 2013-01-01        |
+| SMU45113404200000001SA | All Employees: Retail Trade in Anderson, SC (MSA) (DISCONTINUED)                                                                       | 1990-01-01          | 2014-12-01        |
+| SMU45113409000000001A  | All Employees: Government in Anderson, SC (MSA) (DISCONTINUED)                                                                         | 1990-01-01          | 2013-01-01        |
+| SMU45113409091000001   | All Employees: Federal Government in Anderson, SC (MSA) (DISCONTINUED)                                                                 | 1990-01-01          | 2014-12-01        |
+| SMU45113409091000001A  | All Employees: Federal Government in Anderson, SC (MSA) (DISCONTINUED)                                                                 | 1990-01-01          | 2013-01-01        |
+| SMU45113409091000001SA | All Employees: Federal Government in Anderson, SC (MSA) (DISCONTINUED)                                                                 | 1990-01-01          | 2014-12-01        |
+| SMU45113409092000001   | All Employees: State Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2014-12-01        |
+| SMU45113409092000001A  | All Employees: State Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2013-01-01        |
+| SMU45113409092000001SA | All Employees: State Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2014-12-01        |
+| SMU45113409093000001   | All Employees: Local Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2014-12-01        |
+| SMU45113409093000001A  | All Employees: Local Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2013-01-01        |
+| SMU45113409093000001SA | All Employees: Local Government in Anderson, SC (MSA) (DISCONTINUED)                                                                   | 1990-01-01          | 2014-12-01        |
+| TOTASSETGNV            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANGNV             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

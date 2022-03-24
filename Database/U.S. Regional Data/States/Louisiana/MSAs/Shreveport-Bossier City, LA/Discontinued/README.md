@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                    | observation_start   | observation_end   |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP43340            | Total Per Capita Real Gross Domestic Product for Shreveport-Bossier City, LA (MSA) (DISCONTINUED)                        | 2001-01-01          | 2017-01-01        |
+| SMU22433403133600001   | All Employees: Durable Goods: Transportation Equipment Manufacturing in Shreveport-Bossier City, LA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
+| SMU22433403133600001A  | All Employees: Durable Goods: Transportation Equipment Manufacturing in Shreveport-Bossier City, LA (MSA) (DISCONTINUED) | 1990-01-01          | 2012-01-01        |
+| SMU22433403133600001SA | All Employees: Durable Goods: Transportation Equipment Manufacturing in Shreveport-Bossier City, LA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |

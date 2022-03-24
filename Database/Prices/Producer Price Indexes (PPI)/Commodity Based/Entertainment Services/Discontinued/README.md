@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                             | observation_start   | observation_end   |
+|-------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPU564      | Producer Price Index by Commodity for Entertainment Services: Amusement Machine Receipts (Partial) (DISCONTINUED) | 2008-12-01          | 2016-05-01        |
+| WPU5641     | Producer Price Index by Commodity for Entertainment Services: Amusement Machine Receipts (Partial) (DISCONTINUED) | 2008-12-01          | 2016-05-01        |
+| WPU564101   | Producer Price Index by Commodity for Entertainment Services: Amusement Machine Receipts (Partial) (DISCONTINUED) | 2008-12-01          | 2016-05-01        |
+| WPU56410101 | Producer Price Index by Commodity for Entertainment Services: Amusement Machine Receipts (Partial) (DISCONTINUED) | 2008-12-01          | 2016-05-01        |

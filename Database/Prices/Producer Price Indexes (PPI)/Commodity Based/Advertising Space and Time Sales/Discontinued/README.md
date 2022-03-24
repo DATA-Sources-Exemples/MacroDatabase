@@ -1,2 +1,7 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                                                                      | observation_start   | observation_end   |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS361102   | Producer Price Index by Commodity: Advertising Space and Time Sales: Advertising Space Sales in Newspapers (DISCONTINUED)                                                  | 1990-01-01          | 2006-12-01        |
+| WPU36110103 | Producer Price Index by Commodity for Advertising Space and Time Sales: Advertising Space Sales in Other Periodicals (DISCONTINUED)                                        | 2007-06-01          | 2014-12-01        |
+| WPU36110201 | Producer Price Index by Commodity for Advertising Space and Time Sales: Advertising Space Sales in Newspapers, Daily and Sunday Papers (DISCONTINUED)                      | 1999-06-01          | 2015-09-01        |
+| WPU36110202 | Producer Price Index by Commodity for Advertising Space and Time Sales: Advertising Space Sales in Newspapers, Weekly and Other Papers (DISCONTINUED)                      | 1999-06-01          | 2015-09-01        |
+| WPU36510101 | Producer Price Index by Commodity for Advertising Space and Time Sales: Internet Advertising Sales, Excluding Internet Advertising Sold by Print Publishers (DISCONTINUED) | 2009-12-01          | 2016-05-01        |

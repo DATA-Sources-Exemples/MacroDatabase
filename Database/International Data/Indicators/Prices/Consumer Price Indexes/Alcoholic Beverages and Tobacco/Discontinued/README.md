@@ -1,2 +1,14 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                             | observation_start   | observation_end   |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CP0200EU27M086NEST | Harmonized Index of Consumer Prices: Alcoholic Beverages, Tobacco, and Narcotics for European Union (27 countries) (DISCONTINUED) | 1996-01-01          | 2015-12-01        |
+| CP0200EZ17M086NEST | Harmonized Index of Consumer Prices: Alcoholic Beverages, Tobacco, and Narcotics for Euro area (17 countries) (DISCONTINUED)      | 1996-01-01          | 2015-12-01        |
+| CP0210EU27M086NEST | Harmonized Index of Consumer Prices: Alcoholic Beverages for European Union (27 countries) (DISCONTINUED)                         | 1996-01-01          | 2015-12-01        |
+| CP0210EZ17M086NEST | Harmonized Index of Consumer Prices: Alcoholic Beverages for Euro area (17 countries) (DISCONTINUED)                              | 1996-01-01          | 2015-12-01        |
+| CP0211EU27M086NEST | Harmonized Index of Consumer Prices: Spirits for European Union (27 countries) (DISCONTINUED)                                     | 1996-01-01          | 2015-12-01        |
+| CP0211EZ17M086NEST | Harmonized Index of Consumer Prices: Spirits for Euro area (17 countries) (DISCONTINUED)                                          | 1996-01-01          | 2015-12-01        |
+| CP0212EU27M086NEST | Harmonized Index of Consumer Prices: Wine for European Union (27 countries) (DISCONTINUED)                                        | 1996-01-01          | 2015-12-01        |
+| CP0212EZ17M086NEST | Harmonized Index of Consumer Prices: Wine for Euro area (17 countries) (DISCONTINUED)                                             | 1996-01-01          | 2015-12-01        |
+| CP0213EU27M086NEST | Harmonized Index of Consumer Prices: Beer for European Union (27 countries) (DISCONTINUED)                                        | 1996-01-01          | 2015-12-01        |
+| CP0213EZ17M086NEST | Harmonized Index of Consumer Prices: Beer for Euro area (17 countries) (DISCONTINUED)                                             | 1996-01-01          | 2015-12-01        |
+| CP0220EU27M086NEST | Harmonized Index of Consumer Prices: Tobacco for European Union (27 countries) (DISCONTINUED)                                     | 1996-01-01          | 2015-12-01        |
+| CP0220EZ17M086NEST | Harmonized Index of Consumer Prices: Tobacco for Euro area (17 countries) (DISCONTINUED)                                          | 1996-01-01          | 2015-12-01        |

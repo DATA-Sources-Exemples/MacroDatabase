@@ -1,2 +1,7 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                               | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUUSA213SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Cincinnati-Hamilton, OH-KY-IN (CMSA) (DISCONTINUED) | 1984-01-01          | 2017-07-01        |
+| CUUSA213SA0S    | Consumer Price Index for All Urban Consumers: All Items in Cincinnati-Hamilton, OH-KY-IN (CMSA) (DISCONTINUED)                      | 1984-01-01          | 2017-07-01        |
+| CUUSA213SAC     | Consumer Price Index for All Urban Consumers: Commodities in Cincinnati-Hamilton, OH-KY-IN (CMSA) (DISCONTINUED)                    | 1984-01-01          | 2017-01-01        |
+| CUUSA213SACS    | Consumer Price Index for All Urban Consumers: Commodities in Cincinnati-Hamilton, OH-KY-IN (CMSA) (DISCONTINUED)                    | 1984-01-01          | 2017-07-01        |
+| CUUSA213SASS    | Consumer Price Index for All Urban Consumers: Services in Cincinnati-Hamilton, OH-KY-IN (CMSA) (DISCONTINUED)                       | 1984-01-01          | 2017-07-01        |

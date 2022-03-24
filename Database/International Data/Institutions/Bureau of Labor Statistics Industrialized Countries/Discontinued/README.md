@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id           | title                                                                                                       | observation_start   | observation_end   |
+|--------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COINDUSZ337  | Import Price Index: Furniture and related product manufacturing for Industrialized Countries (DISCONTINUED) | 2012-06-01          | 2014-12-01        |
+| COINDUSZ3343 | Import Price Index: Audio and video equipment manufacturing for Industrialized Countries (DISCONTINUED)     | 2012-06-01          | 2014-12-01        |
+| COINDUSZ3353 | Import Price Index: Electrical equipment manufacturing for Industrialized Countries (DISCONTINUED)          | 2012-06-01          | 2014-12-01        |

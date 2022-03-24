@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                     | observation_start   | observation_end   |
+|------------------|-------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDOI09IMA156NWDB | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Isle of Man (DISCONTINUED) | 1998-01-01          | 2007-01-01        |

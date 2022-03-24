@@ -1,2 +1,10 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                         | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| NAEXKP01G2A652S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1997-01-01          | 2016-01-01        |
+| NAEXKP01G2A657S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1998-01-01          | 2016-01-01        |
+| NAEXKP01G2A659S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1998-01-01          | 2016-01-01        |
+| NAEXKP01G2A661S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1997-01-01          | 2016-01-01        |
+| NAEXKP01G2Q652S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1998-01-01          | 2017-01-01        |
+| NAEXKP01G2Q657S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1998-04-01          | 2017-04-01        |
+| NAEXKP01G2Q659S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1999-01-01          | 2017-04-01        |
+| NAEXKP01G2Q661S | Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Group of Twenty (DISCONTINUED) | 1998-01-01          | 2017-01-01        |

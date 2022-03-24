@@ -1,2 +1,56 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                    | observation_start   | observation_end   |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUUSA212SA0     | Consumer Price Index for All Urban Consumers: All items in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                    | 1984-01-01          | 2017-01-01        |
+| CUUSA212SA0E    | Consumer Price Index for All Urban Consumers: Energy in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                       | 1984-01-01          | 2017-01-01        |
+| CUUSA212SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)               | 1984-01-01          | 2017-01-01        |
+| CUUSA212SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)               | 1984-01-01          | 2017-07-01        |
+| CUUSA212SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                       | 1984-01-01          | 2017-01-01        |
+| CUUSA212SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                  | 1984-01-01          | 2017-01-01        |
+| CUUSA212SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                        | 1984-01-01          | 2017-01-01        |
+| CUUSA212SA0S    | Consumer Price Index for All Urban Consumers: All Items in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                    | 1984-01-01          | 2017-07-01        |
+| CUUSA212SAA     | Consumer Price Index for All Urban Consumers: Apparel in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                      | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAC     | Consumer Price Index for All Urban Consumers: Commodities in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-01-01        |
+| CUUSA212SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                        | 1984-01-01          | 2017-01-01        |
+| CUUSA212SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)          | 1984-01-01          | 2017-01-01        |
+| CUUSA212SACS    | Consumer Price Index for All Urban Consumers: Commodities in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-07-01        |
+| CUUSA212SAD     | Consumer Price Index for All Urban Consumers: Durables in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                     | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                  | 1998-01-01          | 2017-01-01        |
+| CUUSA212SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)      | 2010-01-01          | 2017-01-01        |
+| CUUSA212SAES    | Consumer Price Index for All Urban Consumers: Education and communication services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)         | 2010-01-01          | 2017-01-01        |
+| CUUSA212SAF     | Consumer Price Index for All Urban Consumers: Food and beverages in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                           | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAF1    | Consumer Price Index for All Urban Consumers: Food in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                         | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAF11   | Consumer Price Index for All Urban Consumers: Food at home in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                 | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic beverages in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                          | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAG     | Consumer Price Index for All Urban Consumers: Other goods and services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                     | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAGC    | Consumer Price Index for All Urban Consumers: Other goods in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                  | 2010-01-01          | 2017-01-01        |
+| CUUSA212SAGS    | Consumer Price Index for All Urban Consumers: Other personal services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                      | 2010-01-01          | 2017-01-01        |
+| CUUSA212SAH     | Consumer Price Index for All Urban Consumers: Housing in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                      | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                      | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAH2    | Consumer Price Index for All Urban Consumers: Fuels and utilities in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                          | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAH3    | Consumer Price Index for All Urban Consumers: Household furnishings and operations in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)         | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAH21   | Consumer Price Index for All Urban Consumers: Household energy in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                             | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAH31   | Consumer Price Index for All Urban Consumers: Household furnishings and supplies in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)           | 2010-01-01          | 2017-01-01        |
+| CUUSA212SAM     | Consumer Price Index for All Urban Consumers: Medical care in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                 | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-01-01        |
+| CUUSA212SANL1   | Consumer Price Index for All Urban Consumers: Nondurables less food in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                        | 1984-01-01          | 2017-01-01        |
+| CUUSA212SANL11  | Consumer Price Index for All Urban Consumers: Nondurables less food and beverages in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)          | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAR     | Consumer Price Index for All Urban Consumers: Recreation in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                   | 1998-01-01          | 2017-01-01        |
+| CUUSA212SAS     | Consumer Price Index for All Urban Consumers: Services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                     | 1984-01-01          | 2017-01-01        |
+| CUUSA212SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                | 1984-01-01          | 2017-01-01        |
+| CUUSA212SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)          | 1984-01-01          | 2017-01-01        |
+| CUUSA212SASS    | Consumer Price Index for All Urban Consumers: Services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                     | 1984-01-01          | 2017-07-01        |
+| CUUSA212SAT     | Consumer Price Index for All Urban Consumers: Transportation in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                               | 1984-01-01          | 2017-01-01        |
+| CUUSA212SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                       | 1984-01-01          | 2017-01-01        |
+| CUUSA212SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)   | 2010-01-01          | 2017-01-01        |
+| CUUSA212SEFV    | Consumer Price Index for All Urban Consumers: Food away from home in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                          | 1984-01-01          | 2017-01-01        |
+| CUUSA212SEHA    | Consumer Price Index for All Urban Consumers: Rent of primary residence in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                    | 1984-01-01          | 2017-01-01        |
+| CUUSA212SEHC    | Consumer Price Index for All Urban Consumers: Owners' equivalent rent of residences in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)        | 1984-01-01          | 2017-01-01        |
+| CUUSA212SEHC01  | Consumer Price Index for All Urban Consumers: Owners' equivalent rent of primary residence in Milwaukee-Racine, WI (CMSA) (DISCONTINUED) | 1984-01-01          | 2017-01-01        |
+| CUUSA212SEHF    | Consumer Price Index for All Urban Consumers: Energy services in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                              | 1984-01-01          | 2017-01-01        |
+| CUUSA212SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                  | 1984-01-01          | 2017-01-01        |
+| CUUSA212SEHF02  | Consumer Price Index for All Urban Consumers: Utility (piped) gas service in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                  | 1984-01-01          | 2017-01-01        |
+| CUUSA212SETB    | Consumer Price Index for All Urban Consumers: Motor fuel in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                                   | 1984-01-01          | 2017-01-01        |
+| CUUSA212SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (all types) in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                         | 1984-01-01          | 2017-01-01        |
+| CUUSA212SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded regular in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                   | 1984-01-01          | 2017-01-01        |
+| CUUSA212SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded midgrade in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                  | 1994-01-01          | 2017-01-01        |
+| CUUSA212SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded premium in Milwaukee-Racine, WI (CMSA) (DISCONTINUED)                   | 1984-01-01          | 2017-01-01        |

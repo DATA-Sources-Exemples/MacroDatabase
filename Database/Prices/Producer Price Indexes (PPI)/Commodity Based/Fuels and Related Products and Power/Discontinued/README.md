@@ -1,2 +1,15 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                                                                | observation_start   | observation_end   |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS05       | Producer Price Index by Commodity: Fuels and Related Products and Power (DISCONTINUED)                                                                               | 1967-01-01          | 1972-12-01        |
+| WPS056      | Producer Price Index by Commodity: Fuels and Related Products and Power: Crude Petroleum (Domestic Production) (DISCONTINUED)                                        | 2006-01-01          | 2009-12-01        |
+| WPS0532     | Producer Price Index by Commodity: Fuels and Related Products and Power: Liquefied Petroleum Gas (DISCONTINUED)                                                      | 1973-01-01          | 1990-12-01        |
+| WPS0561     | Producer Price Index by Commodity: Fuels and Related Products and Power: Crude Petroleum (Domestic Production) (DISCONTINUED)                                        | 1967-01-01          | 2009-12-01        |
+| WPS0574     | Producer Price Index by Commodity: Fuels and Related Products and Power: Residual Fuels (Heavy Fuel Oils, Including #5, #6, and Other Residual Fuels) (DISCONTINUED) | 1973-03-01          | 1990-12-01        |
+| WPS056101   | Producer Price Index by Commodity: Fuels and Related Products and Power: Crude Petroleum (Domestic Production) (DISCONTINUED)                                        | 2006-01-01          | 2009-12-01        |
+| WPS057202   | Producer Price Index by Commodity: Fuels and Related Products and Power: Kerosene (DISCONTINUED)                                                                     | 1975-01-01          | 1994-12-01        |
+| WPS057407   | Producer Price Index by Commodity: Fuels and Related Products and Power: Residual Fuels (Heavy Fuel Oils, Including #5, #6, and Other Residual Fuels) (DISCONTINUED) | 1990-01-01          | 1990-12-01        |
+| WPS057603   | Producer Price Index by Commodity: Fuels and Related Products and Power: Lubricating Grease (DISCONTINUED)                                                           | 1990-01-01          | 1990-12-01        |
+| WPS057604   | Producer Price Index by Commodity: Fuels and Related Products and Power: Lubricating and Similar Oils (DISCONTINUED)                                                 | 1990-01-01          | 1990-12-01        |
+| WPS05720201 | Producer Price Index by Commodity: Fuels and Related Products and Power: Kerosene (DISCONTINUED)                                                                     | 1973-03-01          | 1989-12-01        |
+| WPS05720301 | Producer Price Index by Commodity: Fuels and Related Products and Power: Jet Fuel (DISCONTINUED)                                                                     | 1973-03-01          | 2000-12-01        |
+| WPS05730201 | Producer Price Index by Commodity: Fuels and Related Products and Power: Home Heating Oil and Distillates (DISCONTINUED)                                             | 1973-03-01          | 2003-12-01        |

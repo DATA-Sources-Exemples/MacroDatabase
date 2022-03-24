@@ -1,2 +1,109 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                              | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ENUC391030010          | Total Quarterly Wages in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                                 | 1990-01-01          | 2012-10-01        |
+| ENUC391030010SA        | Total Quarterly Wages in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                                 | 1990-01-01          | 2012-10-01        |
+| POUG136EDUH            | All Employees: Education and Health Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                          | 1990-01-01          | 2014-12-01        |
+| POUG136EDUHN           | All Employees: Education and Health Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                          | 1990-01-01          | 2014-12-01        |
+| POUG136FIRE            | All Employees: Financial Activities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2014-12-01        |
+| POUG136FIREN           | All Employees: Financial Activities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2014-12-01        |
+| POUG136GOVT            | All Employees: Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2014-12-01        |
+| POUG136GOVTN           | All Employees: Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2014-12-01        |
+| POUG136INFO            | All Employees: Information in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                            | 1990-01-01          | 2014-12-01        |
+| POUG136INFON           | All Employees: Information in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                            | 1990-01-01          | 2014-12-01        |
+| POUG136LEIH            | All Employees: Leisure and Hospitality in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                | 1990-01-01          | 2014-12-01        |
+| POUG136LEIHN           | All Employees: Leisure and Hospitality in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                | 1990-01-01          | 2014-12-01        |
+| POUG136LFN             | Civilian Labor Force in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                                  | 1990-01-01          | 2014-12-01        |
+| POUG136MFG             | All Employees: Manufacturing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2014-12-01        |
+| POUG136MFGN            | All Employees: Manufacturing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2014-12-01        |
+| POUG136NA              | All Employees: Total Nonfarm in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2014-12-01        |
+| POUG136NAN             | All Employees: Total Nonfarm in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2014-12-01        |
+| POUG136NRMN            | All Employees: Mining, Logging, and Construction in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2014-12-01        |
+| POUG136NRMNN           | All Employees: Mining, Logging, and Construction in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2014-12-01        |
+| POUG136PBSV            | All Employees: Professional and Business Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                     | 1990-01-01          | 2014-12-01        |
+| POUG136PBSVN           | All Employees: Professional and Business Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                     | 1990-01-01          | 2014-12-01        |
+| POUG136PCPI            | Per Capita Personal Income in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                            | 1969-01-01          | 2011-01-01        |
+| POUG136SRVO            | All Employees: Other Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                         | 1990-01-01          | 2014-12-01        |
+| POUG136SRVON           | All Employees: Other Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                         | 1990-01-01          | 2014-12-01        |
+| POUG136TRAD            | All Employees: Trade, Transportation, and Utilities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                   | 1990-01-01          | 2014-12-01        |
+| POUG136TRADN           | All Employees: Trade, Transportation, and Utilities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                   | 1990-01-01          | 2014-12-01        |
+| SMU36391000000000001A  | All Employees: Total Nonfarm in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2013-01-01        |
+| SMU36391000500000001   | All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2014-12-01        |
+| SMU36391000500000001A  | All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2013-01-01        |
+| SMU36391000500000001SA | All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2014-12-01        |
+| SMU36391000500000002   | Average Weekly Hours of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                  | 2007-01-01          | 2014-12-01        |
+| SMU36391000500000002A  | Average Weekly Hours of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                  | 2007-01-01          | 2013-01-01        |
+| SMU36391000500000002SA | Average Weekly Hours of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                  | 2007-01-01          | 2014-12-01        |
+| SMU36391000500000003   | Average Hourly Earnings of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 2007-01-01          | 2014-12-01        |
+| SMU36391000500000003A  | Average Hourly Earnings of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 2007-01-01          | 2013-01-01        |
+| SMU36391000500000003SA | Average Hourly Earnings of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 2007-01-01          | 2014-12-01        |
+| SMU36391000500000011   | Average Weekly Earnings of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 2007-01-01          | 2014-12-01        |
+| SMU36391000500000011A  | Average Weekly Earnings of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 2007-01-01          | 2013-01-01        |
+| SMU36391000500000011SA | Average Weekly Earnings of All Employees: Total Private in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 2007-01-01          | 2014-12-01        |
+| SMU36391000600000001   | All Employees: Goods Producing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                        | 1990-01-01          | 2014-12-01        |
+| SMU36391000600000001A  | All Employees: Goods Producing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                        | 1990-01-01          | 2013-01-01        |
+| SMU36391000600000001SA | All Employees: Goods Producing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                        | 1990-01-01          | 2014-12-01        |
+| SMU36391000700000001   | All Employees: Service-Providing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                      | 1990-01-01          | 2014-12-01        |
+| SMU36391000700000001A  | All Employees: Service-Providing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                      | 1990-01-01          | 2013-01-01        |
+| SMU36391000700000001SA | All Employees: Service-Providing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                      | 1990-01-01          | 2014-12-01        |
+| SMU36391000800000001   | All Employees: Private Service Providing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
+| SMU36391000800000001A  | All Employees: Private Service Providing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                              | 1990-01-01          | 2013-01-01        |
+| SMU36391000800000001SA | All Employees: Private Service Providing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                              | 1990-01-01          | 2014-12-01        |
+| SMU36391001500000001A  | All Employees: Mining, Logging, and Construction in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2013-01-01        |
+| SMU36391001500000001SA | All Employees: Mining, Logging, and Construction in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2014-06-01        |
+| SMU36391003000000001A  | All Employees: Manufacturing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2013-01-01        |
+| SMU36391004000000001A  | All Employees: Trade, Transportation, and Utilities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                   | 1990-01-01          | 2013-01-01        |
+| SMU36391004100000001   | All Employees: Wholesale Trade in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                        | 1990-01-01          | 2014-12-01        |
+| SMU36391004100000001A  | All Employees: Wholesale Trade in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                        | 1990-01-01          | 2013-01-01        |
+| SMU36391004100000001SA | All Employees: Wholesale Trade in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                        | 1990-01-01          | 2014-12-01        |
+| SMU36391004200000001   | All Employees: Retail Trade in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                           | 1990-01-01          | 2014-12-01        |
+| SMU36391004200000001A  | All Employees: Retail Trade in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                           | 1990-01-01          | 2013-01-01        |
+| SMU36391004200000001SA | All Employees: Retail Trade in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                           | 1990-01-01          | 2014-12-01        |
+| SMU36391004244500001   | All Employees: Retail Trade: Food and Beverage Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                 | 1990-01-01          | 2014-12-01        |
+| SMU36391004244500001A  | All Employees: Retail Trade: Food and Beverage Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                 | 1990-01-01          | 2013-01-01        |
+| SMU36391004244500001SA | All Employees: Retail Trade: Food and Beverage Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                 | 1990-01-01          | 2014-12-01        |
+| SMU36391004244800001   | All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
+| SMU36391004244800001A  | All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
+| SMU36391004244800001SA | All Employees: Retail Trade: Clothing and Clothing Accessories Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
+| SMU36391004245200001   | All Employees: Retail Trade: General Merchandise Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 1990-01-01          | 2014-12-01        |
+| SMU36391004245200001A  | All Employees: Retail Trade: General Merchandise Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 1990-01-01          | 2013-01-01        |
+| SMU36391004245200001SA | All Employees: Retail Trade: General Merchandise Stores in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)               | 1990-01-01          | 2014-12-01        |
+| SMU36391004300000001   | All Employees: Transportation and Utilities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                           | 1990-01-01          | 2014-12-01        |
+| SMU36391004300000001A  | All Employees: Transportation and Utilities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                           | 1990-01-01          | 2013-01-01        |
+| SMU36391004300000001SA | All Employees: Transportation and Utilities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                           | 1990-01-01          | 2014-12-01        |
+| SMU36391004340008901   | All Employees: Transportation and Warehousing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                         | 1990-01-01          | 2014-12-01        |
+| SMU36391004340008901A  | All Employees: Transportation and Warehousing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                         | 1990-01-01          | 2013-01-01        |
+| SMU36391004340008901SA | All Employees: Transportation and Warehousing in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                         | 1990-01-01          | 2014-12-01        |
+| SMU36391005000000001A  | All Employees: Information in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                            | 1990-01-01          | 2013-01-01        |
+| SMU36391005500000001A  | All Employees: Financial Activities in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2013-01-01        |
+| SMU36391005552000001   | All Employees: Financial Activities: Finance and Insurance in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)            | 2005-01-01          | 2014-12-01        |
+| SMU36391005552000001A  | All Employees: Financial Activities: Finance and Insurance in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)            | 2005-01-01          | 2013-01-01        |
+| SMU36391005552000001SA | All Employees: Financial Activities: Finance and Insurance in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)            | 2005-01-01          | 2014-12-01        |
+| SMU36391006000000001A  | All Employees: Professional and Business Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                     | 1990-01-01          | 2013-01-01        |
+| SMU36391006500000001A  | All Employees: Education and Health Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                          | 1990-01-01          | 2013-01-01        |
+| SMU36391006561000001   | All Employees: Educational Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2014-12-01        |
+| SMU36391006561000001A  | All Employees: Educational Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2013-01-01        |
+| SMU36391006561000001SA | All Employees: Educational Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                   | 1990-01-01          | 2014-12-01        |
+| SMU36391006562000001   | All Employees: Health Care and Social Assistance in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2014-12-01        |
+| SMU36391006562000001A  | All Employees: Health Care and Social Assistance in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2013-01-01        |
+| SMU36391006562000001SA | All Employees: Health Care and Social Assistance in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                      | 1990-01-01          | 2014-12-01        |
+| SMU36391006562200001   | All Employees: Health Care: Hospitals in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2014-12-01        |
+| SMU36391006562200001A  | All Employees: Health Care: Hospitals in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2013-01-01        |
+| SMU36391006562200001SA | All Employees: Health Care: Hospitals in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2014-12-01        |
+| SMU36391007000000001A  | All Employees: Leisure and Hospitality in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                | 1990-01-01          | 2013-01-01        |
+| SMU36391007072000001   | All Employees: Accommodation and Food Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                        | 2005-01-01          | 2014-12-01        |
+| SMU36391007072000001A  | All Employees: Accommodation and Food Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                        | 2005-01-01          | 2013-01-01        |
+| SMU36391007072000001SA | All Employees: Accommodation and Food Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                        | 2005-01-01          | 2014-12-01        |
+| SMU36391008000000001A  | All Employees: Other Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                         | 1990-01-01          | 2013-01-01        |
+| SMU36391009000000001A  | All Employees: Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2013-01-01        |
+| SMU36391009091000001   | All Employees: Federal Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                     | 1990-01-01          | 2014-12-01        |
+| SMU36391009091000001A  | All Employees: Federal Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                     | 1990-01-01          | 2013-01-01        |
+| SMU36391009091000001SA | All Employees: Federal Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                     | 1990-01-01          | 2014-12-01        |
+| SMU36391009092000001   | All Employees: State Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2014-12-01        |
+| SMU36391009092000001A  | All Employees: State Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2013-01-01        |
+| SMU36391009092000001SA | All Employees: State Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2014-12-01        |
+| SMU36391009093000001   | All Employees: Local Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2014-12-01        |
+| SMU36391009093000001A  | All Employees: Local Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2013-01-01        |
+| SMU36391009093000001SA | All Employees: Local Government in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2014-12-01        |
+| SMU36391009093161101   | All Employees: Local Government Educational Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                  | 1990-01-01          | 2014-12-01        |
+| SMU36391009093161101A  | All Employees: Local Government Educational Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-01-01        |
+| SMU36391009093161101SA | All Employees: Local Government Educational Services in Poughkeepsie-Newburgh-Middletown, NY (MSA) (DISCONTINUED)                  | 1990-01-01          | 2014-12-01        |

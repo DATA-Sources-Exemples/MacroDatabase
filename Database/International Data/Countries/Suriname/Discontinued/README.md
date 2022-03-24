@@ -1,2 +1,20 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id             | title                                                                                                                                                            | observation_start   | observation_end   |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| IBANAINIAISR   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Surinam (DISCONTINUED)                                               | 1997-01-01          | 2001-10-01        |
+| IBANAINIAOSR   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Surinam (DISCONTINUED)                                             | 1997-01-01          | 2004-10-01        |
+| IBANAININISR   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Surinam (DISCONTINUED)                                                     | 1997-01-01          | 2005-01-01        |
+| IBANRIAISR     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Surinam (DISCONTINUED)                                                 | 1997-01-01          | 2001-10-01        |
+| IBANRIAOSR     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Surinam (DISCONTINUED)                                               | 1997-01-01          | 2004-10-01        |
+| IBANRINISR     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Surinam (DISCONTINUED)                                                       | 1997-01-01          | 2005-01-01        |
+| IDS1MNIAOFCSR  | Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Nationality of Issuer in Surinam (DISCONTINUED)       | 1997-04-01          | 2004-10-01        |
+| IDS1YMAORIFCSR | Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Residence of Issuer in Surinam (DISCONTINUED)         | 1997-04-01          | 2004-10-01        |
+| IDSGFCAMNIAOSR | Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Surinam (DISCONTINUED) | 1997-01-01          | 2004-10-01        |
+| IDSGFCAMNINISR | Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Surinam (DISCONTINUED)         | 1997-01-01          | 2009-01-01        |
+| IDSOFAMRIAOSR  | Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Surinam (DISCONTINUED)   | 1997-01-01          | 2004-10-01        |
+| IDSOFAMRINISR  | Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Surinam (DISCONTINUED)           | 1997-01-01          | 2009-01-01        |
+| IMMINIAIAOSR   | Amount Outstanding of International Money Market instruments for All Issuers, Nationality of Issuer in Surinam (DISCONTINUED)                                    | 1997-04-01          | 2000-01-01        |
+| IMMINIAIGISR   | Gross Issuance of International Money Market instruments for All Issuers, Nationality of Issuer in Surinam (DISCONTINUED)                                        | 1997-04-01          | 1999-04-01        |
+| IMMINIAINISR   | Net Issues of International Money Market instruments for All Issuers, Nationality of Issuer in Surinam (DISCONTINUED)                                            | 1997-04-01          | 2009-01-01        |
+| IMMIRIAOSR     | Amount Outstanding of International Money Market instruments for All Issuers, Residence of Issuer in Surinam (DISCONTINUED)                                      | 1997-04-01          | 2000-01-01        |
+| IMMIRIGISR     | Gross Issuance of International Money Market instruments for All Issuers, Residence of Issuer in Surinam (DISCONTINUED)                                          | 1997-04-01          | 1999-04-01        |
+| IMMIRINISR     | Net Issues of International Money Market instruments for All Issuers, Residence of Issuer in Surinam (DISCONTINUED)                                              | 1997-04-01          | 2009-01-01        |

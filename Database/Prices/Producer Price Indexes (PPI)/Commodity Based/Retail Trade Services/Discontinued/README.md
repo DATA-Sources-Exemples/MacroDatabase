@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                  | observation_start   | observation_end   |
+|-------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS581101   | Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED) | 2009-03-01          | 2015-09-01        |
+| WPU581101   | Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED) | 2009-03-01          | 2015-09-01        |
+| WPU58110101 | Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED) | 2009-03-01          | 2015-09-01        |

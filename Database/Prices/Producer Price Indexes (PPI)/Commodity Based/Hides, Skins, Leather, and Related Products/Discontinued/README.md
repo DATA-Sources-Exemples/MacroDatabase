@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id        | title                                                                                                                                                   | observation_start   | observation_end   |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPS04     | Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products (DISCONTINUED)                                                           | 1967-01-01          | 1974-12-01        |
+| WPS0445   | Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified (DISCONTINUED) | 1996-01-01          | 1998-12-01        |
+| WPS044501 | Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified (DISCONTINUED) | 1996-01-01          | 1998-12-01        |

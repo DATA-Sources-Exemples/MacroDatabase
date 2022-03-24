@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                     | observation_start   | observation_end   |
+|-------------|-------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP30340 | Total Per Capita Real Gross Domestic Product for Lewiston-Auburn, ME (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |

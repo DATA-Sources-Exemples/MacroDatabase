@@ -1,2 +1,16 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                                     | observation_start   | observation_end   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CP0300EU27M086NEST | Harmonized Index of Consumer Prices: Clothing and Footwear for European Union (27 countries) (DISCONTINUED)                               | 1996-01-01          | 2015-12-01        |
+| CP0300EZ17M086NEST | Harmonized Index of Consumer Prices: Clothing and Footwear for Euro area (17 countries) (DISCONTINUED)                                    | 1996-01-01          | 2015-12-01        |
+| CP0310EU27M086NEST | Harmonized Index of Consumer Prices: Clothing for European Union (27 countries) (DISCONTINUED)                                            | 1996-01-01          | 2015-12-01        |
+| CP0310EZ17M086NEST | Harmonized Index of Consumer Prices: Clothing for Euro area (17 countries) (DISCONTINUED)                                                 | 1996-01-01          | 2015-12-01        |
+| CP0311EU27M086NEST | Harmonized Index of Consumer Prices: Clothing Materials for European Union (27 countries) (DISCONTINUED)                                  | 1996-01-01          | 2015-12-01        |
+| CP0311EZ17M086NEST | Harmonized Index of Consumer Prices: Clothing Materials for Euro area (17 countries) (DISCONTINUED)                                       | 1996-01-01          | 2015-12-01        |
+| CP0312EU27M086NEST | Harmonized Index of Consumer Prices: Garments for European Union (27 countries) (DISCONTINUED)                                            | 1996-01-01          | 2015-12-01        |
+| CP0312EZ17M086NEST | Harmonized Index of Consumer Prices: Garments for Euro area (17 countries) (DISCONTINUED)                                                 | 1996-01-01          | 2015-12-01        |
+| CP0313EU27M086NEST | Harmonized Index of Consumer Prices: Other Articles of Clothing and Clothing Accessories for European Union (27 countries) (DISCONTINUED) | 1996-01-01          | 2015-12-01        |
+| CP0313EZ17M086NEST | Harmonized Index of Consumer Prices: Other Articles of Clothing and Clothing Accessories for Euro area (17 countries) (DISCONTINUED)      | 1996-01-01          | 2015-12-01        |
+| CP0314EU27M086NEST | Harmonized Index of Consumer Prices: Cleaning, Repair, and Hire of Clothing for European Union (27 countries) (DISCONTINUED)              | 1996-01-01          | 2015-12-01        |
+| CP0314EZ17M086NEST | Harmonized Index of Consumer Prices: Cleaning, Repair, and Hire of Clothing for Euro area (17 countries) (DISCONTINUED)                   | 1996-01-01          | 2015-12-01        |
+| CP0320EU27M086NEST | Harmonized Index of Consumer Prices: Footwear Including Repair for European Union (27 countries) (DISCONTINUED)                           | 1996-01-01          | 2015-12-01        |
+| CP0320EZ17M086NEST | Harmonized Index of Consumer Prices: Footwear Including Repair for Euro area (17 countries) (DISCONTINUED)                                | 1996-01-01          | 2015-12-01        |

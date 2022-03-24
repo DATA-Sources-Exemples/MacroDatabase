@@ -1,2 +1,11 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id             | title                                                                                                                                                         | observation_start   | observation_end   |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| IBANAINIAIMD   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Moldova (DISCONTINUED)                                            | 1996-10-01          | 1997-04-01        |
+| IBANAINIAOMD   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Moldova (DISCONTINUED)                                          | 1996-10-01          | 2002-01-01        |
+| IBANAININIMD   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Moldova (DISCONTINUED)                                                  | 1996-10-01          | 2002-04-01        |
+| IBANRIAIMD     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Moldova (DISCONTINUED)                                              | 1996-10-01          | 1997-04-01        |
+| IBANRIAOMD     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Moldova (DISCONTINUED)                                            | 1996-10-01          | 2002-01-01        |
+| IBANRINIMD     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Moldova (DISCONTINUED)                                                    | 1996-10-01          | 2002-04-01        |
+| IDS1MNIAOGGMD  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Moldova (DISCONTINUED)        | 1997-10-01          | 2002-01-01        |
+| IDSGGGAMNIAOMD | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Moldova (DISCONTINUED) | 1996-10-01          | 2002-01-01        |
+| IDSGGGAMNINIMD | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Moldova (DISCONTINUED)         | 1996-10-01          | 2002-04-01        |

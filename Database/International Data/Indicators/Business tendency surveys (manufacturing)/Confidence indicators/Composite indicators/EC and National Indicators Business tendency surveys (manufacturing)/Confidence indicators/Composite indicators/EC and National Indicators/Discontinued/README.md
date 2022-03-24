@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                                 | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BSFGLV02CNQ460N | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for China (DISCONTINUED)       | 2000-01-01          | 2011-10-01        |
+| BSFGLV02MXM460N | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Mexico (DISCONTINUED)      | 1978-01-01          | 2013-07-01        |
+| BSFGLV02NZQ460N | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for New Zealand (DISCONTINUED) | 1978-01-01          | 2013-01-01        |

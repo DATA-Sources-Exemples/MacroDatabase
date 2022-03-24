@@ -1,2 +1,24 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                        | title                                                                                                                                             | observation_start   | observation_end   |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CBR12025FLA647NCEN        | SNAP Benefits Recipients in Dade County, FL (DISCONTINUED)                                                                                        | 1989-01-01          | 1995-01-01        |
+| MHICILBFL12025A052NCEN    | 90% Confidence Interval Lower Bound of Estimate of Median Household Income for Dade County, FL (DISCONTINUED)                                     | 1989-01-01          | 1995-01-01        |
+| MHICIUBFL12025A052NCEN    | 90% Confidence Interval Upper Bound of Estimate of Median Household Income for Dade County, FL (DISCONTINUED)                                     | 1989-01-01          | 1995-01-01        |
+| MHIFL12025A052NCEN        | Estimate of Median Household Income for Dade County, FL (DISCONTINUED)                                                                            | 1989-01-01          | 1995-01-01        |
+| PE5T17FL12025A647NCEN     | Estimate of Related Children Age 5-17 in Families in Poverty for Dade County, FL (DISCONTINUED)                                                   | 1989-01-01          | 1995-01-01        |
+| PEAAFL12025A647NCEN       | Estimate of People of All Ages in Poverty in Dade County, FL (DISCONTINUED)                                                                       | 1989-01-01          | 1995-01-01        |
+| PECILB5T17FL12025A647NCEN | 90% Confidence Interval Lower Bound of Estimate of Related Children Age 5-17 in Families in Poverty for Dade County, FL (DISCONTINUED)            | 1989-01-01          | 1995-01-01        |
+| PECILBAAFL12025A647NCEN   | 90% Confidence Interval Lower Bound of Estimate of People of All Ages in Poverty for Dade County, FL (DISCONTINUED)                               | 1989-01-01          | 1995-01-01        |
+| PECILBU18FL12025A647NCEN  | 90% Confidence Interval Lower Bound of Estimate of People Age 0-17 in Poverty for Dade County, FL (DISCONTINUED)                                  | 1989-01-01          | 1995-01-01        |
+| PECIUB5T17FL12025A647NCEN | 90% Confidence Interval Upper Bound of Estimate of Related Children Age 5-17 in Families in Poverty for Dade County, FL (DISCONTINUED)            | 1989-01-01          | 1995-01-01        |
+| PECIUBAAFL12025A647NCEN   | 90% Confidence Interval Upper Bound of Estimate of People of All Ages in Poverty for Dade County, FL (DISCONTINUED)                               | 1989-01-01          | 1995-01-01        |
+| PECIUBU18FL12025A647NCEN  | 90% Confidence Interval Upper Bound of Estimate of People Age 0-17 in Poverty for Dade County, FL (DISCONTINUED)                                  | 1989-01-01          | 1995-01-01        |
+| PEU18FL12025A647NCEN      | Estimate of People Age 0-17 in Poverty in Dade County, FL (DISCONTINUED)                                                                          | 1989-01-01          | 1995-01-01        |
+| PP5T17FL12025A156NCEN     | Estimated Percent of Related Children Age 5-17 in Families in Poverty for Dade County, FL (DISCONTINUED)                                          | 1989-01-01          | 1995-01-01        |
+| PPAAFL12025A156NCEN       | Estimated Percent of People of All Ages in Poverty for Dade County, FL (DISCONTINUED)                                                             | 1989-01-01          | 1995-01-01        |
+| PPCILB5T17FL12025A156NCEN | 90% Confidence Interval Lower Bound of Estimate of Percent of Related Children Age 5-17 in Families in Poverty for Dade County, FL (DISCONTINUED) | 1989-01-01          | 1995-01-01        |
+| PPCILBAAFL12025A156NCEN   | 90% Confidence Interval Lower Bound of Estimate of Percent of People of All Ages in Poverty for Dade County, FL (DISCONTINUED)                    | 1989-01-01          | 1995-01-01        |
+| PPCILBU18FL12025A156NCEN  | 90% Confidence Interval Lower Bound of Estimate of Percent of People Age 0-17 in Poverty for Dade County, FL (DISCONTINUED)                       | 1989-01-01          | 1995-01-01        |
+| PPCIUB5T17FL12025A156NCEN | 90% Confidence Interval Upper Bound of Estimate of Percent of Related Children Age 5-17 in Families in Poverty for Dade County, FL (DISCONTINUED) | 1989-01-01          | 1995-01-01        |
+| PPCIUBAAFL12025A156NCEN   | 90% Confidence Interval Upper Bound of Estimate of Percent of People of All Ages in Poverty for Dade County, FL (DISCONTINUED)                    | 1989-01-01          | 1995-01-01        |
+| PPCIUBU18FL12025A156NCEN  | 90% Confidence Interval Upper Bound of Estimate of Percent of People Age 0-17 in Poverty for Dade County, FL (DISCONTINUED)                       | 1989-01-01          | 1995-01-01        |
+| PPU18FL12025A156NCEN      | Estimated Percent of People Age 0-17 in Poverty for Dade County, FL (DISCONTINUED)                                                                | 1989-01-01          | 1995-01-01        |

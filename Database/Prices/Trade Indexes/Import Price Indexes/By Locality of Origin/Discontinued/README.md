@@ -1,2 +1,7 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                                                                                        | observation_start   | observation_end   |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COOTHERZ336 | Import Price Index: Transportation Equipment Manufacturing for Eastern Europe, Latin America, OPEC countries, and other countries in Asia, Africa, and the Western Hemisphere (DISCONTINUED) | 2015-12-01          | 2017-12-01        |
+| EECNONM     | Import Price Index: European Union - Nonmanufactured articles (DISCONTINUED)                                                                                                                 | 1990-12-01          | 2013-12-01        |
+| OTHERMANU   | Import Price Index: Other Countries - Manufactured articles (DISCONTINUED)                                                                                                                   | 1990-12-01          | 2017-12-01        |
+| OTHERNONM   | Import Price Index: Other Countries - Nonmanufactured articles (DISCONTINUED)                                                                                                                | 1990-12-01          | 2017-12-01        |
+| OTHERTOT    | Import Price Index: Other Countries - All commodities (DISCONTINUED)                                                                                                                         | 1990-12-01          | 2017-12-01        |

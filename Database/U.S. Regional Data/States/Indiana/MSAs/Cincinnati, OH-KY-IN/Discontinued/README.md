@@ -1,2 +1,13 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                       | observation_start   | observation_end   |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA17140Q156N | CredAbility Consumer Distress Index for Cincinnati-Middletown, OH-KY-IN (MSA) (DISCONTINUED)                                | 2005-01-01          | 2013-01-01        |
+| CTIAGRIDX        | Economic Conditions Index for Cincinnati-Middletown, OH-KY-IN (MSA) (DISCONTINUED)                                          | 1990-02-01          | 2019-12-01        |
+| INTINCOMECTI     | Net Interest Income for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSCTI           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRCTI          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NICTI            | Net Income for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| NIMCTI           | Net Interest Margin for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| PCRGMP17140      | Total Per Capita Real Gross Domestic Product for Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROACTI           | Return on Average Assets for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| TOTASSETCTI      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANCTI       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Cincinnati, OH-KY-IN (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

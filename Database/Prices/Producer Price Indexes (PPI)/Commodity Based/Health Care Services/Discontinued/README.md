@@ -1,2 +1,4 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id           | title                                                                                                                                 | observation_start   | observation_end   |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPU511102022 | Producer Price Index by Commodity for Health Care Services: Private Insurance Patients: Diagnostic Imaging Center Care (DISCONTINUED) | 2014-06-01          | 2017-01-01        |
+| WPU511102023 | Producer Price Index by Commodity for Health Care Services: All Other Patients: Diagnostic Imaging Center Care (DISCONTINUED)         | 2014-06-01          | 2017-01-01        |
