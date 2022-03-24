@@ -1,0 +1,21 @@
+Creating Folder README for Database (Database)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/pandas/compat/_optional.py", line 126, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'tabulate'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "Methodology/create_tables.py", line 29, in <module>
+    markdown = folder_structure.to_markdown(tablefmt="github", index=False)
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/pandas/core/frame.py", line 2728, in to_markdown
+    tabulate = import_optional_dependency("tabulate")
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/pandas/compat/_optional.py", line 129, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'tabulate'.  Use pip or conda to install tabulate.
