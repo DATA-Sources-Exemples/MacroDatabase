@@ -1,5 +1,4 @@
 import os
-from tabulate import tabulate
 import pandas as pd
 import json
 
@@ -8,7 +7,6 @@ try:
     os.listdir("Database")
 except FileNotFoundError:
     path_str = "../Database"
-
 
 # Create README files for all locations to count folders and files
 for directory_path, directory_names, _ in os.walk(path_str):
