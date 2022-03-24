@@ -1,15 +1,15 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Binghamton, NY                        |               173 |
+| Elmira, NY                            |               149 |
+| Utica-Rome, NY                        |               167 |
 | Glens Falls, NY                       |               141 |
 | Poughkeepsie-Newburgh-Middletown, NY  |                 9 |
-| Buffalo-Cheektowaga, NY               |               201 |
-| Watertown-Fort Drum, NY               |                89 |
-| New York-Newark-Jersey City, NY-NJ-PA |               177 |
-| Albany-Schenectady-Troy, NY           |               210 |
-| Kingston, NY                          |               164 |
-| Rochester, NY                         |               237 |
 | Ithaca, NY                            |               143 |
-| Elmira, NY                            |               149 |
 | Syracuse, NY                          |               186 |
-| Utica-Rome, NY                        |               167 |
+| Kingston, NY                          |               164 |
+| Binghamton, NY                        |               173 |
+| Watertown-Fort Drum, NY               |                89 |
+| Rochester, NY                         |               237 |
+| New York-Newark-Jersey City, NY-NJ-PA |               177 |
+| Buffalo-Cheektowaga, NY               |               201 |
+| Albany-Schenectady-Troy, NY           |               210 |
