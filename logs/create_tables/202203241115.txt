@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Methodology/create_tables.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
