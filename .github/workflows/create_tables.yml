@@ -1,8 +1,8 @@
-name: Create Tables
+name: Create README Tables
 on: [push]
 
 jobs:
-  Structure-Fred-Series:
+  Create-README-Tables:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
