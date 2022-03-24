@@ -1,0 +1,19 @@
+{
+  "PCU221210221210S": {
+    "id": "PCU221210221210S",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Producer Price Index by Industry: Natural Gas Distribution: Secondary Products (DISCONTINUED)",
+    "observation_start": "2010-12-01",
+    "observation_end": "2016-09-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Dec 2010=100",
+    "units_short": "Index Dec 2010=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2016-10-14 10:14:23-05",
+    "popularity": 1,
+    "group_popularity": 1
+  }
+}

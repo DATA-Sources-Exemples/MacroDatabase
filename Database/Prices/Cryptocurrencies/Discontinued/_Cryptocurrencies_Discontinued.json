@@ -1,0 +1,20 @@
+{
+  "CBCCIND": {
+    "id": "CBCCIND",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Coinbase Index (DISCONTINUED)",
+    "observation_start": "2015-01-01",
+    "observation_end": "2020-05-26",
+    "frequency": "Daily, 7-Day",
+    "frequency_short": "D",
+    "units": "Index Jan 1, 2015=100",
+    "units_short": "Index Jan 1, 2015=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2020-05-26 19:26:02-05",
+    "popularity": 22,
+    "group_popularity": 22,
+    "notes": "All data is as of 5 PM PST. \r\nGiven the volatility in the cryptocurrency markets, users may wish to view the large variation in values in a log scale. Changes in the data can be analyzed by turning on a log scale functionality that can be applied in the Format tab under Edit Graph button. \r\nFor more information to the Coinbase index, see https://am.coinbase.com/index\r\n\r\nCopyright, 2018, Coinbase.\r\n\r\nReproduction of Coinbase data in any form is prohibited except with the prior written permission of Coinbase."
+  }
+}

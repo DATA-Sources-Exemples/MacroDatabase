@@ -1,0 +1,53 @@
+{
+  "WPS60": {
+    "id": "WPS60",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
+    "observation_start": "1990-01-01",
+    "observation_end": "1992-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Jun 1985=100",
+    "units_short": "Index Jun 1985=100",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2015-05-14 10:41:05-05",
+    "popularity": 1,
+    "group_popularity": 1
+  },
+  "WPS601": {
+    "id": "WPS601",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
+    "observation_start": "1990-01-01",
+    "observation_end": "1992-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Jun 1985=100",
+    "units_short": "Index Jun 1985=100",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2015-05-14 10:41:05-05",
+    "popularity": 1,
+    "group_popularity": 1
+  },
+  "WPS6011": {
+    "id": "WPS6011",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
+    "observation_start": "1990-01-01",
+    "observation_end": "1992-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Jun 1985=100",
+    "units_short": "Index Jun 1985=100",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2015-05-14 10:41:04-05",
+    "popularity": 1,
+    "group_popularity": 1
+  }
+}

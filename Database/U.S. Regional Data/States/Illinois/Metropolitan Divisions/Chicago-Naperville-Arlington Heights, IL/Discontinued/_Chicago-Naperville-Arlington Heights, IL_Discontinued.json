@@ -1,0 +1,38 @@
+{
+  "ATNHPIUS16974Q": {
+    "id": "ATNHPIUS16974Q",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "All-Transactions House Price Index for Chicago-Naperville-Arlington Heights, IL (MSAD) (DISCONTINUED)",
+    "observation_start": "1975-07-01",
+    "observation_end": "2018-07-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index 1995:Q1=100",
+    "units_short": "Index 1995:Q1=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-11-27 09:11:10-06",
+    "popularity": 18,
+    "group_popularity": 18,
+    "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million."
+  },
+  "SMU17169740000000001SA": {
+    "id": "SMU17169740000000001SA",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "All Employees: Total Nonfarm in Chicago-Naperville-Arlington Heights, IL (MD) (DISCONTINUED)",
+    "observation_start": "1990-01-01",
+    "observation_end": "2017-01-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Thousands of Persons",
+    "units_short": "Thous. of Persons",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2017-03-13 16:09:59-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'x12' package from R with default parameter settings. The package uses the U.S. Bureau of the Census X-12-ARIMA Seasonal Adjustment Program. More information on the 'x12' package can be found at http://cran.r-project.org/web/packages/x12/x12.pdf. More information on X-12-ARIMA can be found at https://www.census.gov/srd/www/x13as/."
+  }
+}

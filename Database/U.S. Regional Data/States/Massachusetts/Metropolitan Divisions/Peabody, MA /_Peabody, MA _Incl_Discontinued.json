@@ -1,0 +1,20 @@
+{
+  "ATNHPIUS37764Q": {
+    "id": "ATNHPIUS37764Q",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "All-Transactions House Price Index for Peabody, MA (MSAD) (DISCONTINUED)",
+    "observation_start": "1979-07-01",
+    "observation_end": "2013-01-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index 1995:Q1=100",
+    "units_short": "Index 1995:Q1=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2013-05-23 10:46:55-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million.\n\nThis series was discontinued because the source uses revised Metropolitan Statistical Areas (MSAs) as announced by the Office of Management and Budget (OMB) on February 28, 2013."
+  }
+}
