@@ -1,0 +1,29 @@
+| id                  | title                                                                                                                           | observation_start   | observation_end   |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| NGMPMINEXOILGASUSMP | Gross Domestic Product: Private Industries: Mining: Mining, Except Oil and Gas for United States Metropolitan Portion           | 2001-01-01          | 2016-01-01        |
+| NGMPMINUSMP         | Gross Domestic Product: Private Industries: Mining for United States Metropolitan Portion                                       | 2001-01-01          | 2020-01-01        |
+| NGMPOILGASUSMP      | Gross Domestic Product: Private Industries: Mining: Oil and Gas Extraction for United States Metropolitan Portion               | 2001-01-01          | 2016-01-01        |
+| NGMPSAMINUSMP       | Gross Domestic Product: Private Industries: Mining: Support Activities for Mining for United States Metropolitan Portion        | 2001-01-01          | 2016-01-01        |
+| QGMPMINEXOILGASUSMP | Quantity Indexes for Real GDP: Private Industries: Mining: Mining, Except Oil and Gas for United States Metropolitan Portion    | 2001-01-01          | 2016-01-01        |
+| QGMPMINUSMP         | Quantity Indexes for Real GDP: Private Industries: Mining for United States Metropolitan Portion                                | 2001-01-01          | 2020-01-01        |
+| QGMPOILGASUSMP      | Quantity Indexes for Real GDP: Private Industries: Mining: Oil and Gas Extraction for United States Metropolitan Portion        | 2001-01-01          | 2016-01-01        |
+| QGMPSAMINUSMP       | Quantity Indexes for Real GDP: Private Industries: Mining: Support Activities for Mining for United States Metropolitan Portion | 2001-01-01          | 2016-01-01        |
+| RGMPMINEXOILGASUSMP | Real Gross Domestic Product: Private Industries: Mining: Mining, Except Oil and Gas for United States Metropolitan Portion      | 2001-01-01          | 2016-01-01        |
+| RGMPMINUSMP         | Real Gross Domestic Product: Private Industries: Mining for United States Metropolitan Portion                                  | 2001-01-01          | 2020-01-01        |
+| RGMPOILGASUSMP      | Real Gross Domestic Product: Private Industries: Mining: Oil and Gas Extraction for United States Metropolitan Portion          | 2001-01-01          | 2016-01-01        |
+| RGMPSAMINUSMP       | Real Gross Domestic Product: Private Industries: Mining: Support Activities for Mining for United States Metropolitan Portion   | 2001-01-01          | 2016-01-01        |
+| USMINEXOILGASNGSP   | Gross Domestic Product: Mining (Except Oil and Gas) (NAICS 212) in the United States                                            | 1997-01-01          | 2020-01-01        |
+| USMINEXOILGASQGSP   | Chain-Type Quantity Index for Real GDP: Mining (Except Oil and Gas) (NAICS 212) in the United States                            | 1997-01-01          | 2020-01-01        |
+| USMINEXOILGASRGSP   | Real Gross Domestic Product: Mining (Except Oil and Gas) (NAICS 212) in the United States                                       | 1997-01-01          | 2020-01-01        |
+| USMINNGSP           | Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                           | 1997-01-01          | 2020-01-01        |
+| USMINNQGSP          | Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                           | 2005-01-01          | 2021-07-01        |
+| USMINQGSP           | Chain-Type Quantity Index for Real GDP: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States           | 1997-01-01          | 2020-01-01        |
+| USMINQQGSP          | Chain-Type Quantity Index for Real GDP: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States           | 2005-01-01          | 2021-07-01        |
+| USMINRGSP           | Real Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                      | 1997-01-01          | 2020-01-01        |
+| USMINRQGSP          | Real Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21) in the United States                      | 2005-01-01          | 2021-07-01        |
+| USOILGASNGSP        | Gross Domestic Product: Oil and Gas Extraction (NAICS 211) in the United States                                                 | 1997-01-01          | 2020-01-01        |
+| USOILGASQGSP        | Chain-Type Quantity Index for Real GDP: Oil and Gas Extraction (NAICS 211) in the United States                                 | 1997-01-01          | 2020-01-01        |
+| USOILGASRGSP        | Real Gross Domestic Product: Oil and Gas Extraction (NAICS 211) in the United States                                            | 1997-01-01          | 2020-01-01        |
+| USSAMINNGSP         | Gross Domestic Product: Support Activities for Mining (NAICS 213) in the United States                                          | 1997-01-01          | 2020-01-01        |
+| USSAMINQGSP         | Chain-Type Quantity Index for Real GDP: Support Activities for Mining (NAICS 213) in the United States                          | 1997-01-01          | 2020-01-01        |
+| USSAMINRGSP         | Real Gross Domestic Product: Support Activities for Mining (NAICS 213) in the United States                                     | 1997-01-01          | 2020-01-01        |

@@ -1,0 +1,47 @@
+| id              | title                                                                                                                                    | observation_start   | observation_end   |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUSR0000SAC     | Consumer Price Index for All Urban Consumers: Commodities in U.S. City Average                                                           | 1956-01-01          | 2022-02-01        |
+| CUSR0000SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in U.S. City Average                                   | 1967-01-01          | 2022-02-01        |
+| CUSR0000SAD     | Consumer Price Index for All Urban Consumers: Durables in U.S. City Average                                                              | 1956-01-01          | 2022-02-01        |
+| CUSR0000SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in U.S. City Average                                   | 1989-01-01          | 2022-02-01        |
+| CUSR0000SANL113 | Consumer Price Index for All Urban Consumers: Nondurables Less Food, Beverages, and Apparel in U.S. City Average                         | 1991-01-01          | 2022-02-01        |
+| CUSR0000SAS     | Consumer Price Index for All Urban Consumers: Services in U.S. City Average                                                              | 1956-01-01          | 2022-02-01        |
+| CUSR0000SAS2RS  | Consumer Price Index for All Urban Consumers: Rent of Shelter in U.S. City Average                                                       | 1990-01-01          | 2022-02-01        |
+| CUSR0000SAS4    | Consumer Price Index for All Urban Consumers: Transportation Services in U.S. City Average                                               | 1956-01-01          | 2022-02-01        |
+| CUSR0000SAS367  | Consumer Price Index for All Urban Consumers: Other Services in U.S. City Average                                                        | 1967-01-01          | 2022-02-01        |
+| CUSR0000SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in U.S. City Average                                                       | 1947-01-01          | 2022-02-01        |
+| CUUR0000SAC     | Consumer Price Index for All Urban Consumers: Commodities in U.S. City Average                                                           | 1935-03-01          | 2022-02-01        |
+| CUUR0000SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in U.S. City Average                                   | 1967-01-01          | 2022-02-01        |
+| CUUR0000SAD     | Consumer Price Index for All Urban Consumers: Durables in U.S. City Average                                                              | 1935-03-01          | 2022-02-01        |
+| CUUR0000SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in U.S. City Average                                   | 1967-01-01          | 2022-02-01        |
+| CUUR0000SANL113 | Consumer Price Index for All Urban Consumers: Nondurables Less Food, Beverages, and Apparel in U.S. City Average                         | 1967-01-01          | 2022-02-01        |
+| CUUR0000SAS     | Consumer Price Index for All Urban Consumers: Services in U.S. City Average                                                              | 1935-03-01          | 2022-02-01        |
+| CUUR0000SAS2RS  | Consumer Price Index for All Urban Consumers: Rent of Shelter in U.S. City Average                                                       | 1982-12-01          | 2022-02-01        |
+| CUUR0000SAS4    | Consumer Price Index for All Urban Consumers: Transportation Services in U.S. City Average                                               | 1935-03-01          | 2022-02-01        |
+| CUUR0000SAS367  | Consumer Price Index for All Urban Consumers: Other Services in U.S. City Average                                                        | 1967-01-01          | 2022-02-01        |
+| CUUR0000SEHD    | Consumer Price Index for All Urban Consumers: Tenants' and Household Insurance in U.S. City Average                                      | 1997-12-01          | 2022-02-01        |
+| CUUR0000SEHP    | Consumer Price Index for All Urban Consumers: Household Operations in U.S. City Average                                                  | 1997-12-01          | 2021-11-01        |
+| CWSR0000SAC     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Commodities in U.S. City Average                                   | 1956-01-01          | 2022-02-01        |
+| CWSR0000SACL11  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Commodities Less Food and Beverages in U.S. City Average           | 1967-01-01          | 2022-02-01        |
+| CWSR0000SAD     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Durables in U.S. City Average                                      | 1956-01-01          | 2022-02-01        |
+| CWSR0000SANL11  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Nondurables Less Food and Beverages in U.S. City Average           | 1989-01-01          | 2022-02-01        |
+| CWSR0000SANL113 | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Nondurables Less Food, Beverages, and Apparel in U.S. City Average | 1991-01-01          | 2022-02-01        |
+| CWSR0000SAS     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Services in U.S. City Average                                      | 1956-01-01          | 2022-02-01        |
+| CWSR0000SAS2RS  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Rent of Shelter in U.S. City Average                               | 1990-01-01          | 2022-02-01        |
+| CWSR0000SAS4    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Transportation Services in U.S. City Average                       | 1956-01-01          | 2022-02-01        |
+| CWSR0000SAS367  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Services in U.S. City Average                                | 1967-01-01          | 2022-02-01        |
+| CWSR0000SEHF    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Energy Services in U.S. City Average                               | 1947-01-01          | 2022-02-01        |
+| CWUR0000SAC     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Commodities in U.S. City Average                                   | 1935-03-01          | 2022-02-01        |
+| CWUR0000SACL11  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Commodities Less Food and Beverages in U.S. City Average           | 1967-01-01          | 2022-02-01        |
+| CWUR0000SAD     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Durables in U.S. City Average                                      | 1935-03-01          | 2022-02-01        |
+| CWUR0000SANL11  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Nondurables Less Food and Beverages in U.S. City Average           | 1967-01-01          | 2022-02-01        |
+| CWUR0000SANL113 | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Nondurables Less Food, Beverages, and Apparel in U.S. City Average | 1967-01-01          | 2022-02-01        |
+| CWUR0000SAS     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Services in U.S. City Average                                      | 1935-03-01          | 2022-02-01        |
+| CWUR0000SAS2RS  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Rent of Shelter in U.S. City Average                               | 1985-01-01          | 2022-02-01        |
+| CWUR0000SAS4    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Transportation Services in U.S. City Average                       | 1935-03-01          | 2022-02-01        |
+| CWUR0000SAS367  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Services in U.S. City Average                                | 1967-01-01          | 2022-02-01        |
+| CWUR0000SEHD    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Tenants' and Household Insurance in U.S. City Average              | 1997-12-01          | 2022-02-01        |
+| CWUR0000SEHP    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Household Operations in U.S. City Average                          | 1997-12-01          | 2022-01-01        |
+| SUUR0000SAC     | Chained Consumer Price Index for All Urban Consumers: Commodities in U.S. City Average                                                   | 1999-12-01          | 2022-02-01        |
+| SUUR0000SAD     | Chained Consumer Price Index for All Urban Consumers: Durables in U.S. City Average                                                      | 1999-12-01          | 2022-02-01        |
+| SUUR0000SAN     | Chained Consumer Price Index for All Urban Consumers: Nondurables in U.S. City Average                                                   | 1999-12-01          | 2022-02-01        |

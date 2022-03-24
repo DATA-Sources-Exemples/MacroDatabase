@@ -1,0 +1,10 @@
+| id         | title                                                                                                                                     | observation_start   | observation_end   |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COOASZ32   | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Asian Newly Industrialized Countries                                      | 2012-06-01          | 2022-02-01        |
+| COOASZ33   | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Asian Newly Industrialized Countries                                      | 2012-06-01          | 2022-02-01        |
+| COOASZ332  | Import Price Index: Fabricated metal product manufacturing for Asian Newly Industrialized Countries                                       | 2012-06-01          | 2018-12-01        |
+| COOASZ333  | Import Price Index by Origin (NAICS): Machinery Manufacturing for Asian Newly Industrialized Countries                                    | 2012-06-01          | 2022-02-01        |
+| COOASZ334  | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Asian Newly Industrialized Countries              | 2012-06-01          | 2022-02-01        |
+| COOASZ335  | Import Price Index: Electrical equipment, appliance, and component manufacturing for Asian Newly Industrialized Countries                 | 2012-06-01          | 2020-12-01        |
+| COOASZ3341 | Import Price Index: Computer and peripheral equipment manufacturing for Asian Newly Industrialized Countries                              | 2012-06-01          | 2020-12-01        |
+| COOASZ3344 | Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Asian Newly Industrialized Countries | 2012-06-01          | 2022-02-01        |

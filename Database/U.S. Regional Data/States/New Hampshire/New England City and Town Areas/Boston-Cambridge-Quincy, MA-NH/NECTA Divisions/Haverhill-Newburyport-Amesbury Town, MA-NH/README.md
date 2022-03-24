@@ -1,0 +1,8 @@
+| id                     | title                                                                                                        | observation_start   | observation_end   |
+|------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU25736049091000001   | All Employees: Government: Federal Government in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division) | 1990-01-01          | 2022-01-01        |
+| SMU25736049091000001A  | All Employees: Government: Federal Government in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division) | 1990-01-01          | 2021-01-01        |
+| SMU25736049091000001SA | All Employees: Government: Federal Government in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division) | 1990-01-01          | 2022-01-01        |
+| SMU25736049092000001   | All Employees: Government: State Government in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)   | 1990-01-01          | 2022-01-01        |
+| SMU25736049092000001A  | All Employees: Government: State Government in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)   | 1990-01-01          | 2021-01-01        |
+| SMU25736049092000001SA | All Employees: Government: State Government in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)   | 1990-01-01          | 2022-01-01        |

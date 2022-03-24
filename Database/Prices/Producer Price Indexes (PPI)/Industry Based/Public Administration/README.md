@@ -1,0 +1,13 @@
+| id                 | title                                                                                                                                       | observation_start   | observation_end   |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCU924126924126    | Producer Price Index by Industry: Premiums for Property and Casualty Insurance                                                              | 1998-06-01          | 2022-02-01        |
+| PCU924126924126P   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Primary Services                                            | 1998-06-01          | 2022-02-01        |
+| PCU9241269241261   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Private Passenger Auto Insurance               | 1998-06-01          | 2022-02-01        |
+| PCU9241269241262   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Homeowner's Insurance                          | 1998-06-01          | 2022-02-01        |
+| PCU9241269241263   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Commercial Auto Insurance                      | 1998-06-01          | 2022-02-01        |
+| PCU9241269241264   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Non-Auto Liability Insurance                   | 1998-06-01          | 2022-02-01        |
+| PCU9241269241265   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Commercial Multiple Peril Insurance            | 1998-06-01          | 2022-02-01        |
+| PCU9241269241266   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Worker's Compensation Insurance                | 1998-06-01          | 2022-02-01        |
+| PCU9241269241267   | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Other Property and Casualty Insurance          | 2003-12-01          | 2022-02-01        |
+| PCU924126924126402 | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Medical Malpractice Insurance                  | 1998-06-01          | 2022-02-01        |
+| PCU924126924126403 | Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Product and Other Non-Auto Liability Insurance | 1998-06-01          | 2022-02-01        |

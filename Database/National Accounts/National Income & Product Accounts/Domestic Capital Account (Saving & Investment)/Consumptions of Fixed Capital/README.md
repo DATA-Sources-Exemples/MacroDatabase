@@ -1,0 +1,83 @@
+| id              | title                                                                                                                                  | observation_start   | observation_end   |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| A024RC1A027NBEA | Consumption of fixed capital: Private                                                                                                  | 1929-01-01          | 2021-01-01        |
+| A024RC1Q027SBEA | Consumption of fixed capital: Private                                                                                                  | 1947-01-01          | 2021-10-01        |
+| A024RX1A020NBEA | Real consumption of fixed capital: Private                                                                                             | 1929-01-01          | 2021-01-01        |
+| A024RX1Q020SBEA | Real consumption of fixed capital: Private                                                                                             | 1947-01-01          | 2021-10-01        |
+| A262RX1A020NBEA | Real consumption of fixed capital                                                                                                      | 1929-01-01          | 2021-01-01        |
+| A262RX1Q020SBEA | Real consumption of fixed capital                                                                                                      | 1947-01-01          | 2021-10-01        |
+| A264RC1A027NBEA | Consumption of fixed capital: Government                                                                                               | 1929-01-01          | 2021-01-01        |
+| A264RC1Q027SBEA | Consumption of fixed capital: Government                                                                                               | 1947-01-01          | 2021-10-01        |
+| A264RX1A020NBEA | Real gross domestic investment: Consumption of fixed capital                                                                           | 1929-01-01          | 2021-01-01        |
+| A264RX1Q020SBEA | Real consumption of fixed capital: Government                                                                                          | 1947-01-01          | 2021-10-01        |
+| A265RC1A027NBEA | Consumption of fixed capital: General government                                                                                       | 1929-01-01          | 2021-01-01        |
+| A265RC1Q027SBEA | Consumption of fixed capital: General government                                                                                       | 1947-01-01          | 2021-10-01        |
+| A265RX1A020NBEA | Real consumption of fixed capital: General government                                                                                  | 1929-01-01          | 2021-01-01        |
+| A265RX1Q020SBEA | Real consumption of fixed capital: General government                                                                                  | 1947-01-01          | 2021-10-01        |
+| A266RC1A027NBEA | Consumption of fixed capital: Government enterprises                                                                                   | 1929-01-01          | 2021-01-01        |
+| A266RC1Q027SBEA | Consumption of fixed capital: Government enterprises                                                                                   | 1947-01-01          | 2021-10-01        |
+| A266RX1A020NBEA | Real consumption of fixed capital: Government: Government enterprises                                                                  | 1929-01-01          | 2021-01-01        |
+| A266RX1Q020SBEA | Real consumption of fixed capital: Government: Government enterprises                                                                  | 1947-01-01          | 2021-10-01        |
+| A438RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Corporate business                                                                    | 1929-01-01          | 2021-01-01        |
+| A753RC1A027NBEA | Net fixed investment: Nonresidential: Consumption of fixed capital                                                                     | 1929-01-01          | 2020-01-01        |
+| A753RX1A020NBEA | Real net fixed investment: Nonresidential: Consumption of fixed capital                                                                | 1967-01-01          | 2020-01-01        |
+| A754RC1A027NBEA | Net fixed investment: Residential: Consumption of fixed capital                                                                        | 1929-01-01          | 2020-01-01        |
+| A754RX1A020NBEA | Real net fixed investment: Residential: Consumption of fixed capital                                                                   | 1967-01-01          | 2020-01-01        |
+| A894RC1A027NBEA | Net government investment: Structures: Consumption of fixed capital                                                                    | 1929-01-01          | 2020-01-01        |
+| A918RC1A027NBEA | Consumption of fixed capital: Government: Federal                                                                                      | 1929-01-01          | 2021-01-01        |
+| A918RC1Q027SBEA | Consumption of fixed capital: Government: Federal                                                                                      | 1947-01-01          | 2021-10-01        |
+| A919RC1A027NBEA | Consumption of fixed capital: Government: State and local                                                                              | 1929-01-01          | 2021-01-01        |
+| A919RC1Q027SBEA | Consumption of fixed capital: Government: State and local                                                                              | 1947-01-01          | 2021-10-01        |
+| A1615C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Sole proprietorships and partnerships                          | 1929-01-01          | 2021-01-01        |
+| A1615C1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Sole proprietorships and partnerships                          | 1947-01-01          | 2021-10-01        |
+| A1618C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons and proprietors' income               | 1929-01-01          | 2021-01-01        |
+| A1618C1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons and proprietors' income               | 1947-01-01          | 2021-10-01        |
+| B188RC1A027NBEA | Net fixed investment: Net nonresidential: Consumption of fixed capital                                                                 | 1929-01-01          | 2020-01-01        |
+| B188RX1A020NBEA | Real net fixed investment: Net nonresidential: Structures: Consumption of fixed capital                                                | 1967-01-01          | 2020-01-01        |
+| B456RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Corporate business: Nonfinancial                                                      | 1929-01-01          | 2021-01-01        |
+| B456RC1Q027SBEA | Consumption of fixed capital: Private: Domestic: Corporate business: Nonfinancial                                                      | 1947-01-01          | 2021-10-01        |
+| B580RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Corporate business: Financial                                                         | 1929-01-01          | 2021-01-01        |
+| B580RC1Q027SBEA | Consumption of fixed capital: Private: Domestic: Corporate business: Financial                                                         | 1947-01-01          | 2021-10-01        |
+| B833RC1A027NBEA | Consumption of fixed capital: Government enterprises: Federal                                                                          | 1929-01-01          | 2021-01-01        |
+| B833RC1Q027SBEA | Consumption of fixed capital: Government enterprises: Federal                                                                          | 1947-01-01          | 2021-10-01        |
+| B846RC1A027NBEA | Consumption of fixed capital: Government enterprises: State and local                                                                  | 1929-01-01          | 2021-01-01        |
+| B846RC1Q027SBEA | Consumption of fixed capital: Government enterprises: State and local                                                                  | 1947-01-01          | 2021-10-01        |
+| B894RX1A020NBEA | Real net government investment: Structures: Consumption of fixed capital                                                               | 2002-01-01          | 2020-01-01        |
+| B986RC1A027NBEA | Consumption of fixed capital: General government: State and local                                                                      | 1929-01-01          | 2021-01-01        |
+| B986RC1Q027SBEA | Consumption of fixed capital: General government: State and local                                                                      | 1947-01-01          | 2021-10-01        |
+| B995RC1A027NBEA | Consumption of fixed capital: General government: Federal                                                                              | 1929-01-01          | 2021-01-01        |
+| B995RC1Q027SBEA | Consumption of fixed capital: General government: Federal                                                                              | 1947-01-01          | 2021-10-01        |
+| B1028X1A020NBEA | Real housing output: Consumption of fixed capital                                                                                      | 2002-01-01          | 2020-01-01        |
+| B1157C1A027NBEA | Rental value of nonresidential fixed assets owned and used by nonprofit institutions serving households: Consumption of fixed capital  | 1929-01-01          | 2020-01-01        |
+| B1616C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Sole proprietorships and partnerships: Farm                    | 1929-01-01          | 2021-01-01        |
+| B1616C1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Sole proprietorships and partnerships: Farm                    | 1947-01-01          | 2021-10-01        |
+| B1617C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Sole proprietorships and partnerships: Nonfarm                 | 1929-01-01          | 2021-01-01        |
+| B1617C1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Sole proprietorships and partnerships: Nonfarm                 | 1947-01-01          | 2021-10-01        |
+| B1619C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Proprietors' income                                            | 1935-01-01          | 2021-01-01        |
+| B1619C1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Proprietors' income                                            | 1947-01-01          | 2021-10-01        |
+| B1620C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons                                       | 1929-01-01          | 2021-01-01        |
+| B1620C1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons                                       | 1947-01-01          | 2021-10-01        |
+| B1621C1A027NBEA | Consumption of fixed capital: Private: Households and institutions: Nonprofit institutions serving households                          | 1929-01-01          | 2021-01-01        |
+| B1621C1Q027SBEA | Consumption of fixed capital: Private: Households and institutions: Nonprofit institutions serving households                          | 1947-01-01          | 2021-10-01        |
+| B1667C1A027NBEA | Consumption of fixed capital: Nonfarm business                                                                                         | 1929-01-01          | 2021-01-01        |
+| B1667C1Q027SBEA | Consumption of fixed capital: Nonfarm business                                                                                         | 1947-01-01          | 2021-10-01        |
+| B2607C1A027NBEA | Consumption of fixed capital: Private: Households and institutions: Owner-occupied housing                                             | 1929-01-01          | 2021-01-01        |
+| B2607C1Q027SBEA | Consumption of fixed capital: Private: Households and institutions: Owner-occupied housing                                             | 1947-01-01          | 2021-10-01        |
+| B2608C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Nonfarm tenant-occupied housing      | 1929-01-01          | 2020-01-01        |
+| B2609C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Farms owned by nonoperator landlords | 1929-01-01          | 2020-01-01        |
+| B2610C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Nonfarm nonresidential properties    | 1929-01-01          | 2020-01-01        |
+| NA000255Q       | Consumption of fixed capital: Government                                                                                               | 2002-01-01          | 2021-10-01        |
+| NA000257Q       | Consumption of fixed capital: Private                                                                                                  | 2002-01-01          | 2021-10-01        |
+| NA000281Q       | Consumption of fixed capital: Government: Federal                                                                                      | 1947-01-01          | 2021-10-01        |
+| NA000282Q       | Consumption of fixed capital: Government: State and local                                                                              | 1947-01-01          | 2021-10-01        |
+| W276RC1A027NBEA | Consumption of fixed capital: Private: Domestic business                                                                               | 1929-01-01          | 2021-01-01        |
+| W276RC1Q027SBEA | Consumption of fixed capital: Private: Domestic business                                                                               | 1947-01-01          | 2021-10-01        |
+| W277RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business                                                                 | 1929-01-01          | 2021-01-01        |
+| W277RC1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business                                                                 | 1947-01-01          | 2021-10-01        |
+| W278RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Farm tenant-occupied housing         | 1929-01-01          | 2020-01-01        |
+| W279RC1A027NBEA | Consumption of fixed capital: Private: Households and institutions                                                                     | 1929-01-01          | 2021-01-01        |
+| W279RC1Q027SBEA | Consumption of fixed capital: Private: Households and institutions                                                                     | 1947-01-01          | 2021-10-01        |
+| W769RC1A027NBEA | State government expenditures: Consumption of fixed capital                                                                            | 1959-01-01          | 2020-01-01        |
+| W869RC1A027NBEA | Local government expenditures: Consumption of fixed capital                                                                            | 1959-01-01          | 2020-01-01        |
+| Y0000C1A027NBEA | Consumption of fixed capital: Private: Domestic business: Capital consumption allowances                                               | 1929-01-01          | 2021-01-01        |
+| Y0000C1Q027SBEA | Consumption of fixed capital: Private: Domestic business: Capital consumption allowances                                               | 1947-01-01          | 2021-10-01        |

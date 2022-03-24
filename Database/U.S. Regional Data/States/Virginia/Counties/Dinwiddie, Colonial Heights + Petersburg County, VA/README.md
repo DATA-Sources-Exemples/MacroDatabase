@@ -1,0 +1,10 @@
+| id                | title                                                                                                                              | observation_start   | observation_end   |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| GDPALL51918       | Gross Domestic Product: All Industries in Dinwiddie, Colonial Heights + Petersburg County, VA                                      | 2001-01-01          | 2020-01-01        |
+| GDPGOODS51918     | Gross Domestic Product: Private Goods-Producing Industries in Dinwiddie, Colonial Heights + Petersburg County, VA                  | 2001-01-01          | 2020-01-01        |
+| GDPGOVT51918      | Gross Domestic Product: Government and Government Enterprises in Dinwiddie, Colonial Heights + Petersburg County, VA               | 2001-01-01          | 2020-01-01        |
+| GDPSERV51918      | Gross Domestic Product: Private Services-Providing Industries in Dinwiddie, Colonial Heights + Petersburg County, VA               | 2001-01-01          | 2020-01-01        |
+| REALGDPALL51918   | Real Gross Domestic Product: All Industries in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA                        | 2001-01-01          | 2020-01-01        |
+| REALGDPGOODS51918 | Real Gross Domestic Product: Private Goods-Producing Industries in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA    | 2001-01-01          | 2020-01-01        |
+| REALGDPGOVT51918  | Real Gross Domestic Product: Government and Government Enterprises in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA | 2001-01-01          | 2020-01-01        |
+| REALGDPSERV51918  | Real Gross Domestic Product: Private Services-Providing Industries in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA | 2001-01-01          | 2020-01-01        |

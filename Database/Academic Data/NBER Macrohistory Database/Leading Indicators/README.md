@@ -1,0 +1,64 @@
+| id               | title                                                                                                                                | observation_start   | observation_end   |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| M1602AUSM357SNBR | Amplitude Adjusted Composite Index of Leading Series, Six Series, Unweighted for United States                                       | 1919-01-01          | 1940-12-01        |
+| M1602BUSM358SNBR | Amplitude-Adjusted Composite Index of Leading Series, Eight Series, Weighted for United States                                       | 1948-01-01          | 1964-09-01        |
+| M1603AUSM357SNBR | Composite Index of Six Roughly Coincident Series, Amplitude-Adjusted, Unweighted for United States                                   | 1919-01-01          | 1940-12-01        |
+| M1603BUSM358SNBR | Composite Index of Six Roughly Coincident Series, Amplitude-Adjusted, Weighted for United States                                     | 1948-01-01          | 1966-03-01        |
+| M1607AUSM156SNBR | Adjusted Rates of Change of Composite Index of Leading Series, Six Series for United States                                          | 1919-02-01          | 1940-12-01        |
+| M1607BUSM156SNBR | Adjusted Rates of Change of Composite Index of Leading Series, Eight Series for United States                                        | 1948-02-01          | 1964-09-01        |
+| M1608AUSM156SNBR | Adjusted Rates of Change of Composite Index of Six Roughly Coincident Series for United States                                       | 1919-02-01          | 1940-12-01        |
+| M1608BUSM156SNBR | Adjusted Rates of Change of Composite Index of Six Roughly Coincident Series for United States                                       | 1948-02-01          | 1964-09-01        |
+| M1621AUSM509SNBR | Diffusion Index, Manufacturers' New Orders for Durable Goods, Twenty-One Industries, One Month Span for United States                | 1949-02-01          | 1953-12-01        |
+| M1621BUSM509SNBR | Diffusion Index, Manufacturers' New Orders for Durable Goods, Thirty-Six Industries, One Month Span for United States                | 1954-01-01          | 1963-12-01        |
+| M1622AUSM509SNBR | Diffusion Index, Manufacturers' New Orders for Durable Goods, Twenty-One Industries, Nine Month Span for United States               | 1949-06-01          | 1953-12-01        |
+| M1622BUSM509SNBR | Diffusion Index, Manufacturers' New Orders for Durable Goods, Thirty-Six Industries, Nine Month Span for United States               | 1954-01-01          | 1964-10-01        |
+| M1642AUSM461SNBR | Cumulated Net Diffusion Index, Manufacturers' New Orders for Durable Goods, Twenty-One Industries, One Month Span for United States  | 1949-02-01          | 1953-12-01        |
+| M1642BUSM461SNBR | Cumulated Net Diffusion Index, Manufacturers' New Orders for Durable Goods, Thirty-Six Industries, One Month Span for United States  | 1954-01-01          | 1963-12-01        |
+| M1643AUSM461SNBR | Cumulated Net Diffusion Index, Manufacturers' New Orders for Durable Goods, Twenty-One Industries, Nine Month Span for United States | 1949-06-01          | 1953-12-01        |
+| M1643BUSM461SNBR | Cumulated Net Diffusion Index, Manufacturers' New Orders for Durable Goods, Thirty-Six Industries, Nine Month Span for United States | 1954-01-01          | 1963-12-01        |
+| M1655AUSM272SNBR | Cumulated Net Diffusion Index, Industrial Production, 16-24 Industries, One Month Span for United States                             | 1919-02-01          | 1940-12-01        |
+| M1655BUSM272SNBR | Cumulated Net Diffusion Index, Industrial Production, 16-24 Industries, One Month Span for United States                             | 1947-02-01          | 1963-12-01        |
+| M1656AUSM272SNBR | Cumulated Net Diffusion Index, Industrial Production, 16-24 Industries, Six Month Span for United States                             | 1919-04-01          | 1940-09-01        |
+| M1656BUSM272SNBR | Cumulated Net Diffusion Index, Industrial Production, 16-24 Industries, Six Month Span for United States                             | 1947-04-01          | 1964-05-01        |
+| M1687AUSM509NNBR | Diffusion Index, New Orders, 225 Companies, One Month Span for United States                                                         | 1948-01-01          | 1958-12-01        |
+| M1687BUSM509SNBR | Diffusion Index, New Orders, 225 Companies, One Month Span for United States                                                         | 1948-01-01          | 1958-12-01        |
+| M16001USM358SNBR | Amplitude-Adjusted Composite Index of Twenty Leading Series, Unweighted for United States                                            | 1948-01-01          | 1964-09-01        |
+| M16004USM358SNBR | Composite Index of Four Roughly Coincident Series, Amplitude-Adjusted, Unweighted for United States                                  | 1948-01-01          | 1964-09-01        |
+| M16005USM358SNBR | Composite Index of Three Lagging Indicators, Amplitude-Adjusted, Weighted for United States                                          | 1948-01-01          | 1966-03-01        |
+| M16006USM156SNBR | Adjusted Rates of Change of Composite Indexes of Twenty Leading Series for United States                                             | 1948-02-01          | 1964-09-01        |
+| M16009USM156SNBR | Adjusted Rates of Change of Composite Index of Four Sensitive Roughly Coincident Series for United States                            | 1948-02-01          | 1964-09-01        |
+| M16010USM156SNBR | Adjusted Rates of Change of Composite Index of Three Lagging Series for United States                                                | 1948-02-01          | 1964-09-01        |
+| M16011USM509SNBR | Comprehensive Diffusion Index, Eighty Leading Series, One Month Span for United States                                               | 1948-02-01          | 1964-04-01        |
+| M16012USM509SNBR | Comprehensive Diffusion Index, Eighty Leading Series, Nine Month Span for United States                                              | 1948-06-01          | 1963-12-01        |
+| M16013USM509SNBR | Comprehensive Diffusion Index, Fifty-Four Roughly Coincident Series, One Month Span for United States                                | 1948-02-01          | 1964-09-01        |
+| M16014USM509SNBR | Comprehensive Diffusion Index, Fifty-Four Roughly Coincident Series, Six Month Span for United States                                | 1948-04-01          | 1964-06-01        |
+| M16015USM509SNBR | Cumulated Net Diffusion Index, Eighty Leading Series, One Month Span for United States                                               | 1948-02-01          | 1964-04-01        |
+| M16016USM509SNBR | Cumulated Net Diffusion Index, Eighty Leading Series, Nine Month Span for United States                                              | 1948-07-01          | 1963-12-01        |
+| M16017USM460SNBR | Cumulated Net Diffusion Index, Fifty-Four Roughly Coincident Series, One Month Span for United States                                | 1948-02-01          | 1964-09-01        |
+| M16018USM460SNBR | Cumulated Net Diffusion Index, Fifty-Four Roughly Coincident Series, Six Month Span for United States                                | 1948-04-01          | 1964-06-01        |
+| M16019USM509SNBR | Diffusion Index, Average Workweek, Twenty-One Manufacturing Industries, One Month Span for United States                             | 1948-02-01          | 1964-08-01        |
+| M16020USM509SNBR | Diffusion Index, Average Workweek, Twenty-One Manufacturing Industries, Nine Month Span for United States                            | 1948-06-01          | 1964-10-01        |
+| M16053USM461SNBR | Cumulated Net Diffusion Index, Employees in Nonagricultural Establishments, Thirty Industries, One Month Span for United States      | 1948-02-01          | 1964-08-01        |
+| M16054USM461SNBR | Cumulated Net Diffusion Index, Employees in Nonagricultural Establishments, Thirty Industries, Six Month Span for United States      | 1948-04-01          | 1964-05-01        |
+| M16058USM272SNBR | Cumulated Net Diffusion Index, Sales of Retail Stores, Twenty-Four Types of Stores, Nine Month Span for United States                | 1953-06-01          | 1963-12-01        |
+| M16070USM358SNBR | Amplitude-Adjusted Composite Index of Twenty-Eight Weighted Leading Indicators for United States                                     | 1948-01-01          | 1966-03-01        |
+| M16071USM358SNBR | Reverse Trend-Adjusted Composite Index of Twenty-Eight Weighted Leading Indicators for United States                                 | 1948-01-01          | 1966-03-01        |
+| M16072USM351SNBR | Composite Index of Twelve Leading Indicators, Original Trend, Short List for United States                                           | 1948-01-01          | 1969-12-01        |
+| M16073USM358SNBR | Composite Index of Seven Roughly Coincident Series on NBER 1966 Short List, Amplitude-Adjusted, Weighted for United States           | 1948-01-01          | 1967-01-01        |
+| M16075USM358SNBR | Composite Index of Twelve Leading Indicators, Reverse Trend Adjusted for United States                                               | 1948-01-01          | 1968-10-01        |
+| M16078USM509SNBR | Diffusion Index of Eight Leading Indicators, Three-Six Month Span for United States                                                  | 1919-04-01          | 1958-12-01        |
+| M16080USM509SNBR | Diffusion Index, Average Workweek, Twenty-One Manufacturing Industries, Three Month Span for United States                           | 1948-03-01          | 1958-12-01        |
+| M16081USM509SNBR | Diffusion Index, Initial Claims for Unemployment Insurance, Forty-Seven Areas, Inverted, Three Month Span for United States          | 1952-01-01          | 1958-12-01        |
+| M16082USM509SNBR | Diffusion Index, Manufacturers' New Orders for Durable Goods, Value, Twenty-One Industries, Three Month Span for United States       | 1949-03-01          | 1958-12-01        |
+| M16084USM509SNBR | Diffusion Index, Basic Commodity Spot Market Prices, Three Month Span for United States                                              | 1948-03-01          | 1958-12-01        |
+| M16091USM509NNBR | Cumulated Net Diffusion Index, Industrial Raw Materials Spot Market Prices, Thirteen Commodities, Three Month Span for United States | 1948-03-01          | 1958-12-01        |
+| M16095USM509SNBR | Diffusion Index, Employment in Nonagricultural Establishments, Thirty-Two Industries, One Month Span for United States               | 1948-04-01          | 1958-12-01        |
+| Q1689AUSQ509NNBR | Diffusion Index, Profits, 1450 Manufacturers, Wholesalers and Retailers, Four Quarter Span for United States                         | 1948-07-01          | 1958-10-01        |
+| Q1689BUSQ509SNBR | Diffusion Index, Profits, 1450 Manufacturers, Wholesalers and Retailers, Four Quarter Span for United States                         | 1949-04-01          | 1958-10-01        |
+| Q1699AUSQ509NNBR | Diffusion Index, Manufacturers' Sales, 800 Concerns, Four Quarter Span for United States                                             | 1948-07-01          | 1958-10-01        |
+| Q1699BUSQ509SNBR | Diffusion Index, Manufacturers' Sales, 800 Concerns, Four Quarter Span for United States                                             | 1949-04-01          | 1958-10-01        |
+| Q16046USQ272SNBR | Cumulated Net Diffusion Index, Profits of 17-700 Manufacturing Corporations, One Quarter Span for United States                      | 1920-04-01          | 1965-04-01        |
+| Q16088USQ509NNBR | Diffusion Index, New Capital Appropriations, 500 Manufacturing Companies, Four Quarter Span for United States                        | 1953-07-01          | 1958-10-01        |
+| Q16090USQ509SNBR | Diffusion Index, Profits Per Dollar of Sales, Twenty-Two Manufacturing Industries, Four Quarter Span for United States               | 1947-04-01          | 1958-10-01        |
+| Q16098USQ509NNBR | Diffusion Index, Freight Car loadings, Nineteen Commodity Groups, Four Quarter Span for United States                                | 1927-01-01          | 1958-10-01        |
+| Q16105USQ509NNBR | Diffusion Index, Plant and Equipment Expenditures, Actual and Expected, 19-22 Industries, Four Quarter Span for United States        | 1947-07-01          | 1958-10-01        |

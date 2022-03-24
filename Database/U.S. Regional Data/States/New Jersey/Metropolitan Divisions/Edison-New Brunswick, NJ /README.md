@@ -1,0 +1,3 @@
+| id             | title                                                                    | observation_start   | observation_end   |
+|----------------|--------------------------------------------------------------------------|---------------------|-------------------|
+| ATNHPIUS35154Q | All-Transactions House Price Index for New Brunswick-Lakewood, NJ (MSAD) | 1976-07-01          | 2021-10-01        |

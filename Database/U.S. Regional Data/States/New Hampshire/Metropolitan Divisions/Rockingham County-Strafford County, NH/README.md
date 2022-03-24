@@ -1,0 +1,3 @@
+| id             | title                                                                                | observation_start   | observation_end   |
+|----------------|--------------------------------------------------------------------------------------|---------------------|-------------------|
+| ATNHPIUS40484Q | All-Transactions House Price Index for Rockingham County-Strafford County, NH (MSAD) | 1983-04-01          | 2021-10-01        |

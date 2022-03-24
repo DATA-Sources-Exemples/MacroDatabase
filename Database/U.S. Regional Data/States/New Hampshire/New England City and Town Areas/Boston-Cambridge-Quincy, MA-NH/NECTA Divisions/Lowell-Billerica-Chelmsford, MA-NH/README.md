@@ -1,0 +1,8 @@
+| id                     | title                                                                                                                                          | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU25748044100000001   | All Employees: Wholesale Trade in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU25748044100000001A  | All Employees: Wholesale Trade in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU25748044100000001SA | All Employees: Wholesale Trade in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU25748044300000001   | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) | 1990-01-01          | 2022-01-01        |
+| SMU25748044300000001A  | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) | 1990-01-01          | 2021-01-01        |
+| SMU25748044300000001SA | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division) | 1990-01-01          | 2022-01-01        |

@@ -1,0 +1,61 @@
+| id                 | title                                                                                                                               | observation_start   | observation_end   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| G20B6BLSI01CXCUQ   | Balance of payments BPM6: Current account Balance: Secondary income: Total Balance for G20                                          | 2006-01-01          | 2017-10-01        |
+| G20B6BLTT02STSAQ   | Balance of payments BPM6: Current account Balance: Total: Total Balance as % of GDP for G20                                         | 2006-01-01          | 2017-10-01        |
+| G20B6CATT00CXCUQ   | Balance of payments BPM6: Capital account: Capital account Balance: Capital account Balance for G20                                 | 2006-01-01          | 2017-10-01        |
+| G20B6CRSE02STSAQ   | Balance of payments BPM6: Current account Credits: Services: Total Credits as % of Current account for G20                          | 2006-01-01          | 2017-10-01        |
+| G20B6CRSE03STSAQ   | Balance of payments BPM6: Current account Credits: Services: Total Credits as % of Goods and Services for G20                       | 2006-01-01          | 2017-10-01        |
+| G20B6CRSI01CXCUQ   | Balance of payments BPM6: Current account Credits: Secondary income: Total Credits for G20                                          | 2006-01-01          | 2017-10-01        |
+| G20B6DBSE01CXCUQ   | Balance of payments BPM6: Current account Debits: Services: Total Debits for G20                                                    | 2006-01-01          | 2017-10-01        |
+| G20B6DBSE01CXCUSAQ | Balance of payments BPM6: Current account Debits: Services: Total Debits for G20                                                    | 2006-01-01          | 2017-10-01        |
+| G20B6DBSE02STSAQ   | Balance of payments BPM6: Current account Debits: Services: Total Debits as % of Current account for G20                            | 2006-01-01          | 2017-10-01        |
+| G20B6DBSE03STSAQ   | Balance of payments BPM6: Current account Debits: Services: Total Debits as % of Goods and Services for G20                         | 2006-01-01          | 2017-10-01        |
+| G20B6DBSI01CXCUQ   | Balance of payments BPM6: Current account Debits: Secondary income: Total Debits for G20                                            | 2006-01-01          | 2017-10-01        |
+| G20B6DBTD01CXCUQ   | Balance of payments BPM6: Current account Debits: Goods: Total Debits for G20                                                       | 2006-01-01          | 2017-10-01        |
+| G20B6DBTD01CXCUSAQ | Balance of payments BPM6: Current account Debits: Goods: Total Debits for G20                                                       | 2006-01-01          | 2017-10-01        |
+| G20B6FADI01CXCUQ   | Balance of payments BPM6: Financial account: Direct investment: Direct investment Net for G20                                       | 2008-01-01          | 2017-10-01        |
+| G20B6FADI02CXCUQ   | Balance of payments BPM6: Financial account: Direct investment: Direct investment Net acquisition of financial assets for G20       | 2008-01-01          | 2017-10-01        |
+| G20B6FADI03CXCUQ   | Balance of payments BPM6: Financial account: Direct investment: Direct investment Net incurrence of liabilities for G20             | 2008-01-01          | 2017-10-01        |
+| G20B6FAFD01CXCUQ   | Balance of payments BPM6: Financial account: Financial derivatives: Financial derivatives Net for G20                               | 2008-01-01          | 2017-10-01        |
+| G20B6FAOI01CXCUQ   | Balance of payments BPM6: Financial account: Other investment: Other investment Net for G20                                         | 2008-01-01          | 2017-10-01        |
+| G20B6FAOI02CXCUQ   | Balance of payments BPM6: Financial account: Other investment: Other investment Net acquisition of financial assets for G20         | 2008-01-01          | 2017-10-01        |
+| G20B6FAOI03CXCUQ   | Balance of payments BPM6: Financial account: Other investment: Other investment Net incurrence of liabilities for G20               | 2008-01-01          | 2017-10-01        |
+| G20B6FAPI02CXCUQ   | Balance of payments BPM6: Financial account: Portfolio investment: Portfolio investment Net acquisition of financial assets for G20 | 2008-01-01          | 2017-10-01        |
+| G20B6FAPI03CXCUQ   | Balance of payments BPM6: Financial account: Portfolio investment: Portfolio investment Net incurrence of liabilities for G20       | 2008-01-01          | 2017-10-01        |
+| G20B6FAPI10CXCUQ   | Balance of payments BPM6: Financial account: Portfolio investment: Portfolio investment Net for G20                                 | 2008-01-01          | 2017-10-01        |
+| G20B6FARA01CXCUQ   | Balance of payments BPM6: Financial account: Reserve assets: Reserve assets Net for G20                                             | 2008-01-01          | 2017-10-01        |
+| G20B6FATC01CXCUQ   | Balance of payments BPM6: Financial account: Financial account Net acquisition of financial assets: Total for G20                   | 2008-01-01          | 2017-10-01        |
+| G20B6FATD01CXCUQ   | Balance of payments BPM6: Financial account: Financial account Net incurrence of liabilities: Total for G20                         | 2008-01-01          | 2017-10-01        |
+| G20B6FATT01CXCUQ   | Balance of payments BPM6: Financial account: Financial account Net: Total for G20                                                   | 2008-01-01          | 2017-10-01        |
+| G20CPALTT01GPM     | Consumer Price Index: All items: Total: Total for G20                                                                               | 1996-02-01          | 2018-05-01        |
+| G20CPALTT01GPQ     | Consumer Price Index: All items: Total: Total for G20                                                                               | 1996-04-01          | 2018-01-01        |
+| G20CPALTT01GYM     | Consumer Price Index: All items: Total: Total for G20                                                                               | 1997-01-01          | 2018-05-01        |
+| G20CPALTT01GYQ     | Consumer Price Index: All items: Total: Total for G20                                                                               | 1997-01-01          | 2018-01-01        |
+| G20CPALTT01IXOBM   | Consumer Price Index: All items: Total: Total for G20                                                                               | 1996-01-01          | 2018-05-01        |
+| G20CPALTT01IXOBQ   | Consumer Price Index: All items: Total: Total for G20                                                                               | 1996-01-01          | 2018-01-01        |
+| G20NAEXKP01GPSAQ   | National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for G20                                      | 1998-04-01          | 2018-01-01        |
+| G20NAEXKP01GYSAQ   | National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for G20                                      | 1999-01-01          | 2018-01-01        |
+| G20NAEXKP01IXOBSAQ | National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for G20                                      | 1998-01-01          | 2017-10-01        |
+| G20NAEXKP01STSAQ   | National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for G20                                      | 1998-01-01          | 2017-10-01        |
+| G20XTEXVA01CXMLM   | International Trade: Exports: Value (goods): Total for G20                                                                          | 2016-05-01          | 2018-04-01        |
+| G20XTEXVA01CXMLQ   | International Trade: Exports: Value (goods): Total for G20                                                                          | 2006-01-01          | 2018-01-01        |
+| G20XTEXVA01CXMLSAM | International Trade: Exports: Value (goods): Total for G20                                                                          | 2016-05-01          | 2018-04-01        |
+| G20XTEXVA01CXMLSAQ | International Trade: Exports: Value (goods): Total for G20                                                                          | 1999-01-01          | 2018-01-01        |
+| G20XTEXVA01GPSAM   | International Trade: Exports: Value (goods): Total for G20                                                                          | 2016-06-01          | 2018-04-01        |
+| G20XTEXVA01GPSAQ   | International Trade: Exports: Value (goods): Total for G20                                                                          | 1999-04-01          | 2018-01-01        |
+| G20XTEXVA01GYSAM   | International Trade: Exports: Value (goods): Total for G20                                                                          | 2017-05-01          | 2018-04-01        |
+| G20XTEXVA01GYSAQ   | International Trade: Exports: Value (goods): Total for G20                                                                          | 2000-01-01          | 2018-01-01        |
+| G20XTEXVA01STSAQ   | International Trade: Exports: Value (goods): Total for G20                                                                          | 2004-01-01          | 2017-10-01        |
+| G20XTIMVA01CXMLM   | International Trade: Imports: Value (goods): Total for G20                                                                          | 2014-01-01          | 2018-04-01        |
+| G20XTIMVA01CXMLQ   | International Trade: Imports: Value (goods): Total for G20                                                                          | 2005-01-01          | 2018-01-01        |
+| G20XTIMVA01CXMLSAM | International Trade: Imports: Value (goods): Total for G20                                                                          | 2014-01-01          | 2018-04-01        |
+| G20XTIMVA01CXMLSAQ | International Trade: Imports: Value (goods): Total for G20                                                                          | 1999-01-01          | 2018-01-01        |
+| G20XTIMVA01GPSAM   | International Trade: Imports: Value (goods): Total for G20                                                                          | 2014-02-01          | 2018-04-01        |
+| G20XTIMVA01GPSAQ   | International Trade: Imports: Value (goods): Total for G20                                                                          | 1999-04-01          | 2018-01-01        |
+| G20XTIMVA01GYSAM   | International Trade: Imports: Value (goods): Total for G20                                                                          | 2015-01-01          | 2018-04-01        |
+| G20XTIMVA01GYSAQ   | International Trade: Imports: Value (goods): Total for G20                                                                          | 2000-01-01          | 2018-01-01        |
+| G20XTIMVA01STSAQ   | International Trade: Imports: Value (goods): Total for G20                                                                          | 2004-01-01          | 2017-10-01        |
+| G20XTNTVA01CXMLM   | International Trade: Net trade: Value (goods): Total for G20                                                                        | 2016-05-01          | 2018-04-01        |
+| G20XTNTVA01CXMLQ   | International Trade: Net trade: Value (goods): Total for G20                                                                        | 2006-01-01          | 2018-01-01        |
+| G20XTNTVA01CXMLSAM | International Trade: Net trade: Value (goods): Total for G20                                                                        | 2016-05-01          | 2018-04-01        |
+| G20XTNTVA01CXMLSAQ | International Trade: Net trade: Value (goods): Total for G20                                                                        | 1999-01-01          | 2018-01-01        |

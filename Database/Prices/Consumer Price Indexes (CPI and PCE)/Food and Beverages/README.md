@@ -1,0 +1,76 @@
+| id              | title                                                                                                                                    | observation_start   | observation_end   |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CPIFABNS        | Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average                                                    | 1967-01-01          | 2022-02-01        |
+| CPIFABSL        | Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average                                                    | 1967-01-01          | 2022-02-01        |
+| CPIUFDNS        | Consumer Price Index for All Urban Consumers: Food in U.S. City Average                                                                  | 1913-01-01          | 2022-02-01        |
+| CPIUFDSL        | Consumer Price Index for All Urban Consumers: Food in U.S. City Average                                                                  | 1947-01-01          | 2022-02-01        |
+| CUSR0000SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average                                                          | 1952-01-01          | 2022-02-01        |
+| CUSR0000SAF111  | Consumer Price Index for All Urban Consumers: Cereals and Bakery Products in U.S. City Average                                           | 1989-01-01          | 2022-02-01        |
+| CUSR0000SAF112  | Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average                                        | 1967-01-01          | 2022-02-01        |
+| CUSR0000SAF113  | Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average                                                 | 1947-01-01          | 2022-02-01        |
+| CUSR0000SAF114  | Consumer Price Index for All Urban Consumers: Nonalcoholic Beverages and Beverage Materials in U.S. City Average                         | 1947-01-01          | 2022-02-01        |
+| CUSR0000SAF115  | Consumer Price Index for All Urban Consumers: Other Food at Home in U.S. City Average                                                    | 1967-01-01          | 2022-02-01        |
+| CUSR0000SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in U.S. City Average                                                   | 1967-01-01          | 2022-02-01        |
+| CUSR0000SEFJ    | Consumer Price Index for All Urban Consumers: Dairy and Related Products in U.S. City Average                                            | 1989-01-01          | 2022-02-01        |
+| CUSR0000SEFP01  | Consumer Price Index for All Urban Consumers: Coffee in U.S. City Average                                                                | 2003-01-01          | 2022-02-01        |
+| CUSR0000SEFR    | Consumer Price Index for All Urban Consumers: Sugar and Sweets in U.S. City Average                                                      | 1989-01-01          | 2022-02-01        |
+| CUSR0000SEFS    | Consumer Price Index for All Urban Consumers: Fats and Oils in U.S. City Average                                                         | 1989-01-01          | 2022-02-01        |
+| CUSR0000SEFT    | Consumer Price Index for All Urban Consumers: Other Foods in U.S. City Average                                                           | 1981-01-01          | 2022-02-01        |
+| CUSR0000SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average                                                   | 1953-01-01          | 2022-02-01        |
+| CUSR0000SEFV05  | Consumer Price Index for All Urban Consumers: Other Food Away from Home in U.S. City Average                                             | 1998-01-01          | 2022-02-01        |
+| CUSR0000SEFW    | Consumer Price Index for All Urban Consumers: Alcoholic Beverages at Home in U.S. City Average                                           | 1978-01-01          | 2022-02-01        |
+| CUSR0000SEFX    | Consumer Price Index for All Urban Consumers: Alcoholic Beverages Away from Home in U.S. City Average                                    | 1978-01-01          | 2022-02-01        |
+| CUSR0000SS61031 | Consumer Price Index for All Urban Consumers: Pet Food in U.S. City Average                                                              | 2002-01-01          | 2022-02-01        |
+| CUUR0000SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average                                                          | 1947-01-01          | 2022-02-01        |
+| CUUR0000SAF111  | Consumer Price Index for All Urban Consumers: Cereals and Bakery Products in U.S. City Average                                           | 1935-01-01          | 2022-02-01        |
+| CUUR0000SAF112  | Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average                                        | 1967-01-01          | 2022-02-01        |
+| CUUR0000SAF113  | Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average                                                 | 1935-01-01          | 2022-02-01        |
+| CUUR0000SAF114  | Consumer Price Index for All Urban Consumers: Nonalcoholic Beverages and Beverage Materials in U.S. City Average                         | 1947-01-01          | 2022-02-01        |
+| CUUR0000SAF115  | Consumer Price Index for All Urban Consumers: Other Food at Home in U.S. City Average                                                    | 1967-01-01          | 2022-02-01        |
+| CUUR0000SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in U.S. City Average                                                   | 1952-12-01          | 2022-02-01        |
+| CUUR0000SEFJ    | Consumer Price Index for All Urban Consumers: Dairy and Related Products in U.S. City Average                                            | 1935-01-01          | 2022-02-01        |
+| CUUR0000SEFP01  | Consumer Price Index for All Urban Consumers: Coffee in U.S. City Average                                                                | 1967-01-01          | 2022-02-01        |
+| CUUR0000SEFR    | Consumer Price Index for All Urban Consumers: Sugar and Sweets in U.S. City Average                                                      | 1935-01-01          | 2022-02-01        |
+| CUUR0000SEFR02  | Consumer Price Index for All Urban Consumers: Candy and Chewing Gum in U.S. City Average                                                 | 1997-12-01          | 2022-02-01        |
+| CUUR0000SEFS    | Consumer Price Index for All Urban Consumers: Fats and Oils in U.S. City Average                                                         | 1967-01-01          | 2022-02-01        |
+| CUUR0000SEFT    | Consumer Price Index for All Urban Consumers: Other Foods in U.S. City Average                                                           | 1963-12-01          | 2022-02-01        |
+| CUUR0000SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average                                                   | 1953-01-01          | 2022-02-01        |
+| CUUR0000SEFV05  | Consumer Price Index for All Urban Consumers: Other Food Away from Home in U.S. City Average                                             | 1997-12-01          | 2022-02-01        |
+| CUUR0000SEFW    | Consumer Price Index for All Urban Consumers: Alcoholic Beverages at Home in U.S. City Average                                           | 1977-12-01          | 2022-02-01        |
+| CUUR0000SEFX    | Consumer Price Index for All Urban Consumers: Alcoholic Beverages Away from Home in U.S. City Average                                    | 1977-12-01          | 2022-02-01        |
+| CUUR0000SS61031 | Consumer Price Index for All Urban Consumers: Pet Food in U.S. City Average                                                              | 1997-12-01          | 2022-02-01        |
+| CWSR0000SAF     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food and Beverages in U.S. City Average                            | 1967-01-01          | 2022-02-01        |
+| CWSR0000SAF1    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food in U.S. City Average                                          | 1947-01-01          | 2022-02-01        |
+| CWSR0000SAF11   | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food at Home in U.S. City Average                                  | 1952-01-01          | 2022-02-01        |
+| CWSR0000SAF111  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Cereals and Bakery Products in U.S. City Average                   | 1989-01-01          | 2022-02-01        |
+| CWSR0000SAF112  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Meats, Poultry, Fish, and Eggs in U.S. City Average                | 1967-01-01          | 2022-02-01        |
+| CWSR0000SAF113  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Fruits and Vegetables in U.S. City Average                         | 1947-01-01          | 2022-02-01        |
+| CWSR0000SAF114  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Nonalcoholic Beverages and Beverage Materials in U.S. City Average | 1947-01-01          | 2022-02-01        |
+| CWSR0000SAF115  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Food at Home in U.S. City Average                            | 1967-01-01          | 2022-02-01        |
+| CWSR0000SAF116  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Alcoholic Beverages in U.S. City Average                           | 1967-01-01          | 2022-02-01        |
+| CWSR0000SEFJ    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Dairy and Related Products in U.S. City Average                    | 1989-01-01          | 2022-02-01        |
+| CWSR0000SEFR    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Sugar and Sweets in U.S. City Average                              | 1989-01-01          | 2022-02-01        |
+| CWSR0000SEFS    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Fats and Oils in U.S. City Average                                 | 1989-01-01          | 2022-02-01        |
+| CWSR0000SEFT    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Foods in U.S. City Average                                   | 1981-01-01          | 2022-02-01        |
+| CWSR0000SEFV    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food Away from Home in U.S. City Average                           | 1953-01-01          | 2022-02-01        |
+| CWSR0000SEFV05  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Food Away from Home in U.S. City Average                     | 1998-01-01          | 2022-02-01        |
+| CWUR0000SAF     | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food and Beverages in U.S. City Average                            | 1967-01-01          | 2022-02-01        |
+| CWUR0000SAF1    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food in U.S. City Average                                          | 1913-01-01          | 2022-02-01        |
+| CWUR0000SAF11   | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food at Home in U.S. City Average                                  | 1947-01-01          | 2022-02-01        |
+| CWUR0000SAF111  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Cereals and Bakery Products in U.S. City Average                   | 1935-01-01          | 2022-02-01        |
+| CWUR0000SAF112  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Meats, Poultry, Fish, and Eggs in U.S. City Average                | 1967-01-01          | 2022-02-01        |
+| CWUR0000SAF113  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Fruits and Vegetables in U.S. City Average                         | 1935-01-01          | 2022-02-01        |
+| CWUR0000SAF114  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Nonalcoholic Beverages and Beverage Materials in U.S. City Average | 1947-01-01          | 2022-02-01        |
+| CWUR0000SAF115  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Food at Home in U.S. City Average                            | 1967-01-01          | 2022-02-01        |
+| CWUR0000SAF116  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Alcoholic Beverages in U.S. City Average                           | 1952-12-01          | 2022-02-01        |
+| CWUR0000SEFJ    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Dairy and Related Products in U.S. City Average                    | 1935-01-01          | 2022-02-01        |
+| CWUR0000SEFR    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Sugar and Sweets in U.S. City Average                              | 1935-01-01          | 2022-02-01        |
+| CWUR0000SEFS    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Fats and Oils in U.S. City Average                                 | 1967-01-01          | 2022-02-01        |
+| CWUR0000SEFT    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Foods in U.S. City Average                                   | 1963-12-01          | 2022-02-01        |
+| CWUR0000SEFV    | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Food Away from Home in U.S. City Average                           | 1953-01-01          | 2022-02-01        |
+| CWUR0000SEFV05  | Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Food Away from Home in U.S. City Average                     | 1997-12-01          | 2022-02-01        |
+| SUUR0000SAF     | Chained Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average                                            | 1999-12-01          | 2022-02-01        |
+| SUUR0000SAF1    | Chained Consumer Price Index for All Urban Consumers: Food in U.S. City Average                                                          | 1999-12-01          | 2022-02-01        |
+| SUUR0000SAF11   | Chained Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average                                                  | 1999-12-01          | 2022-02-01        |
+| SUUR0000SAF116  | Chained Consumer Price Index for All Urban Consumers: Alcoholic Beverages in U.S. City Average                                           | 1999-12-01          | 2022-02-01        |
+| SUUR0000SEFV    | Chained Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average                                           | 1999-12-01          | 2022-02-01        |

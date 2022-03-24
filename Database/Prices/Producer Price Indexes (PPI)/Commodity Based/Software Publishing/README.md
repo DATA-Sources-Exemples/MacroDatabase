@@ -1,0 +1,11 @@
+| id          | title                                                                                                                                          | observation_start   | observation_end   |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| WPU34       | Producer Price Index by Commodity: Software Publishing                                                                                         | 2009-06-01          | 2022-02-01        |
+| WPU342      | Producer Price Index by Commodity: Software Publishing: Application Software Publishing                                                        | 2009-06-01          | 2022-02-01        |
+| WPU3421     | Producer Price Index by Commodity: Software Publishing: Application Software Publishing                                                        | 2009-06-01          | 2022-02-01        |
+| WPU342101   | Producer Price Index by Commodity: Software Publishing: Desktop and Portable Device Application Software Publishing                            | 2008-12-01          | 2022-02-01        |
+| WPU342103   | Producer Price Index by Commodity: Software Publishing: Application Software Publishing, Cross-Industry, Vertical Market, Utilities, and Other | 2008-12-01          | 2022-02-01        |
+| WPU342104   | Producer Price Index by Commodity: Software Publishing: Application Software Publishing, Game Software                                         | 2013-12-01          | 2022-01-01        |
+| WPU34210101 | Producer Price Index by Commodity: Software Publishing: Desktop and Portable Device Application Software Publishing                            | 2008-12-01          | 2022-02-01        |
+| WPU34210301 | Producer Price Index by Commodity: Software Publishing: Application Software Publishing, Cross-Industry, Vertical Market, Utilities, and Other | 2008-12-01          | 2022-02-01        |
+| WPU34210401 | Producer Price Index by Commodity: Software Publishing: Application Software Publishing, Game Software                                         | 2013-12-01          | 2022-01-01        |
