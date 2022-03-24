@@ -9,7 +9,7 @@ variety of country data (e.g. government bond yields of the Netherlands, real co
 so much more.
 
 | Category                                | Datasets                      |                 
-|:----------------------------------------|:------------------------------|
+|:----------------------------------------|------------------------------:|
 | Prices                                  | 10,406                        |                       
 | U.S. Regional Data                      | 418,232                       |                                         
 | Money, Banking, & Finance               | 11,585                        |                                               
