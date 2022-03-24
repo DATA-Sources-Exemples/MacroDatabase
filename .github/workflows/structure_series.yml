@@ -1,11 +1,14 @@
 name: Structure Series
-on: [push]
+on:
+  workflow_run:
+    workflows: ["Collect Series"]
+    types:
+      - completed
 
 jobs:
   Structure-Fred-Series:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "FRED Series are structured"
       - name: checkout repo content
         uses: actions/checkout@v2
       - name: setup python
@@ -16,7 +19,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Get date
         run: echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
-      - name: Collecting FRED series
+      - name: Structuring FRED series
         run: |
           echo Running File...
           status=$(python Methodology/structure_series.py > logs/structure_series/${{ env.MY_DATE }}.txt 2>&1; echo $?)
