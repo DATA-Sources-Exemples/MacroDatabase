@@ -1,13 +1,13 @@
 | id         | title                                                                                                            | observation_start   | observation_end   |
 |------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IR         | Import Price Index (End Use): All Commodities                                                                    | 1982-09-01          | 2022-02-01        |
-| IR000      | Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar                                          | 1982-03-01          | 2022-02-01        |
-| IR00000    | Import Price Index (End Use): Green Coffee                                                                       | 2007-12-01          | 2022-02-01        |
-| IR0        | Import Price Index (End Use): Foods, Feeds, and Beverages                                                        | 1977-09-01          | 2022-02-01        |
 | IR00       | Import Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages             | 1984-12-01          | 2022-02-01        |
+| IR0        | Import Price Index (End Use): Foods, Feeds, and Beverages                                                        | 1977-09-01          | 2022-02-01        |
+| IR00000    | Import Price Index (End Use): Green Coffee                                                                       | 2007-12-01          | 2022-02-01        |
+| IR000      | Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar                                          | 1982-03-01          | 2022-02-01        |
+| IR01       | Import Price Index (End Use): Nonagricultural Products                                                           | 1984-12-01          | 2022-02-01        |
 | IR001      | Import Price Index (End Use): Other Agricultural Foods                                                           | 1984-12-01          | 2022-02-01        |
 | IR1        | Import Price Index (End Use): Industrial Supplies and Materials                                                  | 1984-12-01          | 2022-02-01        |
-| IR01       | Import Price Index (End Use): Nonagricultural Products                                                           | 1984-12-01          | 2022-02-01        |
 | IR1DUR     | Import Price Index (End Use): Industrial Supplies and Materials, Durable                                         | 1989-06-01          | 2022-02-01        |
 | IR1EXFUEL  | Import Price Index (End Use): Industrial Supplies and Materials Excluding Fuels                                  | 2001-12-01          | 2022-02-01        |
 | IR1EXPET   | Import Price Index (End Use): Industrial Supplies and Materials Excluding Petroleum                              | 1982-09-01          | 2022-02-01        |
@@ -36,8 +36,8 @@
 | IR101      | Import Price Index (End Use): Fuels, N.E.S. - Coals and Gas                                                      | 1981-09-01          | 2022-02-01        |
 | IR110      | Import Price Index (End Use): Woodpulp                                                                           | 2009-12-01          | 2018-12-01        |
 | IR111      | Import Price Index (End Use): Newsprint and Other Paper Products                                                 | 1980-12-01          | 2021-12-01        |
-| IR120      | Import Price Index (End Use): Agricultural Industrial Supplies and Materials Products                            | 1984-12-01          | 2022-02-01        |
 | IR00120    | Import Price Index (End Use): Fruits and Frozen Juices                                                           | 1980-12-01          | 2022-02-01        |
+| IR120      | Import Price Index (End Use): Agricultural Industrial Supplies and Materials Products                            | 1984-12-01          | 2022-02-01        |
 | IR121      | Import Price Index (End Use): Textile Supplies and Related Materials                                             | 1984-12-01          | 2022-02-01        |
 | IR125      | Import Price Index (End Use): Chemicals, Excluding Medicinals and Food Additives                                 | 1984-12-01          | 2022-02-01        |
 | IR00130    | Import Price Index (End Use): Vegetables                                                                         | 1980-12-01          | 2022-02-01        |

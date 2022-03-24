@@ -1,7 +1,7 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
+| Daily Rates            |                34 |
+| Trade-Weighted Indexes |                64 |
 | Annual Rates           |                25 |
 | Monthly Rates          |                25 |
-| Trade-Weighted Indexes |                64 |
-| By Country             |                21 |
-| Daily Rates            |                34 |
+| By Country             |                20 |

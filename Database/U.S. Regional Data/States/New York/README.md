@@ -1,6 +1,6 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
 | MSAs                   |                13 |
-| Metropolitan Areas     |                 2 |
 | Metropolitan Divisions |                 3 |
+| Metropolitan Areas     |                 2 |
 | Counties               |                62 |

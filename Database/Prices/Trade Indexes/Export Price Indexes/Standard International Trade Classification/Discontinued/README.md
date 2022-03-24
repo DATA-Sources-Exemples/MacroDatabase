@@ -2,20 +2,20 @@
 |-------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IX0   | Export Price Index (SITC): Food and live animals (DISCONTINUED)                                                          | 1995-01-01          | 2005-12-01        |
 | IX0R  | Export Price Index (SITC): Other food and live animals (DISCONTINUED)                                                    | 1996-12-01          | 2005-12-01        |
-| IX1   | Export Price Index (SITC): Beverages and tobacco (DISCONTINUED)                                                          | 1995-01-01          | 2005-12-01        |
 | IX01  | Export Price Index (SITC): Meat and meat preparations (DISCONTINUED)                                                     | 1995-01-01          | 2005-12-01        |
+| IX1   | Export Price Index (SITC): Beverages and tobacco (DISCONTINUED)                                                          | 1995-01-01          | 2005-12-01        |
 | IX2   | Export Price Index (SITC): Crude materials, inedible, except fuels (DISCONTINUED)                                        | 1995-01-01          | 2005-12-01        |
 | IX2R  | Export Price Index (SITC): Other crude materials, inedible, except fuels (DISCONTINUED)                                  | 1996-12-01          | 2005-12-01        |
-| IX03  | Export Price Index (SITC): Fish, crustaceans, aquatic invertebrates and preparations thereof (DISCONTINUED)              | 1995-01-01          | 2005-12-01        |
 | IX3   | Export Price Index (SITC): Mineral fuels, lubricants and related materials (DISCONTINUED)                                | 1995-01-01          | 2005-12-01        |
+| IX03  | Export Price Index (SITC): Fish, crustaceans, aquatic invertebrates and preparations thereof (DISCONTINUED)              | 1995-01-01          | 2005-12-01        |
 | IX04  | Export Price Index (SITC): Cereals and cereal preparations (DISCONTINUED)                                                | 1995-01-01          | 2005-12-01        |
-| IX05  | Export Price Index (SITC): Vegetables, fruit and nuts, fresh or dried (DISCONTINUED)                                     | 1995-01-01          | 2005-12-01        |
 | IX5   | Export Price Index (SITC): Chemicals and related products, n.e.s. (DISCONTINUED)                                         | 1995-01-01          | 2005-12-01        |
+| IX05  | Export Price Index (SITC): Vegetables, fruit and nuts, fresh or dried (DISCONTINUED)                                     | 1995-01-01          | 2005-12-01        |
 | IX6   | Export Price Index (SITC): Manufactured goods classified chiefly by material (DISCONTINUED)                              | 1995-01-01          | 2005-12-01        |
 | IX6R  | Export Price Index (SITC): Other manufactured goods classified chiefly by material (DISCONTINUED)                        | 2001-12-01          | 2005-12-01        |
 | IX7   | Export Price Index (SITC): Machinery and transport equipment (DISCONTINUED)                                              | 1995-01-01          | 2005-12-01        |
-| IX08  | Export Price Index (SITC): Feeding stuff for animals (not including unmilled cereals) (DISCONTINUED)                     | 1995-01-01          | 2005-12-01        |
 | IX8   | Export Price Index (SITC): Miscellaneous manufactured articles (DISCONTINUED)                                            | 1995-01-01          | 2005-12-01        |
+| IX08  | Export Price Index (SITC): Feeding stuff for animals (not including unmilled cereals) (DISCONTINUED)                     | 1995-01-01          | 2005-12-01        |
 | IX8R  | Export Price Index (SITC): Other miscellaneous manufactured articles (DISCONTINUED)                                      | 1996-12-01          | 2005-12-01        |
 | IX09  | Export Price Index (SITC): Miscellaneous edible products and preparations (DISCONTINUED)                                 | 1995-03-01          | 2005-12-01        |
 | IX12  | Export Price Index (SITC): Tobacco and tobacco manufactures (DISCONTINUED)                                               | 1995-03-01          | 2005-12-01        |
@@ -33,8 +33,8 @@
 | IX54  | Export Price Index (SITC): Medicinal and pharmaceutical products (DISCONTINUED)                                          | 1995-01-01          | 2005-12-01        |
 | IX55  | Export Price Index (SITC): Essential oils; polishing and cleansing preps (DISCONTINUED)                                  | 1995-01-01          | 2005-12-01        |
 | IX56  | Export Price Index (SITC): Fertilizers (DISCONTINUED)                                                                    | 1996-12-01          | 2005-12-01        |
-| IX057 | Export Price Index (SITC): Fruit and nuts (not including oil nuts), fresh or dried (DISCONTINUED)                        | 1995-01-01          | 2005-12-01        |
 | IX57  | Export Price Index (SITC): Plastics in primary forms (DISCONTINUED)                                                      | 1995-01-01          | 2005-12-01        |
+| IX057 | Export Price Index (SITC): Fruit and nuts (not including oil nuts), fresh or dried (DISCONTINUED)                        | 1995-01-01          | 2005-12-01        |
 | IX58  | Export Price Index (SITC): Plastics in nonprimary forms (DISCONTINUED)                                                   | 1995-01-01          | 2005-12-01        |
 | IX59  | Export Price Index (SITC): Chemical materials and products, n.e.s. (DISCONTINUED)                                        | 1995-01-01          | 2005-12-01        |
 | IX62  | Export Price Index (SITC): Rubber manufactures, n.e.s. (DISCONTINUED)                                                    | 1995-01-01          | 2005-12-01        |
