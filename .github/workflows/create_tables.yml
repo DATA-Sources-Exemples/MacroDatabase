@@ -1,5 +1,9 @@
 name: Create README Tables
-on: [push]
+on:
+  workflow_run:
+    workflows: ["Structure Series"]
+    types:
+      - completed
 
 jobs:
   Create-README-Tables:
