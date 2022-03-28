@@ -23,7 +23,7 @@ jobs:
         run: |
           echo Running File...
           status=$(python Methodology/structure_series.py > logs/structure_series/${{ env.MY_DATE }}.txt 2>&1; echo $?)
-          cat logs/structure_series/${{ steps.date.outputs.today }}.txt
+          cat logs/structure_series/${{ env.MY_DATE }}.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
         run: |
