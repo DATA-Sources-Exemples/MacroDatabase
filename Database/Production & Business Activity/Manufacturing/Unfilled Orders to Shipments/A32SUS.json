@@ -1,7 +1,7 @@
 {
   "id": "A32SUS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' Unfilled Orders to Shipments Ratios: Fabricated Metal Products",
   "observation_start": "1992-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 09:05:35-06",
-  "popularity": 3,
-  "group_popularity": 4
+  "popularity": 1,
+  "group_popularity": 1
 }

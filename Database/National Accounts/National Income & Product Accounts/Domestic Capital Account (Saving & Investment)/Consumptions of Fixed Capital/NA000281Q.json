@@ -1,7 +1,7 @@
 {
   "id": "NA000281Q",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumption of fixed capital: Government: Federal",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 08:03:29-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "BEA Account Code: NA000281"
 }

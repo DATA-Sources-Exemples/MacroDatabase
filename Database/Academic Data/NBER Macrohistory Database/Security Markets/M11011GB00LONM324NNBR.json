@@ -1,7 +1,7 @@
 {
   "id": "M11011GB00LONM324NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Security Price Index for London, Great Britain",
   "observation_start": "1887-04-01",
   "observation_end": "1935-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:01:28-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "This Index Was Computed By NBER From Original Data In Thousands Of Pounds Sterling Published In Bankers' Magazine. Additions To Or Subtractions From The Number Of Securities Included Have Been Made From Time To Time. Data From The Old And New Series Were Linked By The NBER And The Resultant Index Is Constructed Based Upon The 1913 Average. At The Points Of These Revisions In The Series The Value For The Given Date According To Both The Old And The New Data Were Available. By Multiplying Data From One Period By A Coefficient Equal To The Ratio Of The Old To The New, A Single Series Was Constructed, Including The Data From Both Original Sections. Consequently, The Various Sections Of Original Data Have Been Tied Together At Their Overlapping Points. The Time Periods Used By NBER Are April, 1887-June, 1891; June, 1891-December, 1895; December, 1895-December, 1906; December, 1906-December, 1921; December, 1921-December, 1922; December, 1922-1939. The Valuation Was Omitted For May And June, 1887. In March, 1888, There Were The Same Number Of Stocks, But The Par Changed. The Following Is A Summary Of The Time Periods, The Number Of Shares, Or Securities Involved, And The Par Value, In Thousands Of Pounds. Source: Bankers' Magazine, London And Computed By NBER (See Note Below).\n\nThis NBER data series m11011 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11011"
 }

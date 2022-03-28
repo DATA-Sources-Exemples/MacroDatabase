@@ -1,7 +1,7 @@
 {
   "id": "CES1021210001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees, Coal Mining",
   "observation_start": "1985-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-04 07:45:06-06",
-  "popularity": 43,
-  "group_popularity": 46,
+  "popularity": 41,
+  "group_popularity": 44,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES1021210001"
 }

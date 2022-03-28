@@ -1,7 +1,7 @@
 {
   "id": "LFEM25MAUSA647N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employed Population: Aged 25-54: Males for the United States",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-18 12:29:49-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: LFEM25MA\nOECD unit ID: ST\nOECD country ID: USA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

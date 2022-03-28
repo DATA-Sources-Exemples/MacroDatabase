@@ -1,7 +1,7 @@
 {
   "id": "M05F4BUSM387NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Gasoline Stocks at Refineries for United States",
   "observation_start": "1923-06-01",
   "observation_end": "1932-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 10:46:29-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Five Variables--(1)--Original Data, 1917-1924 (2)--Original Data, 1923-1932 (3)--Original, 1932-1951 (4)--Original, 1950-1953 (9)--Original, 1952-1957. Data Represent Gasoline Stocks At Refineries East Of California Plus Refiners' And Marketers' Stocks Held On The Pacific Coast. Data Were Revised At The Start Of 1931 And 1932. Source: U.S Department Of Commerce, Survey Of Current Business, Data For 1923: Record Book Of Business Statistics, Part 3, P. 24; Data For 1924-1932: Scb 1932 Annual Supplement, Pp. 178-179 And Following Issues\n\nThis NBER data series m05014b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05014b"
 }

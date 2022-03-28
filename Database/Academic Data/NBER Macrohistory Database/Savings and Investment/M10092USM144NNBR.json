@@ -1,7 +1,7 @@
 {
   "id": "M10092USM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Consumer Credit Outstanding for United States",
   "observation_start": "1929-01-01",
   "observation_end": "1969-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:21:30-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "These Estimates Cover Both Installment Credit And Noninstallment Credit Outstanding At The End Of The Month. Source: Federal Reserve Board, Data For 1929-1946: Bulletin Of April 1953; Data For 1947-1967: \"Consumer Credit, \" Supplement To Banking And Monetary Statistics, Section 16 (New); Data For 1968: Monthly Bulletins\n\nThis NBER data series m10092 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10092"
 }

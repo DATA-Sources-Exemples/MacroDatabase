@@ -1,7 +1,7 @@
 {
   "id": "M07039USM540NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Banana Imports for United States",
   "observation_start": "1907-07-01",
   "observation_end": "1941-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:02:18-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Bananas Are Duty Free. Quantity Data Not Available Prior To July 1907. For 1907-1933, The Series Is General Imports. For 1934-1941, It Is Imports For Consumption (For 1933 The Two Are Identical). The Figures For The First 3 Days Of October 1913 Are Included In The September, 1913 Total. The September, 1922 Figure Is For September 1-21 And The October, 1922 Figure Is For September 22-October 31. Divided Because Of A New Tariff Law Effective September 22, 1922. Beginning January, 1934, Imports Figures Refer To \"For Consumption\" Rather Than \"General\" As Previous. However For 1933, Imports For Consumption Are Identical With General Imports In The Case Of Bananas. The Figure For July, 1934 Was Computed From Successive Cumulative Totals In Order To Agree With Annual Totals For 12 Months And 6 Months. The Monthly Summary For September, 1937 Was Given As 545,500. This Is Obviously An Error, But Figures Check With The 9 Month'S Total. Source: Monthly Summary Of Foreign Commerce.\n\nThis NBER data series m07039 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07039"
 }

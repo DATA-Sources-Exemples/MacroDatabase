@@ -1,18 +1,18 @@
 {
   "id": "DGS6MO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity",
   "observation_start": "1981-09-01",
-  "observation_end": "2022-03-21",
+  "observation_end": "2022-03-24",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-22 15:23:18-05",
+  "last_updated": "2022-03-25 15:26:04-05",
   "popularity": 53,
-  "group_popularity": 55,
+  "group_popularity": 54,
   "notes": "For further information regarding treasury constant maturity data, please refer to http://www.federalreserve.gov/releases/h15/current/h15.pdf and http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx."
 }

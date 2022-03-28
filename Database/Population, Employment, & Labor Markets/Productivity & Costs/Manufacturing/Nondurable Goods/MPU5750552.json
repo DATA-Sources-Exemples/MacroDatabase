@@ -1,7 +1,7 @@
 {
   "id": "MPU5750552",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Petroleum and Coal Products: Energy",
   "observation_start": "1987-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2021-11-18 09:54:18-06",
+  "last_updated": "2022-03-25 12:25:28-05",
   "popularity": 0,
   "group_popularity": 1,
   "notes": "Fuel, electricity, and other forms of energy used. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU5750552"

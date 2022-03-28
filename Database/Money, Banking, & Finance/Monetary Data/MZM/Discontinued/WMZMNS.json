@@ -1,7 +1,7 @@
 {
   "id": "WMZMNS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "MZM Money Stock (DISCONTINUED)",
   "observation_start": "1980-11-03",
   "observation_end": "2021-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-23 08:11:04-06",
-  "popularity": 6,
-  "group_popularity": 54,
+  "popularity": 8,
+  "group_popularity": 53,
   "notes": "This series has been discontinued and will no longer be updated. The institutional money market funds component (WIMFNS (https://fred.stlouisfed.org/series/WIMFNS)) used to calculate this series has been discontinued by the Board of Governors and is no longer available in the H.6 statistical release, Money Stock Measures.\n\nFor further information about the changes to the H.6 statistical release, please see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nM2 less small-denomination time deposits plus institutional money market funds.\nMoney Zero Maturity is calculated by the Federal Reserve Bank of St. Louis."
 }

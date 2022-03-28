@@ -1,7 +1,7 @@
 {
   "id": "PCU453210453210",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Industry: Office Supplies and Stationery Stores",
   "observation_start": "2000-06-01",
   "observation_end": "2019-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-06-11 07:53:13-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "BRDMNYAUM189N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Broad Money for Australia",
   "observation_start": "2001-12-01",
   "observation_end": "2021-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-27 07:09:06-06",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

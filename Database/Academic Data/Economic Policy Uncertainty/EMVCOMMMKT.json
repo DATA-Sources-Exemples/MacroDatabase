@@ -1,7 +1,7 @@
 {
   "id": "EMVCOMMMKT",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Equity Market Volatility Tracker: Commodity Markets",
   "observation_start": "1985-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-05 08:02:06-06",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 18,
+  "group_popularity": 18,
   "notes": "The Equity Market Volatility tracker moves with the VIX and with the realized volatility of returns on the S&P 500.\n\nFor more information, see Baker, Scott, Nicholas Bloom and Steven Davis (2019), 'Policy News and Stack Market Volatility' (https://www.policyuncertainty.com/media/Policy%20News%20and%20Stock%20Market%20Volatility.pdf)"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M10032FR00LIOM320SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Stock Flotations for Lyons, France",
   "observation_start": "1921-06-01",
   "observation_end": "1939-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 15:16:15-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Data Cover Stock Flotations Of French Companies As Announced In The Bulletin Des Annonces Legales, Excluding Actions D'Apport (Founders' Shares) And Valeurs Ayant Donne' Lieu A' Une Insertion Pour Cotation (Shares Which Were First Privately Issued, But Later Listed On The Stock Exchange). The Index Is The Average Of The Unadjusted Indexes For The Month In Question And The Five Preceeding Months (I.E., Six Months Moving Average, Centered On The Sixth Month, And Seasonally Corrected). Source: Bulletin De La Statistique Generale, April-June 1929, P. 302 And Following Issues\n\nThis NBER data series m10032 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10032"
 }

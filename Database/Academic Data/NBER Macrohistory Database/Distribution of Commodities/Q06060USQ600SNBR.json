@@ -1,7 +1,7 @@
 {
   "id": "Q06060USQ600SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Pairs of Shoes Sold at Retail for United States",
   "observation_start": "1926-01-01",
   "observation_end": "1941-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 13:46:30-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "Source: See Ruth P. Mack, Consumption And Business Fluctuation, A Case Study Of The Shoe, Leather, Hide Sequence, NBER, 1956.\n\nThis NBER data series q06060 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: q06060"
 }

@@ -1,7 +1,7 @@
 {
   "id": "FXRATEUAA618NUPN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Exchange Rate to U.S. Dollar for Ukraine",
   "observation_start": "1993-01-01",
   "observation_end": "2010-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-31 14:30:46-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: XRAT"
 }

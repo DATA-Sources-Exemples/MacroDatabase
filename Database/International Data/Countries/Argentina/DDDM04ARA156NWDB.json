@@ -1,7 +1,7 @@
 {
   "id": "DDDM04ARA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Outstanding Domestic Public Debt Securities to GDP for Argentina",
   "observation_start": "1990-01-01",
   "observation_end": "2017-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-10-21 13:53:39-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Total amount of domestic public debt securities (amounts outstanding) issued in domestic markets as a share of GDP. It covers long-term bonds and notes, treasury bills, commercial paper and other short-term notes.\n\nTotal amount of domestic public debt securities (amounts outstanding) issued in domestic markets as a share of GDP. It covers long-term bonds and notes, treasury bills, commercial paper and other short-term notes. Table 16A (domestic debt amount): governments / GDP. End of year data (i.e. December data) are considered for debt securities. (Bank for International Settlements)\n\nSource Code: GFDD.DM.04"
 }

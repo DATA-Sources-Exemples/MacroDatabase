@@ -1,9 +1,9 @@
 {
   "id": "DDDM06MUA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Outstanding International Public Debt Securities to GDP for Mauritius",
-  "observation_start": "1996-01-01",
+  "observation_start": "1995-01-01",
   "observation_end": "1999-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
@@ -11,7 +11,7 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2019-10-21 14:52:06-05",
+  "last_updated": "2022-03-23 16:30:31-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Amount of public international debt securities (amounts outstanding), as a share of GDP. It covers long-term bonds and notes and money market instruments placed on international markets.\n\nAmount of public international debt securities (amounts outstanding), as a share of GDP. It covers long-term bonds and notes and money market instruments placed on international markets. Table 12D (international debt amount): governments / GDP. End of year data (i.e. December data) are considered for debt securities. GDP is from World Development Indicators. (Bank for International Settlements)\n\nSource Code: GFDD.DM.06"

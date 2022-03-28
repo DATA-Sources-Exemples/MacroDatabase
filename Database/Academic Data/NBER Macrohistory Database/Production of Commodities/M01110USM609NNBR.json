@@ -1,7 +1,7 @@
 {
   "id": "M01110USM609NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Automobile Tire Inner Tubes, Production for United States",
   "observation_start": "1921-01-01",
   "observation_end": "1964-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:04:38-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Were Adjusted To Total Industry By Rubber Manufacturers' Association. These Data Supercede Those Published In The 1936 Supplement To The Scb And Were Checked Against Averages In The 1938 Supplement. Mimeographed Tables Received By NBER From The Source Show Monthly Figures That Are Slightly Different From Those Given Here, But The Annual Figure Remains The Same. 1951 And Following Years Include Data For Motorcycle Tubes. Source: Received By NBER Direct From Rubber Manufacturers' Association, But Data May Be Found In Survey Of Current Business, May 1939, P.17 And Scb Issues For 1955.\n\nThis NBER data series m01110 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01110"
 }

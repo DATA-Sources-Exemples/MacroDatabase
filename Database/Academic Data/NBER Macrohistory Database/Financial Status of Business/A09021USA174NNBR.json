@@ -1,7 +1,7 @@
 {
   "id": "A09021USA174NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Deficits, Trading Companies for United States",
   "observation_start": "1917-01-01",
   "observation_end": "1940-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:01:31-05",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 23,
+  "group_popularity": 23,
   "notes": "1936-1940 Data Were Computed By NBER From Data In Statistics Of Income (See Notes). The 1938 Data Were Adjusted By NBER To Conform To 1937 Industrial Classification (See Notes). The Data For 1939-1940 Are Based On 1938 Standard Industrial Classification. Source: Bureau Of Internal Revenue: Statistics Of Income, 1916 And Successive Years.\n\nThis NBER data series a09021 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: a09021"
 }

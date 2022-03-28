@@ -1,7 +1,7 @@
 {
   "id": "A446RC1A027NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Corporate business: Profits before tax (without IVA and CCAdj)",
   "observation_start": "1929-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-07-29 07:47:37-05",
-  "popularity": 4,
-  "group_popularity": 31,
+  "popularity": 3,
+  "group_popularity": 29,
   "notes": "BEA Account Code: A446RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

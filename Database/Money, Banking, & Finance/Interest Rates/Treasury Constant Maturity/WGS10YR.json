@@ -1,7 +1,7 @@
 {
   "id": "WGS10YR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
   "observation_start": "1962-01-05",
   "observation_end": "2022-03-18",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 15:17:02-05",
-  "popularity": 57,
+  "popularity": 55,
   "group_popularity": 92,
   "notes": "Averages of business days. For further information regarding treasury constant maturity data, please refer to the Board of Governors (http://www.federalreserve.gov/releases/h15/current/h15.pdf) and the Treasury (http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx)."
 }

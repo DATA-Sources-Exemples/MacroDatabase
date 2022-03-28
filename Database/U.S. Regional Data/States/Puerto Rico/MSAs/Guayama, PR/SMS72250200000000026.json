@@ -1,17 +1,17 @@
 {
   "id": "SMS72250200000000026",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Total Nonfarm in Guayama, PR (MSA)",
   "observation_start": "1990-04-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "3-Month Average Change, Thousands of Persons",
   "units_short": "3-month Average Chg., Thous. of Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-03-16 09:20:34-05",
+  "last_updated": "2022-03-26 04:07:54-05",
   "popularity": 1,
   "group_popularity": 1
 }

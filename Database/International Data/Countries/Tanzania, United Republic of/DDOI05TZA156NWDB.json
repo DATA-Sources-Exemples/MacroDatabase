@@ -1,9 +1,9 @@
 {
   "id": "DDOI05TZA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Boone Indicator in Banking Market for United Republic of Tanzania",
-  "observation_start": "2004-01-01",
+  "observation_start": "1999-01-01",
   "observation_end": "2014-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
@@ -11,7 +11,7 @@
   "units_short": "Index",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2019-10-21 14:51:25-05",
+  "last_updated": "2022-03-23 16:28:09-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "A measure of degree of competition based on profit-efficiency in the banking market. It is calculated as the elasticity of profits to marginal costs. An increase in the Boone indicator implies a deterioration of the competitive conduct of financial intermediaries.\n\nA measure of degree of competition, calculated as the elasticity of profits to marginal costs. To obtain the elasticity, the log of profits (measured by return on assets) is regressed on the log of marginal costs. The estimated coefficient (computed from the first derivative of a trans-log cost function) is the elasticity. The rationale behind the indicator is that higher profits are achieved by more-efficient banks. Hence, the more negative the Boone indicator, the higher the degree of competition is because the effect of reallocation is stronger. Estimations of the Boone indicator in this database follow the methodology used by Schaeck and Cih\u00e1k 2010 with a modification to use marginal costs instead of average costs. Regional estimates of the Boone indicator pool the bank data by regions (for more information, see Hay and Liu 1997; Boone 2001; Boone, Griffith, and Harrison 2005). (Calculated from underlying bank-by-bank data from Bankscope)\n\nSource Code: GFDD.OI.05"

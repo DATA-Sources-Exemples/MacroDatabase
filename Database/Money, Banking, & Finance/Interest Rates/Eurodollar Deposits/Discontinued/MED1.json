@@ -1,7 +1,7 @@
 {
   "id": "MED1",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "1-Month Eurodollar Deposit Rate (London) (DISCONTINUED)",
   "observation_start": "1971-01-01",
   "observation_end": "2016-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-10-03 15:47:07-05",
-  "popularity": 8,
-  "group_popularity": 38,
+  "popularity": 4,
+  "group_popularity": 35,
   "notes": "The Federal Reserve Board has discontinued this series as of October 11, 2016. More information, including possible alternative series, can be found at http://www.federalreserve.gov/feeds/h15.html. \n\nAverages of Business Days. Annualized using a 360-day year or bank interest. Source: Bloomberg and CTRB ICAP Fixed Income & Money Market Products."
 }

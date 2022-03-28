@@ -1,7 +1,7 @@
 {
   "id": "M0582CUSM388NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Hardwood Stocks for United States",
   "observation_start": "1936-01-01",
   "observation_end": "1956-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 10:49:51-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1924-1934 (2)--Original Data, 1934-1942 (3)--Original Data, 1936-1956. Data For The Years 1936-1956 Cover Gross Stocks (Sold And Unsold) Of Southern Hardwood; Variables For Earlier Years Covered Net Unsold. Beginning With 1938, \"Green\" Stocks Are Included With Stocks Reported For The Appalachian Region, As Against \"Dry\" Stocks Reported Previously. Source: U.S. Department Of Commerce, Data For 1936-1948: Bureau Of Foreign And Domestic Commerce, Office Of Industry And Commerce, Forest Products Division, \"Lumber, Plywood And Allied Products Industry Report, \" August 1950 Statistical Supplement; Data For 1949: Survey Of Current Business, 1953 Supplement; Data For 1950: Office Of Business Economics, April 1, 1955; Data For 1951-1954: Scb 1955 Supplement; Data For 1955-1956: Scb, Monthly Issues\n\nThis NBER data series m05082c appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05082c"
 }

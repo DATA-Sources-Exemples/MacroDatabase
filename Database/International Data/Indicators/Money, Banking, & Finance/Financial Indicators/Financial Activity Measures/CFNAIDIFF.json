@@ -1,7 +1,7 @@
 {
   "id": "CFNAIDIFF",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Chicago Fed National Activity Index: Diffusion Index",
   "observation_start": "1967-05-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 07:34:06-05",
-  "popularity": 31,
-  "group_popularity": 31,
+  "popularity": 27,
+  "group_popularity": 27,
   "notes": "The CFNAI Diffusion Index is a metric based on the magnitude of the weight given to each of the underlying indicators in the CFNAI when constructing the index as their weighted average. The index is calculated as the sum of the absolute values of the underlying indicators whose contribution to the CFNAI is positive in a given month less the sum of the absolute values of the weights for those indicators whose contribution is negative or neutral, expressed as a proportion of the total sum of the absolute values of the weights. By construction, the sum of the absolute values of the CFNAI weights is one. To make this measure comparable to the CFNAI-MA3, the three-month moving average is calculated. Source: http://www.chicagofed.org/digital_assets/publications/cfnai/background/cfnai_background.pdf"
 }

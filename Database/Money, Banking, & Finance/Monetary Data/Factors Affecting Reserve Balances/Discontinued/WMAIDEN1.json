@@ -1,7 +1,7 @@
 {
   "id": "WMAIDEN1",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Assets: Net Portfolio Holdings of Maiden Lane LLCs: Net Portfolio Holdings of Maiden Lane LLC: Week Average (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2020-03-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-04-20 12:00:24-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "This series has been discontinued and will no longer be updated. It has been consolidated under the following series, which will continue to be updated: WOTHAST (https://fred.stlouisfed.org/series/WOTHAST).\n\nFor further information about the changes to the H.4.1 Statistical Release, please see the announcements (https://www.federalreserve.gov/feeds/h41.html) provided by the source."
 }

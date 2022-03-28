@@ -1,7 +1,7 @@
 {
   "id": "SMU06310847000000001A",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Leisure and Hospitality in Los Angeles-Long Beach-Glendale, CA (MD)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:45:56-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 2
 }

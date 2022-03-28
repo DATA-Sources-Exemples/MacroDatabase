@@ -1,7 +1,7 @@
 {
   "id": "M08304USM310NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Hours of Work Per Week, Nonagricultural Employment, Household Survey for United States",
   "observation_start": "1941-06-01",
   "observation_end": "1969-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:31:55-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data For 1941 To February 1943 Refer To All Persons With Jobs; Thereafter Data Refer To Persons Actually At Work. The Survey Week, That Containing The 8Th Of The Month Has A Holiday. Starting July 1955 The Survey Week Was Shifted To The Week Containing The 12Th Of The Month. The Effect Of The Holiday Has Been Eliminated Through 1954 By Interpolation. Starting 1955, Hours Are Adjusted For Holiday Weeks On The Basis Of The Formula Worked Out By NBER. Holiday Adjustments Are Made Prior To Seasonal Adjustment. Source: U.S. Bureau Of The Census, Current Population Reports--Labor Force, Series P-50, For March 1943-1948 Data: No. 13; For 1949 Data: No. 19; For 1950: No. 31; For 1951: No. 40; For 1952: No. 45; For 1953-1954: No. 59; For 1955: No. 67; For 1956: No. 72; For 1957: No. 85; For 1958-June 1959: Series P-57, Nos. 187-204; For July 1959-1969: Bureau Of Labor Statistics, Monthly Report Of The Labor Force.\n\nThis NBER data series m08304 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08304"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CP1111EU272020M086NEST",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Harmonized Index of Consumer Prices: Restaurants, Caf\u00e9s, and the Like for European Union (27 countries from 2020)",
   "observation_start": "2000-12-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 07:16:56-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The Harmonized Index of Consumer Prices category Restaurants, caf\u00e9s, and the Like (11.1.1) is a classification of services that includes catering services (meals, snacks, drinks, and refreshments) provided by restaurants, caf\u00e9s, buffets, bars, tea-rooms, etc.; places providing recreational, cultural, sporting or entertainment services: theaters, cinemas, sports stadia, swimming pools, sports complexes, museums, art galleries, night clubs, dancing establishments, etc.; on public transport (coaches, trains, boats, airplanes, etc.) when priced separately; the sale of food products and beverages for immediate consumption by kiosks, street vendors and the like, food products and beverages dispensed ready for consumption by automatic vending machines; the sale of cooked dishes by restaurants for consumption off their premises; the sale of cooked dishes by catering contractors whether collected by the customer or delivered to the customer's home; and tips.\n\nThis category excludes tobacco purchases (02.2.0), telephone calls (08.3.0).\n\nThis category is a subcategory of the Restaurants and Hotels (11) and of Catering Services (11.1).\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source here (https://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm).\n\nCopyright, European Union, 1995-2016 (https://ec.europa.eu/info/legal-notice_en#copyright)."
 }

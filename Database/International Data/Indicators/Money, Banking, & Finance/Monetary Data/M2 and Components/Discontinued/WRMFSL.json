@@ -1,7 +1,7 @@
 {
   "id": "WRMFSL",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Retail Money Market Funds (DISCONTINUED)",
   "observation_start": "1980-02-04",
   "observation_end": "2021-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-09-28 14:53:28-05",
-  "popularity": 22,
-  "group_popularity": 22,
+  "popularity": 27,
+  "group_popularity": 27,
   "notes": "This weekly series is discontinued and will no longer be updated. The non-seasonally adjusted version of this weekly series is WRMFNS (https://fred.stlouisfed.org/series/WRMFNS), and the seasonally adjusted monthly series is RMFSL (https://fred.stlouisfed.org/series/RMFSL).\n\nStarting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Weekly average, non-seasonally adjusted data will continue to be made available, while weekly average, seasonally adjusted data will no longer be provided. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nThe retail money funds component of M2 is constructed from weekly data collected by the Investment Company Institute (ICI), a trade association for the investment company industry. The retail money funds component of M2 excludes IRA and Keogh balances held at MMMFs, which are reported by ICI on a quarterly basis."
 }

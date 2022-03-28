@@ -1,7 +1,7 @@
 {
   "id": "ITALFTOTADSMEI",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Civilian Labor Force: All Persons in Italy (DISCONTINUED)",
   "observation_start": "1956-01-01",
   "observation_end": "2011-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-02 15:43:47-05",
   "popularity": 0,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

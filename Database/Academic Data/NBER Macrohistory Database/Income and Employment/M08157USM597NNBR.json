@@ -1,7 +1,7 @@
 {
   "id": "M08157USM597NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Man-Hours Worked-All Employees on Hourly Basis, Class I Steam Railroads (Including Switching and Terminal Companies). for United States",
   "observation_start": "1921-07-01",
   "observation_end": "1943-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:22:52-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Data For July 1921 Through December 1932 Include Switching And Terminal Companies; Data For January 1933 Through September 1942 Exclude Them. Source: Interstate Commerce Commission, Bureau Of Labor Statistics, And National Bureau Of Economic Research, The Sum Of\"Computed-Total Time Actually Worked By All Employees And Constructive Allowances For Transportation Trains And Engine-Wages Statistics For The Class I Steam Railroads In U.S.\n\nThis NBER data series m08157 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08157"
 }

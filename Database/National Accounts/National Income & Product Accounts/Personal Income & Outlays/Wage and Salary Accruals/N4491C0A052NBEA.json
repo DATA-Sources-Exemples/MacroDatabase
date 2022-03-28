@@ -1,7 +1,7 @@
 {
   "id": "N4491C0A052NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wage and salary accruals per full-time equivalent employee: Domestic private industries: Health care and social assistance: Nursing and residential care facilities",
   "observation_start": "1998-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:37:50-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: N4491C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

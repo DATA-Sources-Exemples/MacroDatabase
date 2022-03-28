@@ -1,7 +1,7 @@
 {
   "id": "CUURA311SA0",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: All Items in Washington-Baltimore, DC-MD-VA-WV (CMSA) (DISCONTINUED)",
   "observation_start": "1996-11-01",
   "observation_end": "2017-11-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-12-13 08:11:08-06",
   "popularity": 11,
-  "group_popularity": 13,
+  "group_popularity": 12,
   "notes": "This series was discontinued as a result of the introduction of a new geographic area sample for the Consumer Price Index. Information on the geographic revision is available at https://www.bls.gov/cpi/additional-resources/geographic-revision-2018.htm."
 }

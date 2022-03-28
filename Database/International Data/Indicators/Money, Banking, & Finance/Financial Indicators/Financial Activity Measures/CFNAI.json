@@ -1,7 +1,7 @@
 {
   "id": "CFNAI",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Chicago Fed National Activity Index",
   "observation_start": "1967-03-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 07:34:03-05",
-  "popularity": 52,
-  "group_popularity": 52,
+  "popularity": 51,
+  "group_popularity": 51,
   "notes": "A zero value for the index indicates that the national economy is expanding at its historical trend rate of growth; negative values indicate below-average growth; and positive values indicate above-average growth.\n\nFor further information, please visit the Federal Reserve Bank of Chicago's web site:\nhttp://www.chicagofed.org/webpages/research/data/cfnai/current_data.cfm"
 }

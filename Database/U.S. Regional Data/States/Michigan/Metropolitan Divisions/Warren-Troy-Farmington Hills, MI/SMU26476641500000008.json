@@ -1,17 +1,17 @@
 {
   "id": "SMU26476641500000008",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Hourly Earnings of Production Employees: Mining, Logging, and Construction in Warren-Troy-Farmington Hills, MI (MD)",
   "observation_start": "2005-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars per Hour",
   "units_short": "$ per Hour",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-15 03:42:56-05",
+  "last_updated": "2022-03-26 03:42:24-05",
   "popularity": 1,
   "group_popularity": 1
 }

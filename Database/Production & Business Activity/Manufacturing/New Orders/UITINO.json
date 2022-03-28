@@ -1,7 +1,7 @@
 {
   "id": "UITINO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' New Orders: Information Technology Industries",
   "observation_start": "1992-02-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-03 09:04:16-06",
   "popularity": 1,
-  "group_popularity": 12,
+  "group_popularity": 17,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

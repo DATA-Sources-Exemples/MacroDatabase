@@ -1,17 +1,17 @@
 {
   "id": "H41RESPPAATAL2LY01NWW",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Assets: Liquidity and Credit Facilities: Loans Held by TALF II LLC (Book Value), Maturing Within 91 Days to 1 Year: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-03-16",
+  "observation_end": "2022-03-23",
   "frequency": "Weekly",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-17 15:48:41-05",
+  "last_updated": "2022-03-24 15:36:42-05",
   "popularity": 1,
   "group_popularity": 1
 }

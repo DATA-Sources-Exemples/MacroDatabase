@@ -1,7 +1,7 @@
 {
   "id": "USINTDMRKTDM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "U.S. Intervention: in Market Transactions in the DEM/USD (Euro since 1999) (Millions of USD)",
   "observation_start": "1973-03-02",
   "observation_end": "2011-05-31",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-09-19 14:42:46-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "(+)numbers mean purchases of USD, (-) numbers mean sales of USD. Unpublished data."
 }

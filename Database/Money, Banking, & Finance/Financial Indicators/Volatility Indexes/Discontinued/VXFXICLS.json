@@ -1,7 +1,7 @@
 {
   "id": "VXFXICLS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "CBOE China ETF Volatility Index (DISCONTINUED)",
   "observation_start": "2011-03-16",
   "observation_end": "2022-02-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-14 08:36:09-06",
-  "popularity": 46,
-  "group_popularity": 45,
+  "popularity": 44,
+  "group_popularity": 44,
   "notes": "Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks designed to closely track the price performance and yield of specific indices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission."
 }

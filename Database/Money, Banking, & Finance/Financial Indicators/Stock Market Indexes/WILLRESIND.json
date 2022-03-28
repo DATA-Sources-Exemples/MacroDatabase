@@ -1,7 +1,7 @@
 {
   "id": "WILLRESIND",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI)",
   "observation_start": "1977-12-30",
   "observation_end": "2022-03-02",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-03 07:03:06-06",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The observations for the Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI) represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.\n\nThe total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes)."
 }

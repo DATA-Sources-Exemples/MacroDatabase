@@ -1,7 +1,7 @@
 {
   "id": "CIS1026200000000I",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employment Cost Index: Wages and salaries for All Civilian workers in Health care and social assistance",
   "observation_start": "2003-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:33-06",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "See Footnote V on https://www.bls.gov/ect/cimapnote.htm"
 }

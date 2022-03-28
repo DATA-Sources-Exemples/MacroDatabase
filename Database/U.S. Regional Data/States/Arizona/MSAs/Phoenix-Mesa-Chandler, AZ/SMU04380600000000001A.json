@@ -1,7 +1,7 @@
 {
   "id": "SMU04380600000000001A",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Total Nonfarm in Phoenix-Mesa-Scottsdale, AZ (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-15 05:47:20-05",
+  "last_updated": "2022-03-26 05:21:10-05",
   "popularity": 1,
-  "group_popularity": 15
+  "group_popularity": 16
 }

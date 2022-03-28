@@ -1,7 +1,7 @@
 {
   "id": "DDOM01DOA644NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Number of Listed Companies for Dominican Republic",
   "observation_start": "1997-01-01",
   "observation_end": "1997-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-21 11:21:35-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Number of domestically incorporated companies listed on the country's stock exchanges at the end of the year (does not include investment companies, mutual funds, or other collective investment vehicles).\n\nSource Code: GFDD.OM.01"
 }

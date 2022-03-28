@@ -1,7 +1,7 @@
 {
   "id": "UMXDNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' New Orders: Manufacturing Excluding Defense",
   "observation_start": "1992-02-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-03 09:04:21-06",
   "popularity": 1,
-  "group_popularity": 7,
+  "group_popularity": 4,
   "notes": "Data on New Orders for the Semiconductor Industry are not available."
 }

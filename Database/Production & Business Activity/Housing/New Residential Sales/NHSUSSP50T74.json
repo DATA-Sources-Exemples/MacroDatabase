@@ -1,18 +1,18 @@
 {
   "id": "NHSUSSP50T74",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999",
   "observation_start": "2002-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-02-24 09:01:18-06",
+  "last_updated": "2022-03-23 09:01:18-05",
   "popularity": 8,
-  "group_popularity": 9,
+  "group_popularity": 10,
   "notes": "Data appearing as a \"0\" does not actually represent \"0\" units sold. Do to rounding issues \"0\" refers to less than 500 units sold."
 }

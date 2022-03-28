@@ -1,7 +1,7 @@
 {
   "id": "C270RC1A027NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Private fixed investment in equipment and software: Nonresidential: Mining and oilfield machinery",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:54:24-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: C270RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

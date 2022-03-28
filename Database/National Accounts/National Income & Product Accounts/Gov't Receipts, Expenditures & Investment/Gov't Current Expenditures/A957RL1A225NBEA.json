@@ -1,7 +1,7 @@
 {
   "id": "A957RL1A225NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Government Consumption Expenditures: Federal: Consumption Expenditures",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 08:00:01-06",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: A957RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

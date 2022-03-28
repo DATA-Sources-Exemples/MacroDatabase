@@ -1,7 +1,7 @@
 {
   "id": "CPMNACSCAB1GQFR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Gross Domestic Product for France",
   "observation_start": "1975-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-08 04:01:03-06",
-  "popularity": 34,
-  "group_popularity": 39,
+  "popularity": 30,
+  "group_popularity": 37,
   "notes": "Eurostat unit ID: CP_MNAC\nEurostat item ID = B1GQ\nEurostat country ID: FR\n\nSeasonally and calendar adjusted data.\n\nFor euro area member states, the national currency series are converted into euros using the irrevocably fixed exchange rate. This preserves the same growth rates than for the previous national currency series. Both series coincide for years after accession to the euro area but differ for earlier years due to market exchange rate movements.\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016.Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

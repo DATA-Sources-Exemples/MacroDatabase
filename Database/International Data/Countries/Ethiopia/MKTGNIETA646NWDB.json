@@ -1,7 +1,7 @@
 {
   "id": "MKTGNIETA646NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Gross National Income for Ethiopia",
   "observation_start": "1981-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-21 14:47:12-06",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. Data are in current U.S. dollars.\n\nSource Code: NY.GNP.MKTP.CD"
 }

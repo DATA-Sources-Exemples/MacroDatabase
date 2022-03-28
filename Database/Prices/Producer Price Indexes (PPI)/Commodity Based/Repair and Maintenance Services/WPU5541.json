@@ -1,7 +1,7 @@
 {
   "id": "WPU5541",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Repair and Maintenance Services (Partial): Aircraft Repair and Maintenance",
   "observation_start": "2009-04-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:01:19-05",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 4
 }

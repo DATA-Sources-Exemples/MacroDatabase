@@ -1,7 +1,7 @@
 {
   "id": "WPUIP621A00",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Offices of Health Practitioners Industry, Offices of Health Practitioners, Excluding Capital Investment, Labor, and Imports",
   "observation_start": "2013-03-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:58:56-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

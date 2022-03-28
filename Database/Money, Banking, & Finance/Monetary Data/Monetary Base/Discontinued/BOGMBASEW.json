@@ -1,7 +1,7 @@
 {
   "id": "BOGMBASEW",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Monetary Base; Total (DISCONTINUED)",
   "observation_start": "1975-01-08",
   "observation_end": "2020-09-09",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-09-17 15:46:03-05",
-  "popularity": 37,
-  "group_popularity": 37,
+  "popularity": 36,
+  "group_popularity": 36,
   "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\n\nThe series equals total balances maintained plus currency in circulation.\n\nEffective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks."
 }

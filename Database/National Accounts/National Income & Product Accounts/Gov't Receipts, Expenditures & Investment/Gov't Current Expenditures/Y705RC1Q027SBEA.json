@@ -1,7 +1,7 @@
 {
   "id": "Y705RC1Q027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "State and local government current expenditures: Interest payments: to persons and business",
   "observation_start": "1947-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2021-12-22 07:54:16-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: Y705RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

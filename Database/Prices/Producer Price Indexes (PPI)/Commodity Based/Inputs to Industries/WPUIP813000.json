@@ -1,7 +1,7 @@
 {
   "id": "WPUIP813000",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Religious, Grantmaking, Civic, Professional, and Similar Organizations Industry, Membership Association and Organizations, Excluding Capital Investment, Labor, and Imports",
   "observation_start": "2014-05-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:58:54-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

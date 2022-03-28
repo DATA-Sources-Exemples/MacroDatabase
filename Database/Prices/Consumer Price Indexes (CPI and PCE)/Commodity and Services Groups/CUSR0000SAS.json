@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SAS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Services in U.S. City Average",
   "observation_start": "1956-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:39:07-06",
-  "popularity": 39,
-  "group_popularity": 40
+  "popularity": 36,
+  "group_popularity": 37
 }

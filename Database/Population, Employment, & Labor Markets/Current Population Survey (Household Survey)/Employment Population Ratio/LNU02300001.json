@@ -1,7 +1,7 @@
 {
   "id": "LNU02300001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employment-Population Ratio - Men",
   "observation_start": "1948-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-04 07:46:08-06",
   "popularity": 2,
-  "group_popularity": 30,
+  "group_popularity": 28,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU02300001"
 }

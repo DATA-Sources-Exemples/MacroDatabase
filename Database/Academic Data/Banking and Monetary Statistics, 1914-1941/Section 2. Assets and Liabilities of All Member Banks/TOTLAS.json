@@ -1,7 +1,7 @@
 {
   "id": "TOTLAS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Member Banks, Principal Assets and Liabilities: Total Assets",
   "observation_start": "1914-12-01",
   "observation_end": "1941-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-06-29 10:16:36-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "This series may have irregularities or important features that are not disclosed here. To see whether this is the case, please consult Part 1, Section 2 in the original source at: https://fraser.stlouisfed.org/scribd/?item_id=6408&filepath=/docs/publications/bms/1914-1941/BMS14-41_complete.pdf&start_page=1#scribd-open details can be found in the footnotes of each table as well as the introductory material for Section 2."
 }

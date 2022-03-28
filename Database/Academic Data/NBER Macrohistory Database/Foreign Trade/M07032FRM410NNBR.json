@@ -1,7 +1,7 @@
 {
   "id": "M07032FRM410NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Imports - Total Value for France",
   "observation_start": "1878-01-01",
   "observation_end": "1939-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:02:44-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Imports For The Entire Year Of 1919 Into Alsace-Lorraine Were Included In The December, 1919 Total, And Alsace-Lorraine Was Included Monthly Thereafter. Precious Metals And Metallic Currancy Are Not Included. Figures From August, 1938 On Are Preliminary. Source: For 1878-1884 Data, See Bulletin De Statistique Et De Legislation Comparee (Finance Ministere) 1879, P.90, Then Monthly Thereafter. For 1885-1934 Data, Documents Statistique......Sur Le Commerce De La France (Direction Generals Des Douanes). - Which With The 1922/1924 Issue And Thereafter Changes Title To Statistique Mensuelle Du Commerce Exterieur De La France. Where Gaps Occurred In The Series - The Bulletin De Statistique Gen. And L'Economiste Francais Were Used. The Original Source, Documents Statistique, Is Available In New York Public Library Only From 1885 On. It Is Available In Paris. For Earlier Years Therefore, A Secondary Source - Bulletin De Statistique Et De Legislation Comparee - Was Used. This Source Did Not Provide As Careful Or Complete Revisions As The Original Source (1885 Overlap Does Not Check Exactly) But Appeared Nevertheless To Be The Best Official Source For Earlier Data.\n\nThis NBER data series m07032 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07032"
 }

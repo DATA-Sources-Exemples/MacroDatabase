@@ -1,18 +1,18 @@
 {
   "id": "U34SNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' New Orders: Computers and Electronic Products",
   "observation_start": "1992-02-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-03 09:03:32-06",
-  "popularity": 3,
+  "last_updated": "2022-03-24 07:32:24-05",
+  "popularity": 4,
   "group_popularity": 37,
   "notes": "Data on New Orders for the Semiconductor Industry are not available."
 }

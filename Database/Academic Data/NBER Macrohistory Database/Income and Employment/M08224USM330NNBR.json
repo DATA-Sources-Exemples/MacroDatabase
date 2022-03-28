@@ -1,7 +1,7 @@
 {
   "id": "M08224USM330NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Factory Employment, Machine and Machine Tools for United States",
   "observation_start": "1925-01-01",
   "observation_end": "1942-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:31:51-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Source: National Industrial Conference Board, For 1925-1931 Data: Wages, Hours, And Employment In The United States, Nicb Studies No. 229, 1936; For 1932-1933 Data: Supplement To Nicb Service Letter, June 1938; For 1934-1935: Nicb Economic Record, March 28, 1940; For 1936-1942: Nicb Management Record, January 1945.\n\nThis NBER data series m08224 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08224"
 }

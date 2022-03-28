@@ -1,7 +1,7 @@
 {
   "id": "M08319USM156SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate, Per Cent of Persons Unemployed 5 to 14 Weeks for United States",
   "observation_start": "1948-01-01",
   "observation_end": "1967-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 14:17:50-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "These Figures Represent The Number Of Persons Unemployed For 5 To 14 Weeks Expressed As The Per Cent Of The Total Civilian Labor Force (Derived By NBER). Beginning In 1960, The Data Include Alaska And Hawaii. Population Data From The 1960 Census Were Introduced In April 1962. This Resulted In A Slight Reduction In Labor Force Totals, But None In The Estimates Of Unemployment. Population Data From The 1950 Census Were Used Prior To April 1962. Source: Bureau Of Labor Statistics, \"Employment And Earnings\" And \"Monthly Report On The Labor Force, \" February 1967, Pp. 35 And 40, And Subsequent Issues.\n\nThis NBER data series m08319 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08319"
 }

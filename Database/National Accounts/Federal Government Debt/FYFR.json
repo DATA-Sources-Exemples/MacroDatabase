@@ -1,7 +1,7 @@
 {
   "id": "FYFR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Federal Receipts",
   "observation_start": "1901-06-30",
   "observation_end": "2021-09-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-10-25 09:28:04-05",
-  "popularity": 34,
-  "group_popularity": 34,
+  "popularity": 32,
+  "group_popularity": 32,
   "notes": "Dates represent the end of the fiscal year. Fiscal year series are updated with official OMB figures in January or February. In October, the latest fiscal year is updated with figures from the Treasury Department (September figures from the Treasury's fiscal year to date series)."
 }

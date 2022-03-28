@@ -1,7 +1,7 @@
 {
   "id": "MYAGM3ZAM189N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "M3 for South Africa",
   "observation_start": "1965-03-01",
   "observation_end": "2017-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:23-05",
   "popularity": 1,
-  "group_popularity": 11,
+  "group_popularity": 10,
   "notes": "M3 comprises M2 and long-term deposits of households, local governments, public and private nonfinancial corporations, and other financial corporations (including the PIC beginning in January 1996) with the depository corporations, and negotiable certificates of deposits and promissory notes (more than six month's unexpired maturity) issued by other depository corporations held by households, local governments, public and private nonfinancial corporations, other financial corporations (including the PIC beginning in January 1996), and nonresidents. Long-term deposits include national savings certificates issued by the Postbank.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

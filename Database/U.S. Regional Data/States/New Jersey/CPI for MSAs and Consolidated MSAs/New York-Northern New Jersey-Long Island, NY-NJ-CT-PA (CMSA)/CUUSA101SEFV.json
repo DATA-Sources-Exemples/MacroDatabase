@@ -1,7 +1,7 @@
 {
   "id": "CUUSA101SEFV",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Food Away from Home in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2021-07-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:43:53-06",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "UCDGNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' New Orders: Consumer Durable Goods",
   "observation_start": "1992-02-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-03 09:03:07-06",
   "popularity": 6,
-  "group_popularity": 42,
+  "group_popularity": 44,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

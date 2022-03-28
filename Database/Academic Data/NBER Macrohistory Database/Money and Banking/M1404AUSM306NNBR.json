@@ -1,7 +1,7 @@
 {
   "id": "M1404AUSM306NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Monthly New York Rates of Exchange on Paris",
   "observation_start": "1876-01-01",
   "observation_end": "1914-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:34:49-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1876-1914 (2)--Original Data, 1918-1939. Data Are For Exchange Rates For Short-Term Bankers' Francs. Data For 1876-October 1902 Are Posted Rates Of Leading Bankers; For November 1902-1914 Are Actual Rates. Monthly Averages Were Computed By NBER From The Weekly Rates As Of The Friday Of Each Week. Data Previous To The Third Friday In January 1877 Are From The \"Three Days Draft\", Thereafter The \"Demand Draft\". Data For January 1882 And January 1884 Are Straight Line Interpolations Because No Quotatons Were Available. Source: Commercial And Financial Chronicle.\n\nThis NBER data series m14004a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14004a"
 }

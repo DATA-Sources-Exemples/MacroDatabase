@@ -1,7 +1,7 @@
 {
   "id": "M1125AUSM343NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of All Common Stock Prices, Cowles Commission and Standard and Poor's Corporation for United States",
   "observation_start": "1871-01-01",
   "observation_end": "1956-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:01:10-05",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1871-1956 (2)--Original Data, 1949-1968 For A More Complete Description Of This Series, See Business Cycle Indicators, Vol.Ii, G.H. Moore, NBER, P.24. Source: Standard And Poor'S Corporation'S Security Price Index Record, 1955, And Current Statistics, January, 1957.\n\nThis NBER data series m11025a appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11025a"
 }

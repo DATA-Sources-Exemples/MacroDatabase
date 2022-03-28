@@ -1,7 +1,7 @@
 {
   "id": "H4361C0A173NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Full-time equivalent employees: Domestic private industries: Services: Hotels and other lodging places",
   "observation_start": "1929-01-01",
   "observation_end": "1948-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-03-31 19:23:07-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "BEA Account Code: H4361C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

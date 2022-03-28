@@ -1,7 +1,7 @@
 {
   "id": "M14055USM156NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Ratio of Lawful Money to Individual Deposits, National Banks, Central Reserve Cities for United States",
   "observation_start": "1882-10-01",
   "observation_end": "1915-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:34:38-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "See Original Data In Series (Lawful Money, Central Reserve Cities) And Series (Individual Deposits, Central Reserve Cities) For A Further Description Of Coverage, Except That Here Clearing House Exchanges Have Been Deducted From Individual Deposits. Monthly Coverage Varies From Year To Year. Except For 1882, Which Only Has Data For October And December, All Years From 1883-1914 Have Scattered Five Month Coverage. Six Months Are Presented For 1915. A New Classification For Deposits Was Introduced Beginning With The Call Report Of December 31, 1914. In Order To Retain Comparability, Individual Deposits Were Computed Hereon By Adding Total Demand Deposits, Of Which United States And Postal Savings Were Deducted, To Total Time Deposits. Source: Computed By NBER From Annual Reports Of The Comptroller Of The Currency.\n\nThis NBER data series m14055 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14055"
 }

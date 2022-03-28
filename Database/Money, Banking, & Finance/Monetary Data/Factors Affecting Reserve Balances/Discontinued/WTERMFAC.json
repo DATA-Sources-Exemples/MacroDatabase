@@ -1,7 +1,7 @@
 {
   "id": "WTERMFAC",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Securities Lent to Dealers: Term Facility (DISCONTINUED)",
   "observation_start": "2008-04-02",
   "observation_end": "2010-12-08",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2010-12-10 09:19:54-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "The face value of U.S. Treasury securities lent through the Term Securities Lending Facility (TSLF). This facility was established on March 11, 2008 under the authority of section 13(3) of the Federal Reserve Act. The TSLF is a weekly facility that offers Treasury securities for loan over a one-month term to primary dealers against program-eligible general collateral. The program promotes liquidity in the Treasury security and other collateral markets and thus fosters the functioning of financial markets more generally."
 }

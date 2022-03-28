@@ -1,7 +1,7 @@
 {
   "id": "A006RL1A225NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Private Domestic Investment",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:55:20-06",
-  "popularity": 9,
-  "group_popularity": 63,
+  "popularity": 5,
+  "group_popularity": 62,
   "notes": "BEA Account Code: A006RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

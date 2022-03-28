@@ -1,7 +1,7 @@
 {
   "id": "COLAKE5URN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate in Lake County, CO",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-18 20:41:33-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "These data come from the Current Population Survey (CPS), also known as the household survey.\n\nCivilian Labor Force includes all persons in the civilian noninstitutional population ages 16 and older classified as either employed or unemployed.\n\nEmployed persons are all persons who, during the reference week (the week including the 12th day of the month), (a) did any work as paid employees, worked in their own business or profession or on their own farm, or worked 15 hours or more as unpaid workers in an enterprise operated by a member of their family, or (b) were not working but who had jobs from which they were temporarily absent because of vacation, illness, bad weather, childcare problems, maternity or paternity leave, labor-management dispute, job training, or other family or personal reasons, whether or not they were paid for the time off or were seeking other jobs. Each employed person is counted only once, even if he or she holds more than one job.\n\nUnemployed persons are all persons who had no employment during the reference week, were available for work, except for temporary illness, and had made specific efforts to find employment some time during the 4 week-period ending with the reference week. Persons who were waiting to be recalled to a job from which they had been laid off need not have been looking for work to be classified as unemployed.\n\nThe unemployment rate is the unemployed percent of the civilian labor force [100 times (unemployed/civilian labor force)].\n\nFor more details, see the release's <a href=https://www.bls.gov/lau/laufaq.htm>frequently asked questions</a>."
 }

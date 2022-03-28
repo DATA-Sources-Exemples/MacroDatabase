@@ -1,7 +1,7 @@
 {
   "id": "DGDSRC1A027NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal consumption expenditures: Goods",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:54:06-06",
   "popularity": 6,
-  "group_popularity": 45,
+  "group_popularity": 46,
   "notes": "BEA Account Code: DGDSRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

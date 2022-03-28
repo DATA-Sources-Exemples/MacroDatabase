@@ -1,7 +1,7 @@
 {
   "id": "CHNXTIMVA01NCMLQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "International Trade: Imports: Value (goods): Total for China",
   "observation_start": "1992-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 10:39:03-06",
-  "popularity": 2,
-  "group_popularity": 11,
+  "popularity": 1,
+  "group_popularity": 7,
   "notes": "OECD descriptor ID: XTIMVA01 OECD unit ID: NCML OECD country ID: CHN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

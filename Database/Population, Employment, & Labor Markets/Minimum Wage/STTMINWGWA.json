@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGWA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "State Minimum Wage Rate for Washington",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:24-06",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "State minimum wage is changed annually based on changes in the CPI and a cost of living formula.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

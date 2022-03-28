@@ -1,7 +1,7 @@
 {
   "id": "WSEFINT",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Memorandum item: Marketable Securities Held in Custody for Foreign Official and International Accounts (DISCONTINUED)",
   "observation_start": "1989-06-07",
   "observation_end": "2012-11-07",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-11-09 08:19:07-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Federal Reserve Bank New York, on behalf of the Federal Reserve System, provides correspondent and custodial banking services for central banks, monetary authorities, and certain international organizations to facilitate their official financial operations. This item indicates the face values of marketable securities held in custody for these accounts.\n\nThis data series has been discontinued, please see series ID: https://fred.stlouisfed.org/series/WSEFINT1\nMemorandum item: Securities Held in Custody for Foreign Official and International Accounts. For further information\non the changes to the H.4.1 Statistical Release please visit the following: http://www.federalreserve.gov/releases/h41"
 }

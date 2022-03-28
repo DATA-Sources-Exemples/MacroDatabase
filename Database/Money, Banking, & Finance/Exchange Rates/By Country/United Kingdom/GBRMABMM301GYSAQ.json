@@ -1,7 +1,7 @@
 {
   "id": "GBRMABMM301GYSAQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Monetary aggregates and their components: Broad money and components: M3: M3 for the United Kingdom",
   "observation_start": "1988-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 10:53:43-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 5,
   "notes": "OECD descriptor ID: MABMM301 OECD unit ID: GYSA OECD country ID: GBR All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

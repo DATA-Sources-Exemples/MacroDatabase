@@ -1,7 +1,7 @@
 {
   "id": "ODSDCBM027SBOG",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Other Deposits, Domestically Chartered Commercial Banks",
   "observation_start": "2009-07-01",
   "observation_end": "2022-02-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of U.S. $",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-03-18 15:54:58-05",
+  "last_updated": "2022-03-25 15:41:11-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

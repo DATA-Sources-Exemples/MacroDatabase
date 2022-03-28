@@ -1,7 +1,7 @@
 {
   "id": "M14050USM156NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Ratio of Loans and Discounts to Net Deposits, National Banks, Central Reserve Cities for United States",
   "observation_start": "1887-05-01",
   "observation_end": "1915-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:35:15-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Monthly Coverage Varies From Year To Year. Except For 1887, Which Only Has Data For Four Months, All Years 1888-1914 Have Scattered Five Month Coverage. Six Months Are Presented For 1915. See Original Series For Makeup Of Loans And Discounts. Net Deposits Subject To Reserve Requirements, Taken Directly From NBER Sheets, Were Checked. Source: Computed By NBER From Data In Annual Reports Of The Comptroller Of The Currency.\n\nThis NBER data series m14050 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14050"
 }

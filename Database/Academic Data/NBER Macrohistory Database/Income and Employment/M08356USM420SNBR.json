@@ -1,7 +1,7 @@
 {
   "id": "M08356USM420SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Potential Manhours Lost, Labor Force for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1969-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 14:23:17-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Coal And Steel Strikes Which Ended In November, 1949, Accounted For High Unemployment In October, 1949. Also, A Large Number Of Coal Miners And Steel Workers, Reported As Looking For Work In October, 1949, Were Later Classified As \"With A Job But Not At Work,\" Which Led To The Decline In Unemployment In November (See Monthly Labor Review, December, 1949). Source: Data Was Estimated By NBER From The Monthly Report On The Labor Force, Bureau Of Labor Statistics.\n\nThis NBER data series m08356 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08356"
 }

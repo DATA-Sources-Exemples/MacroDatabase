@@ -1,7 +1,7 @@
 {
   "id": "Y001RL1A225NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Intellectual Property Products",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 07:56:19-06",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 12,
   "notes": "BEA Account Code: Y001RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

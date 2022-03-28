@@ -1,7 +1,7 @@
 {
   "id": "WPU10170804",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity for Metals and Metal Products: Cold Finished Steel Bars and Bar Shapes, Stainless (DISCONTINUED)",
   "observation_start": "2010-12-01",
   "observation_end": "2017-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-01-11 09:01:49-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 4,
+  "group_popularity": 4
 }

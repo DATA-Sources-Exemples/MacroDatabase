@@ -1,7 +1,7 @@
 {
   "id": "DHLCRL1Q225SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Personal Consumption Expenditures: Services: Household Consumption Expenditures (for Services): Health Care",
   "observation_start": "1959-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 07:56:34-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: DHLCRL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

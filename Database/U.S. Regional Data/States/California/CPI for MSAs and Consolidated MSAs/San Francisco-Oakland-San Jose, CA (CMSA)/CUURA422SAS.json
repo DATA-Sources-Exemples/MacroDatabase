@@ -1,7 +1,7 @@
 {
   "id": "CUURA422SAS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Services in San Francisco-Oakland-Hayward, CA (CBSA)",
   "observation_start": "1966-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:39:18-06",
-  "popularity": 11,
-  "group_popularity": 11
+  "popularity": 8,
+  "group_popularity": 9
 }

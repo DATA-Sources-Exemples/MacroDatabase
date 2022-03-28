@@ -1,7 +1,7 @@
 {
   "id": "WPS101704",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Hot Rolled Steel Bars, Plates, and Structural Shapes",
   "observation_start": "1988-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 15:09:03-05",
-  "popularity": 21,
-  "group_popularity": 54
+  "popularity": 18,
+  "group_popularity": 51
 }

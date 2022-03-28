@@ -1,7 +1,7 @@
 {
   "id": "NBCABIS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Broad Effective Exchange Rate for Canada",
   "observation_start": "1994-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 11:02:09-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Nominal effective exchange rates are calculated as geometric weighted averages of bilateral exchange rates.\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

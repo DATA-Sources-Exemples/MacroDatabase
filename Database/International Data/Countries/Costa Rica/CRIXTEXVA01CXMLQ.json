@@ -1,7 +1,7 @@
 {
   "id": "CRIXTEXVA01CXMLQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "International Trade: Exports: Value (goods): Total for Costa Rica",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 10:37:49-06",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 6,
   "notes": "OECD descriptor ID: XTEXVA01 OECD unit ID: CXML OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

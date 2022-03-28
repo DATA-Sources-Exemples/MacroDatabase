@@ -1,7 +1,7 @@
 {
   "id": "M0602BUSM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturing and Trade Sales, Total for United States",
   "observation_start": "1948-01-01",
   "observation_end": "1969-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 13:46:06-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1939-1948 (2)--Original Data, 1948-1969. The 1948 Raw Data For \"Manufacuturers' Shipments\" Were Revised In January 1965 And Are Not Included With The 1948 Data Referred To In The Source. Source: U.S. Department Of Commerce, Data For 1948-1958: Unpublished Table From The Office Of Business Economics On \"Manufacturing And Trade Sales\", Table 3A For Raw Data/Table 3 For Seasonally Adjusted (File No.--U.S. Comm. Dc 30861-P63); Data For 1959-1968: Derived From U.S. Bureau Of The Census Monthly Releases For Wholesale And Retail Trade, As Well As NBER Series 06094 (Wholesale Sales, Total Trade), Series 06089 (Sales By Retail Stores), And Series 06092 (Total Manufacturers' Shipments)\n\nThis NBER data series m06102b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06102b"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M1231AUSM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Cash Income from Farming, Total for United States",
   "observation_start": "1924-01-01",
   "observation_end": "1935-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:31:47-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1924-1935 (2)--Original Data, 1935-1949. These Figures Represent Receipts From The Marketing Of Livestock And Crops Through July, 1933. Beginning In August, 1933 Government Payments Are Included. The Estimates Of Cash Receipts Fom Farming Are Shown On A Revised Basis From 1935 On. Those Revised Figures Are Described Below, In The Next Original Data Variable. Figures Continuing This Variable Are Available In The Source Through 1938. Source: Agricultural Statistics, 1939, P. 483.\n\nThis NBER data series m12031a appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12031a"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CIU1016120000000I",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employment Cost Index: Total compensation for All Civilian workers in Junior colleges, colleges, universities, and professional schools",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:52:30-06",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Historical data are available beginning with March 2001."
 }

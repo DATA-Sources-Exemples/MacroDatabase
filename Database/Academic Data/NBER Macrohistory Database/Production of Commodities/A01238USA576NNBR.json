@@ -1,7 +1,7 @@
 {
   "id": "A01238USA576NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Iron Ore Production for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1938-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:46:38-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Beginning 1906 Exclude Ore Containing More Than Five Percent Manganese. Data Available For 1860, 1870, 1875, And 1880-1888 Pig Iron Production. Source: U.S. Bureau Of The Mines, Mineral Resources; Minerals Yearbook.\n\nThis NBER data series a01238 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01238"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DGOERZ2A224NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Contributions to percent change in real personal consumption expenditures: Nondurable goods: Gasoline and other energy goods",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 07:57:08-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: DGOERZ\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

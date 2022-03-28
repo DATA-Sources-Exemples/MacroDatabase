@@ -1,7 +1,7 @@
 {
   "id": "DDOI06IDA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "5-Bank Asset Concentration for Indonesia",
   "observation_start": "1996-01-01",
   "observation_end": "2017-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-10-21 13:53:31-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Assets of five largest banks as a share of total commercial banking assets. Total assets include total earning assets, cash and due from banks, foreclosed real estate, fixed assets, goodwill, other intangibles, current tax assets, deferred tax, discontinued operations and other assets.\n\nRaw data are from Bankscope. (Sum(data2025) for five largest banks in Bankscope) / (Sum(data2025) for all banks in Bankscope). Only reported if number of banks in Bankscope is 5 or more. (Calculated from underlying bank-by-bank unconsolidated data from Bankscope)\n\nSource Code: GFDD.OI.06"
 }

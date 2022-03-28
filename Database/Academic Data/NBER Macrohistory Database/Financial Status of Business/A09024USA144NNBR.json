@@ -1,7 +1,7 @@
 {
   "id": "A09024USA144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Corporate Earnings, Finance for United States",
   "observation_start": "1916-01-01",
   "observation_end": "1940-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:01:30-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "The Data For 1916 Were Computed By NBER By Adding Figures For \"Grand Total Banks And Insurance Companies\" And For \"Real Estate,\" See Crum, \"Corporate Earning Power,\" P. 327. For 1936-1940, The Data Were Computed By NBER From Data In Statistics Of Income (See Notes). The 1938 Data Were Adjusted By NBER To Conform To 1937 Industrial Classification (See Notes). Data For 1939-1940 Are Based On 1938 Standard Industrial Classification. Source: Bureau Of Internal Revenue: Statistics Of Income, 1916 And Successive Years.\n\nThis NBER data series a09024 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: a09024"
 }

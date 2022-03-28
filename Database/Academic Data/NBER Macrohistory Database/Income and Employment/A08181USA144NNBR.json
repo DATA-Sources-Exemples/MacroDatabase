@@ -1,7 +1,7 @@
 {
   "id": "A08181USA144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wages and Salaries, Total for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1939-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:28:58-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Social Securities Paid By Employers Are Not Included; Pensions, Compensation For Injury And Relief Payments Are Likewise Excluded From This Series. Source: For 1919-1938: Simon Kuznets, National Income And Its Composition (1941) Volume I, Table 62, Pp.332-323; For 1939: The Data Were Extrapolated With The Aid Of The Department Of Commerce Data From Table 15 Of \"National Income And National Product In 1943\" By Milton Gilbert And George Jaszi; And Survey Of Current Business, April 1944, P.15.\n\nThis NBER data series a08181 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08181"
 }

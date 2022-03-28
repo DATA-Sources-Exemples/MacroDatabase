@@ -1,7 +1,7 @@
 {
   "id": "M0808AUSM065NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Actual Hours of Work Per Week, Iron and Steel Manufacturing for United States",
   "observation_start": "1920-06-01",
   "observation_end": "1942-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:20:55-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1942 (2)--Original Data, 1932-1956. This Series Can Be Extended Through July 1948, When Nicb Discontinued Its Compilation Of Payroll Statistics (See The Management Record, October 1948, P. 504). The Bls Series Starting In 1935 Is Comparable In Industry Coverage. Source: National Industrial Conference Board: For 1920-1936, \"Wages, Hours, And Employment In The United States, 1914-1936\" (Nicb Studies No. 229, 1936); For 1937, Supplement To Nicb Service Letter, June 1938; For 1938, Nicb Economic Record, March 28, 1940; For 1939-1942, Nicb Management Record, June 1943.\n\nThis NBER data series m08208a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08208a"
 }

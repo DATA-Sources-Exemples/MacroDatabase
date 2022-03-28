@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SEEE01",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",
   "observation_start": "1997-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:37:16-06",
-  "popularity": 14,
-  "group_popularity": 30
+  "popularity": 15,
+  "group_popularity": 32
 }

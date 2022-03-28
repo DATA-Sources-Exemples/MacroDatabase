@@ -1,7 +1,7 @@
 {
   "id": "ALLACBQ158SBOG",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "LESS: Allowance for Loan and Lease Losses, All Commercial Banks",
   "observation_start": "2009-10-01",
   "observation_end": "2021-10-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. at Annual Rate",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-01-14 15:39:10-06",
+  "last_updated": "2022-03-25 15:44:06-05",
   "popularity": 1,
-  "group_popularity": 21,
+  "group_popularity": 17,
   "notes": "Allowance for Loan and Lease Losses is a contra asset account. A contra asset account is an item that is entered on the asset side of the balance sheet of a corporation or entity even though the item has a credit or negative balance.\n\nThese series are break adjusted. The percent changes are at a simple annual rate and have been adjusted to remove (i) the effects of nonbank structure activity of $5 billion or more and (ii) the estimated effects of the initial consolidation of certain variable interest entities (FIN 46) and off-balance-sheet vehicles (FAS 166/167). Information about these adjustments is documented in the H.8 Notes in the Data section (http://www.federalreserve.gov/releases/h8/h8notes.htm) of the H.8 Assets and Liabilities of Commercial Banks in the United States release from the Board of Governors. To make the current and past levels comparable, a ratio procedure is used to adjust past levels. For example, if on December 31, 2008, real estate loans at large banks increased by 1 percent because a large bank acquired a nonbank during that week, the levels for real estate loans at large banks for all weeks prior to December 31, 2008, would be increased by 1 percent and then the percent changes would be calculated using those adjusted levels. These quarterly percent changes are calculated from quarterly levels, rounded to the nearest $100 million, based on the average of the three monthly levels in each quarter.\n\nFor further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

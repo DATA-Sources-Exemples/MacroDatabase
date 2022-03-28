@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS17140Q",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All-Transactions House Price Index for Cincinnati, OH-KY-IN (MSA)",
   "observation_start": "1976-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:03:25-06",
-  "popularity": 21,
-  "group_popularity": 21,
+  "popularity": 23,
+  "group_popularity": 23,
   "notes": "Estimated using sales prices and appraisal data."
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0868DUSM027NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal Income for United States",
   "observation_start": "1929-01-01",
   "observation_end": "1945-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:19:12-05",
-  "popularity": 4,
+  "popularity": 3,
   "group_popularity": 5,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1921-1941 (2)--Original Data, 1929-1945 (3)--Seasonally Adjusted Data, 1946-1970. Data Are At Annual Rate. Source: Data Direct From U.S. Department Of Commerce. See Also Survey Of Current Business Supplement, National Income, 1954 Edition.\n\nThis NBER data series m08168b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08168b"
 }

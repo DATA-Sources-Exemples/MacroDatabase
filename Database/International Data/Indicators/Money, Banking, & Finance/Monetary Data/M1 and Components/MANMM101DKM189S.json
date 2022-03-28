@@ -1,7 +1,7 @@
 {
   "id": "MANMM101DKM189S",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "M1 for Denmark",
   "observation_start": "1991-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 10:48:14-06",
-  "popularity": 6,
-  "group_popularity": 7,
+  "popularity": 7,
+  "group_popularity": 9,
   "notes": "OECD descriptor ID: MANMM101\nOECD unit ID: STSA\nOECD country ID: DNK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

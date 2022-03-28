@@ -1,7 +1,7 @@
 {
   "id": "CES6562160001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees, Home Health Care Services",
   "observation_start": "1985-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-04 07:45:31-06",
-  "popularity": 9,
-  "group_popularity": 10,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES6562160001"
 }

@@ -1,7 +1,7 @@
 {
   "id": "STDTNS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Small-Denomination Time Deposits at Thrift Institutions (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 15:03:48-06",
-  "popularity": 3,
-  "group_popularity": 6,
+  "popularity": 2,
+  "group_popularity": 7,
   "notes": "This series has been discontinued and will no longer be updated. It has been consolidated under the following series, which will continue to be updated: STDSL (https://fred.stlouisfed.org/series/STDSL).\n\nStarting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Components of the monetary aggregates are reported at a total industry level without a breakdown by banks and thrifts. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source."
 }

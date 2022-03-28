@@ -1,18 +1,18 @@
 {
   "id": "USEPUINDXM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Economic Policy Uncertainty Index for United States",
   "observation_start": "1985-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index",
   "units_short": "Index",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-02-01 08:02:02-06",
-  "popularity": 23,
+  "last_updated": "2022-03-25 08:02:02-05",
+  "popularity": 26,
   "group_popularity": 61,
   "notes": "This index is constructed from three types of underlying components. http://www.policyuncertainty.com/us_monthly.html\n\nFor additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
 }

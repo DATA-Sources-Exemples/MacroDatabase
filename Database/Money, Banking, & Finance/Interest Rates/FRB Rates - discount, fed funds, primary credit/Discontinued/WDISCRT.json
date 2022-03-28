@@ -1,7 +1,7 @@
 {
   "id": "WDISCRT",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Discount Rate (DISCONTINUED)",
   "observation_start": "1961-01-04",
   "observation_end": "2003-01-08",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2006-07-27 14:01:07-05",
   "popularity": 1,
-  "group_popularity": 17,
+  "group_popularity": 13,
   "notes": "Averages of daily figures. For more information, see http://www.federalreserve.gov/boarddocs/press/bcreg/2002/200210312/default.htm."
 }

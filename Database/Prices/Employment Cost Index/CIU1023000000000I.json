@@ -1,7 +1,7 @@
 {
   "id": "CIU1023000000000I",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employment Cost Index: Wages and salaries for All Civilian workers in Manufacturing",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:52:27-06",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 3
 }

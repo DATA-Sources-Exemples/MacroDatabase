@@ -1,7 +1,7 @@
 {
   "id": "A264RX1A020NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real gross domestic investment: Consumption of fixed capital",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:55:10-06",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "BEA Account Code: A264RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

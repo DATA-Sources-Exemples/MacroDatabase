@@ -1,7 +1,7 @@
 {
   "id": "M0892BUSM156SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate for United States",
   "observation_start": "1940-01-01",
   "observation_end": "1946-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 14:29:19-05",
-  "popularity": 18,
+  "popularity": 15,
   "group_popularity": 57,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted, 1929-1942 (2)--Seasonally Adjusted, 1940-1946 (3)--Original Data, 1947-1966. Data Are Unemployment Expressed As A Percentage Of The Civilian Labor Force. Source: United States Bureau Of The Census, Current Population Reports: Labor Force Series P-50, Nos. 2, 13, And 19 (1940-1946, 1947-1948, And 1949 Annual Reports). Data Were Derived From NBER Series On Unemployment And Civilian Labor Force.\n\nThis NBER data series m08292b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08292b"
 }

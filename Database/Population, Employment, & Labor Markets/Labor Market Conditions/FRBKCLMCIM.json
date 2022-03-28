@@ -1,7 +1,7 @@
 {
   "id": "FRBKCLMCIM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "KC Fed Labor Market Conditions Index, Momentum Indicator",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-11 12:01:02-06",
-  "popularity": 41,
-  "group_popularity": 41,
+  "popularity": 40,
+  "group_popularity": 40,
   "notes": "A positive value indicates that labor market conditions are above their long-run average, while a negative value signifies that labor market conditions are below their long-run average.\r\n\r\nFor more information regarding this series visit the release website at here (https://www.kansascityfed.org/data-and-trends/labor-market-conditions-indicators/)."
 }

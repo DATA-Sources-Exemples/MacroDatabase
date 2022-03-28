@@ -1,7 +1,7 @@
 {
   "id": "ITNETUSERP2PAK",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Internet users for Pakistan",
   "observation_start": "1990-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-09-22 10:32:21-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Internet users are people with access to the worldwide network.\n\nWorld Bank Source: International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.\n\nSource Indicator: IT.NET.USER.P2"
 }

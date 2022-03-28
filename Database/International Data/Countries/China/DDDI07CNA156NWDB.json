@@ -1,18 +1,18 @@
 {
   "id": "DDDI07CNA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Mutual Fund Assets to GDP for China",
   "observation_start": "2007-01-01",
-  "observation_end": "2017-01-01",
+  "observation_end": "2019-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2019-10-21 13:53:06-05",
-  "popularity": 4,
+  "last_updated": "2022-03-23 16:23:38-05",
+  "popularity": 5,
   "group_popularity": 4,
   "notes": "Ratio of assets of mutual funds to GDP. A mutual fund is a type of managed collective investment scheme that pools money from many investors to purchase securities.\n\nData taken from a variety of sources such as Investment Company Institute and national sources. (World Bank - Non banking financial database)\n\nSource Code: GFDD.DI.07"
 }

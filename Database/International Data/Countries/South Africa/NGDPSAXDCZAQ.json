@@ -1,7 +1,7 @@
 {
   "id": "NGDPSAXDCZAQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Nominal Gross Domestic Product for South Africa",
   "observation_start": "1993-01-01",
   "observation_end": "2021-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-12-27 07:09:10-06",
-  "popularity": 1,
-  "group_popularity": 2
+  "popularity": 4,
+  "group_popularity": 4
 }

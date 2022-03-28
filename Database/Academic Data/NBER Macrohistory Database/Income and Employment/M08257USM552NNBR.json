@@ -1,7 +1,7 @@
 {
   "id": "M08257USM552NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Man-Days Idle in Strikes and Lockouts for United States",
   "observation_start": "1927-01-01",
   "observation_end": "1972-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:16:34-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Data Cover All Workers Made Idle For As Long As One Shift In Establishments Directly Involved In A Stoppage (For A Very Detailed Description See Bulletin No. 1611, 1967, Appendix D). Source: Bureau Of Labor Statistics, Data For 1927-1936: Bulletin No. 651, \"Strikes In The United States, 1880-1936, \" By Florence Peterson, 1938; Data For 1937-1949: Monthly Labor Review; For 1950-1966: Bulletins No. 1035, 1090,1136, 1163, 1184, 1196, 1218, 1234, 1258, 1278, 1302, 1339, 1381, 1420, 1460, 1525, 1573, 1611, 1646, 1687, All Entitled \"Analysis Of Work Stoppages During Labor Review, January 1969 And Following Issues.\n\nThis NBER data series m08257 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08257"
 }

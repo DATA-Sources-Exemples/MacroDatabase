@@ -1,7 +1,7 @@
 {
   "id": "WPU038303513",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity for Textile Products and Apparel: Fabricated Flags, Banners, and Similar Emblems",
   "observation_start": "2009-12-01",
   "observation_end": "2018-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-10-10 08:03:55-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "M14074USM027NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Loans on Securities, Reporting Member Banks, Federal Reserve System for United States",
   "observation_start": "1919-12-01",
   "observation_end": "1938-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:35:11-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Cover 101 Cities. In September 1934 The Form Of Reports Changed. Data Were Computed By Summing Loans To Brokers Outside New York City; Open Market Loans-Loans To Brokers In New York City; Loans To Others On Security. Data For June-December 1937 Were Published As Totals; Data For 1938 Were Computed From Weekly Figures. Source: Federal Reserve Board, Annual Reports, 1930, P. 98; 1933, P. 184; 1936, Pp. 154, 156, 160; 1937, P. 142; Following Years.\n\nThis NBER data series m14074 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14074"
 }

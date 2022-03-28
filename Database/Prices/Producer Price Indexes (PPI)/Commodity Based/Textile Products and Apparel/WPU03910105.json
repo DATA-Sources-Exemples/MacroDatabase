@@ -1,7 +1,7 @@
 {
   "id": "WPU03910105",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile Fibers, Yarns, and Fabrics, Not Elsewhere Classified",
   "observation_start": "2011-12-01",
   "observation_end": "2017-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-08-10 09:33:53-05",
-  "popularity": 2,
+  "popularity": 3,
   "group_popularity": 3
 }

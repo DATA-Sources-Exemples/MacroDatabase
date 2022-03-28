@@ -1,7 +1,7 @@
 {
   "id": "NFIRSAXDCGBQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Fixed Capital Formation for Great Britain",
   "observation_start": "1955-01-01",
   "observation_end": "2021-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-07 07:09:31-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

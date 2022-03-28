@@ -1,7 +1,7 @@
 {
   "id": "QPRHLDTSDCSHHOLDINGSUSNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "State and Local Government: Cash and Short-Term Investments: Time and Savings Deposits",
   "observation_start": "2019-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-30 10:01:03-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Quarterly Survey of Public Pensions (QSPP) is a quarterly survey that provides national summary data on the revenues, expenditures, and composition of assets of the largest defined benefit public employee pension systems for state and local governments."
 }

@@ -1,17 +1,17 @@
 {
   "id": "SMU47328200500000003",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Hourly Earnings of All Employees: Total Private in Memphis, TN-MS-AR (MSA)",
   "observation_start": "2007-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars per Hour",
   "units_short": "$ per Hour",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-15 03:20:27-05",
+  "last_updated": "2022-03-26 03:21:43-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 3
 }

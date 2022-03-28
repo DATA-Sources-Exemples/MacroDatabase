@@ -1,7 +1,7 @@
 {
   "id": "LOLRPA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Liabilities: Other Liabilities: Reverse Repurchase Agreements -- Triparty",
   "observation_start": "1999-10-06",
   "observation_end": "2018-04-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-02-10 17:18:34-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "This series is in the H.4.1 Factors Affecting Reserve Balances statistical press release and is available in FRED as WLRRAL (https://fred.stlouisfed.org/series/WLRRAL).\n\nData before Wednesday, April 27, 1921 represent weekly values as of Friday.\n\nAuthors: Cecilia Bao, Justin Chen, Nicholas Fries, Andrew Gibson, Emma Paine, and Kurt Schuler\nStudies in Applied Economics no. 115, Johns Hopkins University Institute for Applied Economics, Global Health, and the Study of Business Enterprise, July 2018; co-published with the Center for Financial Stability"
 }

@@ -1,7 +1,7 @@
 {
   "id": "B985RX1Q020SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Intellectual property products: Software",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 07:56:23-06",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 4,
+  "group_popularity": 5,
   "notes": "BEA Account Code: B985RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

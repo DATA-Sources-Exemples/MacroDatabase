@@ -1,7 +1,7 @@
 {
   "id": "CXU900000LB1004M",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Income Before Taxes: Wages and Salaries by Hispanic or Latino Origin: Not Hispanic or Latino: White and All Other Races",
   "observation_start": "2003-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-09-09 11:38:53-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Hispanic or Latino origin refers to the reference person's origin, where the reference person is the first member mentioned by the respondent when asked to \"Start with the name of the person or one of the persons who owns or rents the home.\" It is with respect to this person that the relationship of the other consumer unit members is determined.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
 }

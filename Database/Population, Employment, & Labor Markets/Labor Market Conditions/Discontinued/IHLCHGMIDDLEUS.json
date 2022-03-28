@@ -1,7 +1,7 @@
 {
   "id": "IHLCHGMIDDLEUS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Job Postings Indexed Trend on Indeed: Middle Wage Tier in the United States (DISCONTINUED)",
   "observation_start": "2020-02-01",
   "observation_end": "2020-12-31",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-01-05 13:18:03-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Indeed calculates the 7-day moving average of the number of job postings on Indeed by job occupation wage tier to measure the trends in job postings. Then each day's 7-day moving average is indexed to February 1 of that year such that February 1 = 100 (e.g. Feb 1, 2020 = 100 for 2020 data, and so on). Indeed reports how the trend in job postings this year differs from last year, in order to focus on the recent changes in labor market conditions due to COVID-19. Wage tiers are calculated using the 2019 average reported salaries of job titles on Indeed. For more information, see Frequently Asked Questions (https://www.hiringlab.org/indeed-data-faq/) regarding Indeed Data.\r\n\r\nCopyrighted: Pre-approval required. Contact Indeed to request permission to use the data at their contact information provided here (https://github.com/hiring-lab/data#readme).\r\n\r\nEnd Users are excluded of any warranty and liability on the part of Indeed for the accuracy of the Indeed Data. End Users will refrain from any external distribution of Indeed Data except in oral or written presentations, provided that such portions or derivations are incidental to and supportive of such presentations and, provided further that the End Users shall not distribute or disseminate in such presentations any amount of Indeed Data which could cause such presentations to be susceptible to use substantially as a source of or substitute for Indeed Data. End Users agree to credit Indeed as the source and owner of the Indeed Data when making it available to third parties in any permissible manner as well as in internal use. End Users agree to not sell or otherwise provide the Indeed Data obtained from Licensee to third parties."
 }

@@ -1,7 +1,7 @@
 {
   "id": "MSIM2DS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Monetary Services Index: M2 (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2004-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2004-09-20 09:21:53-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Further information and definitions are available at: http://research.stlouisfed.org/publications/mt and http://research.stlouisfed.org/msi. This series was last updated 5/14/2004. Please refer to the series MSIM2 for the revised series."
 }

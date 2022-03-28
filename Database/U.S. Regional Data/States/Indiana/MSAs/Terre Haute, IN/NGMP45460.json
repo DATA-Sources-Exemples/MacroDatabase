@@ -1,7 +1,7 @@
 {
   "id": "NGMP45460",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Gross Domestic Product for Terre Haute, IN (MSA)",
   "observation_start": "2001-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-08 08:49:28-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "The All industry total includes all Private industries and Government.\n\nGross domestic product (GDP) by metropolitan area is the measure of the market value of all final goods and services produced within a metropolitan area in a particular period of time. In concept, an industry's GDP by metropolitan area, referred to as its \"value added\", is equivalent to its gross output (sales or receipts and other operating income, commodity taxes, and inventory change) minus its intermediate inputs (consumption of goods and services purchased from other U.S. industries or imported). GDP by metropolitan area is the metropolitan area counterpart of the nation's, BEA's featured measure of U.S. production.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

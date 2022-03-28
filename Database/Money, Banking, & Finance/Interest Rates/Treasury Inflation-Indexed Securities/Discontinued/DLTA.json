@@ -1,7 +1,7 @@
 {
   "id": "DLTA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Treasury Long-Term Average (25 years and above) (DISCONTINUED)",
   "observation_start": "2002-02-19",
   "observation_end": "2004-05-28",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2004-06-02 09:15:12-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 6,
   "notes": "Based on the unweighted average of the bid yields for all Treasury fixed-coupon securities with remaining terms to maturity of 25 years and over. For further information, please refer to http://www.federalreserve.gov/releases/h15/treas_long-term_rate_discontinuence.htm."
 }

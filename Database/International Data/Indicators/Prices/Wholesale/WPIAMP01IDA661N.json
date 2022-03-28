@@ -1,7 +1,7 @@
 {
   "id": "WPIAMP01IDA661N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Wholesale Prices of Manufactured Products by Industry Aggregate for Indonesia",
   "observation_start": "1995-01-01",
   "observation_end": "2019-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-01-29 07:40:44-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "OECD descriptor ID: WPIAMP01\nOECD unit ID: IXOB\nOECD country ID: IDN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

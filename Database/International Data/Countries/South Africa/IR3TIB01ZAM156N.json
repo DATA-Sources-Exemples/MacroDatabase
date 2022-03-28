@@ -1,7 +1,7 @@
 {
   "id": "IR3TIB01ZAM156N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "3-Month or 90-day Rates and Yields: Interbank Rates for South Africa",
   "observation_start": "1981-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:39:10-06",
-  "popularity": 30,
-  "group_popularity": 30,
+  "popularity": 27,
+  "group_popularity": 27,
   "notes": "OECD descriptor ID: IR3TIB01\nOECD unit ID: ST\nOECD country ID: ZAF\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

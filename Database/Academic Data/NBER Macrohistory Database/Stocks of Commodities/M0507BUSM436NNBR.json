@@ -1,7 +1,7 @@
 {
   "id": "M0507BUSM436NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Cold-Storage Holdings of Total Meats for United States",
   "observation_start": "1946-01-01",
   "observation_end": "1956-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 10:47:33-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "Series 05007 Is Presented Here As Two Variables--(1)--Original Data, 1917-1946 (2)--Original Data, 1946-1956. Lard Stocks Are Included And Cover Total Storage Of Lard At Factories And Warehouses (Excluding Lard Held By Retailers); Refrigerated Storage Holdings Are Included, But Cannot Be Segregated. Beginning In 1949, Refined Lard Was Added To Stocks Of Lard. Prior To 1949, Only Stocks Of Rendered Lard (Including Neutral Lard And Rendered Pork Fat) Had Been Reported, But Since There Was No Distinction Between\"Rendered\" And \"Refined\" It Is Assumed, According To The Source, That Figures Prior To 1949 May Have Included Certain Quantities Of\"Refined\" Lard Stocks. This Variable Ends In 1956, As Coverage Changed In January 1957. Source: U.S. Department Of Agriculture, Bureau Of Agricultural Economics, The Production And Marketing Administration, And The Agricultural Marketing Service, And The Survey Of Current Business (For Cold-Storage Holdings Of Meats Excluding Lard); U.S. Bureau Of The Census, Facts For Industry, Series M-17-1, Animal And Vegetable Fats And Oils, Various Annual Issues; Fats And Oils, Monthly Issues (For Data On Lard).\n\nThis NBER data series m05007b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05007b"
 }

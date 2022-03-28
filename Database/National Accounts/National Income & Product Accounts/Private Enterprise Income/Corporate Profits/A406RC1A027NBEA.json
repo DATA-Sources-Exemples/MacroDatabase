@@ -1,7 +1,7 @@
 {
   "id": "A406RC1A027NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Corporate profits with inventory valuation adjustments: Domestic industries: Nonfinancial: Manufacturing: Durable goods",
   "observation_start": "1929-01-01",
   "observation_end": "1947-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-07-27 10:21:40-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: A406RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

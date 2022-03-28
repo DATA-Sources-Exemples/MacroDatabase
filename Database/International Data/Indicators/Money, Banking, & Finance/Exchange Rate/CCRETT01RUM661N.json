@@ -1,7 +1,7 @@
 {
   "id": "CCRETT01RUM661N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Effective Exchange Rates Based on Manufacturing Consumer Price Index for the Russian Federation",
   "observation_start": "1993-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:41:21-06",
-  "popularity": 8,
-  "group_popularity": 9,
+  "popularity": 7,
+  "group_popularity": 10,
   "notes": "OECD descriptor ID: CCRETT01\nOECD unit ID: IXOB\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

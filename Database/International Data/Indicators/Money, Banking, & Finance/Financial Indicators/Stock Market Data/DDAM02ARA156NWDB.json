@@ -1,7 +1,7 @@
 {
   "id": "DDAM02ARA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Market Capitalization Outside of Top 10 Largest Companies to Total Market Capitalization for Argentina",
   "observation_start": "1998-01-01",
   "observation_end": "2017-01-01",
@@ -11,7 +11,7 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2019-10-21 13:53:40-05",
+  "last_updated": "2022-03-23 16:35:26-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Value of listed shares outside of the top ten largest companies to total value of all listed shares. (World Federation of Exchanges)\n\nSource Code: GFDD.AM.02"

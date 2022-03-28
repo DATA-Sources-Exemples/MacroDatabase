@@ -1,7 +1,7 @@
 {
   "id": "WPS067904",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Adhesives and Sealants (DISCONTINUED)",
   "observation_start": "1990-01-01",
   "observation_end": "1997-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:44:58-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0882BUSM350NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Help-Wanted Advertising in Newspapers for United States",
   "observation_start": "1951-01-01",
   "observation_end": "1966-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:27:44-05",
-  "popularity": 16,
-  "group_popularity": 17,
+  "popularity": 15,
+  "group_popularity": 16,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1960 (2)--Original Data, 1951-1966. Data For December, 1962 To March 1963 Are Estimated Due To A Newspaper Strike. Source: National Industrial Conference Board, Unpublished Table Supplied By Delos R. Smith.\n\nThis NBER data series m08082b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08082b"
 }

@@ -1,7 +1,7 @@
 {
   "id": "QFR101386USNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Quarterly Financial Report: U.S. Corporations: Aerospace Products and Parts: Net Sales, Receipts, and Operating Revenues",
   "observation_start": "2000-10-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 09:07:11-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Further information related to the Quarterly Financial Report survey can be found at https://www.census.gov/econ/qfr/about.html\nMethodology details can be found at https://www.census.gov/econ/qfr/documents/QFR_Methodology.pdf"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DDEI06GBA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Bank's Return on Equity for United Kingdom",
   "observation_start": "1996-01-01",
   "observation_end": "2017-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-10-21 13:53:03-05",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Commercial banks' net income to yearly averaged equity.\n\nRaw data are from Bankscope. Data2115[t] / ((data2055[t] + data2055[t-1])/2). Numerator and denominator are first aggregated on the country level before division. Note that banks used in the calculation might differ between indicators. (Calculated from underlying bank-by-bank unconsolidated data from Bankscope)\n\nSource Code: GFDD.EI.06"
 }

@@ -1,7 +1,7 @@
 {
   "id": "BWAFCMTVXDC",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Use of Financial Services, Mobile Banking: Value of Mobile Money Transactions (during the Reference Year) for Botswana",
   "observation_start": "2010-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-02 13:29:38-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

@@ -1,7 +1,7 @@
 {
   "id": "IPURN622110W200000000",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employment for Health Care and Social Assistance: General Medical and Surgical Hospitals (NAICS 622110) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-07 22:00:15-05",
-  "popularity": 8,
+  "popularity": 5,
   "group_popularity": 8,
   "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
 }

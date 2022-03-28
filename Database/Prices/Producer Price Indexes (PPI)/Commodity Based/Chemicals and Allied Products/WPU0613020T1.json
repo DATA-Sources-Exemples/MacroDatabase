@@ -1,7 +1,7 @@
 {
   "id": "WPU0613020T1",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Sulfuric Acid",
   "observation_start": "1987-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:04-05",
-  "popularity": 53,
-  "group_popularity": 53
+  "popularity": 51,
+  "group_popularity": 51
 }

@@ -1,7 +1,7 @@
 {
   "id": "A0137GUSA254NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wheat Crop, Yield Per Acre for United States",
   "observation_start": "1866-01-01",
   "observation_end": "1951-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:50:59-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Source: U.S. Department Of Agriculture, Bureau Of Agricultural Economics, Agricultural Statistics, 1937; 1939; 1941; 1942; 1950; And Crop Reporting Board, Crop Production, 1951 Annual Summary, December 1951; Crop Production, Mimeographed Release.\n\nThis NBER data series a01037g appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01037g"
 }

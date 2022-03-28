@@ -1,7 +1,7 @@
 {
   "id": "FPCPITOTLZGBGD",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Inflation, consumer prices for Bangladesh",
   "observation_start": "1987-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-05-26 13:53:59-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nInternational Monetary Fund, International Financial Statistics and data files."
 }

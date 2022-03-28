@@ -1,7 +1,7 @@
 {
   "id": "CUUSA421SEHC",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Los Angeles-Riverside-Orange County, CA (CMSA) (DISCONTINUED)",
   "observation_start": "1984-01-01",
   "observation_end": "2017-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-01-12 09:12:14-06",
   "popularity": 0,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "This series was discontinued as a result of the introduction of a new geographic area sample for the Consumer Price Index. Information on the geographic revision is available at https://www.bls.gov/cpi/additional-resources/geographic-revision-2018.htm."
 }

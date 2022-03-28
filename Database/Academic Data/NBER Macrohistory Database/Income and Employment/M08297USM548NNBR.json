@@ -1,7 +1,7 @@
 {
   "id": "M08297USM548NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Initial Claims, Unemployment Insurance, State Programs for United States",
   "observation_start": "1945-08-01",
   "observation_end": "1969-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:21:48-05",
-  "popularity": 25,
-  "group_popularity": 25,
+  "popularity": 24,
+  "group_popularity": 24,
   "notes": "Data Are Averages Of Weekly Figures. Split-Weeks Are Prorated According To The Number Of Days In The Month. Alaska And Hawaii Are Covered For The Entire Period; Puerto Rico Is Not Included. Source: U.S. Department Of Labor, Bureau Of Employment Security, Data For 1948-1961 Are From Bes Files; Data For 1962-1969 Are From\"Unemployment Insurance Claims\", A Weekly Publication.\n\nThis NBER data series m08297 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08297"
 }

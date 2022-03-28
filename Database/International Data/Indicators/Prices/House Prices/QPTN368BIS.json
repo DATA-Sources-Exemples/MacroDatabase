@@ -1,7 +1,7 @@
 {
   "id": "QPTN368BIS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Residential Property Prices for Portugal",
   "observation_start": "2009-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-26 11:02:29-06",
-  "popularity": 1,
-  "group_popularity": 7,
+  "popularity": 2,
+  "group_popularity": 8,
   "notes": "Source Code: Q:PT:N:368\n\nCoverage includes all types of new and existing dwellings in the whole country.\n\nFor more information, please see https://www.bis.org/statistics/pp_detailed.htm.\n\nAny use of the series shall be cited as follows: \"Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.\"\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

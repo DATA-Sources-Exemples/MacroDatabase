@@ -1,7 +1,7 @@
 {
   "id": "DEXSDUS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Swedish Kronor to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1971-01-04",
   "observation_end": "2022-03-18",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 15:20:14-05",
-  "popularity": 35,
-  "group_popularity": 38,
+  "popularity": 31,
+  "group_popularity": 35,
   "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

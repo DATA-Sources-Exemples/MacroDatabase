@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEFX",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Alcoholic Beverages Away from Home in U.S. City Average",
   "observation_start": "1978-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:38:28-06",
-  "popularity": 6,
-  "group_popularity": 8
+  "popularity": 5,
+  "group_popularity": 7
 }

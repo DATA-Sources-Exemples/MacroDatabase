@@ -1,7 +1,7 @@
 {
   "id": "ULCBS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Business Sector: Unit Labor Costs for All Employed Persons",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 07:36:27-06",
-  "popularity": 8,
-  "group_popularity": 13
+  "popularity": 7,
+  "group_popularity": 10
 }

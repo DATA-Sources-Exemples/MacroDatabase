@@ -1,7 +1,7 @@
 {
   "id": "M06091USM331NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of New Orders, Durable Goods for United States",
   "observation_start": "1920-01-01",
   "observation_end": "1933-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 13:47:42-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Further Information Concerning The Following Components Of This Index: Iron, Steel, Lumber, Clay And Glass Products, And Transportation Equipment May Be Found From Worksheets In The NBER Description File. The Original Data From Which This Index Was Derived Were No Longer Published After The Survey Of Current Business Issue Of November, 1933. Source: Computed By NBER Using Weights In Survey Of Current Business, September 1928, Pp. 19-20.\n\nThis NBER data series m06091 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06091"
 }

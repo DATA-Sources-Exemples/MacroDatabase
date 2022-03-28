@@ -1,7 +1,7 @@
 {
   "id": "WPU01130219",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Farm Products: Green Peas",
   "observation_start": "1991-12-01",
   "observation_end": "2021-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-14 10:24:05-06",
-  "popularity": 21,
-  "group_popularity": 21
+  "popularity": 19,
+  "group_popularity": 19
 }

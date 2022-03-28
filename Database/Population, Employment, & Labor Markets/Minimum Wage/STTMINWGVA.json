@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGVA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "State Minimum Wage Rate for Virginia",
   "observation_start": "1976-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:06-06",
-  "popularity": 40,
-  "group_popularity": 40,
+  "popularity": 39,
+  "group_popularity": 39,
   "notes": "State minimum wage applies only when a certain number of workers are employed. State minimum wage will always change to equal to the federal minimum wage.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

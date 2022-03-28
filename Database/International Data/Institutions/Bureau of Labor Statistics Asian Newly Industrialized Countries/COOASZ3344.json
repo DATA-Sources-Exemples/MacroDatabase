@@ -1,7 +1,7 @@
 {
   "id": "COOASZ3344",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Asian Newly Industrialized Countries",
   "observation_start": "2012-06-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-16 07:37:03-05",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 18,
+  "group_popularity": 18,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

@@ -1,7 +1,7 @@
 {
   "id": "SNBMMT",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Money Market Transactions Conducted by Swiss National Bank",
   "observation_start": "1975-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 03:01:04-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Monthly data is taken as the average of daily data.\n\nIn order to fully understand the values in this series, it is necessary to consult the corresponding publication document provided at https://data.snb.ch/en/topics/texts#!/doc/explanations_snb"
 }

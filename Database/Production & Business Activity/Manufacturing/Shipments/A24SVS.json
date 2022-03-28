@@ -1,7 +1,7 @@
 {
   "id": "A24SVS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' Value of Shipments: Petroleum and Coal Products",
   "observation_start": "1992-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 09:05:30-06",
-  "popularity": 1,
-  "group_popularity": 2
+  "popularity": 2,
+  "group_popularity": 3
 }

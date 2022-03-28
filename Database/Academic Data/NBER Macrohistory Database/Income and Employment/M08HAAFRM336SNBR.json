@@ -1,7 +1,7 @@
 {
   "id": "M08HAAFRM336SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Coefficient of Placement Index for France",
   "observation_start": "1920-01-01",
   "observation_end": "1938-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 14:23:10-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Represent The Ratio Of The Number Of Placements To Unfilled Applications, On A 1926=100 Base, Adjusted For Season. Allowance Was Made For A Change In The Ratio Construction In February, 1927 That Thereafter Included Aided Unemployed With Unfilled Applications. In 1928 This Change Was Modified By Adjusting For A Three Month Moving Average. Foreign Labor, Which France Purposely Imported, Is Covered By The Data. Source: Ministire De Travail, Statistique Generale, For 1920-1931 Data: Indices De Generaux De Movement De Economique De France, 1931, Pp. 103, 156; For 1932-1938 Data: Bulletin De Statistique Generale.\n\nThis NBER data series m08024aa appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08024aa"
 }

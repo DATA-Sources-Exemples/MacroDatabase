@@ -1,7 +1,7 @@
 {
   "id": "WPU38110101",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Data Processing and Related Services: Hosting, Active Server Pages (ASP) and Other Information Technology (IT) Infrastructure Provisioning Services",
   "observation_start": "2008-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:01:07-05",
   "popularity": 2,
-  "group_popularity": 3
+  "group_popularity": 2
 }

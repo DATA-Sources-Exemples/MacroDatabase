@@ -1,7 +1,7 @@
 {
   "id": "WSVCBAL",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Service-Related Balances and Adjustments (DISCONTINUED)",
   "observation_start": "1984-01-04",
   "observation_end": "2012-07-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-07-13 08:19:05-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Feb 1984 - Dec 1990: Annual Statistical Digest, various issues, Table 2.\nJan 1991 to date: Federal Reserve Board, H.4.1.\nService-related deposits are the sum of \"required clearing balances\" and \"adjustments to compensate for float.\" For more details, see http://www.federalreserve.gov/releases/h41/20120719/"
 }

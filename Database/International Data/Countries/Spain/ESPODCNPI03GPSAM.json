@@ -1,7 +1,7 @@
 {
   "id": "ESPODCNPI03GPSAM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Spain",
   "observation_start": "1995-02-01",
   "observation_end": "2021-09-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-18 12:20:19-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: ODCNPI03 OECD unit ID: GPSA OECD country ID: ESP All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

@@ -1,7 +1,7 @@
 {
   "id": "G20XTEXVA01GYSAQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "International Trade: Exports: Value (goods): Total for G20",
   "observation_start": "2000-01-01",
   "observation_end": "2018-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-07-23 12:42:44-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: XTEXVA01 OECD unit ID: GYSA OECD country ID: G-20 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

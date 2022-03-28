@@ -1,7 +1,7 @@
 {
   "id": "M0186BFRM338SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Cotton Textile Production for France",
   "observation_start": "1928-01-01",
   "observation_end": "1939-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-16 11:06:17-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1938 (2)--Seasonally Adjusted Data, 1927-1939. Source Data For 1928-1935 Were Old Index Converted To The 1928 Base By Simple Division And Corrected For Season Variation By Statistique Generale. Source Data For 1936-1939 Were Calculated Directly On The 1928 Base From Data Furnished By The Cotton Syndicate, And Corrected For Seasonal Variation By Statistique Generale. Data For August 1936, 1937, And 1938 Reflect Compulsory Vacation In Certain Industries. Source: Bulletin De Statistique, April-June, 1939, Pp. 480-481.\n\nThis NBER data series m01186b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01186b"
 }

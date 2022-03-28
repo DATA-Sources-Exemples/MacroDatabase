@@ -1,7 +1,7 @@
 {
   "id": "WPUFD4121",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Final Demand: Finished Consumer Energy Goods",
   "observation_start": "1974-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:57:15-05",
-  "popularity": 3,
+  "popularity": 4,
   "group_popularity": 8
 }

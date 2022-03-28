@@ -1,7 +1,7 @@
 {
   "id": "EXPCH",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "U.S. Exports of Goods by F.A.S. Basis to Mainland China",
   "observation_start": "1985-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-08 07:52:01-06",
-  "popularity": 24,
-  "group_popularity": 24,
+  "popularity": 25,
+  "group_popularity": 25,
   "notes": "Free Alongside Ship Basis (f.a.s.)\r\nFurther information related to the international trade data can be found at https://www.census.gov/foreign-trade/data/index.html \r\nMethodology details can be found at https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf"
 }

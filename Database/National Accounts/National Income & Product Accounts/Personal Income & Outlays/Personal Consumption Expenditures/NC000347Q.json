@@ -1,7 +1,7 @@
 {
   "id": "NC000347Q",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal Consumption Expenditures: Goods",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:56:46-06",
   "popularity": 2,
-  "group_popularity": 45,
+  "group_popularity": 46,
   "notes": "BEA Account Code: NC000347"
 }

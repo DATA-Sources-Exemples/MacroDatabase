@@ -1,7 +1,7 @@
 {
   "id": "MSLB20",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "State and Local Bonds - Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED)",
   "observation_start": "1953-01-01",
   "observation_end": "2016-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-10-03 15:47:09-05",
-  "popularity": 6,
-  "group_popularity": 31,
+  "popularity": 4,
+  "group_popularity": 29,
   "notes": "The Federal Reserve Board has discontinued this series as of October 11, 2016. More information, including possible alternative series, can be found at http://www.federalreserve.gov/feeds/h15.html.\n\nBond Buyer Index, general obligation, 20 years to maturity, mixed quality."
 }

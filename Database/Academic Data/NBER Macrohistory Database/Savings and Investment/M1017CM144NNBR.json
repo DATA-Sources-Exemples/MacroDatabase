@@ -1,7 +1,7 @@
 {
   "id": "M1017CM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "New Corporate Issues, Bonds, Notes, and Stocks, Land and Buildings, United States, Canadian, and Foreign",
   "observation_start": "1919-01-01",
   "observation_end": "1942-11-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:16:23-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Data Refer To New Capital, Thus Excluding Refunds. Municipal And Government Are Also Excluded. Coverage Includes Theaters, Hotels, Apartments, Office Buildings, Farming And Land Companies, Etc. Data Were Checked By Adding: Long-Term Bonds And Notes, Short-Term Bonds And Notes, And Stocks (Preferred And Common.) Source: Commercial And Financial Chronicle; Also Checked With Survey Of Current Business, May 1938 (This Is The Primary Source Of Data For January-March 1919) And 1940 Supplement\n\nThis NBER data series m10017b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10017b"
 }

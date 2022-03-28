@@ -1,7 +1,7 @@
 {
   "id": "A0861AUSA324NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Composite Wages for United States",
   "observation_start": "1820-01-01",
   "observation_end": "1909-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:20:32-05",
-  "popularity": 3,
-  "group_popularity": 6,
+  "popularity": 6,
+  "group_popularity": 10,
   "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1820-1909 (2)--Original Data, 1910-1920 (3)--Original Data, 1919-1946 (4)--Original Data, 1938-1949. This Index Is Based On Weekly Earnings. The Sources Vary As Follows: Falkner'S Report Covers All Industries; Burgess Deals Only With Teachers; The Department Of Agriculture Covers Farm Wages; Douglas Covers All Industries, Including Farming. Source: 1820-1839: A.H. Hanson, American Economic Review, March 1925; 1840-1865: R.P. Falkner, Aldrich Report, And W.R. Burgess, Trends Of School Costs; 1866-1889: Falkner, Burgess, And U.S. Department Of Agriculture; 1890-1909: L.P. Ayres, Prospects For Building Construction In American Cities, And P.H. Douglas, American Economic Review, March 1926, And Burgess.\n\nThis NBER data series a08061a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08061a"
 }

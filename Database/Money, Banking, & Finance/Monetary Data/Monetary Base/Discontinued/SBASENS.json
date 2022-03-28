@@ -1,7 +1,7 @@
 {
   "id": "SBASENS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "St. Louis Source Base (DISCONTINUED)",
   "observation_start": "1918-01-01",
   "observation_end": "2019-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-12-13 10:23:01-06",
-  "popularity": 5,
-  "group_popularity": 9,
+  "popularity": 3,
+  "group_popularity": 6,
   "notes": "Updates of this series will be ceased on December 20, 2019. Interested users can construct a proxy by summing Currency in circulation (H.4.1 release); Service Related Balances and Adjustments (H.4.1 release); and Reserve Balances with FR Banks (H.4.1 release). The discontinued series plotted on the same graph with the calculated data can be accessed for comparison at https://fred.stlouisfed.org/graph/?g=oJ6w\nFor more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/)."
 }

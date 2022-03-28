@@ -1,7 +1,7 @@
 {
   "id": "DRALOBN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Delinquency Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1985-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-23 15:05:15-06",
-  "popularity": 1,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 4,
   "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

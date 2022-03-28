@@ -1,7 +1,7 @@
 {
   "id": "MPU5650763",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Paper Products: Contribution of Materials Intensity",
   "observation_start": "1988-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "% Chg. from Yr. Ago",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2021-11-18 09:54:21-06",
+  "last_updated": "2022-03-25 12:25:33-05",
   "popularity": 0,
   "group_popularity": 0,
   "notes": "Material intensity is the measure of materials needed for production, processing, and disposal of a unit of good or service. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU5650763"

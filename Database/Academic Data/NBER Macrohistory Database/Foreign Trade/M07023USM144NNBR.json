@@ -1,7 +1,7 @@
 {
   "id": "M07023USM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Exports for United States",
   "observation_start": "1866-07-01",
   "observation_end": "1969-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:02:14-05",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 19,
+  "group_popularity": 19,
   "notes": "After June, 1913, The United States Department Of Commerce And Labor (One Of The Collectors Of The Data Presented Here) Is Named The Department Of Commerce. After April, 1941, The Bureau Of Foreign And Domestic Is Replaced As The Collector Of Data By The Bureau Of The Census. The November, 1872 Figure Was Misprinted In The Source To Read 50.45. Here It Is Given As 50.2. Beginning With July, 1950, Military Grand-Aid Shipments Have Been Eliminated From Export Figures; Other Government Shipments, Such As Various Types Of Civilian Aid Are Included In Exports. Certain Procedural Changes Resulted In A Higher Carry-Over Into The Succeeding Month Respectively In January 1955, April 1955, And January 1957. This Affects The Comparability From Month To Month In The Months Mentioned. The Ammounts Are $15-$25 Millions In January 1955, $20-$25 Millions In April 1955, And Approximately $30 Millions In January 1957 (See Foreign Trade Statistics Notes, April And June 1955, And March 1957 As Well As Ft 900, April 1955 And Ft 900-E, January 1958. Accelerated Vessel Loading Took Place In September 1959 In Anticipation Of The Longshoremen'S Strike. Merchandise Loaded In September On Vessels Departing October 1St Or Later Is Included In The October Figures. The Data For January And February, 1963 Reflect The Dock Strike Effect Shown In Increased Shipments Prior To The Start Of The Strike. December 1964 Through April 1965 Data Were Influenced By A Dock Strike At East Coast And Gulf Coast Ports (See Ft 900-E, November 24, 1965). Ft 900-E And Ft 900-I Have Been Combined Into One Report, Ft 900, Export And Merchandise Trade, Beginning In May, 1968. Source: 1866-1909 Data Are From Monthly Sumary Of Commerce And Finance, December, 1910 Supplement \"Calendar Year Statements, \" 1910, Pp. 1120-1126. 1910-June, 1914 Data Are From Successive Issues Of Monthly Summary Of Commerce And Finance. Beginning With July, 1914 Entries, The Data Are From Monthly Summary Of Foreign Commerce, Successive Issues. 1942-1944 Data Are From Foreign Commerce And Navigation; Beginning With 1945, The Data Are From Monthly Summary Of Foreign Commerce Of The United States (Issued Quarterly Beginning In April, 1951. Beginning With 1946 Data, See Summary Report Ft 900-E, Total Export Trade. Revised Back Figures May Be Found In World Trade Information Service Statistical Reports, Part 3, Total Export And Import Trade Of The United States (Through The 1962 Issues); United States Department Of Commerce, Overseas Business (Bureau Of International Commerce) 1962-1965 Issues; Bureau Of The Census, Highlights Of United States Export And Import Trade (Ft 990), Monthly, Beginning In 1967. Scattered Revisions For 1946-1963 Are From 1963 Issue Of Foreign Commerce And Navigation (Preprint Table 2/21/66).\n\nThis NBER data series m07023 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07023"
 }

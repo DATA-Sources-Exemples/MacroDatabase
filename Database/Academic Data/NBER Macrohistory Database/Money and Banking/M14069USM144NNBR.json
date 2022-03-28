@@ -1,7 +1,7 @@
 {
   "id": "M14069USM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Government Securities Held, Federal Reserve Banks for United States",
   "observation_start": "1914-12-01",
   "observation_end": "1949-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:33:46-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Data Represent Monthly Averages Of Daily Figures. Source: Federal Reserve Board, Data For 1914-1933: Annual Report, 1928, Pp. 47-49; 1933, Pp. 92-93. Data For 1934: Frb Bulletin, January 1935, P. 13. Data For 1935-1941: Banking And Monetary Statistics, 1943, Pp. 371-372. Data For 1942-1949: Frb Bulletins.\n\nThis NBER data series m14069 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14069"
 }

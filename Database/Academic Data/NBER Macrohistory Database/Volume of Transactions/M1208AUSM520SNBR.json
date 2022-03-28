@@ -1,7 +1,7 @@
 {
   "id": "M1208AUSM520SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Deposits Activity for United States",
   "observation_start": "1875-02-01",
   "observation_end": "1919-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 15:32:04-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1875-1919 (2)--Seasonally Adjusted Data 1918-1943. Units Are Based On The Relation Of Total Clearings To Total Individual Deposits In National Banks. The Norm Is A Seven Years Moving Average; Three Month Moving Averages Are Centered On The Last Month. Source: Federal Reserve Bank Of New York, Data For 1875-1918: Review Of Economic Statistics, October 1924, P. 258; Data For 1919: Original Worksheets Direct From Frb.\n\nThis NBER data series m12008a appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12008a"
 }

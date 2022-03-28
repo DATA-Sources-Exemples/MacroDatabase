@@ -1,7 +1,7 @@
 {
   "id": "TWEXAFEGSANL",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Nominal Advanced Foreign Economies U.S. Dollar Index",
   "observation_start": "2006-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-03 15:36:08-06",
-  "popularity": 7,
-  "group_popularity": 58
+  "popularity": 3,
+  "group_popularity": 55
 }

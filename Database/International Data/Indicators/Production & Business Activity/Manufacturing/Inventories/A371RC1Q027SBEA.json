@@ -1,7 +1,7 @@
 {
   "id": "A371RC1Q027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Private inventories",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-24 07:57:33-06",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "BEA Account Code: A371RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

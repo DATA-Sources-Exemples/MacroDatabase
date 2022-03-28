@@ -1,7 +1,7 @@
 {
   "id": "M08154USM065NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Hours Worked Per Month, Per Employee, All Employees on Hourly Basis for United States",
   "observation_start": "1921-07-01",
   "observation_end": "1943-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:18:04-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "Data Include Switching And Terminal Companies Until 1933. Source: Computed By NBER From Series (Total Hours Worked Per Month, All Employees On Hourly Basis) And (Total Number Of Employees On Hourly Basis).\n\nThis NBER data series m08154 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08154"
 }

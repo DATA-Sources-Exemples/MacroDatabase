@@ -1,7 +1,7 @@
 {
   "id": "A01297USA343NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Crop Yield Per Acre Harvested, Twelve Crops for United States",
   "observation_start": "1866-01-01",
   "observation_end": "1940-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:48:40-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Twelve Crops Are Wheat, Oats, Cotton, Potatoes, Corn, Barley, Buckwheat, Tame Hay, Rye, Tobacco, Sweet Potatoes, And Flaxseed. Bureau Of Agricultural Economics, Index Of Production For Twelve Crops, (Same As For Series 01005A) Divided By Acreage Harvested Twelve Crops, And Converted To 1935-1939 Base. Source: U.S. Department Of Agriculture, Agricultural Statistics, 1941; 1942, 1945.\n\nThis NBER data series a01297 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01297"
 }

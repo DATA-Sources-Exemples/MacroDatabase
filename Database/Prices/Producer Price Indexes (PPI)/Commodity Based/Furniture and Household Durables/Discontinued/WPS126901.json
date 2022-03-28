@@ -1,7 +1,7 @@
 {
   "id": "WPS126901",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Window Shades, Blinds, and Accessories (DISCONTINUED)",
   "observation_start": "1992-01-01",
   "observation_end": "2006-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:38:33-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

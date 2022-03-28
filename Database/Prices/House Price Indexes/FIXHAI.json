@@ -1,7 +1,7 @@
 {
   "id": "FIXHAI",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Housing Affordability Index (Fixed)",
   "observation_start": "2021-02-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-11 09:42:33-06",
-  "popularity": 64,
-  "group_popularity": 63,
+  "popularity": 65,
+  "group_popularity": 64,
   "notes": "Copyright, 2016, National Association of Realtors. Reprinted with permission. Per the agreement with the source, data in FRED are available for the prior 13 months.\n\nMeasures the degree to which a typical family can afford the monthly mortgage payments on a typical home.\n\nValue of 100 means that a family with the median income has exactly enough income to qualify for a mortgage on a median-priced home. An index above 100 signifies that family earning the median income has more than enough income to qualify for a mortgage loan on a median-priced home, assuming a 20 percent down payment. This index is calculated for fixed mortgages."
 }

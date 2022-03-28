@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGMN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "State Minimum Wage Rate for Minnesota",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:11-06",
-  "popularity": 33,
-  "group_popularity": 33,
+  "popularity": 36,
+  "group_popularity": 36,
   "notes": "State minimum wage applies only after a certain level of gross annual sales or receipts is reached by the employer.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

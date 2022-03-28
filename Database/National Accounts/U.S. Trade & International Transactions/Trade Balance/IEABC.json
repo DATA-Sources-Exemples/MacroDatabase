@@ -1,18 +1,18 @@
 {
   "id": "IEABC",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Balance on current account",
   "observation_start": "1999-01-01",
-  "observation_end": "2021-07-01",
+  "observation_end": "2021-10-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2021-12-21 09:13:01-06",
+  "last_updated": "2022-03-24 09:59:01-05",
   "popularity": 52,
-  "group_popularity": 55,
+  "group_popularity": 54,
   "notes": "Calculated by subtracting the imports of goods and services and income payments (debits) from the exports of goods and services and income receipts (credits)"
 }

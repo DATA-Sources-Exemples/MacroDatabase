@@ -1,7 +1,7 @@
 {
   "id": "B696RA3A086NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real imports of goods: Industrial supplies and materials, except petroleum and products: Nondurable goods (chain-type quantity index)",
   "observation_start": "1967-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 08:08:30-06",
   "popularity": 0,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B696RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

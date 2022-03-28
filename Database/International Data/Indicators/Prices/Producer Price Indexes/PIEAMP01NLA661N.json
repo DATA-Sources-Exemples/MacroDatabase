@@ -1,7 +1,7 @@
 {
   "id": "PIEAMP01NLA661N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Prices Index: Economic Activities: Total Manufacturing for the Netherlands",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 11:39:38-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: PIEAMP01\nOECD unit ID: IXOB\nOECD country ID: NLD\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

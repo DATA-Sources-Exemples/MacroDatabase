@@ -1,7 +1,7 @@
 {
   "id": "M0829AUSM065NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Hours of Work Per Week, Manufacturing Industries, Total Wage Earners for United States",
   "observation_start": "1920-06-01",
   "observation_end": "1948-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:18:52-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1932-1969. Data Cover Twenty-Five Manufacturing Industries. Missing Data In 1922 Was Not Compiled By Nicb. The Series Is Called\"Production Workers\" In The Source Beginning In 1945. See The Management Record Of March, 1945, Pp. 80 And 82 For Related Notes. Source: National Industrial Conference Board, For 1920-1933 Data: Wages, Hours, And Employment In The United States, 1914-1936, Pp. 44-47; For 1934-1940 Data: Nicb Economic Record, March 28, 1940, Pp. 115-116 And December, 11, 1941, P. 520; For 1941-1948: Nicb Management Record, 1942 And Survey Of Current Business, October, 1936, Pp. 11-13; Supplement Of January, 1940, P.18, And Subsequent Supplements For 1940-1942.\n\nThis NBER data series m08029a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08029a"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DGDSRD3A086NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal consumption expenditures: Goods (implicit price deflator)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:58:39-06",
   "popularity": 1,
-  "group_popularity": 7,
+  "group_popularity": 8,
   "notes": "BEA Account Code: DGDSRD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

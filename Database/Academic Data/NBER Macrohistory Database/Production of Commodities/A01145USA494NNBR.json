@@ -1,7 +1,7 @@
 {
   "id": "A01145USA494NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Automobile Registrations, Total, Truck for United States",
   "observation_start": "1904-01-01",
   "observation_end": "1944-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:48:58-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "All Figures Are As Of December 31. The Figure For 1944 Has Been Estimated. Source: U.S. Bureau Of Public Roads, Data For 1904-1939: National Automobile Chamber Of Commerce, \"Facts And Figures Of The Automobile Industry\", 1933, P. 10; 1939, P. 16; 1943, P. 48. Data For 1940-1944: Public Roads Administration, \"Comparison Of Motor Vehicle Registrations, 1940-1944\".\n\nThis NBER data series a01145 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01145"
 }

@@ -1,7 +1,7 @@
 {
   "id": "NGDPRNSAXDCIDQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Domestic Product for Indonesia",
   "observation_start": "2008-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-28 07:09:06-06",
-  "popularity": 5,
-  "group_popularity": 20
+  "popularity": 11,
+  "group_popularity": 26
 }

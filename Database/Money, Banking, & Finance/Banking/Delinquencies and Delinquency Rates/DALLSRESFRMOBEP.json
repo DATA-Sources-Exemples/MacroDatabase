@@ -1,7 +1,7 @@
 {
   "id": "DALLSRESFRMOBEP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1991-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-23 15:04:47-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Delinquent loans and leases are those past due thirty days or more and still accruing interest as well as those in nonaccrual status. The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

@@ -1,7 +1,7 @@
 {
   "id": "B829RG3Q086SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Government consumption expenditures and gross investment: State and local (chain-type price index)",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-24 08:04:39-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: B829RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

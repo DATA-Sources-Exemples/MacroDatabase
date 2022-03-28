@@ -1,7 +1,7 @@
 {
   "id": "BOXRHTNSA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Home Price Index (High Tier) for Boston, Massachusetts",
   "observation_start": "1987-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:45:04-06",
-  "popularity": 4,
-  "group_popularity": 15,
+  "popularity": 7,
+  "group_popularity": 18,
   "notes": "For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WCPN3M",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "90-Day AA Nonfinancial Commercial Paper Interest Rate",
   "observation_start": "1997-01-03",
   "observation_end": "2022-03-11",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-14 15:17:03-05",
   "popularity": 6,
-  "group_popularity": 53,
+  "group_popularity": 54,
   "notes": "Averages of Business Days, Discount Basis"
 }

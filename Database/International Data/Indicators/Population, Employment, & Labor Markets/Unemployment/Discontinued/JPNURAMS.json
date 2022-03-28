@@ -1,7 +1,7 @@
 {
   "id": "JPNURAMS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Adjusted Unemployment Rate in Japan (DISCONTINUED)",
   "observation_start": "2007-01-01",
   "observation_end": "2013-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2013-09-03 11:06:06-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Series is adjusted to U.S. Concepts.\n\nBureau of Labor Statistics (BLS) has eliminated the International Labor Comparisons (ILC) program. This is the last BLS release of international unemployment rates and employment indexes."
 }

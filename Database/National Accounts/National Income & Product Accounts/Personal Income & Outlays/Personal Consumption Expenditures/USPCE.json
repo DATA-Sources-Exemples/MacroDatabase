@@ -1,7 +1,7 @@
 {
   "id": "USPCE",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal Consumption Expenditures: Total for United States",
   "observation_start": "1997-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-10-08 11:11:02-05",
-  "popularity": 32,
-  "group_popularity": 32,
+  "popularity": 30,
+  "group_popularity": 30,
   "notes": "A measure of spending on goods and services purchased by, and on behalf of, households based on households' state of residence in the fifty states and the District of Columbia.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
 }

@@ -1,7 +1,7 @@
 {
   "id": "LAUMT542658000000003A",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-04-16 14:24:52-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 3
 }

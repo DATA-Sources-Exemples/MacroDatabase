@@ -1,7 +1,7 @@
 {
   "id": "CLVMNACSCAB1GQHR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Domestic Product for Croatia",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-08 04:02:10-06",
-  "popularity": 19,
-  "group_popularity": 20,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "Eurostat unit ID: CLV10_MNAC\nEurostat item ID = B1GQ\nEurostat country ID: HR\n\nSeasonally and calendar adjusted data.\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }
