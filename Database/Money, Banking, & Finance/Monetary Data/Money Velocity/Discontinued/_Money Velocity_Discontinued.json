@@ -1,0 +1,20 @@
+{
+  "MZMV": {
+    "id": "MZMV",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
+    "title": "Velocity of MZM Money Stock (DISCONTINUED)",
+    "observation_start": "1959-01-01",
+    "observation_end": "2020-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Ratio",
+    "units_short": "Ratio",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2021-05-25 12:56:02-05",
+    "popularity": 48,
+    "group_popularity": 48,
+    "notes": "This series has been discontinued and will no longer be updated. The institutional money market funds component (IMFSL (https://fred.stlouisfed.org/series/IMFSL)) used to calculate MZM has been discontinued by the Board of Governors and is no longer available in the H.6 statistical release, Money Stock Measures. For further information about the changes to the H.6 statistical release, please see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\r\n\r\nCalculated as the ratio of quarterly nominal GDP (GDP (https://fred.stlouisfed.org/series/GDP)) to the quarterly average of MZM money stock (MZMSL (https://fred.stlouisfed.org/series/MZMSL)).\r\n\r\nThe velocity of money is the frequency at which one unit of currency is used to purchase domestically- produced goods and services within a given time period. In other words, it is the number of times one dollar is spent to buy goods and services per unit of time. If the velocity of money is increasing, then more transactions are occurring between individuals in an economy.\r\nThe frequency of currency exchange can be used to determine the velocity of a given component of the money supply, providing some insight into whether consumers and businesses are saving or spending their money. There are several components of the money supply,: M1, M2, and MZM (M3 is no longer tracked by the Federal Reserve); these components are arranged on a spectrum of narrowest to broadest. Consider M1, the narrowest component. M1 is the money supply of currency in circulation (notes and coins, traveler\u2019s checks [non-bank issuers], demand deposits, and checkable deposits). A decreasing velocity of M1 might indicate fewer short- term consumption transactions are taking place. We can think of shorter- term transactions as consumption we might make on an everyday basis.\r\n\r\nThe broader M2 component includes M1 in addition to saving deposits, certificates of deposit (less than $100,000), and money market deposits for individuals. Comparing the velocities of M1 and M2 provides some insight into how quickly the economy is spending and how quickly it is saving.\r\n\r\nMZM (money with zero maturity) is the broadest component and consists of the supply of financial assets redeemable at par on demand: notes and coins in circulation, traveler\u2019s checks (non-bank issuers), demand deposits, other checkable deposits, savings deposits, and all money market funds. The velocity of MZM helps determine how often financial assets are switching hands within the economy."
+  }
+}

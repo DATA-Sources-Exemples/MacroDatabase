@@ -1,0 +1,19 @@
+{
+  "PCU54161054161022": {
+    "id": "PCU54161054161022",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
+    "title": "Producer Price Index by Industry: Management Consulting Services: Human Resources Consulting Services (DISCONTINUED)",
+    "observation_start": "2006-06-01",
+    "observation_end": "2017-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Jun 2006=100",
+    "units_short": "Index Jun 2006=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-01-11 09:01:28-06",
+    "popularity": 1,
+    "group_popularity": 1
+  }
+}

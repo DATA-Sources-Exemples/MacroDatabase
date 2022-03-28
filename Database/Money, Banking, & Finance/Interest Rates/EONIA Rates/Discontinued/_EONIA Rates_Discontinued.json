@@ -1,0 +1,20 @@
+{
+  "EONIARATE": {
+    "id": "EONIARATE",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
+    "title": "EONIA: Euro Interbank Offered Rate (DISCONTINUED)",
+    "observation_start": "1999-01-04",
+    "observation_end": "2021-12-29",
+    "frequency": "Daily",
+    "frequency_short": "D",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-12-31 03:31:01-06",
+    "popularity": 32,
+    "group_popularity": 32,
+    "notes": "Note: The EONIA rate is discontinued and has been replaced with the Euro Short-Term Rate (https://fred.stlouisfed.org/series/ECBESTRVOLWGTTRMDMNRT).\r\n\r\nThe EONIA (European Overnight Index Average) rate is the closing rate for the overnight maturity calculated by collecting data on unsecured overnight lending in the euro area provided by banks belonging to the EONIA panel. EONIA will be discontinued in January 2022 and will be replaced by the Euro Short-Term Rate; for more details see this bulletin (https://www.ecb.europa.eu/pub/economic-bulletin/focus/2019/html/ecb.ebbox201907_01~b4d59ec4ee.en.html)."
+  }
+}
