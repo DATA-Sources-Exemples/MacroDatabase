@@ -21,7 +21,7 @@ jobs:
         run: |
           echo Running File...
           status=$(python Methodology/collect_series.py ${{ secrets.VERY_SECRET_VALUE }} > logs/collect_series/${{ env.MY_DATE }}.txt 2>&1; echo $?)
-          cat logs/collect_series/${{ steps.date.outputs.today }}.txt
+          cat logs/collect_series/${{ env.MY_DATE }}.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
         run: |
