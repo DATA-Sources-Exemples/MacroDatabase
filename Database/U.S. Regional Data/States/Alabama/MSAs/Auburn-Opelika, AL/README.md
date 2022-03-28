@@ -5,35 +5,35 @@
 | ACTLISCOUMM12220          | Housing Inventory: Active Listing Count Month-Over-Month in Auburn-Opelika, AL (CBSA)                               | 2017-07-01          | 2022-01-01        |
 | ACTLISCOUYY12220          | Housing Inventory: Active Listing Count Year-Over-Year in Auburn-Opelika, AL (CBSA)                                 | 2017-07-01          | 2022-01-01        |
 | ATNHPIUS12220Q            | All-Transactions House Price Index for Auburn-Opelika, AL (MSA)                                                     | 1987-10-01          | 2021-10-01        |
-| AUBU201BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-01-01        |
-| AUBU201BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-01-01        |
-| AUBU201BPPRIV             | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-01-01        |
-| AUBU201BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-01-01        |
-| AUBU201EDUH               | All Employees: Education and Health Services in Auburn-Opelika, AL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| AUBU201EDUHN              | All Employees: Education and Health Services in Auburn-Opelika, AL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| AUBU201FIRE               | All Employees: Financial Activities in Auburn-Opelika, AL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| AUBU201FIREN              | All Employees: Financial Activities in Auburn-Opelika, AL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| AUBU201GOVT               | All Employees: Government in Auburn-Opelika, AL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| AUBU201GOVTN              | All Employees: Government in Auburn-Opelika, AL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| AUBU201INFO               | All Employees: Information in Auburn-Opelika, AL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| AUBU201INFON              | All Employees: Information in Auburn-Opelika, AL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| AUBU201LEIH               | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| AUBU201LEIHN              | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| AUBU201BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-02-01        |
+| AUBU201BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-02-01        |
+| AUBU201BPPRIV             | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-02-01        |
+| AUBU201BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-02-01        |
+| AUBU201EDUH               | All Employees: Education and Health Services in Auburn-Opelika, AL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| AUBU201EDUHN              | All Employees: Education and Health Services in Auburn-Opelika, AL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| AUBU201FIRE               | All Employees: Financial Activities in Auburn-Opelika, AL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| AUBU201FIREN              | All Employees: Financial Activities in Auburn-Opelika, AL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| AUBU201GOVT               | All Employees: Government in Auburn-Opelika, AL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| AUBU201GOVTN              | All Employees: Government in Auburn-Opelika, AL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| AUBU201INFO               | All Employees: Information in Auburn-Opelika, AL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| AUBU201INFON              | All Employees: Information in Auburn-Opelika, AL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| AUBU201LEIH               | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| AUBU201LEIHN              | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | AUBU201LF                 | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | AUBU201LFN                | Civilian Labor Force in Auburn-Opelika, AL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| AUBU201MFG                | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUBU201MFGN               | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUBU201NA                 | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUBU201NAN                | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUBU201NRMN               | All Employees: Mining, Logging, and Construction in Auburn-Opelika, AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| AUBU201NRMNN              | All Employees: Mining, Logging, and Construction in Auburn-Opelika, AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| AUBU201PBSV               | All Employees: Professional and Business Services in Auburn-Opelika, AL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| AUBU201PBSVN              | All Employees: Professional and Business Services in Auburn-Opelika, AL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| AUBU201MFG                | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUBU201MFGN               | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUBU201NA                 | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUBU201NAN                | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUBU201NRMN               | All Employees: Mining, Logging, and Construction in Auburn-Opelika, AL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| AUBU201NRMNN              | All Employees: Mining, Logging, and Construction in Auburn-Opelika, AL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| AUBU201PBSV               | All Employees: Professional and Business Services in Auburn-Opelika, AL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| AUBU201PBSVN              | All Employees: Professional and Business Services in Auburn-Opelika, AL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | AUBU201PCPI               | Per Capita Personal Income in Auburn-Opelika, AL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| AUBU201SRVO               | All Employees: Other Services in Auburn-Opelika, AL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| AUBU201SRVON              | All Employees: Other Services in Auburn-Opelika, AL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| AUBU201TRAD               | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| AUBU201TRADN              | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| AUBU201SRVO               | All Employees: Other Services in Auburn-Opelika, AL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| AUBU201SRVON              | All Employees: Other Services in Auburn-Opelika, AL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| AUBU201TRAD               | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| AUBU201TRADN              | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | AUBU201UR                 | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | AUBU201URN                | Unemployment Rate in Auburn-Opelika, AL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | AVELISPRI12220            | Housing Inventory: Average Listing Price in Auburn-Opelika, AL (CBSA)                                               | 2016-07-01          | 2022-01-01        |
@@ -111,41 +111,41 @@
 | RPPGOOD12220              | Regional Price Parities: Goods for Auburn-Opelika, AL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH12220          | Regional Price Parities: Services: Other for Auburn-Opelika, AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT12220         | Regional Price Parities: Services: Rents for Auburn-Opelika, AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS01122200000000026      | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS01122200000000026      | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU01122200000000001A     | All Employees: Total Nonfarm in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01122200500000001      | All Employees: Total Private in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU01122200500000001      | All Employees: Total Private in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU01122200500000001A     | All Employees: Total Private in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01122200500000001SA    | All Employees: Total Private in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU01122200500000002      | Average Weekly Hours of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU01122200500000001SA    | All Employees: Total Private in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU01122200500000002      | Average Weekly Hours of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU01122200500000002A     | Average Weekly Hours of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU01122200500000002SA    | Average Weekly Hours of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU01122200500000003      | Average Hourly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU01122200500000002SA    | Average Weekly Hours of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU01122200500000003      | Average Hourly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU01122200500000003A     | Average Hourly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01122200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU01122200500000011      | Average Weekly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU01122200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU01122200500000011      | Average Weekly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU01122200500000011A     | Average Weekly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01122200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU01122200600000001      | All Employees: Goods Producing in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU01122200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Auburn-Opelika, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU01122200600000001      | All Employees: Goods Producing in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU01122200600000001A     | All Employees: Goods Producing in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU01122200600000001SA    | All Employees: Goods Producing in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU01122200700000001      | All Employees: Service-Providing in Auburn-Opelika, AL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU01122200600000001SA    | All Employees: Goods Producing in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU01122200700000001      | All Employees: Service-Providing in Auburn-Opelika, AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU01122200700000001A     | All Employees: Service-Providing in Auburn-Opelika, AL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU01122200700000001SA    | All Employees: Service-Providing in Auburn-Opelika, AL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU01122200800000001      | All Employees: Private Service Providing in Auburn-Opelika, AL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU01122200700000001SA    | All Employees: Service-Providing in Auburn-Opelika, AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU01122200800000001      | All Employees: Private Service Providing in Auburn-Opelika, AL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU01122200800000001A     | All Employees: Private Service Providing in Auburn-Opelika, AL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU01122200800000001SA    | All Employees: Private Service Providing in Auburn-Opelika, AL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU01122200800000001SA    | All Employees: Private Service Providing in Auburn-Opelika, AL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU01122201500000001A     | All Employees: Mining, Logging, and Construction in Auburn-Opelika, AL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU01122203000000001A     | All Employees: Manufacturing in Auburn-Opelika, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU01122204000000001A     | All Employees: Trade, Transportation, and Utilities in Auburn-Opelika, AL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU01122204100000001      | All Employees: Wholesale Trade in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU01122204100000001      | All Employees: Wholesale Trade in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU01122204100000001A     | All Employees: Wholesale Trade in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU01122204100000001SA    | All Employees: Wholesale Trade in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU01122204200000001      | All Employees: Retail Trade in Auburn-Opelika, AL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU01122204100000001SA    | All Employees: Wholesale Trade in Auburn-Opelika, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU01122204200000001      | All Employees: Retail Trade in Auburn-Opelika, AL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU01122204200000001A     | All Employees: Retail Trade in Auburn-Opelika, AL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU01122204200000001SA    | All Employees: Retail Trade in Auburn-Opelika, AL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU01122204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Auburn-Opelika, AL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU01122204200000001SA    | All Employees: Retail Trade in Auburn-Opelika, AL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU01122204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Auburn-Opelika, AL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU01122204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Auburn-Opelika, AL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU01122204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Auburn-Opelika, AL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU01122204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Auburn-Opelika, AL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU01122205000000001A     | All Employees: Information in Auburn-Opelika, AL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU01122205500000001A     | All Employees: Financial Activities in Auburn-Opelika, AL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU01122206000000001A     | All Employees: Professional and Business Services in Auburn-Opelika, AL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -153,10 +153,10 @@
 | SMU01122207000000001A     | All Employees: Leisure and Hospitality in Auburn-Opelika, AL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU01122208000000001A     | All Employees: Other Services in Auburn-Opelika, AL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU01122209000000001A     | All Employees: Government in Auburn-Opelika, AL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU01122209091000001      | All Employees: Government: Federal Government in Auburn-Opelika, AL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU01122209091000001      | All Employees: Government: Federal Government in Auburn-Opelika, AL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU01122209091000001A     | All Employees: Federal Government in Auburn-Opelika, AL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU01122209091000001SA    | All Employees: Government: Federal Government in Auburn-Opelika, AL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU01122209094000001      | All Employees: Government: Total State and Local Government in Auburn-Opelika, AL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU01122209091000001SA    | All Employees: Government: Federal Government in Auburn-Opelika, AL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU01122209094000001      | All Employees: Government: Total State and Local Government in Auburn-Opelika, AL (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU01122209094000001A     | All Employees: Total State and Local Government in Auburn-Opelika, AL (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU01122209094000001SA    | All Employees: Government: Total State and Local Government in Auburn-Opelika, AL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU01122209094000001SA    | All Employees: Government: Total State and Local Government in Auburn-Opelika, AL (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA12220              | Market Hotness: Supply Score in Auburn-Opelika, AL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

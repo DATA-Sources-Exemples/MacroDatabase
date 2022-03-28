@@ -56,32 +56,32 @@
 | MELIPRMSA34740            | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2017-08-01          | 2022-01-01        |
 | MELIPRVSUSMSA34740        | Market Hotness: Median Listing Price Versus the United States in Muskegon, MI (CBSA)                        | 2017-08-01          | 2022-01-01        |
 | MELIPRYYMSA34740          | Market Hotness: Median Listing Price in Muskegon, MI (CBSA)                                                 | 2018-08-01          | 2022-01-01        |
-| MNSPOP                    | Resident Population in Muskegon, MI (MSA)                                                                   | 2000-01-01          | 2020-01-01        |
-| MUSK726EDUH               | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| MUSK726EDUHN              | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| MUSK726FIRE               | All Employees: Financial Activities in Muskegon, MI (MSA)                                                   | 1990-01-01          | 2022-01-01        |
-| MUSK726FIREN              | All Employees: Financial Activities in Muskegon, MI (MSA)                                                   | 1990-01-01          | 2022-01-01        |
-| MUSK726GOVT               | All Employees: Government in Muskegon, MI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| MUSK726GOVTN              | All Employees: Government in Muskegon, MI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| MUSK726INFO               | All Employees: Information in Muskegon, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MUSK726INFON              | All Employees: Information in Muskegon, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MUSK726LEIH               | All Employees: Leisure and Hospitality in Muskegon, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| MUSK726LEIHN              | All Employees: Leisure and Hospitality in Muskegon, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| MNSPOP                    | Resident Population in Muskegon, MI (MSA)                                                                   | 2000-01-01          | 2021-01-01        |
+| MUSK726EDUH               | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| MUSK726EDUHN              | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| MUSK726FIRE               | All Employees: Financial Activities in Muskegon, MI (MSA)                                                   | 1990-01-01          | 2022-02-01        |
+| MUSK726FIREN              | All Employees: Financial Activities in Muskegon, MI (MSA)                                                   | 1990-01-01          | 2022-02-01        |
+| MUSK726GOVT               | All Employees: Government in Muskegon, MI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| MUSK726GOVTN              | All Employees: Government in Muskegon, MI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| MUSK726INFO               | All Employees: Information in Muskegon, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MUSK726INFON              | All Employees: Information in Muskegon, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MUSK726LEIH               | All Employees: Leisure and Hospitality in Muskegon, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| MUSK726LEIHN              | All Employees: Leisure and Hospitality in Muskegon, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | MUSK726LF                 | Civilian Labor Force in Muskegon, MI (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
 | MUSK726LFN                | Civilian Labor Force in Muskegon, MI (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
-| MUSK726MFG                | All Employees: Manufacturing in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| MUSK726MFGN               | All Employees: Manufacturing in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| MUSK726NA                 | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| MUSK726NAN                | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| MUSK726NRMN               | All Employees: Mining, Logging, and Construction in Muskegon, MI (MSA)                                      | 1990-01-01          | 2022-01-01        |
-| MUSK726NRMNN              | All Employees: Mining, Logging, and Construction in Muskegon, MI (MSA)                                      | 1990-01-01          | 2022-01-01        |
-| MUSK726PBSV               | All Employees: Professional and Business Services in Muskegon, MI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| MUSK726PBSVN              | All Employees: Professional and Business Services in Muskegon, MI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| MUSK726MFG                | All Employees: Manufacturing in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| MUSK726MFGN               | All Employees: Manufacturing in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| MUSK726NA                 | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| MUSK726NAN                | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| MUSK726NRMN               | All Employees: Mining, Logging, and Construction in Muskegon, MI (MSA)                                      | 1990-01-01          | 2022-02-01        |
+| MUSK726NRMNN              | All Employees: Mining, Logging, and Construction in Muskegon, MI (MSA)                                      | 1990-01-01          | 2022-02-01        |
+| MUSK726PBSV               | All Employees: Professional and Business Services in Muskegon, MI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| MUSK726PBSVN              | All Employees: Professional and Business Services in Muskegon, MI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | MUSK726PCPI               | Per Capita Personal Income in Muskegon, MI (MSA)                                                            | 1969-01-01          | 2020-01-01        |
-| MUSK726SRVO               | All Employees: Other Services in Muskegon, MI (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| MUSK726SRVON              | All Employees: Other Services in Muskegon, MI (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| MUSK726TRAD               | All Employees: Trade, Transportation, and Utilities in Muskegon, MI (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| MUSK726TRADN              | All Employees: Trade, Transportation, and Utilities in Muskegon, MI (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| MUSK726SRVO               | All Employees: Other Services in Muskegon, MI (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| MUSK726SRVON              | All Employees: Other Services in Muskegon, MI (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| MUSK726TRAD               | All Employees: Trade, Transportation, and Utilities in Muskegon, MI (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| MUSK726TRADN              | All Employees: Trade, Transportation, and Utilities in Muskegon, MI (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | MUSK726UR                 | Unemployment Rate in Muskegon, MI (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
 | MUSK726URN                | Unemployment Rate in Muskegon, MI (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
 | NEWLISCOU34740            | Housing Inventory: New Listing Count in Muskegon, MI (CBSA)                                                 | 2016-07-01          | 2022-01-01        |
@@ -107,43 +107,43 @@
 | RPPGOOD34740              | Regional Price Parities: Goods for Muskegon, MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH34740          | Regional Price Parities: Services: Other for Muskegon, MI (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT34740         | Regional Price Parities: Services: Rents for Muskegon, MI (MSA)                                             | 2008-01-01          | 2020-01-01        |
-| SMS26347400000000026      | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-04-01          | 2022-01-01        |
+| SMS26347400000000026      | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-04-01          | 2022-02-01        |
 | SMU26347400000000001A     | All Employees: Total Nonfarm in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU26347400500000001      | All Employees: Total Private in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU26347400500000001      | All Employees: Total Private in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU26347400500000001A     | All Employees: Total Private in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU26347400500000001SA    | All Employees: Total Private in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU26347400500000002      | Average Weekly Hours of All Employees: Total Private in Muskegon, MI (MSA)                                  | 2007-01-01          | 2022-01-01        |
+| SMU26347400500000001SA    | All Employees: Total Private in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU26347400500000002      | Average Weekly Hours of All Employees: Total Private in Muskegon, MI (MSA)                                  | 2007-01-01          | 2022-02-01        |
 | SMU26347400500000002A     | Average Weekly Hours of All Employees: Total Private in Muskegon, MI (MSA)                                  | 2007-01-01          | 2021-01-01        |
-| SMU26347400500000002SA    | Average Weekly Hours of All Employees: Total Private in Muskegon, MI (MSA)                                  | 2007-01-01          | 2022-01-01        |
-| SMU26347400500000003      | Average Hourly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-01-01        |
+| SMU26347400500000002SA    | Average Weekly Hours of All Employees: Total Private in Muskegon, MI (MSA)                                  | 2007-01-01          | 2022-02-01        |
+| SMU26347400500000003      | Average Hourly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-02-01        |
 | SMU26347400500000003A     | Average Hourly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2021-01-01        |
-| SMU26347400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-01-01        |
-| SMU26347400500000011      | Average Weekly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-01-01        |
+| SMU26347400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-02-01        |
+| SMU26347400500000011      | Average Weekly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-02-01        |
 | SMU26347400500000011A     | Average Weekly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2021-01-01        |
-| SMU26347400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-01-01        |
-| SMU26347400600000001      | All Employees: Goods Producing in Muskegon, MI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU26347400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Muskegon, MI (MSA)                               | 2007-01-01          | 2022-02-01        |
+| SMU26347400600000001      | All Employees: Goods Producing in Muskegon, MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU26347400600000001A     | All Employees: Goods Producing in Muskegon, MI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU26347400600000001SA    | All Employees: Goods Producing in Muskegon, MI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU26347400700000001      | All Employees: Service-Providing in Muskegon, MI (MSA)                                                      | 1990-01-01          | 2022-01-01        |
+| SMU26347400600000001SA    | All Employees: Goods Producing in Muskegon, MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU26347400700000001      | All Employees: Service-Providing in Muskegon, MI (MSA)                                                      | 1990-01-01          | 2022-02-01        |
 | SMU26347400700000001A     | All Employees: Service-Providing in Muskegon, MI (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU26347400700000001SA    | All Employees: Service-Providing in Muskegon, MI (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| SMU26347400800000001      | All Employees: Private Service Providing in Muskegon, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU26347400700000001SA    | All Employees: Service-Providing in Muskegon, MI (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| SMU26347400800000001      | All Employees: Private Service Providing in Muskegon, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU26347400800000001A     | All Employees: Private Service Providing in Muskegon, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU26347400800000001SA    | All Employees: Private Service Providing in Muskegon, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU26347400800000001SA    | All Employees: Private Service Providing in Muskegon, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU26347401500000001A     | All Employees: Mining, Logging, and Construction in Muskegon, MI (MSA)                                      | 1990-01-01          | 2021-01-01        |
 | SMU26347403000000001A     | All Employees: Manufacturing in Muskegon, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU26347404000000001A     | All Employees: Trade, Transportation, and Utilities in Muskegon, MI (MSA)                                   | 1990-01-01          | 2021-01-01        |
-| SMU26347404200000001      | All Employees: Retail Trade in Muskegon, MI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU26347404200000001      | All Employees: Retail Trade in Muskegon, MI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU26347404200000001A     | All Employees: Retail Trade in Muskegon, MI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU26347404200000001SA    | All Employees: Retail Trade in Muskegon, MI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU26347404200000001SA    | All Employees: Retail Trade in Muskegon, MI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU26347405000000001A     | All Employees: Information in Muskegon, MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU26347405500000001A     | All Employees: Financial Activities in Muskegon, MI (MSA)                                                   | 1990-01-01          | 2021-01-01        |
 | SMU26347406000000001A     | All Employees: Professional and Business Services in Muskegon, MI (MSA)                                     | 1990-01-01          | 2021-01-01        |
 | SMU26347406500000001A     | All Employees: Education and Health Services in Muskegon, MI (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU26347407000000001A     | All Employees: Leisure and Hospitality in Muskegon, MI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU26347407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Muskegon, MI (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU26347407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Muskegon, MI (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU26347407072000001A     | All Employees: Accommodation and Food Services in Muskegon, MI (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU26347407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Muskegon, MI (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU26347407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Muskegon, MI (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU26347408000000001A     | All Employees: Other Services in Muskegon, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU26347409000000001A     | All Employees: Government in Muskegon, MI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | SUSCMSA34740              | Market Hotness: Supply Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-01-01        |

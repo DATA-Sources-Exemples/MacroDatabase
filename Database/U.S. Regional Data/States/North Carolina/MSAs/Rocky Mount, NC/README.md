@@ -73,26 +73,26 @@
 | PRIREDCOUYY40580          | Housing Inventory: Price Reduced Count Year-Over-Year in Rocky Mount, NC (CBSA)                    | 2017-07-01          | 2022-01-01        |
 | QGMP40580                 | Total Quantity Indexes for Real GDP for Rocky Mount, NC (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP40580                 | Total Real Gross Domestic Product for Rocky Mount, NC (MSA)                                        | 2001-01-01          | 2020-01-01        |
-| RKMPOP                    | Resident Population in Rocky Mount, NC (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| ROCK537EDUH               | All Employees: Education and Health Services in Rocky Mount, NC (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ROCK537EDUHN              | All Employees: Education and Health Services in Rocky Mount, NC (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ROCK537GOVT               | All Employees: Government in Rocky Mount, NC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ROCK537GOVTN              | All Employees: Government in Rocky Mount, NC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ROCK537LEIH               | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| ROCK537LEIHN              | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| RKMPOP                    | Resident Population in Rocky Mount, NC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
+| ROCK537EDUH               | All Employees: Education and Health Services in Rocky Mount, NC (MSA)                              | 1990-01-01          | 2022-02-01        |
+| ROCK537EDUHN              | All Employees: Education and Health Services in Rocky Mount, NC (MSA)                              | 1990-01-01          | 2022-02-01        |
+| ROCK537GOVT               | All Employees: Government in Rocky Mount, NC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ROCK537GOVTN              | All Employees: Government in Rocky Mount, NC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ROCK537LEIH               | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| ROCK537LEIHN              | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | ROCK537LF                 | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | ROCK537LFN                | Civilian Labor Force in Rocky Mount, NC (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| ROCK537MFG                | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ROCK537MFGN               | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ROCK537NA                 | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ROCK537NAN                | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ROCK537NRMN               | All Employees: Mining, Logging, and Construction in Rocky Mount, NC (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ROCK537NRMNN              | All Employees: Mining, Logging, and Construction in Rocky Mount, NC (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ROCK537PBSV               | All Employees: Professional and Business Services in Rocky Mount, NC (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ROCK537PBSVN              | All Employees: Professional and Business Services in Rocky Mount, NC (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ROCK537MFG                | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ROCK537MFGN               | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ROCK537NA                 | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ROCK537NAN                | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ROCK537NRMN               | All Employees: Mining, Logging, and Construction in Rocky Mount, NC (MSA)                          | 1990-01-01          | 2022-02-01        |
+| ROCK537NRMNN              | All Employees: Mining, Logging, and Construction in Rocky Mount, NC (MSA)                          | 1990-01-01          | 2022-02-01        |
+| ROCK537PBSV               | All Employees: Professional and Business Services in Rocky Mount, NC (MSA)                         | 1990-01-01          | 2022-02-01        |
+| ROCK537PBSVN              | All Employees: Professional and Business Services in Rocky Mount, NC (MSA)                         | 1990-01-01          | 2022-02-01        |
 | ROCK537PCPI               | Per Capita Personal Income in Rocky Mount, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| ROCK537TRAD               | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2022-01-01        |
-| ROCK537TRADN              | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2022-01-01        |
+| ROCK537TRAD               | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2022-02-01        |
+| ROCK537TRADN              | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2022-02-01        |
 | ROCK537UR                 | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ROCK537URN                | Unemployment Rate in Rocky Mount, NC (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | RPI40580                  | Real Personal Income for Rocky Mount, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -101,46 +101,46 @@
 | RPPGOOD40580              | Regional Price Parities: Goods for Rocky Mount, NC (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH40580          | Regional Price Parities: Services: Other for Rocky Mount, NC (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT40580         | Regional Price Parities: Services: Rents for Rocky Mount, NC (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS37405800000000026      | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS37405800000000026      | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU37405800000000001A     | All Employees: Total Nonfarm in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU37405800500000001      | All Employees: Total Private in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU37405800500000001      | All Employees: Total Private in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU37405800500000001A     | All Employees: Total Private in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU37405800500000001SA    | All Employees: Total Private in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU37405800500000002      | Average Weekly Hours of All Employees: Total Private in Rocky Mount, NC (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU37405800500000001SA    | All Employees: Total Private in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU37405800500000002      | Average Weekly Hours of All Employees: Total Private in Rocky Mount, NC (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU37405800500000002A     | Average Weekly Hours of All Employees: Total Private in Rocky Mount, NC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU37405800500000002SA    | Average Weekly Hours of All Employees: Total Private in Rocky Mount, NC (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU37405800500000003      | Average Hourly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU37405800500000002SA    | Average Weekly Hours of All Employees: Total Private in Rocky Mount, NC (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU37405800500000003      | Average Hourly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU37405800500000003A     | Average Hourly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37405800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU37405800500000011      | Average Weekly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU37405800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU37405800500000011      | Average Weekly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU37405800500000011A     | Average Weekly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37405800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU37405800600000001      | All Employees: Goods Producing in Rocky Mount, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU37405800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rocky Mount, NC (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU37405800600000001      | All Employees: Goods Producing in Rocky Mount, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU37405800600000001A     | All Employees: Goods Producing in Rocky Mount, NC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU37405800600000001SA    | All Employees: Goods Producing in Rocky Mount, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU37405800700000001      | All Employees: Service-Providing in Rocky Mount, NC (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU37405800600000001SA    | All Employees: Goods Producing in Rocky Mount, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU37405800700000001      | All Employees: Service-Providing in Rocky Mount, NC (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU37405800700000001A     | All Employees: Service-Providing in Rocky Mount, NC (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU37405800700000001SA    | All Employees: Service-Providing in Rocky Mount, NC (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU37405800800000001      | All Employees: Private Service Providing in Rocky Mount, NC (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU37405800700000001SA    | All Employees: Service-Providing in Rocky Mount, NC (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU37405800800000001      | All Employees: Private Service Providing in Rocky Mount, NC (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU37405800800000001A     | All Employees: Private Service Providing in Rocky Mount, NC (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU37405800800000001SA    | All Employees: Private Service Providing in Rocky Mount, NC (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU37405800800000001SA    | All Employees: Private Service Providing in Rocky Mount, NC (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU37405801500000001A     | All Employees: Mining, Logging, and Construction in Rocky Mount, NC (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU37405803000000001A     | All Employees: Manufacturing in Rocky Mount, NC (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU37405804000000001A     | All Employees: Trade, Transportation, and Utilities in Rocky Mount, NC (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU37405804200000001      | All Employees: Retail Trade in Rocky Mount, NC (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU37405804200000001      | All Employees: Retail Trade in Rocky Mount, NC (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU37405804200000001A     | All Employees: Retail Trade in Rocky Mount, NC (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU37405804200000001SA    | All Employees: Retail Trade in Rocky Mount, NC (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU37405804200000001SA    | All Employees: Retail Trade in Rocky Mount, NC (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU37405806000000001A     | All Employees: Professional and Business Services in Rocky Mount, NC (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU37405806500000001A     | All Employees: Education and Health Services in Rocky Mount, NC (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU37405807000000001A     | All Employees: Leisure and Hospitality in Rocky Mount, NC (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU37405809000000001A     | All Employees: Government in Rocky Mount, NC (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU37405809091000001      | All Employees: Government: Federal Government in Rocky Mount, NC (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU37405809091000001      | All Employees: Government: Federal Government in Rocky Mount, NC (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU37405809091000001A     | All Employees: Federal Government in Rocky Mount, NC (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU37405809091000001SA    | All Employees: Government: Federal Government in Rocky Mount, NC (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU37405809092000001      | All Employees: Government: State Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU37405809091000001SA    | All Employees: Government: Federal Government in Rocky Mount, NC (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU37405809092000001      | All Employees: Government: State Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU37405809092000001A     | All Employees: State Government in Rocky Mount, NC (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU37405809092000001SA    | All Employees: Government: State Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU37405809093000001      | All Employees: Government: Local Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU37405809092000001SA    | All Employees: Government: State Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU37405809093000001      | All Employees: Government: Local Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU37405809093000001A     | All Employees: Local Government in Rocky Mount, NC (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU37405809093000001SA    | All Employees: Government: Local Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU37405809093000001SA    | All Employees: Government: Local Government in Rocky Mount, NC (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA40580              | Market Hotness: Supply Score in Rocky Mount, NC (CBSA)                                             | 2017-08-01          | 2022-01-01        |

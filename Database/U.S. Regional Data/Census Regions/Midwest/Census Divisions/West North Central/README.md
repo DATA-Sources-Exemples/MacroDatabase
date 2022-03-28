@@ -2,10 +2,10 @@
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CIU2010000000234I     | Employment Cost Index: Total compensation for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2021-10-01        |
 | CIU2020000000234I     | Employment Cost Index: Wages and salaries for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2021-10-01        |
-| CWNCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-01-01        |
-| CWNCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-01-01        |
-| CWNCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-01-01        |
-| CWNCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-01-01        |
+| CWNCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CWNCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CWNCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-02-01        |
+| CWNCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-02-01        |
 | CWNCLF                | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-01-01        |
 | CWNCLFN               | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-01-01        |
 | CWNCPOP               | Resident Population in the West North Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |

@@ -49,35 +49,35 @@
 | CTATGA475SCEN    | Number of Identified Exporters to Antigua and Barbuda from Connecticut                                                              | 1992-01-01          | 2017-01-01        |
 | DCATGA052SCEN    | Value of Exports to Antigua and Barbuda from District of Columbia                                                                   | 1992-01-01          | 2010-01-01        |
 | DCATGA475SCEN    | Number of Identified Exporters to Antigua and Barbuda from District of Columbia                                                     | 1992-01-01          | 2016-01-01        |
-| DDAI02AGA643NWDB | Number of Bank Branches for Antigua and Barbuda                                                                                     | 2009-01-01          | 2017-01-01        |
-| DDDI01AGA156NWDB | Private Credit by Deposit Money Banks to GDP for Antigua and Barbuda                                                                | 1975-01-01          | 2017-01-01        |
-| DDDI02AGA156NWDB | Deposit Money Bank Assets to GDP for Antigua and Barbuda                                                                            | 1975-01-01          | 2017-01-01        |
-| DDDI04AGA156NWDB | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Antigua and Barbuda                              | 1975-01-01          | 2017-01-01        |
-| DDDI05AGA156NWDB | Liquid Liabilities to GDP for Antigua and Barbuda                                                                                   | 1975-01-01          | 2017-01-01        |
-| DDDI06AGA156NWDB | Central Bank Assets to GDP for Antigua and Barbuda                                                                                  | 1975-01-01          | 2017-01-01        |
-| DDDI08AGA156NWDB | Financial System Deposits to GDP for Antigua and Barbuda                                                                            | 1975-01-01          | 2017-01-01        |
-| DDDI09AGA156NWDB | Life Insurance Premium Volume to GDP for Antigua and Barbuda                                                                        | 1999-01-01          | 2016-01-01        |
-| DDDI10AGA156NWDB | Non-Life Insurance Premium Volume to GDP for Antigua and Barbuda                                                                    | 2000-01-01          | 2016-01-01        |
-| DDDI12AGA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Antigua and Barbuda                               | 1975-01-01          | 2017-01-01        |
+| DDAI02AGA643NWDB | Number of Bank Branches for Antigua and Barbuda                                                                                     | 2009-01-01          | 2019-01-01        |
+| DDDI01AGA156NWDB | Private Credit by Deposit Money Banks to GDP for Antigua and Barbuda                                                                | 1975-01-01          | 2020-01-01        |
+| DDDI02AGA156NWDB | Deposit Money Bank Assets to GDP for Antigua and Barbuda                                                                            | 1975-01-01          | 2020-01-01        |
+| DDDI04AGA156NWDB | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Antigua and Barbuda                              | 1975-01-01          | 2020-01-01        |
+| DDDI05AGA156NWDB | Liquid Liabilities to GDP for Antigua and Barbuda                                                                                   | 1975-01-01          | 2020-01-01        |
+| DDDI06AGA156NWDB | Central Bank Assets to GDP for Antigua and Barbuda                                                                                  | 1975-01-01          | 2020-01-01        |
+| DDDI08AGA156NWDB | Financial System Deposits to GDP for Antigua and Barbuda                                                                            | 1975-01-01          | 2020-01-01        |
+| DDDI09AGA156NWDB | Life Insurance Premium Volume to GDP for Antigua and Barbuda                                                                        | 1999-01-01          | 2018-01-01        |
+| DDDI10AGA156NWDB | Non-Life Insurance Premium Volume to GDP for Antigua and Barbuda                                                                    | 2000-01-01          | 2018-01-01        |
+| DDDI12AGA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Antigua and Barbuda                               | 1975-01-01          | 2020-01-01        |
 | DDEI01AGA156NWDB | Bank's Net Interest Margin for Antigua and Barbuda                                                                                  | 1996-01-01          | 2017-01-01        |
-| DDEI02AGA156NWDB | Bank Lending Deposit Spread for Antigua and Barbuda                                                                                 | 1980-01-01          | 2017-01-01        |
+| DDEI02AGA156NWDB | Bank Lending Deposit Spread for Antigua and Barbuda                                                                                 | 1980-01-01          | 2019-01-01        |
 | DDEI03AGA156NWDB | Bank's Non-Interest Income to Total Income for Antigua and Barbuda                                                                  | 1996-01-01          | 2017-01-01        |
 | DDEI04AGA156NWDB | Bank's Overhead Costs to Total Assets for Antigua and Barbuda                                                                       | 1996-01-01          | 2017-01-01        |
 | DDEI05AGA156NWDB | Bank's Return on Assets for Antigua and Barbuda                                                                                     | 1996-01-01          | 2017-01-01        |
 | DDEI06AGA156NWDB | Bank's Return on Equity for Antigua and Barbuda                                                                                     | 1996-01-01          | 2017-01-01        |
 | DDEI07AGA156NWDB | Bank's Cost to Income Ratio for Antigua and Barbuda                                                                                 | 1996-01-01          | 2017-01-01        |
-| DDEI08AGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Antigua and Barbuda                                                     | 1980-01-01          | 2017-01-01        |
+| DDEI08AGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Antigua and Barbuda                                                     | 1980-01-01          | 2019-01-01        |
 | DDOE01AGA086NWDB | Consumer Price Index for Antigua and Barbuda                                                                                        | 1997-01-01          | 2017-01-01        |
 | DDOE02AGA086NWDB | Consumer Price Index for Antigua and Barbuda                                                                                        | 1997-01-01          | 2017-01-01        |
 | DDOI01AGA156NWDB | Bank Concentration for Antigua and Barbuda                                                                                          | 1996-01-01          | 2007-01-01        |
-| DDOI02AGA156NWDB | Bank Deposits to GDP for Antigua and Barbuda                                                                                        | 1975-01-01          | 2017-01-01        |
+| DDOI02AGA156NWDB | Bank Deposits to GDP for Antigua and Barbuda                                                                                        | 1975-01-01          | 2020-01-01        |
 | DDOI05AGA156NWDB | Boone Indicator in Banking Market for Antigua and Barbuda                                                                           | 1999-01-01          | 2014-01-01        |
 | DDOI06AGA156NWDB | 5-Bank Asset Concentration for Antigua and Barbuda                                                                                  | 1999-01-01          | 2005-01-01        |
-| DDOI07AGA648NWDB | Liquid Liabilities (Broad Money) for Antigua and Barbuda                                                                            | 1975-01-01          | 2017-01-01        |
-| DDOI11AGA156NWDB | Remittance Inflows to GDP for Antigua and Barbuda                                                                                   | 1986-01-01          | 2017-01-01        |
+| DDOI07AGA648NWDB | Liquid Liabilities (Broad Money) for Antigua and Barbuda                                                                            | 1975-01-01          | 2020-01-01        |
+| DDOI11AGA156NWDB | Remittance Inflows to GDP for Antigua and Barbuda                                                                                   | 1986-01-01          | 2020-01-01        |
 | DDOI13AGA156NWDB | Percentage of Foreign Banks Among Total Banks for Antigua and Barbuda                                                               | 1995-01-01          | 2013-01-01        |
 | DDSI01AGA645NWDB | Bank Z-Score for Antigua and Barbuda                                                                                                | 1996-01-01          | 2017-01-01        |
-| DDSI04AGA156NWDB | Bank Credit to Bank Deposits for Antigua and Barbuda                                                                                | 1975-01-01          | 2017-01-01        |
+| DDSI04AGA156NWDB | Bank Credit to Bank Deposits for Antigua and Barbuda                                                                                | 1975-01-01          | 2019-01-01        |
 | DDSI06AGA156NWDB | Liquid Assets to Deposits and Short Term Funding for Antigua and Barbuda                                                            | 1996-01-01          | 2017-01-01        |
 | DEATGA475SCEN    | Number of Identified Exporters to Antigua and Barbuda from Delaware                                                                 | 1992-01-01          | 2016-01-01        |
 | EXP2484          | U.S. Exports of Goods by F.A.S. Basis to Antigua and Barbuda                                                                        | 1992-01-01          | 2022-01-01        |

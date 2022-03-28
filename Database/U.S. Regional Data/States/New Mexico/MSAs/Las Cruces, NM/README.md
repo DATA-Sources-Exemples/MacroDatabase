@@ -25,35 +25,35 @@
 | HORAYYMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA29740              | Market Hotness: Hotness Score in Las Cruces, NM (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
 | IRPD29740                 | Implicit Regional Price Deflator for Las Cruces, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-01-01        |
-| LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-01-01        |
-| LASC735BPPRIV             | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-01-01        |
-| LASC735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-01-01        |
-| LASC735EDUH               | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LASC735EDUHN              | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LASC735FIRE               | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LASC735FIREN              | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LASC735GOVT               | All Employees: Government in Las Cruces, NM (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LASC735GOVTN              | All Employees: Government in Las Cruces, NM (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LASC735INFO               | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LASC735INFON              | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LASC735LEIH               | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| LASC735LEIHN              | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-02-01        |
+| LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-02-01        |
+| LASC735BPPRIV             | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-02-01        |
+| LASC735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-02-01        |
+| LASC735EDUH               | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LASC735EDUHN              | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LASC735FIRE               | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LASC735FIREN              | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LASC735GOVT               | All Employees: Government in Las Cruces, NM (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LASC735GOVTN              | All Employees: Government in Las Cruces, NM (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LASC735INFO               | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LASC735INFON              | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LASC735LEIH               | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| LASC735LEIHN              | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | LASC735LF                 | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | LASC735LFN                | Civilian Labor Force in Las Cruces, NM (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| LASC735MFG                | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LASC735MFGN               | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LASC735NA                 | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LASC735NAN                | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1974-01-01          | 2022-01-01        |
-| LASC735NRMN               | All Employees: Mining, Logging, and Construction in Las Cruces, NM (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LASC735NRMNN              | All Employees: Mining, Logging, and Construction in Las Cruces, NM (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LASC735PBSV               | All Employees: Professional and Business Services in Las Cruces, NM (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| LASC735PBSVN              | All Employees: Professional and Business Services in Las Cruces, NM (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| LASC735MFG                | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LASC735MFGN               | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LASC735NA                 | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LASC735NAN                | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1974-01-01          | 2022-02-01        |
+| LASC735NRMN               | All Employees: Mining, Logging, and Construction in Las Cruces, NM (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LASC735NRMNN              | All Employees: Mining, Logging, and Construction in Las Cruces, NM (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LASC735PBSV               | All Employees: Professional and Business Services in Las Cruces, NM (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| LASC735PBSVN              | All Employees: Professional and Business Services in Las Cruces, NM (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | LASC735PCPI               | Per Capita Personal Income in Las Cruces, NM (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| LASC735SRVO               | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LASC735SRVON              | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LASC735TRAD               | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| LASC735TRADN              | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| LASC735SRVO               | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LASC735SRVON              | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LASC735TRAD               | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| LASC735TRADN              | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | LASC735UR                 | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LASC735URN                | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LAUMT352974000000003A     | Unemployment Rate in Las Cruces, NM (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
@@ -111,41 +111,41 @@
 | RPPGOOD29740              | Regional Price Parities: Goods for Las Cruces, NM (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH29740          | Regional Price Parities: Services: Other for Las Cruces, NM (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT29740         | Regional Price Parities: Services: Rents for Las Cruces, NM (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS35297400000000026      | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS35297400000000026      | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU35297400000000001A     | All Employees: Total Nonfarm in Las Cruces, NM (MSA)                                                            | 1974-01-01          | 2021-01-01        |
-| SMU35297400500000001      | All Employees: Total Private in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU35297400500000001      | All Employees: Total Private in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU35297400500000001A     | All Employees: Total Private in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU35297400500000001SA    | All Employees: Total Private in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU35297400500000002      | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU35297400500000001SA    | All Employees: Total Private in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU35297400500000002      | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU35297400500000002A     | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU35297400500000002SA    | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU35297400500000003      | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU35297400500000002SA    | Average Weekly Hours of All Employees: Total Private in Las Cruces, NM (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU35297400500000003      | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU35297400500000003A     | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU35297400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU35297400500000011      | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU35297400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU35297400500000011      | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU35297400500000011A     | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU35297400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU35297400600000001      | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU35297400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Las Cruces, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU35297400600000001      | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU35297400600000001A     | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU35297400600000001SA    | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU35297400700000001      | All Employees: Service-Providing in Las Cruces, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU35297400600000001SA    | All Employees: Goods Producing in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU35297400700000001      | All Employees: Service-Providing in Las Cruces, NM (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU35297400700000001A     | All Employees: Service-Providing in Las Cruces, NM (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU35297400700000001SA    | All Employees: Service-Providing in Las Cruces, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU35297400800000001      | All Employees: Private Service Providing in Las Cruces, NM (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU35297400700000001SA    | All Employees: Service-Providing in Las Cruces, NM (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU35297400800000001      | All Employees: Private Service Providing in Las Cruces, NM (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU35297400800000001A     | All Employees: Private Service Providing in Las Cruces, NM (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU35297400800000001SA    | All Employees: Private Service Providing in Las Cruces, NM (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU35297400800000001SA    | All Employees: Private Service Providing in Las Cruces, NM (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU35297401500000001A     | All Employees: Mining, Logging, and Construction in Las Cruces, NM (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU35297403000000001A     | All Employees: Manufacturing in Las Cruces, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU35297404000000001A     | All Employees: Trade, Transportation, and Utilities in Las Cruces, NM (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU35297404100000001      | All Employees: Wholesale Trade in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU35297404100000001      | All Employees: Wholesale Trade in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU35297404100000001A     | All Employees: Wholesale Trade in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU35297404100000001SA    | All Employees: Wholesale Trade in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU35297404200000001      | All Employees: Retail Trade in Las Cruces, NM (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU35297404100000001SA    | All Employees: Wholesale Trade in Las Cruces, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU35297404200000001      | All Employees: Retail Trade in Las Cruces, NM (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU35297404200000001A     | All Employees: Retail Trade in Las Cruces, NM (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU35297404200000001SA    | All Employees: Retail Trade in Las Cruces, NM (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU35297404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Las Cruces, NM (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU35297404200000001SA    | All Employees: Retail Trade in Las Cruces, NM (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU35297404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Las Cruces, NM (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU35297404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Las Cruces, NM (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU35297404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Las Cruces, NM (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU35297404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Las Cruces, NM (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU35297405000000001A     | All Employees: Information in Las Cruces, NM (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU35297405500000001A     | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU35297406000000001A     | All Employees: Professional and Business Services in Las Cruces, NM (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -153,13 +153,13 @@
 | SMU35297407000000001A     | All Employees: Leisure and Hospitality in Las Cruces, NM (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU35297408000000001A     | All Employees: Other Services in Las Cruces, NM (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU35297409000000001A     | All Employees: Government in Las Cruces, NM (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU35297409091000001      | All Employees: Government: Federal Government in Las Cruces, NM (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU35297409091000001      | All Employees: Government: Federal Government in Las Cruces, NM (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU35297409091000001A     | All Employees: Federal Government in Las Cruces, NM (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU35297409091000001SA    | All Employees: Government: Federal Government in Las Cruces, NM (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU35297409092000001      | All Employees: Government: State Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU35297409091000001SA    | All Employees: Government: Federal Government in Las Cruces, NM (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU35297409092000001      | All Employees: Government: State Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU35297409092000001A     | All Employees: State Government in Las Cruces, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU35297409092000001SA    | All Employees: Government: State Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU35297409093000001      | All Employees: Government: Local Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU35297409092000001SA    | All Employees: Government: State Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU35297409093000001      | All Employees: Government: Local Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU35297409093000001A     | All Employees: Local Government in Las Cruces, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU35297409093000001SA    | All Employees: Government: Local Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU35297409093000001SA    | All Employees: Government: Local Government in Las Cruces, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA29740              | Market Hotness: Supply Score in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

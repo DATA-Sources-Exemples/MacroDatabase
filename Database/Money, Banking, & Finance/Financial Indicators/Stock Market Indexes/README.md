@@ -1,12 +1,12 @@
 | id              | title                                                                          | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------|---------------------|-------------------|
-| DJCA            | Dow Jones Composite Average                                                    | 2012-03-23          | 2022-03-22        |
-| DJIA            | Dow Jones Industrial Average                                                   | 2012-03-23          | 2022-03-22        |
-| DJTA            | Dow Jones Transportation Average                                               | 2012-03-23          | 2022-03-22        |
-| DJUA            | Dow Jones Utility Average                                                      | 2012-03-23          | 2022-03-22        |
-| NASDAQ100       | NASDAQ 100 Index                                                               | 1986-01-02          | 2022-03-22        |
-| NASDAQCOM       | NASDAQ Composite Index                                                         | 1971-02-05          | 2022-03-22        |
-| SP500           | S&P 500                                                                        | 2012-03-23          | 2022-03-22        |
+| DJCA            | Dow Jones Composite Average                                                    | 2012-03-26          | 2022-03-25        |
+| DJIA            | Dow Jones Industrial Average                                                   | 2012-03-26          | 2022-03-25        |
+| DJTA            | Dow Jones Transportation Average                                               | 2012-03-26          | 2022-03-25        |
+| DJUA            | Dow Jones Utility Average                                                      | 2012-03-26          | 2022-03-25        |
+| NASDAQ100       | NASDAQ 100 Index                                                               | 1986-01-02          | 2022-03-24        |
+| NASDAQCOM       | NASDAQ Composite Index                                                         | 1971-02-05          | 2022-03-24        |
+| SP500           | S&P 500                                                                        | 2012-03-26          | 2022-03-25        |
 | WILL2500IND     | Wilshire 2500 Total Market Index                                               | 1991-12-31          | 2022-03-02        |
 | WILL2500INDGR   | Wilshire 2500 Growth Total Market Index                                        | 1991-12-31          | 2022-03-02        |
 | WILL2500INDVAL  | Wilshire 2500 Value Total Market Index                                         | 1991-12-31          | 2022-03-02        |

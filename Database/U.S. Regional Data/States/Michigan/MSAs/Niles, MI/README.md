@@ -62,31 +62,31 @@
 | NEWLISCOUYY35660          | Housing Inventory: New Listing Count Year-Over-Year in Niles-Benton Harbor, MI (CBSA)                      | 2017-07-01          | 2022-01-01        |
 | NGMP35660                 | Total Gross Domestic Product for Niles-Benton Harbor, MI (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA35660            | Market Hotness: Nielsen Household Rank in Niles-Benton Harbor, MI (CBSA)                                   | 2017-08-01          | 2022-01-01        |
-| NILE626EDUH               | All Employees: Education and Health Services in Niles-Benton Harbor, MI (MSA)                              | 1990-01-01          | 2022-01-01        |
-| NILE626EDUHN              | All Employees: Education and Health Services in Niles-Benton Harbor, MI (MSA)                              | 1990-01-01          | 2022-01-01        |
-| NILE626FIRE               | All Employees: Financial Activities in Niles-Benton Harbor, MI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| NILE626FIREN              | All Employees: Financial Activities in Niles-Benton Harbor, MI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| NILE626GOVT               | All Employees: Government in Niles-Benton Harbor, MI (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| NILE626GOVTN              | All Employees: Government in Niles-Benton Harbor, MI (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| NILE626INFO               | All Employees: Information in Niles-Benton Harbor, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| NILE626INFON              | All Employees: Information in Niles-Benton Harbor, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| NILE626LEIH               | All Employees: Leisure and Hospitality in Niles-Benton Harbor, MI (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| NILE626LEIHN              | All Employees: Leisure and Hospitality in Niles-Benton Harbor, MI (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| NILE626EDUH               | All Employees: Education and Health Services in Niles-Benton Harbor, MI (MSA)                              | 1990-01-01          | 2022-02-01        |
+| NILE626EDUHN              | All Employees: Education and Health Services in Niles-Benton Harbor, MI (MSA)                              | 1990-01-01          | 2022-02-01        |
+| NILE626FIRE               | All Employees: Financial Activities in Niles-Benton Harbor, MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| NILE626FIREN              | All Employees: Financial Activities in Niles-Benton Harbor, MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| NILE626GOVT               | All Employees: Government in Niles-Benton Harbor, MI (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| NILE626GOVTN              | All Employees: Government in Niles-Benton Harbor, MI (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| NILE626INFO               | All Employees: Information in Niles-Benton Harbor, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| NILE626INFON              | All Employees: Information in Niles-Benton Harbor, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| NILE626LEIH               | All Employees: Leisure and Hospitality in Niles-Benton Harbor, MI (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| NILE626LEIHN              | All Employees: Leisure and Hospitality in Niles-Benton Harbor, MI (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | NILE626LF                 | Civilian Labor Force in Niles-Benton Harbor, MI (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | NILE626LFN                | Civilian Labor Force in Niles-Benton Harbor, MI (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| NILE626MFG                | All Employees: Manufacturing in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| NILE626MFGN               | All Employees: Manufacturing in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| NILE626NA                 | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| NILE626NAN                | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1958-01-01          | 2022-01-01        |
-| NILE626NRMN               | All Employees: Mining, Logging, and Construction in Niles-Benton Harbor, MI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| NILE626NRMNN              | All Employees: Mining, Logging, and Construction in Niles-Benton Harbor, MI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| NILE626PBSV               | All Employees: Professional and Business Services in Niles-Benton Harbor, MI (MSA)                         | 1990-01-01          | 2022-01-01        |
-| NILE626PBSVN              | All Employees: Professional and Business Services in Niles-Benton Harbor, MI (MSA)                         | 1990-01-01          | 2022-01-01        |
+| NILE626MFG                | All Employees: Manufacturing in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| NILE626MFGN               | All Employees: Manufacturing in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| NILE626NA                 | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| NILE626NAN                | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1958-01-01          | 2022-02-01        |
+| NILE626NRMN               | All Employees: Mining, Logging, and Construction in Niles-Benton Harbor, MI (MSA)                          | 1990-01-01          | 2022-02-01        |
+| NILE626NRMNN              | All Employees: Mining, Logging, and Construction in Niles-Benton Harbor, MI (MSA)                          | 1990-01-01          | 2022-02-01        |
+| NILE626PBSV               | All Employees: Professional and Business Services in Niles-Benton Harbor, MI (MSA)                         | 1990-01-01          | 2022-02-01        |
+| NILE626PBSVN              | All Employees: Professional and Business Services in Niles-Benton Harbor, MI (MSA)                         | 1990-01-01          | 2022-02-01        |
 | NILE626PCPI               | Per Capita Personal Income in Niles-Benton Harbor, MI (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| NILE626SRVO               | All Employees: Other Services in Niles-Benton Harbor, MI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| NILE626SRVON              | All Employees: Other Services in Niles-Benton Harbor, MI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| NILE626TRAD               | All Employees: Trade, Transportation, and Utilities in Niles-Benton Harbor, MI (MSA)                       | 1990-01-01          | 2022-01-01        |
-| NILE626TRADN              | All Employees: Trade, Transportation, and Utilities in Niles-Benton Harbor, MI (MSA)                       | 1990-01-01          | 2022-01-01        |
+| NILE626SRVO               | All Employees: Other Services in Niles-Benton Harbor, MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| NILE626SRVON              | All Employees: Other Services in Niles-Benton Harbor, MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| NILE626TRAD               | All Employees: Trade, Transportation, and Utilities in Niles-Benton Harbor, MI (MSA)                       | 1990-01-01          | 2022-02-01        |
+| NILE626TRADN              | All Employees: Trade, Transportation, and Utilities in Niles-Benton Harbor, MI (MSA)                       | 1990-01-01          | 2022-02-01        |
 | NILE626UR                 | Unemployment Rate in Niles-Benton Harbor, MI (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | NILE626URN                | Unemployment Rate in Niles-Benton Harbor, MI (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | PATENTCBSA135660          | U.S. Granted Utility Patents Originating in Niles-Benton Harbor, MI (MSA)                                  | 2000-01-01          | 2015-01-01        |
@@ -107,35 +107,35 @@
 | RPPGOOD35660              | Regional Price Parities: Goods for Niles-Benton Harbor, MI (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH35660          | Regional Price Parities: Services: Other for Niles-Benton Harbor, MI (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT35660         | Regional Price Parities: Services: Rents for Niles-Benton Harbor, MI (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS26356600000000026      | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS26356600000000026      | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU26356600000000001A     | All Employees: Total Nonfarm in Niles-Benton Harbor, MI (MSA)                                              | 1958-01-01          | 2021-01-01        |
-| SMU26356600500000001      | All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU26356600500000001      | All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU26356600500000001A     | All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU26356600500000001SA    | All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU26356600500000002      | Average Weekly Hours of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU26356600500000001SA    | All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU26356600500000002      | Average Weekly Hours of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU26356600500000002A     | Average Weekly Hours of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU26356600500000002SA    | Average Weekly Hours of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU26356600500000003      | Average Hourly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU26356600500000002SA    | Average Weekly Hours of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU26356600500000003      | Average Hourly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU26356600500000003A     | Average Hourly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26356600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU26356600500000011      | Average Weekly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU26356600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU26356600500000011      | Average Weekly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU26356600500000011A     | Average Weekly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26356600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU26356600600000001      | All Employees: Goods Producing in Niles-Benton Harbor, MI (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU26356600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Niles-Benton Harbor, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU26356600600000001      | All Employees: Goods Producing in Niles-Benton Harbor, MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU26356600600000001A     | All Employees: Goods Producing in Niles-Benton Harbor, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU26356600600000001SA    | All Employees: Goods Producing in Niles-Benton Harbor, MI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU26356600700000001      | All Employees: Service-Providing in Niles-Benton Harbor, MI (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU26356600600000001SA    | All Employees: Goods Producing in Niles-Benton Harbor, MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU26356600700000001      | All Employees: Service-Providing in Niles-Benton Harbor, MI (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU26356600700000001A     | All Employees: Service-Providing in Niles-Benton Harbor, MI (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU26356600700000001SA    | All Employees: Service-Providing in Niles-Benton Harbor, MI (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU26356600800000001      | All Employees: Private Service Providing in Niles-Benton Harbor, MI (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU26356600700000001SA    | All Employees: Service-Providing in Niles-Benton Harbor, MI (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU26356600800000001      | All Employees: Private Service Providing in Niles-Benton Harbor, MI (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU26356600800000001A     | All Employees: Private Service Providing in Niles-Benton Harbor, MI (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU26356600800000001SA    | All Employees: Private Service Providing in Niles-Benton Harbor, MI (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU26356600800000001SA    | All Employees: Private Service Providing in Niles-Benton Harbor, MI (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU26356601500000001A     | All Employees: Mining, Logging, and Construction in Niles-Benton Harbor, MI (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU26356603000000001A     | All Employees: Manufacturing in Niles-Benton Harbor, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU26356604000000001A     | All Employees: Trade, Transportation, and Utilities in Niles-Benton Harbor, MI (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU26356604200000001      | All Employees: Retail Trade in Niles-Benton Harbor, MI (MSA)                                               | 2001-01-01          | 2022-01-01        |
+| SMU26356604200000001      | All Employees: Retail Trade in Niles-Benton Harbor, MI (MSA)                                               | 2001-01-01          | 2022-02-01        |
 | SMU26356604200000001A     | All Employees: Retail Trade in Niles-Benton Harbor, MI (MSA)                                               | 2001-01-01          | 2021-01-01        |
-| SMU26356604200000001SA    | All Employees: Retail Trade in Niles-Benton Harbor, MI (MSA)                                               | 2001-01-01          | 2022-01-01        |
+| SMU26356604200000001SA    | All Employees: Retail Trade in Niles-Benton Harbor, MI (MSA)                                               | 2001-01-01          | 2022-02-01        |
 | SMU26356605000000001A     | All Employees: Information in Niles-Benton Harbor, MI (MSA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU26356605500000001A     | All Employees: Financial Activities in Niles-Benton Harbor, MI (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU26356606000000001A     | All Employees: Professional and Business Services in Niles-Benton Harbor, MI (MSA)                         | 1990-01-01          | 2021-01-01        |

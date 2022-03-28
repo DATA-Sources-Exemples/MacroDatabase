@@ -8,31 +8,31 @@
 | AVELISPRIMM14020          | Housing Inventory: Average Listing Price Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY14020          | Housing Inventory: Average Listing Price Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | BLMPOP                    | Resident Population in Bloomington, IN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| BLOO018EDUH               | All Employees: Education and Health Services in Bloomington, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BLOO018EDUHN              | All Employees: Education and Health Services in Bloomington, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BLOO018FIRE               | All Employees: Financial Activities in Bloomington, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BLOO018FIREN              | All Employees: Financial Activities in Bloomington, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BLOO018GOVT               | All Employees: Government in Bloomington, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BLOO018GOVTN              | All Employees: Government in Bloomington, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BLOO018INFO               | All Employees: Information in Bloomington, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BLOO018INFON              | All Employees: Information in Bloomington, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BLOO018LEIH               | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| BLOO018LEIHN              | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| BLOO018EDUH               | All Employees: Education and Health Services in Bloomington, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BLOO018EDUHN              | All Employees: Education and Health Services in Bloomington, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BLOO018FIRE               | All Employees: Financial Activities in Bloomington, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BLOO018FIREN              | All Employees: Financial Activities in Bloomington, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BLOO018GOVT               | All Employees: Government in Bloomington, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BLOO018GOVTN              | All Employees: Government in Bloomington, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BLOO018INFO               | All Employees: Information in Bloomington, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BLOO018INFON              | All Employees: Information in Bloomington, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BLOO018LEIH               | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| BLOO018LEIHN              | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | BLOO018LF                 | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | BLOO018LFN                | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| BLOO018MFG                | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BLOO018MFGN               | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BLOO018NA                 | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BLOO018NAN                | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BLOO018NRMN               | All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BLOO018NRMNN              | All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BLOO018PBSV               | All Employees: Professional and Business Services in Bloomington, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BLOO018PBSVN              | All Employees: Professional and Business Services in Bloomington, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| BLOO018MFG                | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BLOO018MFGN               | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BLOO018NA                 | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BLOO018NAN                | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BLOO018NRMN               | All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BLOO018NRMNN              | All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BLOO018PBSV               | All Employees: Professional and Business Services in Bloomington, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BLOO018PBSVN              | All Employees: Professional and Business Services in Bloomington, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | BLOO018PCPI               | Per Capita Personal Income in Bloomington, IN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| BLOO018SRVO               | All Employees: Other Services in Bloomington, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BLOO018SRVON              | All Employees: Other Services in Bloomington, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BLOO018TRAD               | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| BLOO018TRADN              | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| BLOO018SRVO               | All Employees: Other Services in Bloomington, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BLOO018SRVON              | All Employees: Other Services in Bloomington, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BLOO018TRAD               | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| BLOO018TRADN              | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | BLOO018UR                 | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BLOO018URN                | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DESCMSA14020              | Market Hotness: Demand Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
@@ -111,44 +111,44 @@
 | RPPSERVERENT14010         | Regional Price Parities: Services: Rents for Bloomington, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT14020         | Regional Price Parities: Services: Rents for Bloomington, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SMS18140200000000001      | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS18140200000000026      | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS18140200000000026      | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU18140200000000001A     | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18140200500000001      | All Employees: Total Private in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18140200500000001      | All Employees: Total Private in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18140200500000001A     | All Employees: Total Private in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18140200500000001SA    | All Employees: Total Private in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18140200500000002      | Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU18140200500000001SA    | All Employees: Total Private in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18140200500000002      | Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU18140200500000002A     | Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18140200500000002SA    | Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU18140200500000003      | Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18140200500000002SA    | Average Weekly Hours of All Employees: Total Private in Bloomington, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18140200500000003      | Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18140200500000003A     | Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18140200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18140200500000011      | Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18140200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18140200500000011      | Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18140200500000011A     | Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18140200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18140200600000001      | All Employees: Goods Producing in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18140200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bloomington, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18140200600000001      | All Employees: Goods Producing in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18140200600000001A     | All Employees: Goods Producing in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18140200600000001SA    | All Employees: Goods Producing in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18140200700000001      | All Employees: Service-Providing in Bloomington, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU18140200600000001SA    | All Employees: Goods Producing in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18140200700000001      | All Employees: Service-Providing in Bloomington, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU18140200700000001A     | All Employees: Service-Providing in Bloomington, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18140200700000001SA    | All Employees: Service-Providing in Bloomington, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU18140200800000001      | All Employees: Private Service Providing in Bloomington, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18140200700000001SA    | All Employees: Service-Providing in Bloomington, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18140200800000001      | All Employees: Private Service Providing in Bloomington, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18140200800000001A     | All Employees: Private Service Providing in Bloomington, IN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18140200800000001SA    | All Employees: Private Service Providing in Bloomington, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18140200800000001SA    | All Employees: Private Service Providing in Bloomington, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18140201500000001A     | All Employees: Mining, Logging, and Construction in Bloomington, IN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU18140203000000001A     | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18140203100000001      | All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18140203100000001      | All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18140203100000001A     | All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU18140203100000001SA    | All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18140203100000001SA    | All Employees: Manufacturing: Durable Goods in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18140204000000001A     | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18140204100000001      | All Employees: Wholesale Trade in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18140204100000001      | All Employees: Wholesale Trade in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18140204100000001A     | All Employees: Wholesale Trade in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18140204100000001SA    | All Employees: Wholesale Trade in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18140204200000001      | All Employees: Retail Trade in Bloomington, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU18140204100000001SA    | All Employees: Wholesale Trade in Bloomington, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18140204200000001      | All Employees: Retail Trade in Bloomington, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU18140204200000001A     | All Employees: Retail Trade in Bloomington, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18140204200000001SA    | All Employees: Retail Trade in Bloomington, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU18140204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18140204200000001SA    | All Employees: Retail Trade in Bloomington, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18140204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18140204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18140204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18140204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bloomington, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18140205000000001A     | All Employees: Information in Bloomington, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU18140205500000001A     | All Employees: Financial Activities in Bloomington, IN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU18140206000000001A     | All Employees: Professional and Business Services in Bloomington, IN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -156,19 +156,19 @@
 | SMU18140207000000001A     | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU18140208000000001A     | All Employees: Other Services in Bloomington, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU18140209000000001A     | All Employees: Government in Bloomington, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18140209091000001      | All Employees: Government: Federal Government in Bloomington, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU18140209091000001      | All Employees: Government: Federal Government in Bloomington, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU18140209091000001A     | All Employees: Federal Government in Bloomington, IN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU18140209091000001SA    | All Employees: Government: Federal Government in Bloomington, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU18140209092000001      | All Employees: Government: State Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18140209091000001SA    | All Employees: Government: Federal Government in Bloomington, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18140209092000001      | All Employees: Government: State Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18140209092000001A     | All Employees: State Government in Bloomington, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18140209092000001SA    | All Employees: Government: State Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18140209093000001      | All Employees: Government: Local Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18140209092000001SA    | All Employees: Government: State Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18140209093000001      | All Employees: Government: Local Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18140209093000001A     | All Employees: Local Government in Bloomington, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18140209093000001SA    | All Employees: Government: Local Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18140209093161101      | All Employees: Government: Local Government Educational Services in Bloomington, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18140209093000001SA    | All Employees: Government: Local Government in Bloomington, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18140209093161101      | All Employees: Government: Local Government Educational Services in Bloomington, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU18140209093161101A     | All Employees: Local Government Educational Services in Bloomington, IN (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU18140209093161101SA    | All Employees: Government: Local Government Educational Services in Bloomington, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU18140209093200001      | All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU18140209093161101SA    | All Employees: Government: Local Government Educational Services in Bloomington, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU18140209093200001      | All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)              | 1990-01-01          | 2022-02-01        |
 | SMU18140209093200001A     | All Employees: Local Government Excluding Educational Services in Bloomington, IN (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU18140209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU18140209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)              | 1990-01-01          | 2022-02-01        |
 | SUSCMSA14020              | Market Hotness: Supply Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

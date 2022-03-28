@@ -25,7 +25,7 @@
 | HORAYYMSA25540            | Market Hotness: Hotness Rank in Hartford-West Hartford-East Hartford, CT (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | HOSCMSA25540              | Market Hotness: Hotness Score in Hartford-West Hartford-East Hartford, CT (CBSA)                                            | 2017-08-01          | 2022-01-01        |
 | HTFPOP                    | Resident Population in Hartford-West Hartford-East Hartford, CT (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| IHLCHG25540               | Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                       | 2020-02-01          | 2022-03-11        |
+| IHLCHG25540               | Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                       | 2020-02-01          | 2022-03-18        |
 | IRPD25540                 | Implicit Regional Price Deflator for Hartford-West Hartford-East Hartford, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA25540          | Market Hotness: Listing Views per Property in Hartford-West Hartford-East Hartford, CT (CBSA)                               | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA25540        | Market Hotness: Listing Views per Property Versus the United States in Hartford-West Hartford-East Hartford, CT (CBSA)      | 2017-08-01          | 2022-01-01        |

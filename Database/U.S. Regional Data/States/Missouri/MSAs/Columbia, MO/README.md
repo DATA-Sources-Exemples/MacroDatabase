@@ -7,20 +7,20 @@
 | AVELISPRI17860            | Housing Inventory: Average Listing Price in Columbia, MO (CBSA)                                    | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM17860          | Housing Inventory: Average Listing Price Month-Over-Month in Columbia, MO (CBSA)                   | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY17860          | Housing Inventory: Average Listing Price Year-Over-Year in Columbia, MO (CBSA)                     | 2017-07-01          | 2022-01-01        |
-| CLMBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-01-01        |
-| CLMBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-01-01        |
-| CLMBPPRIV                 | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-01-01        |
-| CLMBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-01-01        |
-| CLMGOVT                   | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| CLMGOVTN                  | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| CLMBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-02-01        |
+| CLMBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-02-01        |
+| CLMBPPRIV                 | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-02-01        |
+| CLMBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-02-01        |
+| CLMGOVT                   | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| CLMGOVTN                  | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | CLMLF                     | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | CLMLFN                    | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| CLMNA                     | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| CLMNAN                    | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| CLMNA                     | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| CLMNAN                    | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | CLMPCPI                   | Per Capita Personal Income in Columbia, MO (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | CLMPOP                    | Resident Population in Columbia, MO (MSA)                                                          | 1970-01-01          | 2020-01-01        |
-| CLMTRAD                   | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2022-01-01        |
-| CLMTRADN                  | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2022-01-01        |
+| CLMTRAD                   | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2022-02-01        |
+| CLMTRADN                  | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2022-02-01        |
 | CLMUR                     | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | CLMURN                    | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | DESCMSA17860              | Market Hotness: Demand Score in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-01-01        |
@@ -95,41 +95,41 @@
 | RPPGOOD17860              | Regional Price Parities: Goods for Columbia, MO (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH17860          | Regional Price Parities: Services: Other for Columbia, MO (MSA)                                    | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT17860         | Regional Price Parities: Services: Rents for Columbia, MO (MSA)                                    | 2008-01-01          | 2020-01-01        |
-| SMS29178600000000026      | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-04-01          | 2022-01-01        |
+| SMS29178600000000026      | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-04-01          | 2022-02-01        |
 | SMU29178600000000001A     | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU29178600500000001      | All Employees: Total Private in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU29178600500000001      | All Employees: Total Private in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | SMU29178600500000001A     | All Employees: Total Private in Columbia, MO (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU29178600500000001SA    | All Employees: Total Private in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SMU29178600500000002      | Average Weekly Hours of All Employees: Total Private in Columbia, MO (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU29178600500000001SA    | All Employees: Total Private in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SMU29178600500000002      | Average Weekly Hours of All Employees: Total Private in Columbia, MO (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU29178600500000002A     | Average Weekly Hours of All Employees: Total Private in Columbia, MO (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU29178600500000002SA    | Average Weekly Hours of All Employees: Total Private in Columbia, MO (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU29178600500000003      | Average Hourly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU29178600500000002SA    | Average Weekly Hours of All Employees: Total Private in Columbia, MO (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU29178600500000003      | Average Hourly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU29178600500000003A     | Average Hourly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU29178600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU29178600500000011      | Average Weekly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU29178600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU29178600500000011      | Average Weekly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU29178600500000011A     | Average Weekly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU29178600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU29178600600000001      | All Employees: Goods Producing in Columbia, MO (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU29178600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Columbia, MO (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU29178600600000001      | All Employees: Goods Producing in Columbia, MO (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU29178600600000001A     | All Employees: Goods Producing in Columbia, MO (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU29178600600000001SA    | All Employees: Goods Producing in Columbia, MO (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU29178600700000001      | All Employees: Service-Providing in Columbia, MO (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU29178600600000001SA    | All Employees: Goods Producing in Columbia, MO (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU29178600700000001      | All Employees: Service-Providing in Columbia, MO (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU29178600700000001A     | All Employees: Service-Providing in Columbia, MO (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU29178600700000001SA    | All Employees: Service-Providing in Columbia, MO (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU29178600800000001      | All Employees: Private Service Providing in Columbia, MO (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU29178600700000001SA    | All Employees: Service-Providing in Columbia, MO (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU29178600800000001      | All Employees: Private Service Providing in Columbia, MO (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU29178600800000001A     | All Employees: Private Service Providing in Columbia, MO (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU29178600800000001SA    | All Employees: Private Service Providing in Columbia, MO (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU29178600800000001SA    | All Employees: Private Service Providing in Columbia, MO (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU29178604000000001A     | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU29178604200000001      | All Employees: Retail Trade in Columbia, MO (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU29178604200000001      | All Employees: Retail Trade in Columbia, MO (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU29178604200000001A     | All Employees: Retail Trade in Columbia, MO (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU29178604200000001SA    | All Employees: Retail Trade in Columbia, MO (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU29178604200000001SA    | All Employees: Retail Trade in Columbia, MO (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU29178609000000001A     | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU29178609091000001      | All Employees: Government: Federal Government in Columbia, MO (MSA)                                | 1990-01-01          | 2022-01-01        |
+| SMU29178609091000001      | All Employees: Government: Federal Government in Columbia, MO (MSA)                                | 1990-01-01          | 2022-02-01        |
 | SMU29178609091000001A     | All Employees: Federal Government in Columbia, MO (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU29178609091000001SA    | All Employees: Government: Federal Government in Columbia, MO (MSA)                                | 1990-01-01          | 2022-01-01        |
-| SMU29178609092000001      | All Employees: Government: State Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU29178609091000001SA    | All Employees: Government: Federal Government in Columbia, MO (MSA)                                | 1990-01-01          | 2022-02-01        |
+| SMU29178609092000001      | All Employees: Government: State Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU29178609092000001A     | All Employees: State Government in Columbia, MO (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU29178609092000001SA    | All Employees: Government: State Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU29178609093000001      | All Employees: Government: Local Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU29178609092000001SA    | All Employees: Government: State Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU29178609093000001      | All Employees: Government: Local Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU29178609093000001A     | All Employees: Local Government in Columbia, MO (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU29178609093000001SA    | All Employees: Government: Local Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU29178609093000001SA    | All Employees: Government: Local Government in Columbia, MO (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SUSCMSA17860              | Market Hotness: Supply Score in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-01-01        |

@@ -27,29 +27,29 @@
 | LAUMT393190000000005A     | Employed Persons in Mansfield, OH (MSA)                                                          | 1990-01-01          | 2020-01-01        |
 | LAUMT393190000000006A     | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2020-01-01        |
 | MANPOP                    | Resident Population in Mansfield, OH (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| MANS939EDUH               | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2022-01-01        |
-| MANS939EDUHN              | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2022-01-01        |
-| MANS939FIRE               | All Employees: Financial Activities in Mansfield, OH (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| MANS939FIREN              | All Employees: Financial Activities in Mansfield, OH (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| MANS939GOVT               | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| MANS939GOVTN              | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| MANS939LEIH               | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| MANS939LEIHN              | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| MANS939EDUH               | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2022-02-01        |
+| MANS939EDUHN              | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2022-02-01        |
+| MANS939FIRE               | All Employees: Financial Activities in Mansfield, OH (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| MANS939FIREN              | All Employees: Financial Activities in Mansfield, OH (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| MANS939GOVT               | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| MANS939GOVTN              | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| MANS939LEIH               | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| MANS939LEIHN              | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | MANS939LF                 | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | MANS939LFN                | Civilian Labor Force in Mansfield, OH (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| MANS939MFG                | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MANS939MFGN               | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MANS939NA                 | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MANS939NAN                | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MANS939NRMN               | All Employees: Mining, Logging, and Construction in Mansfield, OH (MSA)                          | 1990-01-01          | 2022-01-01        |
-| MANS939NRMNN              | All Employees: Mining, Logging, and Construction in Mansfield, OH (MSA)                          | 1990-01-01          | 2022-01-01        |
-| MANS939PBSV               | All Employees: Professional and Business Services in Mansfield, OH (MSA)                         | 1990-01-01          | 2022-01-01        |
-| MANS939PBSVN              | All Employees: Professional and Business Services in Mansfield, OH (MSA)                         | 1990-01-01          | 2022-01-01        |
+| MANS939MFG                | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MANS939MFGN               | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MANS939NA                 | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MANS939NAN                | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MANS939NRMN               | All Employees: Mining, Logging, and Construction in Mansfield, OH (MSA)                          | 1990-01-01          | 2022-02-01        |
+| MANS939NRMNN              | All Employees: Mining, Logging, and Construction in Mansfield, OH (MSA)                          | 1990-01-01          | 2022-02-01        |
+| MANS939PBSV               | All Employees: Professional and Business Services in Mansfield, OH (MSA)                         | 1990-01-01          | 2022-02-01        |
+| MANS939PBSVN              | All Employees: Professional and Business Services in Mansfield, OH (MSA)                         | 1990-01-01          | 2022-02-01        |
 | MANS939PCPI               | Per Capita Personal Income in Mansfield, OH (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| MANS939SRVO               | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| MANS939SRVON              | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| MANS939TRAD               | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-01-01        |
-| MANS939TRADN              | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-01-01        |
+| MANS939SRVO               | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| MANS939SRVON              | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| MANS939TRAD               | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-02-01        |
+| MANS939TRADN              | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2022-02-01        |
 | MANS939UR                 | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | MANS939URN                | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | MEDDAYONMAR31900          | Housing Inventory: Median Days on Market in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-01-01        |
@@ -86,53 +86,53 @@
 | RPPGOOD31900              | Regional Price Parities: Goods for Mansfield, OH (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH31900          | Regional Price Parities: Services: Other for Mansfield, OH (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT31900         | Regional Price Parities: Services: Rents for Mansfield, OH (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS39319000000000026      | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS39319000000000026      | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU39319000000000001A     | All Employees: Total Nonfarm in Mansfield, OH (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU39319000500000001      | All Employees: Total Private in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU39319000500000001      | All Employees: Total Private in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU39319000500000001A     | All Employees: Total Private in Mansfield, OH (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU39319000500000001SA    | All Employees: Total Private in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU39319000500000002      | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU39319000500000001SA    | All Employees: Total Private in Mansfield, OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU39319000500000002      | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU39319000500000002A     | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU39319000500000002SA    | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU39319000500000003      | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU39319000500000002SA    | Average Weekly Hours of All Employees: Total Private in Mansfield, OH (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU39319000500000003      | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU39319000500000003A     | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU39319000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU39319000500000011      | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU39319000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU39319000500000011      | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU39319000500000011A     | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU39319000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU39319000600000001      | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU39319000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Mansfield, OH (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU39319000600000001      | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU39319000600000001A     | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU39319000600000001SA    | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU39319000700000001      | All Employees: Service-Providing in Mansfield, OH (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU39319000600000001SA    | All Employees: Goods Producing in Mansfield, OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU39319000700000001      | All Employees: Service-Providing in Mansfield, OH (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU39319000700000001A     | All Employees: Service-Providing in Mansfield, OH (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU39319000700000001SA    | All Employees: Service-Providing in Mansfield, OH (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU39319000800000001      | All Employees: Private Service Providing in Mansfield, OH (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU39319000700000001SA    | All Employees: Service-Providing in Mansfield, OH (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU39319000800000001      | All Employees: Private Service Providing in Mansfield, OH (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU39319000800000001A     | All Employees: Private Service Providing in Mansfield, OH (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU39319000800000001SA    | All Employees: Private Service Providing in Mansfield, OH (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU39319000800000001SA    | All Employees: Private Service Providing in Mansfield, OH (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU39319001500000001A     | All Employees: Mining, Logging, and Construction in Mansfield, OH (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU39319003000000001A     | All Employees: Manufacturing in Mansfield, OH (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU39319003133600001      | All Employees: Durable Goods: Transportation Equipment Manufacturing in Mansfield, OH (MSA)      | 1990-01-01          | 2018-12-01        |
 | SMU39319003133600001A     | All Employees: Durable Goods: Transportation Equipment Manufacturing in Mansfield, OH (MSA)      | 1990-01-01          | 2017-01-01        |
 | SMU39319003133600001SA    | All Employees: Durable Goods: Transportation Equipment Manufacturing in Mansfield, OH (MSA)      | 1990-01-01          | 2018-12-01        |
 | SMU39319004000000001A     | All Employees: Trade, Transportation, and Utilities in Mansfield, OH (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU39319004200000001      | All Employees: Retail Trade in Mansfield, OH (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU39319004200000001      | All Employees: Retail Trade in Mansfield, OH (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU39319004200000001A     | All Employees: Retail Trade in Mansfield, OH (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU39319004200000001SA    | All Employees: Retail Trade in Mansfield, OH (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU39319004200000001SA    | All Employees: Retail Trade in Mansfield, OH (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU39319005500000001A     | All Employees: Financial Activities in Mansfield, OH (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU39319006000000001A     | All Employees: Professional and Business Services in Mansfield, OH (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU39319006500000001A     | All Employees: Education and Health Services in Mansfield, OH (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU39319007000000001A     | All Employees: Leisure and Hospitality in Mansfield, OH (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU39319008000000001A     | All Employees: Other Services in Mansfield, OH (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU39319009000000001A     | All Employees: Government in Mansfield, OH (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU39319009091000001      | All Employees: Government: Federal Government in Mansfield, OH (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU39319009091000001      | All Employees: Government: Federal Government in Mansfield, OH (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU39319009091000001A     | All Employees: Federal Government in Mansfield, OH (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU39319009091000001SA    | All Employees: Government: Federal Government in Mansfield, OH (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU39319009092000001      | All Employees: Government: State Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU39319009091000001SA    | All Employees: Government: Federal Government in Mansfield, OH (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU39319009092000001      | All Employees: Government: State Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU39319009092000001A     | All Employees: State Government in Mansfield, OH (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU39319009092000001SA    | All Employees: Government: State Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU39319009093000001      | All Employees: Government: Local Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU39319009092000001SA    | All Employees: Government: State Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU39319009093000001      | All Employees: Government: Local Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU39319009093000001A     | All Employees: Local Government in Mansfield, OH (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU39319009093000001SA    | All Employees: Government: Local Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU39319009093161101      | All Employees: Government: Local Government Educational Services in Mansfield, OH (MSA)          | 1990-01-01          | 2022-01-01        |
+| SMU39319009093000001SA    | All Employees: Government: Local Government in Mansfield, OH (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU39319009093161101      | All Employees: Government: Local Government Educational Services in Mansfield, OH (MSA)          | 1990-01-01          | 2022-02-01        |
 | SMU39319009093161101A     | All Employees: Local Government Educational Services in Mansfield, OH (MSA)                      | 1990-01-01          | 2021-01-01        |
-| SMU39319009093161101SA    | All Employees: Government: Local Government Educational Services in Mansfield, OH (MSA)          | 1990-01-01          | 2022-01-01        |
+| SMU39319009093161101SA    | All Employees: Government: Local Government Educational Services in Mansfield, OH (MSA)          | 1990-01-01          | 2022-02-01        |

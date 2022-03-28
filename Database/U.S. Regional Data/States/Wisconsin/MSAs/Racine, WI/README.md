@@ -72,34 +72,34 @@
 | PRIREDCOUMM39540          | Housing Inventory: Price Reduced Count Month-Over-Month in Racine, WI (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | PRIREDCOUYY39540          | Housing Inventory: Price Reduced Count Year-Over-Year in Racine, WI (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | QGMP39540                 | Total Quantity Indexes for Real GDP for Racine, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RACI555EDUH               | All Employees: Education and Health Services in Racine, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| RACI555EDUHN              | All Employees: Education and Health Services in Racine, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| RACI555FIRE               | All Employees: Financial Activities in Racine, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| RACI555FIREN              | All Employees: Financial Activities in Racine, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| RACI555GOVT               | All Employees: Government in Racine, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| RACI555GOVTN              | All Employees: Government in Racine, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| RACI555INFO               | All Employees: Information in Racine, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| RACI555INFON              | All Employees: Information in Racine, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| RACI555LEIH               | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| RACI555LEIHN              | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| RACI555EDUH               | All Employees: Education and Health Services in Racine, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| RACI555EDUHN              | All Employees: Education and Health Services in Racine, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| RACI555FIRE               | All Employees: Financial Activities in Racine, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| RACI555FIREN              | All Employees: Financial Activities in Racine, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| RACI555GOVT               | All Employees: Government in Racine, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| RACI555GOVTN              | All Employees: Government in Racine, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| RACI555INFO               | All Employees: Information in Racine, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| RACI555INFON              | All Employees: Information in Racine, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| RACI555LEIH               | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| RACI555LEIHN              | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | RACI555LF                 | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | RACI555LFN                | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| RACI555MFG                | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RACI555MFGN               | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RACI555NA                 | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RACI555NAN                | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1956-01-01          | 2022-01-01        |
-| RACI555NRMN               | All Employees: Mining, Logging, and Construction in Racine, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| RACI555NRMNN              | All Employees: Mining, Logging, and Construction in Racine, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| RACI555PBSV               | All Employees: Professional and Business Services in Racine, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| RACI555PBSVN              | All Employees: Professional and Business Services in Racine, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| RACI555MFG                | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RACI555MFGN               | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RACI555NA                 | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RACI555NAN                | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1956-01-01          | 2022-02-01        |
+| RACI555NRMN               | All Employees: Mining, Logging, and Construction in Racine, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| RACI555NRMNN              | All Employees: Mining, Logging, and Construction in Racine, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| RACI555PBSV               | All Employees: Professional and Business Services in Racine, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| RACI555PBSVN              | All Employees: Professional and Business Services in Racine, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | RACI555PCPI               | Per Capita Personal Income in Racine, WI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| RACI555SRVO               | All Employees: Other Services in Racine, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| RACI555SRVON              | All Employees: Other Services in Racine, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| RACI555TRAD               | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| RACI555TRADN              | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| RACI555SRVO               | All Employees: Other Services in Racine, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| RACI555SRVON              | All Employees: Other Services in Racine, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| RACI555TRAD               | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| RACI555TRADN              | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | RACI555UR                 | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | RACI555URN                | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| RACPOP                    | Resident Population in Racine, WI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| RACPOP                    | Resident Population in Racine, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | RGMP39540                 | Total Real Gross Domestic Product for Racine, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI39540                  | Real Personal Income for Racine, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39540                | Real Per Capita Personal Income for Racine, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
@@ -107,58 +107,58 @@
 | RPPGOOD39540              | Regional Price Parities: Goods for Racine, WI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH39540          | Regional Price Parities: Services: Other for Racine, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT39540         | Regional Price Parities: Services: Rents for Racine, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS55395400000000026      | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS55395400000000026      | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU55395400000000001A     | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1956-01-01          | 2021-01-01        |
-| SMU55395400500000001      | All Employees: Total Private in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU55395400500000001      | All Employees: Total Private in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU55395400500000001A     | All Employees: Total Private in Racine, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55395400500000001SA    | All Employees: Total Private in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU55395400500000002      | Average Weekly Hours of All Employees: Total Private in Racine, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU55395400500000001SA    | All Employees: Total Private in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU55395400500000002      | Average Weekly Hours of All Employees: Total Private in Racine, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU55395400500000002A     | Average Weekly Hours of All Employees: Total Private in Racine, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55395400500000002SA    | Average Weekly Hours of All Employees: Total Private in Racine, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU55395400500000003      | Average Hourly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55395400500000002SA    | Average Weekly Hours of All Employees: Total Private in Racine, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU55395400500000003      | Average Hourly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55395400500000003A     | Average Hourly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55395400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55395400500000011      | Average Weekly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55395400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55395400500000011      | Average Weekly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55395400500000011A     | Average Weekly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55395400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55395400600000001      | All Employees: Goods Producing in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55395400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Racine, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55395400600000001      | All Employees: Goods Producing in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55395400600000001A     | All Employees: Goods Producing in Racine, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55395400600000001SA    | All Employees: Goods Producing in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55395400700000001      | All Employees: Service-Providing in Racine, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU55395400600000001SA    | All Employees: Goods Producing in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55395400700000001      | All Employees: Service-Providing in Racine, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU55395400700000001A     | All Employees: Service-Providing in Racine, WI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU55395400700000001SA    | All Employees: Service-Providing in Racine, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU55395400800000001      | All Employees: Private Service Providing in Racine, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55395400700000001SA    | All Employees: Service-Providing in Racine, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU55395400800000001      | All Employees: Private Service Providing in Racine, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55395400800000001A     | All Employees: Private Service Providing in Racine, WI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU55395400800000001SA    | All Employees: Private Service Providing in Racine, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55395400800000001SA    | All Employees: Private Service Providing in Racine, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55395401500000001A     | All Employees: Mining, Logging, and Construction in Racine, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU55395403000000001A     | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU55395404000000001A     | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU55395404100000001      | All Employees: Wholesale Trade in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55395404100000001      | All Employees: Wholesale Trade in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55395404100000001A     | All Employees: Wholesale Trade in Racine, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55395404100000001SA    | All Employees: Wholesale Trade in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55395404200000001      | All Employees: Retail Trade in Racine, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU55395404100000001SA    | All Employees: Wholesale Trade in Racine, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55395404200000001      | All Employees: Retail Trade in Racine, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU55395404200000001A     | All Employees: Retail Trade in Racine, WI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU55395404200000001SA    | All Employees: Retail Trade in Racine, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU55395404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Racine, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55395404200000001SA    | All Employees: Retail Trade in Racine, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU55395404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Racine, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55395404300000001A     | All Employees: Transportation and Utilities in Racine, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55395404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Racine, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55395404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Racine, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55395405000000001A     | All Employees: Information in Racine, WI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU55395405500000001A     | All Employees: Financial Activities in Racine, WI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU55395406000000001A     | All Employees: Professional and Business Services in Racine, WI (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU55395406500000001A     | All Employees: Education and Health Services in Racine, WI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU55395406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Racine, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55395406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Racine, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55395406562000001A     | All Employees: Health Care and Social Assistance in Racine, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU55395406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Racine, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55395406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Racine, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55395407000000001A     | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU55395408000000001A     | All Employees: Other Services in Racine, WI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU55395409000000001A     | All Employees: Government in Racine, WI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU55395409091000001      | All Employees: Government: Federal Government in Racine, WI (MSA)                                           | 2001-01-01          | 2022-01-01        |
+| SMU55395409091000001      | All Employees: Government: Federal Government in Racine, WI (MSA)                                           | 2001-01-01          | 2022-02-01        |
 | SMU55395409091000001A     | All Employees: Federal Government in Racine, WI (MSA)                                                       | 2001-01-01          | 2021-01-01        |
-| SMU55395409091000001SA    | All Employees: Government: Federal Government in Racine, WI (MSA)                                           | 2001-01-01          | 2022-01-01        |
-| SMU55395409092000001      | All Employees: Government: State Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55395409091000001SA    | All Employees: Government: Federal Government in Racine, WI (MSA)                                           | 2001-01-01          | 2022-02-01        |
+| SMU55395409092000001      | All Employees: Government: State Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SMU55395409092000001A     | All Employees: State Government in Racine, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
-| SMU55395409092000001SA    | All Employees: Government: State Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
-| SMU55395409093000001      | All Employees: Government: Local Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55395409092000001SA    | All Employees: Government: State Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
+| SMU55395409093000001      | All Employees: Government: Local Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SMU55395409093000001A     | All Employees: Local Government in Racine, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
-| SMU55395409093000001SA    | All Employees: Government: Local Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55395409093000001SA    | All Employees: Government: Local Government in Racine, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SUSCMSA39540              | Market Hotness: Supply Score in Racine, WI (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

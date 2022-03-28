@@ -56,34 +56,34 @@
 | MELIPRMSA32900            | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-01-01        |
 | MELIPRVSUSMSA32900        | Market Hotness: Median Listing Price Versus the United States in Merced, CA (CBSA)                          | 2017-08-01          | 2022-01-01        |
 | MELIPRYYMSA32900          | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2018-08-01          | 2022-01-01        |
-| MERC906EDUH               | All Employees: Education and Health Services in Merced, CA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MERC906EDUHN              | All Employees: Education and Health Services in Merced, CA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MERC906FIRE               | All Employees: Financial Activities in Merced, CA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MERC906FIREN              | All Employees: Financial Activities in Merced, CA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MERC906GOVT               | All Employees: Government in Merced, CA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MERC906GOVTN              | All Employees: Government in Merced, CA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MERC906INFO               | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MERC906INFON              | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MERC906LEIH               | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| MERC906LEIHN              | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| MERC906EDUH               | All Employees: Education and Health Services in Merced, CA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MERC906EDUHN              | All Employees: Education and Health Services in Merced, CA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MERC906FIRE               | All Employees: Financial Activities in Merced, CA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MERC906FIREN              | All Employees: Financial Activities in Merced, CA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MERC906GOVT               | All Employees: Government in Merced, CA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MERC906GOVTN              | All Employees: Government in Merced, CA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MERC906INFO               | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MERC906INFON              | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MERC906LEIH               | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| MERC906LEIHN              | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | MERC906LF                 | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | MERC906LFN                | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| MERC906MFG                | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MERC906MFGN               | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MERC906NA                 | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MERC906NAN                | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MERC906NRMN               | All Employees: Mining, Logging, and Construction in Merced, CA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MERC906NRMNN              | All Employees: Mining, Logging, and Construction in Merced, CA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MERC906PBSV               | All Employees: Professional and Business Services in Merced, CA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| MERC906PBSVN              | All Employees: Professional and Business Services in Merced, CA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| MERC906MFG                | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MERC906MFGN               | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MERC906NA                 | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MERC906NAN                | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MERC906NRMN               | All Employees: Mining, Logging, and Construction in Merced, CA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MERC906NRMNN              | All Employees: Mining, Logging, and Construction in Merced, CA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MERC906PBSV               | All Employees: Professional and Business Services in Merced, CA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| MERC906PBSVN              | All Employees: Professional and Business Services in Merced, CA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | MERC906PCPI               | Per Capita Personal Income in Merced, CA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| MERC906SRVO               | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MERC906SRVON              | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MERC906TRAD               | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| MERC906TRADN              | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| MERC906SRVO               | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MERC906SRVON              | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MERC906TRAD               | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| MERC906TRADN              | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | MERC906UR                 | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | MERC906URN                | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| MRCPOP                    | Resident Population in Merced, CA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| MRCPOP                    | Resident Population in Merced, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU32900            | Housing Inventory: New Listing Count in Merced, CA (CBSA)                                                   | 2016-07-01          | 2022-01-01        |
 | NEWLISCOUMM32900          | Housing Inventory: New Listing Count Month-Over-Month in Merced, CA (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY32900          | Housing Inventory: New Listing Count Year-Over-Year in Merced, CA (CBSA)                                    | 2017-07-01          | 2022-01-01        |
@@ -107,44 +107,44 @@
 | RPPGOOD32900              | Regional Price Parities: Goods for Merced, CA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH32900          | Regional Price Parities: Services: Other for Merced, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT32900         | Regional Price Parities: Services: Rents for Merced, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS06329000000000026      | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS06329000000000026      | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU06329000000000001A     | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06329000500000001      | All Employees: Total Private in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU06329000500000001      | All Employees: Total Private in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU06329000500000001A     | All Employees: Total Private in Merced, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06329000500000001SA    | All Employees: Total Private in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU06329000500000002      | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU06329000500000001SA    | All Employees: Total Private in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU06329000500000002      | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU06329000500000002A     | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06329000500000002SA    | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU06329000500000003      | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU06329000500000002SA    | Average Weekly Hours of All Employees: Total Private in Merced, CA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU06329000500000003      | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU06329000500000003A     | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06329000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU06329000500000011      | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU06329000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU06329000500000011      | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU06329000500000011A     | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06329000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU06329000600000001      | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU06329000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Merced, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU06329000600000001      | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU06329000600000001A     | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU06329000600000001SA    | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU06329000700000001      | All Employees: Service-Providing in Merced, CA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU06329000600000001SA    | All Employees: Goods Producing in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU06329000700000001      | All Employees: Service-Providing in Merced, CA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU06329000700000001A     | All Employees: Service-Providing in Merced, CA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU06329000700000001SA    | All Employees: Service-Providing in Merced, CA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU06329000800000001      | All Employees: Private Service Providing in Merced, CA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU06329000700000001SA    | All Employees: Service-Providing in Merced, CA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU06329000800000001      | All Employees: Private Service Providing in Merced, CA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU06329000800000001A     | All Employees: Private Service Providing in Merced, CA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU06329000800000001SA    | All Employees: Private Service Providing in Merced, CA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU06329000800000001SA    | All Employees: Private Service Providing in Merced, CA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU06329001500000001A     | All Employees: Mining, Logging, and Construction in Merced, CA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU06329003000000001A     | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06329003200000001      | All Employees: Manufacturing: Non-Durable Goods in Merced, CA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU06329003200000001      | All Employees: Manufacturing: Non-Durable Goods in Merced, CA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU06329003200000001A     | All Employees: Manufacturing: Non-Durable Goods in Merced, CA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU06329003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Merced, CA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU06329003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Merced, CA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU06329004000000001A     | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU06329004100000001      | All Employees: Wholesale Trade in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU06329004100000001      | All Employees: Wholesale Trade in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU06329004100000001A     | All Employees: Wholesale Trade in Merced, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU06329004100000001SA    | All Employees: Wholesale Trade in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU06329004200000001      | All Employees: Retail Trade in Merced, CA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU06329004100000001SA    | All Employees: Wholesale Trade in Merced, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU06329004200000001      | All Employees: Retail Trade in Merced, CA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU06329004200000001A     | All Employees: Retail Trade in Merced, CA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU06329004200000001SA    | All Employees: Retail Trade in Merced, CA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU06329004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Merced, CA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU06329004200000001SA    | All Employees: Retail Trade in Merced, CA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU06329004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Merced, CA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU06329004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Merced, CA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU06329004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Merced, CA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU06329004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Merced, CA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU06329005000000001A     | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU06329005500000001A     | All Employees: Financial Activities in Merced, CA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU06329006000000001A     | All Employees: Professional and Business Services in Merced, CA (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -152,25 +152,25 @@
 | SMU06329007000000001A     | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU06329008000000001A     | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU06329009000000001A     | All Employees: Government in Merced, CA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU06329009091000001      | All Employees: Government: Federal Government in Merced, CA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU06329009091000001      | All Employees: Government: Federal Government in Merced, CA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU06329009091000001A     | All Employees: Federal Government in Merced, CA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU06329009091000001SA    | All Employees: Government: Federal Government in Merced, CA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU06329009092000001      | All Employees: Government: State Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06329009091000001SA    | All Employees: Government: Federal Government in Merced, CA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU06329009092000001      | All Employees: Government: State Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06329009092000001A     | All Employees: State Government in Merced, CA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU06329009092000001SA    | All Employees: Government: State Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06329009092161101      | All Employees: Government: State Government Educational Services in Merced, CA (MSA)                        | 2005-01-01          | 2022-01-01        |
+| SMU06329009092000001SA    | All Employees: Government: State Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06329009092161101      | All Employees: Government: State Government Educational Services in Merced, CA (MSA)                        | 2005-01-01          | 2022-02-01        |
 | SMU06329009092161101A     | All Employees: State Government Educational Services in Merced, CA (MSA)                                    | 2005-01-01          | 2021-01-01        |
-| SMU06329009092161101SA    | All Employees: Government: State Government Educational Services in Merced, CA (MSA)                        | 2005-01-01          | 2022-01-01        |
-| SMU06329009092200001      | All Employees: Government: State Government Excluding Education in Merced, CA (MSA)                         | 2005-01-01          | 2022-01-01        |
+| SMU06329009092161101SA    | All Employees: Government: State Government Educational Services in Merced, CA (MSA)                        | 2005-01-01          | 2022-02-01        |
+| SMU06329009092200001      | All Employees: Government: State Government Excluding Education in Merced, CA (MSA)                         | 2005-01-01          | 2022-02-01        |
 | SMU06329009092200001A     | All Employees: Government: State Government Excluding Education in Merced, CA (MSA)                         | 2005-01-01          | 2021-01-01        |
-| SMU06329009092200001SA    | All Employees: Government: State Government Excluding Education in Merced, CA (MSA)                         | 2005-01-01          | 2022-01-01        |
-| SMU06329009093000001      | All Employees: Government: Local Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06329009092200001SA    | All Employees: Government: State Government Excluding Education in Merced, CA (MSA)                         | 2005-01-01          | 2022-02-01        |
+| SMU06329009093000001      | All Employees: Government: Local Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06329009093000001A     | All Employees: Local Government in Merced, CA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU06329009093000001SA    | All Employees: Government: Local Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06329009093161101      | All Employees: Government: Local Government Educational Services in Merced, CA (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU06329009093000001SA    | All Employees: Government: Local Government in Merced, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06329009093161101      | All Employees: Government: Local Government Educational Services in Merced, CA (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU06329009093161101A     | All Employees: Local Government Educational Services in Merced, CA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU06329009093161101SA    | All Employees: Government: Local Government Educational Services in Merced, CA (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU06329009093200001      | All Employees: Government: Local Government Excluding Educational Services in Merced, CA (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU06329009093161101SA    | All Employees: Government: Local Government Educational Services in Merced, CA (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU06329009093200001      | All Employees: Government: Local Government Excluding Educational Services in Merced, CA (MSA)              | 1990-01-01          | 2022-02-01        |
 | SMU06329009093200001A     | All Employees: Local Government Excluding Educational Services in Merced, CA (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU06329009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Merced, CA (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU06329009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Merced, CA (MSA)              | 1990-01-01          | 2022-02-01        |
 | SUSCMSA32900              | Market Hotness: Supply Score in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

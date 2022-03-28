@@ -65,42 +65,42 @@
 | PENLISCOU39460            | Housing Inventory: Pending Listing Count in Punta Gorda, FL (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM39460          | Housing Inventory: Pending Listing Count Month-Over-Month in Punta Gorda, FL (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | PENLISCOUYY39460          | Housing Inventory: Pending Listing Count Year-Over-Year in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| PGAPOP                    | Resident Population in Punta Gorda, FL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| PGAPOP                    | Resident Population in Punta Gorda, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PRIINCCOU39460            | Housing Inventory: Price Increased Count in Punta Gorda, FL (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | PRIINCCOUMM39460          | Housing Inventory: Price Increased Count Month-Over-Month in Punta Gorda, FL (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | PRIINCCOUYY39460          | Housing Inventory: Price Increased Count Year-Over-Year in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | PRIREDCOU39460            | Housing Inventory: Price Reduced Count in Punta Gorda, FL (CBSA)                                                 | 2016-07-01          | 2022-01-01        |
 | PRIREDCOUMM39460          | Housing Inventory: Price Reduced Count Month-Over-Month in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | PRIREDCOUYY39460          | Housing Inventory: Price Reduced Count Year-Over-Year in Punta Gorda, FL (CBSA)                                  | 2017-07-01          | 2022-01-01        |
-| PUNT412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-01-01        |
-| PUNT412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-01-01        |
-| PUNT412BPPRIV             | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-01-01        |
-| PUNT412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-01-01        |
-| PUNT412EDUH               | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| PUNT412EDUHN              | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| PUNT412FIRE               | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| PUNT412FIREN              | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| PUNT412GOVT               | All Employees: Government in Punta Gorda, FL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| PUNT412GOVTN              | All Employees: Government in Punta Gorda, FL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| PUNT412INFO               | All Employees: Information in Punta Gorda, FL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| PUNT412INFON              | All Employees: Information in Punta Gorda, FL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| PUNT412LEIH               | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| PUNT412LEIHN              | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| PUNT412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-02-01        |
+| PUNT412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-02-01        |
+| PUNT412BPPRIV             | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-02-01        |
+| PUNT412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-02-01        |
+| PUNT412EDUH               | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| PUNT412EDUHN              | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| PUNT412FIRE               | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| PUNT412FIREN              | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| PUNT412GOVT               | All Employees: Government in Punta Gorda, FL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| PUNT412GOVTN              | All Employees: Government in Punta Gorda, FL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| PUNT412INFO               | All Employees: Information in Punta Gorda, FL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| PUNT412INFON              | All Employees: Information in Punta Gorda, FL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| PUNT412LEIH               | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| PUNT412LEIHN              | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | PUNT412LF                 | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | PUNT412LFN                | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| PUNT412MFG                | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PUNT412MFGN               | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PUNT412NA                 | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PUNT412NAN                | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PUNT412NRMN               | All Employees: Mining, Logging, and Construction in Punta Gorda, FL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| PUNT412NRMNN              | All Employees: Mining, Logging, and Construction in Punta Gorda, FL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| PUNT412PBSV               | All Employees: Professional and Business Services in Punta Gorda, FL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| PUNT412PBSVN              | All Employees: Professional and Business Services in Punta Gorda, FL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| PUNT412MFG                | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PUNT412MFGN               | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PUNT412NA                 | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PUNT412NAN                | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PUNT412NRMN               | All Employees: Mining, Logging, and Construction in Punta Gorda, FL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| PUNT412NRMNN              | All Employees: Mining, Logging, and Construction in Punta Gorda, FL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| PUNT412PBSV               | All Employees: Professional and Business Services in Punta Gorda, FL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| PUNT412PBSVN              | All Employees: Professional and Business Services in Punta Gorda, FL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | PUNT412PCPI               | Per Capita Personal Income in Punta Gorda, FL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| PUNT412SRVO               | All Employees: Other Services in Punta Gorda, FL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| PUNT412SRVON              | All Employees: Other Services in Punta Gorda, FL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| PUNT412TRAD               | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| PUNT412TRADN              | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| PUNT412SRVO               | All Employees: Other Services in Punta Gorda, FL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| PUNT412SRVON              | All Employees: Other Services in Punta Gorda, FL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| PUNT412TRAD               | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| PUNT412TRADN              | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | PUNT412UR                 | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | PUNT412URN                | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | QGMP39460                 | Total Quantity Indexes for Real GDP for Punta Gorda, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
@@ -111,41 +111,41 @@
 | RPPGOOD39460              | Regional Price Parities: Goods for Punta Gorda, FL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH39460          | Regional Price Parities: Services: Other for Punta Gorda, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT39460         | Regional Price Parities: Services: Rents for Punta Gorda, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS12394600000000026      | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS12394600000000026      | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU12394600000000001A     | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU12394600500000001      | All Employees: Total Private in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU12394600500000001      | All Employees: Total Private in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU12394600500000001A     | All Employees: Total Private in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU12394600500000001SA    | All Employees: Total Private in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU12394600500000002      | Average Weekly Hours of All Employees: Total Private in Punta Gorda, FL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU12394600500000001SA    | All Employees: Total Private in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU12394600500000002      | Average Weekly Hours of All Employees: Total Private in Punta Gorda, FL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU12394600500000002A     | Average Weekly Hours of All Employees: Total Private in Punta Gorda, FL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU12394600500000002SA    | Average Weekly Hours of All Employees: Total Private in Punta Gorda, FL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU12394600500000003      | Average Hourly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU12394600500000002SA    | Average Weekly Hours of All Employees: Total Private in Punta Gorda, FL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU12394600500000003      | Average Hourly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU12394600500000003A     | Average Hourly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12394600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU12394600500000011      | Average Weekly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU12394600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU12394600500000011      | Average Weekly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU12394600500000011A     | Average Weekly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12394600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU12394600600000001      | All Employees: Goods Producing in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU12394600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Punta Gorda, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU12394600600000001      | All Employees: Goods Producing in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU12394600600000001A     | All Employees: Goods Producing in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU12394600600000001SA    | All Employees: Goods Producing in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU12394600700000001      | All Employees: Service-Providing in Punta Gorda, FL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU12394600600000001SA    | All Employees: Goods Producing in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU12394600700000001      | All Employees: Service-Providing in Punta Gorda, FL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU12394600700000001A     | All Employees: Service-Providing in Punta Gorda, FL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU12394600700000001SA    | All Employees: Service-Providing in Punta Gorda, FL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU12394600800000001      | All Employees: Private Service Providing in Punta Gorda, FL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU12394600700000001SA    | All Employees: Service-Providing in Punta Gorda, FL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU12394600800000001      | All Employees: Private Service Providing in Punta Gorda, FL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU12394600800000001A     | All Employees: Private Service Providing in Punta Gorda, FL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU12394600800000001SA    | All Employees: Private Service Providing in Punta Gorda, FL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU12394600800000001SA    | All Employees: Private Service Providing in Punta Gorda, FL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU12394601500000001A     | All Employees: Mining, Logging, and Construction in Punta Gorda, FL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU12394603000000001A     | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU12394604000000001A     | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU12394604100000001      | All Employees: Wholesale Trade in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU12394604100000001      | All Employees: Wholesale Trade in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU12394604100000001A     | All Employees: Wholesale Trade in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU12394604100000001SA    | All Employees: Wholesale Trade in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU12394604200000001      | All Employees: Retail Trade in Punta Gorda, FL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU12394604100000001SA    | All Employees: Wholesale Trade in Punta Gorda, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU12394604200000001      | All Employees: Retail Trade in Punta Gorda, FL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU12394604200000001A     | All Employees: Retail Trade in Punta Gorda, FL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU12394604200000001SA    | All Employees: Retail Trade in Punta Gorda, FL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU12394604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Punta Gorda, FL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU12394604200000001SA    | All Employees: Retail Trade in Punta Gorda, FL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU12394604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Punta Gorda, FL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU12394604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Punta Gorda, FL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU12394604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Punta Gorda, FL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU12394604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Punta Gorda, FL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU12394605000000001A     | All Employees: Information in Punta Gorda, FL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU12394605500000001A     | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU12394606000000001A     | All Employees: Professional and Business Services in Punta Gorda, FL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -153,13 +153,13 @@
 | SMU12394607000000001A     | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU12394608000000001A     | All Employees: Other Services in Punta Gorda, FL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU12394609000000001A     | All Employees: Government in Punta Gorda, FL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU12394609091000001      | All Employees: Government: Federal Government in Punta Gorda, FL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU12394609091000001      | All Employees: Government: Federal Government in Punta Gorda, FL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU12394609091000001A     | All Employees: Federal Government in Punta Gorda, FL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU12394609091000001SA    | All Employees: Government: Federal Government in Punta Gorda, FL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU12394609092000001      | All Employees: Government: State Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU12394609091000001SA    | All Employees: Government: Federal Government in Punta Gorda, FL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU12394609092000001      | All Employees: Government: State Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU12394609092000001A     | All Employees: State Government in Punta Gorda, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU12394609092000001SA    | All Employees: Government: State Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU12394609093000001      | All Employees: Government: Local Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU12394609092000001SA    | All Employees: Government: State Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU12394609093000001      | All Employees: Government: Local Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU12394609093000001A     | All Employees: Local Government in Punta Gorda, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU12394609093000001SA    | All Employees: Government: Local Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU12394609093000001SA    | All Employees: Government: Local Government in Punta Gorda, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA39460              | Market Hotness: Supply Score in Punta Gorda, FL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

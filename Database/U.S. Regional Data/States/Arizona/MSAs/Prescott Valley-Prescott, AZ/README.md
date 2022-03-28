@@ -65,32 +65,32 @@
 | PENLISCOU39140            | Housing Inventory: Pending Listing Count in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM39140          | Housing Inventory: Pending Listing Count Month-Over-Month in Prescott, AZ (CBSA)                | 2017-07-01          | 2022-01-01        |
 | PENLISCOUYY39140          | Housing Inventory: Pending Listing Count Year-Over-Year in Prescott, AZ (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| PRCPOP                    | Resident Population in Prescott, AZ (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| PRES104EDUH               | All Employees: Education and Health Services in Prescott, AZ (MSA)                              | 1990-01-01          | 2022-01-01        |
-| PRES104EDUHN              | All Employees: Education and Health Services in Prescott, AZ (MSA)                              | 1990-01-01          | 2022-01-01        |
-| PRES104FIRE               | All Employees: Financial Activities in Prescott, AZ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| PRES104FIREN              | All Employees: Financial Activities in Prescott, AZ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| PRES104GOVT               | All Employees: Government in Prescott, AZ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| PRES104GOVTN              | All Employees: Government in Prescott, AZ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| PRES104INFO               | All Employees: Information in Prescott, AZ (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| PRES104INFON              | All Employees: Information in Prescott, AZ (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| PRES104LEIH               | All Employees: Leisure and Hospitality in Prescott, AZ (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| PRES104LEIHN              | All Employees: Leisure and Hospitality in Prescott, AZ (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| PRCPOP                    | Resident Population in Prescott, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |
+| PRES104EDUH               | All Employees: Education and Health Services in Prescott, AZ (MSA)                              | 1990-01-01          | 2022-02-01        |
+| PRES104EDUHN              | All Employees: Education and Health Services in Prescott, AZ (MSA)                              | 1990-01-01          | 2022-02-01        |
+| PRES104FIRE               | All Employees: Financial Activities in Prescott, AZ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| PRES104FIREN              | All Employees: Financial Activities in Prescott, AZ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| PRES104GOVT               | All Employees: Government in Prescott, AZ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| PRES104GOVTN              | All Employees: Government in Prescott, AZ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| PRES104INFO               | All Employees: Information in Prescott, AZ (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| PRES104INFON              | All Employees: Information in Prescott, AZ (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| PRES104LEIH               | All Employees: Leisure and Hospitality in Prescott, AZ (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| PRES104LEIHN              | All Employees: Leisure and Hospitality in Prescott, AZ (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | PRES104LF                 | Civilian Labor Force in Prescott, AZ (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | PRES104LFN                | Civilian Labor Force in Prescott, AZ (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| PRES104MFG                | All Employees: Manufacturing in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| PRES104MFGN               | All Employees: Manufacturing in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| PRES104NA                 | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| PRES104NAN                | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| PRES104NRMN               | All Employees: Mining, Logging, and Construction in Prescott, AZ (MSA)                          | 1990-01-01          | 2022-01-01        |
-| PRES104NRMNN              | All Employees: Mining, Logging, and Construction in Prescott, AZ (MSA)                          | 1990-01-01          | 2022-01-01        |
-| PRES104PBSV               | All Employees: Professional and Business Services in Prescott, AZ (MSA)                         | 1990-01-01          | 2022-01-01        |
-| PRES104PBSVN              | All Employees: Professional and Business Services in Prescott, AZ (MSA)                         | 1990-01-01          | 2022-01-01        |
+| PRES104MFG                | All Employees: Manufacturing in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| PRES104MFGN               | All Employees: Manufacturing in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| PRES104NA                 | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| PRES104NAN                | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| PRES104NRMN               | All Employees: Mining, Logging, and Construction in Prescott, AZ (MSA)                          | 1990-01-01          | 2022-02-01        |
+| PRES104NRMNN              | All Employees: Mining, Logging, and Construction in Prescott, AZ (MSA)                          | 1990-01-01          | 2022-02-01        |
+| PRES104PBSV               | All Employees: Professional and Business Services in Prescott, AZ (MSA)                         | 1990-01-01          | 2022-02-01        |
+| PRES104PBSVN              | All Employees: Professional and Business Services in Prescott, AZ (MSA)                         | 1990-01-01          | 2022-02-01        |
 | PRES104PCPI               | Per Capita Personal Income in Prescott, AZ (MSA)                                                | 1969-01-01          | 2017-01-01        |
-| PRES104SRVO               | All Employees: Other Services in Prescott, AZ (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| PRES104SRVON              | All Employees: Other Services in Prescott, AZ (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| PRES104TRAD               | All Employees: Trade, Transportation, and Utilities in Prescott, AZ (MSA)                       | 1990-01-01          | 2022-01-01        |
-| PRES104TRADN              | All Employees: Trade, Transportation, and Utilities in Prescott, AZ (MSA)                       | 1990-01-01          | 2022-01-01        |
+| PRES104SRVO               | All Employees: Other Services in Prescott, AZ (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| PRES104SRVON              | All Employees: Other Services in Prescott, AZ (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| PRES104TRAD               | All Employees: Trade, Transportation, and Utilities in Prescott, AZ (MSA)                       | 1990-01-01          | 2022-02-01        |
+| PRES104TRADN              | All Employees: Trade, Transportation, and Utilities in Prescott, AZ (MSA)                       | 1990-01-01          | 2022-02-01        |
 | PRES104UR                 | Unemployment Rate in Prescott, AZ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | PRES104URN                | Unemployment Rate in Prescott, AZ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | PRIINCCOU39140            | Housing Inventory: Price Increased Count in Prescott, AZ (CBSA)                                 | 2016-07-01          | 2022-01-01        |
@@ -107,29 +107,29 @@
 | RPPGOOD39140              | Regional Price Parities: Goods for Prescott, AZ (MSA)                                           | 2008-01-01          | 2017-01-01        |
 | RPPSERVEOTH39140          | Regional Price Parities: Services: Other for Prescott, AZ (MSA)                                 | 2008-01-01          | 2017-01-01        |
 | RPPSERVERENT39140         | Regional Price Parities: Services: Rents for Prescott, AZ (MSA)                                 | 2008-01-01          | 2017-01-01        |
-| SMS04391400000000026      | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS04391400000000026      | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU04391400000000001A     | All Employees: Total Nonfarm in Prescott, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04391400500000001      | All Employees: Total Private in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU04391400500000001      | All Employees: Total Private in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU04391400500000001A     | All Employees: Total Private in Prescott, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04391400500000001SA    | All Employees: Total Private in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU04391400500000002      | Average Weekly Hours of All Employees: Total Private in Prescott, AZ (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU04391400500000001SA    | All Employees: Total Private in Prescott, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU04391400500000002      | Average Weekly Hours of All Employees: Total Private in Prescott, AZ (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU04391400500000002A     | Average Weekly Hours of All Employees: Total Private in Prescott, AZ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU04391400500000002SA    | Average Weekly Hours of All Employees: Total Private in Prescott, AZ (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU04391400500000003      | Average Hourly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU04391400500000002SA    | Average Weekly Hours of All Employees: Total Private in Prescott, AZ (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU04391400500000003      | Average Hourly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU04391400500000003A     | Average Hourly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04391400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU04391400500000011      | Average Weekly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU04391400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU04391400500000011      | Average Weekly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU04391400500000011A     | Average Weekly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04391400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU04391400600000001      | All Employees: Goods Producing in Prescott, AZ (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU04391400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Prescott, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU04391400600000001      | All Employees: Goods Producing in Prescott, AZ (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU04391400600000001A     | All Employees: Goods Producing in Prescott, AZ (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU04391400600000001SA    | All Employees: Goods Producing in Prescott, AZ (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU04391400700000001      | All Employees: Service-Providing in Prescott, AZ (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU04391400600000001SA    | All Employees: Goods Producing in Prescott, AZ (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU04391400700000001      | All Employees: Service-Providing in Prescott, AZ (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU04391400700000001A     | All Employees: Service-Providing in Prescott, AZ (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU04391400700000001SA    | All Employees: Service-Providing in Prescott, AZ (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU04391400800000001      | All Employees: Private Service Providing in Prescott, AZ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU04391400700000001SA    | All Employees: Service-Providing in Prescott, AZ (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU04391400800000001      | All Employees: Private Service Providing in Prescott, AZ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU04391400800000001A     | All Employees: Private Service Providing in Prescott, AZ (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU04391400800000001SA    | All Employees: Private Service Providing in Prescott, AZ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU04391400800000001SA    | All Employees: Private Service Providing in Prescott, AZ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU04391401500000001A     | All Employees: Mining, Logging, and Construction in Prescott, AZ (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU04391403000000001A     | All Employees: Manufacturing in Prescott, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU04391404000000001A     | All Employees: Trade, Transportation, and Utilities in Prescott, AZ (MSA)                       | 1990-01-01          | 2021-01-01        |
@@ -140,10 +140,10 @@
 | SMU04391407000000001A     | All Employees: Leisure and Hospitality in Prescott, AZ (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU04391408000000001A     | All Employees: Other Services in Prescott, AZ (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU04391409000000001A     | All Employees: Government in Prescott, AZ (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU04391409091000001      | All Employees: Government: Federal Government in Prescott, AZ (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU04391409091000001      | All Employees: Government: Federal Government in Prescott, AZ (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU04391409091000001A     | All Employees: Federal Government in Prescott, AZ (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU04391409091000001SA    | All Employees: Government: Federal Government in Prescott, AZ (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU04391409094000001      | All Employees: Government: Total State and Local Government in Prescott, AZ (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU04391409091000001SA    | All Employees: Government: Federal Government in Prescott, AZ (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU04391409094000001      | All Employees: Government: Total State and Local Government in Prescott, AZ (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU04391409094000001A     | All Employees: Total State and Local Government in Prescott, AZ (MSA)                           | 1990-01-01          | 2021-01-01        |
-| SMU04391409094000001SA    | All Employees: Government: Total State and Local Government in Prescott, AZ (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU04391409094000001SA    | All Employees: Government: Total State and Local Government in Prescott, AZ (MSA)               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA39140              | Market Hotness: Supply Score in Prescott, AZ (CBSA)                                             | 2017-08-01          | 2022-01-01        |

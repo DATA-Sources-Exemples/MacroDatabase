@@ -63,32 +63,32 @@
 | PENLISCOU37900            | Housing Inventory: Pending Listing Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM37900          | Housing Inventory: Pending Listing Count Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | PENLISCOUYY37900          | Housing Inventory: Pending Listing Count Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| PEOPOP                    | Resident Population in Peoria, IL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| PEOR917EDUH               | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| PEOR917EDUHN              | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| PEOR917FIRE               | All Employees: Financial Activities in Peoria, IL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| PEOR917FIREN              | All Employees: Financial Activities in Peoria, IL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| PEOR917GOVT               | All Employees: Government in Peoria, IL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| PEOR917GOVTN              | All Employees: Government in Peoria, IL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| PEOR917INFO               | All Employees: Information in Peoria, IL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| PEOR917INFON              | All Employees: Information in Peoria, IL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| PEOR917LEIH               | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| PEOR917LEIHN              | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| PEOPOP                    | Resident Population in Peoria, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| PEOR917EDUH               | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| PEOR917EDUHN              | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| PEOR917FIRE               | All Employees: Financial Activities in Peoria, IL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| PEOR917FIREN              | All Employees: Financial Activities in Peoria, IL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| PEOR917GOVT               | All Employees: Government in Peoria, IL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| PEOR917GOVTN              | All Employees: Government in Peoria, IL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| PEOR917INFO               | All Employees: Information in Peoria, IL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| PEOR917INFON              | All Employees: Information in Peoria, IL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| PEOR917LEIH               | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| PEOR917LEIHN              | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | PEOR917LF                 | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | PEOR917LFN                | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| PEOR917MFG                | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PEOR917MFGN               | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PEOR917NA                 | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PEOR917NAN                | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| PEOR917NRMN               | All Employees: Mining, Logging, and Construction in Peoria, IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| PEOR917NRMNN              | All Employees: Mining, Logging, and Construction in Peoria, IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| PEOR917PBSV               | All Employees: Professional and Business Services in Peoria, IL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| PEOR917PBSVN              | All Employees: Professional and Business Services in Peoria, IL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| PEOR917MFG                | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PEOR917MFGN               | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PEOR917NA                 | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PEOR917NAN                | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| PEOR917NRMN               | All Employees: Mining, Logging, and Construction in Peoria, IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| PEOR917NRMNN              | All Employees: Mining, Logging, and Construction in Peoria, IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| PEOR917PBSV               | All Employees: Professional and Business Services in Peoria, IL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| PEOR917PBSVN              | All Employees: Professional and Business Services in Peoria, IL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | PEOR917PCPI               | Per Capita Personal Income in Peoria, IL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| PEOR917SRVO               | All Employees: Other Services in Peoria, IL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| PEOR917SRVON              | All Employees: Other Services in Peoria, IL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| PEOR917TRAD               | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| PEOR917TRADN              | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| PEOR917SRVO               | All Employees: Other Services in Peoria, IL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| PEOR917SRVON              | All Employees: Other Services in Peoria, IL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| PEOR917TRAD               | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| PEOR917TRADN              | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | PEOR917UR                 | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | PEOR917URN                | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | PRIINCCOU37900            | Housing Inventory: Price Increased Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-01-01        |
@@ -105,64 +105,64 @@
 | RPPGOOD37900              | Regional Price Parities: Goods for Peoria, IL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH37900          | Regional Price Parities: Services: Other for Peoria, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT37900         | Regional Price Parities: Services: Rents for Peoria, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS17379000000000026      | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS17379000000000026      | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU17379000000000001A     | All Employees: Total Nonfarm in Peoria, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17379000500000001      | All Employees: Total Private in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU17379000500000001      | All Employees: Total Private in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU17379000500000001A     | All Employees: Total Private in Peoria, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17379000500000001SA    | All Employees: Total Private in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU17379000500000002      | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU17379000500000001SA    | All Employees: Total Private in Peoria, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU17379000500000002      | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU17379000500000002A     | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17379000500000002SA    | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU17379000500000003      | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU17379000500000002SA    | Average Weekly Hours of All Employees: Total Private in Peoria, IL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU17379000500000003      | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU17379000500000003A     | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17379000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU17379000500000011      | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU17379000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU17379000500000011      | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU17379000500000011A     | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17379000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU17379000600000001      | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU17379000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Peoria, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU17379000600000001      | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU17379000600000001A     | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU17379000600000001SA    | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU17379000700000001      | All Employees: Service-Providing in Peoria, IL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU17379000600000001SA    | All Employees: Goods Producing in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU17379000700000001      | All Employees: Service-Providing in Peoria, IL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU17379000700000001A     | All Employees: Service-Providing in Peoria, IL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU17379000700000001SA    | All Employees: Service-Providing in Peoria, IL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU17379000800000001      | All Employees: Private Service Providing in Peoria, IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU17379000700000001SA    | All Employees: Service-Providing in Peoria, IL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU17379000800000001      | All Employees: Private Service Providing in Peoria, IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU17379000800000001A     | All Employees: Private Service Providing in Peoria, IL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU17379000800000001SA    | All Employees: Private Service Providing in Peoria, IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU17379000800000001SA    | All Employees: Private Service Providing in Peoria, IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU17379001500000001A     | All Employees: Mining, Logging, and Construction in Peoria, IL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU17379003000000001A     | All Employees: Manufacturing in Peoria, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17379003100000001      | All Employees: Manufacturing: Durable Goods in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17379003100000001      | All Employees: Manufacturing: Durable Goods in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17379003100000001A     | All Employees: Manufacturing: Durable Goods in Peoria, IL (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU17379003100000001SA    | All Employees: Manufacturing: Durable Goods in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17379003100000001SA    | All Employees: Manufacturing: Durable Goods in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17379004000000001A     | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU17379004100000001      | All Employees: Wholesale Trade in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU17379004100000001      | All Employees: Wholesale Trade in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU17379004100000001A     | All Employees: Wholesale Trade in Peoria, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU17379004100000001SA    | All Employees: Wholesale Trade in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU17379004200000001      | All Employees: Retail Trade in Peoria, IL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU17379004100000001SA    | All Employees: Wholesale Trade in Peoria, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU17379004200000001      | All Employees: Retail Trade in Peoria, IL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU17379004200000001A     | All Employees: Retail Trade in Peoria, IL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU17379004200000001SA    | All Employees: Retail Trade in Peoria, IL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU17379004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Peoria, IL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU17379004200000001SA    | All Employees: Retail Trade in Peoria, IL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU17379004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Peoria, IL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU17379004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Peoria, IL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU17379004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Peoria, IL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU17379004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Peoria, IL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU17379005000000001A     | All Employees: Information in Peoria, IL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU17379005500000001A     | All Employees: Financial Activities in Peoria, IL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU17379005552000001      | All Employees: Financial Activities: Finance and Insurance in Peoria, IL (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU17379005552000001      | All Employees: Financial Activities: Finance and Insurance in Peoria, IL (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU17379005552000001A     | All Employees: Financial Activities: Finance and Insurance in Peoria, IL (MSA)                              | 1990-01-01          | 2021-01-01        |
-| SMU17379005552000001SA    | All Employees: Financial Activities: Finance and Insurance in Peoria, IL (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU17379005552000001SA    | All Employees: Financial Activities: Finance and Insurance in Peoria, IL (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU17379006000000001A     | All Employees: Professional and Business Services in Peoria, IL (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU17379006500000001A     | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU17379007000000001A     | All Employees: Leisure and Hospitality in Peoria, IL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU17379008000000001A     | All Employees: Other Services in Peoria, IL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU17379009000000001A     | All Employees: Government in Peoria, IL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU17379009091000001      | All Employees: Government: Federal Government in Peoria, IL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU17379009091000001      | All Employees: Government: Federal Government in Peoria, IL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU17379009091000001A     | All Employees: Federal Government in Peoria, IL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU17379009091000001SA    | All Employees: Government: Federal Government in Peoria, IL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU17379009092000001      | All Employees: Government: State Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17379009091000001SA    | All Employees: Government: Federal Government in Peoria, IL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU17379009092000001      | All Employees: Government: State Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17379009092000001A     | All Employees: State Government in Peoria, IL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU17379009092000001SA    | All Employees: Government: State Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU17379009093000001      | All Employees: Government: Local Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17379009092000001SA    | All Employees: Government: State Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU17379009093000001      | All Employees: Government: Local Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17379009093000001A     | All Employees: Local Government in Peoria, IL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU17379009093000001SA    | All Employees: Government: Local Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU17379009093161101      | All Employees: Government: Local Government Educational Services in Peoria, IL (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU17379009093000001SA    | All Employees: Government: Local Government in Peoria, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU17379009093161101      | All Employees: Government: Local Government Educational Services in Peoria, IL (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU17379009093161101A     | All Employees: Local Government Educational Services in Peoria, IL (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU17379009093161101SA    | All Employees: Government: Local Government Educational Services in Peoria, IL (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU17379009093161101SA    | All Employees: Government: Local Government Educational Services in Peoria, IL (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SUSCMSA37900              | Market Hotness: Supply Score in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

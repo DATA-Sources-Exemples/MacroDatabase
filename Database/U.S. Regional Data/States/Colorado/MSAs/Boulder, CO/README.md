@@ -8,31 +8,31 @@
 | AVELISPRIMM14500          | Housing Inventory: Average Listing Price Month-Over-Month in Boulder, CO (CBSA)                                          | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY14500          | Housing Inventory: Average Listing Price Year-Over-Year in Boulder, CO (CBSA)                                            | 2017-07-01          | 2022-01-01        |
 | BOLPOP                    | Resident Population in Boulder, CO (MSA)                                                                                 | 2000-01-01          | 2020-01-01        |
-| BOUL508EDUH               | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| BOUL508EDUHN              | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| BOUL508FIRE               | All Employees: Financial Activities in Boulder, CO (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| BOUL508FIREN              | All Employees: Financial Activities in Boulder, CO (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| BOUL508GOVT               | All Employees: Government in Boulder, CO (MSA)                                                                           | 1990-01-01          | 2022-01-01        |
-| BOUL508GOVTN              | All Employees: Government in Boulder, CO (MSA)                                                                           | 1990-01-01          | 2022-01-01        |
-| BOUL508INFO               | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2022-01-01        |
-| BOUL508INFON              | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2022-01-01        |
-| BOUL508LEIH               | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BOUL508LEIHN              | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| BOUL508EDUH               | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| BOUL508EDUHN              | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| BOUL508FIRE               | All Employees: Financial Activities in Boulder, CO (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| BOUL508FIREN              | All Employees: Financial Activities in Boulder, CO (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| BOUL508GOVT               | All Employees: Government in Boulder, CO (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| BOUL508GOVTN              | All Employees: Government in Boulder, CO (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| BOUL508INFO               | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2022-02-01        |
+| BOUL508INFON              | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2022-02-01        |
+| BOUL508LEIH               | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BOUL508LEIHN              | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | BOUL508LF                 | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-01-01        |
 | BOUL508LFN                | Civilian Labor Force in Boulder, CO (MSA)                                                                                | 1990-01-01          | 2022-01-01        |
-| BOUL508MFG                | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| BOUL508MFGN               | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| BOUL508NA                 | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| BOUL508NAN                | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1983-01-01          | 2022-01-01        |
-| BOUL508NRMN               | All Employees: Mining, Logging, and Construction in Boulder, CO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| BOUL508NRMNN              | All Employees: Mining, Logging, and Construction in Boulder, CO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| BOUL508PBSV               | All Employees: Professional and Business Services in Boulder, CO (MSA)                                                   | 1990-01-01          | 2022-01-01        |
-| BOUL508PBSVN              | All Employees: Professional and Business Services in Boulder, CO (MSA)                                                   | 1990-01-01          | 2022-01-01        |
+| BOUL508MFG                | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| BOUL508MFGN               | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| BOUL508NA                 | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| BOUL508NAN                | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1983-01-01          | 2022-02-01        |
+| BOUL508NRMN               | All Employees: Mining, Logging, and Construction in Boulder, CO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| BOUL508NRMNN              | All Employees: Mining, Logging, and Construction in Boulder, CO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| BOUL508PBSV               | All Employees: Professional and Business Services in Boulder, CO (MSA)                                                   | 1990-01-01          | 2022-02-01        |
+| BOUL508PBSVN              | All Employees: Professional and Business Services in Boulder, CO (MSA)                                                   | 1990-01-01          | 2022-02-01        |
 | BOUL508PCPI               | Per Capita Personal Income in Boulder, CO (MSA)                                                                          | 1969-01-01          | 2020-01-01        |
-| BOUL508SRVO               | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| BOUL508SRVON              | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| BOUL508TRAD               | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BOUL508TRADN              | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| BOUL508SRVO               | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| BOUL508SRVON              | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| BOUL508TRAD               | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BOUL508TRADN              | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | BOUL508UR                 | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-01-01        |
 | BOUL508URN                | Unemployment Rate in Boulder, CO (MSA)                                                                                   | 1990-01-01          | 2022-01-01        |
 | DESCMSA14500              | Market Hotness: Demand Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-01-01        |
@@ -107,73 +107,73 @@
 | RPPGOOD14500              | Regional Price Parities: Goods for Boulder, CO (MSA)                                                                     | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH14500          | Regional Price Parities: Services: Other for Boulder, CO (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT14500         | Regional Price Parities: Services: Rents for Boulder, CO (MSA)                                                           | 2008-01-01          | 2020-01-01        |
-| SMS08145000000000026      | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1990-04-01          | 2022-01-01        |
+| SMS08145000000000026      | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1990-04-01          | 2022-02-01        |
 | SMU08145000000000001A     | All Employees: Total Nonfarm in Boulder, CO (MSA)                                                                        | 1983-01-01          | 2021-01-01        |
-| SMU08145000500000001      | All Employees: Total Private in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
+| SMU08145000500000001      | All Employees: Total Private in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
 | SMU08145000500000001A     | All Employees: Total Private in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU08145000500000001SA    | All Employees: Total Private in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| SMU08145000500000002      | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2022-01-01        |
+| SMU08145000500000001SA    | All Employees: Total Private in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| SMU08145000500000002      | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2022-02-01        |
 | SMU08145000500000002A     | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU08145000500000002SA    | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2022-01-01        |
-| SMU08145000500000003      | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-01-01        |
+| SMU08145000500000002SA    | Average Weekly Hours of All Employees: Total Private in Boulder, CO (MSA)                                                | 2007-01-01          | 2022-02-01        |
+| SMU08145000500000003      | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-02-01        |
 | SMU08145000500000003A     | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU08145000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-01-01        |
-| SMU08145000500000011      | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-01-01        |
+| SMU08145000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-02-01        |
+| SMU08145000500000011      | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-02-01        |
 | SMU08145000500000011A     | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU08145000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-01-01        |
-| SMU08145000600000001      | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| SMU08145000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Boulder, CO (MSA)                                             | 2007-01-01          | 2022-02-01        |
+| SMU08145000600000001      | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
 | SMU08145000600000001A     | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| SMU08145000600000001SA    | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| SMU08145000700000001      | All Employees: Service-Providing in Boulder, CO (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
+| SMU08145000600000001SA    | All Employees: Goods Producing in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
+| SMU08145000700000001      | All Employees: Service-Providing in Boulder, CO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
 | SMU08145000700000001A     | All Employees: Service-Providing in Boulder, CO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| SMU08145000700000001SA    | All Employees: Service-Providing in Boulder, CO (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SMU08145000800000001      | All Employees: Private Service Providing in Boulder, CO (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU08145000700000001SA    | All Employees: Service-Providing in Boulder, CO (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SMU08145000800000001      | All Employees: Private Service Providing in Boulder, CO (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU08145000800000001A     | All Employees: Private Service Providing in Boulder, CO (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU08145000800000001SA    | All Employees: Private Service Providing in Boulder, CO (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU08145000800000001SA    | All Employees: Private Service Providing in Boulder, CO (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU08145001500000001A     | All Employees: Mining, Logging, and Construction in Boulder, CO (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | SMU08145003000000001A     | All Employees: Manufacturing in Boulder, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU08145003133400001      | All Employees: Manufacturing: Durable Goods: Computer and Electronic Product Manufacturing in Boulder, CO (MSA)          | 1990-01-01          | 2022-01-01        |
+| SMU08145003133400001      | All Employees: Manufacturing: Durable Goods: Computer and Electronic Product Manufacturing in Boulder, CO (MSA)          | 1990-01-01          | 2022-02-01        |
 | SMU08145003133400001A     | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Boulder, CO (MSA)                         | 1990-01-01          | 2021-01-01        |
-| SMU08145003133400001SA    | All Employees: Manufacturing: Durable Goods: Computer and Electronic Product Manufacturing in Boulder, CO (MSA)          | 1990-01-01          | 2022-01-01        |
+| SMU08145003133400001SA    | All Employees: Manufacturing: Durable Goods: Computer and Electronic Product Manufacturing in Boulder, CO (MSA)          | 1990-01-01          | 2022-02-01        |
 | SMU08145004000000001A     | All Employees: Trade, Transportation, and Utilities in Boulder, CO (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU08145004100000001      | All Employees: Wholesale Trade in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| SMU08145004100000001      | All Employees: Wholesale Trade in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
 | SMU08145004100000001A     | All Employees: Wholesale Trade in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| SMU08145004100000001SA    | All Employees: Wholesale Trade in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| SMU08145004200000001      | All Employees: Retail Trade in Boulder, CO (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
+| SMU08145004100000001SA    | All Employees: Wholesale Trade in Boulder, CO (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
+| SMU08145004200000001      | All Employees: Retail Trade in Boulder, CO (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
 | SMU08145004200000001A     | All Employees: Retail Trade in Boulder, CO (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
-| SMU08145004200000001SA    | All Employees: Retail Trade in Boulder, CO (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
-| SMU08145004244500001      | All Employees: Retail Trade: Food and Beverage Stores in Boulder, CO (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU08145004200000001SA    | All Employees: Retail Trade in Boulder, CO (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
+| SMU08145004244500001      | All Employees: Retail Trade: Food and Beverage Stores in Boulder, CO (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU08145004244500001A     | All Employees: Retail Trade: Food and Beverage Stores in Boulder, CO (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU08145004244500001SA    | All Employees: Retail Trade: Food and Beverage Stores in Boulder, CO (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU08145004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Boulder, CO (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU08145004244500001SA    | All Employees: Retail Trade: Food and Beverage Stores in Boulder, CO (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU08145004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Boulder, CO (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU08145004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Boulder, CO (MSA)             | 1990-01-01          | 2021-01-01        |
-| SMU08145004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Boulder, CO (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU08145004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Boulder, CO (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU08145005000000001A     | All Employees: Information in Boulder, CO (MSA)                                                                          | 1990-01-01          | 2021-01-01        |
-| SMU08145005051100001      | All Employees: Information: Publishing Industries (Except Internet) in Boulder, CO (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU08145005051100001      | All Employees: Information: Publishing Industries (Except Internet) in Boulder, CO (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU08145005051100001A     | All Employees: Information: Publishing Industries (except Internet) in Boulder, CO (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU08145005051100001SA    | All Employees: Information: Publishing Industries (Except Internet) in Boulder, CO (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU08145005051100001SA    | All Employees: Information: Publishing Industries (Except Internet) in Boulder, CO (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU08145005500000001A     | All Employees: Financial Activities in Boulder, CO (MSA)                                                                 | 1990-01-01          | 2021-01-01        |
 | SMU08145006000000001A     | All Employees: Professional and Business Services in Boulder, CO (MSA)                                                   | 1990-01-01          | 2021-01-01        |
-| SMU08145006054000001      | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Boulder, CO (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU08145006054000001      | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Boulder, CO (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU08145006054000001A     | All Employees: Professional, Scientific, and Technical Services in Boulder, CO (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU08145006054000001SA    | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Boulder, CO (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU08145006054000001SA    | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Boulder, CO (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU08145006500000001A     | All Employees: Education and Health Services in Boulder, CO (MSA)                                                        | 1990-01-01          | 2021-01-01        |
 | SMU08145007000000001A     | All Employees: Leisure and Hospitality in Boulder, CO (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU08145008000000001A     | All Employees: Other Services in Boulder, CO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | SMU08145009000000001A     | All Employees: Government in Boulder, CO (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
-| SMU08145009091000001      | All Employees: Government: Federal Government in Boulder, CO (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU08145009091000001      | All Employees: Government: Federal Government in Boulder, CO (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU08145009091000001A     | All Employees: Federal Government in Boulder, CO (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| SMU08145009091000001SA    | All Employees: Government: Federal Government in Boulder, CO (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| SMU08145009092000001      | All Employees: Government: State Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU08145009091000001SA    | All Employees: Government: Federal Government in Boulder, CO (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU08145009092000001      | All Employees: Government: State Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU08145009092000001A     | All Employees: State Government in Boulder, CO (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| SMU08145009092000001SA    | All Employees: Government: State Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU08145009092161101      | All Employees: Government: State Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SMU08145009092000001SA    | All Employees: Government: State Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU08145009092161101      | All Employees: Government: State Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | SMU08145009092161101A     | All Employees: State Government Educational Services in Boulder, CO (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU08145009092161101SA    | All Employees: Government: State Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| SMU08145009093000001      | All Employees: Government: Local Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU08145009092161101SA    | All Employees: Government: State Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| SMU08145009093000001      | All Employees: Government: Local Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU08145009093000001A     | All Employees: Local Government in Boulder, CO (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| SMU08145009093000001SA    | All Employees: Government: Local Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU08145009093161101      | All Employees: Government: Local Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SMU08145009093000001SA    | All Employees: Government: Local Government in Boulder, CO (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU08145009093161101      | All Employees: Government: Local Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | SMU08145009093161101A     | All Employees: Local Government Educational Services in Boulder, CO (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU08145009093161101SA    | All Employees: Government: Local Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SMU08145009093161101SA    | All Employees: Government: Local Government Educational Services in Boulder, CO (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | SUSCMSA14500              | Market Hotness: Supply Score in Boulder, CO (CBSA)                                                                       | 2017-08-01          | 2022-01-01        |

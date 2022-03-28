@@ -82,68 +82,68 @@
 | SALI524PCPI               | Per Capita Personal Income in Salisbury, MD-DE (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | SALI524UR                 | Unemployment Rate in Salisbury, MD-DE (MSA)                                                                       | 2000-01-01          | 2014-12-01        |
 | SALI524URN                | Unemployment Rate in Salisbury, MD-DE (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| SBYPOP                    | Resident Population in Salisbury, MD-DE (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| SMU10415400000000001      | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SBYPOP                    | Resident Population in Salisbury, MD-DE (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| SMU10415400000000001      | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU10415400000000001A     | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU10415400000000001SA    | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU10415400500000001      | All Employees: Total Private in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU10415400000000001SA    | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU10415400500000001      | All Employees: Total Private in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU10415400500000001A     | All Employees: Total Private in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU10415400500000001SA    | All Employees: Total Private in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU10415400500000002      | Average Weekly Hours of All Employees: Total Private in Salisbury, MD-DE (MSA)                                    | 2011-01-01          | 2022-01-01        |
+| SMU10415400500000001SA    | All Employees: Total Private in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU10415400500000002      | Average Weekly Hours of All Employees: Total Private in Salisbury, MD-DE (MSA)                                    | 2011-01-01          | 2022-02-01        |
 | SMU10415400500000002A     | Average Weekly Hours of All Employees: Total Private in Salisbury, MD-DE (MSA)                                    | 2011-01-01          | 2021-01-01        |
-| SMU10415400500000002SA    | Average Weekly Hours of All Employees: Total Private in Salisbury, MD-DE (MSA)                                    | 2011-01-01          | 2022-01-01        |
-| SMU10415400500000003      | Average Hourly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-01-01        |
+| SMU10415400500000002SA    | Average Weekly Hours of All Employees: Total Private in Salisbury, MD-DE (MSA)                                    | 2011-01-01          | 2022-02-01        |
+| SMU10415400500000003      | Average Hourly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-02-01        |
 | SMU10415400500000003A     | Average Hourly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU10415400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-01-01        |
-| SMU10415400500000011      | Average Weekly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-01-01        |
+| SMU10415400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-02-01        |
+| SMU10415400500000011      | Average Weekly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-02-01        |
 | SMU10415400500000011A     | Average Weekly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU10415400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-01-01        |
-| SMU10415400600000001      | All Employees: Goods Producing in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU10415400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Salisbury, MD-DE (MSA)                                 | 2011-01-01          | 2022-02-01        |
+| SMU10415400600000001      | All Employees: Goods Producing in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU10415400600000001A     | All Employees: Goods Producing in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU10415400600000001SA    | All Employees: Goods Producing in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU10415400700000001      | All Employees: Service-Providing in Salisbury, MD-DE (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU10415400600000001SA    | All Employees: Goods Producing in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU10415400700000001      | All Employees: Service-Providing in Salisbury, MD-DE (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU10415400700000001A     | All Employees: Service-Providing in Salisbury, MD-DE (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU10415400700000001SA    | All Employees: Service-Providing in Salisbury, MD-DE (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU10415400800000001      | All Employees: Private Service Providing in Salisbury, MD-DE (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU10415400700000001SA    | All Employees: Service-Providing in Salisbury, MD-DE (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU10415400800000001      | All Employees: Private Service Providing in Salisbury, MD-DE (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU10415400800000001A     | All Employees: Private Service Providing in Salisbury, MD-DE (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU10415400800000001SA    | All Employees: Private Service Providing in Salisbury, MD-DE (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU10415401500000001      | All Employees: Mining, Logging, and Construction in Salisbury, MD-DE (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU10415400800000001SA    | All Employees: Private Service Providing in Salisbury, MD-DE (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU10415401500000001      | All Employees: Mining, Logging, and Construction in Salisbury, MD-DE (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU10415401500000001A     | All Employees: Mining, Logging, and Construction in Salisbury, MD-DE (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU10415401500000001SA    | All Employees: Mining, Logging, and Construction in Salisbury, MD-DE (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU10415403000000001      | All Employees: Manufacturing in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU10415401500000001SA    | All Employees: Mining, Logging, and Construction in Salisbury, MD-DE (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU10415403000000001      | All Employees: Manufacturing in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU10415403000000001A     | All Employees: Manufacturing in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU10415403000000001SA    | All Employees: Manufacturing in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU10415404000000001      | All Employees: Trade, Transportation, and Utilities in Salisbury, MD-DE (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU10415403000000001SA    | All Employees: Manufacturing in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU10415404000000001      | All Employees: Trade, Transportation, and Utilities in Salisbury, MD-DE (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU10415404000000001A     | All Employees: Trade, Transportation, and Utilities in Salisbury, MD-DE (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU10415404000000001SA    | All Employees: Trade, Transportation, and Utilities in Salisbury, MD-DE (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU10415404100000001      | All Employees: Wholesale Trade in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU10415404000000001SA    | All Employees: Trade, Transportation, and Utilities in Salisbury, MD-DE (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU10415404100000001      | All Employees: Wholesale Trade in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU10415404100000001A     | All Employees: Wholesale Trade in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU10415404100000001SA    | All Employees: Wholesale Trade in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU10415404200000001      | All Employees: Retail Trade in Salisbury, MD-DE (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU10415404100000001SA    | All Employees: Wholesale Trade in Salisbury, MD-DE (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU10415404200000001      | All Employees: Retail Trade in Salisbury, MD-DE (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU10415404200000001A     | All Employees: Retail Trade in Salisbury, MD-DE (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU10415404200000001SA    | All Employees: Retail Trade in Salisbury, MD-DE (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU10415404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Salisbury, MD-DE (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU10415404200000001SA    | All Employees: Retail Trade in Salisbury, MD-DE (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU10415404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Salisbury, MD-DE (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU10415404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Salisbury, MD-DE (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU10415404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Salisbury, MD-DE (MSA) | 1990-01-01          | 2022-01-01        |
-| SMU10415405000000001      | All Employees: Information in Salisbury, MD-DE (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU10415404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Salisbury, MD-DE (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU10415405000000001      | All Employees: Information in Salisbury, MD-DE (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU10415405000000001A     | All Employees: Information in Salisbury, MD-DE (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU10415405000000001SA    | All Employees: Information in Salisbury, MD-DE (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SMU10415405500000001      | All Employees: Financial Activities in Salisbury, MD-DE (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU10415405000000001SA    | All Employees: Information in Salisbury, MD-DE (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU10415405500000001      | All Employees: Financial Activities in Salisbury, MD-DE (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU10415405500000001A     | All Employees: Financial Activities in Salisbury, MD-DE (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU10415405500000001SA    | All Employees: Financial Activities in Salisbury, MD-DE (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SMU10415406000000001      | All Employees: Professional and Business Services in Salisbury, MD-DE (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU10415405500000001SA    | All Employees: Financial Activities in Salisbury, MD-DE (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU10415406000000001      | All Employees: Professional and Business Services in Salisbury, MD-DE (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU10415406000000001A     | All Employees: Professional and Business Services in Salisbury, MD-DE (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU10415406000000001SA    | All Employees: Professional and Business Services in Salisbury, MD-DE (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SMU10415406500000001      | All Employees: Education and Health Services in Salisbury, MD-DE (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU10415406000000001SA    | All Employees: Professional and Business Services in Salisbury, MD-DE (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SMU10415406500000001      | All Employees: Education and Health Services in Salisbury, MD-DE (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU10415406500000001A     | All Employees: Education and Health Services in Salisbury, MD-DE (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU10415406500000001SA    | All Employees: Education and Health Services in Salisbury, MD-DE (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU10415407000000001      | All Employees: Leisure and Hospitality in Salisbury, MD-DE (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU10415406500000001SA    | All Employees: Education and Health Services in Salisbury, MD-DE (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU10415407000000001      | All Employees: Leisure and Hospitality in Salisbury, MD-DE (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU10415407000000001A     | All Employees: Leisure and Hospitality in Salisbury, MD-DE (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU10415407000000001SA    | All Employees: Leisure and Hospitality in Salisbury, MD-DE (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU10415408000000001      | All Employees: Other Services in Salisbury, MD-DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU10415407000000001SA    | All Employees: Leisure and Hospitality in Salisbury, MD-DE (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU10415408000000001      | All Employees: Other Services in Salisbury, MD-DE (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU10415408000000001A     | All Employees: Other Services in Salisbury, MD-DE (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU10415408000000001SA    | All Employees: Other Services in Salisbury, MD-DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SMU10415409000000001      | All Employees: Government in Salisbury, MD-DE (MSA)                                                               | 1990-01-01          | 2022-01-01        |
+| SMU10415408000000001SA    | All Employees: Other Services in Salisbury, MD-DE (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SMU10415409000000001      | All Employees: Government in Salisbury, MD-DE (MSA)                                                               | 1990-01-01          | 2022-02-01        |
 | SMU10415409000000001A     | All Employees: Government in Salisbury, MD-DE (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU10415409000000001SA    | All Employees: Government in Salisbury, MD-DE (MSA)                                                               | 1990-01-01          | 2022-01-01        |
+| SMU10415409000000001SA    | All Employees: Government in Salisbury, MD-DE (MSA)                                                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA41540              | Market Hotness: Supply Score in Salisbury, MD-DE (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

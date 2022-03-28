@@ -8,31 +8,31 @@
 | AVELISPRIMM21140          | Housing Inventory: Average Listing Price Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY21140          | Housing Inventory: Average Listing Price Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | DESCMSA21140              | Market Hotness: Demand Score in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-01-01        |
-| ELKH118EDUH               | All Employees: Education and Health Services in Elkhart-Goshen, IN (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ELKH118EDUHN              | All Employees: Education and Health Services in Elkhart-Goshen, IN (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ELKH118FIRE               | All Employees: Financial Activities in Elkhart-Goshen, IN (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| ELKH118FIREN              | All Employees: Financial Activities in Elkhart-Goshen, IN (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| ELKH118GOVT               | All Employees: Government in Elkhart-Goshen, IN (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| ELKH118GOVTN              | All Employees: Government in Elkhart-Goshen, IN (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| ELKH118INFO               | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2022-01-01        |
-| ELKH118INFON              | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2022-01-01        |
-| ELKH118LEIH               | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| ELKH118LEIHN              | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| ELKH118EDUH               | All Employees: Education and Health Services in Elkhart-Goshen, IN (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ELKH118EDUHN              | All Employees: Education and Health Services in Elkhart-Goshen, IN (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ELKH118FIRE               | All Employees: Financial Activities in Elkhart-Goshen, IN (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| ELKH118FIREN              | All Employees: Financial Activities in Elkhart-Goshen, IN (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| ELKH118GOVT               | All Employees: Government in Elkhart-Goshen, IN (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| ELKH118GOVTN              | All Employees: Government in Elkhart-Goshen, IN (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| ELKH118INFO               | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2022-02-01        |
+| ELKH118INFON              | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2022-02-01        |
+| ELKH118LEIH               | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| ELKH118LEIHN              | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | ELKH118LF                 | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
 | ELKH118LFN                | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| ELKH118MFG                | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ELKH118MFGN               | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ELKH118NA                 | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ELKH118NAN                | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1975-01-01          | 2022-01-01        |
-| ELKH118NRMN               | All Employees: Mining, Logging, and Construction in Elkhart-Goshen, IN (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| ELKH118NRMNN              | All Employees: Mining, Logging, and Construction in Elkhart-Goshen, IN (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| ELKH118PBSV               | All Employees: Professional and Business Services in Elkhart-Goshen, IN (MSA)                                         | 1990-01-01          | 2022-01-01        |
-| ELKH118PBSVN              | All Employees: Professional and Business Services in Elkhart-Goshen, IN (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| ELKH118MFG                | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ELKH118MFGN               | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ELKH118NA                 | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ELKH118NAN                | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1975-01-01          | 2022-02-01        |
+| ELKH118NRMN               | All Employees: Mining, Logging, and Construction in Elkhart-Goshen, IN (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| ELKH118NRMNN              | All Employees: Mining, Logging, and Construction in Elkhart-Goshen, IN (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| ELKH118PBSV               | All Employees: Professional and Business Services in Elkhart-Goshen, IN (MSA)                                         | 1990-01-01          | 2022-02-01        |
+| ELKH118PBSVN              | All Employees: Professional and Business Services in Elkhart-Goshen, IN (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | ELKH118PCPI               | Per Capita Personal Income in Elkhart-Goshen, IN (MSA)                                                                | 1969-01-01          | 2020-01-01        |
-| ELKH118SRVO               | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| ELKH118SRVON              | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| ELKH118TRAD               | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| ELKH118TRADN              | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| ELKH118SRVO               | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| ELKH118SRVON              | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| ELKH118TRAD               | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| ELKH118TRADN              | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
 | ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
 | ELKPOP                    | Resident Population in Elkhart-Goshen, IN (MSA)                                                                       | 2000-01-01          | 2020-01-01        |
@@ -107,53 +107,53 @@
 | RPPGOOD21140              | Regional Price Parities: Goods for Elkhart-Goshen, IN (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH21140          | Regional Price Parities: Services: Other for Elkhart-Goshen, IN (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT21140         | Regional Price Parities: Services: Rents for Elkhart-Goshen, IN (MSA)                                                 | 2008-01-01          | 2020-01-01        |
-| SMS18211400000000026      | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1990-04-01          | 2022-01-01        |
+| SMS18211400000000026      | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1990-04-01          | 2022-02-01        |
 | SMU18211400000000001A     | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1975-01-01          | 2021-01-01        |
-| SMU18211400500000001      | All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU18211400500000001      | All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU18211400500000001A     | All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU18211400500000001SA    | All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SMU18211400500000002      | Average Weekly Hours of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                      | 2007-01-01          | 2022-01-01        |
+| SMU18211400500000001SA    | All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU18211400500000002      | Average Weekly Hours of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                      | 2007-01-01          | 2022-02-01        |
 | SMU18211400500000002A     | Average Weekly Hours of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                      | 2007-01-01          | 2021-01-01        |
-| SMU18211400500000002SA    | Average Weekly Hours of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                      | 2007-01-01          | 2022-01-01        |
-| SMU18211400500000003      | Average Hourly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-01-01        |
+| SMU18211400500000002SA    | Average Weekly Hours of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                      | 2007-01-01          | 2022-02-01        |
+| SMU18211400500000003      | Average Hourly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-02-01        |
 | SMU18211400500000003A     | Average Hourly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2021-01-01        |
-| SMU18211400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-01-01        |
-| SMU18211400500000011      | Average Weekly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-01-01        |
+| SMU18211400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-02-01        |
+| SMU18211400500000011      | Average Weekly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-02-01        |
 | SMU18211400500000011A     | Average Weekly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2021-01-01        |
-| SMU18211400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-01-01        |
-| SMU18211400600000001      | All Employees: Goods Producing in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18211400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Elkhart-Goshen, IN (MSA)                                   | 2007-01-01          | 2022-02-01        |
+| SMU18211400600000001      | All Employees: Goods Producing in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18211400600000001A     | All Employees: Goods Producing in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18211400600000001SA    | All Employees: Goods Producing in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18211400700000001      | All Employees: Service-Providing in Elkhart-Goshen, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18211400600000001SA    | All Employees: Goods Producing in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18211400700000001      | All Employees: Service-Providing in Elkhart-Goshen, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18211400700000001A     | All Employees: Service-Providing in Elkhart-Goshen, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18211400700000001SA    | All Employees: Service-Providing in Elkhart-Goshen, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18211400800000001      | All Employees: Private Service Providing in Elkhart-Goshen, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU18211400700000001SA    | All Employees: Service-Providing in Elkhart-Goshen, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18211400800000001      | All Employees: Private Service Providing in Elkhart-Goshen, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU18211400800000001A     | All Employees: Private Service Providing in Elkhart-Goshen, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU18211400800000001SA    | All Employees: Private Service Providing in Elkhart-Goshen, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU18211400800000001SA    | All Employees: Private Service Providing in Elkhart-Goshen, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU18211401500000001A     | All Employees: Mining, Logging, and Construction in Elkhart-Goshen, IN (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU18211403000000001A     | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU18211403100000001      | All Employees: Manufacturing: Durable Goods in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU18211403100000001      | All Employees: Manufacturing: Durable Goods in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU18211403100000001A     | All Employees: Manufacturing: Durable Goods in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU18211403100000001SA    | All Employees: Manufacturing: Durable Goods in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU18211403133600001      | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Elkhart-Goshen, IN (MSA)       | 1990-01-01          | 2022-01-01        |
+| SMU18211403100000001SA    | All Employees: Manufacturing: Durable Goods in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU18211403133600001      | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Elkhart-Goshen, IN (MSA)       | 1990-01-01          | 2022-02-01        |
 | SMU18211403133600001A     | All Employees: Durable Goods: Transportation Equipment Manufacturing in Elkhart-Goshen, IN (MSA)                      | 1990-01-01          | 2021-01-01        |
-| SMU18211403133600001SA    | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Elkhart-Goshen, IN (MSA)       | 1990-01-01          | 2022-01-01        |
-| SMU18211403133620001      | All Employees: Manufacturing: Durable Goods: Motor Vehicle Body and Trailer Manufacturing in Elkhart-Goshen, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18211403133600001SA    | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Elkhart-Goshen, IN (MSA)       | 1990-01-01          | 2022-02-01        |
+| SMU18211403133620001      | All Employees: Manufacturing: Durable Goods: Motor Vehicle Body and Trailer Manufacturing in Elkhart-Goshen, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18211403133620001A     | All Employees: Durable Goods: Motor Vehicle Body and Trailer Manufacturing in Elkhart-Goshen, IN (MSA)                | 1990-01-01          | 2021-01-01        |
-| SMU18211403133620001SA    | All Employees: Manufacturing: Durable Goods: Motor Vehicle Body and Trailer Manufacturing in Elkhart-Goshen, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18211403133620001SA    | All Employees: Manufacturing: Durable Goods: Motor Vehicle Body and Trailer Manufacturing in Elkhart-Goshen, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18211403133700001      | All Employees: Durable Goods: Furniture and Related Product Manufacturing in Elkhart-Goshen, IN (MSA)                 | 2002-01-01          | 2017-12-01        |
 | SMU18211403133700001A     | All Employees: Durable Goods: Furniture and Related Product Manufacturing in Elkhart-Goshen, IN (MSA)                 | 2002-01-01          | 2016-01-01        |
 | SMU18211403133700001SA    | All Employees: Durable Goods: Furniture and Related Product Manufacturing in Elkhart-Goshen, IN (MSA)                 | 2002-01-01          | 2017-12-01        |
 | SMU18211404000000001A     | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU18211404100000001      | All Employees: Wholesale Trade in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18211404100000001      | All Employees: Wholesale Trade in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18211404100000001A     | All Employees: Wholesale Trade in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18211404100000001SA    | All Employees: Wholesale Trade in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18211404200000001      | All Employees: Retail Trade in Elkhart-Goshen, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
+| SMU18211404100000001SA    | All Employees: Wholesale Trade in Elkhart-Goshen, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18211404200000001      | All Employees: Retail Trade in Elkhart-Goshen, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
 | SMU18211404200000001A     | All Employees: Retail Trade in Elkhart-Goshen, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18211404200000001SA    | All Employees: Retail Trade in Elkhart-Goshen, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SMU18211404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Elkhart-Goshen, IN (MSA)   | 1990-01-01          | 2022-01-01        |
+| SMU18211404200000001SA    | All Employees: Retail Trade in Elkhart-Goshen, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SMU18211404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Elkhart-Goshen, IN (MSA)   | 1990-01-01          | 2022-02-01        |
 | SMU18211404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Elkhart-Goshen, IN (MSA)   | 1990-01-01          | 2021-01-01        |
-| SMU18211404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Elkhart-Goshen, IN (MSA)   | 1990-01-01          | 2022-01-01        |
+| SMU18211404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Elkhart-Goshen, IN (MSA)   | 1990-01-01          | 2022-02-01        |
 | SMU18211405000000001A     | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | SMU18211405500000001A     | All Employees: Financial Activities in Elkhart-Goshen, IN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
 | SMU18211406000000001A     | All Employees: Professional and Business Services in Elkhart-Goshen, IN (MSA)                                         | 1990-01-01          | 2021-01-01        |
@@ -161,15 +161,15 @@
 | SMU18211407000000001A     | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | SMU18211408000000001A     | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | SMU18211409000000001A     | All Employees: Government in Elkhart-Goshen, IN (MSA)                                                                 | 1990-01-01          | 2021-01-01        |
-| SMU18211409091000001      | All Employees: Government: Federal Government in Elkhart-Goshen, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18211409091000001      | All Employees: Government: Federal Government in Elkhart-Goshen, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18211409091000001A     | All Employees: Federal Government in Elkhart-Goshen, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18211409091000001SA    | All Employees: Government: Federal Government in Elkhart-Goshen, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18211409092000001      | All Employees: Government: State Government in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU18211409091000001SA    | All Employees: Government: Federal Government in Elkhart-Goshen, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18211409092000001      | All Employees: Government: State Government in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU18211409092000001A     | All Employees: State Government in Elkhart-Goshen, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU18211409093000001      | All Employees: Government: Local Government in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU18211409093000001      | All Employees: Government: Local Government in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU18211409093000001A     | All Employees: Local Government in Elkhart-Goshen, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU18211409093000001SA    | All Employees: Government: Local Government in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU18211409093161101      | All Employees: Government: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                          | 1990-01-01          | 2022-01-01        |
+| SMU18211409093000001SA    | All Employees: Government: Local Government in Elkhart-Goshen, IN (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU18211409093161101      | All Employees: Government: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                          | 1990-01-01          | 2022-02-01        |
 | SMU18211409093161101A     | All Employees: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                                      | 1990-01-01          | 2021-01-01        |
-| SMU18211409093161101SA    | All Employees: Government: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                          | 1990-01-01          | 2022-01-01        |
+| SMU18211409093161101SA    | All Employees: Government: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                          | 1990-01-01          | 2022-02-01        |
 | SUSCMSA21140              | Market Hotness: Supply Score in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-01-01        |

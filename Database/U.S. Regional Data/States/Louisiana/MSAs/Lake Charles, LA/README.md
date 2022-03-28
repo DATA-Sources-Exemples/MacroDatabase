@@ -25,21 +25,21 @@
 | HORAYYMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2018-08-01          | 2022-01-01        |
 | HOSCMSA29340              | Market Hotness: Hotness Score in Lake Charles, LA (CBSA)                                                                      | 2017-08-01          | 2022-01-01        |
 | IRPD29340                 | Implicit Regional Price Deflator for Lake Charles, LA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAKE322GOVT               | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-01-01        |
-| LAKE322GOVTN              | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-01-01        |
-| LAKE322LEIH               | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LAKE322LEIHN              | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| LAKE322GOVT               | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| LAKE322GOVTN              | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| LAKE322LEIH               | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LAKE322LEIHN              | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | LAKE322LF                 | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2022-01-01        |
 | LAKE322LFN                | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2022-01-01        |
-| LAKE322MFG                | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAKE322MFGN               | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAKE322NA                 | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAKE322NAN                | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAKE322PBSV               | All Employees: Professional and Business Services in Lake Charles, LA (MSA)                                                   | 2003-01-01          | 2022-01-01        |
-| LAKE322PBSVN              | All Employees: Professional and Business Services in Lake Charles, LA (MSA)                                                   | 2003-01-01          | 2022-01-01        |
+| LAKE322MFG                | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAKE322MFGN               | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAKE322NA                 | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAKE322NAN                | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAKE322PBSV               | All Employees: Professional and Business Services in Lake Charles, LA (MSA)                                                   | 2003-01-01          | 2022-02-01        |
+| LAKE322PBSVN              | All Employees: Professional and Business Services in Lake Charles, LA (MSA)                                                   | 2003-01-01          | 2022-02-01        |
 | LAKE322PCPI               | Per Capita Personal Income in Lake Charles, LA (MSA)                                                                          | 1969-01-01          | 2020-01-01        |
-| LAKE322TRAD               | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| LAKE322TRADN              | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| LAKE322TRAD               | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| LAKE322TRADN              | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | LAKE322UR                 | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2022-01-01        |
 | LAKE322URN                | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2022-01-01        |
 | LAUMT222934000000003A     | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
@@ -97,68 +97,68 @@
 | RPPGOOD29340              | Regional Price Parities: Goods for Lake Charles, LA (MSA)                                                                     | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH29340          | Regional Price Parities: Services: Other for Lake Charles, LA (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT29340         | Regional Price Parities: Services: Rents for Lake Charles, LA (MSA)                                                           | 2008-01-01          | 2020-01-01        |
-| SMS22293400000000026      | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-04-01          | 2022-01-01        |
+| SMS22293400000000026      | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-04-01          | 2022-02-01        |
 | SMU22293400000000001A     | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22293400500000001      | All Employees: Total Private in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
+| SMU22293400500000001      | All Employees: Total Private in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
 | SMU22293400500000001A     | All Employees: Total Private in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22293400500000001SA    | All Employees: Total Private in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| SMU22293400500000002      | Average Weekly Hours of All Employees: Total Private in Lake Charles, LA (MSA)                                                | 2007-01-01          | 2022-01-01        |
+| SMU22293400500000001SA    | All Employees: Total Private in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| SMU22293400500000002      | Average Weekly Hours of All Employees: Total Private in Lake Charles, LA (MSA)                                                | 2007-01-01          | 2022-02-01        |
 | SMU22293400500000002A     | Average Weekly Hours of All Employees: Total Private in Lake Charles, LA (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU22293400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lake Charles, LA (MSA)                                                | 2007-01-01          | 2022-01-01        |
-| SMU22293400500000003      | Average Hourly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
+| SMU22293400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lake Charles, LA (MSA)                                                | 2007-01-01          | 2022-02-01        |
+| SMU22293400500000003      | Average Hourly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
 | SMU22293400500000003A     | Average Hourly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22293400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
-| SMU22293400500000011      | Average Weekly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
+| SMU22293400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
+| SMU22293400500000011      | Average Weekly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
 | SMU22293400500000011A     | Average Weekly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22293400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
-| SMU22293400600000001      | All Employees: Goods Producing in Lake Charles, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| SMU22293400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lake Charles, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
+| SMU22293400600000001      | All Employees: Goods Producing in Lake Charles, LA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
 | SMU22293400600000001A     | All Employees: Goods Producing in Lake Charles, LA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| SMU22293400600000001SA    | All Employees: Goods Producing in Lake Charles, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| SMU22293400700000001      | All Employees: Service-Providing in Lake Charles, LA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
+| SMU22293400600000001SA    | All Employees: Goods Producing in Lake Charles, LA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
+| SMU22293400700000001      | All Employees: Service-Providing in Lake Charles, LA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
 | SMU22293400700000001A     | All Employees: Service-Providing in Lake Charles, LA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| SMU22293400700000001SA    | All Employees: Service-Providing in Lake Charles, LA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SMU22293400800000001      | All Employees: Private Service Providing in Lake Charles, LA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU22293400700000001SA    | All Employees: Service-Providing in Lake Charles, LA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SMU22293400800000001      | All Employees: Private Service Providing in Lake Charles, LA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU22293400800000001A     | All Employees: Private Service Providing in Lake Charles, LA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU22293400800000001SA    | All Employees: Private Service Providing in Lake Charles, LA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU22293401000000001      | All Employees: Mining and Logging in Lake Charles, LA (MSA)                                                                   | 2005-01-01          | 2022-01-01        |
+| SMU22293400800000001SA    | All Employees: Private Service Providing in Lake Charles, LA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU22293401000000001      | All Employees: Mining and Logging in Lake Charles, LA (MSA)                                                                   | 2005-01-01          | 2022-02-01        |
 | SMU22293401000000001A     | All Employees: Mining and Logging in Lake Charles, LA (MSA)                                                                   | 2005-01-01          | 2021-01-01        |
-| SMU22293401000000001SA    | All Employees: Mining and Logging in Lake Charles, LA (MSA)                                                                   | 2005-01-01          | 2022-01-01        |
-| SMU22293401500000001      | All Employees: Mining, Logging, and Construction in Lake Charles, LA (MSA)                                                    | 2005-01-01          | 2022-01-01        |
+| SMU22293401000000001SA    | All Employees: Mining and Logging in Lake Charles, LA (MSA)                                                                   | 2005-01-01          | 2022-02-01        |
+| SMU22293401500000001      | All Employees: Mining, Logging, and Construction in Lake Charles, LA (MSA)                                                    | 2005-01-01          | 2022-02-01        |
 | SMU22293401500000001A     | All Employees: Mining, Logging, and Construction in Lake Charles, LA (MSA)                                                    | 2005-01-01          | 2021-01-01        |
-| SMU22293401500000001SA    | All Employees: Mining, Logging, and Construction in Lake Charles, LA (MSA)                                                    | 2005-01-01          | 2022-01-01        |
-| SMU22293402000000001      | All Employees: Construction in Lake Charles, LA (MSA)                                                                         | 2005-01-01          | 2022-01-01        |
+| SMU22293401500000001SA    | All Employees: Mining, Logging, and Construction in Lake Charles, LA (MSA)                                                    | 2005-01-01          | 2022-02-01        |
+| SMU22293402000000001      | All Employees: Construction in Lake Charles, LA (MSA)                                                                         | 2005-01-01          | 2022-02-01        |
 | SMU22293402000000001A     | All Employees: Construction in Lake Charles, LA (MSA)                                                                         | 2005-01-01          | 2021-01-01        |
-| SMU22293402000000001SA    | All Employees: Construction in Lake Charles, LA (MSA)                                                                         | 2005-01-01          | 2022-01-01        |
-| SMU22293402023700001      | All Employees: Construction: Heavy and Civil Engineering Construction in Lake Charles, LA (MSA)                               | 2005-01-01          | 2022-01-01        |
+| SMU22293402000000001SA    | All Employees: Construction in Lake Charles, LA (MSA)                                                                         | 2005-01-01          | 2022-02-01        |
+| SMU22293402023700001      | All Employees: Construction: Heavy and Civil Engineering Construction in Lake Charles, LA (MSA)                               | 2005-01-01          | 2022-02-01        |
 | SMU22293402023700001A     | All Employees: Construction: Heavy and Civil Engineering Construction in Lake Charles, LA (MSA)                               | 2005-01-01          | 2021-01-01        |
-| SMU22293402023700001SA    | All Employees: Construction: Heavy and Civil Engineering Construction in Lake Charles, LA (MSA)                               | 2005-01-01          | 2022-01-01        |
+| SMU22293402023700001SA    | All Employees: Construction: Heavy and Civil Engineering Construction in Lake Charles, LA (MSA)                               | 2005-01-01          | 2022-02-01        |
 | SMU22293403000000001A     | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22293403200000001      | All Employees: Manufacturing: Non-Durable Goods in Lake Charles, LA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU22293403200000001      | All Employees: Manufacturing: Non-Durable Goods in Lake Charles, LA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU22293403200000001A     | All Employees: Manufacturing: Non-Durable Goods in Lake Charles, LA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU22293403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Lake Charles, LA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU22293403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Lake Charles, LA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU22293403232004501      | All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Chemical Mfg in Lake Charles, LA (MSA)                 | 2004-01-01          | 2016-12-01        |
 | SMU22293403232004501A     | All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Chemical Mfg in Lake Charles, LA (MSA)                 | 2004-01-01          | 2015-01-01        |
 | SMU22293403232004501SA    | All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Chemical Mfg in Lake Charles, LA (MSA)                 | 2004-01-01          | 2016-12-01        |
 | SMU22293404000000001A     | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU22293404200000001      | All Employees: Retail Trade in Lake Charles, LA (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22293404200000001      | All Employees: Retail Trade in Lake Charles, LA (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22293404200000001A     | All Employees: Retail Trade in Lake Charles, LA (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
-| SMU22293404200000001SA    | All Employees: Retail Trade in Lake Charles, LA (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22293404200000001SA    | All Employees: Retail Trade in Lake Charles, LA (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22293404244008201      | All Employees: Retail Trade: Clothing and Clothing Accessory Stores, and General Merchandise Stores in Lake Charles, LA (MSA) | 2004-01-01          | 2016-12-01        |
 | SMU22293404244008201A     | All Employees: Retail Trade: Clothing and Clothing Accessory Stores, and General Merchandise Stores in Lake Charles, LA (MSA) | 2004-01-01          | 2015-01-01        |
 | SMU22293404244008201SA    | All Employees: Retail Trade: Clothing and Clothing Accessory Stores, and General Merchandise Stores in Lake Charles, LA (MSA) | 2004-01-01          | 2016-12-01        |
 | SMU22293406000000001A     | All Employees: Professional and Business Services in Lake Charles, LA (MSA)                                                   | 2003-01-01          | 2021-01-01        |
 | SMU22293407000000001A     | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU22293407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lake Charles, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU22293407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lake Charles, LA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU22293407072000001A     | All Employees: Accommodation and Food Services in Lake Charles, LA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU22293407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lake Charles, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU22293407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lake Charles, LA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU22293409000000001A     | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
-| SMU22293409091000001      | All Employees: Government: Federal Government in Lake Charles, LA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU22293409091000001      | All Employees: Government: Federal Government in Lake Charles, LA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU22293409091000001A     | All Employees: Federal Government in Lake Charles, LA (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| SMU22293409091000001SA    | All Employees: Government: Federal Government in Lake Charles, LA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| SMU22293409092000001      | All Employees: Government: State Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22293409091000001SA    | All Employees: Government: Federal Government in Lake Charles, LA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU22293409092000001      | All Employees: Government: State Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22293409092000001A     | All Employees: State Government in Lake Charles, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| SMU22293409092000001SA    | All Employees: Government: State Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU22293409093000001      | All Employees: Government: Local Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22293409092000001SA    | All Employees: Government: State Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU22293409093000001      | All Employees: Government: Local Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22293409093000001A     | All Employees: Local Government in Lake Charles, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| SMU22293409093000001SA    | All Employees: Government: Local Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22293409093000001SA    | All Employees: Government: Local Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SUSCMSA29340              | Market Hotness: Supply Score in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-01-01        |

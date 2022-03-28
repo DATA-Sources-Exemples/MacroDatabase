@@ -8,15 +8,15 @@
 | AVELISPRIMM20220          | Housing Inventory: Average Listing Price Month-Over-Month in Dubuque, IA (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY20220          | Housing Inventory: Average Listing Price Year-Over-Year in Dubuque, IA (CBSA)                  | 2017-07-01          | 2022-01-01        |
 | DUBPOP                    | Resident Population in Dubuque, IA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| DUBU219GOVT               | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| DUBU219GOVTN              | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| DUBU219GOVT               | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| DUBU219GOVTN              | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | DUBU219LF                 | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | DUBU219LFN                | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| DUBU219NA                 | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| DUBU219NAN                | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1960-01-01          | 2022-01-01        |
+| DUBU219NA                 | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| DUBU219NAN                | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1960-01-01          | 2022-02-01        |
 | DUBU219PCPI               | Per Capita Personal Income in Dubuque, IA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| DUBU219TRAD               | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-01-01        |
-| DUBU219TRADN              | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-01-01        |
+| DUBU219TRAD               | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-02-01        |
+| DUBU219TRADN              | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-02-01        |
 | DUBU219UR                 | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | DUBU219URN                | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ENUC202230010             | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2021-07-01        |
@@ -72,39 +72,39 @@
 | RPPGOOD20220              | Regional Price Parities: Goods for Dubuque, IA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH20220          | Regional Price Parities: Services: Other for Dubuque, IA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT20220         | Regional Price Parities: Services: Rents for Dubuque, IA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS19202200000000026      | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS19202200000000026      | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU19202200000000001A     | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1960-01-01          | 2021-01-01        |
-| SMU19202200500000001      | All Employees: Total Private in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU19202200500000001      | All Employees: Total Private in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU19202200500000001A     | All Employees: Total Private in Dubuque, IA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU19202200500000001SA    | All Employees: Total Private in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU19202200500000002      | Average Weekly Hours of All Employees: Total Private in Dubuque, IA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU19202200500000001SA    | All Employees: Total Private in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU19202200500000002      | Average Weekly Hours of All Employees: Total Private in Dubuque, IA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU19202200500000002A     | Average Weekly Hours of All Employees: Total Private in Dubuque, IA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU19202200500000002SA    | Average Weekly Hours of All Employees: Total Private in Dubuque, IA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU19202200500000003      | Average Hourly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU19202200500000002SA    | Average Weekly Hours of All Employees: Total Private in Dubuque, IA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU19202200500000003      | Average Hourly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU19202200500000003A     | Average Hourly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19202200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU19202200500000011      | Average Weekly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU19202200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU19202200500000011      | Average Weekly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU19202200500000011A     | Average Weekly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19202200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU19202200600000001      | All Employees: Goods Producing in Dubuque, IA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU19202200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Dubuque, IA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU19202200600000001      | All Employees: Goods Producing in Dubuque, IA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU19202200600000001A     | All Employees: Goods Producing in Dubuque, IA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU19202200600000001SA    | All Employees: Goods Producing in Dubuque, IA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU19202200700000001      | All Employees: Service-Providing in Dubuque, IA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU19202200600000001SA    | All Employees: Goods Producing in Dubuque, IA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU19202200700000001      | All Employees: Service-Providing in Dubuque, IA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU19202200700000001A     | All Employees: Service-Providing in Dubuque, IA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU19202200700000001SA    | All Employees: Service-Providing in Dubuque, IA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU19202200800000001      | All Employees: Private Service Providing in Dubuque, IA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU19202200700000001SA    | All Employees: Service-Providing in Dubuque, IA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU19202200800000001      | All Employees: Private Service Providing in Dubuque, IA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU19202200800000001A     | All Employees: Private Service Providing in Dubuque, IA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU19202200800000001SA    | All Employees: Private Service Providing in Dubuque, IA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU19202200800000001SA    | All Employees: Private Service Providing in Dubuque, IA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU19202204000000001A     | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2021-01-01        |
-| SMU19202204200000001      | All Employees: Retail Trade in Dubuque, IA (MSA)                                               | 2004-01-01          | 2022-01-01        |
+| SMU19202204200000001      | All Employees: Retail Trade in Dubuque, IA (MSA)                                               | 2004-01-01          | 2022-02-01        |
 | SMU19202204200000001A     | All Employees: Retail Trade in Dubuque, IA (MSA)                                               | 2004-01-01          | 2021-01-01        |
-| SMU19202204200000001SA    | All Employees: Retail Trade in Dubuque, IA (MSA)                                               | 2004-01-01          | 2022-01-01        |
+| SMU19202204200000001SA    | All Employees: Retail Trade in Dubuque, IA (MSA)                                               | 2004-01-01          | 2022-02-01        |
 | SMU19202209000000001A     | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU19202209091000001      | All Employees: Government: Federal Government in Dubuque, IA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU19202209091000001      | All Employees: Government: Federal Government in Dubuque, IA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU19202209091000001A     | All Employees: Federal Government in Dubuque, IA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU19202209091000001SA    | All Employees: Government: Federal Government in Dubuque, IA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU19202209092000001      | All Employees: Government: State Government in Dubuque, IA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU19202209091000001SA    | All Employees: Government: Federal Government in Dubuque, IA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU19202209092000001      | All Employees: Government: State Government in Dubuque, IA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU19202209092000001A     | All Employees: State Government in Dubuque, IA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU19202209093000001      | All Employees: Government: Local Government in Dubuque, IA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU19202209093000001      | All Employees: Government: Local Government in Dubuque, IA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU19202209093000001A     | All Employees: Local Government in Dubuque, IA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU19202209093000001SA    | All Employees: Government: Local Government in Dubuque, IA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU19202209093000001SA    | All Employees: Government: Local Government in Dubuque, IA (MSA)                               | 1990-01-01          | 2022-02-01        |

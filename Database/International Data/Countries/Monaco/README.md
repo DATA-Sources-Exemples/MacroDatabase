@@ -19,7 +19,7 @@
 | DDEI06MCA156NWDB  | Bank's Return on Equity for Monaco                                 | 1996-01-01          | 1999-01-01        |
 | DDEI07MCA156NWDB  | Bank's Cost to Income Ratio for Monaco                             | 1996-01-01          | 1999-01-01        |
 | DDOI01MCA156NWDB  | Bank Concentration for Monaco                                      | 1996-01-01          | 1999-01-01        |
-| DDOI05MCA156NWDB  | Boone Indicator in Banking Market for Monaco                       | 1999-01-01          | 1999-01-01        |
+| DDOI05MCA156NWDB  | Boone Indicator in Banking Market for Monaco                       | 1999-01-01          | 2004-01-01        |
 | DDOI06MCA156NWDB  | 5-Bank Asset Concentration for Monaco                              | 1996-01-01          | 1999-01-01        |
 | DDSI01MCA645NWDB  | Bank Z-Score for Monaco                                            | 1996-01-01          | 1999-01-01        |
 | DEMCOA475SCEN     | Number of Identified Exporters to Monaco from Delaware             | 2007-01-01          | 2012-01-01        |

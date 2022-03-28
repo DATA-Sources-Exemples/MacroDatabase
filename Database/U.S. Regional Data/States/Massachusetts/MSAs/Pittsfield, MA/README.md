@@ -65,7 +65,7 @@
 | PRIREDCOU38340            | Housing Inventory: Price Reduced Count in Pittsfield, MA (CBSA)                                   | 2016-07-01          | 2022-01-01        |
 | PRIREDCOUMM38340          | Housing Inventory: Price Reduced Count Month-Over-Month in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-01-01        |
 | PRIREDCOUYY38340          | Housing Inventory: Price Reduced Count Year-Over-Year in Pittsfield, MA (CBSA)                    | 2017-07-01          | 2022-01-01        |
-| PTSPOP                    | Resident Population in Pittsfield, MA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| PTSPOP                    | Resident Population in Pittsfield, MA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | QGMP38340                 | Total Quantity Indexes for Real GDP for Pittsfield, MA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP38340                 | Total Real Gross Domestic Product for Pittsfield, MA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI38340                  | Real Personal Income for Pittsfield, MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

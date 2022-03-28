@@ -43,14 +43,14 @@
 | NEWLISCOUYY38220          | Housing Inventory: New Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                      | 2017-07-01          | 2022-01-01        |
 | NGMP38220                 | Total Gross Domestic Product for Pine Bluff, AR (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA138220          | U.S. Granted Utility Patents Originating in Pine Bluff, AR (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PBFGOVT                   | All Employees: Government in Pine Bluff, AR (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| PBFGOVTN                  | All Employees: Government in Pine Bluff, AR (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| PBFGOVT                   | All Employees: Government in Pine Bluff, AR (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| PBFGOVTN                  | All Employees: Government in Pine Bluff, AR (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | PBFLF                     | Civilian Labor Force in Pine Bluff, AR (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | PBFLFN                    | Civilian Labor Force in Pine Bluff, AR (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| PBFNA                     | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| PBFNAN                    | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| PBFNA                     | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| PBFNAN                    | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | PBFPCPI                   | Per Capita Personal Income in Pine Bluff, AR (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| PBFPOP                    | Resident Population in Pine Bluff, AR (MSA)                                                       | 1970-01-01          | 2020-01-01        |
+| PBFPOP                    | Resident Population in Pine Bluff, AR (MSA)                                                       | 1970-01-01          | 2021-01-01        |
 | PBFUR                     | Unemployment Rate in Pine Bluff, AR (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | PBFURN                    | Unemployment Rate in Pine Bluff, AR (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | PENLISCOU38220            | Housing Inventory: Pending Listing Count in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-01-01        |
@@ -70,27 +70,27 @@
 | RPPGOOD38220              | Regional Price Parities: Goods for Pine Bluff, AR (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH38220          | Regional Price Parities: Services: Other for Pine Bluff, AR (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT38220         | Regional Price Parities: Services: Rents for Pine Bluff, AR (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS05382200000000026      | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS05382200000000026      | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU05382200000000001A     | All Employees: Total Nonfarm in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU05382200500000001      | All Employees: Total Private in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU05382200500000001      | All Employees: Total Private in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU05382200500000001A     | All Employees: Total Private in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU05382200500000001SA    | All Employees: Total Private in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU05382200500000002      | Average Weekly Hours of All Employees: Total Private in Pine Bluff, AR (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU05382200500000001SA    | All Employees: Total Private in Pine Bluff, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU05382200500000002      | Average Weekly Hours of All Employees: Total Private in Pine Bluff, AR (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU05382200500000002A     | Average Weekly Hours of All Employees: Total Private in Pine Bluff, AR (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU05382200500000002SA    | Average Weekly Hours of All Employees: Total Private in Pine Bluff, AR (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU05382200500000003      | Average Hourly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU05382200500000002SA    | Average Weekly Hours of All Employees: Total Private in Pine Bluff, AR (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU05382200500000003      | Average Hourly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU05382200500000003A     | Average Hourly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU05382200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU05382200500000011      | Average Weekly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU05382200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU05382200500000011      | Average Weekly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU05382200500000011A     | Average Weekly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU05382200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU05382200600000001      | All Employees: Goods Producing in Pine Bluff, AR (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU05382200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Pine Bluff, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU05382200600000001      | All Employees: Goods Producing in Pine Bluff, AR (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU05382200600000001A     | All Employees: Goods Producing in Pine Bluff, AR (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU05382200600000001SA    | All Employees: Goods Producing in Pine Bluff, AR (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU05382200700000001      | All Employees: Service-Providing in Pine Bluff, AR (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU05382200600000001SA    | All Employees: Goods Producing in Pine Bluff, AR (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU05382200700000001      | All Employees: Service-Providing in Pine Bluff, AR (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU05382200700000001A     | All Employees: Service-Providing in Pine Bluff, AR (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU05382200700000001SA    | All Employees: Service-Providing in Pine Bluff, AR (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU05382200800000001      | All Employees: Private Service Providing in Pine Bluff, AR (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU05382200700000001SA    | All Employees: Service-Providing in Pine Bluff, AR (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU05382200800000001      | All Employees: Private Service Providing in Pine Bluff, AR (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU05382200800000001A     | All Employees: Private Service Providing in Pine Bluff, AR (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU05382200800000001SA    | All Employees: Private Service Providing in Pine Bluff, AR (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU05382200800000001SA    | All Employees: Private Service Providing in Pine Bluff, AR (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU05382209000000001A     | All Employees: Government in Pine Bluff, AR (MSA)                                                 | 1990-01-01          | 2021-01-01        |

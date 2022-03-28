@@ -1,6 +1,6 @@
 | id                   | title                                                                                                              | observation_start   | observation_end   |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMS78000004300000001 | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in the U.S. Virgin Islands | 1990-01-01          | 2022-01-01        |
+| SMS78000004300000001 | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in the U.S. Virgin Islands | 1990-01-01          | 2022-02-01        |
 | VIABWA052SCEN        | Value of Exports to Aruba from U.S. Virgin Islands                                                                 | 2002-01-01          | 2009-01-01        |
 | VIABWA475SCEN        | Number of Identified Exporters to Aruba from U.S. Virgin Islands                                                   | 2002-01-01          | 2014-01-01        |
 | VIAFGA475SCEN        | Number of Identified Exporters to Afghanistan from U.S. Virgin Islands                                             | 2009-01-01          | 2016-01-01        |

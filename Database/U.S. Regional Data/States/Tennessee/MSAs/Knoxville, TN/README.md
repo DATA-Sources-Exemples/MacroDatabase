@@ -22,33 +22,33 @@
 | HORAMSA28940              | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA28940              | Market Hotness: Hotness Score in Knoxville, TN (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG28940               | Job Postings on Indeed in Knoxville, TN (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG28940               | Job Postings on Indeed in Knoxville, TN (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD28940                 | Implicit Regional Price Deflator for Knoxville, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| KNOX947EDUH               | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| KNOX947EDUHN              | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| KNOX947FIRE               | All Employees: Financial Activities in Knoxville, TN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| KNOX947FIREN              | All Employees: Financial Activities in Knoxville, TN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| KNOX947GOVT               | All Employees: Government in Knoxville, TN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| KNOX947GOVTN              | All Employees: Government in Knoxville, TN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| KNOX947INFO               | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| KNOX947INFON              | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| KNOX947LEIH               | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| KNOX947LEIHN              | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| KNOX947EDUH               | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| KNOX947EDUHN              | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| KNOX947FIRE               | All Employees: Financial Activities in Knoxville, TN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| KNOX947FIREN              | All Employees: Financial Activities in Knoxville, TN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| KNOX947GOVT               | All Employees: Government in Knoxville, TN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| KNOX947GOVTN              | All Employees: Government in Knoxville, TN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| KNOX947INFO               | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| KNOX947INFON              | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| KNOX947LEIH               | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| KNOX947LEIHN              | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | KNOX947LF                 | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | KNOX947LFN                | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| KNOX947MFG                | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KNOX947MFGN               | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KNOX947NA                 | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KNOX947NAN                | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KNOX947NRMN               | All Employees: Mining, Logging, and Construction in Knoxville, TN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| KNOX947NRMNN              | All Employees: Mining, Logging, and Construction in Knoxville, TN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| KNOX947PBSV               | All Employees: Professional and Business Services in Knoxville, TN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| KNOX947PBSVN              | All Employees: Professional and Business Services in Knoxville, TN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| KNOX947MFG                | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KNOX947MFGN               | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KNOX947NA                 | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KNOX947NAN                | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KNOX947NRMN               | All Employees: Mining, Logging, and Construction in Knoxville, TN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| KNOX947NRMNN              | All Employees: Mining, Logging, and Construction in Knoxville, TN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| KNOX947PBSV               | All Employees: Professional and Business Services in Knoxville, TN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| KNOX947PBSVN              | All Employees: Professional and Business Services in Knoxville, TN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | KNOX947PCPI               | Per Capita Personal Income in Knoxville, TN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| KNOX947SRVO               | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| KNOX947SRVON              | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| KNOX947TRAD               | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| KNOX947TRADN              | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| KNOX947SRVO               | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| KNOX947SRVON              | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| KNOX947TRAD               | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| KNOX947TRADN              | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | KNOX947UR                 | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | KNOX947URN                | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | KNXPOP                    | Resident Population in Knoxville, TN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -107,47 +107,47 @@
 | RPPSERVEOTH28940          | Regional Price Parities: Services: Other for Knoxville, TN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT28940         | Regional Price Parities: Services: Rents for Knoxville, TN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SMS47289400000000001      | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS47289400000000026      | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS47289400000000026      | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU47289400000000001A     | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47289400500000001      | All Employees: Total Private in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU47289400500000001      | All Employees: Total Private in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47289400500000001A     | All Employees: Total Private in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47289400500000001SA    | All Employees: Total Private in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU47289400500000002      | Average Weekly Hours of All Employees: Total Private in Knoxville, TN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU47289400500000001SA    | All Employees: Total Private in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU47289400500000002      | Average Weekly Hours of All Employees: Total Private in Knoxville, TN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU47289400500000002A     | Average Weekly Hours of All Employees: Total Private in Knoxville, TN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47289400500000002SA    | Average Weekly Hours of All Employees: Total Private in Knoxville, TN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU47289400500000003      | Average Hourly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47289400500000002SA    | Average Weekly Hours of All Employees: Total Private in Knoxville, TN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU47289400500000003      | Average Hourly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47289400500000003A     | Average Hourly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47289400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47289400500000011      | Average Weekly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47289400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47289400500000011      | Average Weekly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47289400500000011A     | Average Weekly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47289400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47289400600000001      | All Employees: Goods Producing in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47289400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Knoxville, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47289400600000001      | All Employees: Goods Producing in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47289400600000001A     | All Employees: Goods Producing in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47289400600000001SA    | All Employees: Goods Producing in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47289400700000001      | All Employees: Service-Providing in Knoxville, TN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU47289400600000001SA    | All Employees: Goods Producing in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47289400700000001      | All Employees: Service-Providing in Knoxville, TN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU47289400700000001A     | All Employees: Service-Providing in Knoxville, TN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU47289400700000001SA    | All Employees: Service-Providing in Knoxville, TN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU47289400800000001      | All Employees: Private Service Providing in Knoxville, TN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47289400700000001SA    | All Employees: Service-Providing in Knoxville, TN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU47289400800000001      | All Employees: Private Service Providing in Knoxville, TN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47289400800000001A     | All Employees: Private Service Providing in Knoxville, TN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU47289400800000001SA    | All Employees: Private Service Providing in Knoxville, TN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47289400800000001SA    | All Employees: Private Service Providing in Knoxville, TN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47289401500000001A     | All Employees: Mining, Logging, and Construction in Knoxville, TN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU47289403000000001A     | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47289403100000001      | All Employees: Manufacturing: Durable Goods in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47289403100000001      | All Employees: Manufacturing: Durable Goods in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47289403100000001A     | All Employees: Manufacturing: Durable Goods in Knoxville, TN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU47289403100000001SA    | All Employees: Manufacturing: Durable Goods in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47289403200000001      | All Employees: Manufacturing: Non-Durable Goods in Knoxville, TN (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU47289403100000001SA    | All Employees: Manufacturing: Durable Goods in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47289403200000001      | All Employees: Manufacturing: Non-Durable Goods in Knoxville, TN (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU47289403200000001A     | All Employees: Manufacturing: Non-Durable Goods in Knoxville, TN (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU47289403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Knoxville, TN (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU47289403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Knoxville, TN (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU47289404000000001A     | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU47289404100000001      | All Employees: Wholesale Trade in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47289404100000001      | All Employees: Wholesale Trade in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47289404100000001A     | All Employees: Wholesale Trade in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47289404100000001SA    | All Employees: Wholesale Trade in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47289404200000001      | All Employees: Retail Trade in Knoxville, TN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU47289404100000001SA    | All Employees: Wholesale Trade in Knoxville, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47289404200000001      | All Employees: Retail Trade in Knoxville, TN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU47289404200000001A     | All Employees: Retail Trade in Knoxville, TN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU47289404200000001SA    | All Employees: Retail Trade in Knoxville, TN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU47289404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Knoxville, TN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47289404200000001SA    | All Employees: Retail Trade in Knoxville, TN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU47289404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Knoxville, TN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47289404300000001A     | All Employees: Transportation and Utilities in Knoxville, TN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU47289404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Knoxville, TN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47289404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Knoxville, TN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47289405000000001A     | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU47289405500000001A     | All Employees: Financial Activities in Knoxville, TN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU47289406000000001A     | All Employees: Professional and Business Services in Knoxville, TN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -155,13 +155,13 @@
 | SMU47289407000000001A     | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU47289408000000001A     | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU47289409000000001A     | All Employees: Government in Knoxville, TN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU47289409091000001      | All Employees: Government: Federal Government in Knoxville, TN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU47289409091000001      | All Employees: Government: Federal Government in Knoxville, TN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU47289409091000001A     | All Employees: Federal Government in Knoxville, TN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU47289409091000001SA    | All Employees: Government: Federal Government in Knoxville, TN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU47289409092000001      | All Employees: Government: State Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47289409091000001SA    | All Employees: Government: Federal Government in Knoxville, TN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU47289409092000001      | All Employees: Government: State Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47289409092000001A     | All Employees: State Government in Knoxville, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47289409092000001SA    | All Employees: Government: State Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47289409093000001      | All Employees: Government: Local Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47289409092000001SA    | All Employees: Government: State Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47289409093000001      | All Employees: Government: Local Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47289409093000001A     | All Employees: Local Government in Knoxville, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47289409093000001SA    | All Employees: Government: Local Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47289409093000001SA    | All Employees: Government: Local Government in Knoxville, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA28940              | Market Hotness: Supply Score in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

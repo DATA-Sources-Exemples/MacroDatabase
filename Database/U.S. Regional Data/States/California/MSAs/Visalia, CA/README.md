@@ -79,116 +79,116 @@
 | RPPGOOD47300              | Regional Price Parities: Goods for Visalia-Porterville, CA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH47300          | Regional Price Parities: Services: Other for Visalia-Porterville, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT47300         | Regional Price Parities: Services: Rents for Visalia-Porterville, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS06473000000000026      | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS06473000000000026      | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU06473000000000001A     | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06473000500000001      | All Employees: Total Private in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU06473000500000001      | All Employees: Total Private in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU06473000500000001A     | All Employees: Total Private in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06473000500000001SA    | All Employees: Total Private in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU06473000500000002      | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU06473000500000001SA    | All Employees: Total Private in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU06473000500000002      | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU06473000500000002A     | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06473000500000002SA    | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU06473000500000003      | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU06473000500000002SA    | Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU06473000500000003      | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU06473000500000003A     | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06473000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU06473000500000011      | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU06473000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU06473000500000011      | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU06473000500000011A     | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06473000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU06473000600000001      | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU06473000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Visalia-Porterville, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU06473000600000001      | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU06473000600000001A     | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU06473000600000001SA    | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU06473000700000001      | All Employees: Service-Providing in Visalia-Porterville, CA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU06473000600000001SA    | All Employees: Goods Producing in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU06473000700000001      | All Employees: Service-Providing in Visalia-Porterville, CA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU06473000700000001A     | All Employees: Service-Providing in Visalia-Porterville, CA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU06473000700000001SA    | All Employees: Service-Providing in Visalia-Porterville, CA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU06473000800000001      | All Employees: Private Service Providing in Visalia-Porterville, CA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU06473000700000001SA    | All Employees: Service-Providing in Visalia-Porterville, CA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU06473000800000001      | All Employees: Private Service Providing in Visalia-Porterville, CA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU06473000800000001A     | All Employees: Private Service Providing in Visalia-Porterville, CA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU06473000800000001SA    | All Employees: Private Service Providing in Visalia-Porterville, CA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU06473000800000001SA    | All Employees: Private Service Providing in Visalia-Porterville, CA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU06473001500000001A     | All Employees: Mining, Logging, and Construction in Visalia-Porterville, CA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU06473003000000001A     | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06473003100000001      | All Employees: Manufacturing: Durable Goods in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06473003100000001      | All Employees: Manufacturing: Durable Goods in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06473003100000001A     | All Employees: Manufacturing: Durable Goods in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU06473003100000001SA    | All Employees: Manufacturing: Durable Goods in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06473003200000001      | All Employees: Manufacturing: Non-Durable Goods in Visalia-Porterville, CA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU06473003100000001SA    | All Employees: Manufacturing: Durable Goods in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06473003200000001      | All Employees: Manufacturing: Non-Durable Goods in Visalia-Porterville, CA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU06473003200000001A     | All Employees: Manufacturing: Non-Durable Goods in Visalia-Porterville, CA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU06473003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Visalia-Porterville, CA (MSA)                                         | 1990-01-01          | 2022-01-01        |
-| SMU06473003231100001      | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Visalia-Porterville, CA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU06473003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Visalia-Porterville, CA (MSA)                                         | 1990-01-01          | 2022-02-01        |
+| SMU06473003231100001      | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Visalia-Porterville, CA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU06473003231100001A     | All Employees: Non-Durable Goods: Food Manufacturing in Visalia-Porterville, CA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU06473003231100001SA    | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Visalia-Porterville, CA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU06473003231100001SA    | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Visalia-Porterville, CA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU06473004000000001A     | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU06473004100000001      | All Employees: Wholesale Trade in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU06473004100000001      | All Employees: Wholesale Trade in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU06473004100000001A     | All Employees: Wholesale Trade in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU06473004100000001SA    | All Employees: Wholesale Trade in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU06473004200000001      | All Employees: Retail Trade in Visalia-Porterville, CA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU06473004100000001SA    | All Employees: Wholesale Trade in Visalia-Porterville, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU06473004200000001      | All Employees: Retail Trade in Visalia-Porterville, CA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU06473004200000001A     | All Employees: Retail Trade in Visalia-Porterville, CA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU06473004200000001SA    | All Employees: Retail Trade in Visalia-Porterville, CA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU06473004245200001      | All Employees: Retail Trade: General Merchandise Stores in Visalia-Porterville, CA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU06473004200000001SA    | All Employees: Retail Trade in Visalia-Porterville, CA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU06473004245200001      | All Employees: Retail Trade: General Merchandise Stores in Visalia-Porterville, CA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU06473004245200001A     | All Employees: Retail Trade: General Merchandise Stores in Visalia-Porterville, CA (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU06473004245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Visalia-Porterville, CA (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU06473004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Visalia-Porterville, CA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU06473004245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Visalia-Porterville, CA (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU06473004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Visalia-Porterville, CA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU06473004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Visalia-Porterville, CA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU06473004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Visalia-Porterville, CA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU06473004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Visalia-Porterville, CA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU06473005000000001A     | All Employees: Information in Visalia-Porterville, CA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU06473005500000001A     | All Employees: Financial Activities in Visalia-Porterville, CA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU06473005552000001      | All Employees: Financial Activities: Finance and Insurance in Visalia-Porterville, CA (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU06473005552000001      | All Employees: Financial Activities: Finance and Insurance in Visalia-Porterville, CA (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU06473005552000001A     | All Employees: Financial Activities: Finance and Insurance in Visalia-Porterville, CA (MSA)                              | 1990-01-01          | 2021-01-01        |
-| SMU06473005552000001SA    | All Employees: Financial Activities: Finance and Insurance in Visalia-Porterville, CA (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU06473005552000001SA    | All Employees: Financial Activities: Finance and Insurance in Visalia-Porterville, CA (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU06473006000000001A     | All Employees: Professional and Business Services in Visalia-Porterville, CA (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU06473006500000001A     | All Employees: Education and Health Services in Visalia-Porterville, CA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU06473007000000001A     | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU06473007071000001      | All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Visalia-Porterville, CA (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU06473007071000001      | All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Visalia-Porterville, CA (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU06473007071000001A     | All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Visalia-Porterville, CA (MSA)             | 1990-01-01          | 2021-01-01        |
-| SMU06473007071000001SA    | All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Visalia-Porterville, CA (MSA)             | 1990-01-01          | 2022-01-01        |
-| SMU06473007072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| SMU06473007071000001SA    | All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in Visalia-Porterville, CA (MSA)             | 1990-01-01          | 2022-02-01        |
+| SMU06473007072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-02-01        |
 | SMU06473007072000001A     | All Employees: Accommodation and Food Services in Visalia-Porterville, CA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU06473007072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| SMU06473007072100001      | All Employees: Leisure and Hospitality: Accommodation in Visalia-Porterville, CA (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| SMU06473007072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-02-01        |
+| SMU06473007072100001      | All Employees: Leisure and Hospitality: Accommodation in Visalia-Porterville, CA (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | SMU06473007072100001A     | All Employees: Accommodation in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06473007072100001SA    | All Employees: Leisure and Hospitality: Accommodation in Visalia-Porterville, CA (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| SMU06473007072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Visalia-Porterville, CA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU06473007072100001SA    | All Employees: Leisure and Hospitality: Accommodation in Visalia-Porterville, CA (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| SMU06473007072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Visalia-Porterville, CA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU06473007072200001A     | All Employees: Food Services and Drinking Places in Visalia-Porterville, CA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU06473007072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Visalia-Porterville, CA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU06473007072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Visalia-Porterville, CA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU06473008000000001A     | All Employees: Other Services in Visalia-Porterville, CA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU06473009000000001A     | All Employees: Government in Visalia-Porterville, CA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU06473009091000001      | All Employees: Government: Federal Government in Visalia-Porterville, CA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU06473009091000001      | All Employees: Government: Federal Government in Visalia-Porterville, CA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU06473009091000001A     | All Employees: Federal Government in Visalia-Porterville, CA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU06473009091000001SA    | All Employees: Government: Federal Government in Visalia-Porterville, CA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU06473009092000001      | All Employees: Government: State Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06473009091000001SA    | All Employees: Government: Federal Government in Visalia-Porterville, CA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU06473009092000001      | All Employees: Government: State Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06473009092000001A     | All Employees: State Government in Visalia-Porterville, CA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU06473009092000001SA    | All Employees: Government: State Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06473009093000001      | All Employees: Government: Local Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06473009092000001SA    | All Employees: Government: State Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06473009093000001      | All Employees: Government: Local Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06473009093000001A     | All Employees: Local Government in Visalia-Porterville, CA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU06473009093000001SA    | All Employees: Government: Local Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06473009093161101      | All Employees: Government: Local Government Educational Services in Visalia-Porterville, CA (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU06473009093000001SA    | All Employees: Government: Local Government in Visalia-Porterville, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06473009093161101      | All Employees: Government: Local Government Educational Services in Visalia-Porterville, CA (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU06473009093161101A     | All Employees: Local Government Educational Services in Visalia-Porterville, CA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU06473009093161101SA    | All Employees: Government: Local Government Educational Services in Visalia-Porterville, CA (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU06473009093200001      | All Employees: Government: Local Government Excluding Educational Services in Visalia-Porterville, CA (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU06473009093161101SA    | All Employees: Government: Local Government Educational Services in Visalia-Porterville, CA (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU06473009093200001      | All Employees: Government: Local Government Excluding Educational Services in Visalia-Porterville, CA (MSA)              | 1990-01-01          | 2022-02-01        |
 | SMU06473009093200001A     | All Employees: Local Government Excluding Educational Services in Visalia-Porterville, CA (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU06473009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Visalia-Porterville, CA (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU06473009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Visalia-Porterville, CA (MSA)              | 1990-01-01          | 2022-02-01        |
 | SUSCMSA47300              | Market Hotness: Supply Score in Visalia-Porterville, CA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| VISA306EDUH               | All Employees: Education and Health Services in Visalia-Porterville, CA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| VISA306EDUHN              | All Employees: Education and Health Services in Visalia-Porterville, CA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| VISA306FIRE               | All Employees: Financial Activities in Visalia-Porterville, CA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| VISA306FIREN              | All Employees: Financial Activities in Visalia-Porterville, CA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| VISA306GOVT               | All Employees: Government in Visalia-Porterville, CA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| VISA306GOVTN              | All Employees: Government in Visalia-Porterville, CA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| VISA306INFO               | All Employees: Information in Visalia-Porterville, CA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| VISA306INFON              | All Employees: Information in Visalia-Porterville, CA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| VISA306LEIH               | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| VISA306LEIHN              | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| VISA306EDUH               | All Employees: Education and Health Services in Visalia-Porterville, CA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| VISA306EDUHN              | All Employees: Education and Health Services in Visalia-Porterville, CA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| VISA306FIRE               | All Employees: Financial Activities in Visalia-Porterville, CA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| VISA306FIREN              | All Employees: Financial Activities in Visalia-Porterville, CA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| VISA306GOVT               | All Employees: Government in Visalia-Porterville, CA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| VISA306GOVTN              | All Employees: Government in Visalia-Porterville, CA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| VISA306INFO               | All Employees: Information in Visalia-Porterville, CA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| VISA306INFON              | All Employees: Information in Visalia-Porterville, CA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| VISA306LEIH               | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| VISA306LEIHN              | All Employees: Leisure and Hospitality in Visalia-Porterville, CA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | VISA306LF                 | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | VISA306LFN                | Civilian Labor Force in Visalia-Porterville, CA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| VISA306MFG                | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| VISA306MFGN               | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| VISA306NA                 | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| VISA306NAN                | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| VISA306NRMN               | All Employees: Mining, Logging, and Construction in Visalia-Porterville, CA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| VISA306NRMNN              | All Employees: Mining, Logging, and Construction in Visalia-Porterville, CA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| VISA306PBSV               | All Employees: Professional and Business Services in Visalia-Porterville, CA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| VISA306PBSVN              | All Employees: Professional and Business Services in Visalia-Porterville, CA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| VISA306MFG                | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| VISA306MFGN               | All Employees: Manufacturing in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| VISA306NA                 | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| VISA306NAN                | All Employees: Total Nonfarm in Visalia-Porterville, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| VISA306NRMN               | All Employees: Mining, Logging, and Construction in Visalia-Porterville, CA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| VISA306NRMNN              | All Employees: Mining, Logging, and Construction in Visalia-Porterville, CA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| VISA306PBSV               | All Employees: Professional and Business Services in Visalia-Porterville, CA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| VISA306PBSVN              | All Employees: Professional and Business Services in Visalia-Porterville, CA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | VISA306PCPI               | Per Capita Personal Income in Visalia-Porterville, CA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| VISA306SRVO               | All Employees: Other Services in Visalia-Porterville, CA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| VISA306SRVON              | All Employees: Other Services in Visalia-Porterville, CA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| VISA306TRAD               | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| VISA306TRADN              | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| VISA306SRVO               | All Employees: Other Services in Visalia-Porterville, CA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| VISA306SRVON              | All Employees: Other Services in Visalia-Porterville, CA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| VISA306TRAD               | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| VISA306TRADN              | All Employees: Trade, Transportation, and Utilities in Visalia-Porterville, CA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | VISA306UR                 | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | VISA306URN                | Unemployment Rate in Visalia-Porterville, CA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| VTPPOP                    | Resident Population in Visalia-Porterville, CA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| VTPPOP                    | Resident Population in Visalia-Porterville, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

@@ -79,41 +79,41 @@
 | RPPGOOD48660              | Regional Price Parities: Goods for Wichita Falls, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH48660          | Regional Price Parities: Services: Other for Wichita Falls, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT48660         | Regional Price Parities: Services: Rents for Wichita Falls, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48486600000000026      | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48486600000000026      | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48486600000000001A     | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48486600500000001      | All Employees: Total Private in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48486600500000001      | All Employees: Total Private in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48486600500000001A     | All Employees: Total Private in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48486600500000001SA    | All Employees: Total Private in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48486600500000002      | Average Weekly Hours of All Employees: Total Private in Wichita Falls, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48486600500000001SA    | All Employees: Total Private in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48486600500000002      | Average Weekly Hours of All Employees: Total Private in Wichita Falls, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48486600500000002A     | Average Weekly Hours of All Employees: Total Private in Wichita Falls, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48486600500000002SA    | Average Weekly Hours of All Employees: Total Private in Wichita Falls, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48486600500000003      | Average Hourly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48486600500000002SA    | Average Weekly Hours of All Employees: Total Private in Wichita Falls, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48486600500000003      | Average Hourly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48486600500000003A     | Average Hourly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48486600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48486600500000011      | Average Weekly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48486600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48486600500000011      | Average Weekly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48486600500000011A     | Average Weekly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48486600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48486600600000001      | All Employees: Goods Producing in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48486600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wichita Falls, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48486600600000001      | All Employees: Goods Producing in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48486600600000001A     | All Employees: Goods Producing in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48486600600000001SA    | All Employees: Goods Producing in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48486600700000001      | All Employees: Service-Providing in Wichita Falls, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48486600600000001SA    | All Employees: Goods Producing in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48486600700000001      | All Employees: Service-Providing in Wichita Falls, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48486600700000001A     | All Employees: Service-Providing in Wichita Falls, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48486600700000001SA    | All Employees: Service-Providing in Wichita Falls, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48486600800000001      | All Employees: Private Service Providing in Wichita Falls, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48486600700000001SA    | All Employees: Service-Providing in Wichita Falls, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48486600800000001      | All Employees: Private Service Providing in Wichita Falls, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48486600800000001A     | All Employees: Private Service Providing in Wichita Falls, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48486600800000001SA    | All Employees: Private Service Providing in Wichita Falls, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48486600800000001SA    | All Employees: Private Service Providing in Wichita Falls, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48486601500000001A     | All Employees: Mining, Logging, and Construction in Wichita Falls, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48486603000000001A     | All Employees: Manufacturing in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48486604000000001A     | All Employees: Trade, Transportation, and Utilities in Wichita Falls, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48486604100000001      | All Employees: Wholesale Trade in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48486604100000001      | All Employees: Wholesale Trade in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48486604100000001A     | All Employees: Wholesale Trade in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48486604100000001SA    | All Employees: Wholesale Trade in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48486604200000001      | All Employees: Retail Trade in Wichita Falls, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48486604100000001SA    | All Employees: Wholesale Trade in Wichita Falls, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48486604200000001      | All Employees: Retail Trade in Wichita Falls, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48486604200000001A     | All Employees: Retail Trade in Wichita Falls, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48486604200000001SA    | All Employees: Retail Trade in Wichita Falls, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48486604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wichita Falls, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48486604200000001SA    | All Employees: Retail Trade in Wichita Falls, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48486604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wichita Falls, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48486604300000001A     | All Employees: Transportation and Utilities in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48486604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wichita Falls, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48486604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wichita Falls, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48486605000000001A     | All Employees: Information in Wichita Falls, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48486605500000001A     | All Employees: Financial Activities in Wichita Falls, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48486606000000001A     | All Employees: Professional and Business Services in Wichita Falls, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -121,45 +121,45 @@
 | SMU48486607000000001A     | All Employees: Leisure and Hospitality in Wichita Falls, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48486608000000001A     | All Employees: Other Services in Wichita Falls, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48486609000000001A     | All Employees: Government in Wichita Falls, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48486609091000001      | All Employees: Government: Federal Government in Wichita Falls, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48486609091000001      | All Employees: Government: Federal Government in Wichita Falls, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48486609091000001A     | All Employees: Federal Government in Wichita Falls, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48486609091000001SA    | All Employees: Government: Federal Government in Wichita Falls, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48486609092000001      | All Employees: Government: State Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48486609091000001SA    | All Employees: Government: Federal Government in Wichita Falls, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48486609092000001      | All Employees: Government: State Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48486609092000001A     | All Employees: State Government in Wichita Falls, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48486609092000001SA    | All Employees: Government: State Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48486609093000001      | All Employees: Government: Local Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48486609092000001SA    | All Employees: Government: State Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48486609093000001      | All Employees: Government: Local Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48486609093000001A     | All Employees: Local Government in Wichita Falls, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48486609093000001SA    | All Employees: Government: Local Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48486609093000001SA    | All Employees: Government: Local Government in Wichita Falls, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA48660              | Market Hotness: Supply Score in Wichita Falls, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| WICH648EDUH               | All Employees: Education and Health Services in Wichita Falls, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| WICH648EDUHN              | All Employees: Education and Health Services in Wichita Falls, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| WICH648FIRE               | All Employees: Financial Activities in Wichita Falls, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| WICH648FIREN              | All Employees: Financial Activities in Wichita Falls, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| WICH648GOVT               | All Employees: Government in Wichita Falls, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WICH648GOVTN              | All Employees: Government in Wichita Falls, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WICH648INFO               | All Employees: Information in Wichita Falls, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| WICH648INFON              | All Employees: Information in Wichita Falls, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| WICH648LEIH               | All Employees: Leisure and Hospitality in Wichita Falls, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| WICH648LEIHN              | All Employees: Leisure and Hospitality in Wichita Falls, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| WICH648EDUH               | All Employees: Education and Health Services in Wichita Falls, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| WICH648EDUHN              | All Employees: Education and Health Services in Wichita Falls, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| WICH648FIRE               | All Employees: Financial Activities in Wichita Falls, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| WICH648FIREN              | All Employees: Financial Activities in Wichita Falls, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| WICH648GOVT               | All Employees: Government in Wichita Falls, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| WICH648GOVTN              | All Employees: Government in Wichita Falls, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| WICH648INFO               | All Employees: Information in Wichita Falls, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| WICH648INFON              | All Employees: Information in Wichita Falls, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| WICH648LEIH               | All Employees: Leisure and Hospitality in Wichita Falls, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| WICH648LEIHN              | All Employees: Leisure and Hospitality in Wichita Falls, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | WICH648LF                 | Civilian Labor Force in Wichita Falls, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | WICH648LFN                | Civilian Labor Force in Wichita Falls, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| WICH648MFG                | All Employees: Manufacturing in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WICH648MFGN               | All Employees: Manufacturing in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WICH648NA                 | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WICH648NAN                | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WICH648NRMN               | All Employees: Mining, Logging, and Construction in Wichita Falls, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| WICH648NRMNN              | All Employees: Mining, Logging, and Construction in Wichita Falls, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| WICH648PBSV               | All Employees: Professional and Business Services in Wichita Falls, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| WICH648PBSVN              | All Employees: Professional and Business Services in Wichita Falls, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| WICH648MFG                | All Employees: Manufacturing in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WICH648MFGN               | All Employees: Manufacturing in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WICH648NA                 | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WICH648NAN                | All Employees: Total Nonfarm in Wichita Falls, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WICH648NRMN               | All Employees: Mining, Logging, and Construction in Wichita Falls, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| WICH648NRMNN              | All Employees: Mining, Logging, and Construction in Wichita Falls, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| WICH648PBSV               | All Employees: Professional and Business Services in Wichita Falls, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| WICH648PBSVN              | All Employees: Professional and Business Services in Wichita Falls, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | WICH648PCPI               | Per Capita Personal Income in Wichita Falls, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| WICH648SRVO               | All Employees: Other Services in Wichita Falls, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| WICH648SRVON              | All Employees: Other Services in Wichita Falls, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| WICH648TRAD               | All Employees: Trade, Transportation, and Utilities in Wichita Falls, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| WICH648TRADN              | All Employees: Trade, Transportation, and Utilities in Wichita Falls, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| WICH648SRVO               | All Employees: Other Services in Wichita Falls, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| WICH648SRVON              | All Employees: Other Services in Wichita Falls, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| WICH648TRAD               | All Employees: Trade, Transportation, and Utilities in Wichita Falls, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| WICH648TRADN              | All Employees: Trade, Transportation, and Utilities in Wichita Falls, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | WICH648UR                 | Unemployment Rate in Wichita Falls, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | WICH648URN                | Unemployment Rate in Wichita Falls, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| WICSA158MFRBDAL           | Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| WICSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| WICSA175MFRBDAL           | Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| WICSA158MFRBDAL           | Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| WICSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| WICSA175MFRBDAL           | Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | WICSA674AFRBDAL           | Total Nonfarm Payroll Employment for Wichita Falls, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| WIFPOP                    | Resident Population in Wichita Falls, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| WIFPOP                    | Resident Population in Wichita Falls, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

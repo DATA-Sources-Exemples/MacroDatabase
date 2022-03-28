@@ -60,94 +60,94 @@
 | RPPGOOD43100              | Regional Price Parities: Goods for Sheboygan, WI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH43100          | Regional Price Parities: Services: Other for Sheboygan, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT43100         | Regional Price Parities: Services: Rents for Sheboygan, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SHBPOP                    | Resident Population in Sheboygan, WI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| SHEB155EDUH               | All Employees: Education and Health Services in Sheboygan, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SHEB155EDUHN              | All Employees: Education and Health Services in Sheboygan, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SHEB155FIRE               | All Employees: Financial Activities in Sheboygan, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SHEB155FIREN              | All Employees: Financial Activities in Sheboygan, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SHEB155GOVT               | All Employees: Government in Sheboygan, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SHEB155GOVTN              | All Employees: Government in Sheboygan, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SHEB155INFO               | All Employees: Information in Sheboygan, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SHEB155INFON              | All Employees: Information in Sheboygan, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SHEB155LEIH               | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SHEB155LEIHN              | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SHBPOP                    | Resident Population in Sheboygan, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| SHEB155EDUH               | All Employees: Education and Health Services in Sheboygan, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SHEB155EDUHN              | All Employees: Education and Health Services in Sheboygan, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SHEB155FIRE               | All Employees: Financial Activities in Sheboygan, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SHEB155FIREN              | All Employees: Financial Activities in Sheboygan, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SHEB155GOVT               | All Employees: Government in Sheboygan, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SHEB155GOVTN              | All Employees: Government in Sheboygan, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SHEB155INFO               | All Employees: Information in Sheboygan, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SHEB155INFON              | All Employees: Information in Sheboygan, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SHEB155LEIH               | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SHEB155LEIHN              | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SHEB155LF                 | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | SHEB155LFN                | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SHEB155MFG                | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SHEB155MFGN               | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SHEB155NA                 | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SHEB155NAN                | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1981-01-01          | 2022-01-01        |
-| SHEB155NRMN               | All Employees: Mining, Logging, and Construction in Sheboygan, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SHEB155NRMNN              | All Employees: Mining, Logging, and Construction in Sheboygan, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SHEB155PBSV               | All Employees: Professional and Business Services in Sheboygan, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SHEB155PBSVN              | All Employees: Professional and Business Services in Sheboygan, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SHEB155MFG                | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SHEB155MFGN               | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SHEB155NA                 | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SHEB155NAN                | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1981-01-01          | 2022-02-01        |
+| SHEB155NRMN               | All Employees: Mining, Logging, and Construction in Sheboygan, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SHEB155NRMNN              | All Employees: Mining, Logging, and Construction in Sheboygan, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SHEB155PBSV               | All Employees: Professional and Business Services in Sheboygan, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SHEB155PBSVN              | All Employees: Professional and Business Services in Sheboygan, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SHEB155PCPI               | Per Capita Personal Income in Sheboygan, WI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| SHEB155SRVO               | All Employees: Other Services in Sheboygan, WI (MSA)                                                           | 2001-01-01          | 2022-01-01        |
-| SHEB155SRVON              | All Employees: Other Services in Sheboygan, WI (MSA)                                                           | 2001-01-01          | 2022-01-01        |
-| SHEB155TRAD               | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SHEB155TRADN              | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SHEB155SRVO               | All Employees: Other Services in Sheboygan, WI (MSA)                                                           | 2001-01-01          | 2022-02-01        |
+| SHEB155SRVON              | All Employees: Other Services in Sheboygan, WI (MSA)                                                           | 2001-01-01          | 2022-02-01        |
+| SHEB155TRAD               | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SHEB155TRADN              | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SHEB155UR                 | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SHEB155URN                | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| SMS55431000000000026      | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS55431000000000026      | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU55431000000000001A     | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1981-01-01          | 2021-01-01        |
-| SMU55431000500000001      | All Employees: Total Private in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU55431000500000001      | All Employees: Total Private in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU55431000500000001A     | All Employees: Total Private in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55431000500000001SA    | All Employees: Total Private in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU55431000500000002      | Average Weekly Hours of All Employees: Total Private in Sheboygan, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU55431000500000001SA    | All Employees: Total Private in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU55431000500000002      | Average Weekly Hours of All Employees: Total Private in Sheboygan, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU55431000500000002A     | Average Weekly Hours of All Employees: Total Private in Sheboygan, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55431000500000002SA    | Average Weekly Hours of All Employees: Total Private in Sheboygan, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU55431000500000003      | Average Hourly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55431000500000002SA    | Average Weekly Hours of All Employees: Total Private in Sheboygan, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU55431000500000003      | Average Hourly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55431000500000003A     | Average Hourly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55431000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55431000500000011      | Average Weekly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55431000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55431000500000011      | Average Weekly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55431000500000011A     | Average Weekly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55431000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55431000600000001      | All Employees: Goods Producing in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55431000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sheboygan, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55431000600000001      | All Employees: Goods Producing in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55431000600000001A     | All Employees: Goods Producing in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55431000600000001SA    | All Employees: Goods Producing in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55431000700000001      | All Employees: Service-Providing in Sheboygan, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU55431000600000001SA    | All Employees: Goods Producing in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55431000700000001      | All Employees: Service-Providing in Sheboygan, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU55431000700000001A     | All Employees: Service-Providing in Sheboygan, WI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU55431000700000001SA    | All Employees: Service-Providing in Sheboygan, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU55431000800000001      | All Employees: Private Service Providing in Sheboygan, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55431000700000001SA    | All Employees: Service-Providing in Sheboygan, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU55431000800000001      | All Employees: Private Service Providing in Sheboygan, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55431000800000001A     | All Employees: Private Service Providing in Sheboygan, WI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU55431000800000001SA    | All Employees: Private Service Providing in Sheboygan, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55431000800000001SA    | All Employees: Private Service Providing in Sheboygan, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55431001500000001A     | All Employees: Mining, Logging, and Construction in Sheboygan, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU55431003000000001A     | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55431003100000001      | All Employees: Manufacturing: Durable Goods in Sheboygan, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55431003100000001      | All Employees: Manufacturing: Durable Goods in Sheboygan, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55431003100000001A     | All Employees: Manufacturing: Durable Goods in Sheboygan, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55431003100000001SA    | All Employees: Manufacturing: Durable Goods in Sheboygan, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU55431003133200001      | All Employees: Manufacturing: Durable Goods: Fabricated Metal Product Manufacturing in Sheboygan, WI (MSA)     | 1998-01-01          | 2022-01-01        |
+| SMU55431003100000001SA    | All Employees: Manufacturing: Durable Goods in Sheboygan, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU55431003133200001      | All Employees: Manufacturing: Durable Goods: Fabricated Metal Product Manufacturing in Sheboygan, WI (MSA)     | 1998-01-01          | 2022-02-01        |
 | SMU55431003133200001A     | All Employees: Durable Goods: Fabricated Metal Product Manufacturing in Sheboygan, WI (MSA)                    | 1998-01-01          | 2021-01-01        |
-| SMU55431003133200001SA    | All Employees: Manufacturing: Durable Goods: Fabricated Metal Product Manufacturing in Sheboygan, WI (MSA)     | 1998-01-01          | 2022-01-01        |
-| SMU55431003200000001      | All Employees: Manufacturing: Non-Durable Goods in Sheboygan, WI (MSA)                                         | 1992-01-01          | 2022-01-01        |
+| SMU55431003133200001SA    | All Employees: Manufacturing: Durable Goods: Fabricated Metal Product Manufacturing in Sheboygan, WI (MSA)     | 1998-01-01          | 2022-02-01        |
+| SMU55431003200000001      | All Employees: Manufacturing: Non-Durable Goods in Sheboygan, WI (MSA)                                         | 1992-01-01          | 2022-02-01        |
 | SMU55431003200000001A     | All Employees: Manufacturing: Non-Durable Goods in Sheboygan, WI (MSA)                                         | 1992-01-01          | 2021-01-01        |
-| SMU55431003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Sheboygan, WI (MSA)                                         | 1992-01-01          | 2022-01-01        |
+| SMU55431003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Sheboygan, WI (MSA)                                         | 1992-01-01          | 2022-02-01        |
 | SMU55431004000000001A     | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU55431004100000001      | All Employees: Wholesale Trade in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55431004100000001      | All Employees: Wholesale Trade in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55431004100000001A     | All Employees: Wholesale Trade in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55431004100000001SA    | All Employees: Wholesale Trade in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55431004200000001      | All Employees: Retail Trade in Sheboygan, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU55431004100000001SA    | All Employees: Wholesale Trade in Sheboygan, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55431004200000001      | All Employees: Retail Trade in Sheboygan, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU55431004200000001A     | All Employees: Retail Trade in Sheboygan, WI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU55431004200000001SA    | All Employees: Retail Trade in Sheboygan, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU55431004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sheboygan, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55431004200000001SA    | All Employees: Retail Trade in Sheboygan, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU55431004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sheboygan, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55431004300000001A     | All Employees: Transportation and Utilities in Sheboygan, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55431004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sheboygan, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55431004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sheboygan, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55431005000000001A     | All Employees: Information in Sheboygan, WI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU55431005500000001A     | All Employees: Financial Activities in Sheboygan, WI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU55431006000000001A     | All Employees: Professional and Business Services in Sheboygan, WI (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU55431006500000001A     | All Employees: Education and Health Services in Sheboygan, WI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU55431006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Sheboygan, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55431006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Sheboygan, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55431006562000001A     | All Employees: Health Care and Social Assistance in Sheboygan, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU55431006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Sheboygan, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55431006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Sheboygan, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55431007000000001A     | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU55431008000000001A     | All Employees: Other Services in Sheboygan, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | SMU55431009000000001A     | All Employees: Government in Sheboygan, WI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU55431009091000001      | All Employees: Government: Federal Government in Sheboygan, WI (MSA)                                           | 2001-01-01          | 2022-01-01        |
+| SMU55431009091000001      | All Employees: Government: Federal Government in Sheboygan, WI (MSA)                                           | 2001-01-01          | 2022-02-01        |
 | SMU55431009091000001A     | All Employees: Federal Government in Sheboygan, WI (MSA)                                                       | 2001-01-01          | 2021-01-01        |
-| SMU55431009091000001SA    | All Employees: Government: Federal Government in Sheboygan, WI (MSA)                                           | 2001-01-01          | 2022-01-01        |
-| SMU55431009092000001      | All Employees: Government: State Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55431009091000001SA    | All Employees: Government: Federal Government in Sheboygan, WI (MSA)                                           | 2001-01-01          | 2022-02-01        |
+| SMU55431009092000001      | All Employees: Government: State Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SMU55431009092000001A     | All Employees: State Government in Sheboygan, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
-| SMU55431009092000001SA    | All Employees: Government: State Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
-| SMU55431009093000001      | All Employees: Government: Local Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55431009092000001SA    | All Employees: Government: State Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
+| SMU55431009093000001      | All Employees: Government: Local Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SMU55431009093000001A     | All Employees: Local Government in Sheboygan, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
-| SMU55431009093000001SA    | All Employees: Government: Local Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55431009093000001SA    | All Employees: Government: Local Government in Sheboygan, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |

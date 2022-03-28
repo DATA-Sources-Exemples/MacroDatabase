@@ -23,16 +23,16 @@
 | HORAYYMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | HOSCMSA27620              | Market Hotness: Hotness Score in Jefferson City, MO (CBSA)                                            | 2017-08-01          | 2022-01-01        |
 | IRPD27620                 | Implicit Regional Price Deflator for Jefferson City, MO (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| JEFGOVT                   | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| JEFGOVTN                  | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| JEFGOVT                   | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| JEFGOVTN                  | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | JEFLF                     | Civilian Labor Force in Jefferson City, MO (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | JEFLFN                    | Civilian Labor Force in Jefferson City, MO (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| JEFNA                     | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| JEFNAN                    | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| JEFNA                     | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| JEFNAN                    | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | JEFPCPI                   | Per Capita Personal Income in Jefferson City, MO (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | JEFPOP                    | Resident Population in Jefferson City, MO (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| JEFTRAD                   | All Employees: Trade, Transportation, and Utilities in Jefferson City, MO (MSA)                       | 1990-01-01          | 2022-01-01        |
-| JEFTRADN                  | All Employees: Trade, Transportation, and Utilities in Jefferson City, MO (MSA)                       | 1990-01-01          | 2022-01-01        |
+| JEFTRAD                   | All Employees: Trade, Transportation, and Utilities in Jefferson City, MO (MSA)                       | 1990-01-01          | 2022-02-01        |
+| JEFTRADN                  | All Employees: Trade, Transportation, and Utilities in Jefferson City, MO (MSA)                       | 1990-01-01          | 2022-02-01        |
 | JEFUR                     | Unemployment Rate in Jefferson City, MO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | JEFURN                    | Unemployment Rate in Jefferson City, MO (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | LAUMT292762000000003A     | Unemployment Rate in Jefferson City, MO (MSA)                                                         | 1990-01-01          | 2020-01-01        |
@@ -89,41 +89,41 @@
 | RPPGOOD27620              | Regional Price Parities: Goods for Jefferson City, MO (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH27620          | Regional Price Parities: Services: Other for Jefferson City, MO (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT27620         | Regional Price Parities: Services: Rents for Jefferson City, MO (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS29276200000000026      | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS29276200000000026      | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU29276200000000001A     | All Employees: Total Nonfarm in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU29276200500000001      | All Employees: Total Private in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU29276200500000001      | All Employees: Total Private in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU29276200500000001A     | All Employees: Total Private in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU29276200500000001SA    | All Employees: Total Private in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU29276200500000002      | Average Weekly Hours of All Employees: Total Private in Jefferson City, MO (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU29276200500000001SA    | All Employees: Total Private in Jefferson City, MO (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU29276200500000002      | Average Weekly Hours of All Employees: Total Private in Jefferson City, MO (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU29276200500000002A     | Average Weekly Hours of All Employees: Total Private in Jefferson City, MO (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU29276200500000002SA    | Average Weekly Hours of All Employees: Total Private in Jefferson City, MO (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU29276200500000003      | Average Hourly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU29276200500000002SA    | Average Weekly Hours of All Employees: Total Private in Jefferson City, MO (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU29276200500000003      | Average Hourly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU29276200500000003A     | Average Hourly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU29276200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU29276200500000011      | Average Weekly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU29276200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU29276200500000011      | Average Weekly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU29276200500000011A     | Average Weekly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU29276200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU29276200600000001      | All Employees: Goods Producing in Jefferson City, MO (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU29276200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jefferson City, MO (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU29276200600000001      | All Employees: Goods Producing in Jefferson City, MO (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU29276200600000001A     | All Employees: Goods Producing in Jefferson City, MO (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU29276200600000001SA    | All Employees: Goods Producing in Jefferson City, MO (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU29276200700000001      | All Employees: Service-Providing in Jefferson City, MO (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU29276200600000001SA    | All Employees: Goods Producing in Jefferson City, MO (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU29276200700000001      | All Employees: Service-Providing in Jefferson City, MO (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU29276200700000001A     | All Employees: Service-Providing in Jefferson City, MO (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU29276200700000001SA    | All Employees: Service-Providing in Jefferson City, MO (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU29276200800000001      | All Employees: Private Service Providing in Jefferson City, MO (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU29276200700000001SA    | All Employees: Service-Providing in Jefferson City, MO (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU29276200800000001      | All Employees: Private Service Providing in Jefferson City, MO (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU29276200800000001A     | All Employees: Private Service Providing in Jefferson City, MO (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU29276200800000001SA    | All Employees: Private Service Providing in Jefferson City, MO (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU29276200800000001SA    | All Employees: Private Service Providing in Jefferson City, MO (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU29276204000000001A     | All Employees: Trade, Transportation, and Utilities in Jefferson City, MO (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU29276204200000001      | All Employees: Retail Trade in Jefferson City, MO (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU29276204200000001      | All Employees: Retail Trade in Jefferson City, MO (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU29276204200000001A     | All Employees: Retail Trade in Jefferson City, MO (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU29276204200000001SA    | All Employees: Retail Trade in Jefferson City, MO (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU29276204200000001SA    | All Employees: Retail Trade in Jefferson City, MO (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU29276209000000001A     | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU29276209091000001      | All Employees: Government: Federal Government in Jefferson City, MO (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU29276209091000001      | All Employees: Government: Federal Government in Jefferson City, MO (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU29276209091000001A     | All Employees: Federal Government in Jefferson City, MO (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU29276209091000001SA    | All Employees: Government: Federal Government in Jefferson City, MO (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU29276209092000001      | All Employees: Government: State Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU29276209091000001SA    | All Employees: Government: Federal Government in Jefferson City, MO (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU29276209092000001      | All Employees: Government: State Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU29276209092000001A     | All Employees: State Government in Jefferson City, MO (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU29276209092000001SA    | All Employees: Government: State Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU29276209093000001      | All Employees: Government: Local Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU29276209092000001SA    | All Employees: Government: State Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU29276209093000001      | All Employees: Government: Local Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU29276209093000001A     | All Employees: Local Government in Jefferson City, MO (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU29276209093000001SA    | All Employees: Government: Local Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU29276209093000001SA    | All Employees: Government: Local Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA27620              | Market Hotness: Supply Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-01-01        |

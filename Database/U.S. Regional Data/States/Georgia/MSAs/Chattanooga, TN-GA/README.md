@@ -7,31 +7,31 @@
 | AVELISPRI16860            | Housing Inventory: Average Listing Price in Chattanooga, TN-GA (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM16860          | Housing Inventory: Average Listing Price Month-Over-Month in Chattanooga, TN-GA (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY16860          | Housing Inventory: Average Listing Price Year-Over-Year in Chattanooga, TN-GA (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| CHAT847EDUH               | All Employees: Education and Health Services in Chattanooga, TN-GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CHAT847EDUHN              | All Employees: Education and Health Services in Chattanooga, TN-GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CHAT847FIRE               | All Employees: Financial Activities in Chattanooga, TN-GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CHAT847FIREN              | All Employees: Financial Activities in Chattanooga, TN-GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CHAT847GOVT               | All Employees: Government in Chattanooga, TN-GA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CHAT847GOVTN              | All Employees: Government in Chattanooga, TN-GA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CHAT847INFO               | All Employees: Information in Chattanooga, TN-GA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CHAT847INFON              | All Employees: Information in Chattanooga, TN-GA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CHAT847LEIH               | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| CHAT847LEIHN              | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| CHAT847EDUH               | All Employees: Education and Health Services in Chattanooga, TN-GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CHAT847EDUHN              | All Employees: Education and Health Services in Chattanooga, TN-GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CHAT847FIRE               | All Employees: Financial Activities in Chattanooga, TN-GA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CHAT847FIREN              | All Employees: Financial Activities in Chattanooga, TN-GA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CHAT847GOVT               | All Employees: Government in Chattanooga, TN-GA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CHAT847GOVTN              | All Employees: Government in Chattanooga, TN-GA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CHAT847INFO               | All Employees: Information in Chattanooga, TN-GA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CHAT847INFON              | All Employees: Information in Chattanooga, TN-GA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CHAT847LEIH               | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| CHAT847LEIHN              | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | CHAT847LF                 | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | CHAT847LFN                | Civilian Labor Force in Chattanooga, TN-GA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| CHAT847MFG                | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHAT847MFGN               | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHAT847NA                 | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHAT847NAN                | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHAT847NRMN               | All Employees: Mining, Logging, and Construction in Chattanooga, TN-GA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CHAT847NRMNN              | All Employees: Mining, Logging, and Construction in Chattanooga, TN-GA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CHAT847PBSV               | All Employees: Professional and Business Services in Chattanooga, TN-GA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| CHAT847PBSVN              | All Employees: Professional and Business Services in Chattanooga, TN-GA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| CHAT847MFG                | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHAT847MFGN               | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHAT847NA                 | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHAT847NAN                | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHAT847NRMN               | All Employees: Mining, Logging, and Construction in Chattanooga, TN-GA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CHAT847NRMNN              | All Employees: Mining, Logging, and Construction in Chattanooga, TN-GA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CHAT847PBSV               | All Employees: Professional and Business Services in Chattanooga, TN-GA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| CHAT847PBSVN              | All Employees: Professional and Business Services in Chattanooga, TN-GA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | CHAT847PCPI               | Per Capita Personal Income in Chattanooga, TN-GA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| CHAT847SRVO               | All Employees: Other Services in Chattanooga, TN-GA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CHAT847SRVON              | All Employees: Other Services in Chattanooga, TN-GA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CHAT847TRAD               | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| CHAT847TRADN              | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| CHAT847SRVO               | All Employees: Other Services in Chattanooga, TN-GA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CHAT847SRVON              | All Employees: Other Services in Chattanooga, TN-GA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CHAT847TRAD               | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| CHAT847TRADN              | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | CHAT847UR                 | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | CHAT847URN                | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | CHTPOP                    | Resident Population in Chattanooga, TN-GA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -52,7 +52,7 @@
 | HORAMSA16860              | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA16860              | Market Hotness: Hotness Score in Chattanooga, TN-GA (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG16860               | Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD16860                 | Implicit Regional Price Deflator for Chattanooga, TN-GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT471686000000003A     | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
 | LAUMT471686000000004      | Unemployed Persons in Chattanooga, TN-GA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
@@ -108,47 +108,47 @@
 | RPPGOOD16860              | Regional Price Parities: Goods for Chattanooga, TN-GA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH16860          | Regional Price Parities: Services: Other for Chattanooga, TN-GA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT16860         | Regional Price Parities: Services: Rents for Chattanooga, TN-GA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS47168600000000026      | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS47168600000000026      | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU47168600000000001A     | All Employees: Total Nonfarm in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47168600500000001      | All Employees: Total Private in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU47168600500000001      | All Employees: Total Private in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47168600500000001A     | All Employees: Total Private in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47168600500000001SA    | All Employees: Total Private in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU47168600500000002      | Average Weekly Hours of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU47168600500000001SA    | All Employees: Total Private in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU47168600500000002      | Average Weekly Hours of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU47168600500000002A     | Average Weekly Hours of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47168600500000002SA    | Average Weekly Hours of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU47168600500000003      | Average Hourly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47168600500000002SA    | Average Weekly Hours of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU47168600500000003      | Average Hourly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47168600500000003A     | Average Hourly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47168600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47168600500000011      | Average Weekly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47168600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47168600500000011      | Average Weekly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47168600500000011A     | Average Weekly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47168600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47168600600000001      | All Employees: Goods Producing in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47168600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Chattanooga, TN-GA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47168600600000001      | All Employees: Goods Producing in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47168600600000001A     | All Employees: Goods Producing in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47168600600000001SA    | All Employees: Goods Producing in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47168600700000001      | All Employees: Service-Providing in Chattanooga, TN-GA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU47168600600000001SA    | All Employees: Goods Producing in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47168600700000001      | All Employees: Service-Providing in Chattanooga, TN-GA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU47168600700000001A     | All Employees: Service-Providing in Chattanooga, TN-GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU47168600700000001SA    | All Employees: Service-Providing in Chattanooga, TN-GA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU47168600800000001      | All Employees: Private Service Providing in Chattanooga, TN-GA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47168600700000001SA    | All Employees: Service-Providing in Chattanooga, TN-GA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU47168600800000001      | All Employees: Private Service Providing in Chattanooga, TN-GA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47168600800000001A     | All Employees: Private Service Providing in Chattanooga, TN-GA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU47168600800000001SA    | All Employees: Private Service Providing in Chattanooga, TN-GA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47168600800000001SA    | All Employees: Private Service Providing in Chattanooga, TN-GA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47168601500000001A     | All Employees: Mining, Logging, and Construction in Chattanooga, TN-GA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU47168603000000001A     | All Employees: Manufacturing in Chattanooga, TN-GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47168603100000001      | All Employees: Manufacturing: Durable Goods in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47168603100000001      | All Employees: Manufacturing: Durable Goods in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47168603100000001A     | All Employees: Manufacturing: Durable Goods in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU47168603100000001SA    | All Employees: Manufacturing: Durable Goods in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47168603200000001      | All Employees: Manufacturing: Non-Durable Goods in Chattanooga, TN-GA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU47168603100000001SA    | All Employees: Manufacturing: Durable Goods in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47168603200000001      | All Employees: Manufacturing: Non-Durable Goods in Chattanooga, TN-GA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU47168603200000001A     | All Employees: Manufacturing: Non-Durable Goods in Chattanooga, TN-GA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU47168603200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Chattanooga, TN-GA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU47168603200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Chattanooga, TN-GA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU47168604000000001A     | All Employees: Trade, Transportation, and Utilities in Chattanooga, TN-GA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU47168604100000001      | All Employees: Wholesale Trade in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47168604100000001      | All Employees: Wholesale Trade in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47168604100000001A     | All Employees: Wholesale Trade in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47168604100000001SA    | All Employees: Wholesale Trade in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47168604200000001      | All Employees: Retail Trade in Chattanooga, TN-GA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU47168604100000001SA    | All Employees: Wholesale Trade in Chattanooga, TN-GA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47168604200000001      | All Employees: Retail Trade in Chattanooga, TN-GA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU47168604200000001A     | All Employees: Retail Trade in Chattanooga, TN-GA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU47168604200000001SA    | All Employees: Retail Trade in Chattanooga, TN-GA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU47168604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chattanooga, TN-GA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47168604200000001SA    | All Employees: Retail Trade in Chattanooga, TN-GA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU47168604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chattanooga, TN-GA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47168604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chattanooga, TN-GA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU47168604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chattanooga, TN-GA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47168604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chattanooga, TN-GA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47168605000000001A     | All Employees: Information in Chattanooga, TN-GA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU47168605500000001A     | All Employees: Financial Activities in Chattanooga, TN-GA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU47168606000000001A     | All Employees: Professional and Business Services in Chattanooga, TN-GA (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -156,13 +156,13 @@
 | SMU47168607000000001A     | All Employees: Leisure and Hospitality in Chattanooga, TN-GA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU47168608000000001A     | All Employees: Other Services in Chattanooga, TN-GA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU47168609000000001A     | All Employees: Government in Chattanooga, TN-GA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU47168609091000001      | All Employees: Government: Federal Government in Chattanooga, TN-GA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU47168609091000001      | All Employees: Government: Federal Government in Chattanooga, TN-GA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU47168609091000001A     | All Employees: Federal Government in Chattanooga, TN-GA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU47168609091000001SA    | All Employees: Government: Federal Government in Chattanooga, TN-GA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU47168609092000001      | All Employees: Government: State Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47168609091000001SA    | All Employees: Government: Federal Government in Chattanooga, TN-GA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU47168609092000001      | All Employees: Government: State Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47168609092000001A     | All Employees: State Government in Chattanooga, TN-GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47168609092000001SA    | All Employees: Government: State Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47168609093000001      | All Employees: Government: Local Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47168609092000001SA    | All Employees: Government: State Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47168609093000001      | All Employees: Government: Local Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47168609093000001A     | All Employees: Local Government in Chattanooga, TN-GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47168609093000001SA    | All Employees: Government: Local Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47168609093000001SA    | All Employees: Government: Local Government in Chattanooga, TN-GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA16860              | Market Hotness: Supply Score in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

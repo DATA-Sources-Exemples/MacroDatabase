@@ -10,8 +10,8 @@
 | COMHLA052SCEN     | Value of Exports to Marshall Islands from Colorado                                                           | 2010-01-01          | 2015-01-01        |
 | COMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Colorado                                             | 1997-01-01          | 2016-01-01        |
 | CTMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Connecticut                                          | 1997-01-01          | 2016-01-01        |
-| DDAI02MHA643NWDB  | Number of Bank Branches for Marshall Islands                                                                 | 2004-01-01          | 2016-01-01        |
-| DDOI09MHA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Marshall Islands                              | 2014-01-01          | 2016-01-01        |
+| DDAI02MHA643NWDB  | Number of Bank Branches for Marshall Islands                                                                 | 2004-01-01          | 2019-01-01        |
+| DDOI09MHA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Marshall Islands                              | 2009-01-01          | 2019-01-01        |
 | DEMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Delaware                                             | 1997-01-01          | 2009-01-01        |
 | EXP6810           | U.S. Exports of Goods by F.A.S. Basis to Marshall Islands                                                    | 1992-01-01          | 2022-01-01        |
 | FLMHLA052SCEN     | Value of Exports to Marshall Islands from Florida                                                            | 1997-01-01          | 2017-01-01        |

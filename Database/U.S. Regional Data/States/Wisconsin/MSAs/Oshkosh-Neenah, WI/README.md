@@ -61,34 +61,34 @@
 | NEWLISCOUYY36780          | Housing Inventory: New Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                    | 2017-07-01          | 2022-01-01        |
 | NGMP36780                 | Total Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA36780            | Market Hotness: Nielsen Household Rank in Oshkosh-Neenah, WI (CBSA)                                                 | 2017-08-01          | 2022-01-01        |
-| OSHK755EDUH               | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| OSHK755EDUHN              | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| OSHK755FIRE               | All Employees: Financial Activities in Oshkosh-Neenah, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| OSHK755FIREN              | All Employees: Financial Activities in Oshkosh-Neenah, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| OSHK755GOVT               | All Employees: Government in Oshkosh-Neenah, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| OSHK755GOVTN              | All Employees: Government in Oshkosh-Neenah, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| OSHK755INFO               | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| OSHK755INFON              | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| OSHK755LEIH               | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| OSHK755LEIHN              | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| OSHK755EDUH               | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| OSHK755EDUHN              | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| OSHK755FIRE               | All Employees: Financial Activities in Oshkosh-Neenah, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| OSHK755FIREN              | All Employees: Financial Activities in Oshkosh-Neenah, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| OSHK755GOVT               | All Employees: Government in Oshkosh-Neenah, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| OSHK755GOVTN              | All Employees: Government in Oshkosh-Neenah, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| OSHK755INFO               | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| OSHK755INFON              | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| OSHK755LEIH               | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| OSHK755LEIHN              | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | OSHK755LF                 | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | OSHK755LFN                | Civilian Labor Force in Oshkosh-Neenah, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| OSHK755MFG                | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-01-01        |
-| OSHK755MFGN               | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-01-01        |
-| OSHK755NA                 | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OSHK755NAN                | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OSHK755NRMN               | All Employees: Mining, Logging, and Construction in Oshkosh-Neenah, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| OSHK755NRMNN              | All Employees: Mining, Logging, and Construction in Oshkosh-Neenah, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| OSHK755PBSV               | All Employees: Professional and Business Services in Oshkosh-Neenah, WI (MSA)                                       | 2003-01-01          | 2022-01-01        |
-| OSHK755PBSVN              | All Employees: Professional and Business Services in Oshkosh-Neenah, WI (MSA)                                       | 2003-01-01          | 2022-01-01        |
+| OSHK755MFG                | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-02-01        |
+| OSHK755MFGN               | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2022-02-01        |
+| OSHK755NA                 | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OSHK755NAN                | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OSHK755NRMN               | All Employees: Mining, Logging, and Construction in Oshkosh-Neenah, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| OSHK755NRMNN              | All Employees: Mining, Logging, and Construction in Oshkosh-Neenah, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| OSHK755PBSV               | All Employees: Professional and Business Services in Oshkosh-Neenah, WI (MSA)                                       | 2003-01-01          | 2022-02-01        |
+| OSHK755PBSVN              | All Employees: Professional and Business Services in Oshkosh-Neenah, WI (MSA)                                       | 2003-01-01          | 2022-02-01        |
 | OSHK755PCPI               | Per Capita Personal Income in Oshkosh-Neenah, WI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| OSHK755SRVO               | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| OSHK755SRVON              | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| OSHK755TRAD               | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| OSHK755TRADN              | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| OSHK755SRVO               | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| OSHK755SRVON              | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| OSHK755TRAD               | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| OSHK755TRADN              | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | OSHK755UR                 | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | OSHK755URN                | Unemployment Rate in Oshkosh-Neenah, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| OSNPOP                    | Resident Population in Oshkosh-Neenah, WI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| OSNPOP                    | Resident Population in Oshkosh-Neenah, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136780          | U.S. Granted Utility Patents Originating in Oshkosh-Neenah, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36780            | Housing Inventory: Pending Listing Count in Oshkosh-Neenah, WI (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM36780          | Housing Inventory: Pending Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-01-01        |
@@ -107,64 +107,64 @@
 | RPPGOOD36780              | Regional Price Parities: Goods for Oshkosh-Neenah, WI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH36780          | Regional Price Parities: Services: Other for Oshkosh-Neenah, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT36780         | Regional Price Parities: Services: Rents for Oshkosh-Neenah, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS55367800000000026      | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS55367800000000026      | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU55367800000000001A     | All Employees: Total Nonfarm in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55367800500000001      | All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU55367800500000001      | All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU55367800500000001A     | All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55367800500000001SA    | All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU55367800500000002      | Average Weekly Hours of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU55367800500000001SA    | All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU55367800500000002      | Average Weekly Hours of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU55367800500000002A     | Average Weekly Hours of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55367800500000002SA    | Average Weekly Hours of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU55367800500000003      | Average Hourly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55367800500000002SA    | Average Weekly Hours of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU55367800500000003      | Average Hourly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55367800500000003A     | Average Hourly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55367800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55367800500000011      | Average Weekly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55367800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55367800500000011      | Average Weekly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55367800500000011A     | Average Weekly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55367800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55367800600000001      | All Employees: Goods Producing in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55367800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Oshkosh-Neenah, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55367800600000001      | All Employees: Goods Producing in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55367800600000001A     | All Employees: Goods Producing in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55367800600000001SA    | All Employees: Goods Producing in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55367800700000001      | All Employees: Service-Providing in Oshkosh-Neenah, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU55367800600000001SA    | All Employees: Goods Producing in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55367800700000001      | All Employees: Service-Providing in Oshkosh-Neenah, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU55367800700000001A     | All Employees: Service-Providing in Oshkosh-Neenah, WI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU55367800700000001SA    | All Employees: Service-Providing in Oshkosh-Neenah, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU55367800800000001      | All Employees: Private Service Providing in Oshkosh-Neenah, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55367800700000001SA    | All Employees: Service-Providing in Oshkosh-Neenah, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU55367800800000001      | All Employees: Private Service Providing in Oshkosh-Neenah, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55367800800000001A     | All Employees: Private Service Providing in Oshkosh-Neenah, WI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU55367800800000001SA    | All Employees: Private Service Providing in Oshkosh-Neenah, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55367800800000001SA    | All Employees: Private Service Providing in Oshkosh-Neenah, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55367801500000001A     | All Employees: Mining, Logging, and Construction in Oshkosh-Neenah, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU55367803000000001A     | All Employees: Manufacturing in Oshkosh-Neenah, WI (MSA)                                                            | 2003-01-01          | 2021-01-01        |
-| SMU55367803100000001      | All Employees: Manufacturing: Durable Goods in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55367803100000001      | All Employees: Manufacturing: Durable Goods in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55367803100000001A     | All Employees: Manufacturing: Durable Goods in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55367803100000001SA    | All Employees: Manufacturing: Durable Goods in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU55367803200000001      | All Employees: Manufacturing: Non-Durable Goods in Oshkosh-Neenah, WI (MSA)                                         | 2003-01-01          | 2022-01-01        |
+| SMU55367803100000001SA    | All Employees: Manufacturing: Durable Goods in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU55367803200000001      | All Employees: Manufacturing: Non-Durable Goods in Oshkosh-Neenah, WI (MSA)                                         | 2003-01-01          | 2022-02-01        |
 | SMU55367803200000001A     | All Employees: Manufacturing: Non-Durable Goods in Oshkosh-Neenah, WI (MSA)                                         | 2003-01-01          | 2021-01-01        |
-| SMU55367803200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Oshkosh-Neenah, WI (MSA)                                         | 2003-01-01          | 2022-01-01        |
+| SMU55367803200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Oshkosh-Neenah, WI (MSA)                                         | 2003-01-01          | 2022-02-01        |
 | SMU55367804000000001A     | All Employees: Trade, Transportation, and Utilities in Oshkosh-Neenah, WI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU55367804100000001      | All Employees: Wholesale Trade in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55367804100000001      | All Employees: Wholesale Trade in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55367804100000001A     | All Employees: Wholesale Trade in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55367804100000001SA    | All Employees: Wholesale Trade in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55367804200000001      | All Employees: Retail Trade in Oshkosh-Neenah, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU55367804100000001SA    | All Employees: Wholesale Trade in Oshkosh-Neenah, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55367804200000001      | All Employees: Retail Trade in Oshkosh-Neenah, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU55367804200000001A     | All Employees: Retail Trade in Oshkosh-Neenah, WI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU55367804200000001SA    | All Employees: Retail Trade in Oshkosh-Neenah, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU55367804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Oshkosh-Neenah, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55367804200000001SA    | All Employees: Retail Trade in Oshkosh-Neenah, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU55367804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Oshkosh-Neenah, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55367804300000001A     | All Employees: Transportation and Utilities in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55367804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Oshkosh-Neenah, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55367804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Oshkosh-Neenah, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55367805000000001A     | All Employees: Information in Oshkosh-Neenah, WI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU55367805500000001A     | All Employees: Financial Activities in Oshkosh-Neenah, WI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU55367806000000001A     | All Employees: Professional and Business Services in Oshkosh-Neenah, WI (MSA)                                       | 2003-01-01          | 2021-01-01        |
 | SMU55367806500000001A     | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU55367806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Oshkosh-Neenah, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55367806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Oshkosh-Neenah, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55367806562000001A     | All Employees: Health Care and Social Assistance in Oshkosh-Neenah, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU55367806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Oshkosh-Neenah, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55367806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Oshkosh-Neenah, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55367807000000001A     | All Employees: Leisure and Hospitality in Oshkosh-Neenah, WI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU55367808000000001A     | All Employees: Other Services in Oshkosh-Neenah, WI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU55367809000000001A     | All Employees: Government in Oshkosh-Neenah, WI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU55367809091000001      | All Employees: Government: Federal Government in Oshkosh-Neenah, WI (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU55367809091000001      | All Employees: Government: Federal Government in Oshkosh-Neenah, WI (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU55367809091000001A     | All Employees: Federal Government in Oshkosh-Neenah, WI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU55367809091000001SA    | All Employees: Government: Federal Government in Oshkosh-Neenah, WI (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU55367809092000001      | All Employees: Government: State Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55367809091000001SA    | All Employees: Government: Federal Government in Oshkosh-Neenah, WI (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU55367809092000001      | All Employees: Government: State Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55367809092000001A     | All Employees: State Government in Oshkosh-Neenah, WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU55367809092000001SA    | All Employees: Government: State Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU55367809093000001      | All Employees: Government: Local Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55367809092000001SA    | All Employees: Government: State Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU55367809093000001      | All Employees: Government: Local Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55367809093000001A     | All Employees: Local Government in Oshkosh-Neenah, WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU55367809093000001SA    | All Employees: Government: Local Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55367809093000001SA    | All Employees: Government: Local Government in Oshkosh-Neenah, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA36780              | Market Hotness: Supply Score in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

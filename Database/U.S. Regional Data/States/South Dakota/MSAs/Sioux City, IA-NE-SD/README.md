@@ -79,66 +79,66 @@
 | RPPGOOD43580              | Regional Price Parities: Goods for Sioux City, IA-NE-SD (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH43580          | Regional Price Parities: Services: Other for Sioux City, IA-NE-SD (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT43580         | Regional Price Parities: Services: Rents for Sioux City, IA-NE-SD (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SICPOP                    | Resident Population in Sioux City, IA-NE-SD (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| SIOU519GOVT               | All Employees: Government in Sioux City, IA-NE-SD (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SIOU519GOVTN              | All Employees: Government in Sioux City, IA-NE-SD (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SIOU519LEIH               | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| SIOU519LEIHN              | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SICPOP                    | Resident Population in Sioux City, IA-NE-SD (MSA)                                                       | 2000-01-01          | 2021-01-01        |
+| SIOU519GOVT               | All Employees: Government in Sioux City, IA-NE-SD (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SIOU519GOVTN              | All Employees: Government in Sioux City, IA-NE-SD (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SIOU519LEIH               | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| SIOU519LEIHN              | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | SIOU519LF                 | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | SIOU519LFN                | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| SIOU519MFG                | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SIOU519MFGN               | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SIOU519NA                 | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SIOU519NAN                | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SIOU519PBSV               | All Employees: Professional and Business Services in Sioux City, IA-NE-SD (MSA)                         | 1990-01-01          | 2022-01-01        |
-| SIOU519PBSVN              | All Employees: Professional and Business Services in Sioux City, IA-NE-SD (MSA)                         | 1990-01-01          | 2022-01-01        |
+| SIOU519MFG                | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SIOU519MFGN               | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SIOU519NA                 | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SIOU519NAN                | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SIOU519PBSV               | All Employees: Professional and Business Services in Sioux City, IA-NE-SD (MSA)                         | 1990-01-01          | 2022-02-01        |
+| SIOU519PBSVN              | All Employees: Professional and Business Services in Sioux City, IA-NE-SD (MSA)                         | 1990-01-01          | 2022-02-01        |
 | SIOU519PCPI               | Per Capita Personal Income in Sioux City, IA-NE-SD (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| SIOU519TRAD               | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2022-01-01        |
-| SIOU519TRADN              | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2022-01-01        |
+| SIOU519TRAD               | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2022-02-01        |
+| SIOU519TRADN              | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2022-02-01        |
 | SIOU519UR                 | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | SIOU519URN                | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | SMS19435800000000001      | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2018-02-01        |
-| SMS19435800000000026      | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS19435800000000026      | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU19435800000000001A     | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU19435800500000001      | All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU19435800500000001      | All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU19435800500000001A     | All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU19435800500000001SA    | All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU19435800500000002      | Average Weekly Hours of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU19435800500000001SA    | All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU19435800500000002      | Average Weekly Hours of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU19435800500000002A     | Average Weekly Hours of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU19435800500000002SA    | Average Weekly Hours of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU19435800500000003      | Average Hourly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU19435800500000002SA    | Average Weekly Hours of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU19435800500000003      | Average Hourly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU19435800500000003A     | Average Hourly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19435800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU19435800500000011      | Average Weekly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU19435800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU19435800500000011      | Average Weekly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU19435800500000011A     | Average Weekly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU19435800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU19435800600000001      | All Employees: Goods Producing in Sioux City, IA-NE-SD (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU19435800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sioux City, IA-NE-SD (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU19435800600000001      | All Employees: Goods Producing in Sioux City, IA-NE-SD (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU19435800600000001A     | All Employees: Goods Producing in Sioux City, IA-NE-SD (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU19435800600000001SA    | All Employees: Goods Producing in Sioux City, IA-NE-SD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU19435800700000001      | All Employees: Service-Providing in Sioux City, IA-NE-SD (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU19435800600000001SA    | All Employees: Goods Producing in Sioux City, IA-NE-SD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU19435800700000001      | All Employees: Service-Providing in Sioux City, IA-NE-SD (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU19435800700000001A     | All Employees: Service-Providing in Sioux City, IA-NE-SD (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU19435800700000001SA    | All Employees: Service-Providing in Sioux City, IA-NE-SD (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU19435800800000001      | All Employees: Private Service Providing in Sioux City, IA-NE-SD (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU19435800700000001SA    | All Employees: Service-Providing in Sioux City, IA-NE-SD (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU19435800800000001      | All Employees: Private Service Providing in Sioux City, IA-NE-SD (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU19435800800000001A     | All Employees: Private Service Providing in Sioux City, IA-NE-SD (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU19435800800000001SA    | All Employees: Private Service Providing in Sioux City, IA-NE-SD (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU19435800800000001SA    | All Employees: Private Service Providing in Sioux City, IA-NE-SD (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU19435803000000001A     | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU19435803200000001      | All Employees: Manufacturing: Non-Durable Goods in Sioux City, IA-NE-SD (MSA)                           | 2004-01-01          | 2022-01-01        |
+| SMU19435803200000001      | All Employees: Manufacturing: Non-Durable Goods in Sioux City, IA-NE-SD (MSA)                           | 2004-01-01          | 2022-02-01        |
 | SMU19435803200000001A     | All Employees: Manufacturing: Non-Durable Goods in Sioux City, IA-NE-SD (MSA)                           | 2004-01-01          | 2021-01-01        |
-| SMU19435803200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Sioux City, IA-NE-SD (MSA)                           | 2004-01-01          | 2022-01-01        |
+| SMU19435803200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Sioux City, IA-NE-SD (MSA)                           | 2004-01-01          | 2022-02-01        |
 | SMU19435804000000001A     | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU19435804200000001      | All Employees: Retail Trade in Sioux City, IA-NE-SD (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU19435804200000001      | All Employees: Retail Trade in Sioux City, IA-NE-SD (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU19435804200000001A     | All Employees: Retail Trade in Sioux City, IA-NE-SD (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU19435804200000001SA    | All Employees: Retail Trade in Sioux City, IA-NE-SD (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU19435804200000001SA    | All Employees: Retail Trade in Sioux City, IA-NE-SD (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU19435806000000001A     | All Employees: Professional and Business Services in Sioux City, IA-NE-SD (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU19435807000000001A     | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU19435809000000001A     | All Employees: Government in Sioux City, IA-NE-SD (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU19435809091000001      | All Employees: Government: Federal Government in Sioux City, IA-NE-SD (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU19435809091000001      | All Employees: Government: Federal Government in Sioux City, IA-NE-SD (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU19435809091000001A     | All Employees: Federal Government in Sioux City, IA-NE-SD (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU19435809091000001SA    | All Employees: Government: Federal Government in Sioux City, IA-NE-SD (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU19435809092000001      | All Employees: Government: State Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU19435809091000001SA    | All Employees: Government: Federal Government in Sioux City, IA-NE-SD (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU19435809092000001      | All Employees: Government: State Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU19435809092000001A     | All Employees: State Government in Sioux City, IA-NE-SD (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU19435809092000001SA    | All Employees: Government: State Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU19435809093000001      | All Employees: Government: Local Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU19435809092000001SA    | All Employees: Government: State Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU19435809093000001      | All Employees: Government: Local Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU19435809093000001A     | All Employees: Local Government in Sioux City, IA-NE-SD (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU19435809093000001SA    | All Employees: Government: Local Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU19435809093000001SA    | All Employees: Government: Local Government in Sioux City, IA-NE-SD (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA43580              | Market Hotness: Supply Score in Sioux City, IA-NE-SD (CBSA)                                             | 2017-08-01          | 2022-01-01        |

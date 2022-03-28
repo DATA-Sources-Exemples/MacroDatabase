@@ -10,14 +10,14 @@
 | COTONA475SCEN       | Number of Identified Exporters to Tonga from Colorado                                                                     | 2004-01-01          | 2014-01-01        |
 | CTTONA475SCEN       | Number of Identified Exporters to Tonga from Connecticut                                                                  | 2011-01-01          | 2011-01-01        |
 | DCTONA475SCEN       | Number of Identified Exporters to Tonga from District of Columbia                                                         | 2002-01-01          | 2016-01-01        |
-| DDAI02TOA643NWDB    | Number of Bank Branches for Tonga                                                                                         | 2004-01-01          | 2015-01-01        |
+| DDAI02TOA643NWDB    | Number of Bank Branches for Tonga                                                                                         | 2004-01-01          | 2018-01-01        |
 | DDAI03TOA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Tonga                                                         | 2009-01-01          | 2009-01-01        |
 | DDAI04TOA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Tonga                                             | 2009-01-01          | 2009-01-01        |
 | DDDI01TOA156NWDB    | Private Credit by Deposit Money Banks to GDP for Tonga                                                                    | 1975-01-01          | 2016-01-01        |
 | DDDI02TOA156NWDB    | Deposit Money Bank Assets to GDP for Tonga                                                                                | 1975-01-01          | 2016-01-01        |
-| DDDI04TOA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Tonga                                  | 1989-01-01          | 2016-01-01        |
-| DDDI05TOA156NWDB    | Liquid Liabilities to GDP for Tonga                                                                                       | 1989-01-01          | 2016-01-01        |
-| DDDI06TOA156NWDB    | Central Bank Assets to GDP for Tonga                                                                                      | 1989-01-01          | 2016-01-01        |
+| DDDI04TOA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Tonga                                  | 1989-01-01          | 2018-01-01        |
+| DDDI05TOA156NWDB    | Liquid Liabilities to GDP for Tonga                                                                                       | 1989-01-01          | 2018-01-01        |
+| DDDI06TOA156NWDB    | Central Bank Assets to GDP for Tonga                                                                                      | 1989-01-01          | 2018-01-01        |
 | DDDI08TOA156NWDB    | Financial System Deposits to GDP for Tonga                                                                                | 1975-01-01          | 2016-01-01        |
 | DDDI12TOA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Tonga                                   | 1975-01-01          | 2016-01-01        |
 | DDEI01TOA156NWDB    | Bank's Net Interest Margin for Tonga                                                                                      | 1996-01-01          | 2009-01-01        |
@@ -27,14 +27,14 @@
 | DDEI05TOA156NWDB    | Bank's Return on Assets for Tonga                                                                                         | 1996-01-01          | 2009-01-01        |
 | DDEI06TOA156NWDB    | Bank's Return on Equity for Tonga                                                                                         | 1996-01-01          | 2009-01-01        |
 | DDEI07TOA156NWDB    | Bank's Cost to Income Ratio for Tonga                                                                                     | 1996-01-01          | 2009-01-01        |
-| DDEI08TOA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Tonga                                                         | 1980-01-01          | 2016-01-01        |
-| DDOE01TOA086NWDB    | Consumer Price Index for Tonga                                                                                            | 1975-01-01          | 2016-01-01        |
-| DDOE02TOA086NWDB    | Consumer Price Index for Tonga                                                                                            | 1975-01-01          | 2016-01-01        |
+| DDEI08TOA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Tonga                                                         | 1980-01-01          | 2019-01-01        |
+| DDOE01TOA086NWDB    | Consumer Price Index for Tonga                                                                                            | 1975-01-01          | 2017-01-01        |
+| DDOE02TOA086NWDB    | Consumer Price Index for Tonga                                                                                            | 1975-01-01          | 2017-01-01        |
 | DDOI02TOA156NWDB    | Bank Deposits to GDP for Tonga                                                                                            | 1975-01-01          | 2016-01-01        |
-| DDOI07TOA648NWDB    | Liquid Liabilities (Broad Money) for Tonga                                                                                | 1989-01-01          | 2016-01-01        |
+| DDOI07TOA648NWDB    | Liquid Liabilities (Broad Money) for Tonga                                                                                | 1989-01-01          | 2020-01-01        |
 | DDOI09TOA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Tonga                                                      | 1995-01-01          | 2013-01-01        |
-| DDOI10TOA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Tonga                                | 1995-01-01          | 2016-01-01        |
-| DDOI11TOA156NWDB    | Remittance Inflows to GDP for Tonga                                                                                       | 1975-01-01          | 2017-01-01        |
+| DDOI10TOA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Tonga                                | 1995-01-01          | 2018-01-01        |
+| DDOI11TOA156NWDB    | Remittance Inflows to GDP for Tonga                                                                                       | 1975-01-01          | 2019-01-01        |
 | DDOI12TOA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Tonga                                                       | 1989-01-01          | 2016-01-01        |
 | DDSI01TOA645NWDB    | Bank Z-Score for Tonga                                                                                                    | 1996-01-01          | 2009-01-01        |
 | DDSI04TOA156NWDB    | Bank Credit to Bank Deposits for Tonga                                                                                    | 1974-01-01          | 2016-01-01        |

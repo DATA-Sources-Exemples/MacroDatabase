@@ -8,23 +8,23 @@
 | AVELISPRIMM17980          | Housing Inventory: Average Listing Price Month-Over-Month in Columbus, GA-AL (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY17980          | Housing Inventory: Average Listing Price Year-Over-Year in Columbus, GA-AL (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | CBSPOP                    | Resident Population in Columbus, GA-AL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| COLU913FIRE               | All Employees: Financial Activities in Columbus, GA-AL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| COLU913FIREN              | All Employees: Financial Activities in Columbus, GA-AL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| COLU913GOVT               | All Employees: Government in Columbus, GA-AL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| COLU913GOVTN              | All Employees: Government in Columbus, GA-AL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| COLU913INFO               | All Employees: Information in Columbus, GA-AL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| COLU913INFON              | All Employees: Information in Columbus, GA-AL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| COLU913LEIH               | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| COLU913LEIHN              | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| COLU913FIRE               | All Employees: Financial Activities in Columbus, GA-AL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| COLU913FIREN              | All Employees: Financial Activities in Columbus, GA-AL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| COLU913GOVT               | All Employees: Government in Columbus, GA-AL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| COLU913GOVTN              | All Employees: Government in Columbus, GA-AL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| COLU913INFO               | All Employees: Information in Columbus, GA-AL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| COLU913INFON              | All Employees: Information in Columbus, GA-AL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| COLU913LEIH               | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| COLU913LEIHN              | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | COLU913LF                 | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | COLU913LFN                | Civilian Labor Force in Columbus, GA-AL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| COLU913NA                 | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| COLU913NAN                | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| COLU913PBSV               | All Employees: Professional and Business Services in Columbus, GA-AL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| COLU913PBSVN              | All Employees: Professional and Business Services in Columbus, GA-AL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| COLU913NA                 | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| COLU913NAN                | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| COLU913PBSV               | All Employees: Professional and Business Services in Columbus, GA-AL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| COLU913PBSVN              | All Employees: Professional and Business Services in Columbus, GA-AL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | COLU913PCPI               | Per Capita Personal Income in Columbus, GA-AL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| COLU913TRAD               | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| COLU913TRADN              | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| COLU913TRAD               | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| COLU913TRADN              | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | COLU913UR                 | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | COLU913URN                | Unemployment Rate in Columbus, GA-AL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DESCMSA17980              | Market Hotness: Demand Score in Columbus, GA-AL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
@@ -97,69 +97,69 @@
 | RPPGOOD17980              | Regional Price Parities: Goods for Columbus, GA-AL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH17980          | Regional Price Parities: Services: Other for Columbus, GA-AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT17980         | Regional Price Parities: Services: Rents for Columbus, GA-AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS13179800000000026      | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS13179800000000026      | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU13179800000000001A     | All Employees: Total Nonfarm in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13179800500000001      | All Employees: Total Private in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU13179800500000001      | All Employees: Total Private in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU13179800500000001A     | All Employees: Total Private in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13179800500000001SA    | All Employees: Total Private in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU13179800500000002      | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU13179800500000001SA    | All Employees: Total Private in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU13179800500000002      | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU13179800500000002A     | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU13179800500000002SA    | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU13179800500000003      | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU13179800500000002SA    | Average Weekly Hours of All Employees: Total Private in Columbus, GA-AL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU13179800500000003      | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU13179800500000003A     | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13179800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU13179800500000011      | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU13179800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU13179800500000011      | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU13179800500000011A     | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13179800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU13179800600000001      | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU13179800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Columbus, GA-AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU13179800600000001      | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU13179800600000001A     | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU13179800600000001SA    | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU13179800700000001      | All Employees: Service-Providing in Columbus, GA-AL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU13179800600000001SA    | All Employees: Goods Producing in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU13179800700000001      | All Employees: Service-Providing in Columbus, GA-AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU13179800700000001A     | All Employees: Service-Providing in Columbus, GA-AL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU13179800700000001SA    | All Employees: Service-Providing in Columbus, GA-AL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU13179800800000001      | All Employees: Private Service Providing in Columbus, GA-AL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU13179800700000001SA    | All Employees: Service-Providing in Columbus, GA-AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU13179800800000001      | All Employees: Private Service Providing in Columbus, GA-AL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU13179800800000001A     | All Employees: Private Service Providing in Columbus, GA-AL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU13179800800000001SA    | All Employees: Private Service Providing in Columbus, GA-AL (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU13179801500000001      | All Employees: Mining, Logging, and Construction in Columbus, GA-AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU13179800800000001SA    | All Employees: Private Service Providing in Columbus, GA-AL (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU13179801500000001      | All Employees: Mining, Logging, and Construction in Columbus, GA-AL (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU13179801500000001A     | All Employees: Mining, Logging, and Construction in Columbus, GA-AL (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU13179801500000001SA    | All Employees: Mining, Logging, and Construction in Columbus, GA-AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU13179803000000001      | All Employees: Manufacturing in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU13179801500000001SA    | All Employees: Mining, Logging, and Construction in Columbus, GA-AL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU13179803000000001      | All Employees: Manufacturing in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU13179803000000001A     | All Employees: Manufacturing in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13179803000000001SA    | All Employees: Manufacturing in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU13179803000000001SA    | All Employees: Manufacturing in Columbus, GA-AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU13179804000000001A     | All Employees: Trade, Transportation, and Utilities in Columbus, GA-AL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU13179804100000001      | All Employees: Wholesale Trade in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU13179804100000001      | All Employees: Wholesale Trade in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU13179804100000001A     | All Employees: Wholesale Trade in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU13179804100000001SA    | All Employees: Wholesale Trade in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU13179804200000001      | All Employees: Retail Trade in Columbus, GA-AL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU13179804100000001SA    | All Employees: Wholesale Trade in Columbus, GA-AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU13179804200000001      | All Employees: Retail Trade in Columbus, GA-AL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU13179804200000001A     | All Employees: Retail Trade in Columbus, GA-AL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU13179804200000001SA    | All Employees: Retail Trade in Columbus, GA-AL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU13179804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Columbus, GA-AL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU13179804200000001SA    | All Employees: Retail Trade in Columbus, GA-AL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU13179804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Columbus, GA-AL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU13179804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Columbus, GA-AL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU13179804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Columbus, GA-AL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU13179804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Columbus, GA-AL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU13179805000000001A     | All Employees: Information in Columbus, GA-AL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU13179805500000001A     | All Employees: Financial Activities in Columbus, GA-AL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU13179805552000001      | All Employees: Financial Activities: Finance and Insurance in Columbus, GA-AL (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU13179805552000001      | All Employees: Financial Activities: Finance and Insurance in Columbus, GA-AL (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU13179805552000001A     | All Employees: Financial Activities: Finance and Insurance in Columbus, GA-AL (MSA)                              | 1990-01-01          | 2021-01-01        |
-| SMU13179805552000001SA    | All Employees: Financial Activities: Finance and Insurance in Columbus, GA-AL (MSA)                              | 1990-01-01          | 2022-01-01        |
-| SMU13179805552400001      | All Employees: Financial Activities: Insurance Carriers and Related Activities in Columbus, GA-AL (MSA)          | 1990-01-01          | 2022-01-01        |
+| SMU13179805552000001SA    | All Employees: Financial Activities: Finance and Insurance in Columbus, GA-AL (MSA)                              | 1990-01-01          | 2022-02-01        |
+| SMU13179805552400001      | All Employees: Financial Activities: Insurance Carriers and Related Activities in Columbus, GA-AL (MSA)          | 1990-01-01          | 2022-02-01        |
 | SMU13179805552400001A     | All Employees: Financial Activities: Insurance Carriers and Related Activities in Columbus, GA-AL (MSA)          | 1990-01-01          | 2021-01-01        |
-| SMU13179805552400001SA    | All Employees: Financial Activities: Insurance Carriers and Related Activities in Columbus, GA-AL (MSA)          | 1990-01-01          | 2022-01-01        |
+| SMU13179805552400001SA    | All Employees: Financial Activities: Insurance Carriers and Related Activities in Columbus, GA-AL (MSA)          | 1990-01-01          | 2022-02-01        |
 | SMU13179806000000001A     | All Employees: Professional and Business Services in Columbus, GA-AL (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU13179806500000001      | All Employees: Education and Health Services in Columbus, GA-AL (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU13179806500000001      | All Employees: Education and Health Services in Columbus, GA-AL (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU13179806500000001A     | All Employees: Education and Health Services in Columbus, GA-AL (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU13179806500000001SA    | All Employees: Education and Health Services in Columbus, GA-AL (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU13179806500000001SA    | All Employees: Education and Health Services in Columbus, GA-AL (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU13179807000000001A     | All Employees: Leisure and Hospitality in Columbus, GA-AL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU13179808000000001      | All Employees: Other Services in Columbus, GA-AL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU13179808000000001      | All Employees: Other Services in Columbus, GA-AL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU13179808000000001A     | All Employees: Other Services in Columbus, GA-AL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU13179808000000001SA    | All Employees: Other Services in Columbus, GA-AL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU13179808000000001SA    | All Employees: Other Services in Columbus, GA-AL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU13179809000000001A     | All Employees: Government in Columbus, GA-AL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU13179809091000001      | All Employees: Government: Federal Government in Columbus, GA-AL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU13179809091000001      | All Employees: Government: Federal Government in Columbus, GA-AL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU13179809091000001A     | All Employees: Federal Government in Columbus, GA-AL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU13179809091000001SA    | All Employees: Government: Federal Government in Columbus, GA-AL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU13179809092000001      | All Employees: Government: State Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13179809091000001SA    | All Employees: Government: Federal Government in Columbus, GA-AL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU13179809092000001      | All Employees: Government: State Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU13179809092000001A     | All Employees: State Government in Columbus, GA-AL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13179809092000001SA    | All Employees: Government: State Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU13179809093000001      | All Employees: Government: Local Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13179809092000001SA    | All Employees: Government: State Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU13179809093000001      | All Employees: Government: Local Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU13179809093000001A     | All Employees: Local Government in Columbus, GA-AL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13179809093000001SA    | All Employees: Government: Local Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13179809093000001SA    | All Employees: Government: Local Government in Columbus, GA-AL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA17980              | Market Hotness: Supply Score in Columbus, GA-AL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

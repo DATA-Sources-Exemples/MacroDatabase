@@ -15,36 +15,36 @@
 | CTLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Connecticut                                                            | 1992-01-01          | 2016-01-01        |
 | DCLCAA052SCEN     | Value of Exports to Saint Lucia from District of Columbia                                                                 | 2002-01-01          | 2016-01-01        |
 | DCLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from District of Columbia                                                   | 1992-01-01          | 2016-01-01        |
-| DDAI02LCA643NWDB  | Number of Bank Branches for Saint Lucia                                                                                   | 2004-01-01          | 2016-01-01        |
-| DDDI01LCA156NWDB  | Private Credit by Deposit Money Banks to GDP for Saint Lucia                                                              | 1975-01-01          | 2016-01-01        |
-| DDDI02LCA156NWDB  | Deposit Money Bank Assets to GDP for Saint Lucia                                                                          | 1975-01-01          | 2016-01-01        |
-| DDDI04LCA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Saint Lucia                            | 1975-01-01          | 2015-01-01        |
-| DDDI05LCA156NWDB  | Liquid Liabilities to GDP for Saint Lucia                                                                                 | 1975-01-01          | 2016-01-01        |
-| DDDI06LCA156NWDB  | Central Bank Assets to GDP for Saint Lucia                                                                                | 1975-01-01          | 2015-01-01        |
-| DDDI08LCA156NWDB  | Financial System Deposits to GDP for Saint Lucia                                                                          | 1975-01-01          | 2016-01-01        |
-| DDDI09LCA156NWDB  | Life Insurance Premium Volume to GDP for Saint Lucia                                                                      | 1996-01-01          | 2014-01-01        |
-| DDDI10LCA156NWDB  | Non-Life Insurance Premium Volume to GDP for Saint Lucia                                                                  | 1996-01-01          | 2014-01-01        |
-| DDDI12LCA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Saint Lucia                             | 1975-01-01          | 2016-01-01        |
+| DDAI02LCA643NWDB  | Number of Bank Branches for Saint Lucia                                                                                   | 2004-01-01          | 2019-01-01        |
+| DDDI01LCA156NWDB  | Private Credit by Deposit Money Banks to GDP for Saint Lucia                                                              | 1975-01-01          | 2020-01-01        |
+| DDDI02LCA156NWDB  | Deposit Money Bank Assets to GDP for Saint Lucia                                                                          | 1975-01-01          | 2020-01-01        |
+| DDDI04LCA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Saint Lucia                            | 1975-01-01          | 2020-01-01        |
+| DDDI05LCA156NWDB  | Liquid Liabilities to GDP for Saint Lucia                                                                                 | 1975-01-01          | 2020-01-01        |
+| DDDI06LCA156NWDB  | Central Bank Assets to GDP for Saint Lucia                                                                                | 1975-01-01          | 2020-01-01        |
+| DDDI08LCA156NWDB  | Financial System Deposits to GDP for Saint Lucia                                                                          | 1975-01-01          | 2020-01-01        |
+| DDDI09LCA156NWDB  | Life Insurance Premium Volume to GDP for Saint Lucia                                                                      | 1996-01-01          | 2017-01-01        |
+| DDDI10LCA156NWDB  | Non-Life Insurance Premium Volume to GDP for Saint Lucia                                                                  | 1996-01-01          | 2017-01-01        |
+| DDDI12LCA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Saint Lucia                             | 1975-01-01          | 2020-01-01        |
 | DDEI01LCA156NWDB  | Bank's Net Interest Margin for Saint Lucia                                                                                | 1996-01-01          | 2016-01-01        |
-| DDEI02LCA156NWDB  | Bank Lending Deposit Spread for Saint Lucia                                                                               | 1980-01-01          | 2016-01-01        |
+| DDEI02LCA156NWDB  | Bank Lending Deposit Spread for Saint Lucia                                                                               | 1980-01-01          | 2019-01-01        |
 | DDEI03LCA156NWDB  | Bank's Non-Interest Income to Total Income for Saint Lucia                                                                | 2000-01-01          | 2014-01-01        |
 | DDEI04LCA156NWDB  | Bank's Overhead Costs to Total Assets for Saint Lucia                                                                     | 1996-01-01          | 2016-01-01        |
 | DDEI05LCA156NWDB  | Bank's Return on Assets for Saint Lucia                                                                                   | 1996-01-01          | 2015-01-01        |
 | DDEI06LCA156NWDB  | Bank's Return on Equity for Saint Lucia                                                                                   | 1996-01-01          | 2015-01-01        |
 | DDEI07LCA156NWDB  | Bank's Cost to Income Ratio for Saint Lucia                                                                               | 2000-01-01          | 2014-01-01        |
-| DDEI08LCA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Saint Lucia                                                   | 1980-01-01          | 2016-01-01        |
-| DDOE01LCA086NWDB  | Consumer Price Index for Saint Lucia                                                                                      | 1964-01-01          | 2016-01-01        |
-| DDOE02LCA086NWDB  | Consumer Price Index for Saint Lucia                                                                                      | 1964-01-01          | 2016-01-01        |
-| DDOI01LCA156NWDB  | Bank Concentration for Saint Lucia                                                                                        | 2009-01-01          | 2013-01-01        |
-| DDOI02LCA156NWDB  | Bank Deposits to GDP for Saint Lucia                                                                                      | 1975-01-01          | 2016-01-01        |
+| DDEI08LCA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Saint Lucia                                                   | 1980-01-01          | 2019-01-01        |
+| DDOE01LCA086NWDB  | Consumer Price Index for Saint Lucia                                                                                      | 1964-01-01          | 2017-01-01        |
+| DDOE02LCA086NWDB  | Consumer Price Index for Saint Lucia                                                                                      | 1964-01-01          | 2017-01-01        |
+| DDOI01LCA156NWDB  | Bank Concentration for Saint Lucia                                                                                        | 2009-01-01          | 2018-01-01        |
+| DDOI02LCA156NWDB  | Bank Deposits to GDP for Saint Lucia                                                                                      | 1975-01-01          | 2020-01-01        |
 | DDOI05LCA156NWDB  | Boone Indicator in Banking Market for Saint Lucia                                                                         | 2000-01-01          | 2014-01-01        |
-| DDOI07LCA648NWDB  | Liquid Liabilities (Broad Money) for Saint Lucia                                                                          | 1975-01-01          | 2016-01-01        |
+| DDOI07LCA648NWDB  | Liquid Liabilities (Broad Money) for Saint Lucia                                                                          | 1975-01-01          | 2020-01-01        |
 | DDOI09LCA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Saint Lucia                                                | 1995-01-01          | 2015-01-01        |
-| DDOI10LCA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Saint Lucia                          | 1997-01-01          | 2016-01-01        |
-| DDOI11LCA156NWDB  | Remittance Inflows to GDP for Saint Lucia                                                                                 | 1983-01-01          | 2017-01-01        |
-| DDOI12LCA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Saint Lucia                                                 | 1983-01-01          | 2016-01-01        |
+| DDOI10LCA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Saint Lucia                          | 1997-01-01          | 2020-01-01        |
+| DDOI11LCA156NWDB  | Remittance Inflows to GDP for Saint Lucia                                                                                 | 1983-01-01          | 2020-01-01        |
+| DDOI12LCA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Saint Lucia                                                 | 1983-01-01          | 2019-01-01        |
 | DDSI01LCA645NWDB  | Bank Z-Score for Saint Lucia                                                                                              | 1996-01-01          | 2016-01-01        |
-| DDSI04LCA156NWDB  | Bank Credit to Bank Deposits for Saint Lucia                                                                              | 1975-01-01          | 2016-01-01        |
+| DDSI04LCA156NWDB  | Bank Credit to Bank Deposits for Saint Lucia                                                                              | 1975-01-01          | 2019-01-01        |
 | DDSI06LCA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Saint Lucia                                                          | 1996-01-01          | 2016-01-01        |
 | DELCAA052SCEN     | Value of Exports to Saint Lucia from Delaware                                                                             | 2012-01-01          | 2012-01-01        |
 | DELCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Delaware                                                               | 1997-01-01          | 2016-01-01        |

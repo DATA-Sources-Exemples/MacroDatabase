@@ -1,21 +1,21 @@
 | id      | title                                                                                    | observation_start   | observation_end   |
 |---------|------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DFII5   | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Inflation-Indexed  | 2003-01-02          | 2022-03-21        |
-| DFII7   | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Inflation-Indexed  | 2003-01-02          | 2022-03-21        |
-| DFII10  | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Inflation-Indexed | 2003-01-02          | 2022-03-21        |
-| DFII20  | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Inflation-Indexed | 2004-07-27          | 2022-03-21        |
-| DFII30  | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Inflation-Indexed | 2010-02-22          | 2022-03-21        |
-| DGS1    | Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity                     | 1962-01-02          | 2022-03-21        |
-| DGS1MO  | Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity                    | 2001-07-31          | 2022-03-21        |
-| DGS2    | Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity                     | 1976-06-01          | 2022-03-21        |
-| DGS3    | Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity                     | 1962-01-02          | 2022-03-21        |
-| DGS3MO  | Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity                    | 1981-09-01          | 2022-03-21        |
-| DGS5    | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity                     | 1962-01-02          | 2022-03-21        |
-| DGS6MO  | Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity                    | 1981-09-01          | 2022-03-21        |
-| DGS7    | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity                     | 1969-07-01          | 2022-03-21        |
-| DGS10   | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity                    | 1962-01-02          | 2022-03-21        |
-| DGS20   | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity                    | 1962-01-02          | 2022-03-21        |
-| DGS30   | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity                    | 1977-02-15          | 2022-03-21        |
+| DFII5   | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Inflation-Indexed  | 2003-01-02          | 2022-03-24        |
+| DFII7   | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Inflation-Indexed  | 2003-01-02          | 2022-03-24        |
+| DFII10  | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Inflation-Indexed | 2003-01-02          | 2022-03-24        |
+| DFII20  | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Inflation-Indexed | 2004-07-27          | 2022-03-24        |
+| DFII30  | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Inflation-Indexed | 2010-02-22          | 2022-03-24        |
+| DGS1    | Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity                     | 1962-01-02          | 2022-03-24        |
+| DGS1MO  | Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity                    | 2001-07-31          | 2022-03-24        |
+| DGS2    | Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity                     | 1976-06-01          | 2022-03-24        |
+| DGS3    | Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity                     | 1962-01-02          | 2022-03-24        |
+| DGS3MO  | Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity                    | 1981-09-01          | 2022-03-24        |
+| DGS5    | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity                     | 1962-01-02          | 2022-03-24        |
+| DGS6MO  | Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity                    | 1981-09-01          | 2022-03-24        |
+| DGS7    | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity                     | 1969-07-01          | 2022-03-24        |
+| DGS10   | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity                    | 1962-01-02          | 2022-03-24        |
+| DGS20   | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity                    | 1962-01-02          | 2022-03-24        |
+| DGS30   | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity                    | 1977-02-15          | 2022-03-24        |
 | FII5    | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Inflation-Indexed  | 2003-01-01          | 2022-02-01        |
 | FII7    | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Inflation-Indexed  | 2003-01-01          | 2022-02-01        |
 | FII10   | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Inflation-Indexed | 2003-01-01          | 2022-02-01        |

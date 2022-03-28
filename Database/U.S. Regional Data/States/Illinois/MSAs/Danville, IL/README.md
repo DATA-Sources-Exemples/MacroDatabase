@@ -7,31 +7,31 @@
 | AVELISPRI19180            | Housing Inventory: Average Listing Price in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM19180          | Housing Inventory: Average Listing Price Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY19180          | Housing Inventory: Average Listing Price Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| DANV117EDUH               | All Employees: Education and Health Services in Danville, IL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| DANV117EDUHN              | All Employees: Education and Health Services in Danville, IL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| DANV117FIRE               | All Employees: Financial Activities in Danville, IL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| DANV117FIREN              | All Employees: Financial Activities in Danville, IL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| DANV117GOVT               | All Employees: Government in Danville, IL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| DANV117GOVTN              | All Employees: Government in Danville, IL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| DANV117INFO               | All Employees: Information in Danville, IL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| DANV117INFON              | All Employees: Information in Danville, IL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| DANV117LEIH               | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| DANV117LEIHN              | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| DANV117EDUH               | All Employees: Education and Health Services in Danville, IL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| DANV117EDUHN              | All Employees: Education and Health Services in Danville, IL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| DANV117FIRE               | All Employees: Financial Activities in Danville, IL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| DANV117FIREN              | All Employees: Financial Activities in Danville, IL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| DANV117GOVT               | All Employees: Government in Danville, IL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| DANV117GOVTN              | All Employees: Government in Danville, IL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| DANV117INFO               | All Employees: Information in Danville, IL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| DANV117INFON              | All Employees: Information in Danville, IL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| DANV117LEIH               | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| DANV117LEIHN              | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | DANV117LF                 | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | DANV117LFN                | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| DANV117MFG                | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DANV117MFGN               | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DANV117NA                 | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DANV117NAN                | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DANV117NRMN               | All Employees: Mining, Logging, and Construction in Danville, IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| DANV117NRMNN              | All Employees: Mining, Logging, and Construction in Danville, IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| DANV117PBSV               | All Employees: Professional and Business Services in Danville, IL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| DANV117PBSVN              | All Employees: Professional and Business Services in Danville, IL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| DANV117MFG                | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DANV117MFGN               | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DANV117NA                 | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DANV117NAN                | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DANV117NRMN               | All Employees: Mining, Logging, and Construction in Danville, IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| DANV117NRMNN              | All Employees: Mining, Logging, and Construction in Danville, IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| DANV117PBSV               | All Employees: Professional and Business Services in Danville, IL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| DANV117PBSVN              | All Employees: Professional and Business Services in Danville, IL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | DANV117PCPI               | Per Capita Personal Income in Danville, IL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| DANV117SRVO               | All Employees: Other Services in Danville, IL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| DANV117SRVON              | All Employees: Other Services in Danville, IL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| DANV117TRAD               | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| DANV117TRADN              | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| DANV117SRVO               | All Employees: Other Services in Danville, IL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| DANV117SRVON              | All Employees: Other Services in Danville, IL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| DANV117TRAD               | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| DANV117TRADN              | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | DANV117UR                 | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DANV117URN                | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DNEPOP                    | Resident Population in Danville, IL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -84,40 +84,40 @@
 | RPPGOOD19180              | Regional Price Parities: Goods for Danville, IL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH19180          | Regional Price Parities: Services: Other for Danville, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT19180         | Regional Price Parities: Services: Rents for Danville, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS17191800000000026      | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS17191800000000026      | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU17191800000000001A     | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17191800500000001      | All Employees: Total Private in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU17191800500000001      | All Employees: Total Private in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU17191800500000001A     | All Employees: Total Private in Danville, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17191800500000001SA    | All Employees: Total Private in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU17191800500000002      | Average Weekly Hours of All Employees: Total Private in Danville, IL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU17191800500000001SA    | All Employees: Total Private in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU17191800500000002      | Average Weekly Hours of All Employees: Total Private in Danville, IL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU17191800500000002A     | Average Weekly Hours of All Employees: Total Private in Danville, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17191800500000002SA    | Average Weekly Hours of All Employees: Total Private in Danville, IL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU17191800500000003      | Average Hourly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU17191800500000002SA    | Average Weekly Hours of All Employees: Total Private in Danville, IL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU17191800500000003      | Average Hourly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU17191800500000003A     | Average Hourly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17191800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU17191800500000011      | Average Weekly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU17191800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU17191800500000011      | Average Weekly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU17191800500000011A     | Average Weekly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17191800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU17191800600000001      | All Employees: Goods Producing in Danville, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU17191800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Danville, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU17191800600000001      | All Employees: Goods Producing in Danville, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU17191800600000001A     | All Employees: Goods Producing in Danville, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU17191800600000001SA    | All Employees: Goods Producing in Danville, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU17191800700000001      | All Employees: Service-Providing in Danville, IL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU17191800600000001SA    | All Employees: Goods Producing in Danville, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU17191800700000001      | All Employees: Service-Providing in Danville, IL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU17191800700000001A     | All Employees: Service-Providing in Danville, IL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU17191800700000001SA    | All Employees: Service-Providing in Danville, IL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU17191800800000001      | All Employees: Private Service Providing in Danville, IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU17191800700000001SA    | All Employees: Service-Providing in Danville, IL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU17191800800000001      | All Employees: Private Service Providing in Danville, IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU17191800800000001A     | All Employees: Private Service Providing in Danville, IL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU17191800800000001SA    | All Employees: Private Service Providing in Danville, IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU17191800800000001SA    | All Employees: Private Service Providing in Danville, IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU17191801500000001A     | All Employees: Mining, Logging, and Construction in Danville, IL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU17191803000000001A     | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU17191804000000001A     | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU17191804100000001      | All Employees: Wholesale Trade in Danville, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU17191804100000001      | All Employees: Wholesale Trade in Danville, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU17191804100000001A     | All Employees: Wholesale Trade in Danville, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU17191804200000001      | All Employees: Retail Trade in Danville, IL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU17191804200000001      | All Employees: Retail Trade in Danville, IL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU17191804200000001A     | All Employees: Retail Trade in Danville, IL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU17191804200000001SA    | All Employees: Retail Trade in Danville, IL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU17191804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Danville, IL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU17191804200000001SA    | All Employees: Retail Trade in Danville, IL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU17191804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Danville, IL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU17191804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Danville, IL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU17191804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Danville, IL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU17191804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Danville, IL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU17191805000000001A     | All Employees: Information in Danville, IL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU17191805500000001A     | All Employees: Financial Activities in Danville, IL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU17191806000000001A     | All Employees: Professional and Business Services in Danville, IL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -125,15 +125,15 @@
 | SMU17191807000000001A     | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU17191808000000001A     | All Employees: Other Services in Danville, IL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU17191809000000001A     | All Employees: Government in Danville, IL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU17191809091000001      | All Employees: Government: Federal Government in Danville, IL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU17191809091000001      | All Employees: Government: Federal Government in Danville, IL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU17191809091000001A     | All Employees: Federal Government in Danville, IL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU17191809091000001SA    | All Employees: Government: Federal Government in Danville, IL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU17191809092000001      | All Employees: Government: State Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17191809091000001SA    | All Employees: Government: Federal Government in Danville, IL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU17191809092000001      | All Employees: Government: State Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17191809092000001A     | All Employees: State Government in Danville, IL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU17191809092000001SA    | All Employees: Government: State Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU17191809093000001      | All Employees: Government: Local Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17191809092000001SA    | All Employees: Government: State Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU17191809093000001      | All Employees: Government: Local Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17191809093000001A     | All Employees: Local Government in Danville, IL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU17191809093000001SA    | All Employees: Government: Local Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU17191809093161101      | All Employees: Government: Local Government Educational Services in Danville, IL (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU17191809093000001SA    | All Employees: Government: Local Government in Danville, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU17191809093161101      | All Employees: Government: Local Government Educational Services in Danville, IL (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU17191809093161101A     | All Employees: Local Government Educational Services in Danville, IL (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU17191809093161101SA    | All Employees: Government: Local Government Educational Services in Danville, IL (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU17191809093161101SA    | All Employees: Government: Local Government Educational Services in Danville, IL (MSA)                        | 1990-01-01          | 2022-02-01        |

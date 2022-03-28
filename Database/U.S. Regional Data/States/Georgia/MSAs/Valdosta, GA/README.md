@@ -56,52 +56,52 @@
 | RPPGOOD46660              | Regional Price Parities: Goods for Valdosta, GA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH46660          | Regional Price Parities: Services: Other for Valdosta, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT46660         | Regional Price Parities: Services: Rents for Valdosta, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS13466600000000026      | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS13466600000000026      | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU13466600000000001A     | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13466600500000001      | All Employees: Total Private in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU13466600500000001      | All Employees: Total Private in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU13466600500000001A     | All Employees: Total Private in Valdosta, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13466600500000001SA    | All Employees: Total Private in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU13466600500000002      | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU13466600500000001SA    | All Employees: Total Private in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU13466600500000002      | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU13466600500000002A     | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13466600500000002SA    | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU13466600500000003      | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU13466600500000002SA    | Average Weekly Hours of All Employees: Total Private in Valdosta, GA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU13466600500000003      | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU13466600500000003A     | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13466600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU13466600500000011      | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU13466600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU13466600500000011      | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU13466600500000011A     | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13466600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU13466600600000001      | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU13466600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Valdosta, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU13466600600000001      | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU13466600600000001A     | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU13466600600000001SA    | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU13466600700000001      | All Employees: Service-Providing in Valdosta, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU13466600600000001SA    | All Employees: Goods Producing in Valdosta, GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU13466600700000001      | All Employees: Service-Providing in Valdosta, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU13466600700000001A     | All Employees: Service-Providing in Valdosta, GA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU13466600700000001SA    | All Employees: Service-Providing in Valdosta, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU13466600800000001      | All Employees: Private Service Providing in Valdosta, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU13466600700000001SA    | All Employees: Service-Providing in Valdosta, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU13466600800000001      | All Employees: Private Service Providing in Valdosta, GA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU13466600800000001A     | All Employees: Private Service Providing in Valdosta, GA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU13466600800000001SA    | All Employees: Private Service Providing in Valdosta, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU13466600800000001SA    | All Employees: Private Service Providing in Valdosta, GA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU13466604000000001A     | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU13466604200000001      | All Employees: Retail Trade in Valdosta, GA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU13466604200000001      | All Employees: Retail Trade in Valdosta, GA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU13466604200000001A     | All Employees: Retail Trade in Valdosta, GA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU13466604200000001SA    | All Employees: Retail Trade in Valdosta, GA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU13466604200000001SA    | All Employees: Retail Trade in Valdosta, GA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU13466609000000001A     | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU13466609091000001      | All Employees: Government: Federal Government in Valdosta, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU13466609091000001      | All Employees: Government: Federal Government in Valdosta, GA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU13466609091000001A     | All Employees: Federal Government in Valdosta, GA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU13466609091000001SA    | All Employees: Government: Federal Government in Valdosta, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU13466609092000001      | All Employees: Government: State Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13466609091000001SA    | All Employees: Government: Federal Government in Valdosta, GA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU13466609092000001      | All Employees: Government: State Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU13466609092000001A     | All Employees: State Government in Valdosta, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13466609092000001SA    | All Employees: Government: State Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU13466609093000001      | All Employees: Government: Local Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13466609092000001SA    | All Employees: Government: State Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU13466609093000001      | All Employees: Government: Local Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU13466609093000001A     | All Employees: Local Government in Valdosta, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13466609093000001SA    | All Employees: Government: Local Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| VALD613GOVT               | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| VALD613GOVTN              | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU13466609093000001SA    | All Employees: Government: Local Government in Valdosta, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| VALD613GOVT               | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| VALD613GOVTN              | All Employees: Government in Valdosta, GA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | VALD613LF                 | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | VALD613LFN                | Civilian Labor Force in Valdosta, GA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| VALD613NA                 | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| VALD613NAN                | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| VALD613NA                 | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| VALD613NAN                | All Employees: Total Nonfarm in Valdosta, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | VALD613PCPI               | Per Capita Personal Income in Valdosta, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| VALD613TRAD               | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| VALD613TRADN              | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| VALD613TRAD               | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| VALD613TRADN              | All Employees: Trade, Transportation, and Utilities in Valdosta, GA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | VALD613UR                 | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | VALD613URN                | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| VLDPOP                    | Resident Population in Valdosta, GA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| VLDPOP                    | Resident Population in Valdosta, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |

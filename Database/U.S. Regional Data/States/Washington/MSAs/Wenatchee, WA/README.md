@@ -60,64 +60,64 @@
 | RPPGOOD48300              | Regional Price Parities: Goods for Wenatchee, WA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH48300          | Regional Price Parities: Services: Other for Wenatchee, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT48300         | Regional Price Parities: Services: Rents for Wenatchee, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS53483000000000026      | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS53483000000000026      | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU53483000000000001A     | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53483000500000001      | All Employees: Total Private in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU53483000500000001      | All Employees: Total Private in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU53483000500000001A     | All Employees: Total Private in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53483000500000001SA    | All Employees: Total Private in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU53483000500000002      | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU53483000500000001SA    | All Employees: Total Private in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU53483000500000002      | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU53483000500000002A     | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU53483000500000002SA    | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU53483000500000003      | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53483000500000002SA    | Average Weekly Hours of All Employees: Total Private in Wenatchee, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU53483000500000003      | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53483000500000003A     | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53483000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53483000500000011      | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53483000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53483000500000011      | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53483000500000011A     | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53483000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53483000600000001      | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU53483000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wenatchee, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53483000600000001      | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU53483000600000001A     | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53483000600000001SA    | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU53483000700000001      | All Employees: Service-Providing in Wenatchee, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU53483000600000001SA    | All Employees: Goods Producing in Wenatchee, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU53483000700000001      | All Employees: Service-Providing in Wenatchee, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU53483000700000001A     | All Employees: Service-Providing in Wenatchee, WA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU53483000700000001SA    | All Employees: Service-Providing in Wenatchee, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU53483000800000001      | All Employees: Private Service Providing in Wenatchee, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53483000700000001SA    | All Employees: Service-Providing in Wenatchee, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU53483000800000001      | All Employees: Private Service Providing in Wenatchee, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53483000800000001A     | All Employees: Private Service Providing in Wenatchee, WA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU53483000800000001SA    | All Employees: Private Service Providing in Wenatchee, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53483000800000001SA    | All Employees: Private Service Providing in Wenatchee, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53483001500000001A     | All Employees: Mining, Logging, and Construction in Wenatchee, WA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU53483003000000001A     | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU53483004000000001A     | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU53483004200000001      | All Employees: Retail Trade in Wenatchee, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53483004200000001      | All Employees: Retail Trade in Wenatchee, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53483004200000001A     | All Employees: Retail Trade in Wenatchee, WA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU53483004200000001SA    | All Employees: Retail Trade in Wenatchee, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53483004200000001SA    | All Employees: Retail Trade in Wenatchee, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53483006500000001A     | All Employees: Education and Health Services in Wenatchee, WA (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU53483007000000001A     | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU53483009000000001A     | All Employees: Government in Wenatchee, WA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU53483009091000001      | All Employees: Government: Federal Government in Wenatchee, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU53483009091000001      | All Employees: Government: Federal Government in Wenatchee, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU53483009091000001A     | All Employees: Federal Government in Wenatchee, WA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU53483009091000001SA    | All Employees: Government: Federal Government in Wenatchee, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU53483009092000001      | All Employees: Government: State Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53483009091000001SA    | All Employees: Government: Federal Government in Wenatchee, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU53483009092000001      | All Employees: Government: State Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53483009092000001A     | All Employees: State Government in Wenatchee, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53483009092000001SA    | All Employees: Government: State Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU53483009093000001      | All Employees: Government: Local Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53483009092000001SA    | All Employees: Government: State Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU53483009093000001      | All Employees: Government: Local Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53483009093000001A     | All Employees: Local Government in Wenatchee, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53483009093000001SA    | All Employees: Government: Local Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| WENA353EDUH               | All Employees: Education and Health Services in Wenatchee, WA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| WENA353EDUHN              | All Employees: Education and Health Services in Wenatchee, WA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| WENA353GOVT               | All Employees: Government in Wenatchee, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| WENA353GOVTN              | All Employees: Government in Wenatchee, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| WENA353LEIH               | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| WENA353LEIHN              | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SMU53483009093000001SA    | All Employees: Government: Local Government in Wenatchee, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| WENA353EDUH               | All Employees: Education and Health Services in Wenatchee, WA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| WENA353EDUHN              | All Employees: Education and Health Services in Wenatchee, WA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| WENA353GOVT               | All Employees: Government in Wenatchee, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| WENA353GOVTN              | All Employees: Government in Wenatchee, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| WENA353LEIH               | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| WENA353LEIHN              | All Employees: Leisure and Hospitality in Wenatchee, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | WENA353LF                 | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | WENA353LFN                | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| WENA353MFG                | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WENA353MFGN               | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WENA353NA                 | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WENA353NAN                | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WENA353NRMN               | All Employees: Mining, Logging, and Construction in Wenatchee, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| WENA353NRMNN              | All Employees: Mining, Logging, and Construction in Wenatchee, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
+| WENA353MFG                | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WENA353MFGN               | All Employees: Manufacturing in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WENA353NA                 | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WENA353NAN                | All Employees: Total Nonfarm in Wenatchee, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WENA353NRMN               | All Employees: Mining, Logging, and Construction in Wenatchee, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
+| WENA353NRMNN              | All Employees: Mining, Logging, and Construction in Wenatchee, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
 | WENA353PCPI               | Per Capita Personal Income in Wenatchee, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| WENA353TRAD               | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| WENA353TRADN              | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| WENA353TRAD               | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| WENA353TRADN              | All Employees: Trade, Transportation, and Utilities in Wenatchee, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | WENA353UR                 | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | WENA353URN                | Unemployment Rate in Wenatchee, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| WNCPOP                    | Resident Population in Wenatchee, WA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| WNCPOP                    | Resident Population in Wenatchee, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |

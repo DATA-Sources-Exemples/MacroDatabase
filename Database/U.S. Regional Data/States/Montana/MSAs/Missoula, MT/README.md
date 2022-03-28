@@ -38,26 +38,26 @@
 | MEDSQUFEE33540            | Housing Inventory: Median Home Size in Square Feet in Missoula, MT (CBSA)                             | 2016-07-01          | 2022-01-01        |
 | MEDSQUFEEMM33540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Missoula, MT (CBSA)            | 2017-07-01          | 2022-01-01        |
 | MEDSQUFEEYY33540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Missoula, MT (CBSA)              | 2017-07-01          | 2022-01-01        |
-| MILPOP                    | Resident Population in Missoula, MT (MSA)                                                             | 2000-01-01          | 2020-01-01        |
-| MISS530BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-01-01        |
-| MISS530BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-01-01        |
-| MISS530BPPRIV             | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-01-01        |
-| MISS530BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-01-01        |
-| MISS530EDUH               | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| MISS530EDUHN              | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| MISS530GOVT               | All Employees: Government in Missoula, MT (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| MISS530GOVTN              | All Employees: Government in Missoula, MT (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| MISS530LEIH               | All Employees: Leisure and Hospitality in Missoula, MT (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| MISS530LEIHN              | All Employees: Leisure and Hospitality in Missoula, MT (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| MILPOP                    | Resident Population in Missoula, MT (MSA)                                                             | 2000-01-01          | 2021-01-01        |
+| MISS530BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-02-01        |
+| MISS530BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-02-01        |
+| MISS530BPPRIV             | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-02-01        |
+| MISS530BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-02-01        |
+| MISS530EDUH               | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| MISS530EDUHN              | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| MISS530GOVT               | All Employees: Government in Missoula, MT (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| MISS530GOVTN              | All Employees: Government in Missoula, MT (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| MISS530LEIH               | All Employees: Leisure and Hospitality in Missoula, MT (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| MISS530LEIHN              | All Employees: Leisure and Hospitality in Missoula, MT (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | MISS530LF                 | Civilian Labor Force in Missoula, MT (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | MISS530LFN                | Civilian Labor Force in Missoula, MT (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MISS530NA                 | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| MISS530NAN                | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| MISS530PBSV               | All Employees: Professional and Business Services in Missoula, MT (MSA)                               | 1990-01-01          | 2022-01-01        |
-| MISS530PBSVN              | All Employees: Professional and Business Services in Missoula, MT (MSA)                               | 1990-01-01          | 2022-01-01        |
+| MISS530NA                 | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| MISS530NAN                | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| MISS530PBSV               | All Employees: Professional and Business Services in Missoula, MT (MSA)                               | 1990-01-01          | 2022-02-01        |
+| MISS530PBSVN              | All Employees: Professional and Business Services in Missoula, MT (MSA)                               | 1990-01-01          | 2022-02-01        |
 | MISS530PCPI               | Per Capita Personal Income in Missoula, MT (MSA)                                                      | 1969-01-01          | 2020-01-01        |
-| MISS530TRAD               | All Employees: Trade, Transportation, and Utilities in Missoula, MT (MSA)                             | 1990-01-01          | 2022-01-01        |
-| MISS530TRADN              | All Employees: Trade, Transportation, and Utilities in Missoula, MT (MSA)                             | 1990-01-01          | 2022-01-01        |
+| MISS530TRAD               | All Employees: Trade, Transportation, and Utilities in Missoula, MT (MSA)                             | 1990-01-01          | 2022-02-01        |
+| MISS530TRADN              | All Employees: Trade, Transportation, and Utilities in Missoula, MT (MSA)                             | 1990-01-01          | 2022-02-01        |
 | MISS530UR                 | Unemployment Rate in Missoula, MT (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | MISS530URN                | Unemployment Rate in Missoula, MT (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | NEWLISCOU33540            | Housing Inventory: New Listing Count in Missoula, MT (CBSA)                                           | 2016-07-01          | 2022-01-01        |
@@ -82,43 +82,43 @@
 | RPPGOOD33540              | Regional Price Parities: Goods for Missoula, MT (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH33540          | Regional Price Parities: Services: Other for Missoula, MT (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT33540         | Regional Price Parities: Services: Rents for Missoula, MT (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| SMS30335400000000026      | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-04-01          | 2022-01-01        |
+| SMS30335400000000026      | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-04-01          | 2022-02-01        |
 | SMU30335400000000001A     | All Employees: Total Nonfarm in Missoula, MT (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU30335400500000001      | All Employees: Total Private in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU30335400500000001      | All Employees: Total Private in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU30335400500000001A     | All Employees: Total Private in Missoula, MT (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU30335400500000001SA    | All Employees: Total Private in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMU30335400500000002      | Average Weekly Hours of All Employees: Total Private in Missoula, MT (MSA)                            | 2007-01-01          | 2022-01-01        |
+| SMU30335400500000001SA    | All Employees: Total Private in Missoula, MT (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU30335400500000002      | Average Weekly Hours of All Employees: Total Private in Missoula, MT (MSA)                            | 2007-01-01          | 2022-02-01        |
 | SMU30335400500000002A     | Average Weekly Hours of All Employees: Total Private in Missoula, MT (MSA)                            | 2007-01-01          | 2021-01-01        |
-| SMU30335400500000002SA    | Average Weekly Hours of All Employees: Total Private in Missoula, MT (MSA)                            | 2007-01-01          | 2022-01-01        |
-| SMU30335400500000003      | Average Hourly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU30335400500000002SA    | Average Weekly Hours of All Employees: Total Private in Missoula, MT (MSA)                            | 2007-01-01          | 2022-02-01        |
+| SMU30335400500000003      | Average Hourly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU30335400500000003A     | Average Hourly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU30335400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU30335400500000011      | Average Weekly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU30335400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU30335400500000011      | Average Weekly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU30335400500000011A     | Average Weekly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU30335400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU30335400600000001      | All Employees: Goods Producing in Missoula, MT (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU30335400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Missoula, MT (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU30335400600000001      | All Employees: Goods Producing in Missoula, MT (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU30335400600000001A     | All Employees: Goods Producing in Missoula, MT (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU30335400600000001SA    | All Employees: Goods Producing in Missoula, MT (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU30335400700000001      | All Employees: Service-Providing in Missoula, MT (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU30335400600000001SA    | All Employees: Goods Producing in Missoula, MT (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU30335400700000001      | All Employees: Service-Providing in Missoula, MT (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU30335400700000001A     | All Employees: Service-Providing in Missoula, MT (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU30335400700000001SA    | All Employees: Service-Providing in Missoula, MT (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU30335400800000001      | All Employees: Private Service Providing in Missoula, MT (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU30335400700000001SA    | All Employees: Service-Providing in Missoula, MT (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU30335400800000001      | All Employees: Private Service Providing in Missoula, MT (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU30335400800000001A     | All Employees: Private Service Providing in Missoula, MT (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU30335400800000001SA    | All Employees: Private Service Providing in Missoula, MT (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU30335400800000001SA    | All Employees: Private Service Providing in Missoula, MT (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU30335404000000001A     | All Employees: Trade, Transportation, and Utilities in Missoula, MT (MSA)                             | 1990-01-01          | 2021-01-01        |
 | SMU30335406000000001A     | All Employees: Professional and Business Services in Missoula, MT (MSA)                               | 1990-01-01          | 2021-01-01        |
 | SMU30335406500000001A     | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU30335406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Missoula, MT (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU30335406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Missoula, MT (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU30335406562000001A     | All Employees: Health Care and Social Assistance in Missoula, MT (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU30335406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Missoula, MT (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU30335406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Missoula, MT (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU30335407000000001A     | All Employees: Leisure and Hospitality in Missoula, MT (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU30335409000000001A     | All Employees: Government in Missoula, MT (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU30335409091000001      | All Employees: Government: Federal Government in Missoula, MT (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| SMU30335409091000001      | All Employees: Government: Federal Government in Missoula, MT (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | SMU30335409091000001A     | All Employees: Federal Government in Missoula, MT (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU30335409091000001SA    | All Employees: Government: Federal Government in Missoula, MT (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| SMU30335409092000001      | All Employees: Government: State Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU30335409091000001SA    | All Employees: Government: Federal Government in Missoula, MT (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| SMU30335409092000001      | All Employees: Government: State Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU30335409092000001A     | All Employees: State Government in Missoula, MT (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU30335409092000001SA    | All Employees: Government: State Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU30335409093000001      | All Employees: Government: Local Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU30335409092000001SA    | All Employees: Government: State Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU30335409093000001      | All Employees: Government: Local Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU30335409093000001A     | All Employees: Local Government in Missoula, MT (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU30335409093000001SA    | All Employees: Government: Local Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU30335409093000001SA    | All Employees: Government: Local Government in Missoula, MT (MSA)                                     | 1990-01-01          | 2022-02-01        |

@@ -8,31 +8,31 @@
 | AVELISPRIMM19460          | Housing Inventory: Average Listing Price Month-Over-Month in Decatur, AL (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY19460          | Housing Inventory: Average Listing Price Year-Over-Year in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | DCTPOP                    | Resident Population in Decatur, AL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| DECA401EDUH               | All Employees: Education and Health Services in Decatur, AL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| DECA401EDUHN              | All Employees: Education and Health Services in Decatur, AL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| DECA401FIRE               | All Employees: Financial Activities in Decatur, AL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| DECA401FIREN              | All Employees: Financial Activities in Decatur, AL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| DECA401GOVT               | All Employees: Government in Decatur, AL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| DECA401GOVTN              | All Employees: Government in Decatur, AL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| DECA401INFO               | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| DECA401INFON              | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| DECA401LEIH               | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| DECA401LEIHN              | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| DECA401EDUH               | All Employees: Education and Health Services in Decatur, AL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| DECA401EDUHN              | All Employees: Education and Health Services in Decatur, AL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| DECA401FIRE               | All Employees: Financial Activities in Decatur, AL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| DECA401FIREN              | All Employees: Financial Activities in Decatur, AL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| DECA401GOVT               | All Employees: Government in Decatur, AL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| DECA401GOVTN              | All Employees: Government in Decatur, AL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| DECA401INFO               | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| DECA401INFON              | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| DECA401LEIH               | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| DECA401LEIHN              | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | DECA401LF                 | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | DECA401LFN                | Civilian Labor Force in Decatur, AL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| DECA401MFG                | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DECA401MFGN               | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DECA401NA                 | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DECA401NAN                | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DECA401NRMN               | All Employees: Mining, Logging, and Construction in Decatur, AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| DECA401NRMNN              | All Employees: Mining, Logging, and Construction in Decatur, AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| DECA401PBSV               | All Employees: Professional and Business Services in Decatur, AL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| DECA401PBSVN              | All Employees: Professional and Business Services in Decatur, AL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| DECA401MFG                | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DECA401MFGN               | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DECA401NA                 | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DECA401NAN                | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DECA401NRMN               | All Employees: Mining, Logging, and Construction in Decatur, AL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| DECA401NRMNN              | All Employees: Mining, Logging, and Construction in Decatur, AL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| DECA401PBSV               | All Employees: Professional and Business Services in Decatur, AL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| DECA401PBSVN              | All Employees: Professional and Business Services in Decatur, AL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | DECA401PCPI               | Per Capita Personal Income in Decatur, AL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| DECA401SRVO               | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| DECA401SRVON              | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| DECA401TRAD               | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| DECA401TRADN              | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| DECA401SRVO               | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| DECA401SRVON              | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| DECA401TRAD               | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| DECA401TRADN              | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DESCMSA19460              | Market Hotness: Demand Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
@@ -114,47 +114,47 @@
 | RPPSERVEOTH19500          | Regional Price Parities: Services: Other for Decatur, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT19460         | Regional Price Parities: Services: Rents for Decatur, AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT19500         | Regional Price Parities: Services: Rents for Decatur, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS01194600000000026      | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS01194600000000026      | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU01194600000000001A     | All Employees: Total Nonfarm in Decatur, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01194600500000001      | All Employees: Total Private in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU01194600500000001      | All Employees: Total Private in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU01194600500000001A     | All Employees: Total Private in Decatur, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01194600500000001SA    | All Employees: Total Private in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU01194600500000002      | Average Weekly Hours of All Employees: Total Private in Decatur, AL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU01194600500000001SA    | All Employees: Total Private in Decatur, AL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU01194600500000002      | Average Weekly Hours of All Employees: Total Private in Decatur, AL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU01194600500000002A     | Average Weekly Hours of All Employees: Total Private in Decatur, AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU01194600500000002SA    | Average Weekly Hours of All Employees: Total Private in Decatur, AL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU01194600500000003      | Average Hourly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU01194600500000002SA    | Average Weekly Hours of All Employees: Total Private in Decatur, AL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU01194600500000003      | Average Hourly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU01194600500000003A     | Average Hourly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01194600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU01194600500000011      | Average Weekly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU01194600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU01194600500000011      | Average Weekly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU01194600500000011A     | Average Weekly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01194600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU01194600600000001      | All Employees: Goods Producing in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU01194600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Decatur, AL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU01194600600000001      | All Employees: Goods Producing in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU01194600600000001A     | All Employees: Goods Producing in Decatur, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU01194600600000001SA    | All Employees: Goods Producing in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU01194600700000001      | All Employees: Service-Providing in Decatur, AL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU01194600600000001SA    | All Employees: Goods Producing in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU01194600700000001      | All Employees: Service-Providing in Decatur, AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU01194600700000001A     | All Employees: Service-Providing in Decatur, AL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU01194600700000001SA    | All Employees: Service-Providing in Decatur, AL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU01194600800000001      | All Employees: Private Service Providing in Decatur, AL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU01194600700000001SA    | All Employees: Service-Providing in Decatur, AL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU01194600800000001      | All Employees: Private Service Providing in Decatur, AL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU01194600800000001A     | All Employees: Private Service Providing in Decatur, AL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU01194600800000001SA    | All Employees: Private Service Providing in Decatur, AL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU01194600800000001SA    | All Employees: Private Service Providing in Decatur, AL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU01194601500000001A     | All Employees: Mining, Logging, and Construction in Decatur, AL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU01194603000000001A     | All Employees: Manufacturing in Decatur, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01194603100000001      | All Employees: Manufacturing: Durable Goods in Decatur, AL (MSA)                                             | 2005-01-01          | 2022-01-01        |
+| SMU01194603100000001      | All Employees: Manufacturing: Durable Goods in Decatur, AL (MSA)                                             | 2005-01-01          | 2022-02-01        |
 | SMU01194603100000001A     | All Employees: Manufacturing: Durable Goods in Decatur, AL (MSA)                                             | 2005-01-01          | 2021-01-01        |
-| SMU01194603100000001SA    | All Employees: Manufacturing: Durable Goods in Decatur, AL (MSA)                                             | 2005-01-01          | 2022-01-01        |
-| SMU01194603200000001      | All Employees: Manufacturing: Non-Durable Goods in Decatur, AL (MSA)                                         | 2005-01-01          | 2022-01-01        |
+| SMU01194603100000001SA    | All Employees: Manufacturing: Durable Goods in Decatur, AL (MSA)                                             | 2005-01-01          | 2022-02-01        |
+| SMU01194603200000001      | All Employees: Manufacturing: Non-Durable Goods in Decatur, AL (MSA)                                         | 2005-01-01          | 2022-02-01        |
 | SMU01194603200000001A     | All Employees: Manufacturing: Non-Durable Goods in Decatur, AL (MSA)                                         | 2005-01-01          | 2021-01-01        |
-| SMU01194603200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Decatur, AL (MSA)                                         | 2005-01-01          | 2022-01-01        |
+| SMU01194603200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Decatur, AL (MSA)                                         | 2005-01-01          | 2022-02-01        |
 | SMU01194604000000001A     | All Employees: Trade, Transportation, and Utilities in Decatur, AL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU01194604100000001      | All Employees: Wholesale Trade in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU01194604100000001      | All Employees: Wholesale Trade in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU01194604100000001A     | All Employees: Wholesale Trade in Decatur, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU01194604100000001SA    | All Employees: Wholesale Trade in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU01194604200000001      | All Employees: Retail Trade in Decatur, AL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU01194604100000001SA    | All Employees: Wholesale Trade in Decatur, AL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU01194604200000001      | All Employees: Retail Trade in Decatur, AL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU01194604200000001A     | All Employees: Retail Trade in Decatur, AL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU01194604200000001SA    | All Employees: Retail Trade in Decatur, AL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU01194604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Decatur, AL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU01194604200000001SA    | All Employees: Retail Trade in Decatur, AL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU01194604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Decatur, AL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU01194604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Decatur, AL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU01194604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Decatur, AL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU01194604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Decatur, AL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU01194605000000001A     | All Employees: Information in Decatur, AL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU01194605500000001A     | All Employees: Financial Activities in Decatur, AL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU01194606000000001A     | All Employees: Professional and Business Services in Decatur, AL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -162,10 +162,10 @@
 | SMU01194607000000001A     | All Employees: Leisure and Hospitality in Decatur, AL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU01194608000000001A     | All Employees: Other Services in Decatur, AL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU01194609000000001A     | All Employees: Government in Decatur, AL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU01194609091000001      | All Employees: Government: Federal Government in Decatur, AL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU01194609091000001      | All Employees: Government: Federal Government in Decatur, AL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU01194609091000001A     | All Employees: Federal Government in Decatur, AL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU01194609091000001SA    | All Employees: Government: Federal Government in Decatur, AL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU01194609094000001      | All Employees: Government: Total State and Local Government in Decatur, AL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU01194609091000001SA    | All Employees: Government: Federal Government in Decatur, AL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU01194609094000001      | All Employees: Government: Total State and Local Government in Decatur, AL (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU01194609094000001A     | All Employees: Total State and Local Government in Decatur, AL (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU01194609094000001SA    | All Employees: Government: Total State and Local Government in Decatur, AL (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU01194609094000001SA    | All Employees: Government: Total State and Local Government in Decatur, AL (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA19460              | Market Hotness: Supply Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

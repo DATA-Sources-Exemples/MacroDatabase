@@ -56,30 +56,30 @@
 | MELIPRMSA33780            | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2017-08-01          | 2022-01-01        |
 | MELIPRVSUSMSA33780        | Market Hotness: Median Listing Price Versus the United States in Monroe, MI (CBSA)                          | 2017-08-01          | 2022-01-01        |
 | MELIPRYYMSA33780          | Market Hotness: Median Listing Price in Monroe, MI (CBSA)                                                   | 2018-08-01          | 2022-01-01        |
-| MNMPOP                    | Resident Population in Monroe, MI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| MONR726EDUH               | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MONR726EDUHN              | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MONR726FIRE               | All Employees: Financial Activities in Monroe, MI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MONR726FIREN              | All Employees: Financial Activities in Monroe, MI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MONR726GOVT               | All Employees: Government in Monroe, MI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MONR726GOVTN              | All Employees: Government in Monroe, MI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MONR726LEIH               | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| MONR726LEIHN              | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| MNMPOP                    | Resident Population in Monroe, MI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| MONR726EDUH               | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MONR726EDUHN              | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MONR726FIRE               | All Employees: Financial Activities in Monroe, MI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MONR726FIREN              | All Employees: Financial Activities in Monroe, MI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MONR726GOVT               | All Employees: Government in Monroe, MI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MONR726GOVTN              | All Employees: Government in Monroe, MI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MONR726LEIH               | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| MONR726LEIHN              | All Employees: Leisure and Hospitality in Monroe, MI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | MONR726LF                 | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | MONR726LFN                | Civilian Labor Force in Monroe, MI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| MONR726MFG                | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MONR726MFGN               | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MONR726NA                 | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MONR726NAN                | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MONR726NRMN               | All Employees: Mining, Logging, and Construction in Monroe, MI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MONR726NRMNN              | All Employees: Mining, Logging, and Construction in Monroe, MI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MONR726PBSV               | All Employees: Professional and Business Services in Monroe, MI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| MONR726PBSVN              | All Employees: Professional and Business Services in Monroe, MI (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| MONR726MFG                | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MONR726MFGN               | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MONR726NA                 | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MONR726NAN                | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MONR726NRMN               | All Employees: Mining, Logging, and Construction in Monroe, MI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MONR726NRMNN              | All Employees: Mining, Logging, and Construction in Monroe, MI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MONR726PBSV               | All Employees: Professional and Business Services in Monroe, MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| MONR726PBSVN              | All Employees: Professional and Business Services in Monroe, MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | MONR726PCPI               | Per Capita Personal Income in Monroe, MI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| MONR726SRVO               | All Employees: Other Services in Monroe, MI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MONR726SRVON              | All Employees: Other Services in Monroe, MI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MONR726TRAD               | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| MONR726TRADN              | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| MONR726SRVO               | All Employees: Other Services in Monroe, MI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MONR726SRVON              | All Employees: Other Services in Monroe, MI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MONR726TRAD               | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| MONR726TRADN              | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | MONR726UR                 | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | MONR726URN                | Unemployment Rate in Monroe, MI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | NEWLISCOU33780            | Housing Inventory: New Listing Count in Monroe, MI (CBSA)                                                   | 2016-07-01          | 2022-01-01        |
@@ -105,41 +105,41 @@
 | RPPGOOD33780              | Regional Price Parities: Goods for Monroe, MI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH33780          | Regional Price Parities: Services: Other for Monroe, MI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT33780         | Regional Price Parities: Services: Rents for Monroe, MI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS26337800000000026      | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS26337800000000026      | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU26337800000000001A     | All Employees: Total Nonfarm in Monroe, MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU26337800500000001      | All Employees: Total Private in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU26337800500000001      | All Employees: Total Private in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU26337800500000001A     | All Employees: Total Private in Monroe, MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU26337800500000001SA    | All Employees: Total Private in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU26337800500000002      | Average Weekly Hours of All Employees: Total Private in Monroe, MI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU26337800500000001SA    | All Employees: Total Private in Monroe, MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU26337800500000002      | Average Weekly Hours of All Employees: Total Private in Monroe, MI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU26337800500000002A     | Average Weekly Hours of All Employees: Total Private in Monroe, MI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU26337800500000002SA    | Average Weekly Hours of All Employees: Total Private in Monroe, MI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU26337800500000003      | Average Hourly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU26337800500000002SA    | Average Weekly Hours of All Employees: Total Private in Monroe, MI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU26337800500000003      | Average Hourly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU26337800500000003A     | Average Hourly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU26337800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU26337800500000011      | Average Weekly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU26337800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU26337800500000011      | Average Weekly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU26337800500000011A     | Average Weekly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU26337800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU26337800600000001      | All Employees: Goods Producing in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU26337800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Monroe, MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU26337800600000001      | All Employees: Goods Producing in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU26337800600000001A     | All Employees: Goods Producing in Monroe, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU26337800600000001SA    | All Employees: Goods Producing in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU26337800700000001      | All Employees: Service-Providing in Monroe, MI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU26337800600000001SA    | All Employees: Goods Producing in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU26337800700000001      | All Employees: Service-Providing in Monroe, MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU26337800700000001A     | All Employees: Service-Providing in Monroe, MI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU26337800700000001SA    | All Employees: Service-Providing in Monroe, MI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU26337800800000001      | All Employees: Private Service Providing in Monroe, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU26337800700000001SA    | All Employees: Service-Providing in Monroe, MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU26337800800000001      | All Employees: Private Service Providing in Monroe, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU26337800800000001A     | All Employees: Private Service Providing in Monroe, MI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU26337800800000001SA    | All Employees: Private Service Providing in Monroe, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU26337800800000001SA    | All Employees: Private Service Providing in Monroe, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU26337801500000001A     | All Employees: Mining, Logging, and Construction in Monroe, MI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU26337803000000001A     | All Employees: Manufacturing in Monroe, MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU26337804000000001A     | All Employees: Trade, Transportation, and Utilities in Monroe, MI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU26337804100000001      | All Employees: Wholesale Trade in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU26337804100000001      | All Employees: Wholesale Trade in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU26337804100000001A     | All Employees: Wholesale Trade in Monroe, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU26337804100000001SA    | All Employees: Wholesale Trade in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU26337804200000001      | All Employees: Retail Trade in Monroe, MI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU26337804100000001SA    | All Employees: Wholesale Trade in Monroe, MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU26337804200000001      | All Employees: Retail Trade in Monroe, MI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU26337804200000001A     | All Employees: Retail Trade in Monroe, MI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU26337804200000001SA    | All Employees: Retail Trade in Monroe, MI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU26337804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Monroe, MI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU26337804200000001SA    | All Employees: Retail Trade in Monroe, MI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU26337804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Monroe, MI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU26337804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Monroe, MI (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU26337804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Monroe, MI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU26337804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Monroe, MI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU26337805500000001A     | All Employees: Financial Activities in Monroe, MI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU26337806000000001A     | All Employees: Professional and Business Services in Monroe, MI (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU26337806500000001A     | All Employees: Education and Health Services in Monroe, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |

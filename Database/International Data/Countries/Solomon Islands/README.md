@@ -9,15 +9,15 @@
 | COSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Colorado                                                                         | 1997-01-01          | 2016-01-01        |
 | CTSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from Connecticut                                                                      | 2004-01-01          | 2016-01-01        |
 | DCSLBA475SCEN     | Number of Identified Exporters to Solomon Islands from District of Columbia                                                             | 1992-01-01          | 2016-01-01        |
-| DDAI02SBA643NWDB  | Number of Bank Branches for Solomon Islands                                                                                             | 2004-01-01          | 2016-01-01        |
-| DDDI01SBA156NWDB  | Private Credit by Deposit Money Banks to GDP for Solomon Islands                                                                        | 1978-01-01          | 2016-01-01        |
-| DDDI02SBA156NWDB  | Deposit Money Bank Assets to GDP for Solomon Islands                                                                                    | 1978-01-01          | 2016-01-01        |
-| DDDI03SBA156NWDB  | Non-Bank Financial Institutions' Assets to GDP for Solomon Islands                                                                      | 1977-01-01          | 2016-01-01        |
-| DDDI04SBA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Solomon Islands                                      | 1980-01-01          | 2016-01-01        |
-| DDDI05SBA156NWDB  | Liquid Liabilities to GDP for Solomon Islands                                                                                           | 1978-01-01          | 2016-01-01        |
-| DDDI06SBA156NWDB  | Central Bank Assets to GDP for Solomon Islands                                                                                          | 1980-01-01          | 2016-01-01        |
-| DDDI08SBA156NWDB  | Financial System Deposits to GDP for Solomon Islands                                                                                    | 1978-01-01          | 2016-01-01        |
-| DDDI12SBA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Solomon Islands                                       | 1977-01-01          | 2016-01-01        |
+| DDAI02SBA643NWDB  | Number of Bank Branches for Solomon Islands                                                                                             | 2004-01-01          | 2017-01-01        |
+| DDDI01SBA156NWDB  | Private Credit by Deposit Money Banks to GDP for Solomon Islands                                                                        | 1978-01-01          | 2020-01-01        |
+| DDDI02SBA156NWDB  | Deposit Money Bank Assets to GDP for Solomon Islands                                                                                    | 1978-01-01          | 2020-01-01        |
+| DDDI03SBA156NWDB  | Non-Bank Financial Institutions' Assets to GDP for Solomon Islands                                                                      | 1977-01-01          | 2020-01-01        |
+| DDDI04SBA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Solomon Islands                                      | 1980-01-01          | 2020-01-01        |
+| DDDI05SBA156NWDB  | Liquid Liabilities to GDP for Solomon Islands                                                                                           | 1978-01-01          | 2020-01-01        |
+| DDDI06SBA156NWDB  | Central Bank Assets to GDP for Solomon Islands                                                                                          | 1980-01-01          | 2020-01-01        |
+| DDDI08SBA156NWDB  | Financial System Deposits to GDP for Solomon Islands                                                                                    | 1978-01-01          | 2020-01-01        |
+| DDDI12SBA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Solomon Islands                                       | 1977-01-01          | 2020-01-01        |
 | DDEI01SBA156NWDB  | Bank's Net Interest Margin for Solomon Islands                                                                                          | 2004-01-01          | 2006-01-01        |
 | DDEI02SBA156NWDB  | Bank Lending Deposit Spread for Solomon Islands                                                                                         | 1981-01-01          | 2016-01-01        |
 | DDEI03SBA156NWDB  | Bank's Non-Interest Income to Total Income for Solomon Islands                                                                          | 2003-01-01          | 2006-01-01        |
@@ -25,16 +25,16 @@
 | DDEI05SBA156NWDB  | Bank's Return on Assets for Solomon Islands                                                                                             | 2004-01-01          | 2006-01-01        |
 | DDEI06SBA156NWDB  | Bank's Return on Equity for Solomon Islands                                                                                             | 2004-01-01          | 2006-01-01        |
 | DDEI07SBA156NWDB  | Bank's Cost to Income Ratio for Solomon Islands                                                                                         | 2003-01-01          | 2006-01-01        |
-| DDEI08SBA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Solomon Islands                                                             | 1980-01-01          | 2016-01-01        |
-| DDOE01SBA086NWDB  | Consumer Price Index for Solomon Islands                                                                                                | 1970-01-01          | 2016-01-01        |
-| DDOE02SBA086NWDB  | Consumer Price Index for Solomon Islands                                                                                                | 1970-01-01          | 2016-01-01        |
-| DDOI02SBA156NWDB  | Bank Deposits to GDP for Solomon Islands                                                                                                | 1978-01-01          | 2016-01-01        |
-| DDOI07SBA648NWDB  | Liquid Liabilities (Broad Money) for Solomon Islands                                                                                    | 1978-01-01          | 2016-01-01        |
+| DDEI08SBA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Solomon Islands                                                             | 1980-01-01          | 2018-01-01        |
+| DDOE01SBA086NWDB  | Consumer Price Index for Solomon Islands                                                                                                | 1970-01-01          | 2017-01-01        |
+| DDOE02SBA086NWDB  | Consumer Price Index for Solomon Islands                                                                                                | 1970-01-01          | 2017-01-01        |
+| DDOI02SBA156NWDB  | Bank Deposits to GDP for Solomon Islands                                                                                                | 1978-01-01          | 2020-01-01        |
+| DDOI07SBA648NWDB  | Liquid Liabilities (Broad Money) for Solomon Islands                                                                                    | 1978-01-01          | 2020-01-01        |
 | DDOI09SBA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Solomon Islands                                                          | 1995-01-01          | 2013-01-01        |
-| DDOI10SBA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Solomon Islands                                    | 1995-01-01          | 2016-01-01        |
-| DDOI11SBA156NWDB  | Remittance Inflows to GDP for Solomon Islands                                                                                           | 1999-01-01          | 2017-01-01        |
+| DDOI10SBA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Solomon Islands                                    | 1995-01-01          | 2020-01-01        |
+| DDOI11SBA156NWDB  | Remittance Inflows to GDP for Solomon Islands                                                                                           | 1999-01-01          | 2020-01-01        |
 | DDOI12SBA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Solomon Islands                                                           | 1983-01-01          | 2016-01-01        |
-| DDSI04SBA156NWDB  | Bank Credit to Bank Deposits for Solomon Islands                                                                                        | 1978-01-01          | 2016-01-01        |
+| DDSI04SBA156NWDB  | Bank Credit to Bank Deposits for Solomon Islands                                                                                        | 1978-01-01          | 2020-01-01        |
 | DDSI06SBA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Solomon Islands                                                                    | 2003-01-01          | 2006-01-01        |
 | EXP6223           | U.S. Exports of Goods by F.A.S. Basis to Solomon Islands                                                                                | 1992-01-01          | 2022-01-01        |
 | FLSLBA052SCEN     | Value of Exports to Solomon Islands from Florida                                                                                        | 2004-01-01          | 2017-01-01        |

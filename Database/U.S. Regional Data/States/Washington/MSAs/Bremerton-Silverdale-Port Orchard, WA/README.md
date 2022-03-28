@@ -7,23 +7,23 @@
 | AVELISPRI14740            | Housing Inventory: Average Listing Price in Bremerton-Silverdale, WA (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM14740          | Housing Inventory: Average Listing Price Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY14740          | Housing Inventory: Average Listing Price Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| BREM753GOVT               | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BREM753GOVTN              | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BREM753LEIH               | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| BREM753LEIHN              | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| BREM753GOVT               | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BREM753GOVTN              | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BREM753LEIH               | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| BREM753LEIHN              | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | BREM753LF                 | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BREM753LFN                | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BREM753MFG                | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BREM753MFGN               | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BREM753NA                 | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BREM753NAN                | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BREM753NRMN               | All Employees: Mining, Logging, and Construction in Bremerton-Silverdale, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BREM753NRMNN              | All Employees: Mining, Logging, and Construction in Bremerton-Silverdale, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BREM753PBSV               | All Employees: Professional and Business Services in Bremerton-Silverdale, WA (MSA)                         | 1990-01-01          | 2022-01-01        |
-| BREM753PBSVN              | All Employees: Professional and Business Services in Bremerton-Silverdale, WA (MSA)                         | 1990-01-01          | 2022-01-01        |
+| BREM753MFG                | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BREM753MFGN               | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BREM753NA                 | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BREM753NAN                | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BREM753NRMN               | All Employees: Mining, Logging, and Construction in Bremerton-Silverdale, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BREM753NRMNN              | All Employees: Mining, Logging, and Construction in Bremerton-Silverdale, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BREM753PBSV               | All Employees: Professional and Business Services in Bremerton-Silverdale, WA (MSA)                         | 1990-01-01          | 2022-02-01        |
+| BREM753PBSVN              | All Employees: Professional and Business Services in Bremerton-Silverdale, WA (MSA)                         | 1990-01-01          | 2022-02-01        |
 | BREM753PCPI               | Per Capita Personal Income in Bremerton-Silverdale, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| BREM753TRAD               | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| BREM753TRADN              | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| BREM753TRAD               | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| BREM753TRADN              | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | BREM753UR                 | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BRMPOP                    | Resident Population in Bremerton-Silverdale, WA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -99,45 +99,45 @@
 | RPPGOOD14740              | Regional Price Parities: Goods for Bremerton-Silverdale, WA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH14740          | Regional Price Parities: Services: Other for Bremerton-Silverdale, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT14740         | Regional Price Parities: Services: Rents for Bremerton-Silverdale, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS53147400000000026      | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS53147400000000026      | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU53147400000000001A     | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53147400500000001      | All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU53147400500000001      | All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU53147400500000001A     | All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53147400500000001SA    | All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU53147400500000002      | Average Weekly Hours of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU53147400500000001SA    | All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU53147400500000002      | Average Weekly Hours of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU53147400500000002A     | Average Weekly Hours of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU53147400500000002SA    | Average Weekly Hours of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU53147400500000003      | Average Hourly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53147400500000002SA    | Average Weekly Hours of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU53147400500000003      | Average Hourly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53147400500000003A     | Average Hourly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53147400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53147400500000011      | Average Weekly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53147400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53147400500000011      | Average Weekly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53147400500000011A     | Average Weekly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53147400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53147400600000001      | All Employees: Goods Producing in Bremerton-Silverdale, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU53147400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bremerton-Silverdale, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53147400600000001      | All Employees: Goods Producing in Bremerton-Silverdale, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU53147400600000001A     | All Employees: Goods Producing in Bremerton-Silverdale, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53147400600000001SA    | All Employees: Goods Producing in Bremerton-Silverdale, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU53147400700000001      | All Employees: Service-Providing in Bremerton-Silverdale, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU53147400600000001SA    | All Employees: Goods Producing in Bremerton-Silverdale, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU53147400700000001      | All Employees: Service-Providing in Bremerton-Silverdale, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU53147400700000001A     | All Employees: Service-Providing in Bremerton-Silverdale, WA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU53147400700000001SA    | All Employees: Service-Providing in Bremerton-Silverdale, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU53147400800000001      | All Employees: Private Service Providing in Bremerton-Silverdale, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53147400700000001SA    | All Employees: Service-Providing in Bremerton-Silverdale, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU53147400800000001      | All Employees: Private Service Providing in Bremerton-Silverdale, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53147400800000001A     | All Employees: Private Service Providing in Bremerton-Silverdale, WA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU53147400800000001SA    | All Employees: Private Service Providing in Bremerton-Silverdale, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53147400800000001SA    | All Employees: Private Service Providing in Bremerton-Silverdale, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53147401500000001A     | All Employees: Mining, Logging, and Construction in Bremerton-Silverdale, WA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU53147403000000001A     | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU53147404000000001A     | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU53147404200000001      | All Employees: Retail Trade in Bremerton-Silverdale, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53147404200000001      | All Employees: Retail Trade in Bremerton-Silverdale, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53147404200000001A     | All Employees: Retail Trade in Bremerton-Silverdale, WA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU53147404200000001SA    | All Employees: Retail Trade in Bremerton-Silverdale, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53147404200000001SA    | All Employees: Retail Trade in Bremerton-Silverdale, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53147406000000001A     | All Employees: Professional and Business Services in Bremerton-Silverdale, WA (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU53147407000000001A     | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU53147409000000001A     | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU53147409091000001      | All Employees: Government: Federal Government in Bremerton-Silverdale, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU53147409091000001      | All Employees: Government: Federal Government in Bremerton-Silverdale, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU53147409091000001A     | All Employees: Federal Government in Bremerton-Silverdale, WA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU53147409091000001SA    | All Employees: Government: Federal Government in Bremerton-Silverdale, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU53147409092000001      | All Employees: Government: State Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53147409091000001SA    | All Employees: Government: Federal Government in Bremerton-Silverdale, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU53147409092000001      | All Employees: Government: State Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53147409092000001A     | All Employees: State Government in Bremerton-Silverdale, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53147409092000001SA    | All Employees: Government: State Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU53147409093000001      | All Employees: Government: Local Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53147409092000001SA    | All Employees: Government: State Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU53147409093000001      | All Employees: Government: Local Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53147409093000001A     | All Employees: Local Government in Bremerton-Silverdale, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53147409093000001SA    | All Employees: Government: Local Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53147409093000001SA    | All Employees: Government: Local Government in Bremerton-Silverdale, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA14740              | Market Hotness: Supply Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-01-01        |

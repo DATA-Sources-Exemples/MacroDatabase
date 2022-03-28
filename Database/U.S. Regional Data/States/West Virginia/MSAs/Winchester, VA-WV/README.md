@@ -60,49 +60,49 @@
 | RPPGOOD49020              | Regional Price Parities: Goods for Winchester, VA-WV (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH49020          | Regional Price Parities: Services: Other for Winchester, VA-WV (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT49020         | Regional Price Parities: Services: Rents for Winchester, VA-WV (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS51490200000000026      | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS51490200000000026      | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU51490200000000001A     | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU51490200500000001      | All Employees: Total Private in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU51490200500000001      | All Employees: Total Private in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU51490200500000001A     | All Employees: Total Private in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU51490200500000001SA    | All Employees: Total Private in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU51490200500000002      | Average Weekly Hours of All Employees: Total Private in Winchester, VA-WV (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU51490200500000001SA    | All Employees: Total Private in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU51490200500000002      | Average Weekly Hours of All Employees: Total Private in Winchester, VA-WV (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU51490200500000002A     | Average Weekly Hours of All Employees: Total Private in Winchester, VA-WV (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU51490200500000002SA    | Average Weekly Hours of All Employees: Total Private in Winchester, VA-WV (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU51490200500000003      | Average Hourly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU51490200500000002SA    | Average Weekly Hours of All Employees: Total Private in Winchester, VA-WV (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU51490200500000003      | Average Hourly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU51490200500000003A     | Average Hourly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU51490200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU51490200500000011      | Average Weekly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU51490200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU51490200500000011      | Average Weekly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU51490200500000011A     | Average Weekly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU51490200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU51490200600000001      | All Employees: Goods Producing in Winchester, VA-WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU51490200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Winchester, VA-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU51490200600000001      | All Employees: Goods Producing in Winchester, VA-WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU51490200600000001A     | All Employees: Goods Producing in Winchester, VA-WV (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU51490200600000001SA    | All Employees: Goods Producing in Winchester, VA-WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU51490200700000001      | All Employees: Service-Providing in Winchester, VA-WV (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU51490200600000001SA    | All Employees: Goods Producing in Winchester, VA-WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU51490200700000001      | All Employees: Service-Providing in Winchester, VA-WV (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU51490200700000001A     | All Employees: Service-Providing in Winchester, VA-WV (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU51490200700000001SA    | All Employees: Service-Providing in Winchester, VA-WV (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU51490200800000001      | All Employees: Private Service Providing in Winchester, VA-WV (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU51490200700000001SA    | All Employees: Service-Providing in Winchester, VA-WV (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU51490200800000001      | All Employees: Private Service Providing in Winchester, VA-WV (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU51490200800000001A     | All Employees: Private Service Providing in Winchester, VA-WV (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU51490200800000001SA    | All Employees: Private Service Providing in Winchester, VA-WV (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU51490200800000001SA    | All Employees: Private Service Providing in Winchester, VA-WV (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU51490204000000001A     | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2021-01-01        |
 | SMU51490209000000001A     | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU51490209091000001      | All Employees: Government: Federal Government in Winchester, VA-WV (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU51490209091000001      | All Employees: Government: Federal Government in Winchester, VA-WV (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU51490209091000001A     | All Employees: Federal Government in Winchester, VA-WV (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU51490209091000001SA    | All Employees: Government: Federal Government in Winchester, VA-WV (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU51490209092000001      | All Employees: Government: State Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU51490209091000001SA    | All Employees: Government: Federal Government in Winchester, VA-WV (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU51490209092000001      | All Employees: Government: State Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU51490209092000001A     | All Employees: State Government in Winchester, VA-WV (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU51490209092000001SA    | All Employees: Government: State Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU51490209093000001      | All Employees: Government: Local Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU51490209092000001SA    | All Employees: Government: State Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU51490209093000001      | All Employees: Government: Local Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU51490209093000001A     | All Employees: Local Government in Winchester, VA-WV (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU51490209093000001SA    | All Employees: Government: Local Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-01-01        |
-| WCHPOP                    | Resident Population in Winchester, VA-WV (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| WINC051GOVT               | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| WINC051GOVTN              | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU51490209093000001SA    | All Employees: Government: Local Government in Winchester, VA-WV (MSA)                               | 1990-01-01          | 2022-02-01        |
+| WCHPOP                    | Resident Population in Winchester, VA-WV (MSA)                                                       | 2000-01-01          | 2021-01-01        |
+| WINC051GOVT               | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| WINC051GOVTN              | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | WINC051LF                 | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | WINC051LFN                | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| WINC051NA                 | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WINC051NAN                | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| WINC051NA                 | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WINC051NAN                | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | WINC051PCPI               | Per Capita Personal Income in Winchester, VA-WV (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| WINC051TRAD               | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-01-01        |
-| WINC051TRADN              | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-01-01        |
+| WINC051TRAD               | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-02-01        |
+| WINC051TRADN              | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-02-01        |
 | WINC051UR                 | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | WINC051URN                | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-01-01        |

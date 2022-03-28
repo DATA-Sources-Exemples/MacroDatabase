@@ -7,31 +7,31 @@
 | AVELISPRI18700            | Housing Inventory: Average Listing Price in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM18700          | Housing Inventory: Average Listing Price Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY18700          | Housing Inventory: Average Listing Price Year-Over-Year in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-01-01        |
-| CORV741EDUH               | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| CORV741EDUHN              | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| CORV741FIRE               | All Employees: Financial Activities in Corvallis, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| CORV741FIREN              | All Employees: Financial Activities in Corvallis, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| CORV741GOVT               | All Employees: Government in Corvallis, OR (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| CORV741GOVTN              | All Employees: Government in Corvallis, OR (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| CORV741INFO               | All Employees: Information in Corvallis, OR (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| CORV741INFON              | All Employees: Information in Corvallis, OR (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| CORV741LEIH               | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| CORV741LEIHN              | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| CORV741EDUH               | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| CORV741EDUHN              | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| CORV741FIRE               | All Employees: Financial Activities in Corvallis, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| CORV741FIREN              | All Employees: Financial Activities in Corvallis, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| CORV741GOVT               | All Employees: Government in Corvallis, OR (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| CORV741GOVTN              | All Employees: Government in Corvallis, OR (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| CORV741INFO               | All Employees: Information in Corvallis, OR (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| CORV741INFON              | All Employees: Information in Corvallis, OR (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| CORV741LEIH               | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| CORV741LEIHN              | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | CORV741LF                 | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | CORV741LFN                | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CORV741MFG                | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| CORV741MFGN               | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| CORV741NA                 | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| CORV741NAN                | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| CORV741NRMN               | All Employees: Mining, Logging, and Construction in Corvallis, OR (MSA)                                | 1990-01-01          | 2022-01-01        |
-| CORV741NRMNN              | All Employees: Mining, Logging, and Construction in Corvallis, OR (MSA)                                | 1990-01-01          | 2022-01-01        |
-| CORV741PBSV               | All Employees: Professional and Business Services in Corvallis, OR (MSA)                               | 1990-01-01          | 2022-01-01        |
-| CORV741PBSVN              | All Employees: Professional and Business Services in Corvallis, OR (MSA)                               | 1990-01-01          | 2022-01-01        |
+| CORV741MFG                | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| CORV741MFGN               | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| CORV741NA                 | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| CORV741NAN                | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| CORV741NRMN               | All Employees: Mining, Logging, and Construction in Corvallis, OR (MSA)                                | 1990-01-01          | 2022-02-01        |
+| CORV741NRMNN              | All Employees: Mining, Logging, and Construction in Corvallis, OR (MSA)                                | 1990-01-01          | 2022-02-01        |
+| CORV741PBSV               | All Employees: Professional and Business Services in Corvallis, OR (MSA)                               | 1990-01-01          | 2022-02-01        |
+| CORV741PBSVN              | All Employees: Professional and Business Services in Corvallis, OR (MSA)                               | 1990-01-01          | 2022-02-01        |
 | CORV741PCPI               | Per Capita Personal Income in Corvallis, OR (MSA)                                                      | 1969-01-01          | 2020-01-01        |
-| CORV741SRVO               | All Employees: Other Services in Corvallis, OR (MSA)                                                   | 1990-01-01          | 2022-01-01        |
-| CORV741SRVON              | All Employees: Other Services in Corvallis, OR (MSA)                                                   | 1990-01-01          | 2022-01-01        |
-| CORV741TRAD               | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2022-01-01        |
-| CORV741TRADN              | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2022-01-01        |
+| CORV741SRVO               | All Employees: Other Services in Corvallis, OR (MSA)                                                   | 1990-01-01          | 2022-02-01        |
+| CORV741SRVON              | All Employees: Other Services in Corvallis, OR (MSA)                                                   | 1990-01-01          | 2022-02-01        |
+| CORV741TRAD               | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2022-02-01        |
+| CORV741TRADN              | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2022-02-01        |
 | CORV741UR                 | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | CORV741URN                | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | CRVPOP                    | Resident Population in Corvallis, OR (MSA)                                                             | 2000-01-01          | 2020-01-01        |
@@ -88,60 +88,60 @@
 | RPPGOOD18700              | Regional Price Parities: Goods for Corvallis, OR (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH18700          | Regional Price Parities: Services: Other for Corvallis, OR (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT18700         | Regional Price Parities: Services: Rents for Corvallis, OR (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| SMS41187000000000026      | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-04-01          | 2022-01-01        |
+| SMS41187000000000026      | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-04-01          | 2022-02-01        |
 | SMU41187000000000001A     | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU41187000500000001      | All Employees: Total Private in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU41187000500000001      | All Employees: Total Private in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU41187000500000001A     | All Employees: Total Private in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU41187000500000001SA    | All Employees: Total Private in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMU41187000500000002      | Average Weekly Hours of All Employees: Total Private in Corvallis, OR (MSA)                            | 2007-01-01          | 2022-01-01        |
+| SMU41187000500000001SA    | All Employees: Total Private in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU41187000500000002      | Average Weekly Hours of All Employees: Total Private in Corvallis, OR (MSA)                            | 2007-01-01          | 2022-02-01        |
 | SMU41187000500000002A     | Average Weekly Hours of All Employees: Total Private in Corvallis, OR (MSA)                            | 2007-01-01          | 2021-01-01        |
-| SMU41187000500000002SA    | Average Weekly Hours of All Employees: Total Private in Corvallis, OR (MSA)                            | 2007-01-01          | 2022-01-01        |
-| SMU41187000500000003      | Average Hourly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU41187000500000002SA    | Average Weekly Hours of All Employees: Total Private in Corvallis, OR (MSA)                            | 2007-01-01          | 2022-02-01        |
+| SMU41187000500000003      | Average Hourly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU41187000500000003A     | Average Hourly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU41187000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU41187000500000011      | Average Weekly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU41187000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU41187000500000011      | Average Weekly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU41187000500000011A     | Average Weekly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU41187000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU41187000600000001      | All Employees: Goods Producing in Corvallis, OR (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU41187000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Corvallis, OR (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU41187000600000001      | All Employees: Goods Producing in Corvallis, OR (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU41187000600000001A     | All Employees: Goods Producing in Corvallis, OR (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU41187000600000001SA    | All Employees: Goods Producing in Corvallis, OR (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU41187000700000001      | All Employees: Service-Providing in Corvallis, OR (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU41187000600000001SA    | All Employees: Goods Producing in Corvallis, OR (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU41187000700000001      | All Employees: Service-Providing in Corvallis, OR (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU41187000700000001A     | All Employees: Service-Providing in Corvallis, OR (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU41187000700000001SA    | All Employees: Service-Providing in Corvallis, OR (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU41187000800000001      | All Employees: Private Service Providing in Corvallis, OR (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU41187000700000001SA    | All Employees: Service-Providing in Corvallis, OR (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU41187000800000001      | All Employees: Private Service Providing in Corvallis, OR (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU41187000800000001A     | All Employees: Private Service Providing in Corvallis, OR (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU41187000800000001SA    | All Employees: Private Service Providing in Corvallis, OR (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU41187000800000001SA    | All Employees: Private Service Providing in Corvallis, OR (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU41187001500000001A     | All Employees: Mining, Logging, and Construction in Corvallis, OR (MSA)                                | 1990-01-01          | 2021-01-01        |
 | SMU41187003000000001A     | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU41187003100000001      | All Employees: Manufacturing: Durable Goods in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU41187003100000001      | All Employees: Manufacturing: Durable Goods in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU41187003100000001A     | All Employees: Manufacturing: Durable Goods in Corvallis, OR (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU41187003100000001SA    | All Employees: Manufacturing: Durable Goods in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU41187003100000001SA    | All Employees: Manufacturing: Durable Goods in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU41187004000000001A     | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2021-01-01        |
 | SMU41187005000000001A     | All Employees: Information in Corvallis, OR (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | SMU41187005500000001A     | All Employees: Financial Activities in Corvallis, OR (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU41187006000000001A     | All Employees: Professional and Business Services in Corvallis, OR (MSA)                               | 1990-01-01          | 2021-01-01        |
 | SMU41187006500000001A     | All Employees: Education and Health Services in Corvallis, OR (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU41187006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Corvallis, OR (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU41187006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Corvallis, OR (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU41187006562000001A     | All Employees: Health Care and Social Assistance in Corvallis, OR (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU41187006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Corvallis, OR (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU41187006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Corvallis, OR (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU41187007000000001A     | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU41187008000000001A     | All Employees: Other Services in Corvallis, OR (MSA)                                                   | 1990-01-01          | 2021-01-01        |
 | SMU41187009000000001A     | All Employees: Government in Corvallis, OR (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU41187009091000001      | All Employees: Government: Federal Government in Corvallis, OR (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| SMU41187009091000001      | All Employees: Government: Federal Government in Corvallis, OR (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | SMU41187009091000001A     | All Employees: Federal Government in Corvallis, OR (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU41187009091000001SA    | All Employees: Government: Federal Government in Corvallis, OR (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| SMU41187009092000001      | All Employees: Government: State Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU41187009091000001SA    | All Employees: Government: Federal Government in Corvallis, OR (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| SMU41187009092000001      | All Employees: Government: State Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU41187009092000001A     | All Employees: State Government in Corvallis, OR (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU41187009092000001SA    | All Employees: Government: State Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU41187009092161101      | All Employees: Government: State Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-01-01        |
+| SMU41187009092000001SA    | All Employees: Government: State Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU41187009092161101      | All Employees: Government: State Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-02-01        |
 | SMU41187009092161101A     | All Employees: State Government Educational Services in Corvallis, OR (MSA)                            | 1990-01-01          | 2021-01-01        |
-| SMU41187009092161101SA    | All Employees: Government: State Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-01-01        |
-| SMU41187009093000001      | All Employees: Government: Local Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU41187009092161101SA    | All Employees: Government: State Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-02-01        |
+| SMU41187009093000001      | All Employees: Government: Local Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU41187009093000001A     | All Employees: Local Government in Corvallis, OR (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU41187009093000001SA    | All Employees: Government: Local Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU41187009093161101      | All Employees: Government: Local Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-01-01        |
+| SMU41187009093000001SA    | All Employees: Government: Local Government in Corvallis, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU41187009093161101      | All Employees: Government: Local Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-02-01        |
 | SMU41187009093161101A     | All Employees: Local Government Educational Services in Corvallis, OR (MSA)                            | 1990-01-01          | 2021-01-01        |
-| SMU41187009093161101SA    | All Employees: Government: Local Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-01-01        |
-| SMU41187009093200001      | All Employees: Government: Local Government Excluding Educational Services in Corvallis, OR (MSA)      | 2001-01-01          | 2022-01-01        |
+| SMU41187009093161101SA    | All Employees: Government: Local Government Educational Services in Corvallis, OR (MSA)                | 1990-01-01          | 2022-02-01        |
+| SMU41187009093200001      | All Employees: Government: Local Government Excluding Educational Services in Corvallis, OR (MSA)      | 2001-01-01          | 2022-02-01        |
 | SMU41187009093200001A     | All Employees: Local Government Excluding Educational Services in Corvallis, OR (MSA)                  | 2001-01-01          | 2021-01-01        |
-| SMU41187009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Corvallis, OR (MSA)      | 2001-01-01          | 2022-01-01        |
+| SMU41187009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Corvallis, OR (MSA)      | 2001-01-01          | 2022-02-01        |

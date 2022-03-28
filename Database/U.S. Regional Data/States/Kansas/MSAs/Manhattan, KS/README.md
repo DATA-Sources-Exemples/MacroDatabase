@@ -38,7 +38,7 @@
 | MEDSQUFEE31740            | Housing Inventory: Median Home Size in Square Feet in Manhattan, KS (CBSA)                       | 2016-07-01          | 2022-01-01        |
 | MEDSQUFEEMM31740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Manhattan, KS (CBSA)      | 2017-07-01          | 2022-01-01        |
 | MEDSQUFEEYY31740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Manhattan, KS (CBSA)        | 2017-07-01          | 2022-01-01        |
-| MHTPOP                    | Resident Population in Manhattan, KS (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| MHTPOP                    | Resident Population in Manhattan, KS (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU31740            | Housing Inventory: New Listing Count in Manhattan, KS (CBSA)                                     | 2016-07-01          | 2022-01-01        |
 | NEWLISCOUMM31740          | Housing Inventory: New Listing Count Month-Over-Month in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY31740          | Housing Inventory: New Listing Count Year-Over-Year in Manhattan, KS (CBSA)                      | 2017-07-01          | 2022-01-01        |
@@ -61,31 +61,31 @@
 | RPPGOOD31740              | Regional Price Parities: Goods for Manhattan, KS (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH31740          | Regional Price Parities: Services: Other for Manhattan, KS (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT31740         | Regional Price Parities: Services: Rents for Manhattan, KS (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS20317400000000001      | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU20317400000000001      | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMS20317400000000001      | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU20317400000000001      | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU20317400000000001A     | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU20317400000000001SA    | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU20317400500000001      | All Employees: Total Private in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU20317400000000001SA    | All Employees: Total Nonfarm in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU20317400500000001      | All Employees: Total Private in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU20317400500000001A     | All Employees: Total Private in Manhattan, KS (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU20317400500000001SA    | All Employees: Total Private in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU20317400500000002      | Average Weekly Hours of All Employees: Total Private in Manhattan, KS (MSA)                      | 2008-01-01          | 2022-01-01        |
+| SMU20317400500000001SA    | All Employees: Total Private in Manhattan, KS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU20317400500000002      | Average Weekly Hours of All Employees: Total Private in Manhattan, KS (MSA)                      | 2008-01-01          | 2022-02-01        |
 | SMU20317400500000002A     | Average Weekly Hours of All Employees: Total Private in Manhattan, KS (MSA)                      | 2008-01-01          | 2021-01-01        |
-| SMU20317400500000002SA    | Average Weekly Hours of All Employees: Total Private in Manhattan, KS (MSA)                      | 2008-01-01          | 2022-01-01        |
-| SMU20317400500000003      | Average Hourly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-01-01        |
+| SMU20317400500000002SA    | Average Weekly Hours of All Employees: Total Private in Manhattan, KS (MSA)                      | 2008-01-01          | 2022-02-01        |
+| SMU20317400500000003      | Average Hourly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-02-01        |
 | SMU20317400500000003A     | Average Hourly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2021-01-01        |
-| SMU20317400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-01-01        |
-| SMU20317400500000011      | Average Weekly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-01-01        |
+| SMU20317400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-02-01        |
+| SMU20317400500000011      | Average Weekly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-02-01        |
 | SMU20317400500000011A     | Average Weekly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2021-01-01        |
-| SMU20317400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-01-01        |
-| SMU20317400600000001      | All Employees: Goods Producing in Manhattan, KS (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU20317400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Manhattan, KS (MSA)                   | 2008-01-01          | 2022-02-01        |
+| SMU20317400600000001      | All Employees: Goods Producing in Manhattan, KS (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU20317400600000001A     | All Employees: Goods Producing in Manhattan, KS (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU20317400600000001SA    | All Employees: Goods Producing in Manhattan, KS (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU20317400700000001      | All Employees: Service-Providing in Manhattan, KS (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU20317400600000001SA    | All Employees: Goods Producing in Manhattan, KS (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU20317400700000001      | All Employees: Service-Providing in Manhattan, KS (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU20317400700000001A     | All Employees: Service-Providing in Manhattan, KS (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU20317400700000001SA    | All Employees: Service-Providing in Manhattan, KS (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU20317400800000001      | All Employees: Private Service Providing in Manhattan, KS (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU20317400700000001SA    | All Employees: Service-Providing in Manhattan, KS (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU20317400800000001      | All Employees: Private Service Providing in Manhattan, KS (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU20317400800000001A     | All Employees: Private Service Providing in Manhattan, KS (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU20317400800000001SA    | All Employees: Private Service Providing in Manhattan, KS (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU20317409000000001      | All Employees: Government in Manhattan, KS (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU20317400800000001SA    | All Employees: Private Service Providing in Manhattan, KS (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU20317409000000001      | All Employees: Government in Manhattan, KS (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | SMU20317409000000001A     | All Employees: Government in Manhattan, KS (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU20317409000000001SA    | All Employees: Government in Manhattan, KS (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU20317409000000001SA    | All Employees: Government in Manhattan, KS (MSA)                                                 | 1990-01-01          | 2022-02-01        |

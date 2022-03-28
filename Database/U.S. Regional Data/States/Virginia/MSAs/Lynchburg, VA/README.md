@@ -34,17 +34,17 @@
 | LDPEPRMMMSA31340          | Market Hotness: Listing Views per Property in Lynchburg, VA (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA31340        | Market Hotness: Listing Views per Property Versus the United States in Lynchburg, VA (CBSA)                    | 2017-08-01          | 2022-01-01        |
 | LDPEPRYYMSA31340          | Market Hotness: Listing Views per Property in Lynchburg, VA (CBSA)                                             | 2018-08-01          | 2022-01-01        |
-| LYNC351GOVT               | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LYNC351GOVTN              | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
+| LYNC351GOVT               | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LYNC351GOVTN              | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
 | LYNC351LF                 | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | LYNC351LFN                | Civilian Labor Force in Lynchburg, VA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| LYNC351MFG                | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LYNC351MFGN               | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LYNC351NA                 | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LYNC351NAN                | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| LYNC351MFG                | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LYNC351MFGN               | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LYNC351NA                 | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LYNC351NAN                | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | LYNC351PCPI               | Per Capita Personal Income in Lynchburg, VA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| LYNC351TRAD               | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| LYNC351TRADN              | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| LYNC351TRAD               | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| LYNC351TRADN              | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | LYNC351UR                 | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LYNC351URN                | Unemployment Rate in Lynchburg, VA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LYNPOP                    | Resident Population in Lynchburg, VA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -93,69 +93,69 @@
 | RPPGOOD31340              | Regional Price Parities: Goods for Lynchburg, VA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH31340          | Regional Price Parities: Services: Other for Lynchburg, VA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT31340         | Regional Price Parities: Services: Rents for Lynchburg, VA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS51313400000000026      | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS51313400000000026      | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU51313400000000001A     | All Employees: Total Nonfarm in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU51313400500000001      | All Employees: Total Private in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU51313400500000001      | All Employees: Total Private in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU51313400500000001A     | All Employees: Total Private in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU51313400500000001SA    | All Employees: Total Private in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU51313400500000002      | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU51313400500000001SA    | All Employees: Total Private in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU51313400500000002      | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU51313400500000002A     | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU51313400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU51313400500000003      | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU51313400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lynchburg, VA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU51313400500000003      | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU51313400500000003A     | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51313400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU51313400500000011      | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU51313400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU51313400500000011      | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU51313400500000011A     | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51313400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU51313400600000001      | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU51313400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lynchburg, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU51313400600000001      | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU51313400600000001A     | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU51313400600000001SA    | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU51313400700000001      | All Employees: Service-Providing in Lynchburg, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU51313400600000001SA    | All Employees: Goods Producing in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU51313400700000001      | All Employees: Service-Providing in Lynchburg, VA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU51313400700000001A     | All Employees: Service-Providing in Lynchburg, VA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU51313400700000001SA    | All Employees: Service-Providing in Lynchburg, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU51313400800000001      | All Employees: Private Service Providing in Lynchburg, VA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU51313400700000001SA    | All Employees: Service-Providing in Lynchburg, VA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU51313400800000001      | All Employees: Private Service Providing in Lynchburg, VA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU51313400800000001A     | All Employees: Private Service Providing in Lynchburg, VA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU51313400800000001SA    | All Employees: Private Service Providing in Lynchburg, VA (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU51313401500000001      | All Employees: Mining, Logging, and Construction in Lynchburg, VA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU51313400800000001SA    | All Employees: Private Service Providing in Lynchburg, VA (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU51313401500000001      | All Employees: Mining, Logging, and Construction in Lynchburg, VA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU51313401500000001A     | All Employees: Mining, Logging, and Construction in Lynchburg, VA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU51313401500000001SA    | All Employees: Mining, Logging, and Construction in Lynchburg, VA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU51313401500000001SA    | All Employees: Mining, Logging, and Construction in Lynchburg, VA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU51313403000000001A     | All Employees: Manufacturing in Lynchburg, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU51313404000000001A     | All Employees: Trade, Transportation, and Utilities in Lynchburg, VA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU51313404100000001      | All Employees: Wholesale Trade in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU51313404100000001      | All Employees: Wholesale Trade in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU51313404100000001A     | All Employees: Wholesale Trade in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU51313404100000001SA    | All Employees: Wholesale Trade in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU51313404200000001      | All Employees: Retail Trade in Lynchburg, VA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU51313404100000001SA    | All Employees: Wholesale Trade in Lynchburg, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU51313404200000001      | All Employees: Retail Trade in Lynchburg, VA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU51313404200000001A     | All Employees: Retail Trade in Lynchburg, VA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU51313404200000001SA    | All Employees: Retail Trade in Lynchburg, VA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU51313404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lynchburg, VA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU51313404200000001SA    | All Employees: Retail Trade in Lynchburg, VA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU51313404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lynchburg, VA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU51313404300000001A     | All Employees: Transportation and Utilities in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU51313404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lynchburg, VA (MSA) | 1990-01-01          | 2022-01-01        |
-| SMU51313405000000001      | All Employees: Information in Lynchburg, VA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU51313404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lynchburg, VA (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU51313405000000001      | All Employees: Information in Lynchburg, VA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU51313405000000001A     | All Employees: Information in Lynchburg, VA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU51313405000000001SA    | All Employees: Information in Lynchburg, VA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SMU51313405500000001      | All Employees: Financial Activities in Lynchburg, VA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU51313405000000001SA    | All Employees: Information in Lynchburg, VA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU51313405500000001      | All Employees: Financial Activities in Lynchburg, VA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU51313405500000001A     | All Employees: Financial Activities in Lynchburg, VA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU51313405500000001SA    | All Employees: Financial Activities in Lynchburg, VA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SMU51313406000000001      | All Employees: Professional and Business Services in Lynchburg, VA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU51313405500000001SA    | All Employees: Financial Activities in Lynchburg, VA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU51313406000000001      | All Employees: Professional and Business Services in Lynchburg, VA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU51313406000000001A     | All Employees: Professional and Business Services in Lynchburg, VA (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU51313406000000001SA    | All Employees: Professional and Business Services in Lynchburg, VA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SMU51313406500000001      | All Employees: Education and Health Services in Lynchburg, VA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU51313406000000001SA    | All Employees: Professional and Business Services in Lynchburg, VA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SMU51313406500000001      | All Employees: Education and Health Services in Lynchburg, VA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU51313406500000001A     | All Employees: Education and Health Services in Lynchburg, VA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU51313406500000001SA    | All Employees: Education and Health Services in Lynchburg, VA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU51313407000000001      | All Employees: Leisure and Hospitality in Lynchburg, VA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU51313406500000001SA    | All Employees: Education and Health Services in Lynchburg, VA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU51313407000000001      | All Employees: Leisure and Hospitality in Lynchburg, VA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU51313407000000001A     | All Employees: Leisure and Hospitality in Lynchburg, VA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU51313407000000001SA    | All Employees: Leisure and Hospitality in Lynchburg, VA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU51313408000000001      | All Employees: Other Services in Lynchburg, VA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU51313407000000001SA    | All Employees: Leisure and Hospitality in Lynchburg, VA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU51313408000000001      | All Employees: Other Services in Lynchburg, VA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU51313408000000001A     | All Employees: Other Services in Lynchburg, VA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU51313408000000001SA    | All Employees: Other Services in Lynchburg, VA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU51313408000000001SA    | All Employees: Other Services in Lynchburg, VA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU51313409000000001A     | All Employees: Government in Lynchburg, VA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU51313409091000001      | All Employees: Government: Federal Government in Lynchburg, VA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU51313409091000001      | All Employees: Government: Federal Government in Lynchburg, VA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU51313409091000001A     | All Employees: Federal Government in Lynchburg, VA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU51313409091000001SA    | All Employees: Government: Federal Government in Lynchburg, VA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU51313409092000001      | All Employees: Government: State Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU51313409091000001SA    | All Employees: Government: Federal Government in Lynchburg, VA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU51313409092000001      | All Employees: Government: State Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU51313409092000001A     | All Employees: State Government in Lynchburg, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU51313409092000001SA    | All Employees: Government: State Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU51313409093000001      | All Employees: Government: Local Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU51313409092000001SA    | All Employees: Government: State Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU51313409093000001      | All Employees: Government: Local Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU51313409093000001A     | All Employees: Local Government in Lynchburg, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU51313409093000001SA    | All Employees: Government: Local Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU51313409093000001SA    | All Employees: Government: Local Government in Lynchburg, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA31340              | Market Hotness: Supply Score in Lynchburg, VA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

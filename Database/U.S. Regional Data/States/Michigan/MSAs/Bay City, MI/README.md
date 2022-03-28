@@ -7,31 +7,31 @@
 | AVELISPRI13020            | Housing Inventory: Average Listing Price in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM13020          | Housing Inventory: Average Listing Price Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY13020          | Housing Inventory: Average Listing Price Year-Over-Year in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| BAYC026EDUH               | All Employees: Education and Health Services in Bay City, MI (MSA)                              | 1990-01-01          | 2022-01-01        |
-| BAYC026EDUHN              | All Employees: Education and Health Services in Bay City, MI (MSA)                              | 1990-01-01          | 2022-01-01        |
-| BAYC026FIRE               | All Employees: Financial Activities in Bay City, MI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BAYC026FIREN              | All Employees: Financial Activities in Bay City, MI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BAYC026GOVT               | All Employees: Government in Bay City, MI (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BAYC026GOVTN              | All Employees: Government in Bay City, MI (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BAYC026INFO               | All Employees: Information in Bay City, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| BAYC026INFON              | All Employees: Information in Bay City, MI (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| BAYC026LEIH               | All Employees: Leisure and Hospitality in Bay City, MI (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| BAYC026LEIHN              | All Employees: Leisure and Hospitality in Bay City, MI (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| BAYC026EDUH               | All Employees: Education and Health Services in Bay City, MI (MSA)                              | 1990-01-01          | 2022-02-01        |
+| BAYC026EDUHN              | All Employees: Education and Health Services in Bay City, MI (MSA)                              | 1990-01-01          | 2022-02-01        |
+| BAYC026FIRE               | All Employees: Financial Activities in Bay City, MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BAYC026FIREN              | All Employees: Financial Activities in Bay City, MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BAYC026GOVT               | All Employees: Government in Bay City, MI (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BAYC026GOVTN              | All Employees: Government in Bay City, MI (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BAYC026INFO               | All Employees: Information in Bay City, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| BAYC026INFON              | All Employees: Information in Bay City, MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| BAYC026LEIH               | All Employees: Leisure and Hospitality in Bay City, MI (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| BAYC026LEIHN              | All Employees: Leisure and Hospitality in Bay City, MI (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | BAYC026LF                 | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BAYC026LFN                | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BAYC026MFG                | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BAYC026MFGN               | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BAYC026NA                 | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BAYC026NAN                | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BAYC026NRMN               | All Employees: Mining, Logging, and Construction in Bay City, MI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BAYC026NRMNN              | All Employees: Mining, Logging, and Construction in Bay City, MI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BAYC026PBSV               | All Employees: Professional and Business Services in Bay City, MI (MSA)                         | 1990-01-01          | 2022-01-01        |
-| BAYC026PBSVN              | All Employees: Professional and Business Services in Bay City, MI (MSA)                         | 1990-01-01          | 2022-01-01        |
+| BAYC026MFG                | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BAYC026MFGN               | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BAYC026NA                 | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BAYC026NAN                | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BAYC026NRMN               | All Employees: Mining, Logging, and Construction in Bay City, MI (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BAYC026NRMNN              | All Employees: Mining, Logging, and Construction in Bay City, MI (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BAYC026PBSV               | All Employees: Professional and Business Services in Bay City, MI (MSA)                         | 1990-01-01          | 2022-02-01        |
+| BAYC026PBSVN              | All Employees: Professional and Business Services in Bay City, MI (MSA)                         | 1990-01-01          | 2022-02-01        |
 | BAYC026PCPI               | Per Capita Personal Income in Bay City, MI (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| BAYC026SRVO               | All Employees: Other Services in Bay City, MI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| BAYC026SRVON              | All Employees: Other Services in Bay City, MI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| BAYC026TRAD               | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2022-01-01        |
-| BAYC026TRADN              | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2022-01-01        |
+| BAYC026SRVO               | All Employees: Other Services in Bay City, MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| BAYC026SRVON              | All Employees: Other Services in Bay City, MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| BAYC026TRAD               | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2022-02-01        |
+| BAYC026TRADN              | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2022-02-01        |
 | BAYC026UR                 | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BAYC026URN                | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BCTPOP                    | Resident Population in Bay City, MI (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -88,35 +88,35 @@
 | RPPGOOD13020              | Regional Price Parities: Goods for Bay City, MI (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH13020          | Regional Price Parities: Services: Other for Bay City, MI (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT13020         | Regional Price Parities: Services: Rents for Bay City, MI (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS26130200000000026      | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS26130200000000026      | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU26130200000000001A     | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU26130200500000001      | All Employees: Total Private in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU26130200500000001      | All Employees: Total Private in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU26130200500000001A     | All Employees: Total Private in Bay City, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU26130200500000001SA    | All Employees: Total Private in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU26130200500000002      | Average Weekly Hours of All Employees: Total Private in Bay City, MI (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU26130200500000001SA    | All Employees: Total Private in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU26130200500000002      | Average Weekly Hours of All Employees: Total Private in Bay City, MI (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU26130200500000002A     | Average Weekly Hours of All Employees: Total Private in Bay City, MI (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU26130200500000002SA    | Average Weekly Hours of All Employees: Total Private in Bay City, MI (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU26130200500000003      | Average Hourly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU26130200500000002SA    | Average Weekly Hours of All Employees: Total Private in Bay City, MI (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU26130200500000003      | Average Hourly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU26130200500000003A     | Average Hourly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26130200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU26130200500000011      | Average Weekly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU26130200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU26130200500000011      | Average Weekly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU26130200500000011A     | Average Weekly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26130200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU26130200600000001      | All Employees: Goods Producing in Bay City, MI (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU26130200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bay City, MI (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU26130200600000001      | All Employees: Goods Producing in Bay City, MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU26130200600000001A     | All Employees: Goods Producing in Bay City, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU26130200600000001SA    | All Employees: Goods Producing in Bay City, MI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU26130200700000001      | All Employees: Service-Providing in Bay City, MI (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU26130200600000001SA    | All Employees: Goods Producing in Bay City, MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU26130200700000001      | All Employees: Service-Providing in Bay City, MI (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU26130200700000001A     | All Employees: Service-Providing in Bay City, MI (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU26130200700000001SA    | All Employees: Service-Providing in Bay City, MI (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU26130200800000001      | All Employees: Private Service Providing in Bay City, MI (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU26130200700000001SA    | All Employees: Service-Providing in Bay City, MI (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU26130200800000001      | All Employees: Private Service Providing in Bay City, MI (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU26130200800000001A     | All Employees: Private Service Providing in Bay City, MI (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU26130200800000001SA    | All Employees: Private Service Providing in Bay City, MI (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU26130200800000001SA    | All Employees: Private Service Providing in Bay City, MI (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU26130201500000001A     | All Employees: Mining, Logging, and Construction in Bay City, MI (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU26130203000000001A     | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU26130204000000001A     | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU26130204200000001      | All Employees: Retail Trade in Bay City, MI (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU26130204200000001      | All Employees: Retail Trade in Bay City, MI (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU26130204200000001A     | All Employees: Retail Trade in Bay City, MI (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU26130204200000001SA    | All Employees: Retail Trade in Bay City, MI (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU26130204200000001SA    | All Employees: Retail Trade in Bay City, MI (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU26130205000000001A     | All Employees: Information in Bay City, MI (MSA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU26130205500000001A     | All Employees: Financial Activities in Bay City, MI (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU26130206000000001A     | All Employees: Professional and Business Services in Bay City, MI (MSA)                         | 1990-01-01          | 2021-01-01        |

@@ -98,36 +98,36 @@
 | DCARMA052SCEN       | Value of Exports to Armenia from District of Columbia                                                                       | 2010-01-01          | 2010-01-01        |
 | DCARMA475SCEN       | Number of Identified Exporters to Armenia from District of Columbia                                                         | 1992-01-01          | 2016-01-01        |
 | DDAI01AMA642NWDB    | Number of Bank Accounts for Armenia                                                                                         | 2004-01-01          | 2011-01-01        |
-| DDAI02AMA643NWDB    | Number of Bank Branches for Armenia                                                                                         | 2004-01-01          | 2017-01-01        |
-| DDAI03AMA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Armenia                                                         | 2009-01-01          | 2013-01-01        |
-| DDAI04AMA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Armenia                                             | 2009-01-01          | 2013-01-01        |
+| DDAI02AMA643NWDB    | Number of Bank Branches for Armenia                                                                                         | 2004-01-01          | 2019-01-01        |
+| DDAI03AMA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Armenia                                                         | 2009-01-01          | 2020-01-01        |
+| DDAI04AMA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Armenia                                             | 2009-01-01          | 2020-01-01        |
 | DDAI05AMA156NWDB    | People 15 Years and Over with Account at a Formal Financial Institution for Armenia                                         | 2011-01-01          | 2017-01-01        |
 | DDAI06AMA156NWDB    | People 15 Years and Over Saving at a Financial Institution in the Past Year for Armenia                                     | 2011-01-01          | 2017-01-01        |
 | DDAI07AMA156NWDB    | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Armenia                                | 2011-01-01          | 2017-01-01        |
 | DDDI01AMA156NWDB    | Private Credit by Deposit Money Banks to GDP for Armenia                                                                    | 1992-01-01          | 2017-01-01        |
 | DDDI02AMA156NWDB    | Deposit Money Bank Assets to GDP for Armenia                                                                                | 1992-01-01          | 2017-01-01        |
-| DDDI03AMA156NWDB    | Non-Bank Financial Institutions' Assets to GDP for Armenia                                                                  | 2009-01-01          | 2017-01-01        |
+| DDDI03AMA156NWDB    | Non-Bank Financial Institutions' Assets to GDP for Armenia                                                                  | 2009-01-01          | 2020-01-01        |
 | DDDI04AMA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Armenia                                  | 1992-01-01          | 2017-01-01        |
 | DDDI05AMA156NWDB    | Liquid Liabilities to GDP for Armenia                                                                                       | 1992-01-01          | 2017-01-01        |
 | DDDI06AMA156NWDB    | Central Bank Assets to GDP for Armenia                                                                                      | 1992-01-01          | 2017-01-01        |
 | DDDI07AMA156NWDB    | Mutual Fund Assets to GDP for Armenia                                                                                       | 2003-01-01          | 2014-01-01        |
 | DDDI08AMA156NWDB    | Financial System Deposits to GDP for Armenia                                                                                | 1992-01-01          | 2017-01-01        |
-| DDDI10AMA156NWDB    | Non-Life Insurance Premium Volume to GDP for Armenia                                                                        | 1997-01-01          | 2016-01-01        |
-| DDDI11AMA156NWDB    | Insurance Company Assets to GDP for Armenia                                                                                 | 2006-01-01          | 2016-01-01        |
+| DDDI10AMA156NWDB    | Non-Life Insurance Premium Volume to GDP for Armenia                                                                        | 1997-01-01          | 2018-01-01        |
+| DDDI11AMA156NWDB    | Insurance Company Assets to GDP for Armenia                                                                                 | 2006-01-01          | 2018-01-01        |
 | DDDI12AMA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Armenia                                   | 1992-01-01          | 2017-01-01        |
 | DDDM01AMA156NWDB    | Stock Market Capitalization to GDP for Armenia                                                                              | 2001-01-01          | 2012-01-01        |
 | DDDM02AMA156NWDB    | Stock Market Total Value Traded to GDP for Armenia                                                                          | 2001-01-01          | 2012-01-01        |
-| DDDM08AMA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Armenia                                                                       | 1999-01-01          | 2017-01-01        |
-| DDDM09AMA156NWDB    | Gross Portfolio Equity Assets to GDP for Armenia                                                                            | 1999-01-01          | 2017-01-01        |
-| DDDM10AMA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Armenia                                                                         | 1999-01-01          | 2017-01-01        |
+| DDDM08AMA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Armenia                                                                       | 1999-01-01          | 2019-01-01        |
+| DDDM09AMA156NWDB    | Gross Portfolio Equity Assets to GDP for Armenia                                                                            | 1999-01-01          | 2019-01-01        |
+| DDDM10AMA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Armenia                                                                         | 1999-01-01          | 2019-01-01        |
 | DDEI01AMA156NWDB    | Bank's Net Interest Margin for Armenia                                                                                      | 1997-01-01          | 2017-01-01        |
-| DDEI02AMA156NWDB    | Bank Lending Deposit Spread for Armenia                                                                                     | 1995-01-01          | 2017-01-01        |
+| DDEI02AMA156NWDB    | Bank Lending Deposit Spread for Armenia                                                                                     | 1995-01-01          | 2019-01-01        |
 | DDEI03AMA156NWDB    | Bank's Non-Interest Income to Total Income for Armenia                                                                      | 1996-01-01          | 2017-01-01        |
 | DDEI04AMA156NWDB    | Bank's Overhead Costs to Total Assets for Armenia                                                                           | 1997-01-01          | 2017-01-01        |
 | DDEI05AMA156NWDB    | Bank's Return on Assets for Armenia                                                                                         | 1997-01-01          | 2017-01-01        |
 | DDEI06AMA156NWDB    | Bank's Return on Equity for Armenia                                                                                         | 1997-01-01          | 2017-01-01        |
 | DDEI07AMA156NWDB    | Bank's Cost to Income Ratio for Armenia                                                                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08AMA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Armenia                                                         | 1992-01-01          | 2017-01-01        |
+| DDEI08AMA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Armenia                                                         | 1992-01-01          | 2019-01-01        |
 | DDEM01AMA156NWDB    | Stock Market Turnover Ratio (Value Traded/Capitalization) for Armenia                                                       | 2001-01-01          | 2012-01-01        |
 | DDOE01AMA086NWDB    | Consumer Price Index for Armenia                                                                                            | 1992-01-01          | 2017-01-01        |
 | DDOE02AMA086NWDB    | Consumer Price Index for Armenia                                                                                            | 1992-01-01          | 2017-01-01        |
@@ -137,21 +137,21 @@
 | DDOI04AMA066NWDB    | Lerner Index in Banking Market for Armenia                                                                                  | 1997-01-01          | 2013-01-01        |
 | DDOI05AMA156NWDB    | Boone Indicator in Banking Market for Armenia                                                                               | 1999-01-01          | 2014-01-01        |
 | DDOI06AMA156NWDB    | 5-Bank Asset Concentration for Armenia                                                                                      | 1997-01-01          | 2017-01-01        |
-| DDOI07AMA648NWDB    | Liquid Liabilities (Broad Money) for Armenia                                                                                | 1992-01-01          | 2017-01-01        |
+| DDOI07AMA648NWDB    | Liquid Liabilities (Broad Money) for Armenia                                                                                | 1992-01-01          | 2020-01-01        |
 | DDOI09AMA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Armenia                                                      | 1995-01-01          | 2017-01-01        |
-| DDOI10AMA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Armenia                                | 1995-01-01          | 2017-01-01        |
-| DDOI11AMA156NWDB    | Remittance Inflows to GDP for Armenia                                                                                       | 1995-01-01          | 2017-01-01        |
-| DDOI12AMA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Armenia                                                       | 1995-01-01          | 2017-01-01        |
+| DDOI10AMA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Armenia                                | 1995-01-01          | 2020-01-01        |
+| DDOI11AMA156NWDB    | Remittance Inflows to GDP for Armenia                                                                                       | 1995-01-01          | 2020-01-01        |
+| DDOI12AMA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Armenia                                                       | 1995-01-01          | 2019-01-01        |
 | DDOI13AMA156NWDB    | Percentage of Foreign Banks Among Total Banks for Armenia                                                                   | 1995-01-01          | 2013-01-01        |
 | DDOI14AMA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Armenia                                                       | 2005-01-01          | 2013-01-01        |
 | DDOM01AMA644NWDB    | Number of Listed Companies for Armenia                                                                                      | 1994-01-01          | 2012-01-01        |
 | DDSI01AMA645NWDB    | Bank Z-Score for Armenia                                                                                                    | 1996-01-01          | 2017-01-01        |
-| DDSI02AMA156NWDB    | Bank Non-Performing Loans to Gross Loans for Armenia                                                                        | 1998-01-01          | 2017-01-01        |
-| DDSI03AMA156NWDB    | Bank Capital to Total Assets for Armenia                                                                                    | 1998-01-01          | 2017-01-01        |
+| DDSI02AMA156NWDB    | Bank Non-Performing Loans to Gross Loans for Armenia                                                                        | 1998-01-01          | 2019-01-01        |
+| DDSI03AMA156NWDB    | Bank Capital to Total Assets for Armenia                                                                                    | 1998-01-01          | 2019-01-01        |
 | DDSI04AMA156NWDB    | Bank Credit to Bank Deposits for Armenia                                                                                    | 1992-01-01          | 2017-01-01        |
-| DDSI05AMA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Armenia                                                                 | 1998-01-01          | 2017-01-01        |
+| DDSI05AMA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Armenia                                                                 | 1998-01-01          | 2019-01-01        |
 | DDSI06AMA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Armenia                                                                | 1996-01-01          | 2017-01-01        |
-| DDSI07AMA156NWDB    | Provisions to Non-Performing Loans for Armenia                                                                              | 2000-01-01          | 2017-01-01        |
+| DDSI07AMA156NWDB    | Provisions to Non-Performing Loans for Armenia                                                                              | 2000-01-01          | 2019-01-01        |
 | DEARMA052SCEN       | Value of Exports to Armenia from Delaware                                                                                   | 2006-01-01          | 2008-01-01        |
 | DEARMA475SCEN       | Number of Identified Exporters to Armenia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
 | EXP4631             | U.S. Exports of Goods by F.A.S. Basis to Armenia                                                                            | 1992-01-01          | 2022-01-01        |

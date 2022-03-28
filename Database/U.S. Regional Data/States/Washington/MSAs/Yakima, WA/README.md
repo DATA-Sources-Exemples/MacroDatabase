@@ -79,83 +79,83 @@
 | RPPGOOD49420              | Regional Price Parities: Goods for Yakima, WA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH49420          | Regional Price Parities: Services: Other for Yakima, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT49420         | Regional Price Parities: Services: Rents for Yakima, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS53494200000000026      | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS53494200000000026      | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU53494200000000001A     | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53494200500000001      | All Employees: Total Private in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU53494200500000001      | All Employees: Total Private in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU53494200500000001A     | All Employees: Total Private in Yakima, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53494200500000001SA    | All Employees: Total Private in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU53494200500000002      | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU53494200500000001SA    | All Employees: Total Private in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU53494200500000002      | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU53494200500000002A     | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU53494200500000002SA    | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU53494200500000003      | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU53494200500000002SA    | Average Weekly Hours of All Employees: Total Private in Yakima, WA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU53494200500000003      | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU53494200500000003A     | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53494200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU53494200500000011      | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU53494200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU53494200500000011      | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU53494200500000011A     | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53494200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU53494200600000001      | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU53494200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Yakima, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU53494200600000001      | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU53494200600000001A     | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU53494200600000001SA    | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU53494200700000001      | All Employees: Service-Providing in Yakima, WA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU53494200600000001SA    | All Employees: Goods Producing in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU53494200700000001      | All Employees: Service-Providing in Yakima, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU53494200700000001A     | All Employees: Service-Providing in Yakima, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU53494200700000001SA    | All Employees: Service-Providing in Yakima, WA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU53494200800000001      | All Employees: Private Service Providing in Yakima, WA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU53494200700000001SA    | All Employees: Service-Providing in Yakima, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU53494200800000001      | All Employees: Private Service Providing in Yakima, WA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU53494200800000001A     | All Employees: Private Service Providing in Yakima, WA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU53494200800000001SA    | All Employees: Private Service Providing in Yakima, WA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU53494200800000001SA    | All Employees: Private Service Providing in Yakima, WA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU53494201500000001A     | All Employees: Mining, Logging, and Construction in Yakima, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU53494203000000001A     | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53494203200000001      | All Employees: Manufacturing: Non-Durable Goods in Yakima, WA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU53494203200000001      | All Employees: Manufacturing: Non-Durable Goods in Yakima, WA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU53494203200000001A     | All Employees: Manufacturing: Non-Durable Goods in Yakima, WA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU53494203200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Yakima, WA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU53494203200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Yakima, WA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU53494204000000001A     | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU53494204100000001      | All Employees: Wholesale Trade in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU53494204100000001      | All Employees: Wholesale Trade in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU53494204100000001A     | All Employees: Wholesale Trade in Yakima, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU53494204100000001SA    | All Employees: Wholesale Trade in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU53494204200000001      | All Employees: Retail Trade in Yakima, WA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU53494204100000001SA    | All Employees: Wholesale Trade in Yakima, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU53494204200000001      | All Employees: Retail Trade in Yakima, WA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU53494204200000001A     | All Employees: Retail Trade in Yakima, WA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU53494204200000001SA    | All Employees: Retail Trade in Yakima, WA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU53494204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Yakima, WA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU53494204200000001SA    | All Employees: Retail Trade in Yakima, WA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU53494204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Yakima, WA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU53494204300000001A     | All Employees: Transportation and Utilities in Yakima, WA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU53494204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Yakima, WA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU53494204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Yakima, WA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU53494206000000001A     | All Employees: Professional and Business Services in Yakima, WA (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU53494206500000001A     | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53494206562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Yakima, WA (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU53494206562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Yakima, WA (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU53494206562000001A     | All Employees: Health Care and Social Assistance in Yakima, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU53494206562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Yakima, WA (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU53494206562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Yakima, WA (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU53494207000000001A     | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU53494207072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Yakima, WA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU53494207072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Yakima, WA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU53494207072200001A     | All Employees: Food Services and Drinking Places in Yakima, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU53494207072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Yakima, WA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU53494207072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Yakima, WA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU53494209000000001A     | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU53494209091000001      | All Employees: Government: Federal Government in Yakima, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU53494209091000001      | All Employees: Government: Federal Government in Yakima, WA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU53494209091000001A     | All Employees: Federal Government in Yakima, WA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU53494209091000001SA    | All Employees: Government: Federal Government in Yakima, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU53494209092000001      | All Employees: Government: State Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU53494209091000001SA    | All Employees: Government: Federal Government in Yakima, WA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU53494209092000001      | All Employees: Government: State Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU53494209092000001A     | All Employees: State Government in Yakima, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU53494209092000001SA    | All Employees: Government: State Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU53494209093000001      | All Employees: Government: Local Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU53494209092000001SA    | All Employees: Government: State Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU53494209093000001      | All Employees: Government: Local Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU53494209093000001A     | All Employees: Local Government in Yakima, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU53494209093000001SA    | All Employees: Government: Local Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU53494209093000001SA    | All Employees: Government: Local Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA49420              | Market Hotness: Supply Score in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| YAKI453EDUH               | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| YAKI453EDUHN              | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| YAKI453GOVT               | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| YAKI453GOVTN              | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| YAKI453LEIH               | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| YAKI453LEIHN              | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| YAKI453EDUH               | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| YAKI453EDUHN              | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| YAKI453GOVT               | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| YAKI453GOVTN              | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| YAKI453LEIH               | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| YAKI453LEIHN              | All Employees: Leisure and Hospitality in Yakima, WA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | YAKI453LF                 | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | YAKI453LFN                | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| YAKI453MFG                | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| YAKI453MFGN               | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| YAKI453NA                 | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| YAKI453NAN                | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| YAKI453NRMN               | All Employees: Mining, Logging, and Construction in Yakima, WA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| YAKI453NRMNN              | All Employees: Mining, Logging, and Construction in Yakima, WA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| YAKI453PBSV               | All Employees: Professional and Business Services in Yakima, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| YAKI453PBSVN              | All Employees: Professional and Business Services in Yakima, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| YAKI453MFG                | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| YAKI453MFGN               | All Employees: Manufacturing in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| YAKI453NA                 | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| YAKI453NAN                | All Employees: Total Nonfarm in Yakima, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| YAKI453NRMN               | All Employees: Mining, Logging, and Construction in Yakima, WA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| YAKI453NRMNN              | All Employees: Mining, Logging, and Construction in Yakima, WA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| YAKI453PBSV               | All Employees: Professional and Business Services in Yakima, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| YAKI453PBSVN              | All Employees: Professional and Business Services in Yakima, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | YAKI453PCPI               | Per Capita Personal Income in Yakima, WA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| YAKI453TRAD               | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| YAKI453TRADN              | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| YAKI453TRAD               | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| YAKI453TRADN              | All Employees: Trade, Transportation, and Utilities in Yakima, WA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | YAKI453UR                 | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | YAKI453URN                | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| YAKPOP                    | Resident Population in Yakima, WA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| YAKPOP                    | Resident Population in Yakima, WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

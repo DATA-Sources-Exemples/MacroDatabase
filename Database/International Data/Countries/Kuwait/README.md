@@ -18,57 +18,57 @@
 | CTKWTA475SCEN        | Number of Identified Exporters to Kuwait from Connecticut                                                                | 1992-01-01          | 2017-01-01        |
 | DCKWTA052SCEN        | Value of Exports to Kuwait from District of Columbia                                                                     | 1992-01-01          | 2005-01-01        |
 | DCKWTA475SCEN        | Number of Identified Exporters to Kuwait from District of Columbia                                                       | 1992-01-01          | 2016-01-01        |
-| DDAI02KWA643NWDB     | Number of Bank Branches for Kuwait                                                                                       | 2004-01-01          | 2017-01-01        |
+| DDAI02KWA643NWDB     | Number of Bank Branches for Kuwait                                                                                       | 2004-01-01          | 2019-01-01        |
 | DDAI05KWA156NWDB     | People 15 Years and Over with Account at a Formal Financial Institution for Kuwait                                       | 2011-01-01          | 2017-01-01        |
 | DDAI06KWA156NWDB     | People 15 Years and Over Saving at a Financial Institution in the Past Year for Kuwait                                   | 2011-01-01          | 2017-01-01        |
 | DDAI07KWA156NWDB     | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Kuwait                              | 2011-01-01          | 2017-01-01        |
-| DDDI01KWA156NWDB     | Private Credit by Deposit Money Banks to GDP for Kuwait                                                                  | 1996-01-01          | 2017-01-01        |
-| DDDI02KWA156NWDB     | Deposit Money Bank Assets to GDP for Kuwait                                                                              | 1996-01-01          | 2017-01-01        |
-| DDDI03KWA156NWDB     | Non-Bank Financial Institutions' Assets to GDP for Kuwait                                                                | 1996-01-01          | 2017-01-01        |
+| DDDI01KWA156NWDB     | Private Credit by Deposit Money Banks to GDP for Kuwait                                                                  | 1962-01-01          | 2018-01-01        |
+| DDDI02KWA156NWDB     | Deposit Money Bank Assets to GDP for Kuwait                                                                              | 1962-01-01          | 2018-01-01        |
+| DDDI03KWA156NWDB     | Non-Bank Financial Institutions' Assets to GDP for Kuwait                                                                | 1976-01-01          | 2018-01-01        |
 | DDDI04KWA156NWDB     | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Kuwait                                | 1996-01-01          | 2006-01-01        |
-| DDDI05KWA156NWDB     | Liquid Liabilities to GDP for Kuwait                                                                                     | 1996-01-01          | 2017-01-01        |
+| DDDI05KWA156NWDB     | Liquid Liabilities to GDP for Kuwait                                                                                     | 1962-01-01          | 2018-01-01        |
 | DDDI06KWA156NWDB     | Central Bank Assets to GDP for Kuwait                                                                                    | 1996-01-01          | 2006-01-01        |
 | DDDI07KWA156NWDB     | Mutual Fund Assets to GDP for Kuwait                                                                                     | 2000-01-01          | 2009-01-01        |
-| DDDI08KWA156NWDB     | Financial System Deposits to GDP for Kuwait                                                                              | 1996-01-01          | 2017-01-01        |
-| DDDI09KWA156NWDB     | Life Insurance Premium Volume to GDP for Kuwait                                                                          | 1996-01-01          | 2015-01-01        |
-| DDDI10KWA156NWDB     | Non-Life Insurance Premium Volume to GDP for Kuwait                                                                      | 1996-01-01          | 2015-01-01        |
+| DDDI08KWA156NWDB     | Financial System Deposits to GDP for Kuwait                                                                              | 1962-01-01          | 2018-01-01        |
+| DDDI09KWA156NWDB     | Life Insurance Premium Volume to GDP for Kuwait                                                                          | 1992-01-01          | 2018-01-01        |
+| DDDI10KWA156NWDB     | Non-Life Insurance Premium Volume to GDP for Kuwait                                                                      | 1992-01-01          | 2018-01-01        |
 | DDDI11KWA156NWDB     | Insurance Company Assets to GDP for Kuwait                                                                               | 2008-01-01          | 2011-01-01        |
-| DDDI12KWA156NWDB     | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Kuwait                                 | 1996-01-01          | 2017-01-01        |
-| DDDM01KWA156NWDB     | Stock Market Capitalization to GDP for Kuwait                                                                            | 1996-01-01          | 2012-01-01        |
-| DDDM02KWA156NWDB     | Stock Market Total Value Traded to GDP for Kuwait                                                                        | 1996-01-01          | 2013-01-01        |
-| DDDM07KWA156NWDB     | Outstanding Total International Debt Securities to GDP for Kuwait                                                        | 2017-01-01          | 2017-01-01        |
-| DDDM08KWA156NWDB     | Gross Portfolio Equity Liabilities to GDP for Kuwait                                                                     | 2008-01-01          | 2017-01-01        |
-| DDDM09KWA156NWDB     | Gross Portfolio Equity Assets to GDP for Kuwait                                                                          | 2001-01-01          | 2017-01-01        |
-| DDDM10KWA156NWDB     | Gross Portfolio Debt Liabilities to GDP for Kuwait                                                                       | 2001-01-01          | 2017-01-01        |
+| DDDI12KWA156NWDB     | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Kuwait                                 | 1962-01-01          | 2018-01-01        |
+| DDDM01KWA156NWDB     | Stock Market Capitalization to GDP for Kuwait                                                                            | 1993-01-01          | 2019-01-01        |
+| DDDM02KWA156NWDB     | Stock Market Total Value Traded to GDP for Kuwait                                                                        | 1993-01-01          | 2019-01-01        |
+| DDDM07KWA156NWDB     | Outstanding Total International Debt Securities to GDP for Kuwait                                                        | 2017-01-01          | 2019-01-01        |
+| DDDM08KWA156NWDB     | Gross Portfolio Equity Liabilities to GDP for Kuwait                                                                     | 2008-01-01          | 2019-01-01        |
+| DDDM09KWA156NWDB     | Gross Portfolio Equity Assets to GDP for Kuwait                                                                          | 2001-01-01          | 2019-01-01        |
+| DDDM10KWA156NWDB     | Gross Portfolio Debt Liabilities to GDP for Kuwait                                                                       | 2001-01-01          | 2019-01-01        |
 | DDEI01KWA156NWDB     | Bank's Net Interest Margin for Kuwait                                                                                    | 1996-01-01          | 2017-01-01        |
-| DDEI02KWA156NWDB     | Bank Lending Deposit Spread for Kuwait                                                                                   | 1996-01-01          | 2017-01-01        |
+| DDEI02KWA156NWDB     | Bank Lending Deposit Spread for Kuwait                                                                                   | 1980-01-01          | 2019-01-01        |
 | DDEI03KWA156NWDB     | Bank's Non-Interest Income to Total Income for Kuwait                                                                    | 1996-01-01          | 2017-01-01        |
 | DDEI04KWA156NWDB     | Bank's Overhead Costs to Total Assets for Kuwait                                                                         | 1996-01-01          | 2017-01-01        |
 | DDEI05KWA156NWDB     | Bank's Return on Assets for Kuwait                                                                                       | 1996-01-01          | 2017-01-01        |
 | DDEI06KWA156NWDB     | Bank's Return on Equity for Kuwait                                                                                       | 1996-01-01          | 2017-01-01        |
 | DDEI07KWA156NWDB     | Bank's Cost to Income Ratio for Kuwait                                                                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08KWA156NWDB     | Credit to Government and State-Owned Enterprises to GDP for Kuwait                                                       | 1996-01-01          | 2017-01-01        |
-| DDEM01KWA156NWDB     | Stock Market Turnover Ratio (Value Traded/Capitalization) for Kuwait                                                     | 1996-01-01          | 2012-01-01        |
-| DDOE01KWA086NWDB     | Consumer Price Index for Kuwait                                                                                          | 1996-01-01          | 2017-01-01        |
-| DDOE02KWA086NWDB     | Consumer Price Index for Kuwait                                                                                          | 1996-01-01          | 2017-01-01        |
+| DDEI08KWA156NWDB     | Credit to Government and State-Owned Enterprises to GDP for Kuwait                                                       | 1987-01-01          | 2018-01-01        |
+| DDEM01KWA156NWDB     | Stock Market Turnover Ratio (Value Traded/Capitalization) for Kuwait                                                     | 1993-01-01          | 2019-01-01        |
+| DDOE01KWA086NWDB     | Consumer Price Index for Kuwait                                                                                          | 1972-01-01          | 2017-01-01        |
+| DDOE02KWA086NWDB     | Consumer Price Index for Kuwait                                                                                          | 1972-01-01          | 2017-01-01        |
 | DDOI01KWA156NWDB     | Bank Concentration for Kuwait                                                                                            | 1996-01-01          | 2017-01-01        |
-| DDOI02KWA156NWDB     | Bank Deposits to GDP for Kuwait                                                                                          | 1996-01-01          | 2017-01-01        |
+| DDOI02KWA156NWDB     | Bank Deposits to GDP for Kuwait                                                                                          | 1962-01-01          | 2018-01-01        |
 | DDOI03KWA066NWDB     | H-Statistic in Banking Market for Kuwait                                                                                 | 2010-01-01          | 2014-01-01        |
 | DDOI04KWA066NWDB     | Lerner Index in Banking Market for Kuwait                                                                                | 1996-01-01          | 2013-01-01        |
 | DDOI05KWA156NWDB     | Boone Indicator in Banking Market for Kuwait                                                                             | 1999-01-01          | 2014-01-01        |
 | DDOI06KWA156NWDB     | 5-Bank Asset Concentration for Kuwait                                                                                    | 1996-01-01          | 2017-01-01        |
-| DDOI07KWA648NWDB     | Liquid Liabilities (Broad Money) for Kuwait                                                                              | 1996-01-01          | 2017-01-01        |
+| DDOI07KWA648NWDB     | Liquid Liabilities (Broad Money) for Kuwait                                                                              | 1960-01-01          | 2018-01-01        |
 | DDOI08KWA156NWDB     | Loans from Non-Resident Banks, Net, to GDP for Kuwait                                                                    | 2003-01-01          | 2017-01-01        |
 | DDOI09KWA156NWDB     | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Kuwait                                                    | 1996-01-01          | 2017-01-01        |
-| DDOI10KWA156NWDB     | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Kuwait                              | 1996-01-01          | 2017-01-01        |
-| DDOI12KWA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Kuwait                                                     | 1996-01-01          | 2017-01-01        |
-| DDOI13KWA156NWDB     | Percentage of Foreign Banks Among Total Banks for Kuwait                                                                 | 1996-01-01          | 2013-01-01        |
+| DDOI10KWA156NWDB     | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Kuwait                              | 1995-01-01          | 2018-01-01        |
+| DDOI12KWA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Kuwait                                                     | 1983-01-01          | 2019-01-01        |
+| DDOI13KWA156NWDB     | Percentage of Foreign Banks Among Total Banks for Kuwait                                                                 | 1995-01-01          | 2013-01-01        |
 | DDOI14KWA156NWDB     | Percentage of Foreign Bank Assets Among Total Bank Assets for Kuwait                                                     | 2004-01-01          | 2013-01-01        |
-| DDOM01KWA644NWDB     | Number of Listed Companies for Kuwait                                                                                    | 1996-01-01          | 2015-01-01        |
+| DDOM01KWA644NWDB     | Number of Listed Companies for Kuwait                                                                                    | 1995-01-01          | 2020-01-01        |
 | DDSI01KWA645NWDB     | Bank Z-Score for Kuwait                                                                                                  | 1996-01-01          | 2017-01-01        |
 | DDSI02KWA156NWDB     | Bank Non-Performing Loans to Gross Loans for Kuwait                                                                      | 1998-01-01          | 2015-01-01        |
 | DDSI03KWA156NWDB     | Bank Capital to Total Assets for Kuwait                                                                                  | 1998-01-01          | 2015-01-01        |
-| DDSI04KWA156NWDB     | Bank Credit to Bank Deposits for Kuwait                                                                                  | 1996-01-01          | 2017-01-01        |
+| DDSI04KWA156NWDB     | Bank Credit to Bank Deposits for Kuwait                                                                                  | 1962-01-01          | 2018-01-01        |
 | DDSI05KWA156NWDB     | Bank Regulatory Capital to Risk-Weighted Assets for Kuwait                                                               | 1998-01-01          | 2015-01-01        |
 | DDSI06KWA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Kuwait                                                              | 1996-01-01          | 2017-01-01        |
 | DDSI07KWA156NWDB     | Provisions to Non-Performing Loans for Kuwait                                                                            | 1998-01-01          | 2015-01-01        |

@@ -8,31 +8,31 @@
 | AVELISPRIMM17020          | Housing Inventory: Average Listing Price Month-Over-Month in Chico, CA (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY17020          | Housing Inventory: Average Listing Price Year-Over-Year in Chico, CA (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | CHCPOP                    | Resident Population in Chico, CA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| CHIC006EDUH               | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CHIC006EDUHN              | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CHIC006FIRE               | All Employees: Financial Activities in Chico, CA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CHIC006FIREN              | All Employees: Financial Activities in Chico, CA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CHIC006GOVT               | All Employees: Government in Chico, CA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CHIC006GOVTN              | All Employees: Government in Chico, CA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CHIC006INFO               | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CHIC006INFON              | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CHIC006LEIH               | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| CHIC006LEIHN              | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| CHIC006EDUH               | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CHIC006EDUHN              | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CHIC006FIRE               | All Employees: Financial Activities in Chico, CA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CHIC006FIREN              | All Employees: Financial Activities in Chico, CA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CHIC006GOVT               | All Employees: Government in Chico, CA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CHIC006GOVTN              | All Employees: Government in Chico, CA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CHIC006INFO               | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CHIC006INFON              | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CHIC006LEIH               | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| CHIC006LEIHN              | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | CHIC006LF                 | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | CHIC006LFN                | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| CHIC006MFG                | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHIC006MFGN               | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHIC006NA                 | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHIC006NAN                | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CHIC006NRMN               | All Employees: Mining, Logging, and Construction in Chico, CA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CHIC006NRMNN              | All Employees: Mining, Logging, and Construction in Chico, CA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CHIC006PBSV               | All Employees: Professional and Business Services in Chico, CA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| CHIC006PBSVN              | All Employees: Professional and Business Services in Chico, CA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| CHIC006MFG                | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHIC006MFGN               | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHIC006NA                 | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHIC006NAN                | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CHIC006NRMN               | All Employees: Mining, Logging, and Construction in Chico, CA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CHIC006NRMNN              | All Employees: Mining, Logging, and Construction in Chico, CA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CHIC006PBSV               | All Employees: Professional and Business Services in Chico, CA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| CHIC006PBSVN              | All Employees: Professional and Business Services in Chico, CA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | CHIC006PCPI               | Per Capita Personal Income in Chico, CA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| CHIC006SRVO               | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CHIC006SRVON              | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CHIC006TRAD               | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| CHIC006TRADN              | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| CHIC006SRVO               | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CHIC006SRVON              | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CHIC006TRAD               | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| CHIC006TRADN              | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DESCMSA17020              | Market Hotness: Demand Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
@@ -107,70 +107,70 @@
 | RPPGOOD17020              | Regional Price Parities: Goods for Chico, CA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH17020          | Regional Price Parities: Services: Other for Chico, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT17020         | Regional Price Parities: Services: Rents for Chico, CA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS06170200000000026      | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS06170200000000026      | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU06170200000000001A     | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06170200500000001      | All Employees: Total Private in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU06170200500000001      | All Employees: Total Private in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU06170200500000001A     | All Employees: Total Private in Chico, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU06170200500000001SA    | All Employees: Total Private in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU06170200500000002      | Average Weekly Hours of All Employees: Total Private in Chico, CA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU06170200500000001SA    | All Employees: Total Private in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU06170200500000002      | Average Weekly Hours of All Employees: Total Private in Chico, CA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU06170200500000002A     | Average Weekly Hours of All Employees: Total Private in Chico, CA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU06170200500000002SA    | Average Weekly Hours of All Employees: Total Private in Chico, CA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU06170200500000003      | Average Hourly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU06170200500000002SA    | Average Weekly Hours of All Employees: Total Private in Chico, CA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU06170200500000003      | Average Hourly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU06170200500000003A     | Average Hourly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06170200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU06170200500000011      | Average Weekly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU06170200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU06170200500000011      | Average Weekly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU06170200500000011A     | Average Weekly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU06170200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU06170200600000001      | All Employees: Goods Producing in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU06170200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Chico, CA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU06170200600000001      | All Employees: Goods Producing in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU06170200600000001A     | All Employees: Goods Producing in Chico, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU06170200600000001SA    | All Employees: Goods Producing in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU06170200700000001      | All Employees: Service-Providing in Chico, CA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU06170200600000001SA    | All Employees: Goods Producing in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU06170200700000001      | All Employees: Service-Providing in Chico, CA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU06170200700000001A     | All Employees: Service-Providing in Chico, CA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU06170200700000001SA    | All Employees: Service-Providing in Chico, CA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU06170200800000001      | All Employees: Private Service Providing in Chico, CA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU06170200700000001SA    | All Employees: Service-Providing in Chico, CA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU06170200800000001      | All Employees: Private Service Providing in Chico, CA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU06170200800000001A     | All Employees: Private Service Providing in Chico, CA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU06170200800000001SA    | All Employees: Private Service Providing in Chico, CA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU06170200800000001SA    | All Employees: Private Service Providing in Chico, CA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU06170201500000001A     | All Employees: Mining, Logging, and Construction in Chico, CA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU06170203000000001A     | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU06170204000000001A     | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU06170204100000001      | All Employees: Wholesale Trade in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU06170204100000001      | All Employees: Wholesale Trade in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU06170204100000001A     | All Employees: Wholesale Trade in Chico, CA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU06170204100000001SA    | All Employees: Wholesale Trade in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU06170204200000001      | All Employees: Retail Trade in Chico, CA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU06170204100000001SA    | All Employees: Wholesale Trade in Chico, CA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU06170204200000001      | All Employees: Retail Trade in Chico, CA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU06170204200000001A     | All Employees: Retail Trade in Chico, CA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU06170204200000001SA    | All Employees: Retail Trade in Chico, CA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU06170204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chico, CA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU06170204200000001SA    | All Employees: Retail Trade in Chico, CA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU06170204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chico, CA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU06170204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chico, CA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU06170204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chico, CA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU06170204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Chico, CA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU06170205000000001A     | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU06170205500000001A     | All Employees: Financial Activities in Chico, CA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU06170205552000001      | All Employees: Financial Activities: Finance and Insurance in Chico, CA (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU06170205552000001      | All Employees: Financial Activities: Finance and Insurance in Chico, CA (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU06170205552000001A     | All Employees: Financial Activities: Finance and Insurance in Chico, CA (MSA)                              | 1990-01-01          | 2021-01-01        |
-| SMU06170205552000001SA    | All Employees: Financial Activities: Finance and Insurance in Chico, CA (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU06170205552000001SA    | All Employees: Financial Activities: Finance and Insurance in Chico, CA (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU06170206000000001A     | All Employees: Professional and Business Services in Chico, CA (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU06170206500000001A     | All Employees: Education and Health Services in Chico, CA (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU06170207000000001A     | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU06170208000000001A     | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU06170209000000001A     | All Employees: Government in Chico, CA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU06170209091000001      | All Employees: Government: Federal Government in Chico, CA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU06170209091000001      | All Employees: Government: Federal Government in Chico, CA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU06170209091000001A     | All Employees: Federal Government in Chico, CA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU06170209091000001SA    | All Employees: Government: Federal Government in Chico, CA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU06170209092000001      | All Employees: Government: State Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06170209091000001SA    | All Employees: Government: Federal Government in Chico, CA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU06170209092000001      | All Employees: Government: State Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06170209092000001A     | All Employees: State Government in Chico, CA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU06170209092000001SA    | All Employees: Government: State Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06170209092161101      | All Employees: Government: State Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-01-01        |
+| SMU06170209092000001SA    | All Employees: Government: State Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06170209092161101      | All Employees: Government: State Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-02-01        |
 | SMU06170209092161101A     | All Employees: State Government Educational Services in Chico, CA (MSA)                                    | 1992-01-01          | 2021-01-01        |
-| SMU06170209092161101SA    | All Employees: Government: State Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-01-01        |
-| SMU06170209092200001      | All Employees: Government: State Government Excluding Education in Chico, CA (MSA)                         | 2003-01-01          | 2022-01-01        |
+| SMU06170209092161101SA    | All Employees: Government: State Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-02-01        |
+| SMU06170209092200001      | All Employees: Government: State Government Excluding Education in Chico, CA (MSA)                         | 2003-01-01          | 2022-02-01        |
 | SMU06170209092200001A     | All Employees: Government: State Government Excluding Education in Chico, CA (MSA)                         | 2003-01-01          | 2021-01-01        |
-| SMU06170209092200001SA    | All Employees: Government: State Government Excluding Education in Chico, CA (MSA)                         | 2003-01-01          | 2022-01-01        |
-| SMU06170209093000001      | All Employees: Government: Local Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU06170209092200001SA    | All Employees: Government: State Government Excluding Education in Chico, CA (MSA)                         | 2003-01-01          | 2022-02-01        |
+| SMU06170209093000001      | All Employees: Government: Local Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU06170209093000001A     | All Employees: Local Government in Chico, CA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU06170209093000001SA    | All Employees: Government: Local Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU06170209093161101      | All Employees: Government: Local Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-01-01        |
+| SMU06170209093000001SA    | All Employees: Government: Local Government in Chico, CA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU06170209093161101      | All Employees: Government: Local Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-02-01        |
 | SMU06170209093161101A     | All Employees: Local Government Educational Services in Chico, CA (MSA)                                    | 1992-01-01          | 2021-01-01        |
-| SMU06170209093161101SA    | All Employees: Government: Local Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-01-01        |
-| SMU06170209093200001      | All Employees: Government: Local Government Excluding Educational Services in Chico, CA (MSA)              | 2003-01-01          | 2022-01-01        |
+| SMU06170209093161101SA    | All Employees: Government: Local Government Educational Services in Chico, CA (MSA)                        | 1992-01-01          | 2022-02-01        |
+| SMU06170209093200001      | All Employees: Government: Local Government Excluding Educational Services in Chico, CA (MSA)              | 2003-01-01          | 2022-02-01        |
 | SMU06170209093200001A     | All Employees: Local Government Excluding Educational Services in Chico, CA (MSA)                          | 2003-01-01          | 2021-01-01        |
-| SMU06170209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Chico, CA (MSA)              | 2003-01-01          | 2022-01-01        |
+| SMU06170209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Chico, CA (MSA)              | 2003-01-01          | 2022-02-01        |
 | SUSCMSA17020              | Market Hotness: Supply Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

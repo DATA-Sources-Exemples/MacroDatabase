@@ -85,17 +85,17 @@
 | CTAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Connecticut                                                                           | 1997-01-01          | 2017-01-01        |
 | DCAFGA052SCEN        | Value of Exports to Afghanistan from District of Columbia                                                                                | 2003-01-01          | 2016-01-01        |
 | DCAFGA475SCEN        | Number of Identified Exporters to Afghanistan from District of Columbia                                                                  | 2002-01-01          | 2016-01-01        |
-| DDAI01AFA642NWDB     | Number of Bank Accounts for Afghanistan                                                                                                  | 2008-01-01          | 2017-01-01        |
+| DDAI01AFA642NWDB     | Number of Bank Accounts for Afghanistan                                                                                                  | 2008-01-01          | 2019-01-01        |
 | DDAI05AFA156NWDB     | People 15 Years and Over with Account at a Formal Financial Institution for Afghanistan                                                  | 2011-01-01          | 2017-01-01        |
 | DDAI06AFA156NWDB     | People 15 Years and Over Saving at a Financial Institution in the Past Year for Afghanistan                                              | 2011-01-01          | 2017-01-01        |
 | DDAI07AFA156NWDB     | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Afghanistan                                         | 2011-01-01          | 2017-01-01        |
-| DDDI01AFA156NWDB     | Private Credit by Deposit Money Banks to GDP for Afghanistan                                                                             | 1960-01-01          | 2017-01-01        |
-| DDDI02AFA156NWDB     | Deposit Money Bank Assets to GDP for Afghanistan                                                                                         | 1960-01-01          | 2017-01-01        |
-| DDDI04AFA156NWDB     | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Afghanistan                                           | 1960-01-01          | 2017-01-01        |
-| DDDI05AFA156NWDB     | Liquid Liabilities to GDP for Afghanistan                                                                                                | 1960-01-01          | 2017-01-01        |
-| DDDI06AFA156NWDB     | Central Bank Assets to GDP for Afghanistan                                                                                               | 1960-01-01          | 2017-01-01        |
-| DDDI08AFA156NWDB     | Financial System Deposits to GDP for Afghanistan                                                                                         | 1960-01-01          | 2017-01-01        |
-| DDDI12AFA156NWDB     | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Afghanistan                                            | 1960-01-01          | 2017-01-01        |
+| DDDI01AFA156NWDB     | Private Credit by Deposit Money Banks to GDP for Afghanistan                                                                             | 1960-01-01          | 2020-01-01        |
+| DDDI02AFA156NWDB     | Deposit Money Bank Assets to GDP for Afghanistan                                                                                         | 1960-01-01          | 2020-01-01        |
+| DDDI04AFA156NWDB     | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Afghanistan                                           | 1960-01-01          | 2020-01-01        |
+| DDDI05AFA156NWDB     | Liquid Liabilities to GDP for Afghanistan                                                                                                | 1960-01-01          | 2020-01-01        |
+| DDDI06AFA156NWDB     | Central Bank Assets to GDP for Afghanistan                                                                                               | 1960-01-01          | 2020-01-01        |
+| DDDI08AFA156NWDB     | Financial System Deposits to GDP for Afghanistan                                                                                         | 1960-01-01          | 2020-01-01        |
+| DDDI12AFA156NWDB     | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Afghanistan                                            | 1960-01-01          | 2020-01-01        |
 | DDEI01AFA156NWDB     | Bank's Net Interest Margin for Afghanistan                                                                                               | 2005-01-01          | 2017-01-01        |
 | DDEI03AFA156NWDB     | Bank's Non-Interest Income to Total Income for Afghanistan                                                                               | 2004-01-01          | 2017-01-01        |
 | DDEI04AFA156NWDB     | Bank's Overhead Costs to Total Assets for Afghanistan                                                                                    | 2005-01-01          | 2017-01-01        |
@@ -105,14 +105,14 @@
 | DDOE01AFA086NWDB     | Consumer Price Index for Afghanistan                                                                                                     | 2003-01-01          | 2017-01-01        |
 | DDOE02AFA086NWDB     | Consumer Price Index for Afghanistan                                                                                                     | 2003-01-01          | 2017-01-01        |
 | DDOI01AFA156NWDB     | Bank Concentration for Afghanistan                                                                                                       | 2005-01-01          | 2017-01-01        |
-| DDOI02AFA156NWDB     | Bank Deposits to GDP for Afghanistan                                                                                                     | 1960-01-01          | 2017-01-01        |
+| DDOI02AFA156NWDB     | Bank Deposits to GDP for Afghanistan                                                                                                     | 1960-01-01          | 2020-01-01        |
 | DDOI05AFA156NWDB     | Boone Indicator in Banking Market for Afghanistan                                                                                        | 2005-01-01          | 2014-01-01        |
 | DDOI06AFA156NWDB     | 5-Bank Asset Concentration for Afghanistan                                                                                               | 2006-01-01          | 2017-01-01        |
-| DDOI07AFA648NWDB     | Liquid Liabilities (Broad Money) for Afghanistan                                                                                         | 1960-01-01          | 2017-01-01        |
+| DDOI07AFA648NWDB     | Liquid Liabilities (Broad Money) for Afghanistan                                                                                         | 1960-01-01          | 2020-01-01        |
 | DDOI09AFA156NWDB     | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Afghanistan                                                               | 2001-01-01          | 2013-01-01        |
-| DDOI10AFA156NWDB     | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Afghanistan                                         | 2006-01-01          | 2017-01-01        |
+| DDOI10AFA156NWDB     | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Afghanistan                                         | 2006-01-01          | 2020-01-01        |
 | DDSI01AFA645NWDB     | Bank Z-Score for Afghanistan                                                                                                             | 2005-01-01          | 2017-01-01        |
-| DDSI04AFA156NWDB     | Bank Credit to Bank Deposits for Afghanistan                                                                                             | 1960-01-01          | 2017-01-01        |
+| DDSI04AFA156NWDB     | Bank Credit to Bank Deposits for Afghanistan                                                                                             | 1960-01-01          | 2019-01-01        |
 | DEAFGA052SCEN        | Value of Exports to Afghanistan from Delaware                                                                                            | 2010-01-01          | 2016-01-01        |
 | DEAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Delaware                                                                              | 1992-01-01          | 2017-01-01        |
 | EXP5310              | U.S. Exports of Goods by F.A.S. Basis to Afghanistan                                                                                     | 1992-01-01          | 2022-01-01        |

@@ -33,30 +33,30 @@
 | RPPGOOD15680           | Regional Price Parities: Goods for California-Lexington Park, MD (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH15680       | Regional Price Parities: Services: Other for California-Lexington Park, MD (MSA)                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT15680      | Regional Price Parities: Services: Rents for California-Lexington Park, MD (MSA)                               | 2008-01-01          | 2020-01-01        |
-| SMU24156800000000001   | All Employees: Total Nonfarm in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU24156800000000001   | All Employees: Total Nonfarm in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU24156800000000001A  | All Employees: Total Nonfarm in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU24156800000000001SA | All Employees: Total Nonfarm in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU24156800500000001   | All Employees: Total Private in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU24156800000000001SA | All Employees: Total Nonfarm in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU24156800500000001   | All Employees: Total Private in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU24156800500000001A  | All Employees: Total Private in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU24156800500000001SA | All Employees: Total Private in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU24156800500000002   | Average Weekly Hours of All Employees: Total Private in California-Lexington Park, MD (MSA)                    | 2011-01-01          | 2022-01-01        |
+| SMU24156800500000001SA | All Employees: Total Private in California-Lexington Park, MD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU24156800500000002   | Average Weekly Hours of All Employees: Total Private in California-Lexington Park, MD (MSA)                    | 2011-01-01          | 2022-02-01        |
 | SMU24156800500000002A  | Average Weekly Hours of All Employees: Total Private in California-Lexington Park, MD (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU24156800500000002SA | Average Weekly Hours of All Employees: Total Private in California-Lexington Park, MD (MSA)                    | 2011-01-01          | 2022-01-01        |
-| SMU24156800500000003   | Average Hourly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-01-01        |
+| SMU24156800500000002SA | Average Weekly Hours of All Employees: Total Private in California-Lexington Park, MD (MSA)                    | 2011-01-01          | 2022-02-01        |
+| SMU24156800500000003   | Average Hourly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-02-01        |
 | SMU24156800500000003A  | Average Hourly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU24156800500000003SA | Average Hourly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-01-01        |
-| SMU24156800500000011   | Average Weekly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-01-01        |
+| SMU24156800500000003SA | Average Hourly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-02-01        |
+| SMU24156800500000011   | Average Weekly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-02-01        |
 | SMU24156800500000011A  | Average Weekly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU24156800500000011SA | Average Weekly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-01-01        |
-| SMU24156800600000001   | All Employees: Goods Producing in California-Lexington Park, MD (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU24156800500000011SA | Average Weekly Earnings of All Employees: Total Private in California-Lexington Park, MD (MSA)                 | 2011-01-01          | 2022-02-01        |
+| SMU24156800600000001   | All Employees: Goods Producing in California-Lexington Park, MD (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU24156800600000001A  | All Employees: Goods Producing in California-Lexington Park, MD (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU24156800600000001SA | All Employees: Goods Producing in California-Lexington Park, MD (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU24156800700000001   | All Employees: Service-Providing in California-Lexington Park, MD (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU24156800600000001SA | All Employees: Goods Producing in California-Lexington Park, MD (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU24156800700000001   | All Employees: Service-Providing in California-Lexington Park, MD (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU24156800700000001A  | All Employees: Service-Providing in California-Lexington Park, MD (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU24156800700000001SA | All Employees: Service-Providing in California-Lexington Park, MD (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU24156800800000001   | All Employees: Private Service Providing in California-Lexington Park, MD (MSA)                                | 1990-01-01          | 2022-01-01        |
+| SMU24156800700000001SA | All Employees: Service-Providing in California-Lexington Park, MD (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU24156800800000001   | All Employees: Private Service Providing in California-Lexington Park, MD (MSA)                                | 1990-01-01          | 2022-02-01        |
 | SMU24156800800000001A  | All Employees: Private Service Providing in California-Lexington Park, MD (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU24156800800000001SA | All Employees: Private Service Providing in California-Lexington Park, MD (MSA)                                | 1990-01-01          | 2022-01-01        |
-| SMU24156809000000001   | All Employees: Government in California-Lexington Park, MD (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU24156800800000001SA | All Employees: Private Service Providing in California-Lexington Park, MD (MSA)                                | 1990-01-01          | 2022-02-01        |
+| SMU24156809000000001   | All Employees: Government in California-Lexington Park, MD (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU24156809000000001A  | All Employees: Government in California-Lexington Park, MD (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU24156809000000001SA | All Employees: Government in California-Lexington Park, MD (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU24156809000000001SA | All Employees: Government in California-Lexington Park, MD (MSA)                                               | 1990-01-01          | 2022-02-01        |

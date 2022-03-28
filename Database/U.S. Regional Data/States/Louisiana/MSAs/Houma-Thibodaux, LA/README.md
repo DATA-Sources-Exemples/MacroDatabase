@@ -24,17 +24,17 @@
 | HORAMSA26380              | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-01-01        |
 | HOSCMSA26380              | Market Hotness: Hotness Score in Houma-Thibodaux, LA (CBSA)                                                         | 2017-08-01          | 2022-01-01        |
-| HOUM322GOVT               | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| HOUM322GOVTN              | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| HOUM322LEIH               | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| HOUM322LEIHN              | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| HOUM322GOVT               | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| HOUM322GOVTN              | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| HOUM322LEIH               | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| HOUM322LEIHN              | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | HOUM322LF                 | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | HOUM322LFN                | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| HOUM322NA                 | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| HOUM322NAN                | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1975-01-01          | 2022-01-01        |
+| HOUM322NA                 | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| HOUM322NAN                | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1975-01-01          | 2022-02-01        |
 | HOUM322PCPI               | Per Capita Personal Income in Houma-Thibodaux, LA (MSA)                                                             | 1969-01-01          | 2020-01-01        |
-| HOUM322TRAD               | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| HOUM322TRADN              | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| HOUM322TRAD               | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| HOUM322TRADN              | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | HOUM322UR                 | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
 | HOUM322URN                | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
 | HOUPOP                    | Resident Population in Houma-Thibodaux, LA (MSA)                                                                    | 2000-01-01          | 2020-01-01        |
@@ -93,63 +93,63 @@
 | RPPGOOD26380              | Regional Price Parities: Goods for Houma-Thibodaux, LA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH26380          | Regional Price Parities: Services: Other for Houma-Thibodaux, LA (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT26380         | Regional Price Parities: Services: Rents for Houma-Thibodaux, LA (MSA)                                              | 2008-01-01          | 2020-01-01        |
-| SMS22263800000000026      | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1990-04-01          | 2022-01-01        |
+| SMS22263800000000026      | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1990-04-01          | 2022-02-01        |
 | SMU22263800000000001A     | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1975-01-01          | 2021-01-01        |
-| SMU22263800500000001      | All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU22263800500000001      | All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU22263800500000001A     | All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU22263800500000001SA    | All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SMU22263800500000002      | Average Weekly Hours of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                   | 2007-01-01          | 2022-01-01        |
+| SMU22263800500000001SA    | All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SMU22263800500000002      | Average Weekly Hours of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                   | 2007-01-01          | 2022-02-01        |
 | SMU22263800500000002A     | Average Weekly Hours of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                   | 2007-01-01          | 2021-01-01        |
-| SMU22263800500000002SA    | Average Weekly Hours of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                   | 2007-01-01          | 2022-01-01        |
-| SMU22263800500000003      | Average Hourly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-01-01        |
+| SMU22263800500000002SA    | Average Weekly Hours of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                   | 2007-01-01          | 2022-02-01        |
+| SMU22263800500000003      | Average Hourly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-02-01        |
 | SMU22263800500000003A     | Average Hourly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2021-01-01        |
-| SMU22263800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-01-01        |
-| SMU22263800500000011      | Average Weekly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-01-01        |
+| SMU22263800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-02-01        |
+| SMU22263800500000011      | Average Weekly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-02-01        |
 | SMU22263800500000011A     | Average Weekly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2021-01-01        |
-| SMU22263800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-01-01        |
-| SMU22263800600000001      | All Employees: Goods Producing in Houma-Thibodaux, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22263800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Houma-Thibodaux, LA (MSA)                                | 2007-01-01          | 2022-02-01        |
+| SMU22263800600000001      | All Employees: Goods Producing in Houma-Thibodaux, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22263800600000001A     | All Employees: Goods Producing in Houma-Thibodaux, LA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU22263800600000001SA    | All Employees: Goods Producing in Houma-Thibodaux, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU22263800700000001      | All Employees: Service-Providing in Houma-Thibodaux, LA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU22263800600000001SA    | All Employees: Goods Producing in Houma-Thibodaux, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU22263800700000001      | All Employees: Service-Providing in Houma-Thibodaux, LA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU22263800700000001A     | All Employees: Service-Providing in Houma-Thibodaux, LA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU22263800700000001SA    | All Employees: Service-Providing in Houma-Thibodaux, LA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| SMU22263800800000001      | All Employees: Private Service Providing in Houma-Thibodaux, LA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU22263800700000001SA    | All Employees: Service-Providing in Houma-Thibodaux, LA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU22263800800000001      | All Employees: Private Service Providing in Houma-Thibodaux, LA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU22263800800000001A     | All Employees: Private Service Providing in Houma-Thibodaux, LA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU22263800800000001SA    | All Employees: Private Service Providing in Houma-Thibodaux, LA (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU22263801000000001      | All Employees: Mining and Logging in Houma-Thibodaux, LA (MSA)                                                      | 2005-01-01          | 2022-01-01        |
+| SMU22263800800000001SA    | All Employees: Private Service Providing in Houma-Thibodaux, LA (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU22263801000000001      | All Employees: Mining and Logging in Houma-Thibodaux, LA (MSA)                                                      | 2005-01-01          | 2022-02-01        |
 | SMU22263801000000001A     | All Employees: Mining and Logging in Houma-Thibodaux, LA (MSA)                                                      | 2005-01-01          | 2021-01-01        |
-| SMU22263801000000001SA    | All Employees: Mining and Logging in Houma-Thibodaux, LA (MSA)                                                      | 2005-01-01          | 2022-01-01        |
-| SMU22263801021300001      | All Employees: Mining and Logging: Support Activities for Mining in Houma-Thibodaux, LA (MSA)                       | 2005-01-01          | 2022-01-01        |
+| SMU22263801000000001SA    | All Employees: Mining and Logging in Houma-Thibodaux, LA (MSA)                                                      | 2005-01-01          | 2022-02-01        |
+| SMU22263801021300001      | All Employees: Mining and Logging: Support Activities for Mining in Houma-Thibodaux, LA (MSA)                       | 2005-01-01          | 2022-02-01        |
 | SMU22263801021300001A     | All Employees: Mining: Support Activities for Mining in Houma-Thibodaux, LA (MSA)                                   | 2005-01-01          | 2021-01-01        |
-| SMU22263801021300001SA    | All Employees: Mining and Logging: Support Activities for Mining in Houma-Thibodaux, LA (MSA)                       | 2005-01-01          | 2022-01-01        |
-| SMU22263801500000001      | All Employees: Mining, Logging, and Construction in Houma-Thibodaux, LA (MSA)                                       | 2005-01-01          | 2022-01-01        |
+| SMU22263801021300001SA    | All Employees: Mining and Logging: Support Activities for Mining in Houma-Thibodaux, LA (MSA)                       | 2005-01-01          | 2022-02-01        |
+| SMU22263801500000001      | All Employees: Mining, Logging, and Construction in Houma-Thibodaux, LA (MSA)                                       | 2005-01-01          | 2022-02-01        |
 | SMU22263801500000001A     | All Employees: Mining, Logging, and Construction in Houma-Thibodaux, LA (MSA)                                       | 2005-01-01          | 2021-01-01        |
-| SMU22263801500000001SA    | All Employees: Mining, Logging, and Construction in Houma-Thibodaux, LA (MSA)                                       | 2005-01-01          | 2022-01-01        |
-| SMU22263802000000001      | All Employees: Construction in Houma-Thibodaux, LA (MSA)                                                            | 2005-01-01          | 2022-01-01        |
+| SMU22263801500000001SA    | All Employees: Mining, Logging, and Construction in Houma-Thibodaux, LA (MSA)                                       | 2005-01-01          | 2022-02-01        |
+| SMU22263802000000001      | All Employees: Construction in Houma-Thibodaux, LA (MSA)                                                            | 2005-01-01          | 2022-02-01        |
 | SMU22263802000000001A     | All Employees: Construction in Houma-Thibodaux, LA (MSA)                                                            | 2005-01-01          | 2021-01-01        |
-| SMU22263802000000001SA    | All Employees: Construction in Houma-Thibodaux, LA (MSA)                                                            | 2005-01-01          | 2022-01-01        |
+| SMU22263802000000001SA    | All Employees: Construction in Houma-Thibodaux, LA (MSA)                                                            | 2005-01-01          | 2022-02-01        |
 | SMU22263804000000001A     | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU22263804200000001      | All Employees: Retail Trade in Houma-Thibodaux, LA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU22263804200000001      | All Employees: Retail Trade in Houma-Thibodaux, LA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU22263804200000001A     | All Employees: Retail Trade in Houma-Thibodaux, LA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU22263804200000001SA    | All Employees: Retail Trade in Houma-Thibodaux, LA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU22263804348800001      | All Employees: Transportation and Utilities: Support Activities for Transportation in Houma-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-01-01        |
+| SMU22263804200000001SA    | All Employees: Retail Trade in Houma-Thibodaux, LA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU22263804348800001      | All Employees: Transportation and Utilities: Support Activities for Transportation in Houma-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-02-01        |
 | SMU22263804348800001A     | All Employees: Support Activities for Transportation in Houma-Thibodaux, LA (MSA)                                   | 1990-01-01          | 2021-01-01        |
-| SMU22263804348800001SA    | All Employees: Transportation and Utilities: Support Activities for Transportation in Houma-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| SMU22263806056100001      | All Employees: Professional and Business Services: Administrative and Support Services in Houma-Thibodaux, LA (MSA) | 2004-01-01          | 2022-01-01        |
+| SMU22263804348800001SA    | All Employees: Transportation and Utilities: Support Activities for Transportation in Houma-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-02-01        |
+| SMU22263806056100001      | All Employees: Professional and Business Services: Administrative and Support Services in Houma-Thibodaux, LA (MSA) | 2004-01-01          | 2022-02-01        |
 | SMU22263806056100001A     | All Employees: Administrative and Support Services in Houma-Thibodaux, LA (MSA)                                     | 2004-01-01          | 2021-01-01        |
-| SMU22263806056100001SA    | All Employees: Professional and Business Services: Administrative and Support Services in Houma-Thibodaux, LA (MSA) | 2004-01-01          | 2022-01-01        |
-| SMU22263806056130001      | All Employees: Professional and Business Services: Employment Services in Houma-Thibodaux, LA (MSA)                 | 2004-01-01          | 2022-01-01        |
+| SMU22263806056100001SA    | All Employees: Professional and Business Services: Administrative and Support Services in Houma-Thibodaux, LA (MSA) | 2004-01-01          | 2022-02-01        |
+| SMU22263806056130001      | All Employees: Professional and Business Services: Employment Services in Houma-Thibodaux, LA (MSA)                 | 2004-01-01          | 2022-02-01        |
 | SMU22263806056130001A     | All Employees: Employment Services in Houma-Thibodaux, LA (MSA)                                                     | 2004-01-01          | 2021-01-01        |
-| SMU22263806056130001SA    | All Employees: Professional and Business Services: Employment Services in Houma-Thibodaux, LA (MSA)                 | 2004-01-01          | 2022-01-01        |
+| SMU22263806056130001SA    | All Employees: Professional and Business Services: Employment Services in Houma-Thibodaux, LA (MSA)                 | 2004-01-01          | 2022-02-01        |
 | SMU22263807000000001A     | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
 | SMU22263809000000001A     | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU22263809091000001      | All Employees: Government: Federal Government in Houma-Thibodaux, LA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU22263809091000001      | All Employees: Government: Federal Government in Houma-Thibodaux, LA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU22263809091000001A     | All Employees: Federal Government in Houma-Thibodaux, LA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU22263809091000001SA    | All Employees: Government: Federal Government in Houma-Thibodaux, LA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU22263809092000001      | All Employees: Government: State Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU22263809091000001SA    | All Employees: Government: Federal Government in Houma-Thibodaux, LA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU22263809092000001      | All Employees: Government: State Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU22263809092000001A     | All Employees: State Government in Houma-Thibodaux, LA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22263809092000001SA    | All Employees: Government: State Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU22263809093000001      | All Employees: Government: Local Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU22263809092000001SA    | All Employees: Government: State Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU22263809093000001      | All Employees: Government: Local Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU22263809093000001A     | All Employees: Local Government in Houma-Thibodaux, LA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22263809093000001SA    | All Employees: Government: Local Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU22263809093000001SA    | All Employees: Government: Local Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SUSCMSA26380              | Market Hotness: Supply Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-01-01        |

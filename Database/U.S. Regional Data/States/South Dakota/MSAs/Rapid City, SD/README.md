@@ -72,76 +72,76 @@
 | PRIREDCOUMM39660          | Housing Inventory: Price Reduced Count Month-Over-Month in Rapid City, SD (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | PRIREDCOUYY39660          | Housing Inventory: Price Reduced Count Year-Over-Year in Rapid City, SD (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | QGMP39660                 | Total Quantity Indexes for Real GDP for Rapid City, SD (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RAPI646EDUH               | All Employees: Education and Health Services in Rapid City, SD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| RAPI646EDUHN              | All Employees: Education and Health Services in Rapid City, SD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| RAPI646FIRE               | All Employees: Financial Activities in Rapid City, SD (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| RAPI646FIREN              | All Employees: Financial Activities in Rapid City, SD (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| RAPI646GOVT               | All Employees: Government in Rapid City, SD (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| RAPI646GOVTN              | All Employees: Government in Rapid City, SD (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| RAPI646INFO               | All Employees: Information in Rapid City, SD (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| RAPI646INFON              | All Employees: Information in Rapid City, SD (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| RAPI646LEIH               | All Employees: Leisure and Hospitality in Rapid City, SD (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| RAPI646LEIHN              | All Employees: Leisure and Hospitality in Rapid City, SD (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| RAPI646EDUH               | All Employees: Education and Health Services in Rapid City, SD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| RAPI646EDUHN              | All Employees: Education and Health Services in Rapid City, SD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| RAPI646FIRE               | All Employees: Financial Activities in Rapid City, SD (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| RAPI646FIREN              | All Employees: Financial Activities in Rapid City, SD (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| RAPI646GOVT               | All Employees: Government in Rapid City, SD (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| RAPI646GOVTN              | All Employees: Government in Rapid City, SD (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| RAPI646INFO               | All Employees: Information in Rapid City, SD (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| RAPI646INFON              | All Employees: Information in Rapid City, SD (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| RAPI646LEIH               | All Employees: Leisure and Hospitality in Rapid City, SD (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| RAPI646LEIHN              | All Employees: Leisure and Hospitality in Rapid City, SD (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | RAPI646LF                 | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | RAPI646LFN                | Civilian Labor Force in Rapid City, SD (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| RAPI646MFG                | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RAPI646MFGN               | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RAPI646NA                 | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RAPI646NAN                | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| RAPI646NRMN               | All Employees: Mining, Logging, and Construction in Rapid City, SD (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| RAPI646NRMNN              | All Employees: Mining, Logging, and Construction in Rapid City, SD (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| RAPI646PBSV               | All Employees: Professional and Business Services in Rapid City, SD (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| RAPI646PBSVN              | All Employees: Professional and Business Services in Rapid City, SD (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| RAPI646MFG                | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RAPI646MFGN               | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RAPI646NA                 | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RAPI646NAN                | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| RAPI646NRMN               | All Employees: Mining, Logging, and Construction in Rapid City, SD (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| RAPI646NRMNN              | All Employees: Mining, Logging, and Construction in Rapid City, SD (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| RAPI646PBSV               | All Employees: Professional and Business Services in Rapid City, SD (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| RAPI646PBSVN              | All Employees: Professional and Business Services in Rapid City, SD (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | RAPI646PCPI               | Per Capita Personal Income in Rapid City, SD (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| RAPI646SRVO               | All Employees: Other Services in Rapid City, SD (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| RAPI646SRVON              | All Employees: Other Services in Rapid City, SD (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| RAPI646TRAD               | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| RAPI646TRADN              | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| RAPI646SRVO               | All Employees: Other Services in Rapid City, SD (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| RAPI646SRVON              | All Employees: Other Services in Rapid City, SD (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| RAPI646TRAD               | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| RAPI646TRADN              | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | RAPI646UR                 | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | RAPI646URN                | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | RGMP39660                 | Total Real Gross Domestic Product for Rapid City, SD (MSA)                                                      | 2001-01-01          | 2020-01-01        |
-| RPCPOP                    | Resident Population in Rapid City, SD (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| RPCPOP                    | Resident Population in Rapid City, SD (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | RPI39660                  | Real Personal Income for Rapid City, SD (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39660                | Real Per Capita Personal Income for Rapid City, SD (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL39660               | Regional Price Parities: All Items for Rapid City, SD (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPPGOOD39660              | Regional Price Parities: Goods for Rapid City, SD (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH39660          | Regional Price Parities: Services: Other for Rapid City, SD (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT39660         | Regional Price Parities: Services: Rents for Rapid City, SD (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS46396600000000026      | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS46396600000000026      | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU46396600000000001A     | All Employees: Total Nonfarm in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU46396600500000001      | All Employees: Total Private in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU46396600500000001      | All Employees: Total Private in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU46396600500000001A     | All Employees: Total Private in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU46396600500000001SA    | All Employees: Total Private in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU46396600500000002      | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU46396600500000001SA    | All Employees: Total Private in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU46396600500000002      | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU46396600500000002A     | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU46396600500000002SA    | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU46396600500000003      | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU46396600500000002SA    | Average Weekly Hours of All Employees: Total Private in Rapid City, SD (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU46396600500000003      | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU46396600500000003A     | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU46396600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU46396600500000011      | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU46396600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU46396600500000011      | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU46396600500000011A     | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU46396600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU46396600600000001      | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU46396600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Rapid City, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU46396600600000001      | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU46396600600000001A     | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU46396600600000001SA    | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU46396600700000001      | All Employees: Service-Providing in Rapid City, SD (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU46396600600000001SA    | All Employees: Goods Producing in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU46396600700000001      | All Employees: Service-Providing in Rapid City, SD (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU46396600700000001A     | All Employees: Service-Providing in Rapid City, SD (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU46396600700000001SA    | All Employees: Service-Providing in Rapid City, SD (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU46396600800000001      | All Employees: Private Service Providing in Rapid City, SD (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU46396600700000001SA    | All Employees: Service-Providing in Rapid City, SD (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU46396600800000001      | All Employees: Private Service Providing in Rapid City, SD (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU46396600800000001A     | All Employees: Private Service Providing in Rapid City, SD (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU46396600800000001SA    | All Employees: Private Service Providing in Rapid City, SD (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU46396600800000001SA    | All Employees: Private Service Providing in Rapid City, SD (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU46396601500000001A     | All Employees: Mining, Logging, and Construction in Rapid City, SD (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU46396603000000001A     | All Employees: Manufacturing in Rapid City, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU46396604000000001A     | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU46396604100000001      | All Employees: Wholesale Trade in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU46396604100000001      | All Employees: Wholesale Trade in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU46396604100000001A     | All Employees: Wholesale Trade in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU46396604100000001SA    | All Employees: Wholesale Trade in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU46396604200000001      | All Employees: Retail Trade in Rapid City, SD (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU46396604100000001SA    | All Employees: Wholesale Trade in Rapid City, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU46396604200000001      | All Employees: Retail Trade in Rapid City, SD (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU46396604200000001A     | All Employees: Retail Trade in Rapid City, SD (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU46396604200000001SA    | All Employees: Retail Trade in Rapid City, SD (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU46396604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Rapid City, SD (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU46396604200000001SA    | All Employees: Retail Trade in Rapid City, SD (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU46396604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Rapid City, SD (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU46396604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Rapid City, SD (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU46396604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Rapid City, SD (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU46396604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Rapid City, SD (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU46396605000000001A     | All Employees: Information in Rapid City, SD (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU46396605500000001A     | All Employees: Financial Activities in Rapid City, SD (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU46396606000000001A     | All Employees: Professional and Business Services in Rapid City, SD (MSA)                                       | 1990-01-01          | 2021-01-01        |

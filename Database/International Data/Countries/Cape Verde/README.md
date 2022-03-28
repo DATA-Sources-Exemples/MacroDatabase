@@ -55,45 +55,45 @@
 | CPVTTTIX            | Terms of Trade for Goods for Cabo Verde                                                                            | 2004-01-01          | 2022-01-01        |
 | CTCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Connecticut                                                      | 1997-01-01          | 2015-01-01        |
 | DCCPVA475SCEN       | Number of Identified Exporters to Cape Verde from District of Columbia                                             | 2005-01-01          | 2014-01-01        |
-| DDAI01CVA642NWDB    | Number of Bank Accounts for Cape Verde                                                                             | 2004-01-01          | 2017-01-01        |
-| DDAI02CVA643NWDB    | Number of Bank Branches for Cape Verde                                                                             | 2004-01-01          | 2017-01-01        |
+| DDAI01CVA642NWDB    | Number of Bank Accounts for Cape Verde                                                                             | 2004-01-01          | 2019-01-01        |
+| DDAI02CVA643NWDB    | Number of Bank Branches for Cape Verde                                                                             | 2004-01-01          | 2019-01-01        |
 | DDAI03CVA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Cape Verde                                             | 2006-01-01          | 2009-01-01        |
 | DDAI04CVA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Cape Verde                                 | 2006-01-01          | 2009-01-01        |
-| DDDI01CVA156NWDB    | Private Credit by Deposit Money Banks to GDP for Cape Verde                                                        | 1976-01-01          | 2015-01-01        |
-| DDDI02CVA156NWDB    | Deposit Money Bank Assets to GDP for Cape Verde                                                                    | 1976-01-01          | 2015-01-01        |
+| DDDI01CVA156NWDB    | Private Credit by Deposit Money Banks to GDP for Cape Verde                                                        | 1976-01-01          | 2020-01-01        |
+| DDDI02CVA156NWDB    | Deposit Money Bank Assets to GDP for Cape Verde                                                                    | 1976-01-01          | 2020-01-01        |
 | DDDI03CVA156NWDB    | Non-Bank Financial Institutions' Assets to GDP for Cape Verde                                                      | 1985-01-01          | 1992-01-01        |
-| DDDI04CVA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Cape Verde                      | 1976-01-01          | 2015-01-01        |
-| DDDI05CVA156NWDB    | Liquid Liabilities to GDP for Cape Verde                                                                           | 1976-01-01          | 2015-01-01        |
-| DDDI06CVA156NWDB    | Central Bank Assets to GDP for Cape Verde                                                                          | 1976-01-01          | 2015-01-01        |
-| DDDI08CVA156NWDB    | Financial System Deposits to GDP for Cape Verde                                                                    | 1976-01-01          | 2015-01-01        |
-| DDDI09CVA156NWDB    | Life Insurance Premium Volume to GDP for Cape Verde                                                                | 1995-01-01          | 2015-01-01        |
-| DDDI10CVA156NWDB    | Non-Life Insurance Premium Volume to GDP for Cape Verde                                                            | 1992-01-01          | 2015-01-01        |
-| DDDI11CVA156NWDB    | Insurance Company Assets to GDP for Cape Verde                                                                     | 1995-01-01          | 2015-01-01        |
-| DDDI12CVA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Cape Verde                       | 1976-01-01          | 2015-01-01        |
-| DDDM08CVA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Cape Verde                                                           | 2004-01-01          | 2017-01-01        |
-| DDDM09CVA156NWDB    | Gross Portfolio Equity Assets to GDP for Cape Verde                                                                | 2006-01-01          | 2017-01-01        |
-| DDDM10CVA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Cape Verde                                                             | 2007-01-01          | 2017-01-01        |
-| DDEI01CVA156NWDB    | Bank's Net Interest Margin for Cape Verde                                                                          | 2009-01-01          | 2017-01-01        |
+| DDDI04CVA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Cape Verde                      | 1976-01-01          | 2020-01-01        |
+| DDDI05CVA156NWDB    | Liquid Liabilities to GDP for Cape Verde                                                                           | 1976-01-01          | 2020-01-01        |
+| DDDI06CVA156NWDB    | Central Bank Assets to GDP for Cape Verde                                                                          | 1976-01-01          | 2020-01-01        |
+| DDDI08CVA156NWDB    | Financial System Deposits to GDP for Cape Verde                                                                    | 1976-01-01          | 2020-01-01        |
+| DDDI09CVA156NWDB    | Life Insurance Premium Volume to GDP for Cape Verde                                                                | 1995-01-01          | 2018-01-01        |
+| DDDI10CVA156NWDB    | Non-Life Insurance Premium Volume to GDP for Cape Verde                                                            | 1992-01-01          | 2018-01-01        |
+| DDDI11CVA156NWDB    | Insurance Company Assets to GDP for Cape Verde                                                                     | 1995-01-01          | 2019-01-01        |
+| DDDI12CVA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Cape Verde                       | 1976-01-01          | 2020-01-01        |
+| DDDM08CVA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Cape Verde                                                           | 2004-01-01          | 2019-01-01        |
+| DDDM09CVA156NWDB    | Gross Portfolio Equity Assets to GDP for Cape Verde                                                                | 2006-01-01          | 2019-01-01        |
+| DDDM10CVA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Cape Verde                                                             | 2007-01-01          | 2019-01-01        |
+| DDEI01CVA156NWDB    | Bank's Net Interest Margin for Cape Verde                                                                          | 2009-01-01          | 2020-01-01        |
 | DDEI02CVA156NWDB    | Bank Lending Deposit Spread for Cape Verde                                                                         | 1985-01-01          | 2017-01-01        |
-| DDEI03CVA156NWDB    | Bank's Non-Interest Income to Total Income for Cape Verde                                                          | 2008-01-01          | 2017-01-01        |
-| DDEI04CVA156NWDB    | Bank's Overhead Costs to Total Assets for Cape Verde                                                               | 2009-01-01          | 2017-01-01        |
-| DDEI05CVA156NWDB    | Bank's Return on Assets for Cape Verde                                                                             | 2009-01-01          | 2017-01-01        |
-| DDEI06CVA156NWDB    | Bank's Return on Equity for Cape Verde                                                                             | 2009-01-01          | 2017-01-01        |
-| DDEI07CVA156NWDB    | Bank's Cost to Income Ratio for Cape Verde                                                                         | 2008-01-01          | 2017-01-01        |
-| DDEI08CVA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Cape Verde                                             | 1980-01-01          | 2017-01-01        |
-| DDOE01CVA086NWDB    | Consumer Price Index for Cape Verde                                                                                | 1983-01-01          | 2015-01-01        |
+| DDEI03CVA156NWDB    | Bank's Non-Interest Income to Total Income for Cape Verde                                                          | 2008-01-01          | 2020-01-01        |
+| DDEI04CVA156NWDB    | Bank's Overhead Costs to Total Assets for Cape Verde                                                               | 2009-01-01          | 2020-01-01        |
+| DDEI05CVA156NWDB    | Bank's Return on Assets for Cape Verde                                                                             | 2009-01-01          | 2020-01-01        |
+| DDEI06CVA156NWDB    | Bank's Return on Equity for Cape Verde                                                                             | 2009-01-01          | 2020-01-01        |
+| DDEI07CVA156NWDB    | Bank's Cost to Income Ratio for Cape Verde                                                                         | 2008-01-01          | 2020-01-01        |
+| DDEI08CVA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Cape Verde                                             | 1980-01-01          | 2019-01-01        |
+| DDOE01CVA086NWDB    | Consumer Price Index for Cape Verde                                                                                | 1983-01-01          | 2016-01-01        |
 | DDOE02CVA086NWDB    | Consumer Price Index for Cape Verde                                                                                | 1983-01-01          | 2017-01-01        |
-| DDOI01CVA156NWDB    | Bank Concentration for Cape Verde                                                                                  | 2008-01-01          | 2017-01-01        |
+| DDOI01CVA156NWDB    | Bank Concentration for Cape Verde                                                                                  | 2008-01-01          | 2020-01-01        |
 | DDOI02CVA156NWDB    | Bank Deposits to GDP for Cape Verde                                                                                | 1976-01-01          | 2015-01-01        |
 | DDOI05CVA156NWDB    | Boone Indicator in Banking Market for Cape Verde                                                                   | 2008-01-01          | 2014-01-01        |
-| DDOI07CVA648NWDB    | Liquid Liabilities (Broad Money) for Cape Verde                                                                    | 1976-01-01          | 2017-01-01        |
+| DDOI07CVA648NWDB    | Liquid Liabilities (Broad Money) for Cape Verde                                                                    | 1976-01-01          | 2020-01-01        |
 | DDOI09CVA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Cape Verde                                          | 1995-01-01          | 2013-01-01        |
-| DDOI10CVA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Cape Verde                    | 1995-01-01          | 2015-01-01        |
-| DDOI11CVA156NWDB    | Remittance Inflows to GDP for Cape Verde                                                                           | 1980-01-01          | 2017-01-01        |
-| DDOI12CVA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Cape Verde                                           | 1987-01-01          | 2017-01-01        |
-| DDSI01CVA645NWDB    | Bank Z-Score for Cape Verde                                                                                        | 2008-01-01          | 2017-01-01        |
-| DDSI04CVA156NWDB    | Bank Credit to Bank Deposits for Cape Verde                                                                        | 1976-01-01          | 2015-01-01        |
-| DDSI06CVA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cape Verde                                                    | 2008-01-01          | 2017-01-01        |
+| DDOI10CVA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Cape Verde                    | 1995-01-01          | 2020-01-01        |
+| DDOI11CVA156NWDB    | Remittance Inflows to GDP for Cape Verde                                                                           | 1980-01-01          | 2020-01-01        |
+| DDOI12CVA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Cape Verde                                           | 1987-01-01          | 2019-01-01        |
+| DDSI01CVA645NWDB    | Bank Z-Score for Cape Verde                                                                                        | 2008-01-01          | 2020-01-01        |
+| DDSI04CVA156NWDB    | Bank Credit to Bank Deposits for Cape Verde                                                                        | 1976-01-01          | 2020-01-01        |
+| DDSI06CVA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cape Verde                                                    | 2008-01-01          | 2020-01-01        |
 | DECPVA475SCEN       | Number of Identified Exporters to Cape Verde from Delaware                                                         | 2010-01-01          | 2016-01-01        |
 | EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-01-01        |
 | FLCPVA052SCEN       | Value of Exports to Cape Verde from Florida                                                                        | 2002-01-01          | 2016-01-01        |

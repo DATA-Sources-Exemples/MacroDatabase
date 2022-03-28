@@ -7,35 +7,35 @@
 | AVELISPRI13460            | Housing Inventory: Average Listing Price in Bend-Redmond, OR (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM13460          | Housing Inventory: Average Listing Price Month-Over-Month in Bend-Redmond, OR (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY13460          | Housing Inventory: Average Listing Price Year-Over-Year in Bend-Redmond, OR (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| BEND441BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-01-01        |
-| BEND441BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-01-01        |
-| BEND441BPPRIV             | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-01-01        |
-| BEND441BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-01-01        |
-| BEND441EDUH               | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BEND441EDUHN              | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BEND441FIRE               | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BEND441FIREN              | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BEND441GOVT               | All Employees: Government in Bend-Redmond, OR (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BEND441GOVTN              | All Employees: Government in Bend-Redmond, OR (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BEND441INFO               | All Employees: Information in Bend-Redmond, OR (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BEND441INFON              | All Employees: Information in Bend-Redmond, OR (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BEND441LEIH               | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| BEND441LEIHN              | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| BEND441BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-02-01        |
+| BEND441BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-02-01        |
+| BEND441BPPRIV             | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-02-01        |
+| BEND441BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-02-01        |
+| BEND441EDUH               | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BEND441EDUHN              | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BEND441FIRE               | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BEND441FIREN              | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BEND441GOVT               | All Employees: Government in Bend-Redmond, OR (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BEND441GOVTN              | All Employees: Government in Bend-Redmond, OR (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BEND441INFO               | All Employees: Information in Bend-Redmond, OR (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BEND441INFON              | All Employees: Information in Bend-Redmond, OR (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BEND441LEIH               | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| BEND441LEIHN              | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | BEND441LF                 | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | BEND441LFN                | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| BEND441MFG                | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BEND441MFGN               | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BEND441NA                 | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BEND441NAN                | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BEND441NRMN               | All Employees: Mining, Logging, and Construction in Bend-Redmond, OR (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BEND441NRMNN              | All Employees: Mining, Logging, and Construction in Bend-Redmond, OR (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BEND441PBSV               | All Employees: Professional and Business Services in Bend-Redmond, OR (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BEND441PBSVN              | All Employees: Professional and Business Services in Bend-Redmond, OR (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| BEND441MFG                | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BEND441MFGN               | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BEND441NA                 | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BEND441NAN                | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BEND441NRMN               | All Employees: Mining, Logging, and Construction in Bend-Redmond, OR (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BEND441NRMNN              | All Employees: Mining, Logging, and Construction in Bend-Redmond, OR (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BEND441PBSV               | All Employees: Professional and Business Services in Bend-Redmond, OR (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BEND441PBSVN              | All Employees: Professional and Business Services in Bend-Redmond, OR (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | BEND441PCPI               | Per Capita Personal Income in Bend-Redmond, OR (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| BEND441SRVO               | All Employees: Other Services in Bend-Redmond, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BEND441SRVON              | All Employees: Other Services in Bend-Redmond, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BEND441TRAD               | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| BEND441TRADN              | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| BEND441SRVO               | All Employees: Other Services in Bend-Redmond, OR (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BEND441SRVON              | All Employees: Other Services in Bend-Redmond, OR (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BEND441TRAD               | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| BEND441TRADN              | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | BEND441UR                 | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BEND441URN                | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BNDPOP                    | Resident Population in Bend-Redmond, OR (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -111,67 +111,67 @@
 | RPPGOOD13460              | Regional Price Parities: Goods for Bend-Redmond, OR (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH13460          | Regional Price Parities: Services: Other for Bend-Redmond, OR (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT13460         | Regional Price Parities: Services: Rents for Bend-Redmond, OR (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS41134600000000026      | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS41134600000000026      | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU41134600000000001A     | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU41134600500000001      | All Employees: Total Private in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU41134600500000001      | All Employees: Total Private in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU41134600500000001A     | All Employees: Total Private in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU41134600500000001SA    | All Employees: Total Private in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU41134600500000002      | Average Weekly Hours of All Employees: Total Private in Bend-Redmond, OR (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU41134600500000001SA    | All Employees: Total Private in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU41134600500000002      | Average Weekly Hours of All Employees: Total Private in Bend-Redmond, OR (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU41134600500000002A     | Average Weekly Hours of All Employees: Total Private in Bend-Redmond, OR (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU41134600500000002SA    | Average Weekly Hours of All Employees: Total Private in Bend-Redmond, OR (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU41134600500000003      | Average Hourly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU41134600500000002SA    | Average Weekly Hours of All Employees: Total Private in Bend-Redmond, OR (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU41134600500000003      | Average Hourly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU41134600500000003A     | Average Hourly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU41134600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU41134600500000011      | Average Weekly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU41134600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU41134600500000011      | Average Weekly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU41134600500000011A     | Average Weekly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU41134600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU41134600600000001      | All Employees: Goods Producing in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU41134600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bend-Redmond, OR (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU41134600600000001      | All Employees: Goods Producing in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU41134600600000001A     | All Employees: Goods Producing in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU41134600600000001SA    | All Employees: Goods Producing in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU41134600700000001      | All Employees: Service-Providing in Bend-Redmond, OR (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU41134600600000001SA    | All Employees: Goods Producing in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU41134600700000001      | All Employees: Service-Providing in Bend-Redmond, OR (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU41134600700000001A     | All Employees: Service-Providing in Bend-Redmond, OR (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU41134600700000001SA    | All Employees: Service-Providing in Bend-Redmond, OR (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU41134600800000001      | All Employees: Private Service Providing in Bend-Redmond, OR (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU41134600700000001SA    | All Employees: Service-Providing in Bend-Redmond, OR (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU41134600800000001      | All Employees: Private Service Providing in Bend-Redmond, OR (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU41134600800000001A     | All Employees: Private Service Providing in Bend-Redmond, OR (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU41134600800000001SA    | All Employees: Private Service Providing in Bend-Redmond, OR (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU41134600800000001SA    | All Employees: Private Service Providing in Bend-Redmond, OR (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU41134601500000001A     | All Employees: Mining, Logging, and Construction in Bend-Redmond, OR (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU41134603000000001A     | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU41134603100000001      | All Employees: Manufacturing: Durable Goods in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU41134603100000001      | All Employees: Manufacturing: Durable Goods in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU41134603100000001A     | All Employees: Manufacturing: Durable Goods in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU41134603100000001SA    | All Employees: Manufacturing: Durable Goods in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU41134603100000001SA    | All Employees: Manufacturing: Durable Goods in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU41134604000000001A     | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU41134604100000001      | All Employees: Wholesale Trade in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU41134604100000001      | All Employees: Wholesale Trade in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU41134604100000001A     | All Employees: Wholesale Trade in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU41134604100000001SA    | All Employees: Wholesale Trade in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU41134604200000001      | All Employees: Retail Trade in Bend-Redmond, OR (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU41134604100000001SA    | All Employees: Wholesale Trade in Bend-Redmond, OR (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU41134604200000001      | All Employees: Retail Trade in Bend-Redmond, OR (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU41134604200000001A     | All Employees: Retail Trade in Bend-Redmond, OR (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU41134604200000001SA    | All Employees: Retail Trade in Bend-Redmond, OR (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU41134604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bend-Redmond, OR (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU41134604200000001SA    | All Employees: Retail Trade in Bend-Redmond, OR (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU41134604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bend-Redmond, OR (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU41134604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bend-Redmond, OR (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU41134604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bend-Redmond, OR (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU41134604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bend-Redmond, OR (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU41134605000000001A     | All Employees: Information in Bend-Redmond, OR (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU41134605500000001A     | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU41134606000000001A     | All Employees: Professional and Business Services in Bend-Redmond, OR (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU41134606500000001A     | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU41134607000000001A     | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU41134607072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bend-Redmond, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| SMU41134607072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bend-Redmond, OR (MSA)                 | 1990-01-01          | 2022-02-01        |
 | SMU41134607072000001A     | All Employees: Accommodation and Food Services in Bend-Redmond, OR (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU41134607072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bend-Redmond, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| SMU41134607072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bend-Redmond, OR (MSA)                 | 1990-01-01          | 2022-02-01        |
 | SMU41134608000000001A     | All Employees: Other Services in Bend-Redmond, OR (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU41134609000000001A     | All Employees: Government in Bend-Redmond, OR (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU41134609091000001      | All Employees: Government: Federal Government in Bend-Redmond, OR (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU41134609091000001      | All Employees: Government: Federal Government in Bend-Redmond, OR (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU41134609091000001A     | All Employees: Federal Government in Bend-Redmond, OR (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU41134609091000001SA    | All Employees: Government: Federal Government in Bend-Redmond, OR (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU41134609092000001      | All Employees: Government: State Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU41134609091000001SA    | All Employees: Government: Federal Government in Bend-Redmond, OR (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU41134609092000001      | All Employees: Government: State Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU41134609092000001A     | All Employees: State Government in Bend-Redmond, OR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU41134609092000001SA    | All Employees: Government: State Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU41134609093000001      | All Employees: Government: Local Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU41134609092000001SA    | All Employees: Government: State Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU41134609093000001      | All Employees: Government: Local Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU41134609093000001A     | All Employees: Local Government in Bend-Redmond, OR (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU41134609093000001SA    | All Employees: Government: Local Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU41134609093161101      | All Employees: Government: Local Government Educational Services in Bend-Redmond, OR (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU41134609093000001SA    | All Employees: Government: Local Government in Bend-Redmond, OR (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU41134609093161101      | All Employees: Government: Local Government Educational Services in Bend-Redmond, OR (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU41134609093161101A     | All Employees: Local Government Educational Services in Bend-Redmond, OR (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU41134609093161101SA    | All Employees: Government: Local Government Educational Services in Bend-Redmond, OR (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU41134609093200001      | All Employees: Government: Local Government Excluding Educational Services in Bend-Redmond, OR (MSA)              | 2001-01-01          | 2022-01-01        |
+| SMU41134609093161101SA    | All Employees: Government: Local Government Educational Services in Bend-Redmond, OR (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU41134609093200001      | All Employees: Government: Local Government Excluding Educational Services in Bend-Redmond, OR (MSA)              | 2001-01-01          | 2022-02-01        |
 | SMU41134609093200001A     | All Employees: Local Government Excluding Educational Services in Bend-Redmond, OR (MSA)                          | 2001-01-01          | 2021-01-01        |
-| SMU41134609093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Bend-Redmond, OR (MSA)              | 2001-01-01          | 2022-01-01        |
+| SMU41134609093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Bend-Redmond, OR (MSA)              | 2001-01-01          | 2022-02-01        |
 | SUSCMSA13460              | Market Hotness: Supply Score in Bend-Redmond, OR (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

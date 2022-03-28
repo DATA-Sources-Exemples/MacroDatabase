@@ -8,35 +8,35 @@
 | AVELISPRIMM17780          | Housing Inventory: Average Listing Price Month-Over-Month in College Station-Bryan, TX (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY17780          | Housing Inventory: Average Listing Price Year-Over-Year in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | BRNPOP                    | Resident Population in College Station-Bryan, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| BRYSA158MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| BRYSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| BRYSA175MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| BRYSA158MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| BRYSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| BRYSA175MFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | BRYSA674AFRBDAL           | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| COLL748EDUH               | All Employees: Education and Health Services in College Station-Bryan, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| COLL748EDUHN              | All Employees: Education and Health Services in College Station-Bryan, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| COLL748FIRE               | All Employees: Financial Activities in College Station-Bryan, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| COLL748FIREN              | All Employees: Financial Activities in College Station-Bryan, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| COLL748GOVT               | All Employees: Government in College Station-Bryan, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| COLL748GOVTN              | All Employees: Government in College Station-Bryan, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| COLL748INFO               | All Employees: Information in College Station-Bryan, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| COLL748INFON              | All Employees: Information in College Station-Bryan, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| COLL748LEIH               | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| COLL748LEIHN              | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| COLL748EDUH               | All Employees: Education and Health Services in College Station-Bryan, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| COLL748EDUHN              | All Employees: Education and Health Services in College Station-Bryan, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| COLL748FIRE               | All Employees: Financial Activities in College Station-Bryan, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| COLL748FIREN              | All Employees: Financial Activities in College Station-Bryan, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| COLL748GOVT               | All Employees: Government in College Station-Bryan, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| COLL748GOVTN              | All Employees: Government in College Station-Bryan, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| COLL748INFO               | All Employees: Information in College Station-Bryan, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| COLL748INFON              | All Employees: Information in College Station-Bryan, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| COLL748LEIH               | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| COLL748LEIHN              | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | COLL748LF                 | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | COLL748LFN                | Civilian Labor Force in College Station-Bryan, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| COLL748MFG                | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| COLL748MFGN               | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| COLL748NA                 | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| COLL748NAN                | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| COLL748NRMN               | All Employees: Mining, Logging, and Construction in College Station-Bryan, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| COLL748NRMNN              | All Employees: Mining, Logging, and Construction in College Station-Bryan, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| COLL748PBSV               | All Employees: Professional and Business Services in College Station-Bryan, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| COLL748PBSVN              | All Employees: Professional and Business Services in College Station-Bryan, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| COLL748MFG                | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| COLL748MFGN               | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| COLL748NA                 | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| COLL748NAN                | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| COLL748NRMN               | All Employees: Mining, Logging, and Construction in College Station-Bryan, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| COLL748NRMNN              | All Employees: Mining, Logging, and Construction in College Station-Bryan, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| COLL748PBSV               | All Employees: Professional and Business Services in College Station-Bryan, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| COLL748PBSVN              | All Employees: Professional and Business Services in College Station-Bryan, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | COLL748PCPI               | Per Capita Personal Income in College Station-Bryan, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| COLL748SRVO               | All Employees: Other Services in College Station-Bryan, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| COLL748SRVON              | All Employees: Other Services in College Station-Bryan, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| COLL748TRAD               | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| COLL748TRADN              | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| COLL748SRVO               | All Employees: Other Services in College Station-Bryan, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| COLL748SRVON              | All Employees: Other Services in College Station-Bryan, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| COLL748TRAD               | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| COLL748TRADN              | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | COLL748UR                 | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | COLL748URN                | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DESCMSA17780              | Market Hotness: Demand Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
@@ -111,41 +111,41 @@
 | RPPGOOD17780              | Regional Price Parities: Goods for College Station-Bryan, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH17780          | Regional Price Parities: Services: Other for College Station-Bryan, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT17780         | Regional Price Parities: Services: Rents for College Station-Bryan, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48177800000000026      | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48177800000000026      | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48177800000000001A     | All Employees: Total Nonfarm in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48177800500000001      | All Employees: Total Private in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48177800500000001      | All Employees: Total Private in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48177800500000001A     | All Employees: Total Private in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48177800500000001SA    | All Employees: Total Private in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48177800500000002      | Average Weekly Hours of All Employees: Total Private in College Station-Bryan, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48177800500000001SA    | All Employees: Total Private in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48177800500000002      | Average Weekly Hours of All Employees: Total Private in College Station-Bryan, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48177800500000002A     | Average Weekly Hours of All Employees: Total Private in College Station-Bryan, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48177800500000002SA    | Average Weekly Hours of All Employees: Total Private in College Station-Bryan, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48177800500000003      | Average Hourly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48177800500000002SA    | Average Weekly Hours of All Employees: Total Private in College Station-Bryan, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48177800500000003      | Average Hourly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48177800500000003A     | Average Hourly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48177800500000003SA    | Average Hourly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48177800500000011      | Average Weekly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48177800500000003SA    | Average Hourly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48177800500000011      | Average Weekly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48177800500000011A     | Average Weekly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48177800500000011SA    | Average Weekly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48177800600000001      | All Employees: Goods Producing in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48177800500000011SA    | Average Weekly Earnings of All Employees: Total Private in College Station-Bryan, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48177800600000001      | All Employees: Goods Producing in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48177800600000001A     | All Employees: Goods Producing in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48177800600000001SA    | All Employees: Goods Producing in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48177800700000001      | All Employees: Service-Providing in College Station-Bryan, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48177800600000001SA    | All Employees: Goods Producing in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48177800700000001      | All Employees: Service-Providing in College Station-Bryan, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48177800700000001A     | All Employees: Service-Providing in College Station-Bryan, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48177800700000001SA    | All Employees: Service-Providing in College Station-Bryan, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48177800800000001      | All Employees: Private Service Providing in College Station-Bryan, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48177800700000001SA    | All Employees: Service-Providing in College Station-Bryan, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48177800800000001      | All Employees: Private Service Providing in College Station-Bryan, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48177800800000001A     | All Employees: Private Service Providing in College Station-Bryan, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48177800800000001SA    | All Employees: Private Service Providing in College Station-Bryan, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48177800800000001SA    | All Employees: Private Service Providing in College Station-Bryan, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48177801500000001A     | All Employees: Mining, Logging, and Construction in College Station-Bryan, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48177803000000001A     | All Employees: Manufacturing in College Station-Bryan, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48177804000000001A     | All Employees: Trade, Transportation, and Utilities in College Station-Bryan, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48177804100000001      | All Employees: Wholesale Trade in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48177804100000001      | All Employees: Wholesale Trade in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48177804100000001A     | All Employees: Wholesale Trade in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48177804100000001SA    | All Employees: Wholesale Trade in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48177804200000001      | All Employees: Retail Trade in College Station-Bryan, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48177804100000001SA    | All Employees: Wholesale Trade in College Station-Bryan, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48177804200000001      | All Employees: Retail Trade in College Station-Bryan, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48177804200000001A     | All Employees: Retail Trade in College Station-Bryan, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48177804200000001SA    | All Employees: Retail Trade in College Station-Bryan, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48177804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in College Station-Bryan, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48177804200000001SA    | All Employees: Retail Trade in College Station-Bryan, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48177804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in College Station-Bryan, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48177804300000001A     | All Employees: Transportation and Utilities in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48177804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in College Station-Bryan, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48177804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in College Station-Bryan, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48177805000000001A     | All Employees: Information in College Station-Bryan, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48177805500000001A     | All Employees: Financial Activities in College Station-Bryan, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48177806000000001A     | All Employees: Professional and Business Services in College Station-Bryan, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -153,13 +153,13 @@
 | SMU48177807000000001A     | All Employees: Leisure and Hospitality in College Station-Bryan, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48177808000000001A     | All Employees: Other Services in College Station-Bryan, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48177809000000001A     | All Employees: Government in College Station-Bryan, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48177809091000001      | All Employees: Government: Federal Government in College Station-Bryan, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48177809091000001      | All Employees: Government: Federal Government in College Station-Bryan, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48177809091000001A     | All Employees: Federal Government in College Station-Bryan, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48177809091000001SA    | All Employees: Government: Federal Government in College Station-Bryan, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48177809092000001      | All Employees: Government: State Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48177809091000001SA    | All Employees: Government: Federal Government in College Station-Bryan, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48177809092000001      | All Employees: Government: State Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48177809092000001A     | All Employees: State Government in College Station-Bryan, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48177809092000001SA    | All Employees: Government: State Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48177809093000001      | All Employees: Government: Local Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48177809092000001SA    | All Employees: Government: State Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48177809093000001      | All Employees: Government: Local Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48177809093000001A     | All Employees: Local Government in College Station-Bryan, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48177809093000001SA    | All Employees: Government: Local Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48177809093000001SA    | All Employees: Government: Local Government in College Station-Bryan, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA17780              | Market Hotness: Supply Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

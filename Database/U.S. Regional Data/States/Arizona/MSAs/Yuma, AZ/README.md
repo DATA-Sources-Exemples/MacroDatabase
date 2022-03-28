@@ -79,29 +79,29 @@
 | RPPGOOD49740              | Regional Price Parities: Goods for Yuma, AZ (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH49740          | Regional Price Parities: Services: Other for Yuma, AZ (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT49740         | Regional Price Parities: Services: Rents for Yuma, AZ (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS04497400000000026      | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS04497400000000026      | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU04497400000000001A     | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04497400500000001      | All Employees: Total Private in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU04497400500000001      | All Employees: Total Private in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU04497400500000001A     | All Employees: Total Private in Yuma, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04497400500000001SA    | All Employees: Total Private in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU04497400500000002      | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU04497400500000001SA    | All Employees: Total Private in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU04497400500000002      | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU04497400500000002A     | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU04497400500000002SA    | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU04497400500000003      | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU04497400500000002SA    | Average Weekly Hours of All Employees: Total Private in Yuma, AZ (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU04497400500000003      | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU04497400500000003A     | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04497400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU04497400500000011      | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU04497400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU04497400500000011      | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU04497400500000011A     | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04497400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU04497400600000001      | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU04497400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Yuma, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU04497400600000001      | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU04497400600000001A     | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU04497400600000001SA    | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU04497400700000001      | All Employees: Service-Providing in Yuma, AZ (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU04497400600000001SA    | All Employees: Goods Producing in Yuma, AZ (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU04497400700000001      | All Employees: Service-Providing in Yuma, AZ (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU04497400700000001A     | All Employees: Service-Providing in Yuma, AZ (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU04497400700000001SA    | All Employees: Service-Providing in Yuma, AZ (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU04497400800000001      | All Employees: Private Service Providing in Yuma, AZ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU04497400700000001SA    | All Employees: Service-Providing in Yuma, AZ (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU04497400800000001      | All Employees: Private Service Providing in Yuma, AZ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU04497400800000001A     | All Employees: Private Service Providing in Yuma, AZ (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU04497400800000001SA    | All Employees: Private Service Providing in Yuma, AZ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU04497400800000001SA    | All Employees: Private Service Providing in Yuma, AZ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU04497401500000001A     | All Employees: Mining, Logging, and Construction in Yuma, AZ (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU04497403000000001A     | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU04497404000000001A     | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2021-01-01        |
@@ -112,38 +112,38 @@
 | SMU04497407000000001A     | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU04497408000000001A     | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2021-01-01        |
 | SMU04497409000000001A     | All Employees: Government in Yuma, AZ (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU04497409091000001      | All Employees: Government: Federal Government in Yuma, AZ (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU04497409091000001      | All Employees: Government: Federal Government in Yuma, AZ (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU04497409091000001A     | All Employees: Federal Government in Yuma, AZ (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU04497409091000001SA    | All Employees: Government: Federal Government in Yuma, AZ (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU04497409094000001      | All Employees: Government: Total State and Local Government in Yuma, AZ (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU04497409091000001SA    | All Employees: Government: Federal Government in Yuma, AZ (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU04497409094000001      | All Employees: Government: Total State and Local Government in Yuma, AZ (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU04497409094000001A     | All Employees: Total State and Local Government in Yuma, AZ (MSA)                           | 1990-01-01          | 2021-01-01        |
-| SMU04497409094000001SA    | All Employees: Government: Total State and Local Government in Yuma, AZ (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU04497409094000001SA    | All Employees: Government: Total State and Local Government in Yuma, AZ (MSA)               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA49740              | Market Hotness: Supply Score in Yuma, AZ (CBSA)                                             | 2017-08-01          | 2022-01-01        |
-| YUMA704EDUH               | All Employees: Education and Health Services in Yuma, AZ (MSA)                              | 1990-01-01          | 2022-01-01        |
-| YUMA704EDUHN              | All Employees: Education and Health Services in Yuma, AZ (MSA)                              | 1990-01-01          | 2022-01-01        |
-| YUMA704FIRE               | All Employees: Financial Activities in Yuma, AZ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| YUMA704FIREN              | All Employees: Financial Activities in Yuma, AZ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| YUMA704GOVT               | All Employees: Government in Yuma, AZ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| YUMA704GOVTN              | All Employees: Government in Yuma, AZ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| YUMA704INFO               | All Employees: Information in Yuma, AZ (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| YUMA704INFON              | All Employees: Information in Yuma, AZ (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| YUMA704LEIH               | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| YUMA704LEIHN              | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| YUMA704EDUH               | All Employees: Education and Health Services in Yuma, AZ (MSA)                              | 1990-01-01          | 2022-02-01        |
+| YUMA704EDUHN              | All Employees: Education and Health Services in Yuma, AZ (MSA)                              | 1990-01-01          | 2022-02-01        |
+| YUMA704FIRE               | All Employees: Financial Activities in Yuma, AZ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| YUMA704FIREN              | All Employees: Financial Activities in Yuma, AZ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| YUMA704GOVT               | All Employees: Government in Yuma, AZ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| YUMA704GOVTN              | All Employees: Government in Yuma, AZ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| YUMA704INFO               | All Employees: Information in Yuma, AZ (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| YUMA704INFON              | All Employees: Information in Yuma, AZ (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| YUMA704LEIH               | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| YUMA704LEIHN              | All Employees: Leisure and Hospitality in Yuma, AZ (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | YUMA704LF                 | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | YUMA704LFN                | Civilian Labor Force in Yuma, AZ (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| YUMA704MFG                | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| YUMA704MFGN               | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| YUMA704NA                 | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| YUMA704NAN                | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| YUMA704NRMN               | All Employees: Mining, Logging, and Construction in Yuma, AZ (MSA)                          | 1990-01-01          | 2022-01-01        |
-| YUMA704NRMNN              | All Employees: Mining, Logging, and Construction in Yuma, AZ (MSA)                          | 1990-01-01          | 2022-01-01        |
-| YUMA704PBSV               | All Employees: Professional and Business Services in Yuma, AZ (MSA)                         | 1990-01-01          | 2022-01-01        |
-| YUMA704PBSVN              | All Employees: Professional and Business Services in Yuma, AZ (MSA)                         | 1990-01-01          | 2022-01-01        |
+| YUMA704MFG                | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| YUMA704MFGN               | All Employees: Manufacturing in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| YUMA704NA                 | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| YUMA704NAN                | All Employees: Total Nonfarm in Yuma, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| YUMA704NRMN               | All Employees: Mining, Logging, and Construction in Yuma, AZ (MSA)                          | 1990-01-01          | 2022-02-01        |
+| YUMA704NRMNN              | All Employees: Mining, Logging, and Construction in Yuma, AZ (MSA)                          | 1990-01-01          | 2022-02-01        |
+| YUMA704PBSV               | All Employees: Professional and Business Services in Yuma, AZ (MSA)                         | 1990-01-01          | 2022-02-01        |
+| YUMA704PBSVN              | All Employees: Professional and Business Services in Yuma, AZ (MSA)                         | 1990-01-01          | 2022-02-01        |
 | YUMA704PCPI               | Per Capita Personal Income in Yuma, AZ (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| YUMA704SRVO               | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| YUMA704SRVON              | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| YUMA704TRAD               | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-01-01        |
-| YUMA704TRADN              | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-01-01        |
+| YUMA704SRVO               | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| YUMA704SRVON              | All Employees: Other Services in Yuma, AZ (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| YUMA704TRAD               | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-02-01        |
+| YUMA704TRADN              | All Employees: Trade, Transportation, and Utilities in Yuma, AZ (MSA)                       | 1990-01-01          | 2022-02-01        |
 | YUMA704UR                 | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | YUMA704URN                | Unemployment Rate in Yuma, AZ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| YUMPOP                    | Resident Population in Yuma, AZ (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| YUMPOP                    | Resident Population in Yuma, AZ (MSA)                                                       | 2000-01-01          | 2021-01-01        |

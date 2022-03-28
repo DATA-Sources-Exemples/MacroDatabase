@@ -9,7 +9,7 @@
 | COFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Colorado             | 1992-01-01          | 2016-01-01        |
 | CTFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Connecticut          | 1997-01-01          | 2014-01-01        |
 | DCFROA475SCEN     | Number of Identified Exporters to Faroe Islands from District of Columbia | 2008-01-01          | 2008-01-01        |
-| DDOI11FOA156NWDB  | Remittance Inflows to GDP for Faroe Islands                               | 1998-01-01          | 2015-01-01        |
+| DDOI11FOA156NWDB  | Remittance Inflows to GDP for Faroe Islands                               | 1998-01-01          | 2019-01-01        |
 | DEFROA475SCEN     | Number of Identified Exporters to Faroe Islands from Delaware             | 2012-01-01          | 2012-01-01        |
 | EXP4091           | U.S. Exports of Goods by F.A.S. Basis to Faroe Islands                    | 1992-01-01          | 2022-01-01        |
 | FLFROA052SCEN     | Value of Exports to Faroe Islands from Florida                            | 2007-01-01          | 2016-01-01        |

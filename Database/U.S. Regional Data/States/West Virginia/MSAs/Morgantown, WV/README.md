@@ -56,24 +56,24 @@
 | MELIPRMSA34060            | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2017-08-01          | 2022-01-01        |
 | MELIPRVSUSMSA34060        | Market Hotness: Median Listing Price Versus the United States in Morgantown, WV (CBSA)            | 2017-08-01          | 2022-01-01        |
 | MELIPRYYMSA34060          | Market Hotness: Median Listing Price in Morgantown, WV (CBSA)                                     | 2018-08-01          | 2022-01-01        |
-| MORG054EDUH               | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2022-01-01        |
-| MORG054EDUHN              | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2022-01-01        |
-| MORG054GOVT               | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| MORG054GOVTN              | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| MORG054LEIH               | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| MORG054LEIHN              | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| MORG054EDUH               | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2022-02-01        |
+| MORG054EDUHN              | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2022-02-01        |
+| MORG054GOVT               | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| MORG054GOVTN              | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| MORG054LEIH               | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| MORG054LEIHN              | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | MORG054LF                 | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | MORG054LFN                | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| MORG054MFG                | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MORG054MFGN               | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MORG054NA                 | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MORG054NAN                | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| MORG054PBSV               | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2022-01-01        |
-| MORG054PBSVN              | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2022-01-01        |
+| MORG054MFG                | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MORG054MFGN               | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MORG054NA                 | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MORG054NAN                | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| MORG054PBSV               | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2022-02-01        |
+| MORG054PBSVN              | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2022-02-01        |
 | MORG054PCPI               | Per Capita Personal Income in Morgantown, WV (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | MORG054UR                 | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | MORG054URN                | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| MRWPOP                    | Resident Population in Morgantown, WV (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| MRWPOP                    | Resident Population in Morgantown, WV (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34060            | Housing Inventory: New Listing Count in Morgantown, WV (CBSA)                                     | 2016-07-01          | 2022-01-01        |
 | NEWLISCOUMM34060          | Housing Inventory: New Listing Count Month-Over-Month in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY34060          | Housing Inventory: New Listing Count Year-Over-Year in Morgantown, WV (CBSA)                      | 2017-07-01          | 2022-01-01        |
@@ -97,44 +97,44 @@
 | RPPGOOD34060              | Regional Price Parities: Goods for Morgantown, WV (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH34060          | Regional Price Parities: Services: Other for Morgantown, WV (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT34060         | Regional Price Parities: Services: Rents for Morgantown, WV (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS54340600000000026      | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS54340600000000026      | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU54340600000000001A     | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU54340600500000001      | All Employees: Total Private in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU54340600500000001      | All Employees: Total Private in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU54340600500000001A     | All Employees: Total Private in Morgantown, WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU54340600500000001SA    | All Employees: Total Private in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU54340600500000002      | Average Weekly Hours of All Employees: Total Private in Morgantown, WV (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU54340600500000001SA    | All Employees: Total Private in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU54340600500000002      | Average Weekly Hours of All Employees: Total Private in Morgantown, WV (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU54340600500000002A     | Average Weekly Hours of All Employees: Total Private in Morgantown, WV (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU54340600500000002SA    | Average Weekly Hours of All Employees: Total Private in Morgantown, WV (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU54340600500000003      | Average Hourly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU54340600500000002SA    | Average Weekly Hours of All Employees: Total Private in Morgantown, WV (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU54340600500000003      | Average Hourly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU54340600500000003A     | Average Hourly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU54340600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU54340600500000011      | Average Weekly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU54340600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU54340600500000011      | Average Weekly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU54340600500000011A     | Average Weekly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU54340600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU54340600600000001      | All Employees: Goods Producing in Morgantown, WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU54340600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Morgantown, WV (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU54340600600000001      | All Employees: Goods Producing in Morgantown, WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU54340600600000001A     | All Employees: Goods Producing in Morgantown, WV (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU54340600600000001SA    | All Employees: Goods Producing in Morgantown, WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU54340600700000001      | All Employees: Service-Providing in Morgantown, WV (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU54340600600000001SA    | All Employees: Goods Producing in Morgantown, WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU54340600700000001      | All Employees: Service-Providing in Morgantown, WV (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU54340600700000001A     | All Employees: Service-Providing in Morgantown, WV (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU54340600700000001SA    | All Employees: Service-Providing in Morgantown, WV (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU54340600800000001      | All Employees: Private Service Providing in Morgantown, WV (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU54340600700000001SA    | All Employees: Service-Providing in Morgantown, WV (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU54340600800000001      | All Employees: Private Service Providing in Morgantown, WV (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU54340600800000001A     | All Employees: Private Service Providing in Morgantown, WV (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU54340600800000001SA    | All Employees: Private Service Providing in Morgantown, WV (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU54340600800000001SA    | All Employees: Private Service Providing in Morgantown, WV (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU54340603000000001A     | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU54340604200000001      | All Employees: Retail Trade in Morgantown, WV (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU54340604200000001      | All Employees: Retail Trade in Morgantown, WV (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU54340604200000001A     | All Employees: Retail Trade in Morgantown, WV (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU54340604200000001SA    | All Employees: Retail Trade in Morgantown, WV (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU54340604200000001SA    | All Employees: Retail Trade in Morgantown, WV (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU54340606000000001A     | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU54340606500000001A     | All Employees: Education and Health Services in Morgantown, WV (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU54340607000000001A     | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU54340609000000001A     | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU54340609091000001      | All Employees: Government: Federal Government in Morgantown, WV (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU54340609091000001      | All Employees: Government: Federal Government in Morgantown, WV (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU54340609091000001A     | All Employees: Federal Government in Morgantown, WV (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU54340609091000001SA    | All Employees: Government: Federal Government in Morgantown, WV (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU54340609092000001      | All Employees: Government: State Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU54340609091000001SA    | All Employees: Government: Federal Government in Morgantown, WV (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU54340609092000001      | All Employees: Government: State Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU54340609092000001A     | All Employees: State Government in Morgantown, WV (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU54340609092000001SA    | All Employees: Government: State Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU54340609093000001      | All Employees: Government: Local Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU54340609092000001SA    | All Employees: Government: State Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU54340609093000001      | All Employees: Government: Local Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU54340609093000001A     | All Employees: Local Government in Morgantown, WV (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU54340609093000001SA    | All Employees: Government: Local Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU54340609093000001SA    | All Employees: Government: Local Government in Morgantown, WV (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA34060              | Market Hotness: Supply Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-01-01        |

@@ -13,7 +13,7 @@
 | DDAI05SOA156NWDB  | People 15 Years and Over with Account at a Formal Financial Institution for Somalia          | 2011-01-01          | 2014-01-01        |
 | DDAI06SOA156NWDB  | People 15 Years and Over Saving at a Financial Institution in the Past Year for Somalia      | 2011-01-01          | 2014-01-01        |
 | DDAI07SOA156NWDB  | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Somalia | 2011-01-01          | 2014-01-01        |
-| DDOI11SOA156NWDB  | Remittance Inflows to GDP for Somalia                                                        | 1979-01-01          | 1983-01-01        |
+| DDOI11SOA156NWDB  | Remittance Inflows to GDP for Somalia                                                        | 1979-01-01          | 2020-01-01        |
 | EXP7700           | U.S. Exports of Goods by F.A.S. Basis to Somalia                                             | 1992-01-01          | 2022-01-01        |
 | FLSOMA052SCEN     | Value of Exports to Somalia from Florida                                                     | 2003-01-01          | 2016-01-01        |
 | FLSOMA475SCEN     | Number of Identified Exporters to Somalia from Florida                                       | 1997-01-01          | 2016-01-01        |

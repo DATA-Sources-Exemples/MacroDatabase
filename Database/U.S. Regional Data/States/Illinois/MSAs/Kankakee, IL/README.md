@@ -16,31 +16,31 @@
 | ENUC281040510             | Average Weekly Wages for Employees in Private Establishments in Kankakee-Bradley, IL (MSA)                    | 1990-01-01          | 2021-07-01        |
 | ENUC281040510SA           | Average Weekly Wages for Employees in Private Establishments in Kankakee-Bradley, IL (MSA)                    | 1990-01-01          | 2021-07-01        |
 | IRPD28100                 | Implicit Regional Price Deflator for Kankakee, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| KANK117EDUH               | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| KANK117EDUHN              | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| KANK117FIRE               | All Employees: Financial Activities in Kankakee, IL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| KANK117FIREN              | All Employees: Financial Activities in Kankakee, IL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| KANK117GOVT               | All Employees: Government in Kankakee, IL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| KANK117GOVTN              | All Employees: Government in Kankakee, IL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| KANK117INFO               | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| KANK117INFON              | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| KANK117LEIH               | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| KANK117LEIHN              | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| KANK117EDUH               | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| KANK117EDUHN              | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| KANK117FIRE               | All Employees: Financial Activities in Kankakee, IL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| KANK117FIREN              | All Employees: Financial Activities in Kankakee, IL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| KANK117GOVT               | All Employees: Government in Kankakee, IL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| KANK117GOVTN              | All Employees: Government in Kankakee, IL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| KANK117INFO               | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| KANK117INFON              | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| KANK117LEIH               | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| KANK117LEIHN              | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | KANK117LF                 | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | KANK117LFN                | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| KANK117MFG                | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KANK117MFGN               | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KANK117NA                 | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KANK117NAN                | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| KANK117NRMN               | All Employees: Mining, Logging, and Construction in Kankakee, IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| KANK117NRMNN              | All Employees: Mining, Logging, and Construction in Kankakee, IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| KANK117PBSV               | All Employees: Professional and Business Services in Kankakee, IL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| KANK117PBSVN              | All Employees: Professional and Business Services in Kankakee, IL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| KANK117MFG                | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KANK117MFGN               | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KANK117NA                 | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KANK117NAN                | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| KANK117NRMN               | All Employees: Mining, Logging, and Construction in Kankakee, IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| KANK117NRMNN              | All Employees: Mining, Logging, and Construction in Kankakee, IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| KANK117PBSV               | All Employees: Professional and Business Services in Kankakee, IL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| KANK117PBSVN              | All Employees: Professional and Business Services in Kankakee, IL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | KANK117PCPI               | Per Capita Personal Income in Kankakee, IL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| KANK117SRVO               | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| KANK117SRVON              | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| KANK117TRAD               | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| KANK117TRADN              | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| KANK117SRVO               | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| KANK117SRVON              | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| KANK117TRAD               | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| KANK117TRADN              | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | KANK117UR                 | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | KANK117URN                | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | KANPOP                    | Resident Population in Kankakee, IL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -84,60 +84,60 @@
 | RPPGOOD28100              | Regional Price Parities: Goods for Kankakee, IL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH28100          | Regional Price Parities: Services: Other for Kankakee, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT28100         | Regional Price Parities: Services: Rents for Kankakee, IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS17281000000000026      | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS17281000000000026      | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU17281000000000001A     | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17281000500000001      | All Employees: Total Private in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU17281000500000001      | All Employees: Total Private in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU17281000500000001A     | All Employees: Total Private in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU17281000500000001SA    | All Employees: Total Private in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU17281000500000002      | Average Weekly Hours of All Employees: Total Private in Kankakee, IL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU17281000500000001SA    | All Employees: Total Private in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU17281000500000002      | Average Weekly Hours of All Employees: Total Private in Kankakee, IL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU17281000500000002A     | Average Weekly Hours of All Employees: Total Private in Kankakee, IL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU17281000500000002SA    | Average Weekly Hours of All Employees: Total Private in Kankakee, IL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU17281000500000003      | Average Hourly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU17281000500000002SA    | Average Weekly Hours of All Employees: Total Private in Kankakee, IL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU17281000500000003      | Average Hourly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU17281000500000003A     | Average Hourly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17281000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU17281000500000011      | Average Weekly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU17281000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU17281000500000011      | Average Weekly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU17281000500000011A     | Average Weekly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU17281000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU17281000600000001      | All Employees: Goods Producing in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU17281000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Kankakee, IL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU17281000600000001      | All Employees: Goods Producing in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU17281000600000001A     | All Employees: Goods Producing in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU17281000600000001SA    | All Employees: Goods Producing in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU17281000700000001      | All Employees: Service-Providing in Kankakee, IL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU17281000600000001SA    | All Employees: Goods Producing in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU17281000700000001      | All Employees: Service-Providing in Kankakee, IL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU17281000700000001A     | All Employees: Service-Providing in Kankakee, IL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU17281000700000001SA    | All Employees: Service-Providing in Kankakee, IL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU17281000800000001      | All Employees: Private Service Providing in Kankakee, IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU17281000700000001SA    | All Employees: Service-Providing in Kankakee, IL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU17281000800000001      | All Employees: Private Service Providing in Kankakee, IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU17281000800000001A     | All Employees: Private Service Providing in Kankakee, IL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU17281000800000001SA    | All Employees: Private Service Providing in Kankakee, IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU17281000800000001SA    | All Employees: Private Service Providing in Kankakee, IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU17281001500000001A     | All Employees: Mining, Logging, and Construction in Kankakee, IL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU17281003000000001A     | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU17281004000000001A     | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU17281004100000001      | All Employees: Wholesale Trade in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU17281004100000001      | All Employees: Wholesale Trade in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU17281004100000001A     | All Employees: Wholesale Trade in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU17281004100000001SA    | All Employees: Wholesale Trade in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU17281004200000001      | All Employees: Retail Trade in Kankakee, IL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU17281004100000001SA    | All Employees: Wholesale Trade in Kankakee, IL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU17281004200000001      | All Employees: Retail Trade in Kankakee, IL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU17281004200000001A     | All Employees: Retail Trade in Kankakee, IL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU17281004200000001SA    | All Employees: Retail Trade in Kankakee, IL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU17281004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kankakee, IL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU17281004200000001SA    | All Employees: Retail Trade in Kankakee, IL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU17281004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kankakee, IL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU17281004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kankakee, IL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU17281004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kankakee, IL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU17281004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kankakee, IL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU17281005000000001A     | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU17281005500000001A     | All Employees: Financial Activities in Kankakee, IL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU17281006000000001A     | All Employees: Professional and Business Services in Kankakee, IL (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU17281006500000001A     | All Employees: Education and Health Services in Kankakee, IL (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU17281006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Kankakee, IL (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU17281006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Kankakee, IL (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU17281006562000001A     | All Employees: Health Care and Social Assistance in Kankakee, IL (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU17281006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Kankakee, IL (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU17281006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Kankakee, IL (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU17281007000000001A     | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU17281008000000001A     | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU17281009000000001A     | All Employees: Government in Kankakee, IL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU17281009091000001      | All Employees: Government: Federal Government in Kankakee, IL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU17281009091000001      | All Employees: Government: Federal Government in Kankakee, IL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU17281009091000001A     | All Employees: Federal Government in Kankakee, IL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU17281009091000001SA    | All Employees: Government: Federal Government in Kankakee, IL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU17281009092000001      | All Employees: Government: State Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17281009091000001SA    | All Employees: Government: Federal Government in Kankakee, IL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU17281009092000001      | All Employees: Government: State Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17281009092000001A     | All Employees: State Government in Kankakee, IL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU17281009092000001SA    | All Employees: Government: State Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU17281009093000001      | All Employees: Government: Local Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU17281009092000001SA    | All Employees: Government: State Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU17281009093000001      | All Employees: Government: Local Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU17281009093000001A     | All Employees: Local Government in Kankakee, IL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU17281009093000001SA    | All Employees: Government: Local Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU17281009093161101      | All Employees: Government: Local Government Educational Services in Kankakee, IL (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU17281009093000001SA    | All Employees: Government: Local Government in Kankakee, IL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU17281009093161101      | All Employees: Government: Local Government Educational Services in Kankakee, IL (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU17281009093161101A     | All Employees: Local Government Educational Services in Kankakee, IL (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU17281009093161101SA    | All Employees: Government: Local Government Educational Services in Kankakee, IL (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU17281009093161101SA    | All Employees: Government: Local Government Educational Services in Kankakee, IL (MSA)                        | 1990-01-01          | 2022-02-01        |

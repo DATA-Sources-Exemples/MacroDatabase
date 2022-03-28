@@ -25,29 +25,29 @@
 | HORAYYMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2018-08-01          | 2022-01-01        |
 | HOSCMSA29180              | Market Hotness: Hotness Score in Lafayette, LA (CBSA)                                                                      | 2017-08-01          | 2022-01-01        |
 | IRPD29180                 | Implicit Regional Price Deflator for Lafayette, LA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| LAFA122EDUH               | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| LAFA122EDUHN              | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| LAFA122FIRE               | All Employees: Financial Activities in Lafayette, LA (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| LAFA122FIREN              | All Employees: Financial Activities in Lafayette, LA (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| LAFA122GOVT               | All Employees: Government in Lafayette, LA (MSA)                                                                           | 1990-01-01          | 2022-01-01        |
-| LAFA122GOVTN              | All Employees: Government in Lafayette, LA (MSA)                                                                           | 1990-01-01          | 2022-01-01        |
-| LAFA122INFO               | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-01-01        |
-| LAFA122INFON              | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-01-01        |
-| LAFA122LEIH               | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LAFA122LEIHN              | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| LAFA122EDUH               | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| LAFA122EDUHN              | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| LAFA122FIRE               | All Employees: Financial Activities in Lafayette, LA (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| LAFA122FIREN              | All Employees: Financial Activities in Lafayette, LA (MSA)                                                                 | 1990-01-01          | 2022-02-01        |
+| LAFA122GOVT               | All Employees: Government in Lafayette, LA (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| LAFA122GOVTN              | All Employees: Government in Lafayette, LA (MSA)                                                                           | 1990-01-01          | 2022-02-01        |
+| LAFA122INFO               | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-02-01        |
+| LAFA122INFON              | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-02-01        |
+| LAFA122LEIH               | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LAFA122LEIHN              | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-01-01        |
 | LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-01-01        |
-| LAFA122MFG                | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAFA122MFGN               | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAFA122NA                 | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAFA122NAN                | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| LAFA122PBSV               | All Employees: Professional and Business Services in Lafayette, LA (MSA)                                                   | 1990-01-01          | 2022-01-01        |
-| LAFA122PBSVN              | All Employees: Professional and Business Services in Lafayette, LA (MSA)                                                   | 1990-01-01          | 2022-01-01        |
+| LAFA122MFG                | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAFA122MFGN               | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAFA122NA                 | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAFA122NAN                | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| LAFA122PBSV               | All Employees: Professional and Business Services in Lafayette, LA (MSA)                                                   | 1990-01-01          | 2022-02-01        |
+| LAFA122PBSVN              | All Employees: Professional and Business Services in Lafayette, LA (MSA)                                                   | 1990-01-01          | 2022-02-01        |
 | LAFA122PCPI               | Per Capita Personal Income in Lafayette, LA (MSA)                                                                          | 1969-01-01          | 2020-01-01        |
-| LAFA122SRVO               | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| LAFA122SRVON              | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| LAFA122TRAD               | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| LAFA122TRADN              | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| LAFA122SRVO               | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| LAFA122SRVON              | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-02-01        |
+| LAFA122TRAD               | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| LAFA122TRADN              | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-01-01        |
 | LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-01-01        |
 | LAUMT222918000000003A     | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2020-01-01        |
@@ -106,84 +106,84 @@
 | RPPSERVEOTH29180          | Regional Price Parities: Services: Other for Lafayette, LA (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT29180         | Regional Price Parities: Services: Rents for Lafayette, LA (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | SMS22291800000000001      | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2018-02-01        |
-| SMS22291800000000026      | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-04-01          | 2022-01-01        |
+| SMS22291800000000026      | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-04-01          | 2022-02-01        |
 | SMU22291800000000001A     | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22291800500000001      | All Employees: Total Private in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
+| SMU22291800500000001      | All Employees: Total Private in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
 | SMU22291800500000001A     | All Employees: Total Private in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22291800500000001SA    | All Employees: Total Private in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
-| SMU22291800500000002      | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2022-01-01        |
+| SMU22291800500000001SA    | All Employees: Total Private in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-02-01        |
+| SMU22291800500000002      | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2022-02-01        |
 | SMU22291800500000002A     | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2021-01-01        |
-| SMU22291800500000002SA    | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2022-01-01        |
-| SMU22291800500000003      | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
+| SMU22291800500000002SA    | Average Weekly Hours of All Employees: Total Private in Lafayette, LA (MSA)                                                | 2007-01-01          | 2022-02-01        |
+| SMU22291800500000003      | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
 | SMU22291800500000003A     | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22291800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
-| SMU22291800500000011      | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
+| SMU22291800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
+| SMU22291800500000011      | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
 | SMU22291800500000011A     | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2021-01-01        |
-| SMU22291800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-01-01        |
-| SMU22291800600000001      | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| SMU22291800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lafayette, LA (MSA)                                             | 2007-01-01          | 2022-02-01        |
+| SMU22291800600000001      | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
 | SMU22291800600000001A     | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| SMU22291800600000001SA    | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| SMU22291800700000001      | All Employees: Service-Providing in Lafayette, LA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
+| SMU22291800600000001SA    | All Employees: Goods Producing in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
+| SMU22291800700000001      | All Employees: Service-Providing in Lafayette, LA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
 | SMU22291800700000001A     | All Employees: Service-Providing in Lafayette, LA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| SMU22291800700000001SA    | All Employees: Service-Providing in Lafayette, LA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SMU22291800800000001      | All Employees: Private Service Providing in Lafayette, LA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU22291800700000001SA    | All Employees: Service-Providing in Lafayette, LA (MSA)                                                                    | 1990-01-01          | 2022-02-01        |
+| SMU22291800800000001      | All Employees: Private Service Providing in Lafayette, LA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU22291800800000001A     | All Employees: Private Service Providing in Lafayette, LA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU22291800800000001SA    | All Employees: Private Service Providing in Lafayette, LA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU22291801000000001      | All Employees: Mining and Logging in Lafayette, LA (MSA)                                                                   | 2005-01-01          | 2022-01-01        |
+| SMU22291800800000001SA    | All Employees: Private Service Providing in Lafayette, LA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU22291801000000001      | All Employees: Mining and Logging in Lafayette, LA (MSA)                                                                   | 2005-01-01          | 2022-02-01        |
 | SMU22291801000000001A     | All Employees: Mining and Logging in Lafayette, LA (MSA)                                                                   | 2005-01-01          | 2021-01-01        |
-| SMU22291801000000001SA    | All Employees: Mining and Logging in Lafayette, LA (MSA)                                                                   | 2005-01-01          | 2022-01-01        |
-| SMU22291801021300001      | All Employees: Mining and Logging: Support Activities for Mining in Lafayette, LA (MSA)                                    | 2005-01-01          | 2022-01-01        |
+| SMU22291801000000001SA    | All Employees: Mining and Logging in Lafayette, LA (MSA)                                                                   | 2005-01-01          | 2022-02-01        |
+| SMU22291801021300001      | All Employees: Mining and Logging: Support Activities for Mining in Lafayette, LA (MSA)                                    | 2005-01-01          | 2022-02-01        |
 | SMU22291801021300001A     | All Employees: Mining: Support Activities for Mining in Lafayette, LA (MSA)                                                | 2005-01-01          | 2021-01-01        |
-| SMU22291801021300001SA    | All Employees: Mining and Logging: Support Activities for Mining in Lafayette, LA (MSA)                                    | 2005-01-01          | 2022-01-01        |
-| SMU22291801500000001      | All Employees: Mining, Logging, and Construction in Lafayette, LA (MSA)                                                    | 2005-01-01          | 2022-01-01        |
+| SMU22291801021300001SA    | All Employees: Mining and Logging: Support Activities for Mining in Lafayette, LA (MSA)                                    | 2005-01-01          | 2022-02-01        |
+| SMU22291801500000001      | All Employees: Mining, Logging, and Construction in Lafayette, LA (MSA)                                                    | 2005-01-01          | 2022-02-01        |
 | SMU22291801500000001A     | All Employees: Mining, Logging, and Construction in Lafayette, LA (MSA)                                                    | 2005-01-01          | 2021-01-01        |
-| SMU22291801500000001SA    | All Employees: Mining, Logging, and Construction in Lafayette, LA (MSA)                                                    | 2005-01-01          | 2022-01-01        |
-| SMU22291802000000001      | All Employees: Construction in Lafayette, LA (MSA)                                                                         | 2005-01-01          | 2022-01-01        |
+| SMU22291801500000001SA    | All Employees: Mining, Logging, and Construction in Lafayette, LA (MSA)                                                    | 2005-01-01          | 2022-02-01        |
+| SMU22291802000000001      | All Employees: Construction in Lafayette, LA (MSA)                                                                         | 2005-01-01          | 2022-02-01        |
 | SMU22291802000000001A     | All Employees: Construction in Lafayette, LA (MSA)                                                                         | 2005-01-01          | 2021-01-01        |
-| SMU22291802000000001SA    | All Employees: Construction in Lafayette, LA (MSA)                                                                         | 2005-01-01          | 2022-01-01        |
+| SMU22291802000000001SA    | All Employees: Construction in Lafayette, LA (MSA)                                                                         | 2005-01-01          | 2022-02-01        |
 | SMU22291803000000001A     | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | SMU22291804000000001A     | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU22291804100000001      | All Employees: Wholesale Trade in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| SMU22291804100000001      | All Employees: Wholesale Trade in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
 | SMU22291804100000001A     | All Employees: Wholesale Trade in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| SMU22291804100000001SA    | All Employees: Wholesale Trade in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| SMU22291804200000001      | All Employees: Retail Trade in Lafayette, LA (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22291804100000001SA    | All Employees: Wholesale Trade in Lafayette, LA (MSA)                                                                      | 1990-01-01          | 2022-02-01        |
+| SMU22291804200000001      | All Employees: Retail Trade in Lafayette, LA (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22291804200000001A     | All Employees: Retail Trade in Lafayette, LA (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
-| SMU22291804200000001SA    | All Employees: Retail Trade in Lafayette, LA (MSA)                                                                         | 1990-01-01          | 2022-01-01        |
-| SMU22291804245200001      | All Employees: Retail Trade: General Merchandise Stores in Lafayette, LA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU22291804200000001SA    | All Employees: Retail Trade in Lafayette, LA (MSA)                                                                         | 1990-01-01          | 2022-02-01        |
+| SMU22291804245200001      | All Employees: Retail Trade: General Merchandise Stores in Lafayette, LA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU22291804245200001A     | All Employees: Retail Trade: General Merchandise Stores in Lafayette, LA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU22291804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Lafayette, LA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU22291804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette, LA (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU22291804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Lafayette, LA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU22291804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette, LA (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU22291804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette, LA (MSA)             | 1990-01-01          | 2021-01-01        |
-| SMU22291804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette, LA (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU22291804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette, LA (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU22291805000000001A     | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2021-01-01        |
 | SMU22291805500000001A     | All Employees: Financial Activities in Lafayette, LA (MSA)                                                                 | 1990-01-01          | 2021-01-01        |
 | SMU22291806000000001A     | All Employees: Professional and Business Services in Lafayette, LA (MSA)                                                   | 1990-01-01          | 2021-01-01        |
-| SMU22291806054000001      | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Lafayette, LA (MSA) | 2004-01-01          | 2022-01-01        |
+| SMU22291806054000001      | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Lafayette, LA (MSA) | 2004-01-01          | 2022-02-01        |
 | SMU22291806054000001A     | All Employees: Professional, Scientific, and Technical Services in Lafayette, LA (MSA)                                     | 2004-01-01          | 2021-01-01        |
-| SMU22291806054000001SA    | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Lafayette, LA (MSA) | 2004-01-01          | 2022-01-01        |
+| SMU22291806054000001SA    | All Employees: Professional and Business Services: Professional, Scientific, and Technical Services in Lafayette, LA (MSA) | 2004-01-01          | 2022-02-01        |
 | SMU22291806500000001A     | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU22291806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Lafayette, LA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU22291806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Lafayette, LA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU22291806562000001A     | All Employees: Health Care and Social Assistance in Lafayette, LA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU22291806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Lafayette, LA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU22291806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Lafayette, LA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU22291806562200001      | All Employees: Health Care: Hospitals in Lafayette, LA (MSA)                                                               | 2004-01-01          | 2018-12-01        |
 | SMU22291806562200001A     | All Employees: Health Care: Hospitals in Lafayette, LA (MSA)                                                               | 2004-01-01          | 2017-01-01        |
 | SMU22291806562200001SA    | All Employees: Health Care: Hospitals in Lafayette, LA (MSA)                                                               | 2004-01-01          | 2018-12-01        |
 | SMU22291807000000001A     | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU22291807072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU22291807072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU22291807072000001A     | All Employees: Accommodation and Food Services in Lafayette, LA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU22291807072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU22291807072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lafayette, LA (MSA)                           | 1990-01-01          | 2022-01-01        |
+| SMU22291807072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU22291807072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lafayette, LA (MSA)                           | 1990-01-01          | 2022-02-01        |
 | SMU22291807072200001A     | All Employees: Food Services and Drinking Places in Lafayette, LA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU22291807072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lafayette, LA (MSA)                           | 1990-01-01          | 2022-01-01        |
+| SMU22291807072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lafayette, LA (MSA)                           | 1990-01-01          | 2022-02-01        |
 | SMU22291808000000001A     | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | SMU22291809000000001A     | All Employees: Government in Lafayette, LA (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
-| SMU22291809091000001      | All Employees: Government: Federal Government in Lafayette, LA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU22291809091000001      | All Employees: Government: Federal Government in Lafayette, LA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU22291809091000001A     | All Employees: Federal Government in Lafayette, LA (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| SMU22291809091000001SA    | All Employees: Government: Federal Government in Lafayette, LA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| SMU22291809092000001      | All Employees: Government: State Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22291809091000001SA    | All Employees: Government: Federal Government in Lafayette, LA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU22291809092000001      | All Employees: Government: State Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22291809092000001A     | All Employees: State Government in Lafayette, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| SMU22291809092000001SA    | All Employees: Government: State Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU22291809093000001      | All Employees: Government: Local Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22291809092000001SA    | All Employees: Government: State Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU22291809093000001      | All Employees: Government: Local Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU22291809093000001A     | All Employees: Local Government in Lafayette, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| SMU22291809093000001SA    | All Employees: Government: Local Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU22291809093000001SA    | All Employees: Government: Local Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SUSCMSA29180              | Market Hotness: Supply Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-01-01        |

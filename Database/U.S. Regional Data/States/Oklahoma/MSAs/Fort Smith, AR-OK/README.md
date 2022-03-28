@@ -20,32 +20,32 @@
 | ENUC229040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC229040510             | Average Weekly Wages for Employees in Private Establishments in Fort Smith, AR-OK (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC229040510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Smith, AR-OK (MSA)                            | 1990-01-01          | 2021-07-01        |
-| FTSEDUH                   | All Employees: Education and Health Services in Fort Smith, AR-OK (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| FTSEDUHN                  | All Employees: Education and Health Services in Fort Smith, AR-OK (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| FTSFIRE                   | All Employees: Financial Activities in Fort Smith, AR-OK (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| FTSFIREN                  | All Employees: Financial Activities in Fort Smith, AR-OK (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| FTSGOVT                   | All Employees: Government in Fort Smith, AR-OK (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| FTSGOVTN                  | All Employees: Government in Fort Smith, AR-OK (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| FTSINFO                   | All Employees: Information in Fort Smith, AR-OK (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| FTSINFON                  | All Employees: Information in Fort Smith, AR-OK (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| FTSLEIH                   | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| FTSLEIHN                  | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| FTSEDUH                   | All Employees: Education and Health Services in Fort Smith, AR-OK (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| FTSEDUHN                  | All Employees: Education and Health Services in Fort Smith, AR-OK (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| FTSFIRE                   | All Employees: Financial Activities in Fort Smith, AR-OK (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| FTSFIREN                  | All Employees: Financial Activities in Fort Smith, AR-OK (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| FTSGOVT                   | All Employees: Government in Fort Smith, AR-OK (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| FTSGOVTN                  | All Employees: Government in Fort Smith, AR-OK (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| FTSINFO                   | All Employees: Information in Fort Smith, AR-OK (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| FTSINFON                  | All Employees: Information in Fort Smith, AR-OK (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| FTSLEIH                   | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| FTSLEIHN                  | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | FTSLF                     | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | FTSLFN                    | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| FTSMFG                    | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FTSMFGN                   | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FTSNA                     | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FTSNAN                    | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FTSNRMC                   | All Employees: Mining, Logging, and Construction in Fort Smith, AR-OK (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| FTSNRMCN                  | All Employees: Mining, Logging, and Construction in Fort Smith, AR-OK (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| FTSPBSV                   | All Employees: Professional and Business Services in Fort Smith, AR-OK (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| FTSPBSVN                  | All Employees: Professional and Business Services in Fort Smith, AR-OK (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| FTSMFG                    | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FTSMFGN                   | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FTSNA                     | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FTSNAN                    | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FTSNRMC                   | All Employees: Mining, Logging, and Construction in Fort Smith, AR-OK (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| FTSNRMCN                  | All Employees: Mining, Logging, and Construction in Fort Smith, AR-OK (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| FTSPBSV                   | All Employees: Professional and Business Services in Fort Smith, AR-OK (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| FTSPBSVN                  | All Employees: Professional and Business Services in Fort Smith, AR-OK (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | FTSPCPI                   | Per Capita Personal Income in Fort Smith, AR-OK (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | FTSPOP                    | Resident Population in Fort Smith, AR-OK (MSA)                                                                     | 1970-01-01          | 2020-01-01        |
-| FTSSRVO                   | All Employees: Other Services in Fort Smith, AR-OK (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| FTSSRVON                  | All Employees: Other Services in Fort Smith, AR-OK (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| FTSTRAD                   | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| FTSTRADN                  | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| FTSSRVO                   | All Employees: Other Services in Fort Smith, AR-OK (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| FTSSRVON                  | All Employees: Other Services in Fort Smith, AR-OK (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| FTSTRAD                   | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| FTSTRADN                  | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | FTSUR                     | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | FTSURN                    | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
@@ -107,41 +107,41 @@
 | RPPGOOD22900              | Regional Price Parities: Goods for Fort Smith, AR-OK (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH22900          | Regional Price Parities: Services: Other for Fort Smith, AR-OK (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT22900         | Regional Price Parities: Services: Rents for Fort Smith, AR-OK (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS05229000000000026      | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS05229000000000026      | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU05229000000000001A     | All Employees: Total Nonfarm in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU05229000500000001      | All Employees: Total Private in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU05229000500000001      | All Employees: Total Private in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU05229000500000001A     | All Employees: Total Private in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU05229000500000001SA    | All Employees: Total Private in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU05229000500000002      | Average Weekly Hours of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU05229000500000001SA    | All Employees: Total Private in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU05229000500000002      | Average Weekly Hours of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU05229000500000002A     | Average Weekly Hours of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU05229000500000002SA    | Average Weekly Hours of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU05229000500000003      | Average Hourly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU05229000500000002SA    | Average Weekly Hours of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU05229000500000003      | Average Hourly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU05229000500000003A     | Average Hourly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU05229000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU05229000500000011      | Average Weekly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU05229000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU05229000500000011      | Average Weekly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU05229000500000011A     | Average Weekly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU05229000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU05229000600000001      | All Employees: Goods Producing in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU05229000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Fort Smith, AR-OK (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU05229000600000001      | All Employees: Goods Producing in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU05229000600000001A     | All Employees: Goods Producing in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU05229000600000001SA    | All Employees: Goods Producing in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU05229000700000001      | All Employees: Service-Providing in Fort Smith, AR-OK (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU05229000600000001SA    | All Employees: Goods Producing in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU05229000700000001      | All Employees: Service-Providing in Fort Smith, AR-OK (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU05229000700000001A     | All Employees: Service-Providing in Fort Smith, AR-OK (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU05229000700000001SA    | All Employees: Service-Providing in Fort Smith, AR-OK (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU05229000800000001      | All Employees: Private Service Providing in Fort Smith, AR-OK (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU05229000700000001SA    | All Employees: Service-Providing in Fort Smith, AR-OK (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU05229000800000001      | All Employees: Private Service Providing in Fort Smith, AR-OK (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU05229000800000001A     | All Employees: Private Service Providing in Fort Smith, AR-OK (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU05229000800000001SA    | All Employees: Private Service Providing in Fort Smith, AR-OK (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU05229000800000001SA    | All Employees: Private Service Providing in Fort Smith, AR-OK (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU05229001500000001A     | All Employees: Mining, Logging, and Construction in Fort Smith, AR-OK (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU05229003000000001A     | All Employees: Manufacturing in Fort Smith, AR-OK (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU05229004000000001A     | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU05229004100000001      | All Employees: Wholesale Trade in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU05229004100000001      | All Employees: Wholesale Trade in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU05229004100000001A     | All Employees: Wholesale Trade in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU05229004100000001SA    | All Employees: Wholesale Trade in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU05229004200000001      | All Employees: Retail Trade in Fort Smith, AR-OK (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU05229004100000001SA    | All Employees: Wholesale Trade in Fort Smith, AR-OK (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU05229004200000001      | All Employees: Retail Trade in Fort Smith, AR-OK (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU05229004200000001A     | All Employees: Retail Trade in Fort Smith, AR-OK (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU05229004200000001SA    | All Employees: Retail Trade in Fort Smith, AR-OK (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU05229004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Smith, AR-OK (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU05229004200000001SA    | All Employees: Retail Trade in Fort Smith, AR-OK (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU05229004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Smith, AR-OK (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU05229004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Smith, AR-OK (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU05229004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Smith, AR-OK (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU05229004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Smith, AR-OK (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU05229005000000001A     | All Employees: Information in Fort Smith, AR-OK (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU05229005500000001A     | All Employees: Financial Activities in Fort Smith, AR-OK (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU05229006000000001A     | All Employees: Professional and Business Services in Fort Smith, AR-OK (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -149,13 +149,13 @@
 | SMU05229007000000001A     | All Employees: Leisure and Hospitality in Fort Smith, AR-OK (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU05229008000000001A     | All Employees: Other Services in Fort Smith, AR-OK (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU05229009000000001A     | All Employees: Government in Fort Smith, AR-OK (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU05229009091000001      | All Employees: Government: Federal Government in Fort Smith, AR-OK (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU05229009091000001      | All Employees: Government: Federal Government in Fort Smith, AR-OK (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU05229009091000001A     | All Employees: Federal Government in Fort Smith, AR-OK (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU05229009091000001SA    | All Employees: Government: Federal Government in Fort Smith, AR-OK (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU05229009092000001      | All Employees: Government: State Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-01-01        |
+| SMU05229009091000001SA    | All Employees: Government: Federal Government in Fort Smith, AR-OK (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU05229009092000001      | All Employees: Government: State Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-02-01        |
 | SMU05229009092000001A     | All Employees: State Government in Fort Smith, AR-OK (MSA)                                                         | 2003-01-01          | 2021-01-01        |
-| SMU05229009092000001SA    | All Employees: Government: State Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-01-01        |
-| SMU05229009093000001      | All Employees: Government: Local Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-01-01        |
+| SMU05229009092000001SA    | All Employees: Government: State Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-02-01        |
+| SMU05229009093000001      | All Employees: Government: Local Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-02-01        |
 | SMU05229009093000001A     | All Employees: Local Government in Fort Smith, AR-OK (MSA)                                                         | 2003-01-01          | 2021-01-01        |
-| SMU05229009093000001SA    | All Employees: Government: Local Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-01-01        |
+| SMU05229009093000001SA    | All Employees: Government: Local Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-02-01        |
 | SUSCMSA22900              | Market Hotness: Supply Score in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

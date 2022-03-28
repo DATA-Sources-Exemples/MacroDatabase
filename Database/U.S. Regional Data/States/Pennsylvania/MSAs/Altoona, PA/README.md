@@ -3,23 +3,23 @@
 | ACTLISCOU11020            | Housing Inventory: Active Listing Count in Altoona, PA (CBSA)                                  | 2016-07-01          | 2022-01-01        |
 | ACTLISCOUMM11020          | Housing Inventory: Active Listing Count Month-Over-Month in Altoona, PA (CBSA)                 | 2017-07-01          | 2022-01-01        |
 | ACTLISCOUYY11020          | Housing Inventory: Active Listing Count Year-Over-Year in Altoona, PA (CBSA)                   | 2017-07-01          | 2022-01-01        |
-| ALTO042EDUH               | All Employees: Education and Health Services in Altoona, PA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ALTO042EDUHN              | All Employees: Education and Health Services in Altoona, PA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ALTO042GOVT               | All Employees: Government in Altoona, PA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ALTO042GOVTN              | All Employees: Government in Altoona, PA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ALTO042LEIH               | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| ALTO042LEIHN              | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| ALTO042EDUH               | All Employees: Education and Health Services in Altoona, PA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| ALTO042EDUHN              | All Employees: Education and Health Services in Altoona, PA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| ALTO042GOVT               | All Employees: Government in Altoona, PA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ALTO042GOVTN              | All Employees: Government in Altoona, PA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ALTO042LEIH               | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| ALTO042LEIHN              | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | ALTO042LF                 | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | ALTO042LFN                | Civilian Labor Force in Altoona, PA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| ALTO042MFG                | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ALTO042MFGN               | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ALTO042NA                 | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ALTO042NAN                | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1953-01-01          | 2022-01-01        |
-| ALTO042PBSV               | All Employees: Professional and Business Services in Altoona, PA (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ALTO042PBSVN              | All Employees: Professional and Business Services in Altoona, PA (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ALTO042MFG                | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ALTO042MFGN               | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ALTO042NA                 | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ALTO042NAN                | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1953-01-01          | 2022-02-01        |
+| ALTO042PBSV               | All Employees: Professional and Business Services in Altoona, PA (MSA)                         | 1990-01-01          | 2022-02-01        |
+| ALTO042PBSVN              | All Employees: Professional and Business Services in Altoona, PA (MSA)                         | 1990-01-01          | 2022-02-01        |
 | ALTO042PCPI               | Per Capita Personal Income in Altoona, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| ALTO042TRAD               | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| ALTO042TRADN              | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| ALTO042TRAD               | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| ALTO042TRADN              | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | ALTO042UR                 | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ALTO042URN                | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ALTPOP                    | Resident Population in Altoona, PA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -80,59 +80,59 @@
 | RPPGOOD11020              | Regional Price Parities: Goods for Altoona, PA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH11020          | Regional Price Parities: Services: Other for Altoona, PA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT11020         | Regional Price Parities: Services: Rents for Altoona, PA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS42110200000000026      | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS42110200000000026      | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU42110200000000001A     | All Employees: Total Nonfarm in Altoona, PA (MSA)                                              | 1953-01-01          | 2021-01-01        |
-| SMU42110200500000001      | All Employees: Total Private in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU42110200500000001      | All Employees: Total Private in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU42110200500000001A     | All Employees: Total Private in Altoona, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU42110200500000001SA    | All Employees: Total Private in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU42110200500000002      | Average Weekly Hours of All Employees: Total Private in Altoona, PA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU42110200500000001SA    | All Employees: Total Private in Altoona, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU42110200500000002      | Average Weekly Hours of All Employees: Total Private in Altoona, PA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU42110200500000002A     | Average Weekly Hours of All Employees: Total Private in Altoona, PA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU42110200500000002SA    | Average Weekly Hours of All Employees: Total Private in Altoona, PA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU42110200500000003      | Average Hourly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU42110200500000002SA    | Average Weekly Hours of All Employees: Total Private in Altoona, PA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU42110200500000003      | Average Hourly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU42110200500000003A     | Average Hourly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42110200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU42110200500000011      | Average Weekly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU42110200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU42110200500000011      | Average Weekly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU42110200500000011A     | Average Weekly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42110200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU42110200600000001      | All Employees: Goods Producing in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42110200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Altoona, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU42110200600000001      | All Employees: Goods Producing in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42110200600000001A     | All Employees: Goods Producing in Altoona, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42110200600000001SA    | All Employees: Goods Producing in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42110200700000001      | All Employees: Service-Providing in Altoona, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU42110200600000001SA    | All Employees: Goods Producing in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42110200700000001      | All Employees: Service-Providing in Altoona, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU42110200700000001A     | All Employees: Service-Providing in Altoona, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU42110200700000001SA    | All Employees: Service-Providing in Altoona, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU42110200800000001      | All Employees: Private Service Providing in Altoona, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU42110200700000001SA    | All Employees: Service-Providing in Altoona, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU42110200800000001      | All Employees: Private Service Providing in Altoona, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU42110200800000001A     | All Employees: Private Service Providing in Altoona, PA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU42110200800000001SA    | All Employees: Private Service Providing in Altoona, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU42110201500000001      | All Employees: Mining, Logging, and Construction in Altoona, PA (MSA)                          | 1990-01-01          | 2022-01-01        |
+| SMU42110200800000001SA    | All Employees: Private Service Providing in Altoona, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU42110201500000001      | All Employees: Mining, Logging, and Construction in Altoona, PA (MSA)                          | 1990-01-01          | 2022-02-01        |
 | SMU42110201500000001A     | All Employees: Mining, Logging, and Construction in Altoona, PA (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU42110201500000001SA    | All Employees: Mining, Logging, and Construction in Altoona, PA (MSA)                          | 1990-01-01          | 2022-01-01        |
+| SMU42110201500000001SA    | All Employees: Mining, Logging, and Construction in Altoona, PA (MSA)                          | 1990-01-01          | 2022-02-01        |
 | SMU42110203000000001A     | All Employees: Manufacturing in Altoona, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU42110204000000001A     | All Employees: Trade, Transportation, and Utilities in Altoona, PA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU42110204100000001      | All Employees: Wholesale Trade in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42110204100000001      | All Employees: Wholesale Trade in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42110204100000001A     | All Employees: Wholesale Trade in Altoona, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42110204100000001SA    | All Employees: Wholesale Trade in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42110204200000001      | All Employees: Retail Trade in Altoona, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU42110204100000001SA    | All Employees: Wholesale Trade in Altoona, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42110204200000001      | All Employees: Retail Trade in Altoona, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU42110204200000001A     | All Employees: Retail Trade in Altoona, PA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU42110204200000001SA    | All Employees: Retail Trade in Altoona, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU42110205000000001      | All Employees: Information in Altoona, PA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU42110204200000001SA    | All Employees: Retail Trade in Altoona, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU42110205000000001      | All Employees: Information in Altoona, PA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU42110205000000001A     | All Employees: Information in Altoona, PA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU42110205000000001SA    | All Employees: Information in Altoona, PA (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU42110205500000001      | All Employees: Financial Activities in Altoona, PA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU42110205000000001SA    | All Employees: Information in Altoona, PA (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU42110205500000001      | All Employees: Financial Activities in Altoona, PA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU42110205500000001A     | All Employees: Financial Activities in Altoona, PA (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU42110205500000001SA    | All Employees: Financial Activities in Altoona, PA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU42110205500000001SA    | All Employees: Financial Activities in Altoona, PA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU42110206000000001A     | All Employees: Professional and Business Services in Altoona, PA (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU42110206500000001A     | All Employees: Education and Health Services in Altoona, PA (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU42110207000000001A     | All Employees: Leisure and Hospitality in Altoona, PA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU42110208000000001      | All Employees: Other Services in Altoona, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42110208000000001      | All Employees: Other Services in Altoona, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU42110208000000001A     | All Employees: Other Services in Altoona, PA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU42110208000000001SA    | All Employees: Other Services in Altoona, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42110208000000001SA    | All Employees: Other Services in Altoona, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU42110209000000001A     | All Employees: Government in Altoona, PA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU42110209091000001      | All Employees: Government: Federal Government in Altoona, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU42110209091000001      | All Employees: Government: Federal Government in Altoona, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU42110209091000001A     | All Employees: Federal Government in Altoona, PA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU42110209091000001SA    | All Employees: Government: Federal Government in Altoona, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU42110209092000001      | All Employees: Government: State Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42110209091000001SA    | All Employees: Government: Federal Government in Altoona, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU42110209092000001      | All Employees: Government: State Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU42110209092000001A     | All Employees: State Government in Altoona, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU42110209092000001SA    | All Employees: Government: State Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU42110209093000001      | All Employees: Government: Local Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42110209092000001SA    | All Employees: Government: State Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU42110209093000001      | All Employees: Government: Local Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU42110209093000001A     | All Employees: Local Government in Altoona, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU42110209093000001SA    | All Employees: Government: Local Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42110209093000001SA    | All Employees: Government: Local Government in Altoona, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
