@@ -1,0 +1,23 @@
+{
+  "M1, Alternate Definition 1": {
+    "South Africa": {
+      "id": "MAM1A1ZAM189N",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "M1, Alternate Definition 1 for South Africa",
+      "observation_start": "1979-03-01",
+      "observation_end": "2017-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "National Currency",
+      "units_short": "National Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2017-08-01 14:41:32-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+    },
+    "path": "Database/_Curated/Central Bank/M1, Alternate Definition 1"
+  }
+}

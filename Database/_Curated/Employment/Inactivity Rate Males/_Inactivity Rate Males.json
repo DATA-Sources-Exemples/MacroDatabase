@@ -1,0 +1,65 @@
+{
+  "Percent_Annual_Not Seasonally Adjusted": {
+    "South Africa": {
+      "id": "LRIN64MAZAA156S",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "Inactivity Rate: Aged 15-64: Males for South Africa",
+      "observation_start": "2008-01-01",
+      "observation_end": "2020-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Percent",
+      "units_short": "%",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2021-04-16 12:19:05-05",
+      "popularity": 0,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: LRIN64MA\nOECD unit ID: STSA\nOECD country ID: ZAF\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+    },
+    "path": "Database/_Curated/Employment/Inactivity Rate Males"
+  },
+  "Percent_Quarterly_Not Seasonally Adjusted": {
+    "South Africa": {
+      "id": "LRIN64MAZAQ156N",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "Inactivity Rate: Aged 15-64: Males for South Africa",
+      "observation_start": "2000-07-01",
+      "observation_end": "2021-07-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Percent",
+      "units_short": "%",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-18 11:26:38-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: LRIN64MA\nOECD unit ID: ST\nOECD country ID: ZAF\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+    },
+    "path": "Database/_Curated/Employment/Inactivity Rate Males"
+  },
+  "Percent_Quarterly_Seasonally Adjusted": {
+    "South Africa": {
+      "id": "LRIN64MAZAQ156S",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "Inactivity Rate: Aged 15-64: Males for South Africa",
+      "observation_start": "2000-07-01",
+      "observation_end": "2021-07-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Percent",
+      "units_short": "%",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-01-18 12:35:14-06",
+      "popularity": 0,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: LRIN64MA\nOECD unit ID: STSA\nOECD country ID: ZAF\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+    },
+    "path": "Database/_Curated/Employment/Inactivity Rate Males"
+  }
+}

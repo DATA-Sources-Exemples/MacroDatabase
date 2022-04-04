@@ -1,0 +1,23 @@
+{
+  "Return on Asset": {
+    "South Africa": {
+      "id": "RETASTZAM163N",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "Return on Assets for South Africa",
+      "observation_start": "2008-01-01",
+      "observation_end": "2021-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Ratio",
+      "units_short": "Ratio",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-01 07:03:01-06",
+      "popularity": 2,
+      "group_popularity": 2,
+      "notes": "This series is calculated by dividing net income before extraordinary items and taxes (as recommended in the FSI Guide) by the average value of total assets (financial and nonfinancial) over the same period. This series is an indicator of bank profitability and is intended to measure deposit takers efficiency in using their assets.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+    },
+    "path": "Database/_Curated/GDP/Return on Assets"
+  }
+}

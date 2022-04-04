@@ -1,0 +1,59 @@
+{
+  "M0": {
+    "South Africa": {
+      "id": "MYAGM0ZAM189N",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "M0 for South Africa",
+      "observation_start": "1965-03-01",
+      "observation_end": "2017-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "National Currency",
+      "units_short": "National Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2019-04-29 07:02:22-05",
+      "popularity": 3,
+      "group_popularity": 3,
+      "notes": "M0 comprises notes and coins in circulation outside the SARB and other depository corporations' deposits with the SARB in national currency.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+    },
+    "China": {
+      "id": "MYAGM0CNM189N",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "M0 for China",
+      "observation_start": "1998-12-01",
+      "observation_end": "2019-08-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "National Currency",
+      "units_short": "National Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2019-11-11 07:02:02-06",
+      "popularity": 27,
+      "group_popularity": 27,
+      "notes": "M0 comprises currency issued by the PBC less the amount held by banking institutions.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+    },
+    "Russian Federation": {
+      "id": "MYAGM0RUM189N",
+      "realtime_start": "2022-03-23",
+      "realtime_end": "2022-03-23",
+      "title": "M0 for Russian Federation",
+      "observation_start": "2000-12-01",
+      "observation_end": "2017-05-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "National Currency",
+      "units_short": "National Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2017-08-01 14:41:32-05",
+      "popularity": 6,
+      "group_popularity": 6,
+      "notes": "M0 comprises currency in circulation outside depository corporations.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+    },
+    "path": "Database/_Curated/Central Bank/M0"
+  }
+}
