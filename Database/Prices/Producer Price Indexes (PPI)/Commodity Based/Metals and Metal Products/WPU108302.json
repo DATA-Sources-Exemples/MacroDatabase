@@ -1,7 +1,7 @@
 {
   "id": "WPU108302",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Residential Electric Lighting Fixtures, Except Portable",
   "observation_start": "1981-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:03:03-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 1
 }

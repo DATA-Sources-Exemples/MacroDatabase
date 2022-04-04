@@ -1,7 +1,7 @@
 {
   "id": "WPU108907015",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Electrical Appliance Metal Job Stamping",
   "observation_start": "2010-12-01",
   "observation_end": "2017-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-05-11 08:44:12-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 4,
+  "group_popularity": 4
 }

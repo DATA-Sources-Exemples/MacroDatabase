@@ -1,7 +1,7 @@
 {
   "id": "WPS1333",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:53:24-05",
-  "popularity": 14,
-  "group_popularity": 31
+  "popularity": 11,
+  "group_popularity": 28
 }

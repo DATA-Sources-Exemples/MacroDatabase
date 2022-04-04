@@ -1,7 +1,7 @@
 {
   "id": "IR300",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Import Price Index (End Use): Passenger Cars, New and Used",
   "observation_start": "1981-06-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-16 07:37:53-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

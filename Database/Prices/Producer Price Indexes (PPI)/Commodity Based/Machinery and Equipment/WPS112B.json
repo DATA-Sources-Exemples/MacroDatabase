@@ -1,7 +1,7 @@
 {
   "id": "WPS112B",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Power Cranes, Draglines, and Shovels (Excavators) (Including Surface Mining Equipment) (Excluding Parts)",
   "observation_start": "2006-01-01",
   "observation_end": "2015-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:22-06",
-  "popularity": 4,
+  "popularity": 3,
   "group_popularity": 9
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPS033703",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade, Silk, and Other Natural Fiber (Excluding Cotton/Wool) Broadwoven Fabrics",
   "observation_start": "2010-01-01",
   "observation_end": "2012-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-02-15 13:01:05-06",
-  "popularity": 1,
-  "group_popularity": 3
+  "popularity": 3,
+  "group_popularity": 5
 }

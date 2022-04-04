@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SERA02",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Consumer Price Index for All Urban Consumers: Cable and Satellite Television Service in U.S. City Average",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:38:24-06",
-  "popularity": 9,
-  "group_popularity": 11
+  "popularity": 13,
+  "group_popularity": 16
 }

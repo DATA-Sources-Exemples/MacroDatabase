@@ -1,7 +1,7 @@
 {
   "id": "IX574",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Export Price Index (SITC): Polyacetals, other polyethers and epoxide resins, in primary forms (DISCONTINUED)",
   "observation_start": "1995-01-01",
   "observation_end": "2005-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-06-27 07:43:11-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

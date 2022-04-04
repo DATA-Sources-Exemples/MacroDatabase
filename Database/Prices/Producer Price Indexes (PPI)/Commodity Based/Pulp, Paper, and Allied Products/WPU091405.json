@@ -1,7 +1,7 @@
 {
   "id": "WPU091405",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Paperboard in Sheets and Rolls, Lined and Unlined",
   "observation_start": "1980-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:51:04-05",
-  "popularity": 62,
-  "group_popularity": 62
+  "popularity": 61,
+  "group_popularity": 61
 }

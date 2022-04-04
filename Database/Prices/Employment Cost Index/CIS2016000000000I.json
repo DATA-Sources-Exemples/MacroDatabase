@@ -1,7 +1,7 @@
 {
   "id": "CIS2016000000000I",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Employment Cost Index: Total compensation for Private industry workers in Education and health services",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:50-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Includes wages, salaries, and employer costs for employee benefits.Historical data are available beginning with March 2001."
 }

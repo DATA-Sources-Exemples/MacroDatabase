@@ -1,7 +1,7 @@
 {
   "id": "WPUIP336411",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Airplane Manufacturing Industry, Airplane Manufacturing, Excluding Capital Investment, Labor, and Imports",
   "observation_start": "2014-02-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:50:39-05",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 8,
+  "group_popularity": 8
 }

@@ -1,18 +1,18 @@
 {
   "id": "WDXRLTSA",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Home Price Index (Low Tier) for Washington D.C.",
   "observation_start": "1987-01-01",
-  "observation_end": "2021-12-01",
+  "observation_end": "2022-01-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jan 2000=100",
   "units_short": "Index Jan 2000=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-02-22 09:45:01-06",
+  "last_updated": "2022-03-29 08:03:56-05",
   "popularity": 2,
-  "group_popularity": 2,
+  "group_popularity": 4,
   "notes": "For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission."
 }

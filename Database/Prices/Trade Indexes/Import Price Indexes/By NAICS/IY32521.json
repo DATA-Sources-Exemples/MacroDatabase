@@ -1,7 +1,7 @@
 {
   "id": "IY32521",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Export Price Index (NAICS): Resin and Synthetic Rubber Manufacturing",
   "observation_start": "2014-12-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-16 07:37:43-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

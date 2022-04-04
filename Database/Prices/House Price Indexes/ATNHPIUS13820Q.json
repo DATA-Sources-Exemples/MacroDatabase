@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS13820Q",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "All-Transactions House Price Index for Birmingham-Hoover, AL (MSA)",
   "observation_start": "1978-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:03:36-06",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Estimated using sales prices and appraisal data."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU03810811",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity for Textile Products and Apparel: Men's and Boys' Knit Underwear and Nightwear (DISCONTINUED)",
   "observation_start": "2003-12-01",
   "observation_end": "2011-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-14 10:34:20-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

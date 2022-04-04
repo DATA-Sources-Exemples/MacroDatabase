@@ -1,0 +1,18 @@
+{
+  "id": "RAILPM",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
+  "title": "Rail Passenger Miles",
+  "observation_start": "2000-01-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Miles",
+  "units_short": "Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 13:07:40-06",
+  "popularity": 4,
+  "group_popularity": 20,
+  "notes": "This data is collected by the U.S. Department of Transportation, Federal Railroad Administration available here (https://safetydata.fra.dot.gov/OfficeofSafety/publicsite/Query/rrstab.aspx)."
+}

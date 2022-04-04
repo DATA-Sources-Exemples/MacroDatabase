@@ -1,7 +1,7 @@
 {
   "id": "WPU121301414",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Upholstered Household Reclining Chairs, Except Custom",
   "observation_start": "2011-12-01",
   "observation_end": "2017-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-02-15 13:51:02-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

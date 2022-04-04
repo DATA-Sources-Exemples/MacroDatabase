@@ -1,0 +1,17 @@
+{
+  "id": "CUUS0000SAE21",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
+  "title": "Consumer Price Index for All Urban Consumers: Information and Information Processing in U.S. City Average",
+  "observation_start": "1993-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Semiannual",
+  "frequency_short": "SA",
+  "units": "Index Dec 1997=100",
+  "units_short": "Index Dec 1997=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-12 07:39:40-06",
+  "popularity": 1,
+  "group_popularity": 8
+}

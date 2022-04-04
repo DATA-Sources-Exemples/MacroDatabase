@@ -1,7 +1,7 @@
 {
   "id": "WPSFD432",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Final Demand: Construction for Government",
   "observation_start": "2009-11-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:55:56-05",
   "popularity": 5,
-  "group_popularity": 7
+  "group_popularity": 8
 }

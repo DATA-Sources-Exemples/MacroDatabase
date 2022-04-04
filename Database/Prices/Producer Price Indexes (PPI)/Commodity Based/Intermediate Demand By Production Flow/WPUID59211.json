@@ -1,7 +1,7 @@
 {
   "id": "WPUID59211",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Production Flow: Total Goods Inputs to Stage 2 Intermediate Demand",
   "observation_start": "2010-04-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:00:27-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

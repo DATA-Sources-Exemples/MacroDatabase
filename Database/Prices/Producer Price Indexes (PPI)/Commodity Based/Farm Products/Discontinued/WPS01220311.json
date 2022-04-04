@@ -1,7 +1,7 @@
 {
   "id": "WPS01220311",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Farm Products: Oats (DISCONTINUED)",
   "observation_start": "1981-01-01",
   "observation_end": "1989-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:45:07-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

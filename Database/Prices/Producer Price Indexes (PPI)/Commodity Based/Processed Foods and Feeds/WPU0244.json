@@ -1,7 +1,7 @@
 {
   "id": "WPU0244",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Vegetables and Juices",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:57:54-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 5,
+  "group_popularity": 5
 }

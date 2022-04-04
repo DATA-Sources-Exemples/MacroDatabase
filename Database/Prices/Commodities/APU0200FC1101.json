@@ -1,7 +1,7 @@
 {
   "id": "APU0200FC1101",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Average Price: All Uncooked Ground Beef (Cost per Pound/453.6 Grams) in the Midwest Census Region - Urban",
   "observation_start": "1998-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:40:06-06",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "All uncooked ground beef regardless of fat content, primal source (chuck, round, sirloin, etc.), or packaging. Includes organic and non-organic.\n\nAverage consumer prices are calculated for household fuel, motor fuel, and food items from prices collected for the Consumer Price Index (CPI). Average prices are best used to measure the price level in a particular month, not to measure price change over time. It is more appropriate to use CPI index values for the particular item categories to measure price change.\n\nPrices, except for electricity, are collected monthly by BLS representatives in the 75 urban areas priced for the CPI. Electricity prices are collected for the BLS for the same 75 areas on a monthly basis by the Department of Energy using mail questionnaires. All fuel prices include applicable Federal, State, and local taxes; prices for natural gas and electricity also include fuel and purchased gas adjustments.\n\nFor more information, please visit the Bureau of Labor Statistics (https://www.bls.gov/cpi/factsheets/average-prices.htm)."
 }

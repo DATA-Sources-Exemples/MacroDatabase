@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS41620Q",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "All-Transactions House Price Index for Salt Lake City, UT (MSA)",
   "observation_start": "1977-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:02:06-06",
-  "popularity": 44,
-  "group_popularity": 44,
+  "popularity": 43,
+  "group_popularity": 43,
   "notes": "Estimated using sales prices and appraisal data."
 }

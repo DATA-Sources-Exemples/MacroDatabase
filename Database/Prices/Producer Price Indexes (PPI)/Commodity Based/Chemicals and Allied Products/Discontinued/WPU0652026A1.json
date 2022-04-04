@@ -1,7 +1,7 @@
 {
   "id": "WPU0652026A1",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Phosphoric Acid, 52-54 Percent APA (DISCONTINUED)",
   "observation_start": "1976-12-01",
   "observation_end": "1997-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-14 10:29:15-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 6,
+  "group_popularity": 6
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU09130101",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Ground Wood Paper, Uncoated",
   "observation_start": "1999-12-01",
   "observation_end": "2016-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-11-16 10:11:06-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU11440218",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity for Machinery and Equipment: Parts and Accessories for Bulk Material Handling Conveyors and Conveying Systems",
   "observation_start": "1984-06-01",
   "observation_end": "2018-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-10-10 08:03:19-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

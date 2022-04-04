@@ -1,7 +1,7 @@
 {
   "id": "IDUCSFRCONDOSMSAMID",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Idaho",
   "observation_start": "2000-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-03-17 03:31:17-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The Zillow Home Value Index or ZHVI is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.\n\nHome types captured in ZHVI include single-family residences, condos, and co-ops.\n\nA single-family home is a standalone, detached house used as a single dwelling unit, meaning a residence for one family, person or household. It has its own private entrance and direct street access, and is built on its own land, usually with additional yard space.\n\nAn owner-occupied apartment is generally referred to as a condominium or condo. The public common areas are jointly-owned and usually managed by a homeowners association (HOA).\n\nA cooperative, or co-op, is a type of housing that is actually a corporation. A co-op resembles a condominium but the unit owners do not own their unit outright. Each resident owns a share in a corporation that entitles them to live in one of the units under a lease agreement.\n\nFor more information on types of houses, check out Zillow's types of houses article (https://www.zillow.com/resources/stay-informed/types-of-houses/). For information about ZHVI, check out their user guide (https://www.zillow.com/research/zhvi-user-guide/). For more information about methodology check out this overview of ZHVI (https://www.zillow.com/research/zhvi-methodology-2019-highlights-26221/) and a deep-dive into its methodology (https://www.zillow.com/research/zhvi-methodology-2019-deep-26226/)."
 }

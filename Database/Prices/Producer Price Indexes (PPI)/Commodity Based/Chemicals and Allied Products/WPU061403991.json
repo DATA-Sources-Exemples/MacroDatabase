@@ -1,7 +1,7 @@
 {
   "id": "WPU061403991",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Fatty Acids",
   "observation_start": "2007-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:19-05",
-  "popularity": 12,
-  "group_popularity": 12
+  "popularity": 15,
+  "group_popularity": 15
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU11140311",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Farm-Type (Power Take-Off Horsepower) Wheel Tractors (2/4-Wheel Drive)(with or without Attachments)",
   "observation_start": "2002-12-01",
   "observation_end": "2019-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-03-13 10:36:03-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

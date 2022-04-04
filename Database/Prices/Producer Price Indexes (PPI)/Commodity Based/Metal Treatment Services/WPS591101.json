@@ -1,7 +1,7 @@
 {
   "id": "WPS591101",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Plating and Polishing",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 08:05:25-05",
-  "popularity": 2,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 8
 }

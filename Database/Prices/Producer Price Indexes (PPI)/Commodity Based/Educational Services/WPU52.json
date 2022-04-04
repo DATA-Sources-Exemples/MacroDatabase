@@ -1,0 +1,17 @@
+{
+  "id": "WPU52",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
+  "title": "Producer Price Index by Commodity for Educational Services: Educational Services (Partial)",
+  "observation_start": "2008-12-01",
+  "observation_end": "2017-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2008=100",
+  "units_short": "Index Dec 2008=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-12-12 10:24:45-06",
+  "popularity": 3,
+  "group_popularity": 3
+}

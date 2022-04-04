@@ -1,7 +1,7 @@
 {
   "id": "WPU5412",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Alcoholic Beverages for Immediate Consumption (Partial)",
   "observation_start": "2008-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:59:59-05",
   "popularity": 3,
-  "group_popularity": 3
+  "group_popularity": 4
 }

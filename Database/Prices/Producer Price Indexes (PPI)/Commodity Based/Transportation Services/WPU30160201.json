@@ -1,7 +1,7 @@
 {
   "id": "WPU30160201",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Transportation Services: Courier and Messenger Services, Except Air",
   "observation_start": "2009-04-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:01:34-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

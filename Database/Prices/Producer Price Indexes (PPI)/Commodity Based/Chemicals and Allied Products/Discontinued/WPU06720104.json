@@ -1,7 +1,7 @@
 {
   "id": "WPU06720104",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity for Chemicals and Allied Products: Specialty Cleaning and Sanitation Products (Including Household Bleaches) (DISCONTINUED)",
   "observation_start": "2007-06-01",
   "observation_end": "2017-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-06-13 09:10:34-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 3,
+  "group_popularity": 3
 }

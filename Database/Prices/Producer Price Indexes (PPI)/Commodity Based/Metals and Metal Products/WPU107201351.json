@@ -1,7 +1,7 @@
 {
   "id": "WPU107201351",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Ferrous Metal Pressure Tanks and Vessels (More Than 24 Inch Diameter and 5 Copper Foot Capacity)",
   "observation_start": "2011-06-01",
   "observation_end": "2015-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-10-15 08:50:45-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

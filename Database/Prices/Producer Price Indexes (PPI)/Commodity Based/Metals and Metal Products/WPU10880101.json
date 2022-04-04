@@ -1,7 +1,7 @@
 {
   "id": "WPU10880101",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Ferrous Wire Rope, Cable, Forms and Strand",
   "observation_start": "1982-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:57:37-05",
-  "popularity": 1,
-  "group_popularity": 11
+  "popularity": 3,
+  "group_popularity": 13
 }

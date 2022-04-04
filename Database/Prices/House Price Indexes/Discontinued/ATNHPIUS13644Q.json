@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS13644Q",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "All-Transactions House Price Index for Bethesda-Rockville-Frederick, MD (MSAD) (DISCONTINUED)",
   "observation_start": "1976-04-01",
   "observation_end": "2013-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-05-23 10:48:51-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million.\n\nThis series was discontinued because the source uses revised Metropolitan Statistical Areas (MSAs) as announced by the Office of Management and Budget (OMB) on February 28, 2013."
 }

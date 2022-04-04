@@ -1,0 +1,18 @@
+{
+  "id": "COREFLEXCPIM158SFRBATL",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
+  "title": "Flexible Price Consumer Price Index less Food and Energy",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change at Annual Rate",
+  "units_short": "% Chg. at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 12:01:06-06",
+  "popularity": 8,
+  "group_popularity": 32,
+  "notes": "The Flexible Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively frequently. Because flexible prices are quick to change, it assumes that when these prices are set, they incorporate less of an expectation about future inflation. Evidence suggests that this flexible price measure is more responsive to changes in the current economic environment or the level of economic slack.\n\nTo obtain more information about this release see: Michael F. Bryan, and Brent H. Meyer. \u201cAre Some Prices in the CPI More Forward Looking Than Others? We Think So.\u201d Economic Commentary (Federal Reserve Bank of Cleveland) (May 19, 2010): 1\u20136. https://doi.org/10.26509/frbc-ec-201002 (https://doi.org/10.26509/frbc-ec-201002)."
+}

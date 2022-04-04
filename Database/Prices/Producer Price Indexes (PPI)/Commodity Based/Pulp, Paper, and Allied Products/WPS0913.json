@@ -1,7 +1,7 @@
 {
   "id": "WPS0913",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Paper",
   "observation_start": "1973-01-01",
   "observation_end": "2011-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2017-02-14 09:57:20-06",
   "popularity": 5,
-  "group_popularity": 27
+  "group_popularity": 28
 }

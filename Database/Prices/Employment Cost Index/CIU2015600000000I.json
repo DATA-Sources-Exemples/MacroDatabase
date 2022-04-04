@@ -1,7 +1,7 @@
 {
   "id": "CIU2015600000000I",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Employment Cost Index: Total compensation for Private industry workers in Administrative and support and waste management and remediation services",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:52:18-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Includes wages, salaries, and employer costs for employee benefits.New series. Historical data are available beginning with March 2001."
 }

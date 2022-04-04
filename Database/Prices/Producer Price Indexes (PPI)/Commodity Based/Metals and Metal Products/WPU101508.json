@@ -1,7 +1,7 @@
 {
   "id": "WPU101508",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: High Alloy Steel Castings, Excluding Investment",
   "observation_start": "1981-06-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 07:51:21-06",
-  "popularity": 24,
-  "group_popularity": 26
+  "popularity": 23,
+  "group_popularity": 25
 }

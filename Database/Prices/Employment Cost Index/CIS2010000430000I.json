@@ -1,7 +1,7 @@
 {
   "id": "CIS2010000430000I",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Employment Cost Index: Total compensation for Private industry workers in Installation, maintenance, and repair",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:16-06",
-  "popularity": 9,
-  "group_popularity": 13,
+  "popularity": 6,
+  "group_popularity": 9,
   "notes": "See Footnote T on https://www.bls.gov/ect/cimapnote.htm"
 }

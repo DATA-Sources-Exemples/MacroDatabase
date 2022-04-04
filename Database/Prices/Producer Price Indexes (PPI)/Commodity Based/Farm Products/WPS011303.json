@@ -1,7 +1,7 @@
 {
   "id": "WPS011303",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Farm Products: Sweet Potatoes",
   "observation_start": "1975-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:53:14-05",
-  "popularity": 13,
-  "group_popularity": 13
+  "popularity": 14,
+  "group_popularity": 15
 }

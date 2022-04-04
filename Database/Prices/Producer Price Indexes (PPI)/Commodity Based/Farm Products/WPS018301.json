@@ -1,7 +1,7 @@
 {
   "id": "WPS018301",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Farm Products: Oilseeds",
   "observation_start": "1991-07-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 08:06:24-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

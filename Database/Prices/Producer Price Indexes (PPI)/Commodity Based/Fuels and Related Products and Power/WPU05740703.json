@@ -1,7 +1,7 @@
 {
   "id": "WPU05740703",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Residual Fuels (Heavy Fuel Oils, Including #5, #6, and Other Residual Fuels)",
   "observation_start": "2002-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:03:54-05",
   "popularity": 1,
-  "group_popularity": 14
+  "group_popularity": 11
 }

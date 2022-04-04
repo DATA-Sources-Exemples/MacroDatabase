@@ -1,7 +1,7 @@
 {
   "id": "PCU212322212322S",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Industry: Industrial Sand Mining: Secondary Products",
   "observation_start": "1982-06-01",
   "observation_end": "2012-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-15 08:50:57-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

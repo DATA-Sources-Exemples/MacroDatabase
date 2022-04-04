@@ -1,7 +1,7 @@
 {
   "id": "WPS119202",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity for Machinery and Equipment: Crushing, Pulverizing, and Screening Machinery (Except Parts Sold Separately)",
   "observation_start": "2006-01-01",
   "observation_end": "2019-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2019-10-08 07:54:54-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 3
 }

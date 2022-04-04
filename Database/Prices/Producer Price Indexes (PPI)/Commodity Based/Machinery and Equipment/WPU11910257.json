@@ -1,7 +1,7 @@
 {
   "id": "WPU11910257",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Rotary Oil and Gas Field Drilling Machinery and Equipment (Except Parts Sold Separately)",
   "observation_start": "2003-12-01",
   "observation_end": "2020-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-10-14 07:53:43-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

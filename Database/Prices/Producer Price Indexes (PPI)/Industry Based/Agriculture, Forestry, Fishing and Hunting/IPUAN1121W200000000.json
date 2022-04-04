@@ -1,7 +1,7 @@
 {
   "id": "IPUAN1121W200000000",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Employment for Agriculture, Forestry, Fishing and Hunting: Cattle Ranching and Farming (NAICS 1121) in the United States",
   "observation_start": "1987-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-07 23:41:55-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
 }

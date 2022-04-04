@@ -1,7 +1,7 @@
 {
   "id": "WPS064101",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Fats and Oils, Inedible",
   "observation_start": "1997-01-01",
   "observation_end": "2015-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:21-06",
-  "popularity": 1,
-  "group_popularity": 14
+  "popularity": 2,
+  "group_popularity": 12
 }

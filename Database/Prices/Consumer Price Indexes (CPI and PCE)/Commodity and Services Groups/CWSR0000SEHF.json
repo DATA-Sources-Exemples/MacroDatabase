@@ -1,7 +1,7 @@
 {
   "id": "CWSR0000SEHF",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Energy Services in U.S. City Average",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:38:57-06",
-  "popularity": 1,
-  "group_popularity": 5
+  "popularity": 3,
+  "group_popularity": 4
 }

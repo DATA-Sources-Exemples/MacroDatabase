@@ -1,7 +1,7 @@
 {
   "id": "CIS2027000000000I",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Leisure and hospitality",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:14-06",
-  "popularity": 5,
-  "group_popularity": 6,
+  "popularity": 11,
+  "group_popularity": 12,
   "notes": "Historical data are available beginning with March 2001."
 }

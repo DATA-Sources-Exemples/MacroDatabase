@@ -1,18 +1,18 @@
 {
   "id": "PONHPI00102M226N",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Purchase Only House Price Index for the Middle Atlantic Census Division",
   "observation_start": "1991-01-01",
-  "observation_end": "2021-12-01",
+  "observation_end": "2022-01-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jan 1991=100",
   "units_short": "Index Jan 1991=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-02-22 09:04:23-06",
+  "last_updated": "2022-03-29 09:05:52-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "The purchase-only index is based on more than 6 million repeat sales transactions on the same single-family properties."
 }

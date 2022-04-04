@@ -1,7 +1,7 @@
 {
   "id": "CIU1010000000000I",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Employment Cost Index: Total compensation for All Civilian workers in All industries and occupations",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:51:10-06",
-  "popularity": 14,
-  "group_popularity": 14,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "Includes wages, salaries, and employer costs for employee benefits. See Footnote C onhttps://www.bls.gov/ect/cimapnote.htm"
 }

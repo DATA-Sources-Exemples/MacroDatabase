@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SERE01",
-  "realtime_start": "2022-03-28",
-  "realtime_end": "2022-03-28",
+  "realtime_start": "2022-04-04",
+  "realtime_end": "2022-04-04",
   "title": "Consumer Price Index for All Urban Consumers: Toys in U.S. City Average",
   "observation_start": "1977-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:41:27-06",
-  "popularity": 2,
-  "group_popularity": 17
+  "popularity": 3,
+  "group_popularity": 12
 }
