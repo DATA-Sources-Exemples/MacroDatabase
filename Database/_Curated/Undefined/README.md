@@ -1,5 +1,5 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Households, Persons         |                 1 |
-| Share Prices Total          |                 1 |
-| Residential Property Prices |                 1 |
+| Households, Persons         |                 2 |
+| Share Prices Total          |                 7 |
+| Residential Property Prices |                 3 |

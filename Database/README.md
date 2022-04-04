@@ -8,25 +8,27 @@
 |                                         | Cryptocurrencies                                             | 8       |
 |                                         | Producer Price Indexes (PPI)                                 | 6,935   |
 |                                         | Health Care Indexes                                          | 58      |
-| _Structure                              | __Structure.json                                             | 0       |
+| _Structure                              | json_structure.json                                          | 0       |
+|                                         | countries.json                                               | 0       |
+|                                         | directory_structure.json                                     | 0       |
 | International Data                      | Indicators                                                   | 167     |
 |                                         | Geography                                                    | 25      |
 |                                         | Countries                                                    | 479     |
 |                                         | Institutions                                                 | 47      |
-| _Curated                                | Exchange Rate                                                | 17      |
-|                                         | Rates & Yields                                               | 22      |
-|                                         | Employment                                                   | 52      |
-|                                         | Financial Services                                           | 266     |
-|                                         | Inflation                                                    | 264     |
-|                                         | Population                                                   | 48      |
-|                                         | Production                                                   | 26      |
-|                                         | GDP                                                          | 223     |
-|                                         | Real Estate                                                  | 5       |
-|                                         | Undefined                                                    | 3       |
-|                                         | Oil & Gas                                                    | 9       |
-|                                         | Central Bank                                                 | 16      |
-|                                         | Stock Market                                                 | 4       |
-|                                         | Leading Indicators                                           | 11      |
+| _Curated                                | Exchange Rate                                                | 52      |
+|                                         | Rates & Yields                                               | 77      |
+|                                         | Employment                                                   | 259     |
+|                                         | Financial Services                                           | 570     |
+|                                         | Inflation                                                    | 644     |
+|                                         | Population                                                   | 183     |
+|                                         | Production                                                   | 145     |
+|                                         | GDP                                                          | 838     |
+|                                         | Real Estate                                                  | 28      |
+|                                         | Undefined                                                    | 12      |
+|                                         | Oil & Gas                                                    | 18      |
+|                                         | Central Bank                                                 | 65      |
+|                                         | Stock Market                                                 | 13      |
+|                                         | Leading Indicators                                           | 26      |
 | U.S. Regional Data                      | Freddie Mac Regions                                          | 6       |
 |                                         | Federal Reserve Districts                                    | 27      |
 |                                         | BLS Regions                                                  | 7       |
