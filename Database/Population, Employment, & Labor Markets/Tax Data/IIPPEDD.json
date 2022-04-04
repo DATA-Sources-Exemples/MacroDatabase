@@ -1,7 +1,7 @@
 {
   "id": "IIPPEDD",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "U.S Individual Income Tax: Personal Exemptions: Dependents",
   "observation_start": "1917-01-01",
   "observation_end": "2017-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-01-14 14:57:03-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Years represent the tax years. Starting with 1985, the personal exemption amounts reflect annual adjustments for inflation, using the U.S. Department of Labor Consumer Price Index for Urban Consumers (CPS-U). \n\n As stated by the source, personal exemption amounts were deducted at different points in the tax computation, depending on the tax year. For some of the earlier years, they were deducted only from the statutory net income subject to the basic normal tax, for other years, only from the net income subject to the surtax, and, for still other years, from the net income subject to both normal tax and surtax. For more recent years, personal exemptions have been deducted in computing taxable income, the current tax base for regular tax purposes. \n\n For more information on the specific adjustments, see Appendix to Selected Historical and Other Data Tables at https://www.irs.gov/uac/soi-tax-stats-historical-table-23"
 }

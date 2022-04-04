@@ -1,8 +1,8 @@
 {
   "PCU53125312": {
     "id": "PCU53125312",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -18,8 +18,8 @@
   },
   "PCU53215321": {
     "id": "PCU53215321",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Automotive Equipment Rental and Leasing",
     "observation_start": "2001-06-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:46-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "PCU5311253112": {
     "id": "PCU5311253112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings (Except Miniwarehouses)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -52,8 +52,8 @@
   },
   "PCU5311353113": {
     "id": "PCU5311353113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Miniwarehouse and Self Storage Units",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -69,8 +69,8 @@
   },
   "PCU5312153121": {
     "id": "PCU5312153121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -86,8 +86,8 @@
   },
   "PCU5313153131": {
     "id": "PCU5313153131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Real Estate Property Managers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -98,13 +98,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:58:09-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 3,
+    "group_popularity": 3
   },
   "PCU5321153211": {
     "id": "PCU5321153211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental and Leasing",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -120,8 +120,8 @@
   },
   "PCU5321253212": {
     "id": "PCU5321253212",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer and RV Rental and Leasing",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "PCU531120531120": {
     "id": "PCU531120531120",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -154,8 +154,8 @@
   },
   "PCU531120531120P": {
     "id": "PCU531120531120P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings: Primary Services",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:13-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "PCU531130531130": {
     "id": "PCU531130531130",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Miniwarehouse and Self-Storage Unit Operators",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -188,8 +188,8 @@
   },
   "PCU531130531130P": {
     "id": "PCU531130531130P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Miniwarehouse and Self-Storage Unit Operators: Primary Services",
     "observation_start": "1993-06-01",
     "observation_end": "2022-02-01",
@@ -200,13 +200,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:20-05",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 7,
+    "group_popularity": 7
   },
   "PCU531130531130SM": {
     "id": "PCU531130531130SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Miniwarehouse and Self-Storage Unit Operators: Other Receipts (DISCONTINUED)",
     "observation_start": "2003-12-01",
     "observation_end": "2012-03-01",
@@ -222,8 +222,8 @@
   },
   "PCU531210531210": {
     "id": "PCU531210531210",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -239,8 +239,8 @@
   },
   "PCU531210531210P": {
     "id": "PCU531210531210P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers: Primary Services",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -256,8 +256,8 @@
   },
   "PCU531311531311": {
     "id": "PCU531311531311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Residential Property Managers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -273,8 +273,8 @@
   },
   "PCU531311531311P": {
     "id": "PCU531311531311P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Residential Property Managers: Primary Services",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:58:09-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU531312531312": {
     "id": "PCU531312531312",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Nonresidential Property Managers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -307,8 +307,8 @@
   },
   "PCU531312531312P": {
     "id": "PCU531312531312P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Nonresidential Property Managers: Primary Services",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:11-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "PCU531320531320": {
     "id": "PCU531320531320",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Appraisers",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "PCU531320531320P": {
     "id": "PCU531320531320P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Appraisers: Primary Services",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -358,8 +358,8 @@
   },
   "PCU532111532111": {
     "id": "PCU532111532111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -370,13 +370,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:47-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU532111532111P": {
     "id": "PCU532111532111P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Primary Services",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "PCU532111532111SM": {
     "id": "PCU532111532111SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Other Receipts (DISCONTINUED)",
     "observation_start": "1991-12-01",
     "observation_end": "2015-12-01",
@@ -409,8 +409,8 @@
   },
   "PCU532120532120": {
     "id": "PCU532120532120",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing",
     "observation_start": "1991-06-01",
     "observation_end": "2022-02-01",
@@ -426,8 +426,8 @@
   },
   "PCU532120532120M": {
     "id": "PCU532120532120M",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing: Miscellaneous Receipts",
     "observation_start": "1991-06-01",
     "observation_end": "1998-06-01",
@@ -443,8 +443,8 @@
   },
   "PCU532120532120P": {
     "id": "PCU532120532120P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing: Primary Services",
     "observation_start": "1991-06-01",
     "observation_end": "2022-02-01",
@@ -460,8 +460,8 @@
   },
   "PCU532120532120SM": {
     "id": "PCU532120532120SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing: Other Receipts",
     "observation_start": "1991-06-01",
     "observation_end": "2022-02-01",
@@ -477,8 +477,8 @@
   },
   "PCU532412532412": {
     "id": "PCU532412532412",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Other Heavy Machinery Rental and Leasing",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -489,13 +489,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:19-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 7,
+    "group_popularity": 7
   },
   "PCU532412532412P": {
     "id": "PCU532412532412P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Other Heavy Machinery Rental and Leasing: Primary Services",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -511,8 +511,8 @@
   },
   "PCU532412532412SM": {
     "id": "PCU532412532412SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Other Heavy Machinery Rental and Leasing: Other Receipts",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -528,8 +528,8 @@
   },
   "PCU5311205311201": {
     "id": "PCU5311205311201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings: Leasing of Shopping Centers and Retail Stores",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -540,13 +540,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:58:09-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 6,
+    "group_popularity": 6
   },
   "PCU5311205311202": {
     "id": "PCU5311205311202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings: Leasing of Professional and Office Buildings",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -557,13 +557,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:58:09-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU5311205311203": {
     "id": "PCU5311205311203",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings: Leasing of Manufacturing and Industrial Buildings",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -579,8 +579,8 @@
   },
   "PCU5311205311207": {
     "id": "PCU5311205311207",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings: Leasing of Other Nonresidential Buildings and Facilities",
     "observation_start": "2002-12-01",
     "observation_end": "2022-02-01",
@@ -596,8 +596,8 @@
   },
   "PCU5311305311301": {
     "id": "PCU5311305311301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Miniwarehouse and Self-Storage Unit Operators: Miniwarehouse and Self-Storage Unit Operation",
     "observation_start": "1993-06-01",
     "observation_end": "2022-02-01",
@@ -613,8 +613,8 @@
   },
   "PCU5312105312101": {
     "id": "PCU5312105312101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers: Real Estate Brokerage, Residential Property Sales and Leases",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -630,8 +630,8 @@
   },
   "PCU5312105312106": {
     "id": "PCU5312105312106",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers: Real Estate Brokerage, Nonresidential Property Sales and Leases Including Land Sales and Leases",
     "observation_start": "2006-12-01",
     "observation_end": "2022-02-01",
@@ -642,13 +642,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:12-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "PCU5313115313111": {
     "id": "PCU5313115313111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Residential Property Managers: Residential Property Management Services",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -664,8 +664,8 @@
   },
   "PCU5313125313121": {
     "id": "PCU5313125313121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Nonresidential Property Managers: Nonresidential Property Management Services",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -681,8 +681,8 @@
   },
   "PCU5313205313201": {
     "id": "PCU5313205313201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Appraisers: Real Estate Appraisal Services",
     "observation_start": "1995-12-01",
     "observation_end": "2022-02-01",
@@ -693,13 +693,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:10-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU5321115321112": {
     "id": "PCU5321115321112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Standard Passenger Car Rental",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -715,8 +715,8 @@
   },
   "PCU5321115321113": {
     "id": "PCU5321115321113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Replacement Passenger Car Rental",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -727,13 +727,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:08-05",
-    "popularity": 30,
-    "group_popularity": 30
+    "popularity": 27,
+    "group_popularity": 27
   },
   "PCU5321205321201": {
     "id": "PCU5321205321201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing: Rental of Trucks, Truck Trailers, RVs",
     "observation_start": "1991-06-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "PCU5321205321204": {
     "id": "PCU5321205321204",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing: Leasing of Trucks, Truck Trailers, and RVs",
     "observation_start": "1991-06-01",
     "observation_end": "2022-02-01",
@@ -766,8 +766,8 @@
   },
   "PCU5321205321205": {
     "id": "PCU5321205321205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Trailer and RV Rental and Leasing: Truck Tractor Rental and/or Leasing (DISCONTINUED)",
     "observation_start": "2007-06-01",
     "observation_end": "2015-09-01",
@@ -784,8 +784,8 @@
   },
   "PCU5321205321206": {
     "id": "PCU5321205321206",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Trailer and RV Rental and Leasing: Truck Trailer, Utility Trailer, and RV Rental and/or Leasing (DISCONTINUED)",
     "observation_start": "2007-06-01",
     "observation_end": "2015-09-01",
@@ -802,8 +802,8 @@
   },
   "PCU5324125324121": {
     "id": "PCU5324125324121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Other Heavy Machinery Rental and Leasing: Construction Equipment Rental and Leasing",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -814,13 +814,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:09-05",
-    "popularity": 25,
-    "group_popularity": 25
+    "popularity": 24,
+    "group_popularity": 24
   },
   "PCU5324125324122": {
     "id": "PCU5324125324122",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Other Heavy Machinery Rental and Leasing: Oilfield and Well Drilling Equipment Rental and Leasing",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -831,13 +831,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:00-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU531210531210601": {
     "id": "PCU531210531210601",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers: Real Estate Brokerage, Nonresidential Property Sales Including Land Sales",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -848,13 +848,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:12-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU531210531210602": {
     "id": "PCU531210531210602",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Offices of Real Estate Agents and Brokers: Real Estate Brokerage, Nonresidential Property Leases Including Land Leases",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -870,8 +870,8 @@
   },
   "PCU532111532111211": {
     "id": "PCU532111532111211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Passenger Car Rental for Business Travel",
     "observation_start": "1998-12-01",
     "observation_end": "2022-02-01",
@@ -882,13 +882,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:13-05",
-    "popularity": 12,
-    "group_popularity": 12
+    "popularity": 9,
+    "group_popularity": 9
   },
   "PCU532111532111221": {
     "id": "PCU532111532111221",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Passenger Car Rental for Leisure Travel",
     "observation_start": "1998-12-01",
     "observation_end": "2022-02-01",
@@ -899,7 +899,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:19-05",
-    "popularity": 13,
-    "group_popularity": 13
+    "popularity": 17,
+    "group_popularity": 17
   }
 }

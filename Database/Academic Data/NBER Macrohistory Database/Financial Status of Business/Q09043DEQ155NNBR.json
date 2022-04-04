@@ -1,7 +1,7 @@
 {
   "id": "Q09043DEQ155NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Bankruptcy Proceedings Started Plus Bankruptcies Declined Because of Lack of Assets for Germany",
   "observation_start": "1895-01-01",
   "observation_end": "1924-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:04:33-05",
-  "popularity": 10,
+  "popularity": 12,
   "group_popularity": 13,
   "notes": "Data Is Listed As \"Summe Der Neuen Konkurse.\" Data For 1895 Were Computed By Adding \"Eroffnung Der Konkursverfahrungs\" And All Items Under \"Wegen Nichtvorhandenseins\" (See Source, 1896, I, P. 156). Only First Quarter Data Are Available For 1911 (See Source Footnote, 1913, Ii, P. 208). For 1913 Data See Source, 1913, Iii, P. 10. Beginning In The Fourth Quarter Of 1918 Alsaice-Lorraine Is Excluded; Beginning In The Fourth Quarter Of 1921 The Saar Is Also Excluded. Source: Statistisches Reichsamt, Vierteljahrshefte Zur Statistik; Monthly Figures For 1925-1932 Also From Konjunkturstatistisches Jahrbuch, 1933, P. 170.\n\nThis NBER data series q09043 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09043"
 }

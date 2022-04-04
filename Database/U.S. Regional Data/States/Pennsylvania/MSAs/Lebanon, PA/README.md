@@ -34,19 +34,19 @@
 | LDPEPRMMMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA30140        | Market Hotness: Listing Views per Property Versus the United States in Lebanon, PA (CBSA)      | 2017-08-01          | 2022-01-01        |
 | LDPEPRYYMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2018-08-01          | 2022-01-01        |
-| LEBA142EDUH               | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| LEBA142EDUHN              | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| LEBA142GOVT               | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| LEBA142GOVTN              | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| LEBA142EDUH               | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| LEBA142EDUHN              | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| LEBA142GOVT               | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| LEBA142GOVTN              | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | LEBA142LF                 | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | LEBA142LFN                | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| LEBA142MFG                | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LEBA142MFGN               | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LEBA142NA                 | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LEBA142NAN                | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| LEBA142MFG                | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LEBA142MFGN               | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LEBA142NA                 | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LEBA142NAN                | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | LEBA142PCPI               | Per Capita Personal Income in Lebanon, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| LEBA142TRAD               | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| LEBA142TRADN              | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| LEBA142TRAD               | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| LEBA142TRADN              | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | LEBA142UR                 | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | LEBA142URN                | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | LEBPOP                    | Resident Population in Lebanon, PA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -95,43 +95,43 @@
 | RPPGOOD30140              | Regional Price Parities: Goods for Lebanon, PA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH30140          | Regional Price Parities: Services: Other for Lebanon, PA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT30140         | Regional Price Parities: Services: Rents for Lebanon, PA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS42301400000000026      | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS42301400000000026      | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU42301400000000001A     | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU42301400500000001      | All Employees: Total Private in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU42301400500000001      | All Employees: Total Private in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU42301400500000001A     | All Employees: Total Private in Lebanon, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU42301400500000001SA    | All Employees: Total Private in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU42301400500000002      | Average Weekly Hours of All Employees: Total Private in Lebanon, PA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU42301400500000001SA    | All Employees: Total Private in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU42301400500000002      | Average Weekly Hours of All Employees: Total Private in Lebanon, PA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU42301400500000002A     | Average Weekly Hours of All Employees: Total Private in Lebanon, PA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU42301400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lebanon, PA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU42301400500000003      | Average Hourly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU42301400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lebanon, PA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU42301400500000003      | Average Hourly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU42301400500000003A     | Average Hourly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42301400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU42301400500000011      | Average Weekly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU42301400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU42301400500000011      | Average Weekly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU42301400500000011A     | Average Weekly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42301400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU42301400600000001      | All Employees: Goods Producing in Lebanon, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42301400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lebanon, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU42301400600000001      | All Employees: Goods Producing in Lebanon, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42301400600000001A     | All Employees: Goods Producing in Lebanon, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42301400600000001SA    | All Employees: Goods Producing in Lebanon, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42301400700000001      | All Employees: Service-Providing in Lebanon, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU42301400600000001SA    | All Employees: Goods Producing in Lebanon, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42301400700000001      | All Employees: Service-Providing in Lebanon, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU42301400700000001A     | All Employees: Service-Providing in Lebanon, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU42301400700000001SA    | All Employees: Service-Providing in Lebanon, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU42301400800000001      | All Employees: Private Service Providing in Lebanon, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU42301400700000001SA    | All Employees: Service-Providing in Lebanon, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU42301400800000001      | All Employees: Private Service Providing in Lebanon, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU42301400800000001A     | All Employees: Private Service Providing in Lebanon, PA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU42301400800000001SA    | All Employees: Private Service Providing in Lebanon, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU42301400800000001SA    | All Employees: Private Service Providing in Lebanon, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU42301403000000001A     | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU42301404000000001A     | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU42301404200000001      | All Employees: Retail Trade in Lebanon, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU42301404200000001      | All Employees: Retail Trade in Lebanon, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU42301404200000001A     | All Employees: Retail Trade in Lebanon, PA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU42301404200000001SA    | All Employees: Retail Trade in Lebanon, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU42301404200000001SA    | All Employees: Retail Trade in Lebanon, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU42301406500000001A     | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU42301409000000001A     | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU42301409091000001      | All Employees: Government: Federal Government in Lebanon, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU42301409091000001      | All Employees: Government: Federal Government in Lebanon, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU42301409091000001A     | All Employees: Federal Government in Lebanon, PA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU42301409091000001SA    | All Employees: Government: Federal Government in Lebanon, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU42301409092000001      | All Employees: Government: State Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42301409091000001SA    | All Employees: Government: Federal Government in Lebanon, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU42301409092000001      | All Employees: Government: State Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU42301409092000001A     | All Employees: State Government in Lebanon, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU42301409092000001SA    | All Employees: Government: State Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU42301409093000001      | All Employees: Government: Local Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42301409092000001SA    | All Employees: Government: State Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU42301409093000001      | All Employees: Government: Local Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU42301409093000001A     | All Employees: Local Government in Lebanon, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU42301409093000001SA    | All Employees: Government: Local Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42301409093000001SA    | All Employees: Government: Local Government in Lebanon, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA30140              | Market Hotness: Supply Score in Lebanon, PA (CBSA)                                             | 2017-08-01          | 2022-01-01        |

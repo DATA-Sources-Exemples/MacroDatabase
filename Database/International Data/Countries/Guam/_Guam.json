@@ -1,8 +1,8 @@
 {
   "ITNETUSERP2GUM": {
     "id": "ITNETUSERP2GUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Internet users for Guam",
     "observation_start": "1990-01-01",
     "observation_end": "2017-01-01",
@@ -19,8 +19,8 @@
   },
   "NYGDPPCAPKDGUM": {
     "id": "NYGDPPCAPKDGUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Constant GDP per capita for Guam",
     "observation_start": "2002-01-01",
     "observation_end": "2020-01-01",
@@ -37,8 +37,8 @@
   },
   "POPTOTGU52647NWDB": {
     "id": "POPTOTGU52647NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Population, Total for Guam",
     "observation_start": "1967-01-01",
     "observation_end": "2012-01-01",
@@ -55,8 +55,8 @@
   },
   "POPTOTGUA647NWDB": {
     "id": "POPTOTGUA647NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Population, Total for Guam",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",
@@ -73,8 +73,8 @@
   },
   "SEADTLITRZSGUM": {
     "id": "SEADTLITRZSGUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Literacy Rate, Adult Total for Guam",
     "observation_start": "1980-01-01",
     "observation_end": "1990-01-01",
@@ -91,8 +91,8 @@
   },
   "SMPOPNETMGUM": {
     "id": "SMPOPNETMGUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net migration for Guam",
     "observation_start": "1962-01-01",
     "observation_end": "2017-01-01",
@@ -109,8 +109,8 @@
   },
   "SPDYNLE00INGUM": {
     "id": "SPDYNLE00INGUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Expectancy at Birth, Total for Guam",
     "observation_start": "1960-01-01",
     "observation_end": "2019-01-01",
@@ -127,8 +127,8 @@
   },
   "SPDYNTFRTINGUM": {
     "id": "SPDYNTFRTINGUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Fertility Rate, Total for Guam",
     "observation_start": "1960-01-01",
     "observation_end": "2019-01-01",
@@ -145,8 +145,8 @@
   },
   "SPPOP65UPTOZSGUM": {
     "id": "SPPOP65UPTOZSGUM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Population ages 65 and above for Guam",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",

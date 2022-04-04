@@ -79,41 +79,41 @@
 | RPPGOOD45460              | Regional Price Parities: Goods for Terre Haute, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH45460          | Regional Price Parities: Services: Other for Terre Haute, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT45460         | Regional Price Parities: Services: Rents for Terre Haute, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS18454600000000026      | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS18454600000000026      | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU18454600000000001A     | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18454600500000001      | All Employees: Total Private in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18454600500000001      | All Employees: Total Private in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18454600500000001A     | All Employees: Total Private in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18454600500000001SA    | All Employees: Total Private in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18454600500000002      | Average Weekly Hours of All Employees: Total Private in Terre Haute, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU18454600500000001SA    | All Employees: Total Private in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18454600500000002      | Average Weekly Hours of All Employees: Total Private in Terre Haute, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU18454600500000002A     | Average Weekly Hours of All Employees: Total Private in Terre Haute, IN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18454600500000002SA    | Average Weekly Hours of All Employees: Total Private in Terre Haute, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU18454600500000003      | Average Hourly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18454600500000002SA    | Average Weekly Hours of All Employees: Total Private in Terre Haute, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18454600500000003      | Average Hourly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18454600500000003A     | Average Hourly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18454600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18454600500000011      | Average Weekly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18454600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18454600500000011      | Average Weekly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18454600500000011A     | Average Weekly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18454600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18454600600000001      | All Employees: Goods Producing in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18454600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Terre Haute, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18454600600000001      | All Employees: Goods Producing in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18454600600000001A     | All Employees: Goods Producing in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18454600600000001SA    | All Employees: Goods Producing in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18454600700000001      | All Employees: Service-Providing in Terre Haute, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU18454600600000001SA    | All Employees: Goods Producing in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18454600700000001      | All Employees: Service-Providing in Terre Haute, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU18454600700000001A     | All Employees: Service-Providing in Terre Haute, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18454600700000001SA    | All Employees: Service-Providing in Terre Haute, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU18454600800000001      | All Employees: Private Service Providing in Terre Haute, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18454600700000001SA    | All Employees: Service-Providing in Terre Haute, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18454600800000001      | All Employees: Private Service Providing in Terre Haute, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18454600800000001A     | All Employees: Private Service Providing in Terre Haute, IN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18454600800000001SA    | All Employees: Private Service Providing in Terre Haute, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18454600800000001SA    | All Employees: Private Service Providing in Terre Haute, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18454601500000001A     | All Employees: Mining, Logging, and Construction in Terre Haute, IN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU18454603000000001A     | All Employees: Manufacturing in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU18454604000000001A     | All Employees: Trade, Transportation, and Utilities in Terre Haute, IN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18454604100000001      | All Employees: Wholesale Trade in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18454604100000001      | All Employees: Wholesale Trade in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18454604100000001A     | All Employees: Wholesale Trade in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18454604100000001SA    | All Employees: Wholesale Trade in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18454604200000001      | All Employees: Retail Trade in Terre Haute, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU18454604100000001SA    | All Employees: Wholesale Trade in Terre Haute, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18454604200000001      | All Employees: Retail Trade in Terre Haute, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU18454604200000001A     | All Employees: Retail Trade in Terre Haute, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18454604200000001SA    | All Employees: Retail Trade in Terre Haute, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU18454604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Terre Haute, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18454604200000001SA    | All Employees: Retail Trade in Terre Haute, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18454604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Terre Haute, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18454604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Terre Haute, IN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18454604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Terre Haute, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18454604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Terre Haute, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18454605000000001A     | All Employees: Information in Terre Haute, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU18454605500000001A     | All Employees: Financial Activities in Terre Haute, IN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU18454606000000001A     | All Employees: Professional and Business Services in Terre Haute, IN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -121,44 +121,44 @@
 | SMU18454607000000001A     | All Employees: Leisure and Hospitality in Terre Haute, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU18454608000000001A     | All Employees: Other Services in Terre Haute, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU18454609000000001A     | All Employees: Government in Terre Haute, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18454609091000001      | All Employees: Government: Federal Government in Terre Haute, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU18454609091000001      | All Employees: Government: Federal Government in Terre Haute, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU18454609091000001A     | All Employees: Federal Government in Terre Haute, IN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU18454609091000001SA    | All Employees: Government: Federal Government in Terre Haute, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU18454609092000001      | All Employees: Government: State Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18454609091000001SA    | All Employees: Government: Federal Government in Terre Haute, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18454609092000001      | All Employees: Government: State Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18454609092000001A     | All Employees: State Government in Terre Haute, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18454609092000001SA    | All Employees: Government: State Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18454609093000001      | All Employees: Government: Local Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18454609092000001SA    | All Employees: Government: State Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18454609093000001      | All Employees: Government: Local Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18454609093000001A     | All Employees: Local Government in Terre Haute, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18454609093000001SA    | All Employees: Government: Local Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18454609093161101      | All Employees: Government: Local Government Educational Services in Terre Haute, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18454609093000001SA    | All Employees: Government: Local Government in Terre Haute, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18454609093161101      | All Employees: Government: Local Government Educational Services in Terre Haute, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU18454609093161101A     | All Employees: Local Government Educational Services in Terre Haute, IN (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU18454609093161101SA    | All Employees: Government: Local Government Educational Services in Terre Haute, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18454609093161101SA    | All Employees: Government: Local Government Educational Services in Terre Haute, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SUSCMSA45460              | Market Hotness: Supply Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| TERR418EDUH               | All Employees: Education and Health Services in Terre Haute, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| TERR418EDUHN              | All Employees: Education and Health Services in Terre Haute, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| TERR418FIRE               | All Employees: Financial Activities in Terre Haute, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| TERR418FIREN              | All Employees: Financial Activities in Terre Haute, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| TERR418GOVT               | All Employees: Government in Terre Haute, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| TERR418GOVTN              | All Employees: Government in Terre Haute, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| TERR418INFO               | All Employees: Information in Terre Haute, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| TERR418INFON              | All Employees: Information in Terre Haute, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| TERR418LEIH               | All Employees: Leisure and Hospitality in Terre Haute, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| TERR418LEIHN              | All Employees: Leisure and Hospitality in Terre Haute, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| TERR418EDUH               | All Employees: Education and Health Services in Terre Haute, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| TERR418EDUHN              | All Employees: Education and Health Services in Terre Haute, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| TERR418FIRE               | All Employees: Financial Activities in Terre Haute, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| TERR418FIREN              | All Employees: Financial Activities in Terre Haute, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| TERR418GOVT               | All Employees: Government in Terre Haute, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| TERR418GOVTN              | All Employees: Government in Terre Haute, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| TERR418INFO               | All Employees: Information in Terre Haute, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| TERR418INFON              | All Employees: Information in Terre Haute, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| TERR418LEIH               | All Employees: Leisure and Hospitality in Terre Haute, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| TERR418LEIHN              | All Employees: Leisure and Hospitality in Terre Haute, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | TERR418LF                 | Civilian Labor Force in Terre Haute, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | TERR418LFN                | Civilian Labor Force in Terre Haute, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| TERR418MFG                | All Employees: Manufacturing in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| TERR418MFGN               | All Employees: Manufacturing in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| TERR418NA                 | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| TERR418NAN                | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| TERR418NRMN               | All Employees: Mining, Logging, and Construction in Terre Haute, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| TERR418NRMNN              | All Employees: Mining, Logging, and Construction in Terre Haute, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| TERR418PBSV               | All Employees: Professional and Business Services in Terre Haute, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| TERR418PBSVN              | All Employees: Professional and Business Services in Terre Haute, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| TERR418MFG                | All Employees: Manufacturing in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| TERR418MFGN               | All Employees: Manufacturing in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| TERR418NA                 | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| TERR418NAN                | All Employees: Total Nonfarm in Terre Haute, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| TERR418NRMN               | All Employees: Mining, Logging, and Construction in Terre Haute, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| TERR418NRMNN              | All Employees: Mining, Logging, and Construction in Terre Haute, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| TERR418PBSV               | All Employees: Professional and Business Services in Terre Haute, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| TERR418PBSVN              | All Employees: Professional and Business Services in Terre Haute, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | TERR418PCPI               | Per Capita Personal Income in Terre Haute, IN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| TERR418SRVO               | All Employees: Other Services in Terre Haute, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| TERR418SRVON              | All Employees: Other Services in Terre Haute, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| TERR418TRAD               | All Employees: Trade, Transportation, and Utilities in Terre Haute, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| TERR418TRADN              | All Employees: Trade, Transportation, and Utilities in Terre Haute, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| TERR418SRVO               | All Employees: Other Services in Terre Haute, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| TERR418SRVON              | All Employees: Other Services in Terre Haute, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| TERR418TRAD               | All Employees: Trade, Transportation, and Utilities in Terre Haute, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| TERR418TRADN              | All Employees: Trade, Transportation, and Utilities in Terre Haute, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | TERR418UR                 | Unemployment Rate in Terre Haute, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | TERR418URN                | Unemployment Rate in Terre Haute, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| THEPOP                    | Resident Population in Terre Haute, IN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| THEPOP                    | Resident Population in Terre Haute, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

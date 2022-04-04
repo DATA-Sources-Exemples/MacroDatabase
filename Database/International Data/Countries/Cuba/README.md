@@ -11,19 +11,19 @@
 | COCUBA475SCEN       | Number of Identified Exporters to Cuba from Colorado                                                                   | 2004-01-01          | 2016-01-01        |
 | CTCUBA475SCEN       | Number of Identified Exporters to Cuba from Connecticut                                                                | 2002-01-01          | 2016-01-01        |
 | DCCUBA475SCEN       | Number of Identified Exporters to Cuba from District of Columbia                                                       | 2002-01-01          | 2016-01-01        |
-| DDEI01CUA156NWDB    | Bank's Net Interest Margin for Cuba                                                                                    | 2001-01-01          | 2007-01-01        |
-| DDEI03CUA156NWDB    | Bank's Non-Interest Income to Total Income for Cuba                                                                    | 2001-01-01          | 2007-01-01        |
-| DDEI04CUA156NWDB    | Bank's Overhead Costs to Total Assets for Cuba                                                                         | 2001-01-01          | 2007-01-01        |
-| DDEI05CUA156NWDB    | Bank's Return on Assets for Cuba                                                                                       | 2001-01-01          | 2007-01-01        |
-| DDEI06CUA156NWDB    | Bank's Return on Equity for Cuba                                                                                       | 2001-01-01          | 2007-01-01        |
-| DDEI07CUA156NWDB    | Bank's Cost to Income Ratio for Cuba                                                                                   | 2001-01-01          | 2007-01-01        |
-| DDOI01CUA156NWDB    | Bank Concentration for Cuba                                                                                            | 2001-01-01          | 2007-01-01        |
-| DDOI05CUA156NWDB    | Boone Indicator in Banking Market for Cuba                                                                             | 2001-01-01          | 2007-01-01        |
+| DDEI01CUA156NWDB    | Bank's Net Interest Margin for Cuba                                                                                    | 2001-01-01          | 2019-01-01        |
+| DDEI03CUA156NWDB    | Bank's Non-Interest Income to Total Income for Cuba                                                                    | 2000-01-01          | 2019-01-01        |
+| DDEI04CUA156NWDB    | Bank's Overhead Costs to Total Assets for Cuba                                                                         | 2001-01-01          | 2019-01-01        |
+| DDEI05CUA156NWDB    | Bank's Return on Assets for Cuba                                                                                       | 2001-01-01          | 2019-01-01        |
+| DDEI06CUA156NWDB    | Bank's Return on Equity for Cuba                                                                                       | 2001-01-01          | 2019-01-01        |
+| DDEI07CUA156NWDB    | Bank's Cost to Income Ratio for Cuba                                                                                   | 2000-01-01          | 2019-01-01        |
+| DDOI01CUA156NWDB    | Bank Concentration for Cuba                                                                                            | 2000-01-01          | 2019-01-01        |
+| DDOI05CUA156NWDB    | Boone Indicator in Banking Market for Cuba                                                                             | 2000-01-01          | 2014-01-01        |
 | DDOI06CUA156NWDB    | 5-Bank Asset Concentration for Cuba                                                                                    | 2001-01-01          | 2007-01-01        |
 | DDOI09CUA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Cuba                                                    | 2001-01-01          | 2007-01-01        |
-| DDOI13CUA156NWDB    | Percentage of Foreign Banks Among Total Banks for Cuba                                                                 | 2001-01-01          | 2007-01-01        |
-| DDOI14CUA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Cuba                                                     | 2005-01-01          | 2007-01-01        |
-| DDSI01CUA645NWDB    | Bank Z-Score for Cuba                                                                                                  | 2001-01-01          | 2007-01-01        |
+| DDOI13CUA156NWDB    | Percentage of Foreign Banks Among Total Banks for Cuba                                                                 | 1995-01-01          | 2013-01-01        |
+| DDOI14CUA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Cuba                                                     | 2005-01-01          | 2013-01-01        |
+| DDSI01CUA645NWDB    | Bank Z-Score for Cuba                                                                                                  | 2000-01-01          | 2019-01-01        |
 | DECUBA475SCEN       | Number of Identified Exporters to Cuba from Delaware                                                                   | 2010-01-01          | 2016-01-01        |
 | EXP2390             | U.S. Exports of Goods by F.A.S. Basis to Cuba                                                                          | 1992-01-01          | 2022-01-01        |
 | FLCUBA052SCEN       | Value of Exports to Cuba from Florida                                                                                  | 1997-01-01          | 2017-01-01        |

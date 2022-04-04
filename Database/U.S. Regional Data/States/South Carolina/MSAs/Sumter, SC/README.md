@@ -60,53 +60,53 @@
 | RPPGOOD44940              | Regional Price Parities: Goods for Sumter, SC (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH44940          | Regional Price Parities: Services: Other for Sumter, SC (MSA)                                    | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT44940         | Regional Price Parities: Services: Rents for Sumter, SC (MSA)                                    | 2008-01-01          | 2020-01-01        |
-| SMS45449400000000026      | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-04-01          | 2022-01-01        |
+| SMS45449400000000026      | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-04-01          | 2022-02-01        |
 | SMU45449400000000001A     | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU45449400500000001      | All Employees: Total Private in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU45449400500000001      | All Employees: Total Private in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | SMU45449400500000001A     | All Employees: Total Private in Sumter, SC (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU45449400500000001SA    | All Employees: Total Private in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SMU45449400500000002      | Average Weekly Hours of All Employees: Total Private in Sumter, SC (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU45449400500000001SA    | All Employees: Total Private in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SMU45449400500000002      | Average Weekly Hours of All Employees: Total Private in Sumter, SC (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU45449400500000002A     | Average Weekly Hours of All Employees: Total Private in Sumter, SC (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU45449400500000002SA    | Average Weekly Hours of All Employees: Total Private in Sumter, SC (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU45449400500000003      | Average Hourly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU45449400500000002SA    | Average Weekly Hours of All Employees: Total Private in Sumter, SC (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU45449400500000003      | Average Hourly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU45449400500000003A     | Average Hourly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU45449400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU45449400500000011      | Average Weekly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU45449400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU45449400500000011      | Average Weekly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU45449400500000011A     | Average Weekly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU45449400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU45449400600000001      | All Employees: Goods Producing in Sumter, SC (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU45449400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sumter, SC (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU45449400600000001      | All Employees: Goods Producing in Sumter, SC (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU45449400600000001A     | All Employees: Goods Producing in Sumter, SC (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU45449400600000001SA    | All Employees: Goods Producing in Sumter, SC (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU45449400700000001      | All Employees: Service-Providing in Sumter, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU45449400600000001SA    | All Employees: Goods Producing in Sumter, SC (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU45449400700000001      | All Employees: Service-Providing in Sumter, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU45449400700000001A     | All Employees: Service-Providing in Sumter, SC (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU45449400700000001SA    | All Employees: Service-Providing in Sumter, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU45449400800000001      | All Employees: Private Service Providing in Sumter, SC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU45449400700000001SA    | All Employees: Service-Providing in Sumter, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU45449400800000001      | All Employees: Private Service Providing in Sumter, SC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU45449400800000001A     | All Employees: Private Service Providing in Sumter, SC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU45449400800000001SA    | All Employees: Private Service Providing in Sumter, SC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU45449400800000001SA    | All Employees: Private Service Providing in Sumter, SC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU45449403000000001A     | All Employees: Manufacturing in Sumter, SC (MSA)                                                 | 1990-01-01          | 2021-01-01        |
 | SMU45449409000000001A     | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU45449409091000001      | All Employees: Government: Federal Government in Sumter, SC (MSA)                                | 1990-01-01          | 2022-01-01        |
+| SMU45449409091000001      | All Employees: Government: Federal Government in Sumter, SC (MSA)                                | 1990-01-01          | 2022-02-01        |
 | SMU45449409091000001A     | All Employees: Federal Government in Sumter, SC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU45449409091000001SA    | All Employees: Government: Federal Government in Sumter, SC (MSA)                                | 1990-01-01          | 2022-01-01        |
-| SMU45449409092000001      | All Employees: Government: State Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU45449409091000001SA    | All Employees: Government: Federal Government in Sumter, SC (MSA)                                | 1990-01-01          | 2022-02-01        |
+| SMU45449409092000001      | All Employees: Government: State Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU45449409092000001A     | All Employees: State Government in Sumter, SC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU45449409092000001SA    | All Employees: Government: State Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU45449409093000001      | All Employees: Government: Local Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU45449409092000001SA    | All Employees: Government: State Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU45449409093000001      | All Employees: Government: Local Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU45449409093000001A     | All Employees: Local Government in Sumter, SC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU45449409093000001SA    | All Employees: Government: Local Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SUMPOP                    | Resident Population in Sumter, SC (MSA)                                                          | 2000-01-01          | 2020-01-01        |
-| SUMT945BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-01-01        |
-| SUMT945BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-01-01        |
-| SUMT945BPPRIV             | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-01-01        |
-| SUMT945BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-01-01        |
-| SUMT945GOVT               | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SUMT945GOVTN              | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU45449409093000001SA    | All Employees: Government: Local Government in Sumter, SC (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SUMPOP                    | Resident Population in Sumter, SC (MSA)                                                          | 2000-01-01          | 2021-01-01        |
+| SUMT945BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-02-01        |
+| SUMT945BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sumter, SC (MSA) | 1993-01-01          | 2022-02-01        |
+| SUMT945BPPRIV             | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-02-01        |
+| SUMT945BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sumter, SC (MSA)                    | 1993-01-01          | 2022-02-01        |
+| SUMT945GOVT               | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SUMT945GOVTN              | All Employees: Government in Sumter, SC (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SUMT945LF                 | Civilian Labor Force in Sumter, SC (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | SUMT945LFN                | Civilian Labor Force in Sumter, SC (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SUMT945MFG                | All Employees: Manufacturing in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SUMT945MFGN               | All Employees: Manufacturing in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SUMT945NA                 | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SUMT945NAN                | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SUMT945MFG                | All Employees: Manufacturing in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SUMT945MFGN               | All Employees: Manufacturing in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SUMT945NA                 | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SUMT945NAN                | All Employees: Total Nonfarm in Sumter, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | SUMT945PCPI               | Per Capita Personal Income in Sumter, SC (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | SUMT945UR                 | Unemployment Rate in Sumter, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | SUMT945URN                | Unemployment Rate in Sumter, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |

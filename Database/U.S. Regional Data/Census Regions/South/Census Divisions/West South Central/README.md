@@ -2,10 +2,10 @@
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CIU2010000000227I     | Employment Cost Index: Total compensation for Private industry workers in the West South Central Census Division                 | 2006-01-01          | 2021-10-01        |
 | CIU2020000000227I     | Employment Cost Index: Wages and salaries for Private industry workers in the West South Central Census Division                 | 2006-01-01          | 2021-10-01        |
-| CWSCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-01-01        |
-| CWSCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-01-01        |
-| CWSCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-01-01        |
-| CWSCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-01-01        |
+| CWSCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CWSCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CWSCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-02-01        |
+| CWSCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-02-01        |
 | CWSCLF                | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-01-01        |
 | CWSCLFN               | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-01-01        |
 | CWSCPOP               | Resident Population in the West South Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |

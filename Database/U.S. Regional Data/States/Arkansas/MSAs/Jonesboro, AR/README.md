@@ -20,12 +20,12 @@
 | ENUC278640510             | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC278640510SA           | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2021-07-01        |
 | IRPD27860                 | Implicit Regional Price Deflator for Jonesboro, AR (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| JORGOVT                   | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| JORGOVTN                  | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| JORGOVT                   | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| JORGOVTN                  | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | JORLF                     | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | JORLFN                    | Civilian Labor Force in Jonesboro, AR (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| JORNA                     | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| JORNAN                    | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| JORNA                     | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| JORNAN                    | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | JORPCPI                   | Per Capita Personal Income in Jonesboro, AR (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | JORPOP                    | Resident Population in Jonesboro, AR (MSA)                                                       | 2000-01-01          | 2020-01-01        |
 | JORUR                     | Unemployment Rate in Jonesboro, AR (MSA)                                                         | 1990-01-01          | 2022-01-01        |
@@ -70,27 +70,27 @@
 | RPPGOOD27860              | Regional Price Parities: Goods for Jonesboro, AR (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH27860          | Regional Price Parities: Services: Other for Jonesboro, AR (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT27860         | Regional Price Parities: Services: Rents for Jonesboro, AR (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS05278600000000026      | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS05278600000000026      | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU05278600000000001A     | All Employees: Total Nonfarm in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU05278600500000001      | All Employees: Total Private in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU05278600500000001      | All Employees: Total Private in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU05278600500000001A     | All Employees: Total Private in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU05278600500000001SA    | All Employees: Total Private in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU05278600500000002      | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU05278600500000001SA    | All Employees: Total Private in Jonesboro, AR (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU05278600500000002      | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU05278600500000002A     | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU05278600500000002SA    | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU05278600500000003      | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU05278600500000002SA    | Average Weekly Hours of All Employees: Total Private in Jonesboro, AR (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU05278600500000003      | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU05278600500000003A     | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU05278600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU05278600500000011      | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU05278600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU05278600500000011      | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU05278600500000011A     | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU05278600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU05278600600000001      | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU05278600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Jonesboro, AR (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU05278600600000001      | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU05278600600000001A     | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU05278600600000001SA    | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU05278600700000001      | All Employees: Service-Providing in Jonesboro, AR (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU05278600600000001SA    | All Employees: Goods Producing in Jonesboro, AR (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU05278600700000001      | All Employees: Service-Providing in Jonesboro, AR (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU05278600700000001A     | All Employees: Service-Providing in Jonesboro, AR (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU05278600700000001SA    | All Employees: Service-Providing in Jonesboro, AR (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU05278600800000001      | All Employees: Private Service Providing in Jonesboro, AR (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU05278600700000001SA    | All Employees: Service-Providing in Jonesboro, AR (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU05278600800000001      | All Employees: Private Service Providing in Jonesboro, AR (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU05278600800000001A     | All Employees: Private Service Providing in Jonesboro, AR (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU05278600800000001SA    | All Employees: Private Service Providing in Jonesboro, AR (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU05278600800000001SA    | All Employees: Private Service Providing in Jonesboro, AR (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU05278609000000001A     | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2021-01-01        |

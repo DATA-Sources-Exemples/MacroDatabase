@@ -1,7 +1,7 @@
 {
   "id": "UOCDISA066MSFRBNY",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Current Unfilled Orders; Diffusion Index for New York",
   "observation_start": "2001-07-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:31:07-05",
-  "popularity": 6,
-  "group_popularity": 7,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Current Unfilled Orders reports the change in unfilled orders over the previous month for the state of New York. For more information regarding the Empire State Manufacturing Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/empire/empiresurvey_overview.html."
 }

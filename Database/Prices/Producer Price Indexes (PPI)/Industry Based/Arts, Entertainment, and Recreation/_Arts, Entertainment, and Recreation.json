@@ -1,8 +1,8 @@
 {
   "PCU71317131": {
     "id": "PCU71317131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:31-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "PCU7131171311": {
     "id": "PCU7131171311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -35,8 +35,8 @@
   },
   "PCU7139171391": {
     "id": "PCU7139171391",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:30-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 1,
+    "group_popularity": 1
   },
   "PCU7139471394": {
     "id": "PCU7139471394",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Fitness and Recreational Sports Centers",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -65,12 +65,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:30-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "PCU713110713110": {
     "id": "PCU713110713110",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -86,8 +86,8 @@
   },
   "PCU713110713110P": {
     "id": "PCU713110713110P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks: Primary Services",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -103,8 +103,8 @@
   },
   "PCU713110713110SM": {
     "id": "PCU713110713110SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks: Other Receipts",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -120,8 +120,8 @@
   },
   "PCU713910713910": {
     "id": "PCU713910713910",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -133,12 +133,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:31-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 1
   },
   "PCU713910713910P": {
     "id": "PCU713910713910P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs: Primary Services",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -154,8 +154,8 @@
   },
   "PCU713910713910SM": {
     "id": "PCU713910713910SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs: Other Receipts",
     "observation_start": "2005-12-01",
     "observation_end": "2020-04-01",
@@ -171,8 +171,8 @@
   },
   "PCU713940713940": {
     "id": "PCU713940713940",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Fitness and Recreational Sports Centers",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -183,13 +183,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:55:59-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 5,
+    "group_popularity": 5
   },
   "PCU713940713940P": {
     "id": "PCU713940713940P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Fitness and Recreational Sports Centers: Primary Services",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -205,8 +205,8 @@
   },
   "PCU713940713940SM": {
     "id": "PCU713940713940SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Fitness and Recreational Sports Centers: Other Receipts",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -222,8 +222,8 @@
   },
   "PCU7131107131101": {
     "id": "PCU7131107131101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks: Amusement and Theme Park Admissions",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:20-05",
-    "popularity": 8,
-    "group_popularity": 8
+    "popularity": 7,
+    "group_popularity": 7
   },
   "PCU7131107131102": {
     "id": "PCU7131107131102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks: Amusement and Theme Park Food and Beverage Sales",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -251,13 +251,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:44-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU7131107131103": {
     "id": "PCU7131107131103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Amusement and Theme Parks: Amusement and Theme Park Merchandise Sales, Games, and Other Services",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:31-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "PCU7139107139101": {
     "id": "PCU7139107139101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs: Membership Dues and Fees",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:27-05",
-    "popularity": 8,
-    "group_popularity": 8
+    "popularity": 5,
+    "group_popularity": 5
   },
   "PCU7139107139102": {
     "id": "PCU7139107139102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs: Greens and Guest Fees",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -307,8 +307,8 @@
   },
   "PCU7139107139103": {
     "id": "PCU7139107139103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs: Food and Beverage Sales",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -324,8 +324,8 @@
   },
   "PCU7139107139104": {
     "id": "PCU7139107139104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Golf Courses and Country Clubs: Equipment Rentals and All Other Golf Services",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "PCU7139407139401": {
     "id": "PCU7139407139401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Fitness and Recreational Sports Centers: Fitness and Recreational Facility Memberships",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -353,13 +353,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:30-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU7139407139402": {
     "id": "PCU7139407139402",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Fitness and Recreational Sports Centers: Recreational Facility Admissions, Classes, and Other Fitness Center Services",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -370,7 +370,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:06:30-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   }
 }

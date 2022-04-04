@@ -40,23 +40,23 @@
 | NEWLISCOUMM37620          | Housing Inventory: New Listing Count Month-Over-Month in Parkersburg-Vienna, WV (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY37620          | Housing Inventory: New Listing Count Year-Over-Year in Parkersburg-Vienna, WV (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | NGMP37620                 | Total Gross Domestic Product for Parkersburg-Vienna, WV (MSA)                                                       | 2001-01-01          | 2020-01-01        |
-| PARK654EDUH               | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2022-01-01        |
-| PARK654EDUHN              | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2022-01-01        |
-| PARK654GOVT               | All Employees: Government in Parkersburg-Vienna, WV (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| PARK654GOVTN              | All Employees: Government in Parkersburg-Vienna, WV (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| PARK654EDUH               | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2022-02-01        |
+| PARK654EDUHN              | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2022-02-01        |
+| PARK654GOVT               | All Employees: Government in Parkersburg-Vienna, WV (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| PARK654GOVTN              | All Employees: Government in Parkersburg-Vienna, WV (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | PARK654LF                 | Civilian Labor Force in Parkersburg-Vienna, WV (MSA)                                                                | 1990-01-01          | 2022-01-01        |
 | PARK654LFN                | Civilian Labor Force in Parkersburg-Vienna, WV (MSA)                                                                | 1990-01-01          | 2022-01-01        |
-| PARK654MFG                | All Employees: Manufacturing in Parkersburg-Vienna, WV (MSA)                                                        | 2003-01-01          | 2022-01-01        |
-| PARK654MFGN               | All Employees: Manufacturing in Parkersburg-Vienna, WV (MSA)                                                        | 2003-01-01          | 2022-01-01        |
-| PARK654NA                 | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| PARK654NAN                | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| PARK654MFG                | All Employees: Manufacturing in Parkersburg-Vienna, WV (MSA)                                                        | 2003-01-01          | 2022-02-01        |
+| PARK654MFGN               | All Employees: Manufacturing in Parkersburg-Vienna, WV (MSA)                                                        | 2003-01-01          | 2022-02-01        |
+| PARK654NA                 | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| PARK654NAN                | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | PARK654PCPI               | Per Capita Personal Income in Parkersburg-Vienna, WV (MSA)                                                          | 1969-01-01          | 2020-01-01        |
 | PARK654UR                 | Unemployment Rate in Parkersburg-Vienna, WV (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | PARK654URN                | Unemployment Rate in Parkersburg-Vienna, WV (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | PENLISCOU37620            | Housing Inventory: Pending Listing Count in Parkersburg-Vienna, WV (CBSA)                                           | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM37620          | Housing Inventory: Pending Listing Count Month-Over-Month in Parkersburg-Vienna, WV (CBSA)                          | 2017-07-01          | 2022-01-01        |
 | PENLISCOUYY37620          | Housing Inventory: Pending Listing Count Year-Over-Year in Parkersburg-Vienna, WV (CBSA)                            | 2017-07-01          | 2022-01-01        |
-| PKMPOP                    | Resident Population in Parkersburg-Vienna, WV (MSA)                                                                 | 2000-01-01          | 2020-01-01        |
+| PKMPOP                    | Resident Population in Parkersburg-Vienna, WV (MSA)                                                                 | 2000-01-01          | 2021-01-01        |
 | PRIINCCOU37620            | Housing Inventory: Price Increased Count in Parkersburg-Vienna, WV (CBSA)                                           | 2016-07-01          | 2022-01-01        |
 | PRIINCCOUMM37620          | Housing Inventory: Price Increased Count Month-Over-Month in Parkersburg-Vienna, WV (CBSA)                          | 2017-08-01          | 2020-06-01        |
 | PRIINCCOUYY37620          | Housing Inventory: Price Increased Count Year-Over-Year in Parkersburg-Vienna, WV (CBSA)                            | 2017-08-01          | 2021-05-01        |
@@ -72,38 +72,38 @@
 | RPPSERVEOTH37620          | Regional Price Parities: Services: Other for Parkersburg-Vienna, WV (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT37620         | Regional Price Parities: Services: Rents for Parkersburg-Vienna, WV (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | SMS54376200000000001      | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2018-02-01        |
-| SMS54376200000000026      | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-04-01          | 2022-01-01        |
+| SMS54376200000000026      | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-04-01          | 2022-02-01        |
 | SMU54376200000000001A     | All Employees: Total Nonfarm in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU54376200500000001      | All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU54376200500000001      | All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU54376200500000001A     | All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU54376200500000001SA    | All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU54376200500000002      | Average Weekly Hours of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                | 2007-01-01          | 2022-01-01        |
+| SMU54376200500000001SA    | All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU54376200500000002      | Average Weekly Hours of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                | 2007-01-01          | 2022-02-01        |
 | SMU54376200500000002A     | Average Weekly Hours of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                | 2007-01-01          | 2021-01-01        |
-| SMU54376200500000002SA    | Average Weekly Hours of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                | 2007-01-01          | 2022-01-01        |
-| SMU54376200500000003      | Average Hourly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-01-01        |
+| SMU54376200500000002SA    | Average Weekly Hours of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                                | 2007-01-01          | 2022-02-01        |
+| SMU54376200500000003      | Average Hourly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-02-01        |
 | SMU54376200500000003A     | Average Hourly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2021-01-01        |
-| SMU54376200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-01-01        |
-| SMU54376200500000011      | Average Weekly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-01-01        |
+| SMU54376200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-02-01        |
+| SMU54376200500000011      | Average Weekly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-02-01        |
 | SMU54376200500000011A     | Average Weekly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2021-01-01        |
-| SMU54376200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-01-01        |
-| SMU54376200600000001      | All Employees: Goods Producing in Parkersburg-Vienna, WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
+| SMU54376200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Parkersburg-Vienna, WV (MSA)                             | 2007-01-01          | 2022-02-01        |
+| SMU54376200600000001      | All Employees: Goods Producing in Parkersburg-Vienna, WV (MSA)                                                      | 1990-01-01          | 2022-02-01        |
 | SMU54376200600000001A     | All Employees: Goods Producing in Parkersburg-Vienna, WV (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU54376200600000001SA    | All Employees: Goods Producing in Parkersburg-Vienna, WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| SMU54376200700000001      | All Employees: Service-Providing in Parkersburg-Vienna, WV (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU54376200600000001SA    | All Employees: Goods Producing in Parkersburg-Vienna, WV (MSA)                                                      | 1990-01-01          | 2022-02-01        |
+| SMU54376200700000001      | All Employees: Service-Providing in Parkersburg-Vienna, WV (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU54376200700000001A     | All Employees: Service-Providing in Parkersburg-Vienna, WV (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU54376200700000001SA    | All Employees: Service-Providing in Parkersburg-Vienna, WV (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMU54376200800000001      | All Employees: Private Service Providing in Parkersburg-Vienna, WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU54376200700000001SA    | All Employees: Service-Providing in Parkersburg-Vienna, WV (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU54376200800000001      | All Employees: Private Service Providing in Parkersburg-Vienna, WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU54376200800000001A     | All Employees: Private Service Providing in Parkersburg-Vienna, WV (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU54376200800000001SA    | All Employees: Private Service Providing in Parkersburg-Vienna, WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU54376200800000001SA    | All Employees: Private Service Providing in Parkersburg-Vienna, WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU54376203000000001A     | All Employees: Manufacturing in Parkersburg-Vienna, WV (MSA)                                                        | 2003-01-01          | 2021-01-01        |
 | SMU54376206500000001A     | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2021-01-01        |
 | SMU54376209000000001A     | All Employees: Government in Parkersburg-Vienna, WV (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU54376209091000001      | All Employees: Government: Federal Government in Parkersburg-Vienna, WV (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU54376209091000001      | All Employees: Government: Federal Government in Parkersburg-Vienna, WV (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU54376209091000001A     | All Employees: Federal Government in Parkersburg-Vienna, WV (MSA)                                                   | 1990-01-01          | 2021-01-01        |
-| SMU54376209091000001SA    | All Employees: Government: Federal Government in Parkersburg-Vienna, WV (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SMU54376209092000001      | All Employees: Government: State Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU54376209091000001SA    | All Employees: Government: Federal Government in Parkersburg-Vienna, WV (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SMU54376209092000001      | All Employees: Government: State Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU54376209092000001A     | All Employees: State Government in Parkersburg-Vienna, WV (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU54376209092000001SA    | All Employees: Government: State Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-01-01        |
-| SMU54376209093000001      | All Employees: Government: Local Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU54376209092000001SA    | All Employees: Government: State Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-02-01        |
+| SMU54376209093000001      | All Employees: Government: Local Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU54376209093000001A     | All Employees: Local Government in Parkersburg-Vienna, WV (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU54376209093000001SA    | All Employees: Government: Local Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU54376209093000001SA    | All Employees: Government: Local Government in Parkersburg-Vienna, WV (MSA)                                         | 1990-01-01          | 2022-02-01        |

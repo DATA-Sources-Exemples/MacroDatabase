@@ -79,41 +79,41 @@
 | RPPGOOD48140              | Regional Price Parities: Goods for Wausau, WI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH48140          | Regional Price Parities: Services: Other for Wausau, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT48140         | Regional Price Parities: Services: Rents for Wausau, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS55481400000000026      | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS55481400000000026      | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU55481400000000001A     | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1981-01-01          | 2021-01-01        |
-| SMU55481400500000001      | All Employees: Total Private in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU55481400500000001      | All Employees: Total Private in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU55481400500000001A     | All Employees: Total Private in Wausau, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55481400500000001SA    | All Employees: Total Private in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU55481400500000002      | Average Weekly Hours of All Employees: Total Private in Wausau, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU55481400500000001SA    | All Employees: Total Private in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU55481400500000002      | Average Weekly Hours of All Employees: Total Private in Wausau, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU55481400500000002A     | Average Weekly Hours of All Employees: Total Private in Wausau, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55481400500000002SA    | Average Weekly Hours of All Employees: Total Private in Wausau, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU55481400500000003      | Average Hourly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55481400500000002SA    | Average Weekly Hours of All Employees: Total Private in Wausau, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU55481400500000003      | Average Hourly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55481400500000003A     | Average Hourly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55481400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55481400500000011      | Average Weekly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55481400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55481400500000011      | Average Weekly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55481400500000011A     | Average Weekly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55481400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55481400600000001      | All Employees: Goods Producing in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55481400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wausau, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55481400600000001      | All Employees: Goods Producing in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55481400600000001A     | All Employees: Goods Producing in Wausau, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55481400600000001SA    | All Employees: Goods Producing in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55481400700000001      | All Employees: Service-Providing in Wausau, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU55481400600000001SA    | All Employees: Goods Producing in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55481400700000001      | All Employees: Service-Providing in Wausau, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU55481400700000001A     | All Employees: Service-Providing in Wausau, WI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU55481400700000001SA    | All Employees: Service-Providing in Wausau, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU55481400800000001      | All Employees: Private Service Providing in Wausau, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55481400700000001SA    | All Employees: Service-Providing in Wausau, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU55481400800000001      | All Employees: Private Service Providing in Wausau, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55481400800000001A     | All Employees: Private Service Providing in Wausau, WI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU55481400800000001SA    | All Employees: Private Service Providing in Wausau, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55481400800000001SA    | All Employees: Private Service Providing in Wausau, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55481401500000001A     | All Employees: Mining, Logging, and Construction in Wausau, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU55481403000000001A     | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU55481404000000001A     | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU55481404100000001      | All Employees: Wholesale Trade in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55481404100000001      | All Employees: Wholesale Trade in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55481404100000001A     | All Employees: Wholesale Trade in Wausau, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55481404100000001SA    | All Employees: Wholesale Trade in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55481404200000001      | All Employees: Retail Trade in Wausau, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU55481404100000001SA    | All Employees: Wholesale Trade in Wausau, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55481404200000001      | All Employees: Retail Trade in Wausau, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU55481404200000001A     | All Employees: Retail Trade in Wausau, WI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU55481404200000001SA    | All Employees: Retail Trade in Wausau, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU55481404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wausau, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55481404200000001SA    | All Employees: Retail Trade in Wausau, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU55481404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wausau, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55481404300000001A     | All Employees: Transportation and Utilities in Wausau, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55481404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wausau, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55481404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Wausau, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55481405000000001A     | All Employees: Information in Wausau, WI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU55481405500000001A     | All Employees: Financial Activities in Wausau, WI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU55481406000000001A     | All Employees: Professional and Business Services in Wausau, WI (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -121,41 +121,41 @@
 | SMU55481407000000001A     | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU55481408000000001A     | All Employees: Other Services in Wausau, WI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU55481409000000001A     | All Employees: Government in Wausau, WI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU55481409091000001      | All Employees: Government: Federal Government in Wausau, WI (MSA)                                           | 2001-01-01          | 2022-01-01        |
+| SMU55481409091000001      | All Employees: Government: Federal Government in Wausau, WI (MSA)                                           | 2001-01-01          | 2022-02-01        |
 | SMU55481409091000001A     | All Employees: Federal Government in Wausau, WI (MSA)                                                       | 2001-01-01          | 2021-01-01        |
-| SMU55481409091000001SA    | All Employees: Government: Federal Government in Wausau, WI (MSA)                                           | 2001-01-01          | 2022-01-01        |
-| SMU55481409092000001      | All Employees: Government: State Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55481409091000001SA    | All Employees: Government: Federal Government in Wausau, WI (MSA)                                           | 2001-01-01          | 2022-02-01        |
+| SMU55481409092000001      | All Employees: Government: State Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SMU55481409092000001A     | All Employees: State Government in Wausau, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
-| SMU55481409092000001SA    | All Employees: Government: State Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
-| SMU55481409093000001      | All Employees: Government: Local Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55481409092000001SA    | All Employees: Government: State Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
+| SMU55481409093000001      | All Employees: Government: Local Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SMU55481409093000001A     | All Employees: Local Government in Wausau, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
-| SMU55481409093000001SA    | All Employees: Government: Local Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-01-01        |
+| SMU55481409093000001SA    | All Employees: Government: Local Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-02-01        |
 | SUSCMSA48140              | Market Hotness: Supply Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| WASPOP                    | Resident Population in Wausau, WI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| WAUS155EDUH               | All Employees: Education and Health Services in Wausau, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| WAUS155EDUHN              | All Employees: Education and Health Services in Wausau, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| WAUS155FIRE               | All Employees: Financial Activities in Wausau, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| WAUS155FIREN              | All Employees: Financial Activities in Wausau, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| WAUS155GOVT               | All Employees: Government in Wausau, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WAUS155GOVTN              | All Employees: Government in Wausau, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WAUS155INFO               | All Employees: Information in Wausau, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| WAUS155INFON              | All Employees: Information in Wausau, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| WAUS155LEIH               | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| WAUS155LEIHN              | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| WASPOP                    | Resident Population in Wausau, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| WAUS155EDUH               | All Employees: Education and Health Services in Wausau, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| WAUS155EDUHN              | All Employees: Education and Health Services in Wausau, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| WAUS155FIRE               | All Employees: Financial Activities in Wausau, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| WAUS155FIREN              | All Employees: Financial Activities in Wausau, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| WAUS155GOVT               | All Employees: Government in Wausau, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| WAUS155GOVTN              | All Employees: Government in Wausau, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| WAUS155INFO               | All Employees: Information in Wausau, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| WAUS155INFON              | All Employees: Information in Wausau, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| WAUS155LEIH               | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| WAUS155LEIHN              | All Employees: Leisure and Hospitality in Wausau, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | WAUS155LF                 | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | WAUS155LFN                | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| WAUS155MFG                | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WAUS155MFGN               | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WAUS155NA                 | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WAUS155NAN                | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1981-01-01          | 2022-01-01        |
-| WAUS155NRMN               | All Employees: Mining, Logging, and Construction in Wausau, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| WAUS155NRMNN              | All Employees: Mining, Logging, and Construction in Wausau, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| WAUS155PBSV               | All Employees: Professional and Business Services in Wausau, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| WAUS155PBSVN              | All Employees: Professional and Business Services in Wausau, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| WAUS155MFG                | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WAUS155MFGN               | All Employees: Manufacturing in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WAUS155NA                 | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WAUS155NAN                | All Employees: Total Nonfarm in Wausau, WI (MSA)                                                            | 1981-01-01          | 2022-02-01        |
+| WAUS155NRMN               | All Employees: Mining, Logging, and Construction in Wausau, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| WAUS155NRMNN              | All Employees: Mining, Logging, and Construction in Wausau, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| WAUS155PBSV               | All Employees: Professional and Business Services in Wausau, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| WAUS155PBSVN              | All Employees: Professional and Business Services in Wausau, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | WAUS155PCPI               | Per Capita Personal Income in Wausau, WI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| WAUS155SRVO               | All Employees: Other Services in Wausau, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| WAUS155SRVON              | All Employees: Other Services in Wausau, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| WAUS155TRAD               | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| WAUS155TRADN              | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| WAUS155SRVO               | All Employees: Other Services in Wausau, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| WAUS155SRVON              | All Employees: Other Services in Wausau, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| WAUS155TRAD               | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| WAUS155TRADN              | All Employees: Trade, Transportation, and Utilities in Wausau, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | WAUS155UR                 | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | WAUS155URN                | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |

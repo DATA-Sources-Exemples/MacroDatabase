@@ -1,8 +1,8 @@
 {
   "BSFGLV02CNQ460N": {
     "id": "BSFGLV02CNQ460N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for China (DISCONTINUED)",
     "observation_start": "2000-01-01",
     "observation_end": "2011-10-01",
@@ -19,8 +19,8 @@
   },
   "BSFGLV02MXM460N": {
     "id": "BSFGLV02MXM460N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Mexico (DISCONTINUED)",
     "observation_start": "1978-01-01",
     "observation_end": "2013-07-01",
@@ -37,8 +37,8 @@
   },
   "BSFGLV02NZQ460N": {
     "id": "BSFGLV02NZQ460N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for New Zealand (DISCONTINUED)",
     "observation_start": "1978-01-01",
     "observation_end": "2013-01-01",

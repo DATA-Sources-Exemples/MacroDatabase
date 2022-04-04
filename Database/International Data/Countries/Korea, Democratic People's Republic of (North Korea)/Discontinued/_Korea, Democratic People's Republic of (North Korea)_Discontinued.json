@@ -1,8 +1,8 @@
 {
   "DDEI01KPA156NWDB": {
     "id": "DDEI01KPA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Bank's Net Interest Margin for Democratic People's Republic of Korea (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2001-01-01",
@@ -19,8 +19,8 @@
   },
   "DDEI07KPA156NWDB": {
     "id": "DDEI07KPA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Bank's Cost to Income Ratio for Democratic People's Republic of Korea (DISCONTINUED)",
     "observation_start": "1998-01-01",
     "observation_end": "2000-01-01",
@@ -37,8 +37,8 @@
   },
   "DDSI01KPA645NWDB": {
     "id": "DDSI01KPA645NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Bank Z-Score for Democratic People's Republic of Korea (DISCONTINUED)",
     "observation_start": "1998-01-01",
     "observation_end": "2001-01-01",

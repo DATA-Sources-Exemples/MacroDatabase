@@ -1,7 +1,7 @@
 {
   "id": "A0137KUSA521NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Cotton Crop, Yield Per Acre for United States",
   "observation_start": "1866-01-01",
   "observation_end": "1951-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:48:22-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "See Also U.S.D.A.\"Special Report On Revised Estimates Of United States Cotton Acreage And Yield, 1866-1931\", May 10, 1933. Source: U.S. Department Of Agriculture, Agricultural Statistics, 1941, 1942, 1950; Crop Production: 1951 Annual Summary, December 1951; Crop Production Mimeograph Release Of Crop Reporting Board.\n\nThis NBER data series a01037k appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01037k"
 }

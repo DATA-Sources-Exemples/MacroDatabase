@@ -1,7 +1,7 @@
 {
   "id": "CP0960GBM086NEST",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Harmonized Index of Consumer Prices: Package Holidays for United Kingdom",
   "observation_start": "1996-01-01",
   "observation_end": "2020-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-12-17 07:14:05-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Harmonized Index of Consumer Prices category \"Package Holidays (09.6)\" is a classification of services that includes all inclusive holidays or tours which provide for travel, food, accommodation, guides, etc.; half-day and one-day excursion tours; and pilgrimages. This category is a subcategory of Recreational and Cultural (09) category.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

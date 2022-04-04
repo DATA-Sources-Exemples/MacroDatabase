@@ -1,8 +1,8 @@
 {
   "DDEI08CDA156NWDB": {
     "id": "DDEI08CDA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Credit to Government and State-Owned Enterprises to GDP for the Democratic Republic of the Congo (DISCONTINUED)",
     "observation_start": "1987-01-01",
     "observation_end": "2014-01-01",
@@ -19,8 +19,8 @@
   },
   "DDEI08EZA156NWDB": {
     "id": "DDEI08EZA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Credit to Government and State-Owned Enterprises to GDP for Euro Area (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "2015-01-01",
@@ -37,8 +37,8 @@
   },
   "DDEI08ROA156NWDB": {
     "id": "DDEI08ROA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Credit to Government and State-Owned Enterprises to GDP for Romania (DISCONTINUED)",
     "observation_start": "1991-01-01",
     "observation_end": "2013-01-01",
@@ -55,8 +55,8 @@
   },
   "DDEI081WA156NWDB": {
     "id": "DDEI081WA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Credit to Government and State-Owned Enterprises to GDP for World (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "2015-01-01",

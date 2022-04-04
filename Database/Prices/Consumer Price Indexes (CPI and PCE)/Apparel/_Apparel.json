@@ -1,8 +1,8 @@
 {
   "CPIAPPNS": {
     "id": "CPIAPPNS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average",
     "observation_start": "1914-12-01",
     "observation_end": "2022-02-01",
@@ -14,12 +14,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:22-06",
     "popularity": 11,
-    "group_popularity": 51
+    "group_popularity": 53
   },
   "CPIAPPSL": {
     "id": "CPIAPPSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:05-06",
-    "popularity": 50,
-    "group_popularity": 51
+    "popularity": 53,
+    "group_popularity": 53
   },
   "CUSR0000SA311": {
     "id": "CUSR0000SA311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Apparel Less Footwear in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:42-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "CUSR0000SAA1": {
     "id": "CUSR0000SAA1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Men's and Boys' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:26-06",
-    "popularity": 9,
-    "group_popularity": 10
+    "popularity": 10,
+    "group_popularity": 12
   },
   "CUSR0000SAA2": {
     "id": "CUSR0000SAA2",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Women's and Girls' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:28-06",
-    "popularity": 8,
-    "group_popularity": 9
+    "popularity": 7,
+    "group_popularity": 8
   },
   "CUSR0000SEAE": {
     "id": "CUSR0000SEAE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Footwear in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -99,12 +99,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:33-06",
     "popularity": 4,
-    "group_popularity": 17
+    "group_popularity": 14
   },
   "CUSR0000SEAF": {
     "id": "CUSR0000SEAF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Infants' and Toddlers' Apparel in U.S. City Average",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:34-06",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 3,
+    "group_popularity": 6
   },
   "CUSR0000SEGD03": {
     "id": "CUSR0000SEGD03",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Laundry and Dry Cleaning Services in U.S. City Average",
     "observation_start": "2004-01-01",
     "observation_end": "2022-02-01",
@@ -132,13 +132,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:28-06",
-    "popularity": 15,
-    "group_popularity": 16
+    "popularity": 17,
+    "group_popularity": 18
   },
   "CUUR0000SA311": {
     "id": "CUUR0000SA311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Apparel Less Footwear in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -150,12 +150,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:51-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "CUUR0000SAA1": {
     "id": "CUUR0000SAA1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Men's and Boys' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -167,12 +167,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:27-06",
     "popularity": 2,
-    "group_popularity": 10
+    "group_popularity": 12
   },
   "CUUR0000SAA2": {
     "id": "CUUR0000SAA2",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Women's and Girls' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:51-06",
     "popularity": 2,
-    "group_popularity": 9
+    "group_popularity": 8
   },
   "CUUR0000SEAE": {
     "id": "CUUR0000SEAE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Footwear in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -200,13 +200,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:24-06",
-    "popularity": 14,
-    "group_popularity": 17
+    "popularity": 12,
+    "group_popularity": 14
   },
   "CUUR0000SEAF": {
     "id": "CUUR0000SEAF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Infants' and Toddlers' Apparel in U.S. City Average",
     "observation_start": "1947-09-01",
     "observation_end": "2022-02-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:27-06",
-    "popularity": 1,
-    "group_popularity": 5
+    "popularity": 3,
+    "group_popularity": 6
   },
   "CUUR0000SEGD03": {
     "id": "CUUR0000SEGD03",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Laundry and Dry Cleaning Services in U.S. City Average",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:45-06",
-    "popularity": 2,
-    "group_popularity": 16
+    "popularity": 3,
+    "group_popularity": 18
   },
   "CWSR0000SAA": {
     "id": "CWSR0000SAA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -251,13 +251,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:40-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "CWSR0000SAA1": {
     "id": "CWSR0000SAA1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Men's and Boys' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -273,8 +273,8 @@
   },
   "CWSR0000SAA2": {
     "id": "CWSR0000SAA2",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Women's and Girls' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -290,8 +290,8 @@
   },
   "CWSR0000SEAE": {
     "id": "CWSR0000SEAE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Footwear in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -307,8 +307,8 @@
   },
   "CWSR0000SEAF": {
     "id": "CWSR0000SEAF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Infants' and Toddlers' Apparel in U.S. City Average",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -324,8 +324,8 @@
   },
   "CWUR0000SAA": {
     "id": "CWUR0000SAA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Apparel in U.S. City Average",
     "observation_start": "1914-12-01",
     "observation_end": "2022-02-01",
@@ -337,12 +337,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:25-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "CWUR0000SAA1": {
     "id": "CWUR0000SAA1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Men's and Boys' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -358,8 +358,8 @@
   },
   "CWUR0000SAA2": {
     "id": "CWUR0000SAA2",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Women's and Girls' Apparel in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -375,8 +375,8 @@
   },
   "CWUR0000SEAE": {
     "id": "CWUR0000SEAE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Footwear in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "CWUR0000SEAF": {
     "id": "CWUR0000SEAF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Infants' and Toddlers' Apparel in U.S. City Average",
     "observation_start": "1947-09-01",
     "observation_end": "2022-02-01",
@@ -409,8 +409,8 @@
   },
   "SUUR0000SAA": {
     "id": "SUUR0000SAA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Chained Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",

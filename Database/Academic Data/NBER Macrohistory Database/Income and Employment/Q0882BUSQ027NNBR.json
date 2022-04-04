@@ -1,7 +1,7 @@
 {
   "id": "Q0882BUSQ027NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Disposable Personal Income for United States",
   "observation_start": "1939-01-01",
   "observation_end": "1945-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:29:11-05",
-  "popularity": 2,
-  "group_popularity": 5,
+  "popularity": 1,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1921-1939 (2)--Original Data, 1939-1945 (3)--Seasonally Adjusted Data, 1946-1968. Source: 1939-1945 Data Are From National Income, 1954 Supplement To The Survey Of Current Business\n\nThis NBER data series q08282b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08282b"
 }

@@ -1,7 +1,7 @@
 {
   "id": "MSYEMA052SCEN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Value of Exports to Republic of Yemen from Mississippi",
   "observation_start": "2012-01-01",
   "observation_end": "2013-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-26 09:42:05-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "This data series illustrates the movement of exports from the given state to the given country. A missing observation can mean two things. First, missing observations can appear because no exports were made to the listed country that year. Secondly, it could signify a low number of exporters thus giving away proprietary data away."
 }

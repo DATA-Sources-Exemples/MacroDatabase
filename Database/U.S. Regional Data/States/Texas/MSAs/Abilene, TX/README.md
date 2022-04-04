@@ -1,35 +1,35 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ABIL148EDUH               | All Employees: Education and Health Services in Abilene, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ABIL148EDUHN              | All Employees: Education and Health Services in Abilene, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ABIL148FIRE               | All Employees: Financial Activities in Abilene, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ABIL148FIREN              | All Employees: Financial Activities in Abilene, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ABIL148GOVT               | All Employees: Government in Abilene, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ABIL148GOVTN              | All Employees: Government in Abilene, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ABIL148INFO               | All Employees: Information in Abilene, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ABIL148INFON              | All Employees: Information in Abilene, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ABIL148LEIH               | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| ABIL148LEIHN              | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| ABIL148EDUH               | All Employees: Education and Health Services in Abilene, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ABIL148EDUHN              | All Employees: Education and Health Services in Abilene, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ABIL148FIRE               | All Employees: Financial Activities in Abilene, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ABIL148FIREN              | All Employees: Financial Activities in Abilene, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ABIL148GOVT               | All Employees: Government in Abilene, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ABIL148GOVTN              | All Employees: Government in Abilene, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ABIL148INFO               | All Employees: Information in Abilene, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ABIL148INFON              | All Employees: Information in Abilene, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ABIL148LEIH               | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| ABIL148LEIHN              | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | ABIL148LF                 | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | ABIL148LFN                | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| ABIL148MFG                | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ABIL148MFGN               | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ABIL148NA                 | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ABIL148NAN                | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ABIL148NRMN               | All Employees: Mining, Logging, and Construction in Abilene, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ABIL148NRMNN              | All Employees: Mining, Logging, and Construction in Abilene, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ABIL148PBSV               | All Employees: Professional and Business Services in Abilene, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| ABIL148PBSVN              | All Employees: Professional and Business Services in Abilene, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| ABIL148MFG                | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ABIL148MFGN               | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ABIL148NA                 | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ABIL148NAN                | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ABIL148NRMN               | All Employees: Mining, Logging, and Construction in Abilene, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ABIL148NRMNN              | All Employees: Mining, Logging, and Construction in Abilene, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ABIL148PBSV               | All Employees: Professional and Business Services in Abilene, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| ABIL148PBSVN              | All Employees: Professional and Business Services in Abilene, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | ABIL148PCPI               | Per Capita Personal Income in Abilene, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| ABIL148SRVO               | All Employees: Other Services in Abilene, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ABIL148SRVON              | All Employees: Other Services in Abilene, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ABIL148TRAD               | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| ABIL148TRADN              | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ABIL148SRVO               | All Employees: Other Services in Abilene, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ABIL148SRVON              | All Employees: Other Services in Abilene, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ABIL148TRAD               | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| ABIL148TRADN              | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | ABIL148UR                 | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ABIL148URN                | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| ABISA158MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| ABISA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| ABISA175MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| ABISA158MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| ABISA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| ABISA175MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | ABISA674AFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | ABLPOP                    | Resident Population in Abilene, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
 | ACTLISCOU10180            | Housing Inventory: Active Listing Count in Abilene, TX (CBSA)                                                | 2016-07-01          | 2022-01-01        |
@@ -111,41 +111,41 @@
 | RPPGOOD10180              | Regional Price Parities: Goods for Abilene, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH10180          | Regional Price Parities: Services: Other for Abilene, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT10180         | Regional Price Parities: Services: Rents for Abilene, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48101800000000026      | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48101800000000026      | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48101800000000001A     | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48101800500000001      | All Employees: Total Private in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48101800500000001      | All Employees: Total Private in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48101800500000001A     | All Employees: Total Private in Abilene, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48101800500000001SA    | All Employees: Total Private in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48101800500000002      | Average Weekly Hours of All Employees: Total Private in Abilene, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48101800500000001SA    | All Employees: Total Private in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48101800500000002      | Average Weekly Hours of All Employees: Total Private in Abilene, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48101800500000002A     | Average Weekly Hours of All Employees: Total Private in Abilene, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48101800500000002SA    | Average Weekly Hours of All Employees: Total Private in Abilene, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48101800500000003      | Average Hourly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48101800500000002SA    | Average Weekly Hours of All Employees: Total Private in Abilene, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48101800500000003      | Average Hourly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48101800500000003A     | Average Hourly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48101800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48101800500000011      | Average Weekly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48101800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48101800500000011      | Average Weekly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48101800500000011A     | Average Weekly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48101800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48101800600000001      | All Employees: Goods Producing in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48101800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Abilene, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48101800600000001      | All Employees: Goods Producing in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48101800600000001A     | All Employees: Goods Producing in Abilene, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48101800600000001SA    | All Employees: Goods Producing in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48101800700000001      | All Employees: Service-Providing in Abilene, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48101800600000001SA    | All Employees: Goods Producing in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48101800700000001      | All Employees: Service-Providing in Abilene, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48101800700000001A     | All Employees: Service-Providing in Abilene, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48101800700000001SA    | All Employees: Service-Providing in Abilene, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48101800800000001      | All Employees: Private Service Providing in Abilene, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48101800700000001SA    | All Employees: Service-Providing in Abilene, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48101800800000001      | All Employees: Private Service Providing in Abilene, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48101800800000001A     | All Employees: Private Service Providing in Abilene, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48101800800000001SA    | All Employees: Private Service Providing in Abilene, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48101800800000001SA    | All Employees: Private Service Providing in Abilene, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48101801500000001A     | All Employees: Mining, Logging, and Construction in Abilene, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48101803000000001A     | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48101804000000001A     | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48101804100000001      | All Employees: Wholesale Trade in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48101804100000001      | All Employees: Wholesale Trade in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48101804100000001A     | All Employees: Wholesale Trade in Abilene, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48101804100000001SA    | All Employees: Wholesale Trade in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48101804200000001      | All Employees: Retail Trade in Abilene, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48101804100000001SA    | All Employees: Wholesale Trade in Abilene, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48101804200000001      | All Employees: Retail Trade in Abilene, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48101804200000001A     | All Employees: Retail Trade in Abilene, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48101804200000001SA    | All Employees: Retail Trade in Abilene, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48101804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Abilene, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48101804200000001SA    | All Employees: Retail Trade in Abilene, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48101804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Abilene, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48101804300000001A     | All Employees: Transportation and Utilities in Abilene, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48101804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Abilene, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48101804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Abilene, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48101805000000001A     | All Employees: Information in Abilene, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48101805500000001A     | All Employees: Financial Activities in Abilene, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48101806000000001A     | All Employees: Professional and Business Services in Abilene, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -153,13 +153,13 @@
 | SMU48101807000000001A     | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48101808000000001A     | All Employees: Other Services in Abilene, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48101809000000001A     | All Employees: Government in Abilene, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48101809091000001      | All Employees: Government: Federal Government in Abilene, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48101809091000001      | All Employees: Government: Federal Government in Abilene, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48101809091000001A     | All Employees: Federal Government in Abilene, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48101809091000001SA    | All Employees: Government: Federal Government in Abilene, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48101809092000001      | All Employees: Government: State Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48101809091000001SA    | All Employees: Government: Federal Government in Abilene, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48101809092000001      | All Employees: Government: State Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48101809092000001A     | All Employees: State Government in Abilene, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48101809092000001SA    | All Employees: Government: State Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48101809093000001      | All Employees: Government: Local Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48101809092000001SA    | All Employees: Government: State Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48101809093000001      | All Employees: Government: Local Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48101809093000001A     | All Employees: Local Government in Abilene, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48101809093000001SA    | All Employees: Government: Local Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48101809093000001SA    | All Employees: Government: Local Government in Abilene, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA10180              | Market Hotness: Supply Score in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

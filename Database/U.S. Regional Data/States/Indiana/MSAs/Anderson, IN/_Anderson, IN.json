@@ -1,8 +1,8 @@
 {
   "ANDE318LF": {
     "id": "ANDE318LF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Civilian Labor Force in Anderson, IN (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2014-12-01",
@@ -18,8 +18,8 @@
   },
   "ANDE318UR": {
     "id": "ANDE318UR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Unemployment Rate in Anderson, IN (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2014-12-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Smoothed Seasonally Adjusted",
     "seasonal_adjustment_short": "SSA",
     "last_updated": "2015-02-04 11:12:34-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "ANIPOP": {
     "id": "ANIPOP",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Resident Population in Anderson, IN (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2009-01-01",
@@ -53,8 +53,8 @@
   },
   "PATENTCBSA111300": {
     "id": "PATENTCBSA111300",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Granted Utility Patents Originating in Anderson, IN (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",

@@ -38,32 +38,32 @@
 | MEDSQUFEE34620            | Housing Inventory: Median Home Size in Square Feet in Muncie, IN (CBSA)                                     | 2016-07-01          | 2022-01-01        |
 | MEDSQUFEEMM34620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Muncie, IN (CBSA)                    | 2017-07-01          | 2022-01-01        |
 | MEDSQUFEEYY34620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Muncie, IN (CBSA)                      | 2017-07-01          | 2022-01-01        |
-| MUNC618EDUH               | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MUNC618EDUHN              | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MUNC618FIRE               | All Employees: Financial Activities in Muncie, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MUNC618FIREN              | All Employees: Financial Activities in Muncie, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MUNC618GOVT               | All Employees: Government in Muncie, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MUNC618GOVTN              | All Employees: Government in Muncie, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MUNC618INFO               | All Employees: Information in Muncie, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MUNC618INFON              | All Employees: Information in Muncie, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MUNC618LEIH               | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| MUNC618LEIHN              | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| MUNC618EDUH               | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MUNC618EDUHN              | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MUNC618FIRE               | All Employees: Financial Activities in Muncie, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MUNC618FIREN              | All Employees: Financial Activities in Muncie, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MUNC618GOVT               | All Employees: Government in Muncie, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MUNC618GOVTN              | All Employees: Government in Muncie, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MUNC618INFO               | All Employees: Information in Muncie, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MUNC618INFON              | All Employees: Information in Muncie, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MUNC618LEIH               | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| MUNC618LEIHN              | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | MUNC618LF                 | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | MUNC618LFN                | Civilian Labor Force in Muncie, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| MUNC618MFG                | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MUNC618MFGN               | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MUNC618NA                 | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MUNC618NAN                | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1960-01-01          | 2022-01-01        |
-| MUNC618NRMN               | All Employees: Mining, Logging, and Construction in Muncie, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MUNC618NRMNN              | All Employees: Mining, Logging, and Construction in Muncie, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| MUNC618MFG                | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MUNC618MFGN               | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MUNC618NA                 | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MUNC618NAN                | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1960-01-01          | 2022-02-01        |
+| MUNC618NRMN               | All Employees: Mining, Logging, and Construction in Muncie, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MUNC618NRMNN              | All Employees: Mining, Logging, and Construction in Muncie, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | MUNC618PCPI               | Per Capita Personal Income in Muncie, IN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| MUNC618SRVO               | All Employees: Other Services in Muncie, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MUNC618SRVON              | All Employees: Other Services in Muncie, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MUNC618TRAD               | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| MUNC618TRADN              | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| MUNC618SRVO               | All Employees: Other Services in Muncie, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MUNC618SRVON              | All Employees: Other Services in Muncie, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MUNC618TRAD               | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| MUNC618TRADN              | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | MUNC618UR                 | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | MUNC618URN                | Unemployment Rate in Muncie, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| MUNPOP                    | Resident Population in Muncie, IN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| MUNPOP                    | Resident Population in Muncie, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34620            | Housing Inventory: New Listing Count in Muncie, IN (CBSA)                                                   | 2016-07-01          | 2022-01-01        |
 | NEWLISCOUMM34620          | Housing Inventory: New Listing Count Month-Over-Month in Muncie, IN (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY34620          | Housing Inventory: New Listing Count Year-Over-Year in Muncie, IN (CBSA)                                    | 2017-07-01          | 2022-01-01        |
@@ -86,62 +86,62 @@
 | RPPGOOD34620              | Regional Price Parities: Goods for Muncie, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH34620          | Regional Price Parities: Services: Other for Muncie, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT34620         | Regional Price Parities: Services: Rents for Muncie, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS18346200000000026      | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS18346200000000026      | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU18346200000000001A     | All Employees: Total Nonfarm in Muncie, IN (MSA)                                                            | 1960-01-01          | 2021-01-01        |
-| SMU18346200500000001      | All Employees: Total Private in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18346200500000001      | All Employees: Total Private in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18346200500000001A     | All Employees: Total Private in Muncie, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18346200500000001SA    | All Employees: Total Private in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18346200500000002      | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU18346200500000001SA    | All Employees: Total Private in Muncie, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18346200500000002      | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU18346200500000002A     | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18346200500000002SA    | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU18346200500000003      | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18346200500000002SA    | Average Weekly Hours of All Employees: Total Private in Muncie, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18346200500000003      | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18346200500000003A     | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18346200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18346200500000011      | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18346200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18346200500000011      | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18346200500000011A     | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18346200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18346200600000001      | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18346200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Muncie, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18346200600000001      | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18346200600000001A     | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18346200600000001SA    | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18346200700000001      | All Employees: Service-Providing in Muncie, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU18346200600000001SA    | All Employees: Goods Producing in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18346200700000001      | All Employees: Service-Providing in Muncie, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU18346200700000001A     | All Employees: Service-Providing in Muncie, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18346200700000001SA    | All Employees: Service-Providing in Muncie, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU18346200800000001      | All Employees: Private Service Providing in Muncie, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18346200700000001SA    | All Employees: Service-Providing in Muncie, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18346200800000001      | All Employees: Private Service Providing in Muncie, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18346200800000001A     | All Employees: Private Service Providing in Muncie, IN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18346200800000001SA    | All Employees: Private Service Providing in Muncie, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18346200800000001SA    | All Employees: Private Service Providing in Muncie, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18346201500000001A     | All Employees: Mining, Logging, and Construction in Muncie, IN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU18346203000000001A     | All Employees: Manufacturing in Muncie, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU18346204000000001A     | All Employees: Trade, Transportation, and Utilities in Muncie, IN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18346204100000001      | All Employees: Wholesale Trade in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18346204100000001      | All Employees: Wholesale Trade in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18346204100000001A     | All Employees: Wholesale Trade in Muncie, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18346204100000001SA    | All Employees: Wholesale Trade in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18346204200000001      | All Employees: Retail Trade in Muncie, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU18346204100000001SA    | All Employees: Wholesale Trade in Muncie, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18346204200000001      | All Employees: Retail Trade in Muncie, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU18346204200000001A     | All Employees: Retail Trade in Muncie, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18346204200000001SA    | All Employees: Retail Trade in Muncie, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU18346204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Muncie, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18346204200000001SA    | All Employees: Retail Trade in Muncie, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18346204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Muncie, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18346204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Muncie, IN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18346204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Muncie, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18346204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Muncie, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18346205000000001A     | All Employees: Information in Muncie, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU18346205500000001A     | All Employees: Financial Activities in Muncie, IN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU18346206500000001A     | All Employees: Education and Health Services in Muncie, IN (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU18346207000000001A     | All Employees: Leisure and Hospitality in Muncie, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU18346208000000001A     | All Employees: Other Services in Muncie, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU18346209000000001A     | All Employees: Government in Muncie, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18346209092000001      | All Employees: Government: State Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18346209092000001      | All Employees: Government: State Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18346209092000001A     | All Employees: State Government in Muncie, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18346209092000001SA    | All Employees: Government: State Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18346209092161101      | All Employees: Government: State Government Educational Services in Muncie, IN (MSA)                        | 2005-01-01          | 2022-01-01        |
+| SMU18346209092000001SA    | All Employees: Government: State Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18346209092161101      | All Employees: Government: State Government Educational Services in Muncie, IN (MSA)                        | 2005-01-01          | 2022-02-01        |
 | SMU18346209092161101A     | All Employees: State Government Educational Services in Muncie, IN (MSA)                                    | 2005-01-01          | 2021-01-01        |
-| SMU18346209092161101SA    | All Employees: Government: State Government Educational Services in Muncie, IN (MSA)                        | 2005-01-01          | 2022-01-01        |
-| SMU18346209092200001      | All Employees: Government: State Government Excluding Education in Muncie, IN (MSA)                         | 2005-01-01          | 2022-01-01        |
+| SMU18346209092161101SA    | All Employees: Government: State Government Educational Services in Muncie, IN (MSA)                        | 2005-01-01          | 2022-02-01        |
+| SMU18346209092200001      | All Employees: Government: State Government Excluding Education in Muncie, IN (MSA)                         | 2005-01-01          | 2022-02-01        |
 | SMU18346209092200001A     | All Employees: Government: State Government Excluding Education in Muncie, IN (MSA)                         | 2005-01-01          | 2021-01-01        |
-| SMU18346209092200001SA    | All Employees: Government: State Government Excluding Education in Muncie, IN (MSA)                         | 2005-01-01          | 2022-01-01        |
-| SMU18346209093000001      | All Employees: Government: Local Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18346209092200001SA    | All Employees: Government: State Government Excluding Education in Muncie, IN (MSA)                         | 2005-01-01          | 2022-02-01        |
+| SMU18346209093000001      | All Employees: Government: Local Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18346209093000001A     | All Employees: Local Government in Muncie, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18346209093000001SA    | All Employees: Government: Local Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18346209093161101      | All Employees: Government: Local Government Educational Services in Muncie, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18346209093000001SA    | All Employees: Government: Local Government in Muncie, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18346209093161101      | All Employees: Government: Local Government Educational Services in Muncie, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU18346209093161101A     | All Employees: Local Government Educational Services in Muncie, IN (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU18346209093161101SA    | All Employees: Government: Local Government Educational Services in Muncie, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU18346209093200001      | All Employees: Government: Local Government Excluding Educational Services in Muncie, IN (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU18346209093161101SA    | All Employees: Government: Local Government Educational Services in Muncie, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU18346209093200001      | All Employees: Government: Local Government Excluding Educational Services in Muncie, IN (MSA)              | 1990-01-01          | 2022-02-01        |
 | SMU18346209093200001A     | All Employees: Local Government Excluding Educational Services in Muncie, IN (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU18346209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Muncie, IN (MSA)              | 1990-01-01          | 2022-01-01        |
+| SMU18346209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Muncie, IN (MSA)              | 1990-01-01          | 2022-02-01        |

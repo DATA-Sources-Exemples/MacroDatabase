@@ -1,8 +1,8 @@
 {
   "JTS00MWLDL": {
     "id": "JTS00MWLDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in Midwest Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -18,8 +18,8 @@
   },
   "JTS00MWLDR": {
     "id": "JTS00MWLDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in Midwest Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -35,8 +35,8 @@
   },
   "JTS00NELDL": {
     "id": "JTS00NELDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in Northeast Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -52,8 +52,8 @@
   },
   "JTS00NELDR": {
     "id": "JTS00NELDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in Northeast Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -69,8 +69,8 @@
   },
   "JTS00SOLDL": {
     "id": "JTS00SOLDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in South Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -86,8 +86,8 @@
   },
   "JTS00SOLDR": {
     "id": "JTS00SOLDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in South Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -103,8 +103,8 @@
   },
   "JTS00WELDL": {
     "id": "JTS00WELDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in West Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -120,8 +120,8 @@
   },
   "JTS00WELDR": {
     "id": "JTS00WELDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm in West Census Region",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
   },
   "JTS1000LDL": {
     "id": "JTS1000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:11-06",
-    "popularity": 12,
-    "group_popularity": 15
+    "popularity": 11,
+    "group_popularity": 13
   },
   "JTS1000LDR": {
     "id": "JTS1000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:20-06",
-    "popularity": 5,
-    "group_popularity": 15
+    "popularity": 3,
+    "group_popularity": 13
   },
   "JTS9000LDL": {
     "id": "JTS9000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -188,8 +188,8 @@
   },
   "JTS9000LDR": {
     "id": "JTS9000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -205,8 +205,8 @@
   },
   "JTSLDL": {
     "id": "JTSLDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:04-06",
-    "popularity": 43,
-    "group_popularity": 45
+    "popularity": 41,
+    "group_popularity": 43
   },
   "JTSLDR": {
     "id": "JTSLDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:09-06",
-    "popularity": 18,
-    "group_popularity": 45
+    "popularity": 11,
+    "group_popularity": 43
   },
   "JTU1000LDL": {
     "id": "JTU1000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -251,13 +251,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:31-06",
-    "popularity": 2,
-    "group_popularity": 15
+    "popularity": 1,
+    "group_popularity": 13
   },
   "JTU1000LDR": {
     "id": "JTU1000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -269,12 +269,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:04-06",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 13
   },
   "JTU2300LDL": {
     "id": "JTU2300LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:18-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 5,
+    "group_popularity": 6
   },
   "JTU2300LDR": {
     "id": "JTU2300LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -303,12 +303,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:02-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 6
   },
   "JTU3000LDL": {
     "id": "JTU3000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:04-06",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 8,
+    "group_popularity": 8
   },
   "JTU3000LDR": {
     "id": "JTU3000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -337,12 +337,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:00-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 8
   },
   "JTU3200LDL": {
     "id": "JTU3200LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -358,8 +358,8 @@
   },
   "JTU3200LDR": {
     "id": "JTU3200LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -375,8 +375,8 @@
   },
   "JTU3400LDL": {
     "id": "JTU3400LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -392,8 +392,8 @@
   },
   "JTU3400LDR": {
     "id": "JTU3400LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -409,8 +409,8 @@
   },
   "JTU4000LDL": {
     "id": "JTU4000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -426,8 +426,8 @@
   },
   "JTU4000LDR": {
     "id": "JTU4000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -443,8 +443,8 @@
   },
   "JTU4200LDL": {
     "id": "JTU4200LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Wholesale Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -460,8 +460,8 @@
   },
   "JTU4200LDR": {
     "id": "JTU4200LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Wholesale Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -477,8 +477,8 @@
   },
   "JTU4400LDL": {
     "id": "JTU4400LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -489,13 +489,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:36-06",
-    "popularity": 2,
-    "group_popularity": 4
+    "popularity": 4,
+    "group_popularity": 5
   },
   "JTU4400LDR": {
     "id": "JTU4400LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -506,13 +506,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:51-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 5
   },
   "JTU5100LDL": {
     "id": "JTU5100LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Information",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -528,8 +528,8 @@
   },
   "JTU5100LDR": {
     "id": "JTU5100LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Information",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -545,8 +545,8 @@
   },
   "JTU5200LDL": {
     "id": "JTU5200LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Finance and Insurance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -558,12 +558,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:46-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "JTU5200LDR": {
     "id": "JTU5200LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Finance and Insurance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -574,13 +574,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:46-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "JTU5300LDL": {
     "id": "JTU5300LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Real Estate and Rental and Leasing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -596,8 +596,8 @@
   },
   "JTU5300LDR": {
     "id": "JTU5300LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Real Estate and Rental and Leasing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -613,8 +613,8 @@
   },
   "JTU6000LDL": {
     "id": "JTU6000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -630,8 +630,8 @@
   },
   "JTU6000LDR": {
     "id": "JTU6000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -647,8 +647,8 @@
   },
   "JTU6100LDL": {
     "id": "JTU6100LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Educational Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -664,8 +664,8 @@
   },
   "JTU6100LDR": {
     "id": "JTU6100LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Educational Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -681,8 +681,8 @@
   },
   "JTU6200LDL": {
     "id": "JTU6200LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -694,12 +694,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:42-06",
     "popularity": 2,
-    "group_popularity": 3
+    "group_popularity": 2
   },
   "JTU6200LDR": {
     "id": "JTU6200LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -711,12 +711,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:39-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 2
   },
   "JTU7000LDL": {
     "id": "JTU7000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -727,13 +727,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:16-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 5,
+    "group_popularity": 6
   },
   "JTU7000LDR": {
     "id": "JTU7000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -745,12 +745,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:37-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 6
   },
   "JTU7100LDL": {
     "id": "JTU7100LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -766,8 +766,8 @@
   },
   "JTU7100LDR": {
     "id": "JTU7100LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -783,8 +783,8 @@
   },
   "JTU7200LDL": {
     "id": "JTU7200LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -795,13 +795,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:19-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 5,
+    "group_popularity": 5
   },
   "JTU7200LDR": {
     "id": "JTU7200LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -813,12 +813,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:44-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "JTU8100LDL": {
     "id": "JTU8100LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Other Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -834,8 +834,8 @@
   },
   "JTU8100LDR": {
     "id": "JTU8100LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Other Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -851,8 +851,8 @@
   },
   "JTU9000LDL": {
     "id": "JTU9000LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -868,8 +868,8 @@
   },
   "JTU9000LDR": {
     "id": "JTU9000LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -885,8 +885,8 @@
   },
   "JTU9100LDL": {
     "id": "JTU9100LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Federal",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -902,8 +902,8 @@
   },
   "JTU9100LDR": {
     "id": "JTU9100LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Federal",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -919,8 +919,8 @@
   },
   "JTU9200LDL": {
     "id": "JTU9200LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -936,8 +936,8 @@
   },
   "JTU9200LDR": {
     "id": "JTU9200LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -953,8 +953,8 @@
   },
   "JTU110099LDL": {
     "id": "JTU110099LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Mining and Logging",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -970,8 +970,8 @@
   },
   "JTU110099LDR": {
     "id": "JTU110099LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Mining and Logging",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -987,8 +987,8 @@
   },
   "JTU480099LDL": {
     "id": "JTU480099LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Transportation, Warehousing, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1004,8 +1004,8 @@
   },
   "JTU480099LDR": {
     "id": "JTU480099LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Transportation, Warehousing, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1016,13 +1016,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:50-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "JTU510099LDL": {
     "id": "JTU510099LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Financial Activities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1038,8 +1038,8 @@
   },
   "JTU510099LDR": {
     "id": "JTU510099LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Financial Activities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1055,8 +1055,8 @@
   },
   "JTU540099LDL": {
     "id": "JTU540099LDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1072,8 +1072,8 @@
   },
   "JTU540099LDR": {
     "id": "JTU540099LDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1089,8 +1089,8 @@
   },
   "JTULDL": {
     "id": "JTULDL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1101,13 +1101,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:17-06",
-    "popularity": 3,
-    "group_popularity": 45
+    "popularity": 5,
+    "group_popularity": 43
   },
   "JTULDR": {
     "id": "JTULDR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Layoffs and Discharges: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1118,7 +1118,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:21-06",
-    "popularity": 3,
-    "group_popularity": 45
+    "popularity": 2,
+    "group_popularity": 43
   }
 }

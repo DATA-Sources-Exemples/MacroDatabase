@@ -1,8 +1,8 @@
 {
   "SFTPAGRM158SFRBSF": {
     "id": "SFTPAGRM158SFRBSF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "San Francisco Tech Pulse (DISCONTINUED)",
     "observation_start": "1971-05-01",
     "observation_end": "2020-03-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-04-13 07:39:07-05",
-    "popularity": 5,
-    "group_popularity": 25,
+    "popularity": 6,
+    "group_popularity": 22,
     "notes": "The Tech Pulse release has been discontinued and will no longer update.\r\n\r\nThe Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse website  (http://www.frbsf.org/economic-research/tech-pulse/ )at the Federal Reserve Bank of San Francisco."
   },
   "SFTPGR12M159SFRBSF": {
     "id": "SFTPGR12M159SFRBSF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "San Francisco Tech Pulse (DISCONTINUED)",
     "observation_start": "1972-04-01",
     "observation_end": "2020-03-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-04-13 07:39:09-05",
     "popularity": 3,
-    "group_popularity": 25,
+    "group_popularity": 22,
     "notes": "The Tech Pulse release has been discontinued and will no longer update.\r\n\r\nThe Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse website  (http://www.frbsf.org/economic-research/tech-pulse/ )at the Federal Reserve Bank of San Francisco."
   },
   "SFTPGRM157SFRBSF": {
     "id": "SFTPGRM157SFRBSF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "San Francisco Tech Pulse (DISCONTINUED)",
     "observation_start": "1971-05-01",
     "observation_end": "2020-03-01",
@@ -50,13 +50,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-04-13 07:39:12-05",
     "popularity": 2,
-    "group_popularity": 25,
+    "group_popularity": 22,
     "notes": "The Tech Pulse release has been discontinued and will no longer update.\r\n\r\nThe Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse website  (http://www.frbsf.org/economic-research/tech-pulse/ )at the Federal Reserve Bank of San Francisco."
   },
   "SFTPINDM114SFRBSF": {
     "id": "SFTPINDM114SFRBSF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "San Francisco Tech Pulse (DISCONTINUED)",
     "observation_start": "1971-04-01",
     "observation_end": "2020-03-01",
@@ -67,8 +67,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-04-13 07:39:02-05",
-    "popularity": 20,
-    "group_popularity": 25,
+    "popularity": 18,
+    "group_popularity": 22,
     "notes": "The Tech Pulse release has been discontinued and will no longer update. \r\n\r\nThe Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse website  (http://www.frbsf.org/economic-research/tech-pulse/ )at the Federal Reserve Bank of San Francisco."
   }
 }

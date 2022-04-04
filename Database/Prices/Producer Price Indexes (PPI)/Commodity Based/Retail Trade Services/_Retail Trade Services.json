@@ -1,8 +1,8 @@
 {
   "WPS58D": {
     "id": "WPS58D",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:25-05",
-    "popularity": 2,
-    "group_popularity": 6
+    "popularity": 1,
+    "group_popularity": 5
   },
   "WPS58D1": {
     "id": "WPS58D1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -31,12 +31,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:25-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "WPS58D101": {
     "id": "WPS58D101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -48,12 +48,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:25-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "WPS581": {
     "id": "WPS581",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:01-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 4
   },
   "WPS583": {
     "id": "WPS583",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Jewelry, Footwear, and Accessories Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -82,12 +82,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:00-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 4
   },
   "WPS5811": {
     "id": "WPS5811",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -98,13 +98,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:25-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 4
   },
   "WPS5831": {
     "id": "WPS5831",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Jewelry, Footwear, and Accessories Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:25-05",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 3,
+    "group_popularity": 4
   },
   "WPS583101": {
     "id": "WPS583101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Footwear, and Accessories Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPS583102": {
     "id": "WPS583102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Jewelry Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2015-12-01",
@@ -154,8 +154,8 @@
   },
   "WPU58": {
     "id": "WPU58",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:17-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU58A": {
     "id": "WPU58A",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Lawn, Garden, and Farm Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:53-05",
     "popularity": 3,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58A1": {
     "id": "WPU58A1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Lawn, Garden, and Farm Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -201,12 +201,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:54-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58A101": {
     "id": "WPU58A101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Lawn, Garden, and Farm Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -218,12 +218,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:54-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58A10101": {
     "id": "WPU58A10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Lawn, Garden, and Farm Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -235,12 +235,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:54-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58B": {
     "id": "WPU58B",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Furniture Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -251,13 +251,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:54-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU58B1": {
     "id": "WPU58B1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Furniture Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -269,12 +269,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:54-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU58B101": {
     "id": "WPU58B101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Furniture Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -286,12 +286,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:53-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU58B10101": {
     "id": "WPU58B10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Furniture Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -303,12 +303,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:53-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU58C": {
     "id": "WPU58C",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Flooring and Floor Coverings Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -324,8 +324,8 @@
   },
   "WPU58C1": {
     "id": "WPU58C1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Flooring and Floor Coverings Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "WPU58C101": {
     "id": "WPU58C101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Flooring and Floor Coverings Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -358,8 +358,8 @@
   },
   "WPU58C10101": {
     "id": "WPU58C10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Flooring and Floor Coverings Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -375,8 +375,8 @@
   },
   "WPU58D": {
     "id": "WPU58D",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -387,13 +387,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:16-05",
-    "popularity": 1,
-    "group_popularity": 6
+    "popularity": 2,
+    "group_popularity": 5
   },
   "WPU58D1": {
     "id": "WPU58D1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -405,12 +405,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:52-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "WPU58D101": {
     "id": "WPU58D101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -422,12 +422,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:52-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "WPU58D10101": {
     "id": "WPU58D10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Hardware and Building Materials and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -438,13 +438,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:52-05",
-    "popularity": 4,
-    "group_popularity": 6
+    "popularity": 3,
+    "group_popularity": 5
   },
   "WPU58E": {
     "id": "WPU58E",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Major Household Appliance Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -455,13 +455,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:43-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU58E1": {
     "id": "WPU58E1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Major Household Appliance Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -473,12 +473,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:52-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58E101": {
     "id": "WPU58E101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Major Household Appliance Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -490,12 +490,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:52-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58E10101": {
     "id": "WPU58E10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Major Household Appliance Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -507,12 +507,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:51-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58F": {
     "id": "WPU58F",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Fuels and Lubricants Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -528,8 +528,8 @@
   },
   "WPU58F1": {
     "id": "WPU58F1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Fuels and Lubricants Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -545,8 +545,8 @@
   },
   "WPU58F101": {
     "id": "WPU58F101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automotive Fuels and Lubricants Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -557,13 +557,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:16-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU58F102": {
     "id": "WPU58F102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Household Fuels Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -579,8 +579,8 @@
   },
   "WPU58F10101": {
     "id": "WPU58F10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automotive Fuels and Lubricants Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -592,12 +592,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:51-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 2
   },
   "WPU58F10201": {
     "id": "WPU58F10201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Household Fuels Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -613,8 +613,8 @@
   },
   "WPU58G": {
     "id": "WPU58G",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Cleaning Supplies and Paper Products Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -626,12 +626,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:24-05",
     "popularity": 4,
-    "group_popularity": 10
+    "group_popularity": 9
   },
   "WPU58G1": {
     "id": "WPU58G1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Cleaning Supplies and Paper Products Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -642,13 +642,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:27-05",
-    "popularity": 7,
-    "group_popularity": 10
+    "popularity": 6,
+    "group_popularity": 9
   },
   "WPU58G101": {
     "id": "WPU58G101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Cleaning Supplies and Paper Products Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -660,12 +660,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:51-05",
     "popularity": 1,
-    "group_popularity": 10
+    "group_popularity": 9
   },
   "WPU58G10101": {
     "id": "WPU58G10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Cleaning Supplies and Paper Products Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -677,12 +677,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:51-05",
     "popularity": 1,
-    "group_popularity": 10
+    "group_popularity": 9
   },
   "WPU58H": {
     "id": "WPU58H",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Book Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -698,8 +698,8 @@
   },
   "WPU58H1": {
     "id": "WPU58H1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Book Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -715,8 +715,8 @@
   },
   "WPU58H101": {
     "id": "WPU58H101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Book Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -732,8 +732,8 @@
   },
   "WPU58H10101": {
     "id": "WPU58H10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Book Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "WPU58I": {
     "id": "WPU58I",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Other Merchandise Retailing (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -762,12 +762,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:50-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "WPU58I1": {
     "id": "WPU58I1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Other Merchandise Retailing (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -779,12 +779,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:50-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "WPU58I101": {
     "id": "WPU58I101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Other Merchandise Retailing (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -795,13 +795,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:49-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU58I10101": {
     "id": "WPU58I10101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Other Merchandise Retailing (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -813,12 +813,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:49-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "WPU581": {
     "id": "WPU581",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -834,8 +834,8 @@
   },
   "WPU582": {
     "id": "WPU582",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Health and Beauty Care Retailing, Including Optical Goods",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -847,12 +847,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:13-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "WPU583": {
     "id": "WPU583",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Jewelry, Footwear, and Accessories Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -864,12 +864,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:12-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 4
   },
   "WPU584": {
     "id": "WPU584",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Computer Hardware, Software, and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -880,13 +880,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:57-05",
-    "popularity": 1,
-    "group_popularity": 15
+    "popularity": 2,
+    "group_popularity": 10
   },
   "WPU585": {
     "id": "WPU585",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: TV, Video, and Photographic Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -902,8 +902,8 @@
   },
   "WPU586": {
     "id": "WPU586",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automobiles and Automobile Parts Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -914,13 +914,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:17-05",
-    "popularity": 1,
-    "group_popularity": 2
+    "popularity": 2,
+    "group_popularity": 4
   },
   "WPU587": {
     "id": "WPU587",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Manufactured (Mobile) Homes Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2018-12-01",
@@ -936,8 +936,8 @@
   },
   "WPU588": {
     "id": "WPU588",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: RVs, Trailers, and Campers Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -948,13 +948,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:55-05",
-    "popularity": 1,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 4
   },
   "WPU589": {
     "id": "WPU589",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Sporting Goods, Including Boats, Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -970,8 +970,8 @@
   },
   "WPU5811": {
     "id": "WPU5811",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -987,8 +987,8 @@
   },
   "WPU5821": {
     "id": "WPU5821",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Health and Beauty Care Retailing, Including Optical Goods",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1000,12 +1000,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:12-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "WPU5831": {
     "id": "WPU5831",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Jewelry, Footwear, and Accessories Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -1017,12 +1017,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:12-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 4
   },
   "WPU5841": {
     "id": "WPU5841",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Computer Hardware, Software, and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1034,12 +1034,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:57-05",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 10
   },
   "WPU5851": {
     "id": "WPU5851",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: TV, Video, and Photographic Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1055,8 +1055,8 @@
   },
   "WPU5861": {
     "id": "WPU5861",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automobiles and Automobile Parts Retailing",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -1068,12 +1068,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:17-05",
     "popularity": 2,
-    "group_popularity": 2
+    "group_popularity": 4
   },
   "WPU5871": {
     "id": "WPU5871",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Manufactured (Mobile) Homes Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2018-12-01",
@@ -1089,8 +1089,8 @@
   },
   "WPU5881": {
     "id": "WPU5881",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: RVs, Trailers, and Campers Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1102,12 +1102,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:55-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU5891": {
     "id": "WPU5891",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Sporting Goods, Including Boats, Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1123,8 +1123,8 @@
   },
   "WPU582101": {
     "id": "WPU582101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Health and Beauty Care Retailing, Including Optical Goods",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1136,12 +1136,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:12-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "WPU583101": {
     "id": "WPU583101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Footwear, and Accessories Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1157,8 +1157,8 @@
   },
   "WPU583102": {
     "id": "WPU583102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Jewelry Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1174,8 +1174,8 @@
   },
   "WPU584101": {
     "id": "WPU584101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Computer Hardware, Software, and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1186,13 +1186,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:47-05",
-    "popularity": 14,
-    "group_popularity": 15
+    "popularity": 8,
+    "group_popularity": 10
   },
   "WPU585101": {
     "id": "WPU585101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: TV, Video, and Photographic Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1208,8 +1208,8 @@
   },
   "WPU586101": {
     "id": "WPU586101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automobile Retailing (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1220,13 +1220,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:56-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU586102": {
     "id": "WPU586102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automotive Parts, Including Tires, Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1237,13 +1237,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:56-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU587101": {
     "id": "WPU587101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Manufactured (Mobile) Homes Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2018-12-01",
@@ -1259,8 +1259,8 @@
   },
   "WPU588101": {
     "id": "WPU588101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: RVs, Trailers, and Campers Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1271,13 +1271,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:17-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 4
   },
   "WPU589101": {
     "id": "WPU589101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Sporting Goods, Including Boats, Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1293,8 +1293,8 @@
   },
   "WPU58210101": {
     "id": "WPU58210101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Health and Beauty Care Retailing, Including Optical Goods",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1306,12 +1306,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:24-05",
     "popularity": 4,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "WPU58310101": {
     "id": "WPU58310101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Apparel, Footwear, and Accessories Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1327,8 +1327,8 @@
   },
   "WPU58310201": {
     "id": "WPU58310201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Jewelry Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1344,8 +1344,8 @@
   },
   "WPU58410101": {
     "id": "WPU58410101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Computer Hardware, Software, and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1357,12 +1357,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:56-05",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 10
   },
   "WPU58510101": {
     "id": "WPU58510101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: TV, Video, and Photographic Equipment and Supplies Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1378,8 +1378,8 @@
   },
   "WPU58610101": {
     "id": "WPU58610101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automobile Retailing (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1391,12 +1391,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:56-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU58610201": {
     "id": "WPU58610201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Automotive Parts, Including Tires, Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1408,12 +1408,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:56-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU58710101": {
     "id": "WPU58710101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Manufactured (Mobile) Homes Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2018-12-01",
@@ -1429,8 +1429,8 @@
   },
   "WPU58810101": {
     "id": "WPU58810101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: RVs, Trailers, and Campers Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1442,12 +1442,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:55-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU58910101": {
     "id": "WPU58910101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Retail Trade Services: Sporting Goods, Including Boats, Retailing",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",

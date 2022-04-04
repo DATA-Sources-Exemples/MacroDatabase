@@ -1,8 +1,8 @@
 {
   "W390RC1A027NBEA": {
     "id": "W390RC1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Household consumption expenditures (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "2013-01-01",
@@ -19,8 +19,8 @@
   },
   "W392RC1A027NBEA": {
     "id": "W392RC1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Household consumption expenditures: Purchases from nonprofit institutions (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "2013-01-01",

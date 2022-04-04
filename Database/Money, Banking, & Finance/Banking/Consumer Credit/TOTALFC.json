@@ -1,7 +1,7 @@
 {
   "id": "TOTALFC",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Consumer Credit Owned by Finance Companies",
   "observation_start": "1943-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-07 14:07:12-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

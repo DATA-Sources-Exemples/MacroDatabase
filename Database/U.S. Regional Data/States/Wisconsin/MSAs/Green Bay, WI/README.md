@@ -21,31 +21,31 @@
 | ENUC245840510             | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC245840510SA           | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2021-07-01        |
 | GNBPOP                    | Resident Population in Green Bay, WI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| GREE555EDUH               | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| GREE555EDUHN              | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| GREE555FIRE               | All Employees: Financial Activities in Green Bay, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| GREE555FIREN              | All Employees: Financial Activities in Green Bay, WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| GREE555GOVT               | All Employees: Government in Green Bay, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| GREE555GOVTN              | All Employees: Government in Green Bay, WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| GREE555INFO               | All Employees: Information in Green Bay, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| GREE555INFON              | All Employees: Information in Green Bay, WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| GREE555LEIH               | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| GREE555LEIHN              | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| GREE555EDUH               | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| GREE555EDUHN              | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| GREE555FIRE               | All Employees: Financial Activities in Green Bay, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| GREE555FIREN              | All Employees: Financial Activities in Green Bay, WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| GREE555GOVT               | All Employees: Government in Green Bay, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| GREE555GOVTN              | All Employees: Government in Green Bay, WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| GREE555INFO               | All Employees: Information in Green Bay, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| GREE555INFON              | All Employees: Information in Green Bay, WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| GREE555LEIH               | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| GREE555LEIHN              | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | GREE555LF                 | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | GREE555LFN                | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| GREE555MFG                | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE555MFGN               | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE555NA                 | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE555NAN                | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE555NRMN               | All Employees: Mining, Logging, and Construction in Green Bay, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| GREE555NRMNN              | All Employees: Mining, Logging, and Construction in Green Bay, WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| GREE555PBSV               | All Employees: Professional and Business Services in Green Bay, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| GREE555PBSVN              | All Employees: Professional and Business Services in Green Bay, WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| GREE555MFG                | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE555MFGN               | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE555NA                 | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE555NAN                | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE555NRMN               | All Employees: Mining, Logging, and Construction in Green Bay, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| GREE555NRMNN              | All Employees: Mining, Logging, and Construction in Green Bay, WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| GREE555PBSV               | All Employees: Professional and Business Services in Green Bay, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| GREE555PBSVN              | All Employees: Professional and Business Services in Green Bay, WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | GREE555PCPI               | Per Capita Personal Income in Green Bay, WI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| GREE555SRVO               | All Employees: Other Services in Green Bay, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| GREE555SRVON              | All Employees: Other Services in Green Bay, WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| GREE555TRAD               | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| GREE555TRADN              | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| GREE555SRVO               | All Employees: Other Services in Green Bay, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| GREE555SRVON              | All Employees: Other Services in Green Bay, WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| GREE555TRAD               | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| GREE555TRADN              | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | GREE555UR                 | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | GREE555URN                | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
@@ -107,64 +107,64 @@
 | RPPGOOD24580              | Regional Price Parities: Goods for Green Bay, WI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH24580          | Regional Price Parities: Services: Other for Green Bay, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT24580         | Regional Price Parities: Services: Rents for Green Bay, WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS55245800000000026      | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS55245800000000026      | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU55245800000000001A     | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55245800500000001      | All Employees: Total Private in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU55245800500000001      | All Employees: Total Private in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU55245800500000001A     | All Employees: Total Private in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55245800500000001SA    | All Employees: Total Private in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU55245800500000002      | Average Weekly Hours of All Employees: Total Private in Green Bay, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU55245800500000001SA    | All Employees: Total Private in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU55245800500000002      | Average Weekly Hours of All Employees: Total Private in Green Bay, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU55245800500000002A     | Average Weekly Hours of All Employees: Total Private in Green Bay, WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU55245800500000002SA    | Average Weekly Hours of All Employees: Total Private in Green Bay, WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU55245800500000003      | Average Hourly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55245800500000002SA    | Average Weekly Hours of All Employees: Total Private in Green Bay, WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU55245800500000003      | Average Hourly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55245800500000003A     | Average Hourly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55245800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55245800500000011      | Average Weekly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU55245800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55245800500000011      | Average Weekly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU55245800500000011A     | Average Weekly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU55245800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU55245800600000001      | All Employees: Goods Producing in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55245800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Green Bay, WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU55245800600000001      | All Employees: Goods Producing in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55245800600000001A     | All Employees: Goods Producing in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55245800600000001SA    | All Employees: Goods Producing in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55245800700000001      | All Employees: Service-Providing in Green Bay, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU55245800600000001SA    | All Employees: Goods Producing in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55245800700000001      | All Employees: Service-Providing in Green Bay, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU55245800700000001A     | All Employees: Service-Providing in Green Bay, WI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU55245800700000001SA    | All Employees: Service-Providing in Green Bay, WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU55245800800000001      | All Employees: Private Service Providing in Green Bay, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55245800700000001SA    | All Employees: Service-Providing in Green Bay, WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU55245800800000001      | All Employees: Private Service Providing in Green Bay, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55245800800000001A     | All Employees: Private Service Providing in Green Bay, WI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU55245800800000001SA    | All Employees: Private Service Providing in Green Bay, WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU55245800800000001SA    | All Employees: Private Service Providing in Green Bay, WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU55245801500000001A     | All Employees: Mining, Logging, and Construction in Green Bay, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU55245803000000001A     | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU55245803100000001      | All Employees: Manufacturing: Durable Goods in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55245803100000001      | All Employees: Manufacturing: Durable Goods in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55245803100000001A     | All Employees: Manufacturing: Durable Goods in Green Bay, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55245803100000001SA    | All Employees: Manufacturing: Durable Goods in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU55245803200000001      | All Employees: Manufacturing: Non-Durable Goods in Green Bay, WI (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU55245803100000001SA    | All Employees: Manufacturing: Durable Goods in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU55245803200000001      | All Employees: Manufacturing: Non-Durable Goods in Green Bay, WI (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU55245803200000001A     | All Employees: Manufacturing: Non-Durable Goods in Green Bay, WI (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU55245803200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Green Bay, WI (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU55245803200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Green Bay, WI (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU55245804000000001A     | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU55245804100000001      | All Employees: Wholesale Trade in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU55245804100000001      | All Employees: Wholesale Trade in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU55245804100000001A     | All Employees: Wholesale Trade in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU55245804100000001SA    | All Employees: Wholesale Trade in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU55245804200000001      | All Employees: Retail Trade in Green Bay, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU55245804100000001SA    | All Employees: Wholesale Trade in Green Bay, WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU55245804200000001      | All Employees: Retail Trade in Green Bay, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU55245804200000001A     | All Employees: Retail Trade in Green Bay, WI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU55245804200000001SA    | All Employees: Retail Trade in Green Bay, WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU55245804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Green Bay, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55245804200000001SA    | All Employees: Retail Trade in Green Bay, WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU55245804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Green Bay, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55245804300000001A     | All Employees: Transportation and Utilities in Green Bay, WI (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU55245804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Green Bay, WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU55245804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Green Bay, WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU55245805000000001A     | All Employees: Information in Green Bay, WI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU55245805500000001A     | All Employees: Financial Activities in Green Bay, WI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU55245806000000001A     | All Employees: Professional and Business Services in Green Bay, WI (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU55245806500000001A     | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU55245806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Green Bay, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55245806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Green Bay, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55245806562000001A     | All Employees: Health Care and Social Assistance in Green Bay, WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU55245806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Green Bay, WI (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU55245806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Green Bay, WI (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU55245807000000001A     | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU55245808000000001A     | All Employees: Other Services in Green Bay, WI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU55245809000000001A     | All Employees: Government in Green Bay, WI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU55245809091000001      | All Employees: Government: Federal Government in Green Bay, WI (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU55245809091000001      | All Employees: Government: Federal Government in Green Bay, WI (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU55245809091000001A     | All Employees: Federal Government in Green Bay, WI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU55245809091000001SA    | All Employees: Government: Federal Government in Green Bay, WI (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU55245809092000001      | All Employees: Government: State Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55245809091000001SA    | All Employees: Government: Federal Government in Green Bay, WI (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU55245809092000001      | All Employees: Government: State Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55245809092000001A     | All Employees: State Government in Green Bay, WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU55245809092000001SA    | All Employees: Government: State Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU55245809093000001      | All Employees: Government: Local Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55245809092000001SA    | All Employees: Government: State Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU55245809093000001      | All Employees: Government: Local Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU55245809093000001A     | All Employees: Local Government in Green Bay, WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU55245809093000001SA    | All Employees: Government: Local Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU55245809093000001SA    | All Employees: Government: Local Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA24580              | Market Hotness: Supply Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

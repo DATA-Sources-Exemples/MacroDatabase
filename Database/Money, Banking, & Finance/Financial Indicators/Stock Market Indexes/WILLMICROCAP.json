@@ -1,7 +1,7 @@
 {
   "id": "WILLMICROCAP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wilshire US Micro-Cap Total Market Index",
   "observation_start": "1978-06-30",
   "observation_end": "2022-03-02",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-03 07:03:02-06",
-  "popularity": 14,
-  "group_popularity": 14,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "The observations for the Wilshire US Micro-Cap Total Market Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.\n\nThe total market indexes are total market returns, which do include reinvested dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "NB000341Q",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Intellectual Property Products",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 08:03:21-06",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 12,
   "notes": "BEA Account Code: NB000341"
 }

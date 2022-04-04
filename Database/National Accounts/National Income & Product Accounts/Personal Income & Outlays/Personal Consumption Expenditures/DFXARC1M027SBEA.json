@@ -1,7 +1,7 @@
 {
   "id": "DFXARC1M027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal consumption expenditures: Food",
   "observation_start": "1959-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-25 07:43:21-06",
-  "popularity": 40,
-  "group_popularity": 40,
+  "popularity": 39,
+  "group_popularity": 39,
   "notes": "BEA Account Code: DFXARC\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,8 +1,8 @@
 {
   "NCGGNSAXDCGBQ": {
     "id": "NCGGNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -18,8 +18,8 @@
   },
   "NCGGRNSAXDCGBQ": {
     "id": "NCGGRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:17-06",
-    "popularity": 1,
+    "popularity": 2,
     "group_popularity": 4
   },
   "NCGGRSAXDCGBQ": {
     "id": "NCGGRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:09-06",
-    "popularity": 3,
+    "popularity": 2,
     "group_popularity": 4
   },
   "NCGGRXDCGBA": {
     "id": "NCGGRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:12-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 4
   },
   "NCGGSAXDCGBQ": {
     "id": "NCGGSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -86,8 +86,8 @@
   },
   "NCGGXDCGBA": {
     "id": "NCGGXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal General Government Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -103,8 +103,8 @@
   },
   "NCPNSAXDCGBQ": {
     "id": "NCPNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:13-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "NCPRNSAXDCGBQ": {
     "id": "NCPRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -133,12 +133,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:23-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NCPRSAXDCGBQ": {
     "id": "NCPRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:24-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "NCPRXDCGBA": {
     "id": "NCPRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -167,12 +167,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:24-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NCPSAXDCGBQ": {
     "id": "NCPSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -188,8 +188,8 @@
   },
   "NCPXDCGBA": {
     "id": "NCPXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -205,8 +205,8 @@
   },
   "NCRNSAXDCGBQ": {
     "id": "NCRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -218,12 +218,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:27-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 3
   },
   "NCRSAXDCGBQ": {
     "id": "NCRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:13-06",
-    "popularity": 1,
-    "group_popularity": 2
+    "popularity": 2,
+    "group_popularity": 3
   },
   "NCRXDCGBA": {
     "id": "NCRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Final Consumption Expenditure for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -252,12 +252,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:27-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 3
   },
   "NCSAXDCGBQ": {
     "id": "NCSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Final Consumption Expenditure for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -273,8 +273,8 @@
   },
   "NFINSAXDCGBQ": {
     "id": "NFINSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:29-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "NFIRNSAXDCGBQ": {
     "id": "NFIRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -302,13 +302,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:30-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "NFIRSAXDCGBQ": {
     "id": "NFIRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -320,12 +320,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:31-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NFIRXDCGBA": {
     "id": "NFIRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -337,12 +337,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:32-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NFISAXDCGBQ": {
     "id": "NFISAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -354,12 +354,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:10:00-06",
     "popularity": 0,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NFIXDCGBA": {
     "id": "NFIXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -371,12 +371,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:10:00-06",
     "popularity": 0,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NGDPDIXGBA": {
     "id": "NGDPDIXGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product Deflator for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -388,12 +388,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:33-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "NGDPDSAIXGBQ": {
     "id": "NGDPDSAIXGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product Deflator for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -404,13 +404,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:14-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "NGDPNSAXDCGBQ": {
     "id": "NGDPNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Domestic Product for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:34-06",
-    "popularity": 2,
-    "group_popularity": 10
+    "popularity": 1,
+    "group_popularity": 6
   },
   "NGDPRNSAXDCGBQ": {
     "id": "NGDPRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -438,13 +438,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:35-06",
-    "popularity": 2,
-    "group_popularity": 16
+    "popularity": 4,
+    "group_popularity": 15
   },
   "NGDPRSAXDCGBQ": {
     "id": "NGDPRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -455,13 +455,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:06-06",
-    "popularity": 14,
-    "group_popularity": 16
+    "popularity": 12,
+    "group_popularity": 15
   },
   "NGDPRXDCGBA": {
     "id": "NGDPRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -472,13 +472,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:35-06",
-    "popularity": 4,
-    "group_popularity": 16
+    "popularity": 2,
+    "group_popularity": 15
   },
   "NGDPSAXDCGBQ": {
     "id": "NGDPSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Domestic Product for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -489,13 +489,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:10-06",
-    "popularity": 6,
-    "group_popularity": 10
+    "popularity": 5,
+    "group_popularity": 6
   },
   "NGDPXDCGBA": {
     "id": "NGDPXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Domestic Product for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -506,13 +506,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:36-06",
-    "popularity": 3,
-    "group_popularity": 10
+    "popularity": 1,
+    "group_popularity": 6
   },
   "NINSAXDCGBQ": {
     "id": "NINSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -528,8 +528,8 @@
   },
   "NINVNSAXDCGBQ": {
     "id": "NINVNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Changes in Inventories for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -545,8 +545,8 @@
   },
   "NINVRNSAXDCGBQ": {
     "id": "NINVRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Changes in Inventories for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -562,8 +562,8 @@
   },
   "NINVRSAXDCGBQ": {
     "id": "NINVRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Changes in Inventories for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -579,8 +579,8 @@
   },
   "NINVRXDCGBA": {
     "id": "NINVRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Changes in Inventories for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -596,8 +596,8 @@
   },
   "NINVSAXDCGBQ": {
     "id": "NINVSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Changes in Inventories for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -613,8 +613,8 @@
   },
   "NINVXDCGBA": {
     "id": "NINVXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Changes in Inventories for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -630,8 +630,8 @@
   },
   "NIRNSAXDCGBQ": {
     "id": "NIRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -647,8 +647,8 @@
   },
   "NIRSAXDCGBQ": {
     "id": "NIRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -664,8 +664,8 @@
   },
   "NIRXDCGBA": {
     "id": "NIRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -681,8 +681,8 @@
   },
   "NISAXDCGBQ": {
     "id": "NISAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -698,8 +698,8 @@
   },
   "NIXDCGBA": {
     "id": "NIXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Gross Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -715,8 +715,8 @@
   },
   "NMNSAXDCGBQ": {
     "id": "NMNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Imports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -732,8 +732,8 @@
   },
   "NMRNSAXDCGBQ": {
     "id": "NMRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Imports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -745,12 +745,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:43-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NMRSAXDCGBQ": {
     "id": "NMRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Imports of Goods and Services for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -761,13 +761,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:44-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "NMRXDCGBA": {
     "id": "NMRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Imports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -779,12 +779,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:44-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "NMSAXDCGBQ": {
     "id": "NMSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Imports of Goods and Services for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -800,8 +800,8 @@
   },
   "NMXDCGBA": {
     "id": "NMXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Imports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -817,8 +817,8 @@
   },
   "NNXGSNSAXDCGBQ": {
     "id": "NNXGSNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal External Balance of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -834,8 +834,8 @@
   },
   "NNXGSSAXDCGBQ": {
     "id": "NNXGSSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal External Balance of Goods and Services for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -851,8 +851,8 @@
   },
   "NNXGSXDCGBA": {
     "id": "NNXGSXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal External Balance of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -868,8 +868,8 @@
   },
   "NSDGDPNSAXDCGBQ": {
     "id": "NSDGDPNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Statistical Discrepancy for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "1995-10-01",
@@ -885,8 +885,8 @@
   },
   "NSDGDPSAXDCGBQ": {
     "id": "NSDGDPSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Statistical Discrepancy for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -902,8 +902,8 @@
   },
   "NXNSAXDCGBQ": {
     "id": "NXNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -919,8 +919,8 @@
   },
   "NXRNSAXDCGBQ": {
     "id": "NXRNSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-10-01",
@@ -932,12 +932,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:50-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 2
   },
   "NXRSAXDCGBQ": {
     "id": "NXRSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Exports of Goods and Services for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -948,13 +948,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-07 07:09:10-06",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "NXRXDCGBA": {
     "id": "NXRXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -966,12 +966,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 07:09:52-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 2
   },
   "NXSAXDCGBQ": {
     "id": "NXSAXDCGBQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Exports of Goods and Services for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2021-10-01",
@@ -987,8 +987,8 @@
   },
   "NXXDCGBA": {
     "id": "NXXDCGBA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",

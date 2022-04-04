@@ -1,7 +1,7 @@
 {
   "id": "MPU5650701",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Paper Products: Materials Factor Shares",
   "observation_start": "1987-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2021-11-18 09:52:14-06",
+  "last_updated": "2022-03-25 12:23:43-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "The factor share is the ratio of the cost of that factor to the total value of production. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU5650701"

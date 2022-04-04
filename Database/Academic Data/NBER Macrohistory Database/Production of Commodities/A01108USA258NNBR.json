@@ -1,7 +1,7 @@
 {
   "id": "A01108USA258NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Automobile Registrations, Passenger Cars, Total for United States",
   "observation_start": "1895-01-01",
   "observation_end": "1944-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:49:17-05",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "Data Are For The Number Of Vehicles Registered As Of December 31St. Data For 1944 Are Estimated. Source: Data For 1895-1939: U.S. Bureau Of Public Roads, National Automobile Chamber Of Commerce, Facts And Figures Of The Automobile Industry, 1933, P. 10; 1943, P. 48. Data For 1940-1944: Public Roads Administration, Comparison Of Motor Vehicle Registration.\n\nThis NBER data series a01108 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01108"
 }

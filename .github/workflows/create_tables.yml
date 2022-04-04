@@ -23,7 +23,7 @@ jobs:
         run: |
           echo Running File...
           status=$(python Methodology/create_tables.py > logs/create_tables/${{ env.MY_DATE }}.txt 2>&1; echo $?)
-          cat logs/create_tables/${{ steps.date.outputs.today }}.txt
+          cat logs/create_tables/${{ env.MY_DATE }}.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
         run: |

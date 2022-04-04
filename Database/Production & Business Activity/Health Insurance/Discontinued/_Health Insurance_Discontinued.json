@@ -1,8 +1,8 @@
 {
   "USHICCOVER": {
     "id": "USHICCOVER",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Health Insurance Coverage: People Covered in the United States (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2012-01-01",
@@ -18,8 +18,8 @@
   },
   "USHICCOVPCT": {
     "id": "USHICCOVPCT",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Health Insurance Coverage: Coverage Rate in the United States (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2012-01-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2013-09-17 15:46:26-05",
-    "popularity": 13,
-    "group_popularity": 13
+    "popularity": 17,
+    "group_popularity": 17
   },
   "USHICNCPCT": {
     "id": "USHICNCPCT",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Health Insurance Coverage: Uncovered Rate in the United States (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2012-01-01",
@@ -52,8 +52,8 @@
   },
   "USHICNOTCOV": {
     "id": "USHICNOTCOV",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Health Insurance Coverage: People Not Covered in the United States (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2012-01-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2013-09-17 15:46:26-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 7,
+    "group_popularity": 7
   },
   "USHICTOTAL": {
     "id": "USHICTOTAL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Health Insurance Coverage: Total Number of People in the United States (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2012-01-01",
@@ -81,7 +81,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2013-09-17 15:46:26-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   }
 }

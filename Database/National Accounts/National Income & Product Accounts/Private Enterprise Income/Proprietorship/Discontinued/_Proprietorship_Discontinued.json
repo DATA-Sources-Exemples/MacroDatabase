@@ -1,8 +1,8 @@
 {
   "B046RC0A144NBEA": {
     "id": "B046RC0A144NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nonfarm proprietors' income, NIPAs (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2016-01-01",
@@ -19,8 +19,8 @@
   },
   "B1226C1A027NBEA": {
     "id": "B1226C1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nonfarm sole proprietorships and partnerships: Depreciation of computer software not in IRS depreciation (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2010-01-01",
@@ -37,8 +37,8 @@
   },
   "W359RC1A027NBEA": {
     "id": "W359RC1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Borrower services: Imputed interest paid: Domestic business: Rental income of persons and proprietors' income (DISCONTINUED)",
     "observation_start": "1946-01-01",
     "observation_end": "2013-01-01",

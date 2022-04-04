@@ -1,8 +1,8 @@
 {
   "ITNETUSERP2MNP": {
     "id": "ITNETUSERP2MNP",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Internet users for the Commonwealth of the Northern Mariana Islands",
     "observation_start": "1990-01-01",
     "observation_end": "1995-01-01",
@@ -19,8 +19,8 @@
   },
   "NYGDPPCAPKDMNP": {
     "id": "NYGDPPCAPKDMNP",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Constant GDP per capita for the Commonwealth of the Northern Mariana Islands",
     "observation_start": "2002-01-01",
     "observation_end": "2019-01-01",
@@ -37,8 +37,8 @@
   },
   "POPTOTMP52647NWDB": {
     "id": "POPTOTMP52647NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Population, Total for the Commonwealth of the Northern Mariana Islands",
     "observation_start": "1967-01-01",
     "observation_end": "2012-01-01",
@@ -50,13 +50,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2014-06-10 18:26:51-05",
     "popularity": 0,
-    "group_popularity": 4,
+    "group_popularity": 2,
     "notes": "This series is a 5-year aggregation of the series https://fred.stlouisfed.org/series/POPTOTMPA647NWDB used to calculate per capita versions of other 5-year series in FRED. The aggregation of series occurs at the end of the period in years that end in two or seven (i.e. 1972, 1977, 1982...).\n\nWorld Bank, the original source, defines the original series as follows:\n\n\"Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates."
   },
   "POPTOTMPA647NWDB": {
     "id": "POPTOTMPA647NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Population, Total for the Commonwealth of the Northern Mariana Islands",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",
@@ -67,8 +67,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-07-01 11:18:46-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates.\n\nSource Code: SP.POP.TOTL"
   }
 }

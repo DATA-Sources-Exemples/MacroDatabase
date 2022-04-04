@@ -1,17 +1,17 @@
 {
   "id": "MSPNHSUS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Median Sales Price for New Houses Sold in the United States",
   "observation_start": "1963-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars",
   "units_short": "$",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-02-24 09:01:06-06",
-  "popularity": 57,
-  "group_popularity": 58
+  "last_updated": "2022-03-23 09:01:07-05",
+  "popularity": 60,
+  "group_popularity": 60
 }

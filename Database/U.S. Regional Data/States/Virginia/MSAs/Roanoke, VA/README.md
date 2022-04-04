@@ -73,32 +73,32 @@
 | PRIREDCOUYY40220          | Housing Inventory: Price Reduced Count Year-Over-Year in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | QGMP40220                 | Total Quantity Indexes for Real GDP for Roanoke, VA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP40220                 | Total Real Gross Domestic Product for Roanoke, VA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
-| RKEPOP                    | Resident Population in Roanoke, VA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| ROAN251EDUH               | All Employees: Education and Health Services in Roanoke, VA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ROAN251EDUHN              | All Employees: Education and Health Services in Roanoke, VA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ROAN251FIRE               | All Employees: Financial Activities in Roanoke, VA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ROAN251FIREN              | All Employees: Financial Activities in Roanoke, VA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ROAN251GOVT               | All Employees: Government in Roanoke, VA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ROAN251GOVTN              | All Employees: Government in Roanoke, VA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ROAN251INFO               | All Employees: Information in Roanoke, VA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ROAN251INFON              | All Employees: Information in Roanoke, VA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ROAN251LEIH               | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| ROAN251LEIHN              | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| RKEPOP                    | Resident Population in Roanoke, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| ROAN251EDUH               | All Employees: Education and Health Services in Roanoke, VA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ROAN251EDUHN              | All Employees: Education and Health Services in Roanoke, VA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ROAN251FIRE               | All Employees: Financial Activities in Roanoke, VA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ROAN251FIREN              | All Employees: Financial Activities in Roanoke, VA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ROAN251GOVT               | All Employees: Government in Roanoke, VA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ROAN251GOVTN              | All Employees: Government in Roanoke, VA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ROAN251INFO               | All Employees: Information in Roanoke, VA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ROAN251INFON              | All Employees: Information in Roanoke, VA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ROAN251LEIH               | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| ROAN251LEIHN              | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | ROAN251LF                 | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | ROAN251LFN                | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| ROAN251MFG                | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ROAN251MFGN               | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ROAN251NA                 | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ROAN251NAN                | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ROAN251NRMN               | All Employees: Mining, Logging, and Construction in Roanoke, VA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ROAN251NRMNN              | All Employees: Mining, Logging, and Construction in Roanoke, VA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ROAN251PBSV               | All Employees: Professional and Business Services in Roanoke, VA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| ROAN251PBSVN              | All Employees: Professional and Business Services in Roanoke, VA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| ROAN251MFG                | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ROAN251MFGN               | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ROAN251NA                 | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ROAN251NAN                | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ROAN251NRMN               | All Employees: Mining, Logging, and Construction in Roanoke, VA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ROAN251NRMNN              | All Employees: Mining, Logging, and Construction in Roanoke, VA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ROAN251PBSV               | All Employees: Professional and Business Services in Roanoke, VA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| ROAN251PBSVN              | All Employees: Professional and Business Services in Roanoke, VA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | ROAN251PCPI               | Per Capita Personal Income in Roanoke, VA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| ROAN251SRVO               | All Employees: Other Services in Roanoke, VA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ROAN251SRVON              | All Employees: Other Services in Roanoke, VA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ROAN251TRAD               | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| ROAN251TRADN              | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ROAN251SRVO               | All Employees: Other Services in Roanoke, VA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ROAN251SRVON              | All Employees: Other Services in Roanoke, VA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ROAN251TRAD               | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| ROAN251TRADN              | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | ROAN251UR                 | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ROAN251URN                | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | RPI40220                  | Real Personal Income for Roanoke, VA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -107,41 +107,41 @@
 | RPPGOOD40220              | Regional Price Parities: Goods for Roanoke, VA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH40220          | Regional Price Parities: Services: Other for Roanoke, VA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT40220         | Regional Price Parities: Services: Rents for Roanoke, VA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS51402200000000026      | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS51402200000000026      | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU51402200000000001A     | All Employees: Total Nonfarm in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU51402200500000001      | All Employees: Total Private in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU51402200500000001      | All Employees: Total Private in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU51402200500000001A     | All Employees: Total Private in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU51402200500000001SA    | All Employees: Total Private in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU51402200500000002      | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU51402200500000001SA    | All Employees: Total Private in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU51402200500000002      | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU51402200500000002A     | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU51402200500000002SA    | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU51402200500000003      | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU51402200500000002SA    | Average Weekly Hours of All Employees: Total Private in Roanoke, VA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU51402200500000003      | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU51402200500000003A     | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51402200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU51402200500000011      | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU51402200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU51402200500000011      | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU51402200500000011A     | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU51402200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU51402200600000001      | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU51402200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Roanoke, VA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU51402200600000001      | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU51402200600000001A     | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU51402200600000001SA    | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU51402200700000001      | All Employees: Service-Providing in Roanoke, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU51402200600000001SA    | All Employees: Goods Producing in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU51402200700000001      | All Employees: Service-Providing in Roanoke, VA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU51402200700000001A     | All Employees: Service-Providing in Roanoke, VA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU51402200700000001SA    | All Employees: Service-Providing in Roanoke, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU51402200800000001      | All Employees: Private Service Providing in Roanoke, VA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU51402200700000001SA    | All Employees: Service-Providing in Roanoke, VA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU51402200800000001      | All Employees: Private Service Providing in Roanoke, VA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU51402200800000001A     | All Employees: Private Service Providing in Roanoke, VA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU51402200800000001SA    | All Employees: Private Service Providing in Roanoke, VA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU51402200800000001SA    | All Employees: Private Service Providing in Roanoke, VA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU51402201500000001A     | All Employees: Mining, Logging, and Construction in Roanoke, VA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU51402203000000001A     | All Employees: Manufacturing in Roanoke, VA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU51402204000000001A     | All Employees: Trade, Transportation, and Utilities in Roanoke, VA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU51402204100000001      | All Employees: Wholesale Trade in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU51402204100000001      | All Employees: Wholesale Trade in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU51402204100000001A     | All Employees: Wholesale Trade in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU51402204100000001SA    | All Employees: Wholesale Trade in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU51402204200000001      | All Employees: Retail Trade in Roanoke, VA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU51402204100000001SA    | All Employees: Wholesale Trade in Roanoke, VA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU51402204200000001      | All Employees: Retail Trade in Roanoke, VA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU51402204200000001A     | All Employees: Retail Trade in Roanoke, VA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU51402204200000001SA    | All Employees: Retail Trade in Roanoke, VA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU51402204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Roanoke, VA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU51402204200000001SA    | All Employees: Retail Trade in Roanoke, VA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU51402204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Roanoke, VA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU51402204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Roanoke, VA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU51402204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Roanoke, VA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU51402204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Roanoke, VA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU51402205000000001A     | All Employees: Information in Roanoke, VA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU51402205500000001A     | All Employees: Financial Activities in Roanoke, VA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU51402206000000001A     | All Employees: Professional and Business Services in Roanoke, VA (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -149,13 +149,13 @@
 | SMU51402207000000001A     | All Employees: Leisure and Hospitality in Roanoke, VA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU51402208000000001A     | All Employees: Other Services in Roanoke, VA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU51402209000000001A     | All Employees: Government in Roanoke, VA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU51402209091000001      | All Employees: Government: Federal Government in Roanoke, VA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU51402209091000001      | All Employees: Government: Federal Government in Roanoke, VA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU51402209091000001A     | All Employees: Federal Government in Roanoke, VA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU51402209091000001SA    | All Employees: Government: Federal Government in Roanoke, VA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU51402209092000001      | All Employees: Government: State Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU51402209091000001SA    | All Employees: Government: Federal Government in Roanoke, VA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU51402209092000001      | All Employees: Government: State Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU51402209092000001A     | All Employees: State Government in Roanoke, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU51402209092000001SA    | All Employees: Government: State Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU51402209093000001      | All Employees: Government: Local Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU51402209092000001SA    | All Employees: Government: State Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU51402209093000001      | All Employees: Government: Local Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU51402209093000001A     | All Employees: Local Government in Roanoke, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU51402209093000001SA    | All Employees: Government: Local Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU51402209093000001SA    | All Employees: Government: Local Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA40220              | Market Hotness: Supply Score in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

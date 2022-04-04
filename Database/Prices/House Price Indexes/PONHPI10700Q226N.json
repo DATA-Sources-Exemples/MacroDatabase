@@ -1,7 +1,7 @@
 {
   "id": "PONHPI10700Q226N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Purchase Only House Price Index for the West North Central Census Division",
   "observation_start": "1991-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:04:53-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "The purchase-only index is based on more than 6 million repeat sales transactions on the same single-family properties."
 }

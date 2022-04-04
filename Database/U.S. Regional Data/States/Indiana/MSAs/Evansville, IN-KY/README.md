@@ -20,32 +20,32 @@
 | ENUC217840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Evansville, IN-KY (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC217840510             | Average Weekly Wages for Employees in Private Establishments in Evansville, IN-KY (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC217840510SA           | Average Weekly Wages for Employees in Private Establishments in Evansville, IN-KY (MSA)                            | 1990-01-01          | 2021-07-01        |
-| EVNEDUH                   | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| EVNEDUHN                  | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| EVNFIRE                   | All Employees: Financial Activities in Evansville, IN-KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| EVNFIREN                  | All Employees: Financial Activities in Evansville, IN-KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| EVNGOVT                   | All Employees: Government in Evansville, IN-KY (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| EVNGOVTN                  | All Employees: Government in Evansville, IN-KY (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| EVNINFO                   | All Employees: Information in Evansville, IN-KY (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| EVNINFON                  | All Employees: Information in Evansville, IN-KY (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| EVNLEIH                   | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| EVNLEIHN                  | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| EVNEDUH                   | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| EVNEDUHN                  | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| EVNFIRE                   | All Employees: Financial Activities in Evansville, IN-KY (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| EVNFIREN                  | All Employees: Financial Activities in Evansville, IN-KY (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| EVNGOVT                   | All Employees: Government in Evansville, IN-KY (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| EVNGOVTN                  | All Employees: Government in Evansville, IN-KY (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| EVNINFO                   | All Employees: Information in Evansville, IN-KY (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| EVNINFON                  | All Employees: Information in Evansville, IN-KY (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| EVNLEIH                   | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| EVNLEIHN                  | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | EVNLF                     | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | EVNLFN                    | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| EVNMFG                    | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| EVNMFGN                   | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| EVNNA                     | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| EVNNAN                    | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| EVNNRMC                   | All Employees: Mining, Logging, and Construction in Evansville, IN-KY (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| EVNNRMCN                  | All Employees: Mining, Logging, and Construction in Evansville, IN-KY (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| EVNPBSV                   | All Employees: Professional and Business Services in Evansville, IN-KY (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| EVNPBSVN                  | All Employees: Professional and Business Services in Evansville, IN-KY (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| EVNMFG                    | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| EVNMFGN                   | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| EVNNA                     | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| EVNNAN                    | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| EVNNRMC                   | All Employees: Mining, Logging, and Construction in Evansville, IN-KY (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| EVNNRMCN                  | All Employees: Mining, Logging, and Construction in Evansville, IN-KY (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| EVNPBSV                   | All Employees: Professional and Business Services in Evansville, IN-KY (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| EVNPBSVN                  | All Employees: Professional and Business Services in Evansville, IN-KY (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | EVNPCPI                   | Per Capita Personal Income in Evansville, IN-KY (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | EVNPOP                    | Resident Population in Evansville, IN-KY (MSA)                                                                     | 1970-01-01          | 2020-01-01        |
-| EVNSRVO                   | All Employees: Other Services in Evansville, IN-KY (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| EVNSRVON                  | All Employees: Other Services in Evansville, IN-KY (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| EVNTRAD                   | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| EVNTRADN                  | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| EVNSRVO                   | All Employees: Other Services in Evansville, IN-KY (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| EVNSRVON                  | All Employees: Other Services in Evansville, IN-KY (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| EVNTRAD                   | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| EVNTRADN                  | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | EVNUR                     | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | EVNURN                    | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA21780            | Market Hotness: Hotness Rank in Evansville, IN-KY (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
@@ -108,70 +108,70 @@
 | RPPSERVEOTH21780          | Regional Price Parities: Services: Other for Evansville, IN-KY (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT21780         | Regional Price Parities: Services: Rents for Evansville, IN-KY (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SMS18217800000000001      | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS18217800000000026      | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS18217800000000026      | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU18217800000000001A     | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18217800500000001      | All Employees: Total Private in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18217800500000001      | All Employees: Total Private in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18217800500000001A     | All Employees: Total Private in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18217800500000001SA    | All Employees: Total Private in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18217800500000002      | Average Weekly Hours of All Employees: Total Private in Evansville, IN-KY (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU18217800500000001SA    | All Employees: Total Private in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18217800500000002      | Average Weekly Hours of All Employees: Total Private in Evansville, IN-KY (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU18217800500000002A     | Average Weekly Hours of All Employees: Total Private in Evansville, IN-KY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18217800500000002SA    | Average Weekly Hours of All Employees: Total Private in Evansville, IN-KY (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU18217800500000003      | Average Hourly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18217800500000002SA    | Average Weekly Hours of All Employees: Total Private in Evansville, IN-KY (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18217800500000003      | Average Hourly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18217800500000003A     | Average Hourly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18217800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18217800500000011      | Average Weekly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18217800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18217800500000011      | Average Weekly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18217800500000011A     | Average Weekly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18217800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18217800600000001      | All Employees: Goods Producing in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18217800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Evansville, IN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18217800600000001      | All Employees: Goods Producing in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18217800600000001A     | All Employees: Goods Producing in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18217800600000001SA    | All Employees: Goods Producing in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18217800700000001      | All Employees: Service-Providing in Evansville, IN-KY (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU18217800600000001SA    | All Employees: Goods Producing in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18217800700000001      | All Employees: Service-Providing in Evansville, IN-KY (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU18217800700000001A     | All Employees: Service-Providing in Evansville, IN-KY (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18217800700000001SA    | All Employees: Service-Providing in Evansville, IN-KY (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU18217800800000001      | All Employees: Private Service Providing in Evansville, IN-KY (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18217800700000001SA    | All Employees: Service-Providing in Evansville, IN-KY (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18217800800000001      | All Employees: Private Service Providing in Evansville, IN-KY (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18217800800000001A     | All Employees: Private Service Providing in Evansville, IN-KY (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18217800800000001SA    | All Employees: Private Service Providing in Evansville, IN-KY (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18217800800000001SA    | All Employees: Private Service Providing in Evansville, IN-KY (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18217801500000001A     | All Employees: Mining, Logging, and Construction in Evansville, IN-KY (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU18217803000000001A     | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18217803100000001      | All Employees: Manufacturing: Durable Goods in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18217803100000001      | All Employees: Manufacturing: Durable Goods in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18217803100000001A     | All Employees: Manufacturing: Durable Goods in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU18217803100000001SA    | All Employees: Manufacturing: Durable Goods in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18217803100000001SA    | All Employees: Manufacturing: Durable Goods in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18217804000000001A     | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18217804100000001      | All Employees: Wholesale Trade in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18217804100000001      | All Employees: Wholesale Trade in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18217804100000001A     | All Employees: Wholesale Trade in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18217804100000001SA    | All Employees: Wholesale Trade in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18217804200000001      | All Employees: Retail Trade in Evansville, IN-KY (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU18217804100000001SA    | All Employees: Wholesale Trade in Evansville, IN-KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18217804200000001      | All Employees: Retail Trade in Evansville, IN-KY (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU18217804200000001A     | All Employees: Retail Trade in Evansville, IN-KY (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18217804200000001SA    | All Employees: Retail Trade in Evansville, IN-KY (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU18217804245200001      | All Employees: Retail Trade: General Merchandise Stores in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU18217804200000001SA    | All Employees: Retail Trade in Evansville, IN-KY (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18217804245200001      | All Employees: Retail Trade: General Merchandise Stores in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU18217804245200001A     | All Employees: Retail Trade: General Merchandise Stores in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU18217804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU18217804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Evansville, IN-KY (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18217804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU18217804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Evansville, IN-KY (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18217804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Evansville, IN-KY (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18217804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Evansville, IN-KY (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18217804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Evansville, IN-KY (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18217805000000001A     | All Employees: Information in Evansville, IN-KY (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU18217805500000001A     | All Employees: Financial Activities in Evansville, IN-KY (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU18217806000000001A     | All Employees: Professional and Business Services in Evansville, IN-KY (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU18217806500000001A     | All Employees: Education and Health Services in Evansville, IN-KY (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU18217806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Evansville, IN-KY (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU18217806562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Evansville, IN-KY (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU18217806562000001A     | All Employees: Health Care and Social Assistance in Evansville, IN-KY (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU18217806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Evansville, IN-KY (MSA)         | 1990-01-01          | 2022-01-01        |
-| SMU18217806562200001      | All Employees: Education and Health Services: Hospitals in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU18217806562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Evansville, IN-KY (MSA)         | 1990-01-01          | 2022-02-01        |
+| SMU18217806562200001      | All Employees: Education and Health Services: Hospitals in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU18217806562200001A     | All Employees: Health Care: Hospitals in Evansville, IN-KY (MSA)                                                   | 1990-01-01          | 2021-01-01        |
-| SMU18217806562200001SA    | All Employees: Education and Health Services: Hospitals in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU18217806562200001SA    | All Employees: Education and Health Services: Hospitals in Evansville, IN-KY (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU18217807000000001A     | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU18217808000000001A     | All Employees: Other Services in Evansville, IN-KY (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU18217809000000001A     | All Employees: Government in Evansville, IN-KY (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18217809091000001      | All Employees: Government: Federal Government in Evansville, IN-KY (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU18217809091000001      | All Employees: Government: Federal Government in Evansville, IN-KY (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU18217809091000001A     | All Employees: Federal Government in Evansville, IN-KY (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU18217809091000001SA    | All Employees: Government: Federal Government in Evansville, IN-KY (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU18217809092000001      | All Employees: Government: State Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18217809091000001SA    | All Employees: Government: Federal Government in Evansville, IN-KY (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18217809092000001      | All Employees: Government: State Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18217809092000001A     | All Employees: State Government in Evansville, IN-KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18217809092000001SA    | All Employees: Government: State Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18217809093000001      | All Employees: Government: Local Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18217809092000001SA    | All Employees: Government: State Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18217809093000001      | All Employees: Government: Local Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18217809093000001A     | All Employees: Local Government in Evansville, IN-KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18217809093000001SA    | All Employees: Government: Local Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18217809093161101      | All Employees: Government: Local Government Educational Services in Evansville, IN-KY (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18217809093000001SA    | All Employees: Government: Local Government in Evansville, IN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18217809093161101      | All Employees: Government: Local Government Educational Services in Evansville, IN-KY (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU18217809093161101A     | All Employees: Local Government Educational Services in Evansville, IN-KY (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU18217809093161101SA    | All Employees: Government: Local Government Educational Services in Evansville, IN-KY (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18217809093161101SA    | All Employees: Government: Local Government Educational Services in Evansville, IN-KY (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SUSCMSA21780              | Market Hotness: Supply Score in Evansville, IN-KY (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

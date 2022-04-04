@@ -79,42 +79,42 @@
 | RPPGOOD46340              | Regional Price Parities: Goods for Tyler, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH46340          | Regional Price Parities: Services: Other for Tyler, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT46340         | Regional Price Parities: Services: Rents for Tyler, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48463400000000001      | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMS48463400000000026      | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48463400000000001      | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMS48463400000000026      | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48463400000000001A     | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1982-01-01          | 2021-01-01        |
-| SMU48463400500000001      | All Employees: Total Private in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48463400500000001      | All Employees: Total Private in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48463400500000001A     | All Employees: Total Private in Tyler, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48463400500000001SA    | All Employees: Total Private in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48463400500000002      | Average Weekly Hours of All Employees: Total Private in Tyler, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48463400500000001SA    | All Employees: Total Private in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48463400500000002      | Average Weekly Hours of All Employees: Total Private in Tyler, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48463400500000002A     | Average Weekly Hours of All Employees: Total Private in Tyler, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48463400500000002SA    | Average Weekly Hours of All Employees: Total Private in Tyler, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48463400500000003      | Average Hourly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48463400500000002SA    | Average Weekly Hours of All Employees: Total Private in Tyler, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48463400500000003      | Average Hourly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48463400500000003A     | Average Hourly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48463400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48463400500000011      | Average Weekly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48463400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48463400500000011      | Average Weekly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48463400500000011A     | Average Weekly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48463400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48463400600000001      | All Employees: Goods Producing in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48463400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Tyler, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48463400600000001      | All Employees: Goods Producing in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48463400600000001A     | All Employees: Goods Producing in Tyler, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48463400600000001SA    | All Employees: Goods Producing in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48463400700000001      | All Employees: Service-Providing in Tyler, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48463400600000001SA    | All Employees: Goods Producing in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48463400700000001      | All Employees: Service-Providing in Tyler, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48463400700000001A     | All Employees: Service-Providing in Tyler, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48463400700000001SA    | All Employees: Service-Providing in Tyler, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48463400800000001      | All Employees: Private Service Providing in Tyler, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48463400700000001SA    | All Employees: Service-Providing in Tyler, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48463400800000001      | All Employees: Private Service Providing in Tyler, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48463400800000001A     | All Employees: Private Service Providing in Tyler, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48463400800000001SA    | All Employees: Private Service Providing in Tyler, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48463400800000001SA    | All Employees: Private Service Providing in Tyler, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48463401500000001A     | All Employees: Mining, Logging, and Construction in Tyler, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48463403000000001A     | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48463404000000001A     | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48463404100000001      | All Employees: Wholesale Trade in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48463404100000001      | All Employees: Wholesale Trade in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48463404100000001A     | All Employees: Wholesale Trade in Tyler, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48463404100000001SA    | All Employees: Wholesale Trade in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48463404200000001      | All Employees: Retail Trade in Tyler, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48463404100000001SA    | All Employees: Wholesale Trade in Tyler, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48463404200000001      | All Employees: Retail Trade in Tyler, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48463404200000001A     | All Employees: Retail Trade in Tyler, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48463404200000001SA    | All Employees: Retail Trade in Tyler, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48463404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Tyler, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48463404200000001SA    | All Employees: Retail Trade in Tyler, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48463404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Tyler, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48463404300000001A     | All Employees: Transportation and Utilities in Tyler, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48463404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Tyler, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48463404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Tyler, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48463405000000001A     | All Employees: Information in Tyler, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48463405500000001A     | All Employees: Financial Activities in Tyler, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48463406000000001A     | All Employees: Professional and Business Services in Tyler, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -122,43 +122,43 @@
 | SMU48463407000000001A     | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48463408000000001A     | All Employees: Other Services in Tyler, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48463409000000001A     | All Employees: Government in Tyler, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48463409091000001      | All Employees: Government: Federal Government in Tyler, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48463409091000001      | All Employees: Government: Federal Government in Tyler, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48463409091000001A     | All Employees: Federal Government in Tyler, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48463409092000001      | All Employees: Government: State Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48463409092000001      | All Employees: Government: State Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48463409092000001A     | All Employees: State Government in Tyler, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48463409092000001SA    | All Employees: Government: State Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48463409093000001      | All Employees: Government: Local Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48463409092000001SA    | All Employees: Government: State Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48463409093000001      | All Employees: Government: Local Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48463409093000001A     | All Employees: Local Government in Tyler, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48463409093000001SA    | All Employees: Government: Local Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48463409093000001SA    | All Employees: Government: Local Government in Tyler, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA46340              | Market Hotness: Supply Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| TYLE348EDUH               | All Employees: Education and Health Services in Tyler, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| TYLE348EDUHN              | All Employees: Education and Health Services in Tyler, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| TYLE348FIRE               | All Employees: Financial Activities in Tyler, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| TYLE348FIREN              | All Employees: Financial Activities in Tyler, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| TYLE348GOVT               | All Employees: Government in Tyler, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| TYLE348GOVTN              | All Employees: Government in Tyler, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| TYLE348INFO               | All Employees: Information in Tyler, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| TYLE348INFON              | All Employees: Information in Tyler, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| TYLE348LEIH               | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| TYLE348LEIHN              | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| TYLE348EDUH               | All Employees: Education and Health Services in Tyler, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| TYLE348EDUHN              | All Employees: Education and Health Services in Tyler, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| TYLE348FIRE               | All Employees: Financial Activities in Tyler, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| TYLE348FIREN              | All Employees: Financial Activities in Tyler, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| TYLE348GOVT               | All Employees: Government in Tyler, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| TYLE348GOVTN              | All Employees: Government in Tyler, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| TYLE348INFO               | All Employees: Information in Tyler, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| TYLE348INFON              | All Employees: Information in Tyler, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| TYLE348LEIH               | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| TYLE348LEIHN              | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | TYLE348LF                 | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | TYLE348LFN                | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| TYLE348MFG                | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| TYLE348MFGN               | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| TYLE348NAN                | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1982-01-01          | 2022-01-01        |
-| TYLE348NRMN               | All Employees: Mining, Logging, and Construction in Tyler, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| TYLE348NRMNN              | All Employees: Mining, Logging, and Construction in Tyler, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| TYLE348PBSV               | All Employees: Professional and Business Services in Tyler, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| TYLE348PBSVN              | All Employees: Professional and Business Services in Tyler, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| TYLE348MFG                | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| TYLE348MFGN               | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| TYLE348NAN                | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1982-01-01          | 2022-02-01        |
+| TYLE348NRMN               | All Employees: Mining, Logging, and Construction in Tyler, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| TYLE348NRMNN              | All Employees: Mining, Logging, and Construction in Tyler, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| TYLE348PBSV               | All Employees: Professional and Business Services in Tyler, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| TYLE348PBSVN              | All Employees: Professional and Business Services in Tyler, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | TYLE348PCPI               | Per Capita Personal Income in Tyler, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| TYLE348SRVO               | All Employees: Other Services in Tyler, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| TYLE348SRVON              | All Employees: Other Services in Tyler, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| TYLE348TRAD               | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| TYLE348TRADN              | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| TYLE348SRVO               | All Employees: Other Services in Tyler, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| TYLE348SRVON              | All Employees: Other Services in Tyler, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| TYLE348TRAD               | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| TYLE348TRADN              | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | TYLE348UR                 | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | TYLE348URN                | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| TYLPOP                    | Resident Population in Tyler, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| TYLSA158MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| TYLSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| TYLSA175MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| TYLPOP                    | Resident Population in Tyler, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| TYLSA158MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| TYLSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| TYLSA175MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | TYLSA674AFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |

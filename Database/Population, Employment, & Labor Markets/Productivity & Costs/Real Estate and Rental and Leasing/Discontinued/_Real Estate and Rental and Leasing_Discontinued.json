@@ -1,8 +1,8 @@
 {
   "PCU531130531130SM": {
     "id": "PCU531130531130SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Miniwarehouse and Self-Storage Unit Operators: Other Receipts (DISCONTINUED)",
     "observation_start": "2003-12-01",
     "observation_end": "2012-03-01",
@@ -18,8 +18,8 @@
   },
   "PCU532111532111SM": {
     "id": "PCU532111532111SM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Passenger Car Rental: Other Receipts (DISCONTINUED)",
     "observation_start": "1991-12-01",
     "observation_end": "2015-12-01",
@@ -35,8 +35,8 @@
   },
   "PCU5321205321205": {
     "id": "PCU5321205321205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Trailer and RV Rental and Leasing: Truck Tractor Rental and/or Leasing (DISCONTINUED)",
     "observation_start": "2007-06-01",
     "observation_end": "2015-09-01",
@@ -53,8 +53,8 @@
   },
   "PCU5321205321206": {
     "id": "PCU5321205321206",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Truck, Trailer and RV Rental and Leasing: Truck Trailer, Utility Trailer, and RV Rental and/or Leasing (DISCONTINUED)",
     "observation_start": "2007-06-01",
     "observation_end": "2015-09-01",

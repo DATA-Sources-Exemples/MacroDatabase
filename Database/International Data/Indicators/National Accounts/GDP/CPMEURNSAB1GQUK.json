@@ -1,7 +1,7 @@
 {
   "id": "CPMEURNSAB1GQUK",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Gross Domestic Product (Euro/ECU series) for United Kingdom",
   "observation_start": "1975-01-01",
   "observation_end": "2020-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-02-17 16:53:48-06",
   "popularity": 2,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Eurostat unit ID: CP_MEUR\nEurostat item ID = B1GQ\nEurostat country ID: UK\n\nEuro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016.Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

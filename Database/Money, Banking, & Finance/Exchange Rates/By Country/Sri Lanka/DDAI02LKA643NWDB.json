@@ -1,7 +1,7 @@
 {
   "id": "DDAI02LKA643NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Number of Bank Branches for Sri Lanka",
   "observation_start": "2004-01-01",
   "observation_end": "2015-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Number per 100,000 adults",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2018-09-21 11:22:05-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "last_updated": "2022-03-23 16:23:05-05",
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Number of commercial bank branches per 100,000 adults.\n\nFor each type of reporting institution calculated as:(number of institutions + number of branches)*100,000/adult population in the reporting country. (International Monetary Fund, Financial Access Survey)\n\nSource Code: GFDD.AI.02"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CEU7000000016",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Indexes of Aggregate Weekly Hours of All Employees, Leisure and Hospitality",
   "observation_start": "2006-03-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-04 07:48:50-06",
-  "popularity": 1,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 4,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU7000000016"
 }

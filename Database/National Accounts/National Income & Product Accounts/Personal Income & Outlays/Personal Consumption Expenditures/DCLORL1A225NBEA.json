@@ -1,7 +1,7 @@
 {
   "id": "DCLORL1A225NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Personal Consumption Expenditures: Goods: Nondurable Goods: Clothing and Footwear",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 07:57:22-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "BEA Account Code: DCLORL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

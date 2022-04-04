@@ -27,23 +27,23 @@
 | LAUMT533102000000005A     | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2020-01-01        |
 | LAUMT533102000000006A     | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2020-01-01        |
 | LGKPOP                    | Resident Population in Longview, WA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| LONG053EDUH               | All Employees: Education and Health Services in Longview, WA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| LONG053EDUHN              | All Employees: Education and Health Services in Longview, WA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| LONG053GOVT               | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| LONG053GOVTN              | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| LONG053LEIH               | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| LONG053LEIHN              | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| LONG053EDUH               | All Employees: Education and Health Services in Longview, WA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| LONG053EDUHN              | All Employees: Education and Health Services in Longview, WA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| LONG053GOVT               | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| LONG053GOVTN              | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| LONG053LEIH               | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| LONG053LEIHN              | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | LONG053LF                 | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | LONG053LFN                | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| LONG053MFG                | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LONG053MFGN               | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LONG053NA                 | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LONG053NAN                | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| LONG053NRMN               | All Employees: Mining, Logging, and Construction in Longview, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| LONG053NRMNN              | All Employees: Mining, Logging, and Construction in Longview, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
+| LONG053MFG                | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LONG053MFGN               | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LONG053NA                 | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LONG053NAN                | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| LONG053NRMN               | All Employees: Mining, Logging, and Construction in Longview, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
+| LONG053NRMNN              | All Employees: Mining, Logging, and Construction in Longview, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
 | LONG053PCPI               | Per Capita Personal Income in Longview, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| LONG053TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| LONG053TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| LONG053TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| LONG053TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | LONG053UR                 | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | LONG053URN                | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | MEDDAYONMAR31020          | Housing Inventory: Median Days on Market in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-01-01        |
@@ -80,47 +80,47 @@
 | RPPGOOD31020              | Regional Price Parities: Goods for Longview, WA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH31020          | Regional Price Parities: Services: Other for Longview, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT31020         | Regional Price Parities: Services: Rents for Longview, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS53310200000000026      | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS53310200000000026      | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU53310200000000001A     | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53310200500000001      | All Employees: Total Private in Longview, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU53310200500000001      | All Employees: Total Private in Longview, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU53310200500000001A     | All Employees: Total Private in Longview, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53310200500000001SA    | All Employees: Total Private in Longview, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU53310200500000002      | Average Weekly Hours of All Employees: Total Private in Longview, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU53310200500000001SA    | All Employees: Total Private in Longview, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU53310200500000002      | Average Weekly Hours of All Employees: Total Private in Longview, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU53310200500000002A     | Average Weekly Hours of All Employees: Total Private in Longview, WA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU53310200500000002SA    | Average Weekly Hours of All Employees: Total Private in Longview, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU53310200500000003      | Average Hourly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53310200500000002SA    | Average Weekly Hours of All Employees: Total Private in Longview, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU53310200500000003      | Average Hourly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53310200500000003A     | Average Hourly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53310200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53310200500000011      | Average Weekly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53310200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53310200500000011      | Average Weekly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53310200500000011A     | Average Weekly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53310200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53310200600000001      | All Employees: Goods Producing in Longview, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU53310200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Longview, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53310200600000001      | All Employees: Goods Producing in Longview, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU53310200600000001A     | All Employees: Goods Producing in Longview, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53310200600000001SA    | All Employees: Goods Producing in Longview, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU53310200700000001      | All Employees: Service-Providing in Longview, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU53310200600000001SA    | All Employees: Goods Producing in Longview, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU53310200700000001      | All Employees: Service-Providing in Longview, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU53310200700000001A     | All Employees: Service-Providing in Longview, WA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU53310200700000001SA    | All Employees: Service-Providing in Longview, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU53310200800000001      | All Employees: Private Service Providing in Longview, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53310200700000001SA    | All Employees: Service-Providing in Longview, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU53310200800000001      | All Employees: Private Service Providing in Longview, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53310200800000001A     | All Employees: Private Service Providing in Longview, WA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU53310200800000001SA    | All Employees: Private Service Providing in Longview, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53310200800000001SA    | All Employees: Private Service Providing in Longview, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53310201500000001A     | All Employees: Mining, Logging, and Construction in Longview, WA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU53310203000000001A     | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53310203200000001      | All Employees: Manufacturing: Non-Durable Goods in Longview, WA (MSA)                           | 1990-01-01          | 2022-01-01        |
+| SMU53310203200000001      | All Employees: Manufacturing: Non-Durable Goods in Longview, WA (MSA)                           | 1990-01-01          | 2022-02-01        |
 | SMU53310203200000001A     | All Employees: Manufacturing: Non-Durable Goods in Longview, WA (MSA)                           | 1990-01-01          | 2021-01-01        |
-| SMU53310203200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Longview, WA (MSA)                           | 1990-01-01          | 2022-01-01        |
+| SMU53310203200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Longview, WA (MSA)                           | 1990-01-01          | 2022-02-01        |
 | SMU53310204000000001A     | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU53310204200000001      | All Employees: Retail Trade in Longview, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53310204200000001      | All Employees: Retail Trade in Longview, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53310204200000001A     | All Employees: Retail Trade in Longview, WA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU53310204200000001SA    | All Employees: Retail Trade in Longview, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53310204200000001SA    | All Employees: Retail Trade in Longview, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53310206500000001A     | All Employees: Education and Health Services in Longview, WA (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU53310207000000001A     | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU53310209000000001A     | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU53310209091000001      | All Employees: Government: Federal Government in Longview, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU53310209091000001      | All Employees: Government: Federal Government in Longview, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU53310209091000001A     | All Employees: Federal Government in Longview, WA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU53310209091000001SA    | All Employees: Government: Federal Government in Longview, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU53310209092000001      | All Employees: Government: State Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53310209091000001SA    | All Employees: Government: Federal Government in Longview, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU53310209092000001      | All Employees: Government: State Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53310209092000001A     | All Employees: State Government in Longview, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53310209092000001SA    | All Employees: Government: State Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU53310209093000001      | All Employees: Government: Local Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53310209092000001SA    | All Employees: Government: State Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU53310209093000001      | All Employees: Government: Local Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53310209093000001A     | All Employees: Local Government in Longview, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53310209093000001SA    | All Employees: Government: Local Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53310209093000001SA    | All Employees: Government: Local Government in Longview, WA (MSA)                               | 1990-01-01          | 2022-02-01        |

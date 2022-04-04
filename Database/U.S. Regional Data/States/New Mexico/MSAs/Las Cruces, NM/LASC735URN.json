@@ -1,7 +1,7 @@
 {
   "id": "LASC735URN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate in Las Cruces, NM (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-18 17:20:35-05",
-  "popularity": 4,
-  "group_popularity": 5
+  "popularity": 2,
+  "group_popularity": 2
 }

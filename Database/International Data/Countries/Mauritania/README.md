@@ -13,7 +13,7 @@
 | CTMRTA475SCEN        | Number of Identified Exporters to Mauritania from Connecticut                                                                | 2002-01-01          | 2016-01-01        |
 | DCMRTA052SCEN        | Value of Exports to Mauritania from District of Columbia                                                                     | 2005-01-01          | 2007-01-01        |
 | DCMRTA475SCEN        | Number of Identified Exporters to Mauritania from District of Columbia                                                       | 1992-01-01          | 2016-01-01        |
-| DDAI02MRA643NWDB     | Number of Bank Branches for Mauritania                                                                                       | 2007-01-01          | 2017-01-01        |
+| DDAI02MRA643NWDB     | Number of Bank Branches for Mauritania                                                                                       | 2007-01-01          | 2019-01-01        |
 | DDAI03MRA156NWDB     | Firms with a Bank Loan or Line of Credit to Total Firms for Mauritania                                                       | 2006-01-01          | 2014-01-01        |
 | DDAI04MRA156NWDB     | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Mauritania                                           | 2006-01-01          | 2014-01-01        |
 | DDAI05MRA156NWDB     | People 15 Years and Over with Account at a Formal Financial Institution for Mauritania                                       | 2011-01-01          | 2017-01-01        |
@@ -21,38 +21,38 @@
 | DDAI07MRA156NWDB     | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Mauritania                              | 2011-01-01          | 2017-01-01        |
 | DDDI01MRA156NWDB     | Private Credit by Deposit Money Banks to GDP for Mauritania                                                                  | 2005-01-01          | 2017-01-01        |
 | DDDI02MRA156NWDB     | Deposit Money Bank Assets to GDP for Mauritania                                                                              | 2005-01-01          | 2017-01-01        |
-| DDDI04MRA156NWDB     | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Mauritania                                | 2005-01-01          | 2017-01-01        |
+| DDDI04MRA156NWDB     | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Mauritania                                | 1968-01-01          | 2019-01-01        |
 | DDDI05MRA156NWDB     | Liquid Liabilities to GDP for Mauritania                                                                                     | 2005-01-01          | 2017-01-01        |
 | DDDI06MRA156NWDB     | Central Bank Assets to GDP for Mauritania                                                                                    | 2005-01-01          | 2017-01-01        |
 | DDDI08MRA156NWDB     | Financial System Deposits to GDP for Mauritania                                                                              | 2005-01-01          | 2017-01-01        |
 | DDDI09MRA156NWDB     | Life Insurance Premium Volume to GDP for Mauritania                                                                          | 2003-01-01          | 2009-01-01        |
 | DDDI10MRA156NWDB     | Non-Life Insurance Premium Volume to GDP for Mauritania                                                                      | 2003-01-01          | 2015-01-01        |
 | DDDI12MRA156NWDB     | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Mauritania                                 | 2005-01-01          | 2017-01-01        |
-| DDEI01MRA156NWDB     | Bank's Net Interest Margin for Mauritania                                                                                    | 2002-01-01          | 2017-01-01        |
-| DDEI02MRA156NWDB     | Bank Lending Deposit Spread for Mauritania                                                                                   | 2002-01-01          | 2017-01-01        |
-| DDEI03MRA156NWDB     | Bank's Non-Interest Income to Total Income for Mauritania                                                                    | 2002-01-01          | 2017-01-01        |
-| DDEI04MRA156NWDB     | Bank's Overhead Costs to Total Assets for Mauritania                                                                         | 2002-01-01          | 2017-01-01        |
-| DDEI05MRA156NWDB     | Bank's Return on Assets for Mauritania                                                                                       | 2002-01-01          | 2017-01-01        |
-| DDEI06MRA156NWDB     | Bank's Return on Equity for Mauritania                                                                                       | 2002-01-01          | 2017-01-01        |
-| DDEI07MRA156NWDB     | Bank's Cost to Income Ratio for Mauritania                                                                                   | 2002-01-01          | 2017-01-01        |
+| DDEI01MRA156NWDB     | Bank's Net Interest Margin for Mauritania                                                                                    | 2001-01-01          | 2020-01-01        |
+| DDEI02MRA156NWDB     | Bank Lending Deposit Spread for Mauritania                                                                                   | 1980-01-01          | 2017-01-01        |
+| DDEI03MRA156NWDB     | Bank's Non-Interest Income to Total Income for Mauritania                                                                    | 2000-01-01          | 2020-01-01        |
+| DDEI04MRA156NWDB     | Bank's Overhead Costs to Total Assets for Mauritania                                                                         | 2001-01-01          | 2020-01-01        |
+| DDEI05MRA156NWDB     | Bank's Return on Assets for Mauritania                                                                                       | 2001-01-01          | 2020-01-01        |
+| DDEI06MRA156NWDB     | Bank's Return on Equity for Mauritania                                                                                       | 2001-01-01          | 2020-01-01        |
+| DDEI07MRA156NWDB     | Bank's Cost to Income Ratio for Mauritania                                                                                   | 2000-01-01          | 2020-01-01        |
 | DDEI08MRA156NWDB     | Credit to Government and State-Owned Enterprises to GDP for Mauritania                                                       | 2005-01-01          | 2017-01-01        |
-| DDOE01MRA086NWDB     | Consumer Price Index for Mauritania                                                                                          | 2002-01-01          | 2017-01-01        |
-| DDOE02MRA086NWDB     | Consumer Price Index for Mauritania                                                                                          | 2002-01-01          | 2017-01-01        |
-| DDOI01MRA156NWDB     | Bank Concentration for Mauritania                                                                                            | 2002-01-01          | 2017-01-01        |
+| DDOE01MRA086NWDB     | Consumer Price Index for Mauritania                                                                                          | 1985-01-01          | 2017-01-01        |
+| DDOE02MRA086NWDB     | Consumer Price Index for Mauritania                                                                                          | 1985-01-01          | 2017-01-01        |
+| DDOI01MRA156NWDB     | Bank Concentration for Mauritania                                                                                            | 2000-01-01          | 2020-01-01        |
 | DDOI02MRA156NWDB     | Bank Deposits to GDP for Mauritania                                                                                          | 2005-01-01          | 2017-01-01        |
-| DDOI04MRA066NWDB     | Lerner Index in Banking Market for Mauritania                                                                                | 2002-01-01          | 2013-01-01        |
-| DDOI05MRA156NWDB     | Boone Indicator in Banking Market for Mauritania                                                                             | 2002-01-01          | 2014-01-01        |
-| DDOI06MRA156NWDB     | 5-Bank Asset Concentration for Mauritania                                                                                    | 2002-01-01          | 2017-01-01        |
-| DDOI07MRA648NWDB     | Liquid Liabilities (Broad Money) for Mauritania                                                                              | 2005-01-01          | 2017-01-01        |
+| DDOI04MRA066NWDB     | Lerner Index in Banking Market for Mauritania                                                                                | 1996-01-01          | 2013-01-01        |
+| DDOI05MRA156NWDB     | Boone Indicator in Banking Market for Mauritania                                                                             | 1999-01-01          | 2014-01-01        |
+| DDOI06MRA156NWDB     | 5-Bank Asset Concentration for Mauritania                                                                                    | 2002-01-01          | 2019-01-01        |
+| DDOI07MRA648NWDB     | Liquid Liabilities (Broad Money) for Mauritania                                                                              | 1962-01-01          | 2019-01-01        |
 | DDOI09MRA156NWDB     | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Mauritania                                                    | 2002-01-01          | 2013-01-01        |
 | DDOI10MRA156NWDB     | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Mauritania                              | 2005-01-01          | 2017-01-01        |
-| DDOI11MRA156NWDB     | Remittance Inflows to GDP for Mauritania                                                                                     | 2017-01-01          | 2017-01-01        |
-| DDOI12MRA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Mauritania                                                     | 2002-01-01          | 2017-01-01        |
-| DDOI13MRA156NWDB     | Percentage of Foreign Banks Among Total Banks for Mauritania                                                                 | 2002-01-01          | 2013-01-01        |
+| DDOI11MRA156NWDB     | Remittance Inflows to GDP for Mauritania                                                                                     | 1975-01-01          | 2020-01-01        |
+| DDOI12MRA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Mauritania                                                     | 1983-01-01          | 2019-01-01        |
+| DDOI13MRA156NWDB     | Percentage of Foreign Banks Among Total Banks for Mauritania                                                                 | 1995-01-01          | 2013-01-01        |
 | DDOI14MRA156NWDB     | Percentage of Foreign Bank Assets Among Total Bank Assets for Mauritania                                                     | 2004-01-01          | 2012-01-01        |
-| DDSI01MRA645NWDB     | Bank Z-Score for Mauritania                                                                                                  | 2002-01-01          | 2017-01-01        |
-| DDSI04MRA156NWDB     | Bank Credit to Bank Deposits for Mauritania                                                                                  | 2005-01-01          | 2017-01-01        |
-| DDSI06MRA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Mauritania                                                              | 2002-01-01          | 2017-01-01        |
+| DDSI01MRA645NWDB     | Bank Z-Score for Mauritania                                                                                                  | 2000-01-01          | 2020-01-01        |
+| DDSI04MRA156NWDB     | Bank Credit to Bank Deposits for Mauritania                                                                                  | 1961-01-01          | 2019-01-01        |
+| DDSI06MRA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Mauritania                                                              | 2000-01-01          | 2020-01-01        |
 | EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-01-01        |
 | FLMRTA052SCEN        | Value of Exports to Mauritania from Florida                                                                                  | 2002-01-01          | 2017-01-01        |
 | FLMRTA475SCEN        | Number of Identified Exporters to Mauritania from Florida                                                                    | 1997-01-01          | 2017-01-01        |

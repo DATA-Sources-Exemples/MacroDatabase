@@ -79,68 +79,68 @@
 | RPPGOOD43620              | Regional Price Parities: Goods for Sioux Falls, SD (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH43620          | Regional Price Parities: Services: Other for Sioux Falls, SD (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT43620         | Regional Price Parities: Services: Rents for Sioux Falls, SD (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SIOU646EDUH               | All Employees: Education and Health Services in Sioux Falls, SD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SIOU646EDUHN              | All Employees: Education and Health Services in Sioux Falls, SD (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SIOU646FIRE               | All Employees: Financial Activities in Sioux Falls, SD (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SIOU646FIREN              | All Employees: Financial Activities in Sioux Falls, SD (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SIOU646GOVT               | All Employees: Government in Sioux Falls, SD (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SIOU646GOVTN              | All Employees: Government in Sioux Falls, SD (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SIOU646INFO               | All Employees: Information in Sioux Falls, SD (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SIOU646INFON              | All Employees: Information in Sioux Falls, SD (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SIOU646LEIH               | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SIOU646LEIHN              | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SIOU646EDUH               | All Employees: Education and Health Services in Sioux Falls, SD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SIOU646EDUHN              | All Employees: Education and Health Services in Sioux Falls, SD (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SIOU646FIRE               | All Employees: Financial Activities in Sioux Falls, SD (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SIOU646FIREN              | All Employees: Financial Activities in Sioux Falls, SD (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SIOU646GOVT               | All Employees: Government in Sioux Falls, SD (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SIOU646GOVTN              | All Employees: Government in Sioux Falls, SD (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SIOU646INFO               | All Employees: Information in Sioux Falls, SD (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SIOU646INFON              | All Employees: Information in Sioux Falls, SD (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SIOU646LEIH               | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SIOU646LEIHN              | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SIOU646LF                 | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | SIOU646LFN                | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SIOU646MFG                | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SIOU646MFGN               | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SIOU646NA                 | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SIOU646NAN                | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SIOU646NRMN               | All Employees: Mining, Logging, and Construction in Sioux Falls, SD (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SIOU646NRMNN              | All Employees: Mining, Logging, and Construction in Sioux Falls, SD (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SIOU646PBSV               | All Employees: Professional and Business Services in Sioux Falls, SD (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SIOU646PBSVN              | All Employees: Professional and Business Services in Sioux Falls, SD (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SIOU646MFG                | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SIOU646MFGN               | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SIOU646NA                 | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SIOU646NAN                | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SIOU646NRMN               | All Employees: Mining, Logging, and Construction in Sioux Falls, SD (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SIOU646NRMNN              | All Employees: Mining, Logging, and Construction in Sioux Falls, SD (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SIOU646PBSV               | All Employees: Professional and Business Services in Sioux Falls, SD (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SIOU646PBSVN              | All Employees: Professional and Business Services in Sioux Falls, SD (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SIOU646PCPI               | Per Capita Personal Income in Sioux Falls, SD (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| SIOU646SRVO               | All Employees: Other Services in Sioux Falls, SD (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SIOU646SRVON              | All Employees: Other Services in Sioux Falls, SD (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SIOU646TRAD               | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SIOU646TRADN              | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SIOU646SRVO               | All Employees: Other Services in Sioux Falls, SD (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SIOU646SRVON              | All Employees: Other Services in Sioux Falls, SD (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SIOU646TRAD               | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SIOU646TRADN              | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SIOU646UR                 | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SIOU646URN                | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| SMS46436200000000026      | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS46436200000000026      | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU46436200000000001A     | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU46436200500000001      | All Employees: Total Private in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU46436200500000001      | All Employees: Total Private in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU46436200500000001A     | All Employees: Total Private in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU46436200500000001SA    | All Employees: Total Private in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU46436200500000002      | Average Weekly Hours of All Employees: Total Private in Sioux Falls, SD (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU46436200500000001SA    | All Employees: Total Private in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU46436200500000002      | Average Weekly Hours of All Employees: Total Private in Sioux Falls, SD (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU46436200500000002A     | Average Weekly Hours of All Employees: Total Private in Sioux Falls, SD (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU46436200500000002SA    | Average Weekly Hours of All Employees: Total Private in Sioux Falls, SD (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU46436200500000003      | Average Hourly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU46436200500000002SA    | Average Weekly Hours of All Employees: Total Private in Sioux Falls, SD (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU46436200500000003      | Average Hourly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU46436200500000003A     | Average Hourly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU46436200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU46436200500000011      | Average Weekly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU46436200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU46436200500000011      | Average Weekly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU46436200500000011A     | Average Weekly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU46436200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU46436200600000001      | All Employees: Goods Producing in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU46436200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Sioux Falls, SD (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU46436200600000001      | All Employees: Goods Producing in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU46436200600000001A     | All Employees: Goods Producing in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU46436200600000001SA    | All Employees: Goods Producing in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU46436200700000001      | All Employees: Service-Providing in Sioux Falls, SD (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU46436200600000001SA    | All Employees: Goods Producing in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU46436200700000001      | All Employees: Service-Providing in Sioux Falls, SD (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU46436200700000001A     | All Employees: Service-Providing in Sioux Falls, SD (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU46436200700000001SA    | All Employees: Service-Providing in Sioux Falls, SD (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU46436200800000001      | All Employees: Private Service Providing in Sioux Falls, SD (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU46436200700000001SA    | All Employees: Service-Providing in Sioux Falls, SD (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU46436200800000001      | All Employees: Private Service Providing in Sioux Falls, SD (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU46436200800000001A     | All Employees: Private Service Providing in Sioux Falls, SD (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU46436200800000001SA    | All Employees: Private Service Providing in Sioux Falls, SD (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU46436200800000001SA    | All Employees: Private Service Providing in Sioux Falls, SD (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU46436201500000001A     | All Employees: Mining, Logging, and Construction in Sioux Falls, SD (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU46436203000000001A     | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU46436204000000001A     | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU46436204100000001      | All Employees: Wholesale Trade in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU46436204100000001      | All Employees: Wholesale Trade in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU46436204100000001A     | All Employees: Wholesale Trade in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU46436204100000001SA    | All Employees: Wholesale Trade in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU46436204200000001      | All Employees: Retail Trade in Sioux Falls, SD (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU46436204100000001SA    | All Employees: Wholesale Trade in Sioux Falls, SD (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU46436204200000001      | All Employees: Retail Trade in Sioux Falls, SD (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU46436204200000001A     | All Employees: Retail Trade in Sioux Falls, SD (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU46436204200000001SA    | All Employees: Retail Trade in Sioux Falls, SD (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU46436204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sioux Falls, SD (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU46436204200000001SA    | All Employees: Retail Trade in Sioux Falls, SD (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU46436204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sioux Falls, SD (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU46436204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sioux Falls, SD (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU46436204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sioux Falls, SD (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU46436204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sioux Falls, SD (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU46436205000000001A     | All Employees: Information in Sioux Falls, SD (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU46436205500000001A     | All Employees: Financial Activities in Sioux Falls, SD (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU46436206000000001A     | All Employees: Professional and Business Services in Sioux Falls, SD (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -148,14 +148,14 @@
 | SMU46436207000000001A     | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU46436208000000001A     | All Employees: Other Services in Sioux Falls, SD (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU46436209000000001A     | All Employees: Government in Sioux Falls, SD (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU46436209091000001      | All Employees: Government: Federal Government in Sioux Falls, SD (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU46436209091000001      | All Employees: Government: Federal Government in Sioux Falls, SD (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU46436209091000001A     | All Employees: Government: Federal Government in Sioux Falls, SD (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU46436209091000001SA    | All Employees: Government: Federal Government in Sioux Falls, SD (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU46436209092000001      | All Employees: Government: State Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU46436209091000001SA    | All Employees: Government: Federal Government in Sioux Falls, SD (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU46436209092000001      | All Employees: Government: State Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU46436209092000001A     | All Employees: Government: State Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU46436209092000001SA    | All Employees: Government: State Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU46436209093000001      | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU46436209092000001SA    | All Employees: Government: State Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU46436209093000001      | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU46436209093000001A     | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU46436209093000001SA    | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU46436209093000001SA    | All Employees: Government: Local Government in Sioux Falls, SD (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA43620              | Market Hotness: Supply Score in Sioux Falls, SD (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| SXFPOP                    | Resident Population in Sioux Falls, SD (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| SXFPOP                    | Resident Population in Sioux Falls, SD (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

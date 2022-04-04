@@ -20,35 +20,35 @@
 | ENUC230640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC230640510             | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC230640510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2021-07-01        |
-| FORT018BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-01-01        |
-| FORT018BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-01-01        |
-| FORT018BPPRIV             | New Private Housing Units Authorized by Building Permits for Fort Wayne, in (MSA)                               | 1988-01-01          | 2022-01-01        |
-| FORT018BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Fort Wayne, IN (MSA)                               | 1988-01-01          | 2022-01-01        |
-| FORT018EDUH               | All Employees: Education and Health Services in Fort Wayne, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| FORT018EDUHN              | All Employees: Education and Health Services in Fort Wayne, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| FORT018FIRE               | All Employees: Financial Activities in Fort Wayne, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| FORT018FIREN              | All Employees: Financial Activities in Fort Wayne, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| FORT018GOVT               | All Employees: Government in Fort Wayne, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| FORT018GOVTN              | All Employees: Government in Fort Wayne, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| FORT018INFO               | All Employees: Information in Fort Wayne, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| FORT018INFON              | All Employees: Information in Fort Wayne, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| FORT018LEIH               | All Employees: Leisure and Hospitality in Fort Wayne, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| FORT018LEIHN              | All Employees: Leisure and Hospitality in Fort Wayne, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| FORT018BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-02-01        |
+| FORT018BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-02-01        |
+| FORT018BPPRIV             | New Private Housing Units Authorized by Building Permits for Fort Wayne, in (MSA)                               | 1988-01-01          | 2022-02-01        |
+| FORT018BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Fort Wayne, IN (MSA)                               | 1988-01-01          | 2022-02-01        |
+| FORT018EDUH               | All Employees: Education and Health Services in Fort Wayne, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| FORT018EDUHN              | All Employees: Education and Health Services in Fort Wayne, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| FORT018FIRE               | All Employees: Financial Activities in Fort Wayne, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| FORT018FIREN              | All Employees: Financial Activities in Fort Wayne, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| FORT018GOVT               | All Employees: Government in Fort Wayne, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| FORT018GOVTN              | All Employees: Government in Fort Wayne, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| FORT018INFO               | All Employees: Information in Fort Wayne, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| FORT018INFON              | All Employees: Information in Fort Wayne, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| FORT018LEIH               | All Employees: Leisure and Hospitality in Fort Wayne, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| FORT018LEIHN              | All Employees: Leisure and Hospitality in Fort Wayne, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | FORT018LF                 | Civilian Labor Force in Fort Wayne, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | FORT018LFN                | Civilian Labor Force in Fort Wayne, IN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| FORT018MFG                | All Employees: Manufacturing in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FORT018MFGN               | All Employees: Manufacturing in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FORT018NA                 | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FORT018NAN                | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FORT018NRMN               | All Employees: Mining, Logging, and Construction in Fort Wayne, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| FORT018NRMNN              | All Employees: Mining, Logging, and Construction in Fort Wayne, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| FORT018PBSV               | All Employees: Professional and Business Services in Fort Wayne, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| FORT018PBSVN              | All Employees: Professional and Business Services in Fort Wayne, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| FORT018MFG                | All Employees: Manufacturing in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FORT018MFGN               | All Employees: Manufacturing in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FORT018NA                 | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FORT018NAN                | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FORT018NRMN               | All Employees: Mining, Logging, and Construction in Fort Wayne, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| FORT018NRMNN              | All Employees: Mining, Logging, and Construction in Fort Wayne, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| FORT018PBSV               | All Employees: Professional and Business Services in Fort Wayne, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| FORT018PBSVN              | All Employees: Professional and Business Services in Fort Wayne, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | FORT018PCPI               | Per Capita Personal Income in Fort Wayne, IN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| FORT018SRVO               | All Employees: Other Services in Fort Wayne, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| FORT018SRVON              | All Employees: Other Services in Fort Wayne, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| FORT018TRAD               | All Employees: Trade, Transportation, and Utilities in Fort Wayne, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| FORT018TRADN              | All Employees: Trade, Transportation, and Utilities in Fort Wayne, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| FORT018SRVO               | All Employees: Other Services in Fort Wayne, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| FORT018SRVON              | All Employees: Other Services in Fort Wayne, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| FORT018TRAD               | All Employees: Trade, Transportation, and Utilities in Fort Wayne, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| FORT018TRADN              | All Employees: Trade, Transportation, and Utilities in Fort Wayne, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | FORT018UR                 | Unemployment Rate in Fort Wayne, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | FORT018URN                | Unemployment Rate in Fort Wayne, IN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | FWAPOP                    | Resident Population in Fort Wayne, IN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -111,50 +111,50 @@
 | RPPGOOD23060              | Regional Price Parities: Goods for Fort Wayne, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH23060          | Regional Price Parities: Services: Other for Fort Wayne, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT23060         | Regional Price Parities: Services: Rents for Fort Wayne, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS18230600000000026      | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS18230600000000026      | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU18230600000000001A     | All Employees: Total Nonfarm in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18230600500000001      | All Employees: Total Private in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18230600500000001      | All Employees: Total Private in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18230600500000001A     | All Employees: Total Private in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18230600500000001SA    | All Employees: Total Private in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18230600500000002      | Average Weekly Hours of All Employees: Total Private in Fort Wayne, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU18230600500000001SA    | All Employees: Total Private in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18230600500000002      | Average Weekly Hours of All Employees: Total Private in Fort Wayne, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU18230600500000002A     | Average Weekly Hours of All Employees: Total Private in Fort Wayne, IN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18230600500000002SA    | Average Weekly Hours of All Employees: Total Private in Fort Wayne, IN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU18230600500000003      | Average Hourly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18230600500000002SA    | Average Weekly Hours of All Employees: Total Private in Fort Wayne, IN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18230600500000003      | Average Hourly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18230600500000003A     | Average Hourly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18230600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18230600500000011      | Average Weekly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU18230600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18230600500000011      | Average Weekly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU18230600500000011A     | Average Weekly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18230600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU18230600600000001      | All Employees: Goods Producing in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18230600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Fort Wayne, IN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18230600600000001      | All Employees: Goods Producing in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18230600600000001A     | All Employees: Goods Producing in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18230600600000001SA    | All Employees: Goods Producing in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18230600700000001      | All Employees: Service-Providing in Fort Wayne, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU18230600600000001SA    | All Employees: Goods Producing in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18230600700000001      | All Employees: Service-Providing in Fort Wayne, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU18230600700000001A     | All Employees: Service-Providing in Fort Wayne, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18230600700000001SA    | All Employees: Service-Providing in Fort Wayne, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU18230600800000001      | All Employees: Private Service Providing in Fort Wayne, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18230600700000001SA    | All Employees: Service-Providing in Fort Wayne, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18230600800000001      | All Employees: Private Service Providing in Fort Wayne, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18230600800000001A     | All Employees: Private Service Providing in Fort Wayne, IN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18230600800000001SA    | All Employees: Private Service Providing in Fort Wayne, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18230600800000001SA    | All Employees: Private Service Providing in Fort Wayne, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18230601500000001A     | All Employees: Mining, Logging, and Construction in Fort Wayne, IN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU18230603000000001A     | All Employees: Manufacturing in Fort Wayne, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18230603100000001      | All Employees: Manufacturing: Durable Goods in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18230603100000001      | All Employees: Manufacturing: Durable Goods in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18230603100000001A     | All Employees: Manufacturing: Durable Goods in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU18230603100000001SA    | All Employees: Manufacturing: Durable Goods in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18230603100000001SA    | All Employees: Manufacturing: Durable Goods in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18230603133400001      | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Fort Wayne, IN (MSA)             | 1990-01-01          | 2017-12-01        |
 | SMU18230603133400001A     | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Fort Wayne, IN (MSA)             | 1990-01-01          | 2016-01-01        |
 | SMU18230603133400001SA    | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Fort Wayne, IN (MSA)             | 1990-01-01          | 2017-12-01        |
-| SMU18230603133600001      | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Fort Wayne, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| SMU18230603133600001      | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Fort Wayne, IN (MSA)     | 1990-01-01          | 2022-02-01        |
 | SMU18230603133600001A     | All Employees: Durable Goods: Transportation Equipment Manufacturing in Fort Wayne, IN (MSA)                    | 1990-01-01          | 2021-01-01        |
-| SMU18230603133600001SA    | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Fort Wayne, IN (MSA)     | 1990-01-01          | 2022-01-01        |
+| SMU18230603133600001SA    | All Employees: Manufacturing: Durable Goods: Transportation Equipment Manufacturing in Fort Wayne, IN (MSA)     | 1990-01-01          | 2022-02-01        |
 | SMU18230604000000001A     | All Employees: Trade, Transportation, and Utilities in Fort Wayne, IN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18230604100000001      | All Employees: Wholesale Trade in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18230604100000001      | All Employees: Wholesale Trade in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18230604100000001A     | All Employees: Wholesale Trade in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18230604100000001SA    | All Employees: Wholesale Trade in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18230604200000001      | All Employees: Retail Trade in Fort Wayne, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU18230604100000001SA    | All Employees: Wholesale Trade in Fort Wayne, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18230604200000001      | All Employees: Retail Trade in Fort Wayne, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU18230604200000001A     | All Employees: Retail Trade in Fort Wayne, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18230604200000001SA    | All Employees: Retail Trade in Fort Wayne, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU18230604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Wayne, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18230604200000001SA    | All Employees: Retail Trade in Fort Wayne, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18230604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Wayne, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18230604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Wayne, IN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18230604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Wayne, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18230604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fort Wayne, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18230605000000001A     | All Employees: Information in Fort Wayne, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU18230605500000001A     | All Employees: Financial Activities in Fort Wayne, IN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU18230606000000001A     | All Employees: Professional and Business Services in Fort Wayne, IN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -162,16 +162,16 @@
 | SMU18230607000000001A     | All Employees: Leisure and Hospitality in Fort Wayne, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU18230608000000001A     | All Employees: Other Services in Fort Wayne, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU18230609000000001A     | All Employees: Government in Fort Wayne, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18230609091000001      | All Employees: Government: Federal Government in Fort Wayne, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU18230609091000001      | All Employees: Government: Federal Government in Fort Wayne, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU18230609091000001A     | All Employees: Federal Government in Fort Wayne, IN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU18230609091000001SA    | All Employees: Government: Federal Government in Fort Wayne, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU18230609092000001      | All Employees: Government: State Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18230609091000001SA    | All Employees: Government: Federal Government in Fort Wayne, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18230609092000001      | All Employees: Government: State Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18230609092000001A     | All Employees: State Government in Fort Wayne, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18230609092000001SA    | All Employees: Government: State Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18230609093000001      | All Employees: Government: Local Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18230609092000001SA    | All Employees: Government: State Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18230609093000001      | All Employees: Government: Local Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18230609093000001A     | All Employees: Local Government in Fort Wayne, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18230609093000001SA    | All Employees: Government: Local Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18230609093161101      | All Employees: Government: Local Government Educational Services in Fort Wayne, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18230609093000001SA    | All Employees: Government: Local Government in Fort Wayne, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18230609093161101      | All Employees: Government: Local Government Educational Services in Fort Wayne, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU18230609093161101A     | All Employees: Local Government Educational Services in Fort Wayne, IN (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU18230609093161101SA    | All Employees: Government: Local Government Educational Services in Fort Wayne, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18230609093161101SA    | All Employees: Government: Local Government Educational Services in Fort Wayne, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SUSCMSA23060              | Market Hotness: Supply Score in Fort Wayne, IN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

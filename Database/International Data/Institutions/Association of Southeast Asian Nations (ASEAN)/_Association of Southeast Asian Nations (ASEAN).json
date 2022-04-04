@@ -1,8 +1,8 @@
 {
   "COASEANZ31": {
     "id": "COASEANZ31",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -19,8 +19,8 @@
   },
   "COASEANZ33": {
     "id": "COASEANZ33",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -37,8 +37,8 @@
   },
   "COASEANZ311": {
     "id": "COASEANZ311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Food Manufacturing for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -55,8 +55,8 @@
   },
   "COASEANZ315": {
     "id": "COASEANZ315",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Apparel Manufacturing for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -73,8 +73,8 @@
   },
   "COASEANZ334": {
     "id": "COASEANZ334",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -91,8 +91,8 @@
   },
   "COASEANZ337": {
     "id": "COASEANZ337",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Furniture and Related Product Manufacturing for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -109,8 +109,8 @@
   },
   "COASEANZ339": {
     "id": "COASEANZ339",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for Association of Southeast Asian Nations",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",

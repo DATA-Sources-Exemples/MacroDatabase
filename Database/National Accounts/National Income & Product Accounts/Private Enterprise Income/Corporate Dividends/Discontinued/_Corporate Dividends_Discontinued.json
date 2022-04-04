@@ -1,8 +1,8 @@
 {
   "A2221C1A027NBEA": {
     "id": "A2221C1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Dividends received: Domestic corporate business (DISCONTINUED)",
     "observation_start": "1946-01-01",
     "observation_end": "2011-01-01",
@@ -19,8 +19,8 @@
   },
   "A2223C1A027NBEA": {
     "id": "A2223C1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net corporate dividend payments: Domestic corporate business (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2014-01-01",
@@ -37,8 +37,8 @@
   },
   "B056RC0A144NBEA": {
     "id": "B056RC0A144NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net corporate dividend payments (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2016-01-01",
@@ -55,8 +55,8 @@
   },
   "B1443C1A027NBEA": {
     "id": "B1443C1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Dividends received: Domestic corporate business: Financial (DISCONTINUED)",
     "observation_start": "1958-01-01",
     "observation_end": "2011-01-01",
@@ -73,8 +73,8 @@
   },
   "B1453C1A027NBEA": {
     "id": "B1453C1A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Dividends received: Persons: Other (DISCONTINUED)",
     "observation_start": "1968-01-01",
     "observation_end": "2011-01-01",
@@ -91,8 +91,8 @@
   },
   "B3375C0A144NBEA": {
     "id": "B3375C0A144NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current receipts from the rest of the world: Income receipts on assets: Dividends (DISCONTINUED)",
     "observation_start": "1948-01-01",
     "observation_end": "2016-01-01",
@@ -109,8 +109,8 @@
   },
   "B3376C0A144NBEA": {
     "id": "B3376C0A144NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current payments to the rest of the world: Income payments on assets: Dividends (DISCONTINUED)",
     "observation_start": "1948-01-01",
     "observation_end": "2016-01-01",

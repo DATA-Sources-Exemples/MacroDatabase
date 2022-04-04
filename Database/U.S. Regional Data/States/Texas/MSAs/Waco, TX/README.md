@@ -79,41 +79,41 @@
 | RPPGOOD47380              | Regional Price Parities: Goods for Waco, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH47380          | Regional Price Parities: Services: Other for Waco, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT47380         | Regional Price Parities: Services: Rents for Waco, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48473800000000026      | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48473800000000026      | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48473800000000001A     | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48473800500000001      | All Employees: Total Private in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48473800500000001      | All Employees: Total Private in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48473800500000001A     | All Employees: Total Private in Waco, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48473800500000001SA    | All Employees: Total Private in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48473800500000002      | Average Weekly Hours of All Employees: Total Private in Waco, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48473800500000001SA    | All Employees: Total Private in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48473800500000002      | Average Weekly Hours of All Employees: Total Private in Waco, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48473800500000002A     | Average Weekly Hours of All Employees: Total Private in Waco, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48473800500000002SA    | Average Weekly Hours of All Employees: Total Private in Waco, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48473800500000003      | Average Hourly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48473800500000002SA    | Average Weekly Hours of All Employees: Total Private in Waco, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48473800500000003      | Average Hourly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48473800500000003A     | Average Hourly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48473800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48473800500000011      | Average Weekly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48473800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48473800500000011      | Average Weekly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48473800500000011A     | Average Weekly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48473800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48473800600000001      | All Employees: Goods Producing in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48473800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Waco, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48473800600000001      | All Employees: Goods Producing in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48473800600000001A     | All Employees: Goods Producing in Waco, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48473800600000001SA    | All Employees: Goods Producing in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48473800700000001      | All Employees: Service-Providing in Waco, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48473800600000001SA    | All Employees: Goods Producing in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48473800700000001      | All Employees: Service-Providing in Waco, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48473800700000001A     | All Employees: Service-Providing in Waco, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48473800700000001SA    | All Employees: Service-Providing in Waco, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48473800800000001      | All Employees: Private Service Providing in Waco, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48473800700000001SA    | All Employees: Service-Providing in Waco, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48473800800000001      | All Employees: Private Service Providing in Waco, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48473800800000001A     | All Employees: Private Service Providing in Waco, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48473800800000001SA    | All Employees: Private Service Providing in Waco, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48473800800000001SA    | All Employees: Private Service Providing in Waco, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48473801500000001A     | All Employees: Mining, Logging, and Construction in Waco, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48473803000000001A     | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48473804000000001A     | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48473804100000001      | All Employees: Wholesale Trade in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48473804100000001      | All Employees: Wholesale Trade in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48473804100000001A     | All Employees: Wholesale Trade in Waco, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48473804100000001SA    | All Employees: Wholesale Trade in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48473804200000001      | All Employees: Retail Trade in Waco, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48473804100000001SA    | All Employees: Wholesale Trade in Waco, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48473804200000001      | All Employees: Retail Trade in Waco, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48473804200000001A     | All Employees: Retail Trade in Waco, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48473804200000001SA    | All Employees: Retail Trade in Waco, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48473804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Waco, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48473804200000001SA    | All Employees: Retail Trade in Waco, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48473804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Waco, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48473804300000001A     | All Employees: Transportation and Utilities in Waco, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48473804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Waco, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48473804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Waco, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48473805000000001A     | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48473805500000001A     | All Employees: Financial Activities in Waco, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48473806000000001A     | All Employees: Professional and Business Services in Waco, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -121,45 +121,45 @@
 | SMU48473807000000001A     | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48473808000000001A     | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48473809000000001A     | All Employees: Government in Waco, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48473809091000001      | All Employees: Government: Federal Government in Waco, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48473809091000001      | All Employees: Government: Federal Government in Waco, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48473809091000001A     | All Employees: Federal Government in Waco, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48473809091000001SA    | All Employees: Government: Federal Government in Waco, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48473809092000001      | All Employees: Government: State Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48473809091000001SA    | All Employees: Government: Federal Government in Waco, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48473809092000001      | All Employees: Government: State Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48473809092000001A     | All Employees: State Government in Waco, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48473809092000001SA    | All Employees: Government: State Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48473809093000001      | All Employees: Government: Local Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48473809092000001SA    | All Employees: Government: State Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48473809093000001      | All Employees: Government: Local Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48473809093000001A     | All Employees: Local Government in Waco, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48473809093000001SA    | All Employees: Government: Local Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48473809093000001SA    | All Employees: Government: Local Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA47380              | Market Hotness: Supply Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
-| WACO348EDUH               | All Employees: Education and Health Services in Waco, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| WACO348EDUHN              | All Employees: Education and Health Services in Waco, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| WACO348FIRE               | All Employees: Financial Activities in Waco, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| WACO348FIREN              | All Employees: Financial Activities in Waco, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| WACO348GOVT               | All Employees: Government in Waco, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WACO348GOVTN              | All Employees: Government in Waco, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WACO348INFO               | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| WACO348INFON              | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| WACO348LEIH               | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| WACO348LEIHN              | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| WACO348EDUH               | All Employees: Education and Health Services in Waco, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| WACO348EDUHN              | All Employees: Education and Health Services in Waco, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| WACO348FIRE               | All Employees: Financial Activities in Waco, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| WACO348FIREN              | All Employees: Financial Activities in Waco, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| WACO348GOVT               | All Employees: Government in Waco, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| WACO348GOVTN              | All Employees: Government in Waco, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| WACO348INFO               | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| WACO348INFON              | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| WACO348LEIH               | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| WACO348LEIHN              | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | WACO348LF                 | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | WACO348LFN                | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| WACO348MFG                | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WACO348MFGN               | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WACO348NA                 | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WACO348NAN                | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WACO348NRMN               | All Employees: Mining, Logging, and Construction in Waco, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| WACO348NRMNN              | All Employees: Mining, Logging, and Construction in Waco, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| WACO348PBSV               | All Employees: Professional and Business Services in Waco, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| WACO348PBSVN              | All Employees: Professional and Business Services in Waco, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| WACO348MFG                | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WACO348MFGN               | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WACO348NA                 | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WACO348NAN                | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| WACO348NRMN               | All Employees: Mining, Logging, and Construction in Waco, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| WACO348NRMNN              | All Employees: Mining, Logging, and Construction in Waco, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| WACO348PBSV               | All Employees: Professional and Business Services in Waco, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| WACO348PBSVN              | All Employees: Professional and Business Services in Waco, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | WACO348PCPI               | Per Capita Personal Income in Waco, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| WACO348SRVO               | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| WACO348SRVON              | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| WACO348TRAD               | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| WACO348TRADN              | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| WACO348SRVO               | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| WACO348SRVON              | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| WACO348TRAD               | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| WACO348TRADN              | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | WACO348UR                 | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | WACO348URN                | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| WACPOP                    | Resident Population in Waco, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| WACSA158MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| WACSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Waco, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| WACSA175MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| WACPOP                    | Resident Population in Waco, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| WACSA158MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| WACSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Waco, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| WACSA175MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | WACSA674AFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |

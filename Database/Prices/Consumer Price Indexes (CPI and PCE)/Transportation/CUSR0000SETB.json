@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SETB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Motor Fuel in U.S. City Average",
   "observation_start": "1967-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:38:20-06",
-  "popularity": 17,
-  "group_popularity": 19
+  "popularity": 18,
+  "group_popularity": 21
 }

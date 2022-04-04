@@ -24,7 +24,7 @@
 | HORAMSA35300              | Market Hotness: Hotness Rank in New Haven-Milford, CT (CBSA)                                             | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA35300            | Market Hotness: Hotness Rank in New Haven-Milford, CT (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | HOSCMSA35300              | Market Hotness: Hotness Score in New Haven-Milford, CT (CBSA)                                            | 2017-08-01          | 2022-01-01        |
-| IHLCHG35300               | Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                    | 2020-02-01          | 2022-03-11        |
+| IHLCHG35300               | Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                    | 2020-02-01          | 2022-03-18        |
 | IRPD35300                 | Implicit Regional Price Deflator for New Haven-Milford, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA35300          | Market Hotness: Listing Views per Property in New Haven-Milford, CT (CBSA)                               | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA35300        | Market Hotness: Listing Views per Property Versus the United States in New Haven-Milford, CT (CBSA)      | 2017-08-01          | 2022-01-01        |
@@ -55,7 +55,7 @@
 | NEWLISCOUMM35300          | Housing Inventory: New Listing Count Month-Over-Month in New Haven-Milford, CT (CBSA)                    | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY35300          | Housing Inventory: New Listing Count Year-Over-Year in New Haven-Milford, CT (CBSA)                      | 2017-07-01          | 2022-01-01        |
 | NGMP35300                 | Total Gross Domestic Product for New Haven-Milford, CT (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NHMPOP                    | Resident Population in New Haven-Milford, CT (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| NHMPOP                    | Resident Population in New Haven-Milford, CT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | NIHHRAMSA35300            | Market Hotness: Nielsen Household Rank in New Haven-Milford, CT (CBSA)                                   | 2017-08-01          | 2022-01-01        |
 | PATENTCBSA135300          | U.S. Granted Utility Patents Originating in New Haven-Milford, CT (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU35300            | Housing Inventory: Pending Listing Count in New Haven-Milford, CT (CBSA)                                 | 2016-07-01          | 2022-01-01        |

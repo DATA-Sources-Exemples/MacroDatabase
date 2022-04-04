@@ -21,19 +21,19 @@
 | ENUC256240510             | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC256240510SA           | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2021-07-01        |
 | HATPOP                    | Resident Population in Hattiesburg, MS (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| HATT628GOVT               | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| HATT628GOVTN              | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| HATT628LEIH               | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| HATT628LEIHN              | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| HATT628GOVT               | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| HATT628GOVTN              | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| HATT628LEIH               | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| HATT628LEIHN              | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | HATT628LF                 | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | HATT628LFN                | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| HATT628MFG                | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| HATT628MFGN               | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| HATT628NA                 | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| HATT628NAN                | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| HATT628MFG                | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| HATT628MFGN               | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| HATT628NA                 | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| HATT628NAN                | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | HATT628PCPI               | Per Capita Personal Income in Hattiesburg, MS (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| HATT628TRAD               | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-01-01        |
-| HATT628TRADN              | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-01-01        |
+| HATT628TRAD               | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-02-01        |
+| HATT628TRADN              | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-02-01        |
 | HATT628UR                 | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | HATT628URN                | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | HORAMMMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2018-08-01          | 2022-01-01        |
@@ -95,46 +95,46 @@
 | RPPGOOD25620              | Regional Price Parities: Goods for Hattiesburg, MS (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH25620          | Regional Price Parities: Services: Other for Hattiesburg, MS (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT25620         | Regional Price Parities: Services: Rents for Hattiesburg, MS (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS28256200000000026      | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS28256200000000026      | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU28256200000000001A     | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU28256200500000001      | All Employees: Total Private in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU28256200500000001      | All Employees: Total Private in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU28256200500000001A     | All Employees: Total Private in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU28256200500000001SA    | All Employees: Total Private in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU28256200500000002      | Average Weekly Hours of All Employees: Total Private in Hattiesburg, MS (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU28256200500000001SA    | All Employees: Total Private in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU28256200500000002      | Average Weekly Hours of All Employees: Total Private in Hattiesburg, MS (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU28256200500000002A     | Average Weekly Hours of All Employees: Total Private in Hattiesburg, MS (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU28256200500000002SA    | Average Weekly Hours of All Employees: Total Private in Hattiesburg, MS (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU28256200500000003      | Average Hourly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU28256200500000002SA    | Average Weekly Hours of All Employees: Total Private in Hattiesburg, MS (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU28256200500000003      | Average Hourly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU28256200500000003A     | Average Hourly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU28256200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU28256200500000011      | Average Weekly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU28256200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU28256200500000011      | Average Weekly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU28256200500000011A     | Average Weekly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU28256200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU28256200600000001      | All Employees: Goods Producing in Hattiesburg, MS (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU28256200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Hattiesburg, MS (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU28256200600000001      | All Employees: Goods Producing in Hattiesburg, MS (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU28256200600000001A     | All Employees: Goods Producing in Hattiesburg, MS (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU28256200600000001SA    | All Employees: Goods Producing in Hattiesburg, MS (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU28256200700000001      | All Employees: Service-Providing in Hattiesburg, MS (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU28256200600000001SA    | All Employees: Goods Producing in Hattiesburg, MS (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU28256200700000001      | All Employees: Service-Providing in Hattiesburg, MS (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU28256200700000001A     | All Employees: Service-Providing in Hattiesburg, MS (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU28256200700000001SA    | All Employees: Service-Providing in Hattiesburg, MS (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU28256200800000001      | All Employees: Private Service Providing in Hattiesburg, MS (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU28256200700000001SA    | All Employees: Service-Providing in Hattiesburg, MS (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU28256200800000001      | All Employees: Private Service Providing in Hattiesburg, MS (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU28256200800000001A     | All Employees: Private Service Providing in Hattiesburg, MS (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU28256200800000001SA    | All Employees: Private Service Providing in Hattiesburg, MS (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU28256200800000001SA    | All Employees: Private Service Providing in Hattiesburg, MS (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU28256203000000001A     | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU28256204000000001A     | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU28256204200000001      | All Employees: Retail Trade in Hattiesburg, MS (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU28256204200000001      | All Employees: Retail Trade in Hattiesburg, MS (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU28256204200000001A     | All Employees: Retail Trade in Hattiesburg, MS (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU28256204200000001SA    | All Employees: Retail Trade in Hattiesburg, MS (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU28256204200000001SA    | All Employees: Retail Trade in Hattiesburg, MS (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU28256207000000001A     | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU28256209000000001A     | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU28256209091000001      | All Employees: Government: Federal Government in Hattiesburg, MS (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU28256209091000001      | All Employees: Government: Federal Government in Hattiesburg, MS (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU28256209091000001A     | All Employees: Federal Government in Hattiesburg, MS (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU28256209091000001SA    | All Employees: Government: Federal Government in Hattiesburg, MS (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU28256209092000001      | All Employees: Government: State Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU28256209091000001SA    | All Employees: Government: Federal Government in Hattiesburg, MS (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU28256209092000001      | All Employees: Government: State Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU28256209092000001A     | All Employees: State Government in Hattiesburg, MS (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU28256209092000001SA    | All Employees: Government: State Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU28256209093000001      | All Employees: Government: Local Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU28256209092000001SA    | All Employees: Government: State Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU28256209093000001      | All Employees: Government: Local Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU28256209093000001A     | All Employees: Local Government in Hattiesburg, MS (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU28256209093000001SA    | All Employees: Government: Local Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU28256209093161101      | All Employees: Government: Local Government Educational Services in Hattiesburg, MS (MSA)          | 2001-01-01          | 2022-01-01        |
+| SMU28256209093000001SA    | All Employees: Government: Local Government in Hattiesburg, MS (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU28256209093161101      | All Employees: Government: Local Government Educational Services in Hattiesburg, MS (MSA)          | 2001-01-01          | 2022-02-01        |
 | SMU28256209093161101A     | All Employees: Local Government Educational Services in Hattiesburg, MS (MSA)                      | 2001-01-01          | 2021-01-01        |
-| SMU28256209093161101SA    | All Employees: Government: Local Government Educational Services in Hattiesburg, MS (MSA)          | 2001-01-01          | 2022-01-01        |
+| SMU28256209093161101SA    | All Employees: Government: Local Government Educational Services in Hattiesburg, MS (MSA)          | 2001-01-01          | 2022-02-01        |
 | SUSCMSA25620              | Market Hotness: Supply Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-01-01        |

@@ -1,7 +1,7 @@
 {
   "id": "M14189USM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Free Reserves Held at Federal Reserve Banks, All Member Banks for United States",
   "observation_start": "1929-01-01",
   "observation_end": "1967-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:37:42-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Data Are For The Difference Between Excess Reserves And Borrowings, Except For 1940-March 1944, When\"Discounts And Advances\" Are Used Instead Of Borrowings. Data For March 1933 Is Estimated From Wednesday Figures And Call Date Figure, Because No Daily Average Figure Was Available. Data For March 1939-March 1944 Are For Discounts And Advances Deducted From Excess Reserves. Discounts And Advances For Some Nonmember Banks Were Included In These Figures, But They Are Small. Source: Federal Reserve Board, Data For 1929-1939: Banking And Monetary Statistics, 1943, Pp. 396-397. Data For 1940-1967: Federal Reserve Bulletin, Successive Issues.\n\nThis NBER data series m14189 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14189"
 }

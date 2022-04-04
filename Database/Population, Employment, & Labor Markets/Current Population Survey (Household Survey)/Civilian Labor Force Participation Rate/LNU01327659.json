@@ -1,7 +1,7 @@
 {
   "id": "LNU01327659",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Labor Force Participation Rate - Less Than a High School Diploma, 25 Yrs. & over",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-04 07:45:19-06",
   "popularity": 3,
-  "group_popularity": 24,
+  "group_popularity": 17,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01327659"
 }

@@ -27,8 +27,8 @@
 | DDEI07TMA156NWDB     | Bank's Cost to Income Ratio for Turkmenistan                                                      | 1999-01-01          | 2014-01-01        |
 | DDOI07TMA648NWDB     | Liquid Liabilities (Broad Money) for Turkmenistan                                                 | 1993-01-01          | 2001-01-01        |
 | DDOI09TMA156NWDB     | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Turkmenistan                       | 1995-01-01          | 2013-01-01        |
-| DDOI11TMA156NWDB     | Remittance Inflows to GDP for Turkmenistan                                                        | 1996-01-01          | 2017-01-01        |
-| DDOI12TMA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Turkmenistan                        | 1994-01-01          | 2015-01-01        |
+| DDOI11TMA156NWDB     | Remittance Inflows to GDP for Turkmenistan                                                        | 1996-01-01          | 2019-01-01        |
+| DDOI12TMA156NWDB     | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Turkmenistan                        | 1994-01-01          | 2019-01-01        |
 | DDSI01TMA645NWDB     | Bank Z-Score for Turkmenistan                                                                     | 1999-01-01          | 2016-01-01        |
 | DDSI04TMA156NWDB     | Bank Credit to Bank Deposits for Turkmenistan                                                     | 1993-01-01          | 2001-01-01        |
 | DDSI06TMA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Turkmenistan                                 | 1999-01-01          | 2016-01-01        |

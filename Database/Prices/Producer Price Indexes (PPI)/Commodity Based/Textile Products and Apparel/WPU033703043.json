@@ -1,7 +1,7 @@
 {
   "id": "WPU033703043",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Fabrics 85 Percent or More Filament Yarns Excluding Rayon/Acetate/Lyocell",
   "observation_start": "2011-06-01",
   "observation_end": "2021-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-10-14 07:52:17-05",
-  "popularity": 17,
-  "group_popularity": 17
+  "popularity": 18,
+  "group_popularity": 18
 }

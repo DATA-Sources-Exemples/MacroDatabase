@@ -16,33 +16,33 @@
 | CTKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from Connecticut                                                                | 1992-01-01          | 2016-01-01        |
 | DCKNAA052SCEN     | Value of Exports to Saint Kitts and Nevis from District of Columbia                                                                     | 2009-01-01          | 2014-01-01        |
 | DCKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from District of Columbia                                                       | 2002-01-01          | 2016-01-01        |
-| DDAI02KNA643NWDB  | Number of Bank Branches for Saint Kitts and Nevis                                                                                       | 2004-01-01          | 2016-01-01        |
-| DDDI01KNA156NWDB  | Private Credit by Deposit Money Banks to GDP for Saint Kitts and Nevis                                                                  | 1979-01-01          | 2016-01-01        |
-| DDDI02KNA156NWDB  | Deposit Money Bank Assets to GDP for Saint Kitts and Nevis                                                                              | 1979-01-01          | 2016-01-01        |
-| DDDI04KNA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Saint Kitts and Nevis                                | 1979-01-01          | 2016-01-01        |
-| DDDI05KNA156NWDB  | Liquid Liabilities to GDP for Saint Kitts and Nevis                                                                                     | 1979-01-01          | 2016-01-01        |
-| DDDI06KNA156NWDB  | Central Bank Assets to GDP for Saint Kitts and Nevis                                                                                    | 1979-01-01          | 2016-01-01        |
-| DDDI08KNA156NWDB  | Financial System Deposits to GDP for Saint Kitts and Nevis                                                                              | 1979-01-01          | 2016-01-01        |
-| DDDI12KNA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Saint Kitts and Nevis                                 | 1979-01-01          | 2016-01-01        |
+| DDAI02KNA643NWDB  | Number of Bank Branches for Saint Kitts and Nevis                                                                                       | 2004-01-01          | 2019-01-01        |
+| DDDI01KNA156NWDB  | Private Credit by Deposit Money Banks to GDP for Saint Kitts and Nevis                                                                  | 1979-01-01          | 2020-01-01        |
+| DDDI02KNA156NWDB  | Deposit Money Bank Assets to GDP for Saint Kitts and Nevis                                                                              | 1979-01-01          | 2020-01-01        |
+| DDDI04KNA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Saint Kitts and Nevis                                | 1979-01-01          | 2020-01-01        |
+| DDDI05KNA156NWDB  | Liquid Liabilities to GDP for Saint Kitts and Nevis                                                                                     | 1979-01-01          | 2020-01-01        |
+| DDDI06KNA156NWDB  | Central Bank Assets to GDP for Saint Kitts and Nevis                                                                                    | 1979-01-01          | 2020-01-01        |
+| DDDI08KNA156NWDB  | Financial System Deposits to GDP for Saint Kitts and Nevis                                                                              | 1979-01-01          | 2020-01-01        |
+| DDDI12KNA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Saint Kitts and Nevis                                 | 1979-01-01          | 2020-01-01        |
 | DDDM01KNA156NWDB  | Stock Market Capitalization to GDP for Saint Kitts and Nevis                                                                            | 2003-01-01          | 2011-01-01        |
 | DDDM02KNA156NWDB  | Stock Market Total Value Traded to GDP for Saint Kitts and Nevis                                                                        | 2003-01-01          | 2012-01-01        |
 | DDEI01KNA156NWDB  | Bank's Net Interest Margin for Saint Kitts and Nevis                                                                                    | 1996-01-01          | 2016-01-01        |
-| DDEI02KNA156NWDB  | Bank Lending Deposit Spread for Saint Kitts and Nevis                                                                                   | 1981-01-01          | 2016-01-01        |
+| DDEI02KNA156NWDB  | Bank Lending Deposit Spread for Saint Kitts and Nevis                                                                                   | 1980-01-01          | 2019-01-01        |
 | DDEI03KNA156NWDB  | Bank's Non-Interest Income to Total Income for Saint Kitts and Nevis                                                                    | 1996-01-01          | 2014-01-01        |
 | DDEI04KNA156NWDB  | Bank's Overhead Costs to Total Assets for Saint Kitts and Nevis                                                                         | 1996-01-01          | 2016-01-01        |
 | DDEI05KNA156NWDB  | Bank's Return on Assets for Saint Kitts and Nevis                                                                                       | 1996-01-01          | 2016-01-01        |
 | DDEI06KNA156NWDB  | Bank's Return on Equity for Saint Kitts and Nevis                                                                                       | 1996-01-01          | 2016-01-01        |
 | DDEI07KNA156NWDB  | Bank's Cost to Income Ratio for Saint Kitts and Nevis                                                                                   | 1996-01-01          | 2014-01-01        |
-| DDEI08KNA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Saint Kitts and Nevis                                                       | 1980-01-01          | 2016-01-01        |
+| DDEI08KNA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Saint Kitts and Nevis                                                       | 1980-01-01          | 2019-01-01        |
 | DDEM01KNA156NWDB  | Stock Market Turnover Ratio (Value Traded/Capitalization) for Saint Kitts and Nevis                                                     | 2003-01-01          | 2011-01-01        |
-| DDOE01KNA086NWDB  | Consumer Price Index for Saint Kitts and Nevis                                                                                          | 1978-01-01          | 2016-01-01        |
-| DDOE02KNA086NWDB  | Consumer Price Index for Saint Kitts and Nevis                                                                                          | 1978-01-01          | 2016-01-01        |
-| DDOI02KNA156NWDB  | Bank Deposits to GDP for Saint Kitts and Nevis                                                                                          | 1979-01-01          | 2016-01-01        |
-| DDOI07KNA648NWDB  | Liquid Liabilities (Broad Money) for Saint Kitts and Nevis                                                                              | 1979-01-01          | 2016-01-01        |
-| DDOI11KNA156NWDB  | Remittance Inflows to GDP for Saint Kitts and Nevis                                                                                     | 1980-01-01          | 2017-01-01        |
+| DDOE01KNA086NWDB  | Consumer Price Index for Saint Kitts and Nevis                                                                                          | 1978-01-01          | 2017-01-01        |
+| DDOE02KNA086NWDB  | Consumer Price Index for Saint Kitts and Nevis                                                                                          | 1978-01-01          | 2017-01-01        |
+| DDOI02KNA156NWDB  | Bank Deposits to GDP for Saint Kitts and Nevis                                                                                          | 1979-01-01          | 2020-01-01        |
+| DDOI07KNA648NWDB  | Liquid Liabilities (Broad Money) for Saint Kitts and Nevis                                                                              | 1979-01-01          | 2020-01-01        |
+| DDOI11KNA156NWDB  | Remittance Inflows to GDP for Saint Kitts and Nevis                                                                                     | 1980-01-01          | 2020-01-01        |
 | DDOM01KNA644NWDB  | Number of Listed Companies for Saint Kitts and Nevis                                                                                    | 2003-01-01          | 2012-01-01        |
 | DDSI01KNA645NWDB  | Bank Z-Score for Saint Kitts and Nevis                                                                                                  | 1996-01-01          | 2016-01-01        |
-| DDSI04KNA156NWDB  | Bank Credit to Bank Deposits for Saint Kitts and Nevis                                                                                  | 1979-01-01          | 2016-01-01        |
+| DDSI04KNA156NWDB  | Bank Credit to Bank Deposits for Saint Kitts and Nevis                                                                                  | 1979-01-01          | 2019-01-01        |
 | DDSI06KNA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Saint Kitts and Nevis                                                              | 1996-01-01          | 2016-01-01        |
 | DEBTTLKNA188A     | Central government debt, total (% of GDP) for St. Kitts and Nevis                                                                       | 2002-01-01          | 2014-01-01        |
 | DEKNAA052SCEN     | Value of Exports to Saint Kitts and Nevis from Delaware                                                                                 | 2013-01-01          | 2013-01-01        |

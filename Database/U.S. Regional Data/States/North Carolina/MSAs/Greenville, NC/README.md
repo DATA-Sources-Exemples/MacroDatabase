@@ -20,31 +20,31 @@
 | ENUC247840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC247840510             | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC247840510SA           | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
-| GREE737EDUH               | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| GREE737EDUHN              | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| GREE737FIRE               | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| GREE737FIREN              | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| GREE737GOVT               | All Employees: Government in Greenville, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| GREE737GOVTN              | All Employees: Government in Greenville, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| GREE737INFO               | All Employees: Information in Greenville, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| GREE737INFON              | All Employees: Information in Greenville, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| GREE737LEIH               | All Employees: Leisure and Hospitality in Greenville, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| GREE737LEIHN              | All Employees: Leisure and Hospitality in Greenville, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| GREE737EDUH               | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| GREE737EDUHN              | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| GREE737FIRE               | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| GREE737FIREN              | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| GREE737GOVT               | All Employees: Government in Greenville, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| GREE737GOVTN              | All Employees: Government in Greenville, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| GREE737INFO               | All Employees: Information in Greenville, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| GREE737INFON              | All Employees: Information in Greenville, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| GREE737LEIH               | All Employees: Leisure and Hospitality in Greenville, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| GREE737LEIHN              | All Employees: Leisure and Hospitality in Greenville, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | GREE737LF                 | Civilian Labor Force in Greenville, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | GREE737LFN                | Civilian Labor Force in Greenville, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| GREE737MFG                | All Employees: Manufacturing in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE737MFGN               | All Employees: Manufacturing in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE737NA                 | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE737NAN                | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GREE737NRMN               | All Employees: Mining, Logging, and Construction in Greenville, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| GREE737NRMNN              | All Employees: Mining, Logging, and Construction in Greenville, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| GREE737PBSV               | All Employees: Professional and Business Services in Greenville, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| GREE737PBSVN              | All Employees: Professional and Business Services in Greenville, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| GREE737MFG                | All Employees: Manufacturing in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE737MFGN               | All Employees: Manufacturing in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE737NA                 | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE737NAN                | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GREE737NRMN               | All Employees: Mining, Logging, and Construction in Greenville, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| GREE737NRMNN              | All Employees: Mining, Logging, and Construction in Greenville, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| GREE737PBSV               | All Employees: Professional and Business Services in Greenville, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| GREE737PBSVN              | All Employees: Professional and Business Services in Greenville, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | GREE737PCPI               | Per Capita Personal Income in Greenville, NC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| GREE737SRVO               | All Employees: Other Services in Greenville, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| GREE737SRVON              | All Employees: Other Services in Greenville, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| GREE737TRAD               | All Employees: Trade, Transportation, and Utilities in Greenville, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| GREE737TRADN              | All Employees: Trade, Transportation, and Utilities in Greenville, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| GREE737SRVO               | All Employees: Other Services in Greenville, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| GREE737SRVON              | All Employees: Other Services in Greenville, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| GREE737TRAD               | All Employees: Trade, Transportation, and Utilities in Greenville, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| GREE737TRADN              | All Employees: Trade, Transportation, and Utilities in Greenville, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | GREE737UR                 | Unemployment Rate in Greenville, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | GREE737URN                | Unemployment Rate in Greenville, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | GREPOP                    | Resident Population in Greenville, NC (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -108,41 +108,41 @@
 | RPPSERVEOTH24780          | Regional Price Parities: Services: Other for Greenville, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT24780         | Regional Price Parities: Services: Rents for Greenville, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SMS37247800000000001      | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS37247800000000026      | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS37247800000000026      | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU37247800000000001A     | All Employees: Total Nonfarm in Greenville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37247800500000001      | All Employees: Total Private in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU37247800500000001      | All Employees: Total Private in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU37247800500000001A     | All Employees: Total Private in Greenville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37247800500000001SA    | All Employees: Total Private in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU37247800500000002      | Average Weekly Hours of All Employees: Total Private in Greenville, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU37247800500000001SA    | All Employees: Total Private in Greenville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU37247800500000002      | Average Weekly Hours of All Employees: Total Private in Greenville, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU37247800500000002A     | Average Weekly Hours of All Employees: Total Private in Greenville, NC (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU37247800500000002SA    | Average Weekly Hours of All Employees: Total Private in Greenville, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU37247800500000003      | Average Hourly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37247800500000002SA    | Average Weekly Hours of All Employees: Total Private in Greenville, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU37247800500000003      | Average Hourly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37247800500000003A     | Average Hourly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37247800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37247800500000011      | Average Weekly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37247800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37247800500000011      | Average Weekly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37247800500000011A     | Average Weekly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37247800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37247800600000001      | All Employees: Goods Producing in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37247800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Greenville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37247800600000001      | All Employees: Goods Producing in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37247800600000001A     | All Employees: Goods Producing in Greenville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37247800600000001SA    | All Employees: Goods Producing in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37247800700000001      | All Employees: Service-Providing in Greenville, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU37247800600000001SA    | All Employees: Goods Producing in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37247800700000001      | All Employees: Service-Providing in Greenville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU37247800700000001A     | All Employees: Service-Providing in Greenville, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU37247800700000001SA    | All Employees: Service-Providing in Greenville, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU37247800800000001      | All Employees: Private Service Providing in Greenville, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37247800700000001SA    | All Employees: Service-Providing in Greenville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU37247800800000001      | All Employees: Private Service Providing in Greenville, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37247800800000001A     | All Employees: Private Service Providing in Greenville, NC (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU37247800800000001SA    | All Employees: Private Service Providing in Greenville, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37247800800000001SA    | All Employees: Private Service Providing in Greenville, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37247801500000001A     | All Employees: Mining, Logging, and Construction in Greenville, NC (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU37247803000000001A     | All Employees: Manufacturing in Greenville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU37247804000000001A     | All Employees: Trade, Transportation, and Utilities in Greenville, NC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU37247804100000001      | All Employees: Wholesale Trade in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37247804100000001      | All Employees: Wholesale Trade in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37247804100000001A     | All Employees: Wholesale Trade in Greenville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37247804100000001SA    | All Employees: Wholesale Trade in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37247804200000001      | All Employees: Retail Trade in Greenville, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU37247804100000001SA    | All Employees: Wholesale Trade in Greenville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37247804200000001      | All Employees: Retail Trade in Greenville, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU37247804200000001A     | All Employees: Retail Trade in Greenville, NC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU37247804200000001SA    | All Employees: Retail Trade in Greenville, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU37247804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Greenville, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37247804200000001SA    | All Employees: Retail Trade in Greenville, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU37247804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Greenville, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37247804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Greenville, NC (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU37247804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Greenville, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37247804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Greenville, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37247805000000001A     | All Employees: Information in Greenville, NC (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU37247805500000001A     | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU37247806000000001A     | All Employees: Professional and Business Services in Greenville, NC (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -150,13 +150,13 @@
 | SMU37247807000000001A     | All Employees: Leisure and Hospitality in Greenville, NC (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU37247808000000001A     | All Employees: Other Services in Greenville, NC (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU37247809000000001A     | All Employees: Government in Greenville, NC (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU37247809091000001      | All Employees: Government: Federal Government in Greenville, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU37247809091000001      | All Employees: Government: Federal Government in Greenville, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU37247809091000001A     | All Employees: Federal Government in Greenville, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU37247809091000001SA    | All Employees: Government: Federal Government in Greenville, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU37247809092000001      | All Employees: Government: State Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37247809091000001SA    | All Employees: Government: Federal Government in Greenville, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU37247809092000001      | All Employees: Government: State Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37247809092000001A     | All Employees: State Government in Greenville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37247809092000001SA    | All Employees: Government: State Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU37247809093000001      | All Employees: Government: Local Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37247809092000001SA    | All Employees: Government: State Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU37247809093000001      | All Employees: Government: Local Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37247809093000001A     | All Employees: Local Government in Greenville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37247809093000001SA    | All Employees: Government: Local Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37247809093000001SA    | All Employees: Government: Local Government in Greenville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA24780              | Market Hotness: Supply Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

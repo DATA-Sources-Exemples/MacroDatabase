@@ -1,7 +1,7 @@
 {
   "id": "M0313CUSM266NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wheat Freight Rates, Rail, Chicago to New York, Domestic for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1942-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:03:28-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Are Daily Averages. NBER Obtained Averages By Weighting Each Rate By The Number Of Days In The Month In Which It Was In Effect And Dividing By The Number Of Days In The Month. Data For Domestic And Export Are The Same For 1890-1898. Source: Chicago Board Of Trade, Department Of Transportation, Data For 1890-1934: Direct From Files, February 1, 1937. Data For 1935-1941: Annual Report Of The Chicago Board Of Trade, Successive Issues. Data For 1942: Direct From Board Of Trade Files.\n\nThis NBER data series m03013c appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03013c"
 }

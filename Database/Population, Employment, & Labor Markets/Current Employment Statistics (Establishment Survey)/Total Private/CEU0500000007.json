@@ -1,7 +1,7 @@
 {
   "id": "CEU0500000007",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Weekly Hours of Production and Nonsupervisory Employees, Total Private",
   "observation_start": "1964-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-04 07:48:15-06",
-  "popularity": 5,
-  "group_popularity": 29,
+  "popularity": 2,
+  "group_popularity": 25,
   "notes": "Average weekly hours relate to the average hours per worker for which pay was received and is different from standard or scheduled hours. Factors such as unpaid absenteeism, labor turnover, part-time work, and stoppages cause average weekly hours to be lower than scheduled hours of work for an establishment. Group averages further reflect changes in the workweek of component industries. Average weekly hours are the total weekly hours divided by the employees paid for those hours.\n\nProduction and related employees include working supervisors and all nonsupervisory employees (including group leaders and trainees) engaged in fabricating, processing, assembling, inspecting, receiving, storing, handling, packing, warehousing, shipping, trucking, hauling, maintenance, repair, janitorial, guard services, product development, auxiliary production for plant's own use (for example, power plant), recordkeeping, and other services closely associated with the above production operations.\n\nNonsupervisory employees include those individuals in private, service-providing industries who are not above the working-supervisor level. This group includes individuals such as office and clerical workers, repairers, salespersons, operators, drivers, physicians, lawyers, accountants, nurses, social workers, research aides, teachers, drafters, photographers, beauticians, musicians, restaurant workers, custodial workers, attendants, line installers and repairers, laborers, janitors, guards, and other employees at similar occupational levels whose services are closely associated with those of the employees listed.\n\nThe series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU0500000007"
 }

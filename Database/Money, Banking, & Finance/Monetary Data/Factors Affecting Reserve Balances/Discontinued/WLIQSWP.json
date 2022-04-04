@@ -1,7 +1,7 @@
 {
   "id": "WLIQSWP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Reserve Bank Credit: Central Bank Liquidity Swaps (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2018-06-13",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-14 15:41:06-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/SWPT\n\n\nDetailed description about the swap transactions can be found on the release H.4.1 Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks published on January 29, 2009. http://www.federalreserve.gov/releases/h41/20090129/"
 }

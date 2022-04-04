@@ -1,7 +1,7 @@
 {
   "id": "PRENEL01CNQ656N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Electricity Production for China",
   "observation_start": "1999-01-01",
   "observation_end": "2018-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-11-23 12:51:20-06",
-  "popularity": 17,
-  "group_popularity": 18,
+  "popularity": 21,
+  "group_popularity": 21,
   "notes": "OECD descriptor ID: PRENEL01\nOECD unit ID: ML\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

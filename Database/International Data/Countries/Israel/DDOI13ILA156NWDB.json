@@ -1,9 +1,9 @@
 {
   "id": "DDOI13ILA156NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Percentage of Foreign Banks Among Total Banks for Israel",
-  "observation_start": "1996-01-01",
+  "observation_start": "1995-01-01",
   "observation_end": "2013-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
@@ -11,7 +11,7 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2019-10-21 14:51:08-05",
+  "last_updated": "2022-03-23 16:27:06-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Percentage of the number of foreign owned banks to the number of the total banks in an economy. A foreign bank is a bank where 50 percent or more of its shares are owned by foreigners.\n\nSource Code: GFDD.OI.15"

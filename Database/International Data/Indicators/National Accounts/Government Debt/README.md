@@ -147,179 +147,179 @@
 | CASHBLZAA188A    | Cash surplus/deficit (% of GDP) for South Africa                                                      | 2000-01-01          | 2011-01-01        |
 | CASHBLZMA188A    | Cash surplus/deficit (% of GDP) for Zambia                                                            | 1998-01-01          | 2010-01-01        |
 | CASHBLZWA188A    | Cash surplus/deficit (% of GDP) for Zimbabwe                                                          | 1990-01-01          | 1997-01-01        |
-| DDEI08AEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United Arab Emirates                      | 1996-01-01          | 2017-01-01        |
-| DDEI08AGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Antigua and Barbuda                       | 1980-01-01          | 2017-01-01        |
-| DDEI08ALA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Albania                                   | 2006-01-01          | 2017-01-01        |
-| DDEI08AMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Armenia                                   | 1992-01-01          | 2017-01-01        |
-| DDEI08AOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Angola                                    | 2002-01-01          | 2017-01-01        |
+| DDEI08AEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United Arab Emirates                      | 1980-01-01          | 2019-01-01        |
+| DDEI08AGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Antigua and Barbuda                       | 1980-01-01          | 2019-01-01        |
+| DDEI08ALA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Albania                                   | 1994-01-01          | 2019-01-01        |
+| DDEI08AMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Armenia                                   | 1992-01-01          | 2019-01-01        |
+| DDEI08AOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Angola                                    | 1995-01-01          | 2019-01-01        |
 | DDEI08ARA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Argentina                                 | 1980-01-01          | 2017-01-01        |
 | DDEI08ATA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Austria                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08AUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Australia                                 | 1980-01-01          | 2017-01-01        |
-| DDEI08AWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Aruba                                     | 1991-01-01          | 2016-01-01        |
-| DDEI08AZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Azerbaijan                                | 1996-01-01          | 2017-01-01        |
-| DDEI08BAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bosnia and Herzegovina                    | 1997-01-01          | 2017-01-01        |
-| DDEI08BBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Barbados                                  | 1980-01-01          | 2009-01-01        |
-| DDEI08BDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bangladesh                                | 1980-01-01          | 2017-01-01        |
+| DDEI08AUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Australia                                 | 1980-01-01          | 2019-01-01        |
+| DDEI08AWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Aruba                                     | 1986-01-01          | 2019-01-01        |
+| DDEI08AZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Azerbaijan                                | 1992-01-01          | 2019-01-01        |
+| DDEI08BAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bosnia and Herzegovina                    | 1997-01-01          | 2019-01-01        |
+| DDEI08BBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Barbados                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08BDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bangladesh                                | 1980-01-01          | 2019-01-01        |
 | DDEI08BEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Belgium                                   | 1980-01-01          | 2017-01-01        |
-| DDEI08BFA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Burkina Faso                              | 1999-01-01          | 2017-01-01        |
-| DDEI08BGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bulgaria                                  | 1991-01-01          | 2017-01-01        |
+| DDEI08BFA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Burkina Faso                              | 1980-01-01          | 2019-01-01        |
+| DDEI08BGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bulgaria                                  | 1991-01-01          | 2019-01-01        |
 | DDEI08BHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bahrain                                   | 1980-01-01          | 2015-01-01        |
-| DDEI08BIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Burundi                                   | 1980-01-01          | 2017-01-01        |
-| DDEI08BJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Benin                                     | 1980-01-01          | 2017-01-01        |
-| DDEI08BNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Brunei Darussalam                         | 2000-01-01          | 2017-01-01        |
-| DDEI08BOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for the Plurinational State of Bolivia        | 1996-01-01          | 2017-01-01        |
-| DDEI08BRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Brazil                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08BSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bahamas                                   | 1980-01-01          | 2016-01-01        |
-| DDEI08BTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bhutan                                    | 1983-01-01          | 2016-01-01        |
-| DDEI08BWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Botswana                                  | 1996-01-01          | 2017-01-01        |
+| DDEI08BIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Burundi                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08BJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Benin                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08BNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Brunei Darussalam                         | 2000-01-01          | 2019-01-01        |
+| DDEI08BOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for the Plurinational State of Bolivia        | 1987-01-01          | 2019-01-01        |
+| DDEI08BRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Brazil                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08BSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bahamas                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08BTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bhutan                                    | 1983-01-01          | 2019-01-01        |
+| DDEI08BWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Botswana                                  | 1980-01-01          | 2019-01-01        |
 | DDEI08BYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Belarus                                   | 1994-01-01          | 2017-01-01        |
-| DDEI08BZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Belize                                    | 1980-01-01          | 2017-01-01        |
-| DDEI08CAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Canada                                    | 1996-01-01          | 2008-01-01        |
-| DDEI08CFA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Central African Republic                  | 1980-01-01          | 2016-01-01        |
-| DDEI08CGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Congo                                     | 1980-01-01          | 2016-01-01        |
-| DDEI08CHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Switzerland                               | 1996-01-01          | 2016-01-01        |
-| DDEI08CIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cote d'Ivoire                             | 1996-01-01          | 2017-01-01        |
-| DDEI08CLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Chile                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08CMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cameroon                                  | 1997-01-01          | 2017-01-01        |
-| DDEI08CNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for China                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08COA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Colombia                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08CRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Costa Rica                                | 1996-01-01          | 2017-01-01        |
-| DDEI08CVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cape Verde                                | 1980-01-01          | 2017-01-01        |
-| DDEI08CYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cyprus                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08CZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Czech Republic                            | 1996-01-01          | 2017-01-01        |
-| DDEI08DEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Germany                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08DJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Djibouti                                  | 1984-01-01          | 2016-01-01        |
-| DDEI08DKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Denmark                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08DMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Dominica                                  | 1980-01-01          | 2016-01-01        |
-| DDEI08DOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Dominican Republic                        | 1996-01-01          | 2017-01-01        |
-| DDEI08DZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Algeria                                   | 1980-01-01          | 2017-01-01        |
-| DDEI08ECA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ecuador                                   | 1997-01-01          | 2017-01-01        |
-| DDEI08EEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Estonia                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08EGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Egypt                                     | 1996-01-01          | 2017-01-01        |
+| DDEI08BZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Belize                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08CAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Canada                                    | 1980-01-01          | 2008-01-01        |
+| DDEI08CFA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Central African Republic                  | 1980-01-01          | 2018-01-01        |
+| DDEI08CGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Congo                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08CHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Switzerland                               | 1980-01-01          | 2016-01-01        |
+| DDEI08CIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cote d'Ivoire                             | 1980-01-01          | 2019-01-01        |
+| DDEI08CLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Chile                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08CMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cameroon                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08CNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for China                                     | 1993-01-01          | 2019-01-01        |
+| DDEI08COA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Colombia                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08CRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Costa Rica                                | 1980-01-01          | 2019-01-01        |
+| DDEI08CVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cape Verde                                | 1980-01-01          | 2019-01-01        |
+| DDEI08CYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cyprus                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08CZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Czech Republic                            | 1993-01-01          | 2019-01-01        |
+| DDEI08DEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Germany                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08DJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Djibouti                                  | 1984-01-01          | 2019-01-01        |
+| DDEI08DKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Denmark                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08DMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Dominica                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08DOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Dominican Republic                        | 1980-01-01          | 2019-01-01        |
+| DDEI08DZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Algeria                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08ECA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ecuador                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08EEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Estonia                                   | 1993-01-01          | 2019-01-01        |
+| DDEI08EGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Egypt                                     | 1980-01-01          | 2019-01-01        |
 | DDEI08ERA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Eritrea                                   | 1995-01-01          | 2014-01-01        |
 | DDEI08ESA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Spain                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08ETA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ethiopia                                  | 1998-01-01          | 2008-01-01        |
-| DDEI08FIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Finland                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08FJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Fiji                                      | 2014-01-01          | 2017-01-01        |
-| DDEI08FMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Federated States of Micronesia            | 1995-01-01          | 2016-01-01        |
-| DDEI08FRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for France                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08GAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Gabon                                     | 2011-01-01          | 2017-01-01        |
-| DDEI08GBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United Kingdom                            | 1996-01-01          | 2017-01-01        |
-| DDEI08GDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Grenada                                   | 1980-01-01          | 2016-01-01        |
-| DDEI08GEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Georgia                                   | 1997-01-01          | 2017-01-01        |
-| DDEI08GHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ghana                                     | 2005-01-01          | 2017-01-01        |
-| DDEI08GMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Gambia                                    | 2006-01-01          | 2009-01-01        |
-| DDEI08GNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guinea                                    | 2015-01-01          | 2016-01-01        |
-| DDEI08GQA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Equatorial Guinea                         | 1988-01-01          | 2016-01-01        |
+| DDEI08ETA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ethiopia                                  | 1980-01-01          | 2008-01-01        |
+| DDEI08FIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Finland                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08FJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Fiji                                      | 1980-01-01          | 2019-01-01        |
+| DDEI08FMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Federated States of Micronesia            | 1995-01-01          | 2018-01-01        |
+| DDEI08FRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for France                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08GAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Gabon                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08GBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United Kingdom                            | 1980-01-01          | 2019-01-01        |
+| DDEI08GDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Grenada                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08GEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Georgia                                   | 1995-01-01          | 2019-01-01        |
+| DDEI08GHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ghana                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08GMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Gambia                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08GNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guinea                                    | 1989-01-01          | 2019-01-01        |
+| DDEI08GQA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Equatorial Guinea                         | 1988-01-01          | 2018-01-01        |
 | DDEI08GRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Greece                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08GTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guatemala                                 | 1996-01-01          | 2017-01-01        |
-| DDEI08GWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guinea-Bissau                             | 1990-01-01          | 2016-01-01        |
-| DDEI08GYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guyana                                    | 2014-01-01          | 2017-01-01        |
+| DDEI08GTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guatemala                                 | 1980-01-01          | 2019-01-01        |
+| DDEI08GWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guinea-Bissau                             | 1990-01-01          | 2019-01-01        |
+| DDEI08GYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Guyana                                    | 1980-01-01          | 2019-01-01        |
 | DDEI08HKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Hong Kong SAR, China                      | 1996-01-01          | 2017-01-01        |
-| DDEI08HNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Honduras                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08HRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Croatia                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08HTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Haiti                                     | 2008-01-01          | 2017-01-01        |
-| DDEI08HUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Hungary                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08IDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Indonesia                                 | 1996-01-01          | 2017-01-01        |
-| DDEI08IEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ireland                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08ILA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Israel                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08INA156NWDB | Credit to Government and State-Owned Enterprises to GDP for India                                     | 1996-01-01          | 2017-01-01        |
+| DDEI08HNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Honduras                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08HRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Croatia                                   | 1994-01-01          | 2019-01-01        |
+| DDEI08HTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Haiti                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08HUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Hungary                                   | 1982-01-01          | 2019-01-01        |
+| DDEI08IDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Indonesia                                 | 1980-01-01          | 2019-01-01        |
+| DDEI08IEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ireland                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08ILA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Israel                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08INA156NWDB | Credit to Government and State-Owned Enterprises to GDP for India                                     | 1980-01-01          | 2019-01-01        |
 | DDEI08IRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Islamic Republic of Iran                  | 1980-01-01          | 2016-01-01        |
-| DDEI08ISA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Iceland                                   | 1980-01-01          | 2016-01-01        |
+| DDEI08ISA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Iceland                                   | 1980-01-01          | 2019-01-01        |
 | DDEI08ITA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Italy                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08JMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Jamaica                                   | 2002-01-01          | 2016-01-01        |
-| DDEI08JOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Jordan                                    | 1996-01-01          | 2016-01-01        |
-| DDEI08JPA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Japan                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08KEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kenya                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08KGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kyrgyzstan                                | 2000-01-01          | 2017-01-01        |
-| DDEI08KHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cambodia                                  | 2003-01-01          | 2017-01-01        |
-| DDEI08KMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Comoros                                   | 1982-01-01          | 2016-01-01        |
-| DDEI08KNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saint Kitts and Nevis                     | 1980-01-01          | 2016-01-01        |
-| DDEI08KRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Republic of Korea                         | 1996-01-01          | 2017-01-01        |
-| DDEI08KWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kuwait                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08KZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kazakhstan                                | 1996-01-01          | 2017-01-01        |
-| DDEI08LAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lao People's Democratic Republic          | 2008-01-01          | 2008-01-01        |
-| DDEI08LBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lebanon                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08LCA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saint Lucia                               | 1980-01-01          | 2016-01-01        |
-| DDEI08LKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sri Lanka                                 | 1998-01-01          | 2017-01-01        |
+| DDEI08JMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Jamaica                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08JOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Jordan                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08JPA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Japan                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08KEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kenya                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08KGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kyrgyzstan                                | 1995-01-01          | 2019-01-01        |
+| DDEI08KHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Cambodia                                  | 1993-01-01          | 2019-01-01        |
+| DDEI08KMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Comoros                                   | 1982-01-01          | 2019-01-01        |
+| DDEI08KNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saint Kitts and Nevis                     | 1980-01-01          | 2019-01-01        |
+| DDEI08KRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Republic of Korea                         | 1980-01-01          | 2019-01-01        |
+| DDEI08KWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kuwait                                    | 1987-01-01          | 2018-01-01        |
+| DDEI08KZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Kazakhstan                                | 1993-01-01          | 2019-01-01        |
+| DDEI08LAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lao People's Democratic Republic          | 1989-01-01          | 2010-01-01        |
+| DDEI08LBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lebanon                                   | 1980-01-01          | 2018-01-01        |
+| DDEI08LCA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saint Lucia                               | 1980-01-01          | 2019-01-01        |
+| DDEI08LKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sri Lanka                                 | 1980-01-01          | 2019-01-01        |
 | DDEI08LRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Liberia                                   | 1980-01-01          | 2013-01-01        |
-| DDEI08LSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lesotho                                   | 1980-01-01          | 2016-01-01        |
-| DDEI08LTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lithuania                                 | 1996-01-01          | 2017-01-01        |
-| DDEI08LUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Luxembourg                                | 1996-01-01          | 2017-01-01        |
-| DDEI08LVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Latvia                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08LYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Libyan Arab Jamahiriya                    | 1999-01-01          | 2017-01-01        |
-| DDEI08MAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Morocco                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08MDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Republic of Moldova                       | 2001-01-01          | 2017-01-01        |
-| DDEI08MGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Madagascar                                | 2000-01-01          | 2017-01-01        |
-| DDEI08MKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for the former Yugoslav Republic of Macedonia | 1996-01-01          | 2017-01-01        |
-| DDEI08MLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mali                                      | 2000-01-01          | 2017-01-01        |
-| DDEI08MMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Myanmar                                   | 2010-01-01          | 2017-01-01        |
-| DDEI08MNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mongolia                                  | 2005-01-01          | 2017-01-01        |
+| DDEI08LSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lesotho                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08LTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Lithuania                                 | 1995-01-01          | 2019-01-01        |
+| DDEI08LUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Luxembourg                                | 1980-01-01          | 2019-01-01        |
+| DDEI08LVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Latvia                                    | 1993-01-01          | 2019-01-01        |
+| DDEI08LYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Libyan Arab Jamahiriya                    | 1980-01-01          | 2018-01-01        |
+| DDEI08MAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Morocco                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08MDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Republic of Moldova                       | 1992-01-01          | 2019-01-01        |
+| DDEI08MGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Madagascar                                | 1980-01-01          | 2019-01-01        |
+| DDEI08MKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for the former Yugoslav Republic of Macedonia | 1994-01-01          | 2019-01-01        |
+| DDEI08MLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mali                                      | 1980-01-01          | 2019-01-01        |
+| DDEI08MMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Myanmar                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08MNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mongolia                                  | 1991-01-01          | 2019-01-01        |
 | DDEI08MOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Macao                                     | 1997-01-01          | 2008-01-01        |
 | DDEI08MRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mauritania                                | 2005-01-01          | 2017-01-01        |
-| DDEI08MTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Malta                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08MUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mauritius                                 | 1996-01-01          | 2017-01-01        |
-| DDEI08MVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Maldives                                  | 1980-01-01          | 2016-01-01        |
-| DDEI08MWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Malawi                                    | 1996-01-01          | 2016-01-01        |
-| DDEI08MXA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mexico                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08MYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Malaysia                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08MZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mozambique                                | 2000-01-01          | 2017-01-01        |
-| DDEI08NAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Namibia                                   | 2005-01-01          | 2017-01-01        |
-| DDEI08NEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Niger                                     | 2004-01-01          | 2017-01-01        |
-| DDEI08NGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Nigeria                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08NIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Nicaragua                                 | 1996-01-01          | 2017-01-01        |
-| DDEI08NLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Netherlands                               | 1996-01-01          | 2017-01-01        |
-| DDEI08NOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Norway                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08NPA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Nepal                                     | 1996-01-01          | 2017-01-01        |
-| DDEI08NZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for New Zealand                               | 2006-01-01          | 2017-01-01        |
-| DDEI08OMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Oman                                      | 1996-01-01          | 2016-01-01        |
-| DDEI08PAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Panama                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08PEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Peru                                      | 1996-01-01          | 2017-01-01        |
-| DDEI08PGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Papua New Guinea                          | 1980-01-01          | 2016-01-01        |
-| DDEI08PHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Philippines                               | 1996-01-01          | 2017-01-01        |
-| DDEI08PKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Pakistan                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08PLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Poland                                    | 1996-01-01          | 2017-01-01        |
+| DDEI08MTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Malta                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08MUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mauritius                                 | 1980-01-01          | 2019-01-01        |
+| DDEI08MVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Maldives                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08MWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Malawi                                    | 1980-01-01          | 2016-01-01        |
+| DDEI08MXA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mexico                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08MYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Malaysia                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08MZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Mozambique                                | 1990-01-01          | 2019-01-01        |
+| DDEI08NAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Namibia                                   | 1990-01-01          | 2019-01-01        |
+| DDEI08NEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Niger                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08NGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Nigeria                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08NIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Nicaragua                                 | 1980-01-01          | 2019-01-01        |
+| DDEI08NLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Netherlands                               | 1980-01-01          | 2019-01-01        |
+| DDEI08NOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Norway                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08NPA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Nepal                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08NZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for New Zealand                               | 1980-01-01          | 2019-01-01        |
+| DDEI08OMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Oman                                      | 1980-01-01          | 2019-01-01        |
+| DDEI08PAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Panama                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08PEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Peru                                      | 1980-01-01          | 2019-01-01        |
+| DDEI08PGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Papua New Guinea                          | 1980-01-01          | 2019-01-01        |
+| DDEI08PHA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Philippines                               | 1980-01-01          | 2019-01-01        |
+| DDEI08PKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Pakistan                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08PLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Poland                                    | 1980-01-01          | 2019-01-01        |
 | DDEI08PTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Portugal                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08PYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Paraguay                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08QAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Qatar                                     | 2001-01-01          | 2016-01-01        |
-| DDEI08RSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Serbia                                    | 1997-01-01          | 2017-01-01        |
+| DDEI08PYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Paraguay                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08QAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Qatar                                     | 1993-01-01          | 2019-01-01        |
+| DDEI08RSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Serbia                                    | 1997-01-01          | 2019-01-01        |
 | DDEI08RUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Russian Federation                        | 1996-01-01          | 2017-01-01        |
-| DDEI08RWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Rwanda                                    | 2007-01-01          | 2017-01-01        |
-| DDEI08SAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saudi Arabia                              | 1996-01-01          | 2017-01-01        |
-| DDEI08SBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Solomon Islands                           | 1980-01-01          | 2016-01-01        |
-| DDEI08SCA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Seychelles                                | 1980-01-01          | 2016-01-01        |
-| DDEI08SDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sudan                                     | 1999-01-01          | 2012-01-01        |
-| DDEI08SEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sweden                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08SGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Singapore                                 | 1996-01-01          | 2017-01-01        |
+| DDEI08RWA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Rwanda                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08SAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saudi Arabia                              | 1980-01-01          | 2017-01-01        |
+| DDEI08SBA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Solomon Islands                           | 1980-01-01          | 2018-01-01        |
+| DDEI08SCA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Seychelles                                | 1980-01-01          | 2019-01-01        |
+| DDEI08SDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sudan                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08SEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sweden                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08SGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Singapore                                 | 1980-01-01          | 2019-01-01        |
 | DDEI08SIA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Slovenia                                  | 1996-01-01          | 2017-01-01        |
 | DDEI08SKA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Slovakia                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08SLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sierra Leone                              | 2005-01-01          | 2013-01-01        |
-| DDEI08SNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Senegal                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08SRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Suriname                                  | 2015-01-01          | 2015-01-01        |
+| DDEI08SLA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sierra Leone                              | 1980-01-01          | 2019-01-01        |
+| DDEI08SNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Senegal                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08SRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Suriname                                  | 1980-01-01          | 2019-01-01        |
 | DDEI08STA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Sao Tome and Principe                     | 2006-01-01          | 2016-01-01        |
-| DDEI08SVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for El Salvador                               | 1996-01-01          | 2017-01-01        |
-| DDEI08SYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Syrian Arab Republic                      | 2005-01-01          | 2010-01-01        |
-| DDEI08SZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Swaziland                                 | 1980-01-01          | 2016-01-01        |
-| DDEI08TDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Chad                                      | 1980-01-01          | 2016-01-01        |
-| DDEI08TGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Togo                                      | 2009-01-01          | 2017-01-01        |
-| DDEI08THA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Thailand                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08TJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Tajikistan                                | 2011-01-01          | 2015-01-01        |
-| DDEI08TNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Tunisia                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08TOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Tonga                                     | 1980-01-01          | 2016-01-01        |
-| DDEI08TRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Turkey                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08TTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Trinidad and Tobago                       | 1996-01-01          | 2014-01-01        |
-| DDEI08TZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United Republic of Tanzania               | 2004-01-01          | 2017-01-01        |
-| DDEI08UAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ukraine                                   | 1997-01-01          | 2017-01-01        |
-| DDEI08UGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Uganda                                    | 1996-01-01          | 2017-01-01        |
-| DDEI08USA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United States                             | 1996-01-01          | 2016-01-01        |
-| DDEI08UYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Uruguay                                   | 1996-01-01          | 2017-01-01        |
-| DDEI08VCA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saint Vincent and the Grenadines          | 1980-01-01          | 2016-01-01        |
-| DDEI08VEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bolivarian Republic of Venezuela          | 1996-01-01          | 2015-01-01        |
-| DDEI08VNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Viet Nam                                  | 1996-01-01          | 2017-01-01        |
-| DDEI08VUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Vanuatu                                   | 1980-01-01          | 2016-01-01        |
-| DDEI08WSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Samoa                                     | 1980-01-01          | 2016-01-01        |
-| DDEI08YEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Yemen                                     | 2001-01-01          | 2006-01-01        |
-| DDEI08ZAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for South Africa                              | 1996-01-01          | 2017-01-01        |
+| DDEI08SVA156NWDB | Credit to Government and State-Owned Enterprises to GDP for El Salvador                               | 1980-01-01          | 2019-01-01        |
+| DDEI08SYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Syrian Arab Republic                      | 1980-01-01          | 2010-01-01        |
+| DDEI08SZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Swaziland                                 | 1980-01-01          | 2019-01-01        |
+| DDEI08TDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Chad                                      | 1980-01-01          | 2018-01-01        |
+| DDEI08TGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Togo                                      | 1980-01-01          | 2019-01-01        |
+| DDEI08THA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Thailand                                  | 1980-01-01          | 2019-01-01        |
+| DDEI08TJA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Tajikistan                                | 1998-01-01          | 2019-01-01        |
+| DDEI08TNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Tunisia                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08TOA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Tonga                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08TRA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Turkey                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08TTA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Trinidad and Tobago                       | 1980-01-01          | 2019-01-01        |
+| DDEI08TZA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United Republic of Tanzania               | 1980-01-01          | 2019-01-01        |
+| DDEI08UAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Ukraine                                   | 1992-01-01          | 2019-01-01        |
+| DDEI08UGA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Uganda                                    | 1980-01-01          | 2019-01-01        |
+| DDEI08USA156NWDB | Credit to Government and State-Owned Enterprises to GDP for United States                             | 1980-01-01          | 2019-01-01        |
+| DDEI08UYA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Uruguay                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08VCA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Saint Vincent and the Grenadines          | 1980-01-01          | 2019-01-01        |
+| DDEI08VEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Bolivarian Republic of Venezuela          | 1980-01-01          | 2015-01-01        |
+| DDEI08VNA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Viet Nam                                  | 1992-01-01          | 2019-01-01        |
+| DDEI08VUA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Vanuatu                                   | 1980-01-01          | 2019-01-01        |
+| DDEI08WSA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Samoa                                     | 1980-01-01          | 2019-01-01        |
+| DDEI08YEA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Yemen                                     | 1990-01-01          | 2013-01-01        |
+| DDEI08ZAA156NWDB | Credit to Government and State-Owned Enterprises to GDP for South Africa                              | 1980-01-01          | 2019-01-01        |
 | DDEI08ZMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Zambia                                    | 1996-01-01          | 2017-01-01        |
 | DEBTTLALA188A    | Central government debt, total (% of GDP) for Albania                                                 | 1995-01-01          | 2016-01-01        |
 | DEBTTLATA188A    | Central government debt, total (% of GDP) for Austria                                                 | 1999-01-01          | 2015-01-01        |

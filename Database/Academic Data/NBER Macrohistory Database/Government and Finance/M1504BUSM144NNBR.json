@@ -1,7 +1,7 @@
 {
   "id": "M1504BUSM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Federal Budget Receipts, Total for United States",
   "observation_start": "1930-07-01",
   "observation_end": "1940-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:47:27-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 5,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1879-1933 (2)--Original Data, 1930-1940 (3)--Original Data, 1939-1962. Source: U.S. Treasury Department, Daily Treasury Statements\n\nThis NBER data series m15004b appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15004b"
 }

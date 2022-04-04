@@ -1,7 +1,7 @@
 {
   "id": "A08183USA144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Entrepreneurial Withdrawals for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1939-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:28:36-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The Figure For 1934 (Given Here As 9099) Is The Average Of 9090 And 9108. See Table 52, P. 317 In Source Given Above. For The Reason Why Two 1934 Figures Are Given, See The Note On P. 309 Of The Source. Source: 1919-1938 Data Are From Simon Kuznets, National Income And Its Composition, (NBER, 1941), Vol. I, Table 65, Pp. 338-339. The Figure Given For 1939 Was Extrapolated With The Aid Of Department Of Commerce Data.\n\nThis NBER data series a08183 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08183"
 }

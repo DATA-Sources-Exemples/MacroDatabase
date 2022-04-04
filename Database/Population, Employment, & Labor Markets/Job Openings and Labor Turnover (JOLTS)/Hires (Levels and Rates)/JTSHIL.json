@@ -1,7 +1,7 @@
 {
   "id": "JTSHIL",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Hires: Total Nonfarm",
   "observation_start": "2000-12-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-09 09:11:04-06",
-  "popularity": 42,
-  "group_popularity": 46
+  "popularity": 39,
+  "group_popularity": 42
 }

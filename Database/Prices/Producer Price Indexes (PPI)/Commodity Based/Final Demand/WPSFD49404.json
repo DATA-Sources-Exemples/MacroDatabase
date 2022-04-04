@@ -1,7 +1,7 @@
 {
   "id": "WPSFD49404",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Final Demand: Total Government Purchased Capital Investment (Goods, Services, and Construction)",
   "observation_start": "2013-08-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 08:05:15-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 5,
+  "group_popularity": 5
 }

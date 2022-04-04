@@ -1,7 +1,7 @@
 {
   "id": "AHOILNYH",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "No. 2 Heating Oil Prices: New York Harbor",
   "observation_start": "1986-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-05 12:11:26-06",
-  "popularity": 1,
-  "group_popularity": 40,
+  "popularity": 2,
+  "group_popularity": 36,
   "notes": "Definitions, Sources and Explanatory Notes:\nhttp://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp"
 }

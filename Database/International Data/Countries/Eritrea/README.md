@@ -11,8 +11,8 @@
 | DDAI03ERA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Eritrea                                   | 2009-01-01          | 2009-01-01        |
 | DDAI04ERA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Eritrea                       | 2009-01-01          | 2009-01-01        |
 | DDDI04ERA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Eritrea            | 1995-01-01          | 2014-01-01        |
-| DDDI09ERA156NWDB    | Life Insurance Premium Volume to GDP for Eritrea                                                      | 2002-01-01          | 2015-01-01        |
-| DDDI10ERA156NWDB    | Non-Life Insurance Premium Volume to GDP for Eritrea                                                  | 2002-01-01          | 2015-01-01        |
+| DDDI09ERA156NWDB    | Life Insurance Premium Volume to GDP for Eritrea                                                      | 2002-01-01          | 2019-01-01        |
+| DDDI10ERA156NWDB    | Non-Life Insurance Premium Volume to GDP for Eritrea                                                  | 2002-01-01          | 2019-01-01        |
 | DDEI01ERA156NWDB    | Bank's Net Interest Margin for Eritrea                                                                | 1998-01-01          | 2008-01-01        |
 | DDEI03ERA156NWDB    | Bank's Non-Interest Income to Total Income for Eritrea                                                | 1997-01-01          | 2008-01-01        |
 | DDEI04ERA156NWDB    | Bank's Overhead Costs to Total Assets for Eritrea                                                     | 1998-01-01          | 2008-01-01        |
@@ -23,8 +23,8 @@
 | DDOI05ERA156NWDB    | Boone Indicator in Banking Market for Eritrea                                                         | 2001-01-01          | 2008-01-01        |
 | DDOI07ERA648NWDB    | Liquid Liabilities (Broad Money) for Eritrea                                                          | 1995-01-01          | 2014-01-01        |
 | DDOI09ERA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Eritrea                                | 2000-01-01          | 2013-01-01        |
-| DDOI11ERA156NWDB    | Remittance Inflows to GDP for Eritrea                                                                 | 1998-01-01          | 2000-01-01        |
-| DDOI12ERA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Eritrea                                 | 1998-01-01          | 2016-01-01        |
+| DDOI11ERA156NWDB    | Remittance Inflows to GDP for Eritrea                                                                 | 1998-01-01          | 2011-01-01        |
+| DDOI12ERA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Eritrea                                 | 1998-01-01          | 2019-01-01        |
 | DDSI01ERA645NWDB    | Bank Z-Score for Eritrea                                                                              | 1997-01-01          | 2008-01-01        |
 | DDSI04ERA156NWDB    | Bank Credit to Bank Deposits for Eritrea                                                              | 1995-01-01          | 2014-01-01        |
 | DDSI06ERA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Eritrea                                          | 1997-01-01          | 2008-01-01        |

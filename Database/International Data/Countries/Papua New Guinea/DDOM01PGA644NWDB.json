@@ -1,7 +1,7 @@
 {
   "id": "DDOM01PGA644NWDB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Number of Listed Companies for Papua New Guinea",
   "observation_start": "2000-01-01",
   "observation_end": "2016-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Number of Listed Companies per Mil. People",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2018-09-21 11:27:17-05",
+  "last_updated": "2022-03-23 16:25:52-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Number of domestically incorporated companies listed on the country's stock exchanges at the end of the year (does not include investment companies, mutual funds, or other collective investment vehicles).\n\nSource Code: GFDD.OM.01"

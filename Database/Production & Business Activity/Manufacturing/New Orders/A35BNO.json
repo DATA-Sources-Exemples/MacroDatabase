@@ -1,7 +1,7 @@
 {
   "id": "A35BNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' New Orders: Household Appliance Manufacturing",
   "observation_start": "1992-02-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 09:05:09-06",
-  "popularity": 4,
-  "group_popularity": 6
+  "popularity": 7,
+  "group_popularity": 8
 }

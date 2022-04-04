@@ -1,7 +1,7 @@
 {
   "id": "IR3TIB01ILM156N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Israel",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:45:23-06",
-  "popularity": 8,
-  "group_popularity": 10,
+  "popularity": 4,
+  "group_popularity": 7,
   "notes": "OECD descriptor ID: IR3TIB01\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

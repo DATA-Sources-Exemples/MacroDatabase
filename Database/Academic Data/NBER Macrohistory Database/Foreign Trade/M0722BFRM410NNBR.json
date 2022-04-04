@@ -1,7 +1,7 @@
 {
   "id": "M0722BFRM410NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Foodstuffs, Imports, Value for France",
   "observation_start": "1885-01-01",
   "observation_end": "1939-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:02:41-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1887 (2)--Original Data, 1885-1939. Total Manufactures Imported Into Alsace-Lorraine Are Included In The December, 1919 Figures, But Are Monthly From Hereon. From March 1935-July 1939, Saar Is Excluded. From August 1938-July 1939, This Is Preliminary Data. Source: For 1885-1934, Documents Statistique ... Sur Le Commerce De La France (Direction Generale Des Douanes) - Which With The 1922-1924 Issue And Thereafter Changes Title To Statistique Mensuelle Du Commerce Exterieure De La France. Where Gaps Occur The Bulletin De Statistique Generale And L'Economiste Francais Were Used.\n\nThis NBER data series m07022b appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07022b"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DNDGRAM1M225NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Personal Consumption Expenditures: Goods: Nondurable goods",
   "observation_start": "1959-02-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-25 07:43:50-06",
-  "popularity": 3,
-  "group_popularity": 7,
+  "popularity": 2,
+  "group_popularity": 6,
   "notes": "BEA Account Code: DNDGRAM\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

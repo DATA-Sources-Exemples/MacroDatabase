@@ -1,7 +1,7 @@
 {
   "id": "DISCNTD8",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Federal Reserve Bank of St. Louis Basic Discount Rate (DISCONTINUED)",
   "observation_start": "1914-11-16",
   "observation_end": "2002-11-07",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2003-09-09 08:51:48-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "Historical dates of changes and rates."
 }

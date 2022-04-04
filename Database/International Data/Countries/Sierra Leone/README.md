@@ -18,49 +18,49 @@
 | DCSLEA052SCEN       | Value of Exports to Sierra Leone from District of Columbia                                                                    | 2003-01-01          | 2014-01-01        |
 | DCSLEA475SCEN       | Number of Identified Exporters to Sierra Leone from District of Columbia                                                      | 1992-01-01          | 2015-01-01        |
 | DDAI01SLA642NWDB    | Number of Bank Accounts for Sierra Leone                                                                                      | 2006-01-01          | 2012-01-01        |
-| DDAI02SLA643NWDB    | Number of Bank Branches for Sierra Leone                                                                                      | 2005-01-01          | 2012-01-01        |
-| DDAI03SLA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Sierra Leone                                                      | 2009-01-01          | 2009-01-01        |
-| DDAI04SLA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Sierra Leone                                          | 2009-01-01          | 2009-01-01        |
-| DDAI05SLA156NWDB    | People 15 Years and Over with Account at a Formal Financial Institution for Sierra Leone                                      | 2011-01-01          | 2011-01-01        |
-| DDAI06SLA156NWDB    | People 15 Years and Over Saving at a Financial Institution in the Past Year for Sierra Leone                                  | 2011-01-01          | 2011-01-01        |
-| DDAI07SLA156NWDB    | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Sierra Leone                             | 2011-01-01          | 2011-01-01        |
-| DDDI01SLA156NWDB    | Private Credit by Deposit Money Banks to GDP for Sierra Leone                                                                 | 2005-01-01          | 2013-01-01        |
-| DDDI02SLA156NWDB    | Deposit Money Bank Assets to GDP for Sierra Leone                                                                             | 2005-01-01          | 2013-01-01        |
-| DDDI04SLA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Sierra Leone                               | 2005-01-01          | 2013-01-01        |
-| DDDI05SLA156NWDB    | Liquid Liabilities to GDP for Sierra Leone                                                                                    | 2005-01-01          | 2013-01-01        |
-| DDDI06SLA156NWDB    | Central Bank Assets to GDP for Sierra Leone                                                                                   | 2005-01-01          | 2013-01-01        |
-| DDDI08SLA156NWDB    | Financial System Deposits to GDP for Sierra Leone                                                                             | 2005-01-01          | 2013-01-01        |
-| DDDI09SLA156NWDB    | Life Insurance Premium Volume to GDP for Sierra Leone                                                                         | 2005-01-01          | 2013-01-01        |
-| DDDI10SLA156NWDB    | Non-Life Insurance Premium Volume to GDP for Sierra Leone                                                                     | 2005-01-01          | 2013-01-01        |
-| DDDI12SLA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Sierra Leone                                | 2005-01-01          | 2013-01-01        |
+| DDAI02SLA643NWDB    | Number of Bank Branches for Sierra Leone                                                                                      | 2004-01-01          | 2012-01-01        |
+| DDAI03SLA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Sierra Leone                                                      | 2009-01-01          | 2017-01-01        |
+| DDAI04SLA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Sierra Leone                                          | 2009-01-01          | 2017-01-01        |
+| DDAI05SLA156NWDB    | People 15 Years and Over with Account at a Formal Financial Institution for Sierra Leone                                      | 2011-01-01          | 2017-01-01        |
+| DDAI06SLA156NWDB    | People 15 Years and Over Saving at a Financial Institution in the Past Year for Sierra Leone                                  | 2011-01-01          | 2017-01-01        |
+| DDAI07SLA156NWDB    | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Sierra Leone                             | 2011-01-01          | 2017-01-01        |
+| DDDI01SLA156NWDB    | Private Credit by Deposit Money Banks to GDP for Sierra Leone                                                                 | 1960-01-01          | 2020-01-01        |
+| DDDI02SLA156NWDB    | Deposit Money Bank Assets to GDP for Sierra Leone                                                                             | 1960-01-01          | 2020-01-01        |
+| DDDI04SLA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Sierra Leone                               | 1960-01-01          | 2020-01-01        |
+| DDDI05SLA156NWDB    | Liquid Liabilities to GDP for Sierra Leone                                                                                    | 1960-01-01          | 2020-01-01        |
+| DDDI06SLA156NWDB    | Central Bank Assets to GDP for Sierra Leone                                                                                   | 1960-01-01          | 2020-01-01        |
+| DDDI08SLA156NWDB    | Financial System Deposits to GDP for Sierra Leone                                                                             | 1960-01-01          | 2020-01-01        |
+| DDDI09SLA156NWDB    | Life Insurance Premium Volume to GDP for Sierra Leone                                                                         | 2003-01-01          | 2016-01-01        |
+| DDDI10SLA156NWDB    | Non-Life Insurance Premium Volume to GDP for Sierra Leone                                                                     | 2003-01-01          | 2015-01-01        |
+| DDDI12SLA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Sierra Leone                                | 1960-01-01          | 2020-01-01        |
 | DDDM10SLA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Sierra Leone                                                                      | 2008-01-01          | 2013-01-01        |
-| DDEI01SLA156NWDB    | Bank's Net Interest Margin for Sierra Leone                                                                                   | 2005-01-01          | 2013-01-01        |
-| DDEI02SLA156NWDB    | Bank Lending Deposit Spread for Sierra Leone                                                                                  | 2005-01-01          | 2013-01-01        |
-| DDEI03SLA156NWDB    | Bank's Non-Interest Income to Total Income for Sierra Leone                                                                   | 2005-01-01          | 2013-01-01        |
-| DDEI04SLA156NWDB    | Bank's Overhead Costs to Total Assets for Sierra Leone                                                                        | 2005-01-01          | 2013-01-01        |
-| DDEI05SLA156NWDB    | Bank's Return on Assets for Sierra Leone                                                                                      | 2005-01-01          | 2013-01-01        |
-| DDEI06SLA156NWDB    | Bank's Return on Equity for Sierra Leone                                                                                      | 2005-01-01          | 2013-01-01        |
-| DDEI07SLA156NWDB    | Bank's Cost to Income Ratio for Sierra Leone                                                                                  | 2005-01-01          | 2013-01-01        |
-| DDEI08SLA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Sierra Leone                                                      | 2005-01-01          | 2013-01-01        |
-| DDOE01SLA086NWDB    | Consumer Price Index for Sierra Leone                                                                                         | 2005-01-01          | 2013-01-01        |
-| DDOE02SLA086NWDB    | Consumer Price Index for Sierra Leone                                                                                         | 2005-01-01          | 2013-01-01        |
-| DDOI01SLA156NWDB    | Bank Concentration for Sierra Leone                                                                                           | 2005-01-01          | 2013-01-01        |
-| DDOI02SLA156NWDB    | Bank Deposits to GDP for Sierra Leone                                                                                         | 2005-01-01          | 2013-01-01        |
-| DDOI04SLA066NWDB    | Lerner Index in Banking Market for Sierra Leone                                                                               | 2005-01-01          | 2013-01-01        |
-| DDOI05SLA156NWDB    | Boone Indicator in Banking Market for Sierra Leone                                                                            | 2005-01-01          | 2013-01-01        |
+| DDEI01SLA156NWDB    | Bank's Net Interest Margin for Sierra Leone                                                                                   | 2000-01-01          | 2017-01-01        |
+| DDEI02SLA156NWDB    | Bank Lending Deposit Spread for Sierra Leone                                                                                  | 1980-01-01          | 2019-01-01        |
+| DDEI03SLA156NWDB    | Bank's Non-Interest Income to Total Income for Sierra Leone                                                                   | 2000-01-01          | 2017-01-01        |
+| DDEI04SLA156NWDB    | Bank's Overhead Costs to Total Assets for Sierra Leone                                                                        | 2000-01-01          | 2017-01-01        |
+| DDEI05SLA156NWDB    | Bank's Return on Assets for Sierra Leone                                                                                      | 2000-01-01          | 2017-01-01        |
+| DDEI06SLA156NWDB    | Bank's Return on Equity for Sierra Leone                                                                                      | 2000-01-01          | 2017-01-01        |
+| DDEI07SLA156NWDB    | Bank's Cost to Income Ratio for Sierra Leone                                                                                  | 2000-01-01          | 2017-01-01        |
+| DDEI08SLA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Sierra Leone                                                      | 1980-01-01          | 2019-01-01        |
+| DDOE01SLA086NWDB    | Consumer Price Index for Sierra Leone                                                                                         | 1961-01-01          | 2017-01-01        |
+| DDOE02SLA086NWDB    | Consumer Price Index for Sierra Leone                                                                                         | 1961-01-01          | 2017-01-01        |
+| DDOI01SLA156NWDB    | Bank Concentration for Sierra Leone                                                                                           | 2000-01-01          | 2013-01-01        |
+| DDOI02SLA156NWDB    | Bank Deposits to GDP for Sierra Leone                                                                                         | 1960-01-01          | 2020-01-01        |
+| DDOI04SLA066NWDB    | Lerner Index in Banking Market for Sierra Leone                                                                               | 1996-01-01          | 2013-01-01        |
+| DDOI05SLA156NWDB    | Boone Indicator in Banking Market for Sierra Leone                                                                            | 1999-01-01          | 2014-01-01        |
 | DDOI06SLA156NWDB    | 5-Bank Asset Concentration for Sierra Leone                                                                                   | 2005-01-01          | 2013-01-01        |
-| DDOI07SLA648NWDB    | Liquid Liabilities (Broad Money) for Sierra Leone                                                                             | 2005-01-01          | 2013-01-01        |
+| DDOI07SLA648NWDB    | Liquid Liabilities (Broad Money) for Sierra Leone                                                                             | 1960-01-01          | 2020-01-01        |
 | DDOI09SLA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Sierra Leone                                                   | 2005-01-01          | 2013-01-01        |
-| DDOI10SLA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Sierra Leone                             | 2005-01-01          | 2013-01-01        |
-| DDOI11SLA156NWDB    | Remittance Inflows to GDP for Sierra Leone                                                                                    | 2005-01-01          | 2013-01-01        |
-| DDOI12SLA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Sierra Leone                                                    | 2005-01-01          | 2013-01-01        |
-| DDSI01SLA645NWDB    | Bank Z-Score for Sierra Leone                                                                                                 | 2005-01-01          | 2013-01-01        |
-| DDSI02SLA156NWDB    | Bank Non-Performing Loans to Gross Loans for Sierra Leone                                                                     | 2005-01-01          | 2013-01-01        |
-| DDSI03SLA156NWDB    | Bank Capital to Total Assets for Sierra Leone                                                                                 | 2005-01-01          | 2013-01-01        |
-| DDSI04SLA156NWDB    | Bank Credit to Bank Deposits for Sierra Leone                                                                                 | 2005-01-01          | 2013-01-01        |
-| DDSI05SLA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Sierra Leone                                                              | 2005-01-01          | 2013-01-01        |
-| DDSI06SLA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Sierra Leone                                                             | 2005-01-01          | 2013-01-01        |
-| DDSI07SLA156NWDB    | Provisions to Non-Performing Loans for Sierra Leone                                                                           | 2005-01-01          | 2013-01-01        |
+| DDOI10SLA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Sierra Leone                             | 1995-01-01          | 2020-01-01        |
+| DDOI11SLA156NWDB    | Remittance Inflows to GDP for Sierra Leone                                                                                    | 1980-01-01          | 2020-01-01        |
+| DDOI12SLA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Sierra Leone                                                    | 1983-01-01          | 2019-01-01        |
+| DDSI01SLA645NWDB    | Bank Z-Score for Sierra Leone                                                                                                 | 2000-01-01          | 2017-01-01        |
+| DDSI02SLA156NWDB    | Bank Non-Performing Loans to Gross Loans for Sierra Leone                                                                     | 2000-01-01          | 2015-01-01        |
+| DDSI03SLA156NWDB    | Bank Capital to Total Assets for Sierra Leone                                                                                 | 2000-01-01          | 2015-01-01        |
+| DDSI04SLA156NWDB    | Bank Credit to Bank Deposits for Sierra Leone                                                                                 | 1960-01-01          | 2020-01-01        |
+| DDSI05SLA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Sierra Leone                                                              | 2000-01-01          | 2015-01-01        |
+| DDSI06SLA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Sierra Leone                                                             | 2000-01-01          | 2017-01-01        |
+| DDSI07SLA156NWDB    | Provisions to Non-Performing Loans for Sierra Leone                                                                           | 2000-01-01          | 2015-01-01        |
 | DEBTTLSLA188A       | Central government debt, total (% of GDP) for Sierra Leone                                                                    | 1990-01-01          | 1999-01-01        |
 | DESLEA052SCEN       | Value of Exports to Sierra Leone from Delaware                                                                                | 2010-01-01          | 2013-01-01        |
 | DESLEA475SCEN       | Number of Identified Exporters to Sierra Leone from Delaware                                                                  | 2002-01-01          | 2016-01-01        |

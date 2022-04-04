@@ -1,7 +1,7 @@
 {
   "id": "A0108BUSA331NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Crop Production, Industrial Production and Trade for United States",
   "observation_start": "1921-01-01",
   "observation_end": "1932-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:50:08-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables-(1)--Original Data, 1863-1921 (2)--Original Data, 1921-1932. Source: Warren M. Persons And Le Baron K. Foster, \"A New Index Of Industrial Production And Trade\", Review Of Economic Statistics, August 1933, P. 156.\n\nThis NBER data series a01008b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01008b"
 }

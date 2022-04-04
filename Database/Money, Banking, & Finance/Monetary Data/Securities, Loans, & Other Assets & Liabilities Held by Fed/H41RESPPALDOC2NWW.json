@@ -1,17 +1,17 @@
 {
   "id": "H41RESPPALDOC2NWW",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Supplementary Information: Supplemental Information on 2020 Credit Facilities: Outstanding Principal Amount of Loan Extended to the Corporate Credit Facilities LLC: Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-03-16",
+  "observation_end": "2022-03-23",
   "frequency": "Weekly",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-17 15:48:38-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "last_updated": "2022-03-24 15:35:20-05",
+  "popularity": 4,
+  "group_popularity": 4
 }

@@ -1,7 +1,7 @@
 {
   "id": "CLSLCBM027SBOG",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Loans, Large Domestically Chartered Commercial Banks",
   "observation_start": "1985-04-01",
   "observation_end": "2022-02-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of U.S. $",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-03-18 15:52:58-05",
-  "popularity": 5,
-  "group_popularity": 8,
+  "last_updated": "2022-03-25 15:35:00-05",
+  "popularity": 6,
+  "group_popularity": 7,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU10710313",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Metal Windows (Except Storm Sash)",
   "observation_start": "1997-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:03:08-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 2
 }

@@ -1,7 +1,7 @@
 {
   "id": "FORT018LF",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Civilian Labor Force in Fort Wayne, IN (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-03-18 17:16:39-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 1,
+  "group_popularity": 2
 }

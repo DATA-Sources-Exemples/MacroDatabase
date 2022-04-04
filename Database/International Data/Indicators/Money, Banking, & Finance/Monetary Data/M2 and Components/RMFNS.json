@@ -1,7 +1,7 @@
 {
   "id": "RMFNS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Retail Money Market Funds",
   "observation_start": "1973-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-22 12:03:22-05",
-  "popularity": 16,
-  "group_popularity": 50,
+  "popularity": 14,
+  "group_popularity": 49,
   "notes": "The retail money funds component of M2 is constructed from weekly data collected by the Investment Company Institute (ICI), a trade association for the investment company industry. The retail money funds component of M2 excludes IRA and Keogh balances held at MMMFs, which are reported by ICI on a quarterly basis."
 }

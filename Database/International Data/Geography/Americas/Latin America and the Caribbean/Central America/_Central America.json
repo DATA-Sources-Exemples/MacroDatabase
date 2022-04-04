@@ -1,8 +1,8 @@
 {
   "EXP0017": {
     "id": "EXP0017",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Exports of Goods by F.A.S. Basis to CAFTA-DR",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "IMP0017": {
     "id": "IMP0017",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Imports of Goods by Customs Basis from CAFTA-DR",
     "observation_start": "2005-01-01",
     "observation_end": "2022-01-01",

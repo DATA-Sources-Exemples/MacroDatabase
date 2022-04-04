@@ -1,7 +1,7 @@
 {
   "id": "DEXUSEU",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "U.S. Dollars to Euro Spot Exchange Rate",
   "observation_start": "1999-01-04",
   "observation_end": "2022-03-18",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 15:20:03-05",
-  "popularity": 72,
+  "popularity": 71,
   "group_popularity": 73,
   "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

@@ -1,7 +1,7 @@
 {
   "id": "NNPDCBW027NBOG",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Loans Secured by Nonfarm Nonresidential Properties, Domestically Chartered Commercial Banks (DISCONTINUED)",
   "observation_start": "2015-01-07",
   "observation_end": "2018-01-03",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-01-16 12:21:22-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/.\n\nThis series has been discontinued with implementation of the Federal Reserve Board's notice published in the Federal Register, 82 FR 49207 on October 24, 2017, https://www.federalregister.gov/d/2017-23003."
 }

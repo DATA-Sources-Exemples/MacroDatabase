@@ -78,53 +78,53 @@
 | RPPGOOD48540              | Regional Price Parities: Goods for Wheeling, WV-OH (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH48540          | Regional Price Parities: Services: Other for Wheeling, WV-OH (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT48540         | Regional Price Parities: Services: Rents for Wheeling, WV-OH (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS54485400000000026      | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS54485400000000026      | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU54485400000000001A     | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1982-01-01          | 2021-01-01        |
-| SMU54485400500000001      | All Employees: Total Private in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU54485400500000001      | All Employees: Total Private in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU54485400500000001A     | All Employees: Total Private in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU54485400500000001SA    | All Employees: Total Private in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU54485400500000002      | Average Weekly Hours of All Employees: Total Private in Wheeling, WV-OH (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU54485400500000001SA    | All Employees: Total Private in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU54485400500000002      | Average Weekly Hours of All Employees: Total Private in Wheeling, WV-OH (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU54485400500000002A     | Average Weekly Hours of All Employees: Total Private in Wheeling, WV-OH (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU54485400500000002SA    | Average Weekly Hours of All Employees: Total Private in Wheeling, WV-OH (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU54485400500000003      | Average Hourly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU54485400500000002SA    | Average Weekly Hours of All Employees: Total Private in Wheeling, WV-OH (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU54485400500000003      | Average Hourly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU54485400500000003A     | Average Hourly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU54485400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU54485400500000011      | Average Weekly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU54485400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU54485400500000011      | Average Weekly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU54485400500000011A     | Average Weekly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU54485400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU54485400600000001      | All Employees: Goods Producing in Wheeling, WV-OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU54485400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Wheeling, WV-OH (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU54485400600000001      | All Employees: Goods Producing in Wheeling, WV-OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU54485400600000001A     | All Employees: Goods Producing in Wheeling, WV-OH (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU54485400600000001SA    | All Employees: Goods Producing in Wheeling, WV-OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU54485400700000001      | All Employees: Service-Providing in Wheeling, WV-OH (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU54485400600000001SA    | All Employees: Goods Producing in Wheeling, WV-OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU54485400700000001      | All Employees: Service-Providing in Wheeling, WV-OH (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU54485400700000001A     | All Employees: Service-Providing in Wheeling, WV-OH (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU54485400700000001SA    | All Employees: Service-Providing in Wheeling, WV-OH (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU54485400800000001      | All Employees: Private Service Providing in Wheeling, WV-OH (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU54485400700000001SA    | All Employees: Service-Providing in Wheeling, WV-OH (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU54485400800000001      | All Employees: Private Service Providing in Wheeling, WV-OH (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU54485400800000001A     | All Employees: Private Service Providing in Wheeling, WV-OH (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU54485400800000001SA    | All Employees: Private Service Providing in Wheeling, WV-OH (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU54485400800000001SA    | All Employees: Private Service Providing in Wheeling, WV-OH (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU54485403000000001A     | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU54485406500000001A     | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU54485409000000001A     | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU54485409091000001      | All Employees: Government: Federal Government in Wheeling, WV-OH (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU54485409091000001      | All Employees: Government: Federal Government in Wheeling, WV-OH (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU54485409091000001A     | All Employees: Federal Government in Wheeling, WV-OH (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU54485409091000001SA    | All Employees: Government: Federal Government in Wheeling, WV-OH (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU54485409092000001      | All Employees: Government: State Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU54485409091000001SA    | All Employees: Government: Federal Government in Wheeling, WV-OH (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU54485409092000001      | All Employees: Government: State Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU54485409092000001A     | All Employees: State Government in Wheeling, WV-OH (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU54485409092000001SA    | All Employees: Government: State Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU54485409093000001      | All Employees: Government: Local Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU54485409092000001SA    | All Employees: Government: State Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU54485409093000001      | All Employees: Government: Local Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU54485409093000001A     | All Employees: Local Government in Wheeling, WV-OH (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU54485409093000001SA    | All Employees: Government: Local Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU54485409093000001SA    | All Employees: Government: Local Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA48540              | Market Hotness: Supply Score in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-01-01        |
-| WHEE554EDUH               | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-01-01        |
-| WHEE554EDUHN              | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-01-01        |
-| WHEE554GOVT               | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| WHEE554GOVTN              | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| WHEE554EDUH               | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-02-01        |
+| WHEE554EDUHN              | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-02-01        |
+| WHEE554GOVT               | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| WHEE554GOVTN              | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | WHEE554LF                 | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | WHEE554LFN                | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| WHEE554MFG                | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WHEE554MFGN               | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WHEE554NA                 | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WHEE554NAN                | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1982-01-01          | 2022-01-01        |
+| WHEE554MFG                | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WHEE554MFGN               | All Employees: Manufacturing in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WHEE554NA                 | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WHEE554NAN                | All Employees: Total Nonfarm in Wheeling, WV-OH (MSA)                                              | 1982-01-01          | 2022-02-01        |
 | WHEE554PCPI               | Per Capita Personal Income in Wheeling, WV-OH (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | WHEE554UR                 | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | WHEE554URN                | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| WHLPOP                    | Resident Population in Wheeling, WV-OH (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| WHLPOP                    | Resident Population in Wheeling, WV-OH (MSA)                                                       | 2000-01-01          | 2021-01-01        |

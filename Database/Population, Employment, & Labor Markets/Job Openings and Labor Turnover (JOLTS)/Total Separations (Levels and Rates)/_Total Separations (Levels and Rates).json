@@ -1,8 +1,8 @@
 {
   "JTS1000TSL": {
     "id": "JTS1000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -14,12 +14,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:17-06",
     "popularity": 3,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "JTS1000TSR": {
     "id": "JTS1000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -31,12 +31,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:20-06",
     "popularity": 3,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "JTS2300TSL": {
     "id": "JTS2300TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:27-06",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 5
   },
   "JTS2300TSR": {
     "id": "JTS2300TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:11-06",
-    "popularity": 1,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 5
   },
   "JTS3000TSL": {
     "id": "JTS3000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:14-06",
-    "popularity": 3,
-    "group_popularity": 7
+    "popularity": 4,
+    "group_popularity": 8
   },
   "JTS3000TSR": {
     "id": "JTS3000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -99,12 +99,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:17-06",
     "popularity": 5,
-    "group_popularity": 7
+    "group_popularity": 8
   },
   "JTS3200TSL": {
     "id": "JTS3200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -116,12 +116,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:11-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTS3200TSR": {
     "id": "JTS3200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -133,12 +133,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:26-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTS3400TSL": {
     "id": "JTS3400TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -154,8 +154,8 @@
   },
   "JTS3400TSR": {
     "id": "JTS3400TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -171,8 +171,8 @@
   },
   "JTS4000TSL": {
     "id": "JTS4000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:10-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTS4000TSR": {
     "id": "JTS4000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -201,12 +201,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:10-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTS4400TSL": {
     "id": "JTS4400TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:26-06",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 5
   },
   "JTS4400TSR": {
     "id": "JTS4400TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -235,12 +235,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:10-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTS6000TSL": {
     "id": "JTS6000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -256,8 +256,8 @@
   },
   "JTS6000TSR": {
     "id": "JTS6000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -273,8 +273,8 @@
   },
   "JTS6200TSL": {
     "id": "JTS6200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:09-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "JTS6200TSR": {
     "id": "JTS6200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -307,8 +307,8 @@
   },
   "JTS7000TSL": {
     "id": "JTS7000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -324,8 +324,8 @@
   },
   "JTS7000TSR": {
     "id": "JTS7000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -341,8 +341,8 @@
   },
   "JTS7100TSL": {
     "id": "JTS7100TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -358,8 +358,8 @@
   },
   "JTS7100TSR": {
     "id": "JTS7100TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -375,8 +375,8 @@
   },
   "JTS7200TSL": {
     "id": "JTS7200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -387,13 +387,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:25-06",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 5
   },
   "JTS7200TSR": {
     "id": "JTS7200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -405,12 +405,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:08-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTS9000TSL": {
     "id": "JTS9000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -426,8 +426,8 @@
   },
   "JTS9000TSR": {
     "id": "JTS9000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -443,8 +443,8 @@
   },
   "JTS9200TSL": {
     "id": "JTS9200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -460,8 +460,8 @@
   },
   "JTS9200TSR": {
     "id": "JTS9200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -477,8 +477,8 @@
   },
   "JTS540099TSL": {
     "id": "JTS540099TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -494,8 +494,8 @@
   },
   "JTS540099TSR": {
     "id": "JTS540099TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -511,8 +511,8 @@
   },
   "JTSTSL": {
     "id": "JTSTSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -523,13 +523,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:05-06",
-    "popularity": 25,
-    "group_popularity": 31
+    "popularity": 24,
+    "group_popularity": 34
   },
   "JTSTSR": {
     "id": "JTSTSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -540,13 +540,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:06-06",
-    "popularity": 17,
-    "group_popularity": 31
+    "popularity": 20,
+    "group_popularity": 34
   },
   "JTU1000TSL": {
     "id": "JTU1000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -558,12 +558,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:32-06",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "JTU1000TSR": {
     "id": "JTU1000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -575,12 +575,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:03-06",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "JTU2300TSL": {
     "id": "JTU2300TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -592,12 +592,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:01-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTU2300TSR": {
     "id": "JTU2300TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -608,13 +608,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:22-06",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 1,
+    "group_popularity": 5
   },
   "JTU3000TSL": {
     "id": "JTU3000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -626,12 +626,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:00-06",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 8
   },
   "JTU3000TSR": {
     "id": "JTU3000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -643,12 +643,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:00-06",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 8
   },
   "JTU3200TSL": {
     "id": "JTU3200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -660,12 +660,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:58-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTU3200TSR": {
     "id": "JTU3200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -677,12 +677,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:57-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTU3400TSL": {
     "id": "JTU3400TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -698,8 +698,8 @@
   },
   "JTU3400TSR": {
     "id": "JTU3400TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -715,8 +715,8 @@
   },
   "JTU4000TSL": {
     "id": "JTU4000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -728,12 +728,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:54-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTU4000TSR": {
     "id": "JTU4000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -745,12 +745,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:54-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "JTU4200TSL": {
     "id": "JTU4200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Wholesale Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -766,8 +766,8 @@
   },
   "JTU4200TSR": {
     "id": "JTU4200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Wholesale Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -783,8 +783,8 @@
   },
   "JTU4400TSL": {
     "id": "JTU4400TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -796,12 +796,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:51-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTU4400TSR": {
     "id": "JTU4400TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -813,12 +813,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:51-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTU5100TSL": {
     "id": "JTU5100TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Information",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -834,8 +834,8 @@
   },
   "JTU5100TSR": {
     "id": "JTU5100TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Information",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -851,8 +851,8 @@
   },
   "JTU5200TSL": {
     "id": "JTU5200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Finance and Insurance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -868,8 +868,8 @@
   },
   "JTU5200TSR": {
     "id": "JTU5200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Finance and Insurance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -885,8 +885,8 @@
   },
   "JTU5300TSL": {
     "id": "JTU5300TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Real Estate and Rental and Leasing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -902,8 +902,8 @@
   },
   "JTU5300TSR": {
     "id": "JTU5300TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Real Estate and Rental and Leasing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -919,8 +919,8 @@
   },
   "JTU6000TSL": {
     "id": "JTU6000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -936,8 +936,8 @@
   },
   "JTU6000TSR": {
     "id": "JTU6000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -953,8 +953,8 @@
   },
   "JTU6100TSL": {
     "id": "JTU6100TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Educational Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -970,8 +970,8 @@
   },
   "JTU6100TSR": {
     "id": "JTU6100TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Educational Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -987,8 +987,8 @@
   },
   "JTU6200TSL": {
     "id": "JTU6200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1004,8 +1004,8 @@
   },
   "JTU6200TSR": {
     "id": "JTU6200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1021,8 +1021,8 @@
   },
   "JTU7000TSL": {
     "id": "JTU7000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1038,8 +1038,8 @@
   },
   "JTU7000TSR": {
     "id": "JTU7000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1055,8 +1055,8 @@
   },
   "JTU7100TSL": {
     "id": "JTU7100TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1072,8 +1072,8 @@
   },
   "JTU7100TSR": {
     "id": "JTU7100TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1089,8 +1089,8 @@
   },
   "JTU7200TSL": {
     "id": "JTU7200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1102,12 +1102,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:36-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTU7200TSR": {
     "id": "JTU7200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1119,12 +1119,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:36-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "JTU8100TSL": {
     "id": "JTU8100TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Other Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1140,8 +1140,8 @@
   },
   "JTU8100TSR": {
     "id": "JTU8100TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Other Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1157,8 +1157,8 @@
   },
   "JTU9000TSL": {
     "id": "JTU9000TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1174,8 +1174,8 @@
   },
   "JTU9000TSR": {
     "id": "JTU9000TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1191,8 +1191,8 @@
   },
   "JTU9100TSL": {
     "id": "JTU9100TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Federal",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1208,8 +1208,8 @@
   },
   "JTU9100TSR": {
     "id": "JTU9100TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Federal",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1225,8 +1225,8 @@
   },
   "JTU9200TSL": {
     "id": "JTU9200TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1242,8 +1242,8 @@
   },
   "JTU9200TSR": {
     "id": "JTU9200TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1259,8 +1259,8 @@
   },
   "JTU110099TSL": {
     "id": "JTU110099TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Mining and Logging",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1276,8 +1276,8 @@
   },
   "JTU110099TSR": {
     "id": "JTU110099TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Mining and Logging",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1293,8 +1293,8 @@
   },
   "JTU480099TSL": {
     "id": "JTU480099TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Transportation, Warehousing, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1310,8 +1310,8 @@
   },
   "JTU480099TSR": {
     "id": "JTU480099TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Transportation, Warehousing, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1327,8 +1327,8 @@
   },
   "JTU510099TSL": {
     "id": "JTU510099TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Financial Activities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1344,8 +1344,8 @@
   },
   "JTU510099TSR": {
     "id": "JTU510099TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Financial Activities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1361,8 +1361,8 @@
   },
   "JTU540099TSL": {
     "id": "JTU540099TSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1378,8 +1378,8 @@
   },
   "JTU540099TSR": {
     "id": "JTU540099TSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1395,8 +1395,8 @@
   },
   "JTUTSL": {
     "id": "JTUTSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1408,12 +1408,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:17-06",
     "popularity": 4,
-    "group_popularity": 31
+    "group_popularity": 34
   },
   "JTUTSR": {
     "id": "JTUTSR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Separations: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1425,6 +1425,6 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:21-06",
     "popularity": 3,
-    "group_popularity": 31
+    "group_popularity": 34
   }
 }

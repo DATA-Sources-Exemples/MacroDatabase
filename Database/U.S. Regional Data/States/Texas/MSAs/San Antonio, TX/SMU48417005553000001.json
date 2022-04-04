@@ -1,17 +1,17 @@
 {
   "id": "SMU48417005553000001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in San Antonio-New Braunfels, TX (MSA)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-15 03:17:17-05",
+  "last_updated": "2022-03-26 03:20:36-05",
   "popularity": 1,
   "group_popularity": 1
 }

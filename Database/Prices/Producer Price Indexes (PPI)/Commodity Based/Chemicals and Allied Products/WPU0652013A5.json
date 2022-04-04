@@ -1,7 +1,7 @@
 {
   "id": "WPU0652013A5",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Synthetic Ammonia, Nitric Acid, and Ammonium Compounds",
   "observation_start": "2003-06-01",
   "observation_end": "2014-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-06-15 13:50:34-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 12,
+  "group_popularity": 12
 }

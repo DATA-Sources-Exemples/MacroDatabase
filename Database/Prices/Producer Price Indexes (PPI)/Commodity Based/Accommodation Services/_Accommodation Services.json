@@ -1,8 +1,8 @@
 {
   "WPS531": {
     "id": "WPS531",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Traveler Accommodation Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:01-05",
-    "popularity": 2,
-    "group_popularity": 7
+    "popularity": 1,
+    "group_popularity": 3
   },
   "WPS5311": {
     "id": "WPS5311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Traveler Accommodation Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:26-05",
-    "popularity": 6,
-    "group_popularity": 7
+    "popularity": 2,
+    "group_popularity": 3
   },
   "WPS531101": {
     "id": "WPS531101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Guestroom or Unit Rental",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -48,12 +48,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:26-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "WPU53": {
     "id": "WPU53",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:25-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU531": {
     "id": "WPU531",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Traveler Accommodation Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -82,12 +82,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:01-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 3
   },
   "WPU5311": {
     "id": "WPU5311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Traveler Accommodation Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -99,12 +99,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:00-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 3
   },
   "WPU531101": {
     "id": "WPU531101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Guestroom or Unit Rental",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -116,12 +116,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:00-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "WPU531102": {
     "id": "WPU531102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Other Traveler Accommodation Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPU53110101": {
     "id": "WPU53110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Guestroom or Unit Rental",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:00-05",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "WPU53110201": {
     "id": "WPU53110201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Accommodation Services: Other Traveler Accommodation Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",

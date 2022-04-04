@@ -1,7 +1,7 @@
 {
   "id": "EXHKUS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Hong Kong Dollars to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1981-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-07 15:19:15-06",
-  "popularity": 16,
+  "popularity": 14,
   "group_popularity": 37,
   "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.\n\nThis data series is updated from the source files in the Data Download Program (http://www.federalreserve.gov/datadownload/Choose.aspx?rel=h10). The files are updated on a weekly basis every Monday. If Monday is a holiday, the data files are updated the next business day.\n\nMonthly values are averages of the daily data available. Preliminary value for the current month is provided by the source even if not all daily values are available for the entire month.\n\nPlease note that the values reported on the press release may not correspond to the values in the Data Download Program when the press release is published on a day other than Monday. This inconsistency is resolved on the next available weekly release date."
 }

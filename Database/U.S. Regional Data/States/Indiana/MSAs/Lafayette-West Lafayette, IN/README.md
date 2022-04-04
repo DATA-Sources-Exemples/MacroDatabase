@@ -35,88 +35,88 @@
 | RPPGOOD29200           | Regional Price Parities: Goods for Lafayette-West Lafayette, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH29200       | Regional Price Parities: Services: Other for Lafayette-West Lafayette, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT29200      | Regional Price Parities: Services: Rents for Lafayette-West Lafayette, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS18292000000000001   | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMS18292000000000026   | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
-| SMU18292000000000001   | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMS18292000000000001   | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMS18292000000000026   | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
+| SMU18292000000000001   | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18292000000000001A  | All Employees: Total Nonfarm in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18292000500000001   | All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18292000500000001   | All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18292000500000001A  | All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18292000500000001SA | All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18292000500000002   | Average Weekly Hours of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                    | 2011-01-01          | 2022-01-01        |
+| SMU18292000500000001SA | All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18292000500000002   | Average Weekly Hours of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                    | 2011-01-01          | 2022-02-01        |
 | SMU18292000500000002A  | Average Weekly Hours of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                    | 2011-01-01          | 2021-01-01        |
-| SMU18292000500000002SA | Average Weekly Hours of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                    | 2011-01-01          | 2022-01-01        |
-| SMU18292000500000003   | Average Hourly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-01-01        |
+| SMU18292000500000002SA | Average Weekly Hours of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                    | 2011-01-01          | 2022-02-01        |
+| SMU18292000500000003   | Average Hourly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-02-01        |
 | SMU18292000500000003A  | Average Hourly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU18292000500000003SA | Average Hourly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-01-01        |
-| SMU18292000500000011   | Average Weekly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-01-01        |
+| SMU18292000500000003SA | Average Hourly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-02-01        |
+| SMU18292000500000011   | Average Weekly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-02-01        |
 | SMU18292000500000011A  | Average Weekly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2021-01-01        |
-| SMU18292000500000011SA | Average Weekly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-01-01        |
-| SMU18292000600000001   | All Employees: Goods Producing in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18292000500000011SA | Average Weekly Earnings of All Employees: Total Private in Lafayette-West Lafayette, IN (MSA)                                 | 2011-01-01          | 2022-02-01        |
+| SMU18292000600000001   | All Employees: Goods Producing in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18292000600000001A  | All Employees: Goods Producing in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18292000600000001SA | All Employees: Goods Producing in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18292000700000001   | All Employees: Service-Providing in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU18292000600000001SA | All Employees: Goods Producing in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18292000700000001   | All Employees: Service-Providing in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU18292000700000001A  | All Employees: Service-Providing in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18292000700000001SA | All Employees: Service-Providing in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU18292000800000001   | All Employees: Private Service Providing in Lafayette-West Lafayette, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU18292000700000001SA | All Employees: Service-Providing in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18292000800000001   | All Employees: Private Service Providing in Lafayette-West Lafayette, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU18292000800000001A  | All Employees: Private Service Providing in Lafayette-West Lafayette, IN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18292000800000001SA | All Employees: Private Service Providing in Lafayette-West Lafayette, IN (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU18292001500000001   | All Employees: Mining, Logging, and Construction in Lafayette-West Lafayette, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU18292000800000001SA | All Employees: Private Service Providing in Lafayette-West Lafayette, IN (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU18292001500000001   | All Employees: Mining, Logging, and Construction in Lafayette-West Lafayette, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU18292001500000001A  | All Employees: Mining, Logging, and Construction in Lafayette-West Lafayette, IN (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU18292001500000001SA | All Employees: Mining, Logging, and Construction in Lafayette-West Lafayette, IN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU18292003000000001   | All Employees: Manufacturing in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU18292001500000001SA | All Employees: Mining, Logging, and Construction in Lafayette-West Lafayette, IN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU18292003000000001   | All Employees: Manufacturing in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU18292003000000001A  | All Employees: Manufacturing in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18292003000000001SA | All Employees: Manufacturing in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU18292003100000001   | All Employees: Manufacturing: Durable Goods in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18292003000000001SA | All Employees: Manufacturing in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18292003100000001   | All Employees: Manufacturing: Durable Goods in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18292003100000001A  | All Employees: Durable Goods in Lafayette-West Lafayette, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18292003100000001SA | All Employees: Manufacturing: Durable Goods in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18292003100000001SA | All Employees: Manufacturing: Durable Goods in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18292003200000001   | All Employees: Non-Durable Goods in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2017-12-01        |
 | SMU18292003200000001A  | All Employees: Non-Durable Goods in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2016-01-01        |
 | SMU18292003200000001SA | All Employees: Non-Durable Goods in Lafayette-West Lafayette, IN (MSA)                                                        | 1990-01-01          | 2017-12-01        |
-| SMU18292004000000001   | All Employees: Trade, Transportation, and Utilities in Lafayette-West Lafayette, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU18292004000000001   | All Employees: Trade, Transportation, and Utilities in Lafayette-West Lafayette, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU18292004000000001A  | All Employees: Trade, Transportation, and Utilities in Lafayette-West Lafayette, IN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18292004000000001SA | All Employees: Trade, Transportation, and Utilities in Lafayette-West Lafayette, IN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU18292004100000001   | All Employees: Wholesale Trade in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU18292004000000001SA | All Employees: Trade, Transportation, and Utilities in Lafayette-West Lafayette, IN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU18292004100000001   | All Employees: Wholesale Trade in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU18292004100000001A  | All Employees: Wholesale Trade in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18292004100000001SA | All Employees: Wholesale Trade in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU18292004200000001   | All Employees: Retail Trade in Lafayette-West Lafayette, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU18292004100000001SA | All Employees: Wholesale Trade in Lafayette-West Lafayette, IN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18292004200000001   | All Employees: Retail Trade in Lafayette-West Lafayette, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU18292004200000001A  | All Employees: Retail Trade in Lafayette-West Lafayette, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18292004200000001SA | All Employees: Retail Trade in Lafayette-West Lafayette, IN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU18292004300000001   | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette-West Lafayette, IN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU18292004200000001SA | All Employees: Retail Trade in Lafayette-West Lafayette, IN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18292004300000001   | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette-West Lafayette, IN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU18292004300000001A  | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette-West Lafayette, IN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18292004300000001SA | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette-West Lafayette, IN (MSA) | 1990-01-01          | 2022-01-01        |
-| SMU18292005000000001   | All Employees: Information in Lafayette-West Lafayette, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU18292004300000001SA | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lafayette-West Lafayette, IN (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU18292005000000001   | All Employees: Information in Lafayette-West Lafayette, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU18292005000000001A  | All Employees: Information in Lafayette-West Lafayette, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU18292005000000001SA | All Employees: Information in Lafayette-West Lafayette, IN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SMU18292005500000001   | All Employees: Financial Activities in Lafayette-West Lafayette, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU18292005000000001SA | All Employees: Information in Lafayette-West Lafayette, IN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU18292005500000001   | All Employees: Financial Activities in Lafayette-West Lafayette, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU18292005500000001A  | All Employees: Financial Activities in Lafayette-West Lafayette, IN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU18292005500000001SA | All Employees: Financial Activities in Lafayette-West Lafayette, IN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SMU18292006000000001   | All Employees: Professional and Business Services in Lafayette-West Lafayette, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU18292005500000001SA | All Employees: Financial Activities in Lafayette-West Lafayette, IN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU18292006000000001   | All Employees: Professional and Business Services in Lafayette-West Lafayette, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU18292006000000001A  | All Employees: Professional and Business Services in Lafayette-West Lafayette, IN (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU18292006000000001SA | All Employees: Professional and Business Services in Lafayette-West Lafayette, IN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SMU18292006500000001   | All Employees: Education and Health Services in Lafayette-West Lafayette, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU18292006000000001SA | All Employees: Professional and Business Services in Lafayette-West Lafayette, IN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SMU18292006500000001   | All Employees: Education and Health Services in Lafayette-West Lafayette, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU18292006500000001A  | All Employees: Education and Health Services in Lafayette-West Lafayette, IN (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU18292006500000001SA | All Employees: Education and Health Services in Lafayette-West Lafayette, IN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU18292007000000001   | All Employees: Leisure and Hospitality in Lafayette-West Lafayette, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU18292006500000001SA | All Employees: Education and Health Services in Lafayette-West Lafayette, IN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU18292007000000001   | All Employees: Leisure and Hospitality in Lafayette-West Lafayette, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU18292007000000001A  | All Employees: Leisure and Hospitality in Lafayette-West Lafayette, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU18292007000000001SA | All Employees: Leisure and Hospitality in Lafayette-West Lafayette, IN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU18292007072000001   | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette-West Lafayette, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
+| SMU18292007000000001SA | All Employees: Leisure and Hospitality in Lafayette-West Lafayette, IN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU18292007072000001   | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette-West Lafayette, IN (MSA)                 | 1990-01-01          | 2022-02-01        |
 | SMU18292007072000001A  | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette-West Lafayette, IN (MSA)                 | 1990-01-01          | 2021-01-01        |
-| SMU18292007072000001SA | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette-West Lafayette, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| SMU18292008000000001   | All Employees: Other Services in Lafayette-West Lafayette, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU18292007072000001SA | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lafayette-West Lafayette, IN (MSA)                 | 1990-01-01          | 2022-02-01        |
+| SMU18292008000000001   | All Employees: Other Services in Lafayette-West Lafayette, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU18292008000000001A  | All Employees: Other Services in Lafayette-West Lafayette, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU18292008000000001SA | All Employees: Other Services in Lafayette-West Lafayette, IN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SMU18292009000000001   | All Employees: Government in Lafayette-West Lafayette, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
+| SMU18292008000000001SA | All Employees: Other Services in Lafayette-West Lafayette, IN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SMU18292009000000001   | All Employees: Government in Lafayette-West Lafayette, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
 | SMU18292009000000001A  | All Employees: Government in Lafayette-West Lafayette, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18292009000000001SA | All Employees: Government in Lafayette-West Lafayette, IN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SMU18292009091000001   | All Employees: Government: Federal Government in Lafayette-West Lafayette, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU18292009000000001SA | All Employees: Government in Lafayette-West Lafayette, IN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SMU18292009091000001   | All Employees: Government: Federal Government in Lafayette-West Lafayette, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU18292009091000001A  | All Employees: Government: Federal Government in Lafayette-West Lafayette, IN (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU18292009091000001SA | All Employees: Government: Federal Government in Lafayette-West Lafayette, IN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU18292009092000001   | All Employees: Government: State Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18292009091000001SA | All Employees: Government: Federal Government in Lafayette-West Lafayette, IN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18292009092000001   | All Employees: Government: State Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18292009092000001A  | All Employees: Government: State Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU18292009092000001SA | All Employees: Government: State Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18292009093000001   | All Employees: Government: Local Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU18292009092000001SA | All Employees: Government: State Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18292009093000001   | All Employees: Government: Local Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU18292009093000001A  | All Employees: Government: Local Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU18292009093000001SA | All Employees: Government: Local Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU18292009093161101   | All Employees: Government: Local Government Educational Services in Lafayette-West Lafayette, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18292009093000001SA | All Employees: Government: Local Government in Lafayette-West Lafayette, IN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18292009093161101   | All Employees: Government: Local Government Educational Services in Lafayette-West Lafayette, IN (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU18292009093161101A  | All Employees: Government: Local Government Educational Services in Lafayette-West Lafayette, IN (MSA)                        | 1990-01-01          | 2021-01-01        |
-| SMU18292009093161101SA | All Employees: Government: Local Government Educational Services in Lafayette-West Lafayette, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU18292009093161101SA | All Employees: Government: Local Government Educational Services in Lafayette-West Lafayette, IN (MSA)                        | 1990-01-01          | 2022-02-01        |

@@ -1,8 +1,8 @@
 {
   "K1CTOTL1CD000": {
     "id": "K1CTOTL1CD000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Consumer Durable Goods",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -18,8 +18,8 @@
   },
   "K1GFEDR1ES000": {
     "id": "K1GFEDR1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: Federal",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -35,8 +35,8 @@
   },
   "K1GSTLC1ES000": {
     "id": "K1GSTLC1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: State and local",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -52,8 +52,8 @@
   },
   "K1GTOTL1EQ000": {
     "id": "K1GTOTL1EQ000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Equipment",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -69,8 +69,8 @@
   },
   "K1GTOTL1ES000": {
     "id": "K1GTOTL1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -86,8 +86,8 @@
   },
   "K1GTOTL1ESNR0": {
     "id": "K1GTOTL1ESNR0",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: Nonresidential",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -103,8 +103,8 @@
   },
   "K1GTOTL1IP000": {
     "id": "K1GTOTL1IP000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Intellectual property products",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -120,8 +120,8 @@
   },
   "K1GTOTL1SA000": {
     "id": "K1GTOTL1SA000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: Residential",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -137,8 +137,8 @@
   },
   "K1GTOTL1STNR0": {
     "id": "K1GTOTL1STNR0",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Structures",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -154,8 +154,8 @@
   },
   "K1NTOTL1EQ000": {
     "id": "K1NTOTL1EQ000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Private: Nonresidential: Equipment",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-08-19 12:59:07-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 4,
+    "group_popularity": 4
   },
   "K1NTOTL1ES000": {
     "id": "K1NTOTL1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Private: Nonresidential",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -188,8 +188,8 @@
   },
   "K1NTOTL1IP000": {
     "id": "K1NTOTL1IP000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Private: Intellectual property products",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -205,8 +205,8 @@
   },
   "K1NTOTL1ST000": {
     "id": "K1NTOTL1ST000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Private: Nonresidential: Structures",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-08-19 12:59:04-05",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 8,
+    "group_popularity": 8
   },
   "K1PTOTL1ES000": {
     "id": "K1PTOTL1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Private",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-08-19 12:59:05-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "K1R53101ES000": {
     "id": "K1R53101ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets: Residential",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -256,8 +256,8 @@
   },
   "K1TTOTL1ES000": {
     "id": "K1TTOTL1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-08-19 12:59:03-05",
-    "popularity": 18,
-    "group_popularity": 18
+    "popularity": 19,
+    "group_popularity": 19
   },
   "K1WTOTL1ES000": {
     "id": "K1WTOTL1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Fixed Assets and Consumer Durable Goods",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-08-19 12:59:05-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 9,
+    "group_popularity": 9
   },
   "K1X53101ES000": {
     "id": "K1X53101ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Private and government fixed assets: Residential",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -307,8 +307,8 @@
   },
   "K1YTOTL1EQ000": {
     "id": "K1YTOTL1EQ000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Equipment",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -324,8 +324,8 @@
   },
   "K1YTOTL1ES000": {
     "id": "K1YTOTL1ES000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Private and government fixed assets: Nonresidential",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -341,8 +341,8 @@
   },
   "K1YTOTL1IP000": {
     "id": "K1YTOTL1IP000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Intellectual property products",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",
@@ -358,8 +358,8 @@
   },
   "K1YTOTL1ST000": {
     "id": "K1YTOTL1ST000",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Structures",
     "observation_start": "1925-01-01",
     "observation_end": "2020-01-01",

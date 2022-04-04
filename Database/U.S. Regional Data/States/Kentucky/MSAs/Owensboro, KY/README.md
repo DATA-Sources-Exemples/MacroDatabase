@@ -42,32 +42,32 @@
 | NEWLISCOUMM36980          | Housing Inventory: New Listing Count Month-Over-Month in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY36980          | Housing Inventory: New Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                    | 2017-07-01          | 2022-01-01        |
 | NGMP36980                 | Total Gross Domestic Product for Owensboro, KY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| OWNEDUH                   | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| OWNEDUHN                  | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| OWNFIRE                   | All Employees: Financial Activities in Owensboro, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| OWNFIREN                  | All Employees: Financial Activities in Owensboro, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| OWNGOVT                   | All Employees: Government in Owensboro, KY (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| OWNGOVTN                  | All Employees: Government in Owensboro, KY (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| OWNINFO                   | All Employees: Information in Owensboro, KY (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| OWNINFON                  | All Employees: Information in Owensboro, KY (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| OWNLEIH                   | All Employees: Leisure and Hospitality in Owensboro, KY (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| OWNLEIHN                  | All Employees: Leisure and Hospitality in Owensboro, KY (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| OWNEDUH                   | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| OWNEDUHN                  | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| OWNFIRE                   | All Employees: Financial Activities in Owensboro, KY (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| OWNFIREN                  | All Employees: Financial Activities in Owensboro, KY (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| OWNGOVT                   | All Employees: Government in Owensboro, KY (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| OWNGOVTN                  | All Employees: Government in Owensboro, KY (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| OWNINFO                   | All Employees: Information in Owensboro, KY (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| OWNINFON                  | All Employees: Information in Owensboro, KY (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| OWNLEIH                   | All Employees: Leisure and Hospitality in Owensboro, KY (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| OWNLEIHN                  | All Employees: Leisure and Hospitality in Owensboro, KY (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | OWNLF                     | Civilian Labor Force in Owensboro, KY (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | OWNLFN                    | Civilian Labor Force in Owensboro, KY (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| OWNMFG                    | All Employees: Manufacturing in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OWNMFGN                   | All Employees: Manufacturing in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OWNNA                     | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OWNNAN                    | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OWNNRMN                   | All Employees: Mining, Logging, and Construction in Owensboro, KY (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| OWNNRMNN                  | All Employees: Mining, Logging, and Construction in Owensboro, KY (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| OWNPBSV                   | All Employees: Professional and Business Services in Owensboro, KY (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| OWNPBSVN                  | All Employees: Professional and Business Services in Owensboro, KY (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| OWNMFG                    | All Employees: Manufacturing in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OWNMFGN                   | All Employees: Manufacturing in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OWNNA                     | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OWNNAN                    | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OWNNRMN                   | All Employees: Mining, Logging, and Construction in Owensboro, KY (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| OWNNRMNN                  | All Employees: Mining, Logging, and Construction in Owensboro, KY (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| OWNPBSV                   | All Employees: Professional and Business Services in Owensboro, KY (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| OWNPBSVN                  | All Employees: Professional and Business Services in Owensboro, KY (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | OWNPCPI                   | Per Capita Personal Income in Owensboro, KY (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| OWNPOP                    | Resident Population in Owensboro, KY (MSA)                                                                     | 1970-01-01          | 2020-01-01        |
-| OWNSRVO                   | All Employees: Other Services in Owensboro, KY (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| OWNSRVON                  | All Employees: Other Services in Owensboro, KY (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| OWNTRAD                   | All Employees: Trade, Transportation, and Utilities in Owensboro, KY (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| OWNTRADN                  | All Employees: Trade, Transportation, and Utilities in Owensboro, KY (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| OWNPOP                    | Resident Population in Owensboro, KY (MSA)                                                                     | 1970-01-01          | 2021-01-01        |
+| OWNSRVO                   | All Employees: Other Services in Owensboro, KY (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| OWNSRVON                  | All Employees: Other Services in Owensboro, KY (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| OWNTRAD                   | All Employees: Trade, Transportation, and Utilities in Owensboro, KY (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| OWNTRADN                  | All Employees: Trade, Transportation, and Utilities in Owensboro, KY (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | OWNUR                     | Unemployment Rate in Owensboro, KY (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | OWNURN                    | Unemployment Rate in Owensboro, KY (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | PATENTCBSA136980          | U.S. Granted Utility Patents Originating in Owensboro, KY (MSA)                                                | 2000-01-01          | 2015-01-01        |
@@ -88,41 +88,41 @@
 | RPPGOOD36980              | Regional Price Parities: Goods for Owensboro, KY (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH36980          | Regional Price Parities: Services: Other for Owensboro, KY (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT36980         | Regional Price Parities: Services: Rents for Owensboro, KY (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS21369800000000026      | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS21369800000000026      | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU21369800000000001A     | All Employees: Total Nonfarm in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU21369800500000001      | All Employees: Total Private in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU21369800500000001      | All Employees: Total Private in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU21369800500000001A     | All Employees: Total Private in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU21369800500000001SA    | All Employees: Total Private in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU21369800500000002      | Average Weekly Hours of All Employees: Total Private in Owensboro, KY (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU21369800500000001SA    | All Employees: Total Private in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU21369800500000002      | Average Weekly Hours of All Employees: Total Private in Owensboro, KY (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU21369800500000002A     | Average Weekly Hours of All Employees: Total Private in Owensboro, KY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU21369800500000002SA    | Average Weekly Hours of All Employees: Total Private in Owensboro, KY (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU21369800500000003      | Average Hourly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU21369800500000002SA    | Average Weekly Hours of All Employees: Total Private in Owensboro, KY (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU21369800500000003      | Average Hourly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU21369800500000003A     | Average Hourly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU21369800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU21369800500000011      | Average Weekly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU21369800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU21369800500000011      | Average Weekly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU21369800500000011A     | Average Weekly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU21369800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU21369800600000001      | All Employees: Goods Producing in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU21369800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Owensboro, KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU21369800600000001      | All Employees: Goods Producing in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU21369800600000001A     | All Employees: Goods Producing in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU21369800600000001SA    | All Employees: Goods Producing in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU21369800700000001      | All Employees: Service-Providing in Owensboro, KY (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU21369800600000001SA    | All Employees: Goods Producing in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU21369800700000001      | All Employees: Service-Providing in Owensboro, KY (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU21369800700000001A     | All Employees: Service-Providing in Owensboro, KY (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU21369800700000001SA    | All Employees: Service-Providing in Owensboro, KY (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU21369800800000001      | All Employees: Private Service Providing in Owensboro, KY (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU21369800700000001SA    | All Employees: Service-Providing in Owensboro, KY (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU21369800800000001      | All Employees: Private Service Providing in Owensboro, KY (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU21369800800000001A     | All Employees: Private Service Providing in Owensboro, KY (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU21369800800000001SA    | All Employees: Private Service Providing in Owensboro, KY (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU21369800800000001SA    | All Employees: Private Service Providing in Owensboro, KY (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU21369801500000001A     | All Employees: Mining, Logging, and Construction in Owensboro, KY (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU21369803000000001A     | All Employees: Manufacturing in Owensboro, KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU21369804000000001A     | All Employees: Trade, Transportation, and Utilities in Owensboro, KY (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU21369804100000001      | All Employees: Wholesale Trade in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU21369804100000001      | All Employees: Wholesale Trade in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU21369804100000001A     | All Employees: Wholesale Trade in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU21369804100000001SA    | All Employees: Wholesale Trade in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU21369804200000001      | All Employees: Retail Trade in Owensboro, KY (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU21369804100000001SA    | All Employees: Wholesale Trade in Owensboro, KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU21369804200000001      | All Employees: Retail Trade in Owensboro, KY (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU21369804200000001A     | All Employees: Retail Trade in Owensboro, KY (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU21369804200000001SA    | All Employees: Retail Trade in Owensboro, KY (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU21369804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Owensboro, KY (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU21369804200000001SA    | All Employees: Retail Trade in Owensboro, KY (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU21369804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Owensboro, KY (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU21369804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Owensboro, KY (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU21369804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Owensboro, KY (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU21369804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Owensboro, KY (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU21369805000000001A     | All Employees: Information in Owensboro, KY (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU21369805500000001A     | All Employees: Financial Activities in Owensboro, KY (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU21369806000000001A     | All Employees: Professional and Business Services in Owensboro, KY (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -130,12 +130,12 @@
 | SMU21369807000000001A     | All Employees: Leisure and Hospitality in Owensboro, KY (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU21369808000000001A     | All Employees: Other Services in Owensboro, KY (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU21369809000000001A     | All Employees: Government in Owensboro, KY (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU21369809091000001      | All Employees: Government: Federal Government in Owensboro, KY (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU21369809091000001      | All Employees: Government: Federal Government in Owensboro, KY (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU21369809091000001A     | All Employees: Federal Government in Owensboro, KY (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU21369809091000001SA    | All Employees: Government: Federal Government in Owensboro, KY (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU21369809092000001      | All Employees: Government: State Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU21369809091000001SA    | All Employees: Government: Federal Government in Owensboro, KY (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU21369809092000001      | All Employees: Government: State Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU21369809092000001A     | All Employees: State Government in Owensboro, KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU21369809092000001SA    | All Employees: Government: State Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU21369809093000001      | All Employees: Government: Local Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU21369809092000001SA    | All Employees: Government: State Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU21369809093000001      | All Employees: Government: Local Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU21369809093000001A     | All Employees: Local Government in Owensboro, KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU21369809093000001SA    | All Employees: Government: Local Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU21369809093000001SA    | All Employees: Government: Local Government in Owensboro, KY (MSA)                                             | 1990-01-01          | 2022-02-01        |

@@ -25,20 +25,20 @@
 | HORAMSA26580              | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA26580              | Market Hotness: Hotness Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| HUNT554EDUH               | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| HUNT554EDUHN              | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| HUNT554GOVT               | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| HUNT554GOVTN              | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| HUNT554LEIH               | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| HUNT554LEIHN              | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| HUNT554EDUH               | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| HUNT554EDUHN              | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| HUNT554GOVT               | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| HUNT554GOVTN              | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| HUNT554LEIH               | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| HUNT554LEIHN              | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | HUNT554LF                 | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | HUNT554LFN                | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| HUNT554MFG                | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| HUNT554MFGN               | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| HUNT554NA                 | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| HUNT554NAN                | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| HUNT554PBSV               | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| HUNT554PBSVN              | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| HUNT554MFG                | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| HUNT554MFGN               | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| HUNT554NA                 | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| HUNT554NAN                | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| HUNT554PBSV               | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| HUNT554PBSVN              | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | HUNT554PCPI               | Per Capita Personal Income in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | HUNT554UR                 | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | HUNT554URN                | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
@@ -98,65 +98,65 @@
 | RPPSERVEOTH26580          | Regional Price Parities: Services: Other for Huntington-Ashland, WV-KY-OH (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT26580         | Regional Price Parities: Services: Rents for Huntington-Ashland, WV-KY-OH (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SMS54265800000000001      | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS54265800000000026      | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS54265800000000026      | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU54265800000000001A     | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU54265800500000001      | All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU54265800500000001      | All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU54265800500000001A     | All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU54265800500000001SA    | All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU54265800500000002      | Average Weekly Hours of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU54265800500000001SA    | All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU54265800500000002      | Average Weekly Hours of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU54265800500000002A     | Average Weekly Hours of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU54265800500000002SA    | Average Weekly Hours of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU54265800500000003      | Average Hourly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU54265800500000002SA    | Average Weekly Hours of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU54265800500000003      | Average Hourly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU54265800500000003A     | Average Hourly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU54265800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU54265800500000011      | Average Weekly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU54265800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU54265800500000011      | Average Weekly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU54265800500000011A     | Average Weekly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU54265800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU54265800600000001      | All Employees: Goods Producing in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU54265800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Huntington-Ashland, WV-KY-OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU54265800600000001      | All Employees: Goods Producing in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU54265800600000001A     | All Employees: Goods Producing in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU54265800600000001SA    | All Employees: Goods Producing in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU54265800700000001      | All Employees: Service-Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU54265800600000001SA    | All Employees: Goods Producing in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU54265800700000001      | All Employees: Service-Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU54265800700000001A     | All Employees: Service-Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU54265800700000001SA    | All Employees: Service-Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU54265800800000001      | All Employees: Private Service Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU54265800700000001SA    | All Employees: Service-Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU54265800800000001      | All Employees: Private Service Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU54265800800000001A     | All Employees: Private Service Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU54265800800000001SA    | All Employees: Private Service Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU54265801500000001      | All Employees: Mining, Logging, and Construction in Huntington-Ashland, WV-KY-OH (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU54265800800000001SA    | All Employees: Private Service Providing in Huntington-Ashland, WV-KY-OH (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU54265801500000001      | All Employees: Mining, Logging, and Construction in Huntington-Ashland, WV-KY-OH (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU54265801500000001A     | All Employees: Mining, Logging, and Construction in Huntington-Ashland, WV-KY-OH (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU54265801500000001SA    | All Employees: Mining, Logging, and Construction in Huntington-Ashland, WV-KY-OH (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU54265801500000001SA    | All Employees: Mining, Logging, and Construction in Huntington-Ashland, WV-KY-OH (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU54265803000000001A     | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU54265804000000001      | All Employees: Trade, Transportation, and Utilities in Huntington-Ashland, WV-KY-OH (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU54265804000000001      | All Employees: Trade, Transportation, and Utilities in Huntington-Ashland, WV-KY-OH (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU54265804000000001A     | All Employees: Trade, Transportation, and Utilities in Huntington-Ashland, WV-KY-OH (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU54265804000000001SA    | All Employees: Trade, Transportation, and Utilities in Huntington-Ashland, WV-KY-OH (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU54265804100000001      | All Employees: Wholesale Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU54265804000000001SA    | All Employees: Trade, Transportation, and Utilities in Huntington-Ashland, WV-KY-OH (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU54265804100000001      | All Employees: Wholesale Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU54265804100000001A     | All Employees: Wholesale Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU54265804100000001SA    | All Employees: Wholesale Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU54265804200000001      | All Employees: Retail Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU54265804100000001SA    | All Employees: Wholesale Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU54265804200000001      | All Employees: Retail Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU54265804200000001A     | All Employees: Retail Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU54265804200000001SA    | All Employees: Retail Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU54265804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Huntington-Ashland, WV-KY-OH (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU54265804200000001SA    | All Employees: Retail Trade in Huntington-Ashland, WV-KY-OH (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU54265804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Huntington-Ashland, WV-KY-OH (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU54265804300000001A     | All Employees: Transportation and Utilities in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU54265804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Huntington-Ashland, WV-KY-OH (MSA) | 1990-01-01          | 2022-01-01        |
-| SMU54265805000000001      | All Employees: Information in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU54265804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Huntington-Ashland, WV-KY-OH (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU54265805000000001      | All Employees: Information in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU54265805000000001A     | All Employees: Information in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU54265805000000001SA    | All Employees: Information in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SMU54265805500000001      | All Employees: Financial Activities in Huntington-Ashland, WV-KY-OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU54265805000000001SA    | All Employees: Information in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU54265805500000001      | All Employees: Financial Activities in Huntington-Ashland, WV-KY-OH (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU54265805500000001A     | All Employees: Financial Activities in Huntington-Ashland, WV-KY-OH (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU54265805500000001SA    | All Employees: Financial Activities in Huntington-Ashland, WV-KY-OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU54265805500000001SA    | All Employees: Financial Activities in Huntington-Ashland, WV-KY-OH (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU54265806000000001A     | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU54265806500000001A     | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU54265807000000001A     | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU54265808000000001      | All Employees: Other Services in Huntington-Ashland, WV-KY-OH (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU54265808000000001      | All Employees: Other Services in Huntington-Ashland, WV-KY-OH (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU54265808000000001A     | All Employees: Other Services in Huntington-Ashland, WV-KY-OH (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU54265808000000001SA    | All Employees: Other Services in Huntington-Ashland, WV-KY-OH (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU54265808000000001SA    | All Employees: Other Services in Huntington-Ashland, WV-KY-OH (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU54265809000000001A     | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU54265809091000001      | All Employees: Government: Federal Government in Huntington-Ashland, WV-KY-OH (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU54265809091000001      | All Employees: Government: Federal Government in Huntington-Ashland, WV-KY-OH (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU54265809091000001A     | All Employees: Federal Government in Huntington-Ashland, WV-KY-OH (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU54265809091000001SA    | All Employees: Government: Federal Government in Huntington-Ashland, WV-KY-OH (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU54265809092000001      | All Employees: Government: State Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU54265809091000001SA    | All Employees: Government: Federal Government in Huntington-Ashland, WV-KY-OH (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU54265809092000001      | All Employees: Government: State Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU54265809092000001A     | All Employees: State Government in Huntington-Ashland, WV-KY-OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU54265809092000001SA    | All Employees: Government: State Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU54265809093000001      | All Employees: Government: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU54265809092000001SA    | All Employees: Government: State Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU54265809093000001      | All Employees: Government: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU54265809093000001A     | All Employees: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU54265809093000001SA    | All Employees: Government: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU54265809093000001SA    | All Employees: Government: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA26580              | Market Hotness: Supply Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

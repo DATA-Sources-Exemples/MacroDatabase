@@ -1,8 +1,8 @@
 {
   "GDPALL51907": {
     "id": "GDPALL51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: All Industries in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -19,8 +19,8 @@
   },
   "GDPGOODS51907": {
     "id": "GDPGOODS51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Private Goods-Producing Industries in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -37,8 +37,8 @@
   },
   "GDPGOVT51907": {
     "id": "GDPGOVT51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Government and Government Enterprises in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -55,8 +55,8 @@
   },
   "GDPSERV51907": {
     "id": "GDPSERV51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Private Services-Providing Industries in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -73,8 +73,8 @@
   },
   "REALGDPALL51907": {
     "id": "REALGDPALL51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: All Industries in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -91,8 +91,8 @@
   },
   "REALGDPGOODS51907": {
     "id": "REALGDPGOODS51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -109,8 +109,8 @@
   },
   "REALGDPGOVT51907": {
     "id": "REALGDPGOVT51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Government and Government Enterprises in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -127,8 +127,8 @@
   },
   "REALGDPSERV51907": {
     "id": "REALGDPSERV51907",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Private Services-Providing Industries in Augusta, Staunton + Waynesboro County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",

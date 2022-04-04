@@ -1,7 +1,7 @@
 {
   "id": "WHTALF",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Net Portfolio Holdings of TALF LLC (DISCONTINUED)",
   "observation_start": "2009-11-18",
   "observation_end": "2015-02-11",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-02-13 08:31:03-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "On November 25, 2008, the Federal Reserve announced the creation of the Term Asset-Backed Securities Loan Facility (TALF) under the authority of section 13(3) of the Federal Reserve Act. The TALF is a facility under which the Federal Reserve Bank of New York (FRBNY) extends loans with a term of up to five years to holders of eligible asset-backed securities. The TALF is intended to assist financial markets in accommodating the credit needs of consumers and businesses by facilitating the issuance of asset-backed securities collateralized by a variety of consumer and business loans. The loans provided through the TALF to eligible borrowers are non-recourse,\nmeaning that the obligation of the borrower can be discharged by surrendering the collateral to the FRBNY. The loans are extended for the market value of the security less an amount known as a haircut. As a result, the\nborrower bears the initial risk of a decline in the value of the security.\n\n\nTALF LLC is a limited liability company formed to purchase and manage any asset-backed securities received by the FRBNY in connection with the decision of a borrower not to repay a TALF loan. TALF LLC has committed, for a\nfee, to purchase all asset-backed securities received by the FRBNY in conjunction with a TALF loan at a price equal to the TALF loan plus accrued but unpaid interest. Losses on asset-backed securities held by TALF LLC\nwill be offset in the following order: by the commitment fees collected by TALF LLC, by the interest received on investments of TALF LLC, by up to $20 billion in subordinated debt funding provided by the U.S. Treasury, and\nfinally, by senior debt funding provided by the FRBNY. Payments by TALF LLC from the proceeds of its net portfolio holdings will be made in the following order: operating expenses of TALF LLC, principal due to the FRBNY, principal\ndue to the U.S. Treasury, interest due to the FRBNY, and interest due to the U.S. Treasury. Any remaining funds will be shared by the FRBNY and the U.S. Treasury."
 }

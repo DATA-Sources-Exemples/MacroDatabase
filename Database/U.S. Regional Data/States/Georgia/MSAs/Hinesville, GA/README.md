@@ -18,12 +18,12 @@
 | ENUC259840510             | Average Weekly Wages for Employees in Private Establishments in Hinesville-Fort Stewart, GA (MSA)            | 1990-01-01          | 2021-07-01        |
 | ENUC259840510SA           | Average Weekly Wages for Employees in Private Establishments in Hinesville-Fort Stewart, GA (MSA)            | 1990-01-01          | 2021-07-01        |
 | HFSPOP                    | Resident Population in Hinesville, GA (MSA)                                                                  | 2000-01-01          | 2020-01-01        |
-| HINE913GOVT               | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| HINE913GOVTN              | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| HINE913GOVT               | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| HINE913GOVTN              | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | HINE913LF                 | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
 | HINE913LFN                | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| HINE913NA                 | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| HINE913NAN                | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| HINE913NA                 | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| HINE913NAN                | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | HINE913PCPI               | Per Capita Personal Income in Hinesville, GA (MSA)                                                           | 1969-01-01          | 2020-01-01        |
 | HINE913UR                 | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | HINE913URN                | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
@@ -68,36 +68,36 @@
 | RPPGOOD25980              | Regional Price Parities: Goods for Hinesville, GA (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH25980          | Regional Price Parities: Services: Other for Hinesville, GA (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT25980         | Regional Price Parities: Services: Rents for Hinesville, GA (MSA)                                            | 2008-01-01          | 2020-01-01        |
-| SMS13259800000000026      | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-04-01          | 2022-01-01        |
+| SMS13259800000000026      | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-04-01          | 2022-02-01        |
 | SMU13259800000000001A     | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13259800500000001      | All Employees: Total Private in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU13259800500000001      | All Employees: Total Private in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU13259800500000001A     | All Employees: Total Private in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13259800500000001SA    | All Employees: Total Private in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU13259800500000002      | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU13259800500000001SA    | All Employees: Total Private in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU13259800500000002      | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU13259800500000002A     | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13259800500000002SA    | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU13259800500000003      | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-01-01        |
+| SMU13259800500000002SA    | Average Weekly Hours of All Employees: Total Private in Hinesville, GA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU13259800500000003      | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-02-01        |
 | SMU13259800500000003A     | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2021-01-01        |
-| SMU13259800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-01-01        |
-| SMU13259800500000011      | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-01-01        |
+| SMU13259800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-02-01        |
+| SMU13259800500000011      | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-02-01        |
 | SMU13259800500000011A     | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2021-01-01        |
-| SMU13259800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-01-01        |
-| SMU13259800600000001      | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU13259800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Hinesville, GA (MSA)                              | 2007-01-01          | 2022-02-01        |
+| SMU13259800600000001      | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU13259800600000001A     | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU13259800600000001SA    | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| SMU13259800700000001      | All Employees: Service-Providing in Hinesville, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU13259800600000001SA    | All Employees: Goods Producing in Hinesville, GA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU13259800700000001      | All Employees: Service-Providing in Hinesville, GA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU13259800700000001A     | All Employees: Service-Providing in Hinesville, GA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU13259800700000001SA    | All Employees: Service-Providing in Hinesville, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SMU13259800800000001      | All Employees: Private Service Providing in Hinesville, GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13259800700000001SA    | All Employees: Service-Providing in Hinesville, GA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU13259800800000001      | All Employees: Private Service Providing in Hinesville, GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU13259800800000001A     | All Employees: Private Service Providing in Hinesville, GA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU13259800800000001SA    | All Employees: Private Service Providing in Hinesville, GA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13259800800000001SA    | All Employees: Private Service Providing in Hinesville, GA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU13259809000000001A     | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13259809091000001      | All Employees: Government: Federal Government in Hinesville, GA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU13259809091000001      | All Employees: Government: Federal Government in Hinesville, GA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU13259809091000001A     | All Employees: Federal Government in Hinesville, GA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU13259809091000001SA    | All Employees: Government: Federal Government in Hinesville, GA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU13259809092000001      | All Employees: Government: State Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU13259809091000001SA    | All Employees: Government: Federal Government in Hinesville, GA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU13259809092000001      | All Employees: Government: State Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU13259809092000001A     | All Employees: State Government in Hinesville, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU13259809092000001SA    | All Employees: Government: State Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU13259809093000001      | All Employees: Government: Local Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU13259809092000001SA    | All Employees: Government: State Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU13259809093000001      | All Employees: Government: Local Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU13259809093000001A     | All Employees: Local Government in Hinesville, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU13259809093000001SA    | All Employees: Government: Local Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU13259809093000001SA    | All Employees: Government: Local Government in Hinesville, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |

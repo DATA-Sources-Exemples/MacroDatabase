@@ -1,7 +1,7 @@
 {
   "id": "CUAEEFCNA052N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Current Account (Excludes Exceptional Financing), Net for China",
   "observation_start": "1982-01-01",
   "observation_end": "2008-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-02-19 10:33:55-06",
   "popularity": 1,
-  "group_popularity": 9,
+  "group_popularity": 6,
   "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

@@ -1,8 +1,8 @@
 {
   "WPS60": {
     "id": "WPS60",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -18,8 +18,8 @@
   },
   "WPS601": {
     "id": "WPS601",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -35,8 +35,8 @@
   },
   "WPS6011": {
     "id": "WPS6011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -52,8 +52,8 @@
   },
   "WPS601103": {
     "id": "WPS601103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
     "observation_start": "1990-01-01",
     "observation_end": "2016-12-01",
@@ -65,12 +65,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-11 11:25:26-06",
     "popularity": 3,
-    "group_popularity": 17
+    "group_popularity": 11
   },
   "WPS601105": {
     "id": "WPS601105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Nonmetallic Minerals Mining Services",
     "observation_start": "2002-01-01",
     "observation_end": "2010-12-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2016-02-17 11:47:05-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU60": {
     "id": "WPU60",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -98,13 +98,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:24-05",
-    "popularity": 4,
+    "popularity": 5,
     "group_popularity": 5
   },
   "WPU601": {
     "id": "WPU601",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -120,8 +120,8 @@
   },
   "WPU6011": {
     "id": "WPU6011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPU601101": {
     "id": "WPU601101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Metal Mining Services",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -154,8 +154,8 @@
   },
   "WPU601102": {
     "id": "WPU601102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Coal Mining",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -171,8 +171,8 @@
   },
   "WPU601103": {
     "id": "WPU601103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -183,13 +183,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:16-05",
-    "popularity": 2,
-    "group_popularity": 17
+    "popularity": 1,
+    "group_popularity": 11
   },
   "WPU601104": {
     "id": "WPU601104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Oil and Gas Operations",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -205,8 +205,8 @@
   },
   "WPU601105": {
     "id": "WPU601105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Nonmetallic Minerals Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -218,12 +218,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU60110101": {
     "id": "WPU60110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Metal Mining Services",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -239,8 +239,8 @@
   },
   "WPU60110201": {
     "id": "WPU60110201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Coal Mining",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -256,8 +256,8 @@
   },
   "WPU60110301": {
     "id": "WPU60110301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:51-05",
-    "popularity": 15,
-    "group_popularity": 17
+    "popularity": 10,
+    "group_popularity": 11
   },
   "WPU60110401": {
     "id": "WPU60110401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Oil and Gas Operations",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -290,8 +290,8 @@
   },
   "WPU60110501": {
     "id": "WPU60110501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Mining Services: Nonmetallic Minerals Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -303,6 +303,6 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   }
 }

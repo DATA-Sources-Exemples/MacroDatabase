@@ -1,7 +1,7 @@
 {
   "id": "M14023USM174NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Individual Deposits Per Bank, National Banks, Country Districts for United States",
   "observation_start": "1874-10-01",
   "observation_end": "1915-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:33:58-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Monthly Coverage Varies From Year To Year. All Years Have Scattered Five Month Coverage, Except For 1874 Which Has Coverage For Only October And December, And 1914-1915 Which Have Coverage For Six Months. Data Computed By NBER By Dividing Series 14022 (Individual Deposits, Country Districts, Including Unpaid Dividends) By The Number Of Country Banks. Beginning In December 1914, A New Method Of Computing Individual Deposits Was Introduced. Hereon Individual Deposits Were Computed By Adding Total Demand Deposits, Of Which U.S And Postal Savings Deposits Were Deducted, To Total Time Deposits. Source: Annual Reports Of The Comptroller Of The Currency.\n\nThis NBER data series m14023 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14023"
 }

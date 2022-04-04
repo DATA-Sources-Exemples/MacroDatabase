@@ -1,7 +1,7 @@
 {
   "id": "CINC139UR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate in Cincinnati, OH-KY-IN (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-03-18 17:14:48-05",
-  "popularity": 6,
-  "group_popularity": 29
+  "popularity": 4,
+  "group_popularity": 23
 }

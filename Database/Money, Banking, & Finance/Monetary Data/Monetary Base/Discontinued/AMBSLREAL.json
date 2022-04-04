@@ -1,7 +1,7 @@
 {
   "id": "AMBSLREAL",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real St. Louis Adjusted Monetary Base (DISCONTINUED)",
   "observation_start": "1947-01-01",
   "observation_end": "2019-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2020-03-11 13:03:01-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "This series deflates St. Louis Adjusted Monetary Base (AMBSL) (https://fred.stlouisfed.org/series/AMBSL) with Consumer Price Index (CPIAUCSL) (https://fred.stlouisfed.org/series/CPIAUCSL). \r\n\r\nUpdates of this series will be ceased on December 20, 2019. Interested users can access customized version of this series (https://fred.stlouisfed.org/graph/?g=pBKi) that's using Total Monetary Base (BOGMBASE) (https://fred.stlouisfed.org/series/BOGMBASE) instead of the St. Louis Adjusted Monetary Base (AMBSL) (https://fred.stlouisfed.org/series/AMBSL)."
 }

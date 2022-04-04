@@ -1,7 +1,7 @@
 {
   "id": "BPCCRO1Q156NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)",
   "observation_start": "1960-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-27 07:53:06-06",
-  "popularity": 51,
+  "popularity": 52,
   "group_popularity": 74,
   "notes": "BEA Account Code: BPCCRO\r\n\r\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "IRSTCI01CAM156N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Canada",
   "observation_start": "1975-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:50:06-06",
-  "popularity": 10,
-  "group_popularity": 14,
+  "popularity": 11,
+  "group_popularity": 13,
   "notes": "OECD descriptor ID: IRSTCI01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

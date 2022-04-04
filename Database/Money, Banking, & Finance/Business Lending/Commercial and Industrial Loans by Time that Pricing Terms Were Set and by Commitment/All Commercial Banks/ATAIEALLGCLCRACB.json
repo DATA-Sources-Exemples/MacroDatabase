@@ -1,7 +1,7 @@
 {
   "id": "ATAIEALLGCLCRACB",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, All Commercial Banks",
   "observation_start": "1985-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-23 15:04:34-06",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 4
 }

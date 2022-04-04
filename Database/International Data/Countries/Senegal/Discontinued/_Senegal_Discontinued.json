@@ -1,8 +1,8 @@
 {
   "IBANAINIAISN": {
     "id": "IBANAINIAISN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2014-07-01",
@@ -19,8 +19,8 @@
   },
   "IBANAINIAOSN": {
     "id": "IBANAINIAOSN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2015-04-01",
@@ -37,8 +37,8 @@
   },
   "IBANAININISN": {
     "id": "IBANAININISN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2014-10-01",
@@ -55,8 +55,8 @@
   },
   "IBANRIAISN": {
     "id": "IBANRIAISN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2014-07-01",
@@ -73,8 +73,8 @@
   },
   "IBANRIAOSN": {
     "id": "IBANRIAOSN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2015-04-01",
@@ -91,8 +91,8 @@
   },
   "IBANRINISN": {
     "id": "IBANRINISN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2014-10-01",
@@ -109,8 +109,8 @@
   },
   "IDS1MNIAOGGSN": {
     "id": "IDS1MNIAOGGSN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2013-10-01",
     "observation_end": "2014-07-01",
@@ -127,8 +127,8 @@
   },
   "IDSGGGAMNIAOSN": {
     "id": "IDSGGGAMNIAOSN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2015-04-01",
@@ -145,8 +145,8 @@
   },
   "IDSGGGAMNINISN": {
     "id": "IDSGGGAMNINISN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Senegal (DISCONTINUED)",
     "observation_start": "2009-10-01",
     "observation_end": "2014-10-01",

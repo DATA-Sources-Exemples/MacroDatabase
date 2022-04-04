@@ -33,30 +33,30 @@
 | RPPGOOD25220           | Regional Price Parities: Goods for Hammond, LA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH25220       | Regional Price Parities: Services: Other for Hammond, LA (MSA)                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT25220      | Regional Price Parities: Services: Rents for Hammond, LA (MSA)                               | 2008-01-01          | 2020-01-01        |
-| SMU22252200000000001   | All Employees: Total Nonfarm in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU22252200000000001   | All Employees: Total Nonfarm in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU22252200000000001A  | All Employees: Total Nonfarm in Hammond, LA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU22252200000000001SA | All Employees: Total Nonfarm in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU22252200500000001   | All Employees: Total Private in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU22252200000000001SA | All Employees: Total Nonfarm in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU22252200500000001   | All Employees: Total Private in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU22252200500000001A  | All Employees: Total Private in Hammond, LA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU22252200500000001SA | All Employees: Total Private in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU22252200500000002   | Average Weekly Hours of All Employees: Total Private in Hammond, LA (MSA)                    | 2011-01-01          | 2022-01-01        |
+| SMU22252200500000001SA | All Employees: Total Private in Hammond, LA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU22252200500000002   | Average Weekly Hours of All Employees: Total Private in Hammond, LA (MSA)                    | 2011-01-01          | 2022-02-01        |
 | SMU22252200500000002A  | Average Weekly Hours of All Employees: Total Private in Hammond, LA (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU22252200500000002SA | Average Weekly Hours of All Employees: Total Private in Hammond, LA (MSA)                    | 2011-01-01          | 2022-01-01        |
-| SMU22252200500000003   | Average Hourly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-01-01        |
+| SMU22252200500000002SA | Average Weekly Hours of All Employees: Total Private in Hammond, LA (MSA)                    | 2011-01-01          | 2022-02-01        |
+| SMU22252200500000003   | Average Hourly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-02-01        |
 | SMU22252200500000003A  | Average Hourly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU22252200500000003SA | Average Hourly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-01-01        |
-| SMU22252200500000011   | Average Weekly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-01-01        |
+| SMU22252200500000003SA | Average Hourly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-02-01        |
+| SMU22252200500000011   | Average Weekly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-02-01        |
 | SMU22252200500000011A  | Average Weekly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU22252200500000011SA | Average Weekly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-01-01        |
-| SMU22252200600000001   | All Employees: Goods Producing in Hammond, LA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU22252200500000011SA | Average Weekly Earnings of All Employees: Total Private in Hammond, LA (MSA)                 | 2011-01-01          | 2022-02-01        |
+| SMU22252200600000001   | All Employees: Goods Producing in Hammond, LA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU22252200600000001A  | All Employees: Goods Producing in Hammond, LA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU22252200600000001SA | All Employees: Goods Producing in Hammond, LA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU22252200700000001   | All Employees: Service-Providing in Hammond, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU22252200600000001SA | All Employees: Goods Producing in Hammond, LA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU22252200700000001   | All Employees: Service-Providing in Hammond, LA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU22252200700000001A  | All Employees: Service-Providing in Hammond, LA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU22252200700000001SA | All Employees: Service-Providing in Hammond, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU22252200800000001   | All Employees: Private Service Providing in Hammond, LA (MSA)                                | 1990-01-01          | 2022-01-01        |
+| SMU22252200700000001SA | All Employees: Service-Providing in Hammond, LA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU22252200800000001   | All Employees: Private Service Providing in Hammond, LA (MSA)                                | 1990-01-01          | 2022-02-01        |
 | SMU22252200800000001A  | All Employees: Private Service Providing in Hammond, LA (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU22252200800000001SA | All Employees: Private Service Providing in Hammond, LA (MSA)                                | 1990-01-01          | 2022-01-01        |
-| SMU22252209000000001   | All Employees: Government in Hammond, LA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU22252200800000001SA | All Employees: Private Service Providing in Hammond, LA (MSA)                                | 1990-01-01          | 2022-02-01        |
+| SMU22252209000000001   | All Employees: Government in Hammond, LA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU22252209000000001A  | All Employees: Government in Hammond, LA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU22252209000000001SA | All Employees: Government in Hammond, LA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU22252209000000001SA | All Employees: Government in Hammond, LA (MSA)                                               | 1990-01-01          | 2022-02-01        |

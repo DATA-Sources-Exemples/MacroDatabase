@@ -1,8 +1,8 @@
 {
   "PCU924126924126": {
     "id": "PCU924126924126",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -18,8 +18,8 @@
   },
   "PCU924126924126P": {
     "id": "PCU924126924126P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Primary Services",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -35,8 +35,8 @@
   },
   "PCU9241269241261": {
     "id": "PCU9241269241261",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Private Passenger Auto Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:18-05",
-    "popularity": 11,
-    "group_popularity": 11
+    "popularity": 13,
+    "group_popularity": 13
   },
   "PCU9241269241262": {
     "id": "PCU9241269241262",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Homeowner's Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:16-05",
-    "popularity": 13,
-    "group_popularity": 13
+    "popularity": 11,
+    "group_popularity": 11
   },
   "PCU9241269241263": {
     "id": "PCU9241269241263",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Commercial Auto Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -86,8 +86,8 @@
   },
   "PCU9241269241264": {
     "id": "PCU9241269241264",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Non-Auto Liability Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -98,13 +98,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:23-05",
-    "popularity": 8,
-    "group_popularity": 8
+    "popularity": 5,
+    "group_popularity": 5
   },
   "PCU9241269241265": {
     "id": "PCU9241269241265",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Commercial Multiple Peril Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:29-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU9241269241266": {
     "id": "PCU9241269241266",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Worker's Compensation Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "PCU9241269241267": {
     "id": "PCU9241269241267",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Other Property and Casualty Insurance",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -154,8 +154,8 @@
   },
   "PCU924126924126402": {
     "id": "PCU924126924126402",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Medical Malpractice Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",
@@ -171,8 +171,8 @@
   },
   "PCU924126924126403": {
     "id": "PCU924126924126403",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Premiums for Property and Casualty Insurance: Premiums for Product and Other Non-Auto Liability Insurance",
     "observation_start": "1998-06-01",
     "observation_end": "2022-02-01",

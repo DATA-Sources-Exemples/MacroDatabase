@@ -1,7 +1,7 @@
 {
   "id": "M06097USM144SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "New Orders and Contracts for Plant and Equipment, Value for United States",
   "observation_start": "1948-01-01",
   "observation_end": "1969-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 13:48:28-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Beginning In 1961, Data Are Revised Due To A Revision In Equipment. Source: U.S. Bureau Of The Census Worksheet With An Unpublished Series Of Orders Of Investment Equipment Obtained From The Census Bureau, And The Sum Of Series 20017 And 20175 For Data Until 1961; Thereafter, Data Were Furnished By \"Manufacturers', Shipments, Inventories, And Orders: 1961-1968\" (Series M3-1.1).\n\nThis NBER data series m06097 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06097"
 }

@@ -1,7 +1,7 @@
 {
   "id": "SPDYNIMRTINUSA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Infant Mortality Rate for the United States",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-16 16:22:15-06",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nWorld Bank Source: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.\n\nSource Indicator: SP.DYN.IMRT.IN"
 }

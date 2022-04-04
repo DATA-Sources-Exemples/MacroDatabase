@@ -1,7 +1,7 @@
 {
   "id": "JTU540099JOL",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Job Openings: Professional and Business Services",
   "observation_start": "2000-12-01",
   "observation_end": "2022-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-09 09:10:30-06",
   "popularity": 3,
-  "group_popularity": 23
+  "group_popularity": 24
 }

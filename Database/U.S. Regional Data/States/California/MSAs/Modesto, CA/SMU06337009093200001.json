@@ -1,17 +1,17 @@
 {
   "id": "SMU06337009093200001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Government: Local Government Excluding Educational Services in Modesto, CA (MSA)",
   "observation_start": "2003-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-15 04:02:04-05",
+  "last_updated": "2022-03-26 04:04:06-05",
   "popularity": 1,
   "group_popularity": 1
 }

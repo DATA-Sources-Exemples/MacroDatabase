@@ -1,7 +1,7 @@
 {
   "id": "CANCPGRLH01GPQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index: OECD Groups: Services less housing: Total for Canada",
   "observation_start": "1961-04-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 11:27:09-06",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: CPGRLH01 OECD unit ID: GP OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

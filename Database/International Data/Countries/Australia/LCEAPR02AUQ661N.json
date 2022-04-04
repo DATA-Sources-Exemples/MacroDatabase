@@ -1,7 +1,7 @@
 {
   "id": "LCEAPR02AUQ661N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Weekly Earnings: Private Sector for Australia",
   "observation_start": "1983-10-01",
   "observation_end": "2018-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-13 15:14:26-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 4,
   "notes": "OECD descriptor ID: LCEAPR02\nOECD unit ID: IXOB\nOECD country ID: AUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

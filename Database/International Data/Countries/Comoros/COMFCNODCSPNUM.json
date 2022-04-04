@@ -1,7 +1,7 @@
 {
   "id": "COMFCNODCSPNUM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Use of Financial Services: Key Indicators, Small and Medium Enterprises (SME) Loan Accounts with Commercial Banks (% of Non-financial Corporation Depositors with Commercial Banks) for Comoros",
   "observation_start": "2010-01-01",
   "observation_end": "2014-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-12-15 15:57:13-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

@@ -1,7 +1,7 @@
 {
   "id": "W240RC1Q027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal consumption expenditures: Net purchases of used autos and used light trucks",
   "observation_start": "1967-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 07:55:25-06",
-  "popularity": 4,
-  "group_popularity": 5,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "BEA Account Code: W240RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

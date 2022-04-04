@@ -1,7 +1,7 @@
 {
   "id": "A01287USA255NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Tomato Crop for Market, Yield Per Acre for United States",
   "observation_start": "1918-01-01",
   "observation_end": "1951-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:48:28-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Data Are For Acreage For Harvest. Source: U.S. Department Of Agriculture, Agricultural Statistics, 1942; 1950; 1951.\n\nThis NBER data series a01287 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01287"
 }

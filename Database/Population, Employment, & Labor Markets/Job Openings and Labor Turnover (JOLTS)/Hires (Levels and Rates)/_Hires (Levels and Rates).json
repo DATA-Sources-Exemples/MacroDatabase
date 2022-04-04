@@ -1,8 +1,8 @@
 {
   "JTS1000HIL": {
     "id": "JTS1000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:09-06",
-    "popularity": 13,
-    "group_popularity": 15
+    "popularity": 10,
+    "group_popularity": 12
   },
   "JTS1000HIR": {
     "id": "JTS1000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -31,12 +31,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:16-06",
     "popularity": 3,
-    "group_popularity": 15
+    "group_popularity": 12
   },
   "JTS2300HIL": {
     "id": "JTS2300HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:11-06",
-    "popularity": 10,
-    "group_popularity": 13
+    "popularity": 11,
+    "group_popularity": 12
   },
   "JTS2300HIR": {
     "id": "JTS2300HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:27-06",
-    "popularity": 4,
-    "group_popularity": 13
+    "popularity": 2,
+    "group_popularity": 12
   },
   "JTS3000HIL": {
     "id": "JTS3000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:10-06",
-    "popularity": 9,
-    "group_popularity": 16
+    "popularity": 10,
+    "group_popularity": 13
   },
   "JTS3000HIR": {
     "id": "JTS3000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -98,13 +98,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:23-06",
-    "popularity": 2,
-    "group_popularity": 16
+    "popularity": 3,
+    "group_popularity": 13
   },
   "JTS3200HIL": {
     "id": "JTS3200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -120,8 +120,8 @@
   },
   "JTS3200HIR": {
     "id": "JTS3200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
   },
   "JTS3400HIL": {
     "id": "JTS3400HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -154,8 +154,8 @@
   },
   "JTS3400HIR": {
     "id": "JTS3400HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -171,8 +171,8 @@
   },
   "JTS4000HIL": {
     "id": "JTS4000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:19-06",
     "popularity": 3,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "JTS4000HIR": {
     "id": "JTS4000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -201,12 +201,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:10-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "JTS4400HIL": {
     "id": "JTS4400HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:12-06",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 6,
+    "group_popularity": 7
   },
   "JTS4400HIR": {
     "id": "JTS4400HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -235,12 +235,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:19-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 7
   },
   "JTS6000HIL": {
     "id": "JTS6000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -256,8 +256,8 @@
   },
   "JTS6000HIR": {
     "id": "JTS6000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -273,8 +273,8 @@
   },
   "JTS6200HIL": {
     "id": "JTS6200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:16-06",
-    "popularity": 5,
-    "group_popularity": 6
+    "popularity": 4,
+    "group_popularity": 5
   },
   "JTS6200HIR": {
     "id": "JTS6200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -302,13 +302,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:09-06",
-    "popularity": 2,
-    "group_popularity": 6
+    "popularity": 1,
+    "group_popularity": 5
   },
   "JTS7000HIL": {
     "id": "JTS7000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:14-06",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 5,
+    "group_popularity": 8
   },
   "JTS7000HIR": {
     "id": "JTS7000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -336,13 +336,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:09-06",
-    "popularity": 1,
-    "group_popularity": 6
+    "popularity": 4,
+    "group_popularity": 8
   },
   "JTS7100HIL": {
     "id": "JTS7100HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -358,8 +358,8 @@
   },
   "JTS7100HIR": {
     "id": "JTS7100HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -375,8 +375,8 @@
   },
   "JTS7200HIL": {
     "id": "JTS7200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -387,13 +387,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:13-06",
-    "popularity": 7,
-    "group_popularity": 10
+    "popularity": 10,
+    "group_popularity": 11
   },
   "JTS7200HIR": {
     "id": "JTS7200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -404,13 +404,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:25-06",
-    "popularity": 4,
-    "group_popularity": 10
+    "popularity": 2,
+    "group_popularity": 11
   },
   "JTS9000HIL": {
     "id": "JTS9000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:22-06",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 5,
+    "group_popularity": 6
   },
   "JTS9000HIR": {
     "id": "JTS9000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -438,13 +438,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:08-06",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 1,
+    "group_popularity": 6
   },
   "JTS9200HIL": {
     "id": "JTS9200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -460,8 +460,8 @@
   },
   "JTS9200HIR": {
     "id": "JTS9200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -477,8 +477,8 @@
   },
   "JTS540099HIL": {
     "id": "JTS540099HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -489,13 +489,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:19-06",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 3,
+    "group_popularity": 4
   },
   "JTS540099HIR": {
     "id": "JTS540099HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -506,13 +506,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:12:10-06",
-    "popularity": 2,
-    "group_popularity": 5
+    "popularity": 1,
+    "group_popularity": 4
   },
   "JTSHIL": {
     "id": "JTSHIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -523,13 +523,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:04-06",
-    "popularity": 42,
-    "group_popularity": 46
+    "popularity": 39,
+    "group_popularity": 42
   },
   "JTSHIR": {
     "id": "JTSHIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -540,13 +540,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-09 09:11:07-06",
-    "popularity": 23,
-    "group_popularity": 46
+    "popularity": 20,
+    "group_popularity": 42
   },
   "JTU1000HIL": {
     "id": "JTU1000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -558,12 +558,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:27-06",
     "popularity": 2,
-    "group_popularity": 15
+    "group_popularity": 12
   },
   "JTU1000HIR": {
     "id": "JTU1000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -575,12 +575,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:04-06",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 12
   },
   "JTU2300HIL": {
     "id": "JTU2300HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -591,13 +591,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:02-06",
-    "popularity": 2,
-    "group_popularity": 13
+    "popularity": 1,
+    "group_popularity": 12
   },
   "JTU2300HIR": {
     "id": "JTU2300HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Construction",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -608,13 +608,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:02-06",
-    "popularity": 2,
-    "group_popularity": 13
+    "popularity": 1,
+    "group_popularity": 12
   },
   "JTU3000HIL": {
     "id": "JTU3000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -625,13 +625,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:01-06",
-    "popularity": 5,
-    "group_popularity": 16
+    "popularity": 2,
+    "group_popularity": 13
   },
   "JTU3000HIR": {
     "id": "JTU3000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -642,13 +642,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:01-06",
-    "popularity": 5,
-    "group_popularity": 16
+    "popularity": 1,
+    "group_popularity": 13
   },
   "JTU3200HIL": {
     "id": "JTU3200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -664,8 +664,8 @@
   },
   "JTU3200HIR": {
     "id": "JTU3200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Durable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -681,8 +681,8 @@
   },
   "JTU3400HIL": {
     "id": "JTU3400HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -698,8 +698,8 @@
   },
   "JTU3400HIR": {
     "id": "JTU3400HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Nondurable Goods Manufacturing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -715,8 +715,8 @@
   },
   "JTU4000HIL": {
     "id": "JTU4000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -728,12 +728,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:55-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "JTU4000HIR": {
     "id": "JTU4000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Trade, Transportation, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -745,12 +745,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:55-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "JTU4200HIL": {
     "id": "JTU4200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Wholesale Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -766,8 +766,8 @@
   },
   "JTU4200HIR": {
     "id": "JTU4200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Wholesale Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -783,8 +783,8 @@
   },
   "JTU4400HIL": {
     "id": "JTU4400HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -796,12 +796,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:11-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 7
   },
   "JTU4400HIR": {
     "id": "JTU4400HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Retail Trade",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -813,12 +813,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:52-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 7
   },
   "JTU5100HIL": {
     "id": "JTU5100HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Information",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -829,13 +829,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:37-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "JTU5100HIR": {
     "id": "JTU5100HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Information",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -851,8 +851,8 @@
   },
   "JTU5200HIL": {
     "id": "JTU5200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Finance and Insurance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -864,12 +864,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:30-06",
     "popularity": 2,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "JTU5200HIR": {
     "id": "JTU5200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Finance and Insurance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -880,13 +880,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:47-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "JTU5300HIL": {
     "id": "JTU5300HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Real Estate and Rental and Leasing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -902,8 +902,8 @@
   },
   "JTU5300HIR": {
     "id": "JTU5300HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Real Estate and Rental and Leasing",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -919,8 +919,8 @@
   },
   "JTU6000HIL": {
     "id": "JTU6000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -936,8 +936,8 @@
   },
   "JTU6000HIR": {
     "id": "JTU6000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Education and Health Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -953,8 +953,8 @@
   },
   "JTU6100HIL": {
     "id": "JTU6100HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Educational Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -966,12 +966,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:41-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "JTU6100HIR": {
     "id": "JTU6100HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Educational Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -983,12 +983,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:40-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "JTU6200HIL": {
     "id": "JTU6200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1000,12 +1000,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:39-06",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "JTU6200HIR": {
     "id": "JTU6200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Health Care and Social Assistance",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1017,12 +1017,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:39-06",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "JTU7000HIL": {
     "id": "JTU7000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1034,12 +1034,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:38-06",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 8
   },
   "JTU7000HIR": {
     "id": "JTU7000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Leisure and Hospitality",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1051,12 +1051,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:38-06",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 8
   },
   "JTU7100HIL": {
     "id": "JTU7100HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1072,8 +1072,8 @@
   },
   "JTU7100HIR": {
     "id": "JTU7100HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Arts, Entertainment, and Recreation",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1089,8 +1089,8 @@
   },
   "JTU7200HIL": {
     "id": "JTU7200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1101,13 +1101,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:05-06",
-    "popularity": 3,
-    "group_popularity": 10
+    "popularity": 1,
+    "group_popularity": 11
   },
   "JTU7200HIR": {
     "id": "JTU7200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Accommodation and Food Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1119,12 +1119,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:12:05-06",
     "popularity": 1,
-    "group_popularity": 10
+    "group_popularity": 11
   },
   "JTU8100HIL": {
     "id": "JTU8100HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Other Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1140,8 +1140,8 @@
   },
   "JTU8100HIR": {
     "id": "JTU8100HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Other Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1157,8 +1157,8 @@
   },
   "JTU9000HIL": {
     "id": "JTU9000HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1170,12 +1170,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:34-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 6
   },
   "JTU9000HIR": {
     "id": "JTU9000HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1187,12 +1187,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:33-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 6
   },
   "JTU9100HIL": {
     "id": "JTU9100HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Federal",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1208,8 +1208,8 @@
   },
   "JTU9100HIR": {
     "id": "JTU9100HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Federal",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1225,8 +1225,8 @@
   },
   "JTU9200HIL": {
     "id": "JTU9200HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1242,8 +1242,8 @@
   },
   "JTU9200HIR": {
     "id": "JTU9200HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: State and Local",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1259,8 +1259,8 @@
   },
   "JTU110099HIL": {
     "id": "JTU110099HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Mining and Logging",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1276,8 +1276,8 @@
   },
   "JTU110099HIR": {
     "id": "JTU110099HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Mining and Logging",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1293,8 +1293,8 @@
   },
   "JTU480099HIL": {
     "id": "JTU480099HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Transportation, Warehousing, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1305,13 +1305,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:11-06",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 4,
+    "group_popularity": 4
   },
   "JTU480099HIR": {
     "id": "JTU480099HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Transportation, Warehousing, and Utilities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1323,12 +1323,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:10:36-06",
     "popularity": 2,
-    "group_popularity": 5
+    "group_popularity": 4
   },
   "JTU510099HIL": {
     "id": "JTU510099HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Financial Activities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1344,8 +1344,8 @@
   },
   "JTU510099HIR": {
     "id": "JTU510099HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Financial Activities",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1361,8 +1361,8 @@
   },
   "JTU540099HIL": {
     "id": "JTU540099HIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1373,13 +1373,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:44-06",
-    "popularity": 2,
-    "group_popularity": 5
+    "popularity": 1,
+    "group_popularity": 4
   },
   "JTU540099HIR": {
     "id": "JTU540099HIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Professional and Business Services",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1390,13 +1390,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:44-06",
-    "popularity": 2,
-    "group_popularity": 5
+    "popularity": 1,
+    "group_popularity": 4
   },
   "JTUHIL": {
     "id": "JTUHIL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1407,13 +1407,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:15-06",
-    "popularity": 9,
-    "group_popularity": 46
+    "popularity": 6,
+    "group_popularity": 42
   },
   "JTUHIR": {
     "id": "JTUHIR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Hires: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1425,6 +1425,6 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-09 09:11:18-06",
     "popularity": 3,
-    "group_popularity": 46
+    "group_popularity": 42
   }
 }

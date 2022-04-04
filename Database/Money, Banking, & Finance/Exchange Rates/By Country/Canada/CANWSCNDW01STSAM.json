@@ -1,7 +1,7 @@
 {
   "id": "CANWSCNDW01STSAM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Work Started: Construction: Dwellings / Residential buildings: Total for Canada",
   "observation_start": "1960-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 10:49:13-06",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "OECD descriptor ID: WSCNDW01 OECD unit ID: STSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

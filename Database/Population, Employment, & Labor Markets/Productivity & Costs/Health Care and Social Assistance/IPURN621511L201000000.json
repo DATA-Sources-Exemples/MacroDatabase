@@ -1,7 +1,7 @@
 {
   "id": "IPURN621511L201000000",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Hours Worked for Health Care and Social Assistance: Medical Laboratories (NAICS 621511) in the United States",
   "observation_start": "1988-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-07 22:02:03-05",
   "popularity": 0,
-  "group_popularity": 0,
+  "group_popularity": 1,
   "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry."
 }

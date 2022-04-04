@@ -20,15 +20,15 @@
 | ENUC225040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2021-07-01        |
 | ENUC225040510             | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2021-07-01        |
 | ENUC225040510SA           | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2021-07-01        |
-| FLOR545GOVT               | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| FLOR545GOVTN              | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| FLOR545GOVT               | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| FLOR545GOVTN              | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | FLOR545LF                 | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | FLOR545LFN                | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| FLOR545NA                 | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| FLOR545NAN                | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| FLOR545NA                 | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| FLOR545NAN                | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | FLOR545PCPI               | Per Capita Personal Income in Florence, SC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| FLOR545TRAD               | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2022-01-01        |
-| FLOR545TRADN              | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2022-01-01        |
+| FLOR545TRAD               | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2022-02-01        |
+| FLOR545TRADN              | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2022-02-01        |
 | FLOR545UR                 | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | FLOR545URN                | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | FRNPOP                    | Resident Population in Florence, SC (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -91,38 +91,38 @@
 | RPPGOOD22500              | Regional Price Parities: Goods for Florence, SC (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH22500          | Regional Price Parities: Services: Other for Florence, SC (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT22500         | Regional Price Parities: Services: Rents for Florence, SC (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS45225000000000026      | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS45225000000000026      | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU45225000000000001A     | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU45225000500000001      | All Employees: Total Private in Florence, SC (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU45225000500000001      | All Employees: Total Private in Florence, SC (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU45225000500000001A     | All Employees: Total Private in Florence, SC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU45225000500000001SA    | All Employees: Total Private in Florence, SC (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU45225000500000002      | Average Weekly Hours of All Employees: Total Private in Florence, SC (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU45225000500000001SA    | All Employees: Total Private in Florence, SC (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU45225000500000002      | Average Weekly Hours of All Employees: Total Private in Florence, SC (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU45225000500000002A     | Average Weekly Hours of All Employees: Total Private in Florence, SC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU45225000500000002SA    | Average Weekly Hours of All Employees: Total Private in Florence, SC (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU45225000500000003      | Average Hourly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU45225000500000002SA    | Average Weekly Hours of All Employees: Total Private in Florence, SC (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU45225000500000003      | Average Hourly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU45225000500000003A     | Average Hourly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU45225000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU45225000500000011      | Average Weekly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU45225000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU45225000500000011      | Average Weekly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU45225000500000011A     | Average Weekly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU45225000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU45225000600000001      | All Employees: Goods Producing in Florence, SC (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU45225000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Florence, SC (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU45225000600000001      | All Employees: Goods Producing in Florence, SC (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU45225000600000001A     | All Employees: Goods Producing in Florence, SC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU45225000600000001SA    | All Employees: Goods Producing in Florence, SC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU45225000700000001      | All Employees: Service-Providing in Florence, SC (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU45225000600000001SA    | All Employees: Goods Producing in Florence, SC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU45225000700000001      | All Employees: Service-Providing in Florence, SC (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU45225000700000001A     | All Employees: Service-Providing in Florence, SC (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU45225000700000001SA    | All Employees: Service-Providing in Florence, SC (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU45225000800000001      | All Employees: Private Service Providing in Florence, SC (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU45225000700000001SA    | All Employees: Service-Providing in Florence, SC (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU45225000800000001      | All Employees: Private Service Providing in Florence, SC (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU45225000800000001A     | All Employees: Private Service Providing in Florence, SC (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU45225000800000001SA    | All Employees: Private Service Providing in Florence, SC (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU45225000800000001SA    | All Employees: Private Service Providing in Florence, SC (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU45225004000000001A     | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2021-01-01        |
 | SMU45225009000000001A     | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU45225009091000001      | All Employees: Government: Federal Government in Florence, SC (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU45225009091000001      | All Employees: Government: Federal Government in Florence, SC (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU45225009091000001A     | All Employees: Federal Government in Florence, SC (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU45225009091000001SA    | All Employees: Government: Federal Government in Florence, SC (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU45225009092000001      | All Employees: Government: State Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU45225009091000001SA    | All Employees: Government: Federal Government in Florence, SC (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU45225009092000001      | All Employees: Government: State Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU45225009092000001A     | All Employees: State Government in Florence, SC (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU45225009092000001SA    | All Employees: Government: State Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU45225009093000001      | All Employees: Government: Local Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU45225009092000001SA    | All Employees: Government: State Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU45225009093000001      | All Employees: Government: Local Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU45225009093000001A     | All Employees: Local Government in Florence, SC (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU45225009093000001SA    | All Employees: Government: Local Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU45225009093000001SA    | All Employees: Government: Local Government in Florence, SC (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA22500              | Market Hotness: Supply Score in Florence, SC (CBSA)                                             | 2017-08-01          | 2022-01-01        |

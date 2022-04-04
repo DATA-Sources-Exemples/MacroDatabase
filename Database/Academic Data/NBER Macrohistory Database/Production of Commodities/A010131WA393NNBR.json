@@ -1,7 +1,7 @@
 {
   "id": "A010131WA393NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Wheat Crop for WORLD",
   "observation_start": "1885-01-01",
   "observation_end": "1938-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:50:41-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Data Exclude Large Wheat Producing Areas In China And Southwestern Asia, And Also Numerous Insignificant Producing Areas. Data Include Russia. Data For 1933-1938 Are Not Strictly Comparable With Earlier Figures. Source: Food Research Insitute, Wheat Studies, Volume Ix, No. 7, April 1933, P. 264; Vol. X, No. 3, December 1933, P. 120; December 1940; December 1941; November 1943.\n\nThis NBER data series a01013 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01013"
 }

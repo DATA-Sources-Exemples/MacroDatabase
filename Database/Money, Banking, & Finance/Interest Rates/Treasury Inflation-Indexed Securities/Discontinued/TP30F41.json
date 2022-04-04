@@ -1,7 +1,7 @@
 {
   "id": "TP30F41",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041 (DISCONTINUED)",
   "observation_start": "2011-02-01",
   "observation_end": "2020-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-08-03 07:02:14-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "This series will no longer be updated. It has been replaced with DTP30F41 (https://fred.stlouisfed.org/graph/?g=uHQc) that updates on a daily basis.\n\nTreasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.\n\nMonthly average of business days calculated by Federal Reserve Bank of St. Louis. Yield to maturity on accrued principal.\n\nCalculated from data provided by the Wall Street Journal.\n\nCopyright, 2016, Haver Analytics. Reprinted with permission."
 }

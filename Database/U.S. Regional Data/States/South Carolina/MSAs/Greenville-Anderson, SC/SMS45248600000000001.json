@@ -1,7 +1,7 @@
 {
   "id": "SMS45248600000000001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Total Nonfarm in Greenville-Anderson-Mauldin, SC (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2018-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-03-23 16:24:25-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

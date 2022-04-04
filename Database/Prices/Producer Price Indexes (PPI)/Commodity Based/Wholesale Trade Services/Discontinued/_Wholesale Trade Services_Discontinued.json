@@ -1,8 +1,8 @@
 {
   "WPS575": {
     "id": "WPS575",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Wholesale Trade Services: Chemicals and Allied Products Wholesaling (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2009-12-01",
@@ -18,8 +18,8 @@
   },
   "WPS5751": {
     "id": "WPS5751",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Wholesale Trade Services: Chemicals and Allied Products Wholesaling (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2009-12-01",
@@ -35,8 +35,8 @@
   },
   "WPS575101": {
     "id": "WPS575101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Wholesale Trade Services: Chemicals and Allied Products Wholesaling (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2009-12-01",

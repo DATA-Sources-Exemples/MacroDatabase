@@ -1,7 +1,7 @@
 {
   "id": "DFSARC1Q027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal consumption expenditures: Services: Food services and accommodations",
   "observation_start": "1959-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 07:56:10-06",
-  "popularity": 23,
+  "popularity": 21,
   "group_popularity": 23,
   "notes": "BEA Account Code: DFSARC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

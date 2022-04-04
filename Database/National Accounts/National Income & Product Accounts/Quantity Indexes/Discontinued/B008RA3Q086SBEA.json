@@ -1,7 +1,7 @@
 {
   "id": "B008RA3Q086SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real private fixed investment: Nonresidential (chain-type quantity index) (DISCONTINUED)",
   "observation_start": "1947-01-01",
   "observation_end": "2015-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-08-05 13:31:08-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: B008RA3\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

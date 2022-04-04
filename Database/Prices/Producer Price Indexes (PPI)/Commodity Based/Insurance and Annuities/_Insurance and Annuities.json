@@ -1,8 +1,8 @@
 {
   "WPS411": {
     "id": "WPS411",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -18,8 +18,8 @@
   },
   "WPS4111": {
     "id": "WPS4111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -35,8 +35,8 @@
   },
   "WPS411101": {
     "id": "WPS411101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Life Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2010-12-01",
@@ -52,8 +52,8 @@
   },
   "WPS411102": {
     "id": "WPS411102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Disability Insurance, Including Accidental Death",
     "observation_start": "2009-03-01",
     "observation_end": "2011-12-01",
@@ -69,8 +69,8 @@
   },
   "WPS411103": {
     "id": "WPS411103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Health and Medical Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:26-05",
-    "popularity": 15,
-    "group_popularity": 15
+    "popularity": 13,
+    "group_popularity": 13
   },
   "WPS411104": {
     "id": "WPS411104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Property and Casualty Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2011-12-01",
@@ -99,12 +99,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2017-02-14 09:57:14-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 3
   },
   "WPS421103": {
     "id": "WPS421103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Property and Casualty Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2012-12-01",
@@ -120,8 +120,8 @@
   },
   "WPU41": {
     "id": "WPU41",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -132,13 +132,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:21-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU42": {
     "id": "WPU42",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -154,8 +154,8 @@
   },
   "WPU411": {
     "id": "WPU411",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -171,8 +171,8 @@
   },
   "WPU412": {
     "id": "WPU412",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Annuities",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -188,8 +188,8 @@
   },
   "WPU421": {
     "id": "WPU421",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -205,8 +205,8 @@
   },
   "WPU4111": {
     "id": "WPU4111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -222,8 +222,8 @@
   },
   "WPU4121": {
     "id": "WPU4121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Annuities",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -239,8 +239,8 @@
   },
   "WPU4211": {
     "id": "WPU4211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -256,8 +256,8 @@
   },
   "WPU411101": {
     "id": "WPU411101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Life Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -273,8 +273,8 @@
   },
   "WPU411102": {
     "id": "WPU411102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Disability Insurance, Including Accidental Death",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -290,8 +290,8 @@
   },
   "WPU411103": {
     "id": "WPU411103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Health and Medical Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -303,12 +303,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:59-05",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 13
   },
   "WPU411104": {
     "id": "WPU411104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Property and Casualty Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:21-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 3
   },
   "WPU412101": {
     "id": "WPU412101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Annuities",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "WPU421101": {
     "id": "WPU421101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Life Insurance and Annuities",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -358,8 +358,8 @@
   },
   "WPU421102": {
     "id": "WPU421102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Health and Medical Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -375,8 +375,8 @@
   },
   "WPU421103": {
     "id": "WPU421103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Property and Casualty Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "WPU421104": {
     "id": "WPU421104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Other Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -409,8 +409,8 @@
   },
   "WPU41110101": {
     "id": "WPU41110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Life Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -426,8 +426,8 @@
   },
   "WPU41110201": {
     "id": "WPU41110201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Disability Insurance, Including Accidental Death",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -443,8 +443,8 @@
   },
   "WPU41110301": {
     "id": "WPU41110301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Health and Medical Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -456,12 +456,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:59-05",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 13
   },
   "WPU41110401": {
     "id": "WPU41110401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Property and Casualty Insurance",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -473,12 +473,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:59-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 3
   },
   "WPU41210101": {
     "id": "WPU41210101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Insurance and Annuities: Annuities",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -494,8 +494,8 @@
   },
   "WPU42110101": {
     "id": "WPU42110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Life Insurance and Annuities",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -511,8 +511,8 @@
   },
   "WPU42110201": {
     "id": "WPU42110201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Health and Medical Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -528,8 +528,8 @@
   },
   "WPU42110301": {
     "id": "WPU42110301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Property and Casualty Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -545,8 +545,8 @@
   },
   "WPU42110401": {
     "id": "WPU42110401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Commissions and Fees from Sales and Administration of Insurance Policies (Partial): Commissions from Sales of Other Insurance",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",

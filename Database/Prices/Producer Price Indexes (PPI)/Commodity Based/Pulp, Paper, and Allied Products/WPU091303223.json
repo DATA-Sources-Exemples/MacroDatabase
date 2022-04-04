@@ -1,7 +1,7 @@
 {
   "id": "WPU091303223",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity for Pulp, Paper, and Allied Products: Polypropylene/Polypropylene Multiweb Laminated Rolls and Sheets, for Flexible Packaging Uses",
   "observation_start": "2011-12-01",
   "observation_end": "2019-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-02-15 08:52:02-06",
-  "popularity": 28,
-  "group_popularity": 28
+  "popularity": 23,
+  "group_popularity": 23
 }

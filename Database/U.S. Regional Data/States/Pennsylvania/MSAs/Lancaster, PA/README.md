@@ -24,34 +24,34 @@
 | HORAMSA29540              | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA29540            | Market Hotness: Hotness Rank in Lancaster, PA (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA29540              | Market Hotness: Hotness Score in Lancaster, PA (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG29540               | Job Postings on Indeed in Lancaster, PA (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD29540                 | Implicit Regional Price Deflator for Lancaster, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LACPOP                    | Resident Population in Lancaster, PA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| LANC542EDUH               | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LANC542EDUHN              | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LANC542FIRE               | All Employees: Financial Activities in Lancaster, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LANC542FIREN              | All Employees: Financial Activities in Lancaster, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LANC542GOVT               | All Employees: Government in Lancaster, PA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LANC542GOVTN              | All Employees: Government in Lancaster, PA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LANC542INFO               | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LANC542INFON              | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LANC542LEIH               | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| LANC542LEIHN              | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| LANC542EDUH               | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LANC542EDUHN              | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LANC542FIRE               | All Employees: Financial Activities in Lancaster, PA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LANC542FIREN              | All Employees: Financial Activities in Lancaster, PA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LANC542GOVT               | All Employees: Government in Lancaster, PA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LANC542GOVTN              | All Employees: Government in Lancaster, PA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LANC542INFO               | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LANC542INFON              | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LANC542LEIH               | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| LANC542LEIHN              | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | LANC542LF                 | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | LANC542LFN                | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| LANC542MFG                | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LANC542MFGN               | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LANC542NA                 | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LANC542NAN                | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1958-01-01          | 2022-01-01        |
-| LANC542NRMN               | All Employees: Mining, Logging, and Construction in Lancaster, PA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LANC542NRMNN              | All Employees: Mining, Logging, and Construction in Lancaster, PA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LANC542PBSV               | All Employees: Professional and Business Services in Lancaster, PA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| LANC542PBSVN              | All Employees: Professional and Business Services in Lancaster, PA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| LANC542MFG                | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LANC542MFGN               | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LANC542NA                 | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LANC542NAN                | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1958-01-01          | 2022-02-01        |
+| LANC542NRMN               | All Employees: Mining, Logging, and Construction in Lancaster, PA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LANC542NRMNN              | All Employees: Mining, Logging, and Construction in Lancaster, PA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LANC542PBSV               | All Employees: Professional and Business Services in Lancaster, PA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| LANC542PBSVN              | All Employees: Professional and Business Services in Lancaster, PA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | LANC542PCPI               | Per Capita Personal Income in Lancaster, PA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| LANC542SRVO               | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LANC542SRVON              | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LANC542TRAD               | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| LANC542TRADN              | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| LANC542SRVO               | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LANC542SRVON              | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LANC542TRAD               | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| LANC542TRADN              | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | LANC542UR                 | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LANC542URN                | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LAUMT422954000000003A     | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
@@ -108,79 +108,79 @@
 | RPPGOOD29540              | Regional Price Parities: Goods for Lancaster, PA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH29540          | Regional Price Parities: Services: Other for Lancaster, PA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT29540         | Regional Price Parities: Services: Rents for Lancaster, PA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS42295400000000026      | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS42295400000000026      | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU42295400000000001A     | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1958-01-01          | 2021-01-01        |
-| SMU42295400500000001      | All Employees: Total Private in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU42295400500000001      | All Employees: Total Private in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU42295400500000001A     | All Employees: Total Private in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU42295400500000001SA    | All Employees: Total Private in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU42295400500000002      | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU42295400500000001SA    | All Employees: Total Private in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU42295400500000002      | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU42295400500000002A     | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU42295400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU42295400500000003      | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU42295400500000002SA    | Average Weekly Hours of All Employees: Total Private in Lancaster, PA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU42295400500000003      | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU42295400500000003A     | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU42295400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU42295400500000011      | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU42295400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU42295400500000011      | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU42295400500000011A     | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU42295400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU42295400600000001      | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU42295400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lancaster, PA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU42295400600000001      | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU42295400600000001A     | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU42295400600000001SA    | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU42295400700000001      | All Employees: Service-Providing in Lancaster, PA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU42295400600000001SA    | All Employees: Goods Producing in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU42295400700000001      | All Employees: Service-Providing in Lancaster, PA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU42295400700000001A     | All Employees: Service-Providing in Lancaster, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU42295400700000001SA    | All Employees: Service-Providing in Lancaster, PA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU42295400800000001      | All Employees: Private Service Providing in Lancaster, PA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU42295400700000001SA    | All Employees: Service-Providing in Lancaster, PA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU42295400800000001      | All Employees: Private Service Providing in Lancaster, PA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU42295400800000001A     | All Employees: Private Service Providing in Lancaster, PA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU42295400800000001SA    | All Employees: Private Service Providing in Lancaster, PA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU42295400800000001SA    | All Employees: Private Service Providing in Lancaster, PA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU42295401500000001A     | All Employees: Mining, Logging, and Construction in Lancaster, PA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU42295403000000001A     | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU42295403100000001      | All Employees: Manufacturing: Durable Goods in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42295403100000001      | All Employees: Manufacturing: Durable Goods in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU42295403100000001A     | All Employees: Manufacturing: Durable Goods in Lancaster, PA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU42295403100000001SA    | All Employees: Manufacturing: Durable Goods in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU42295403200000001      | All Employees: Manufacturing: Non-Durable Goods in Lancaster, PA (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU42295403100000001SA    | All Employees: Manufacturing: Durable Goods in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU42295403200000001      | All Employees: Manufacturing: Non-Durable Goods in Lancaster, PA (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU42295403200000001A     | All Employees: Manufacturing: Non-Durable Goods in Lancaster, PA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU42295403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Lancaster, PA (MSA)                                         | 1990-01-01          | 2022-01-01        |
-| SMU42295403231100001      | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Lancaster, PA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU42295403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Lancaster, PA (MSA)                                         | 1990-01-01          | 2022-02-01        |
+| SMU42295403231100001      | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Lancaster, PA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU42295403231100001A     | All Employees: Non-Durable Goods: Food Manufacturing in Lancaster, PA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU42295403231100001SA    | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Lancaster, PA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU42295403231100001SA    | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Lancaster, PA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU42295404000000001A     | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU42295404100000001      | All Employees: Wholesale Trade in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU42295404100000001      | All Employees: Wholesale Trade in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU42295404100000001A     | All Employees: Wholesale Trade in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU42295404100000001SA    | All Employees: Wholesale Trade in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU42295404200000001      | All Employees: Retail Trade in Lancaster, PA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU42295404100000001SA    | All Employees: Wholesale Trade in Lancaster, PA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU42295404200000001      | All Employees: Retail Trade in Lancaster, PA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU42295404200000001A     | All Employees: Retail Trade in Lancaster, PA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU42295404200000001SA    | All Employees: Retail Trade in Lancaster, PA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU42295404245200001      | All Employees: Retail Trade: General Merchandise Stores in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU42295404200000001SA    | All Employees: Retail Trade in Lancaster, PA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU42295404245200001      | All Employees: Retail Trade: General Merchandise Stores in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU42295404245200001A     | All Employees: Retail Trade: General Merchandise Stores in Lancaster, PA (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU42295404245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU42295404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lancaster, PA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU42295404245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU42295404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lancaster, PA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU42295404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lancaster, PA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU42295404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lancaster, PA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU42295404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lancaster, PA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU42295405000000001A     | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU42295405500000001A     | All Employees: Financial Activities in Lancaster, PA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU42295406000000001A     | All Employees: Professional and Business Services in Lancaster, PA (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU42295406500000001A     | All Employees: Education and Health Services in Lancaster, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42295406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Lancaster, PA (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU42295406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Lancaster, PA (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU42295406562000001A     | All Employees: Health Care and Social Assistance in Lancaster, PA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU42295406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Lancaster, PA (MSA)         | 1990-01-01          | 2022-01-01        |
-| SMU42295406562200001      | All Employees: Education and Health Services: Hospitals in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU42295406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Lancaster, PA (MSA)         | 1990-01-01          | 2022-02-01        |
+| SMU42295406562200001      | All Employees: Education and Health Services: Hospitals in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU42295406562200001A     | All Employees: Health Care: Hospitals in Lancaster, PA (MSA)                                                   | 1990-01-01          | 2021-01-01        |
-| SMU42295406562200001SA    | All Employees: Education and Health Services: Hospitals in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU42295406562200001SA    | All Employees: Education and Health Services: Hospitals in Lancaster, PA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU42295407000000001A     | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU42295407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lancaster, PA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| SMU42295407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lancaster, PA (MSA)                 | 1990-01-01          | 2022-02-01        |
 | SMU42295407072000001A     | All Employees: Accommodation and Food Services in Lancaster, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU42295407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lancaster, PA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| SMU42295407072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lancaster, PA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU42295407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Lancaster, PA (MSA)                 | 1990-01-01          | 2022-02-01        |
+| SMU42295407072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lancaster, PA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU42295407072200001A     | All Employees: Food Services and Drinking Places in Lancaster, PA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU42295407072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lancaster, PA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU42295407072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Lancaster, PA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU42295408000000001A     | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU42295409000000001A     | All Employees: Government in Lancaster, PA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU42295409091000001      | All Employees: Government: Federal Government in Lancaster, PA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU42295409091000001      | All Employees: Government: Federal Government in Lancaster, PA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU42295409091000001A     | All Employees: Federal Government in Lancaster, PA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU42295409091000001SA    | All Employees: Government: Federal Government in Lancaster, PA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU42295409092000001      | All Employees: Government: State Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42295409091000001SA    | All Employees: Government: Federal Government in Lancaster, PA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU42295409092000001      | All Employees: Government: State Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU42295409092000001A     | All Employees: State Government in Lancaster, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU42295409092000001SA    | All Employees: Government: State Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU42295409093000001      | All Employees: Government: Local Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42295409092000001SA    | All Employees: Government: State Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU42295409093000001      | All Employees: Government: Local Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU42295409093000001A     | All Employees: Local Government in Lancaster, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU42295409093000001SA    | All Employees: Government: Local Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42295409093000001SA    | All Employees: Government: Local Government in Lancaster, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA29540              | Market Hotness: Supply Score in Lancaster, PA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

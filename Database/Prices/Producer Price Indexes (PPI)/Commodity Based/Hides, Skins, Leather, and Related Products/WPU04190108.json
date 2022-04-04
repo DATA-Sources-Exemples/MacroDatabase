@@ -1,7 +1,7 @@
 {
   "id": "WPU04190108",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides, Skins, and Pelts, Made in Slaughtering Plants",
   "observation_start": "2001-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:13-05",
-  "popularity": 20,
-  "group_popularity": 21
+  "popularity": 24,
+  "group_popularity": 24
 }

@@ -1,8 +1,8 @@
 {
   "WPS04": {
     "id": "WPS04",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1974-12-01",
@@ -18,8 +18,8 @@
   },
   "WPS041": {
     "id": "WPS041",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:15-05",
-    "popularity": 18,
+    "popularity": 16,
     "group_popularity": 50
   },
   "WPS042": {
     "id": "WPS042",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:29-05",
-    "popularity": 3,
-    "group_popularity": 6
+    "popularity": 2,
+    "group_popularity": 4
   },
   "WPS043": {
     "id": "WPS043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Footwear",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -65,12 +65,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:04-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "WPS044": {
     "id": "WPS044",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Leather and Related Products",
     "observation_start": "1975-01-01",
     "observation_end": "2010-12-01",
@@ -86,8 +86,8 @@
   },
   "WPS0431": {
     "id": "WPS0431",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Men's Nonathletic Footwear",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -103,8 +103,8 @@
   },
   "WPS0432": {
     "id": "WPS0432",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Women's Nonathletic Footwear",
     "observation_start": "2009-01-01",
     "observation_end": "2013-12-01",
@@ -120,8 +120,8 @@
   },
   "WPS0439": {
     "id": "WPS0439",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Footwear Including Slippers",
     "observation_start": "2004-01-01",
     "observation_end": "2013-12-01",
@@ -137,8 +137,8 @@
   },
   "WPS0441": {
     "id": "WPS0441",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Luggage and Small Leather Goods",
     "observation_start": "1973-01-01",
     "observation_end": "2010-12-01",
@@ -154,8 +154,8 @@
   },
   "WPS0445": {
     "id": "WPS0445",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified (DISCONTINUED)",
     "observation_start": "1996-01-01",
     "observation_end": "1998-12-01",
@@ -171,8 +171,8 @@
   },
   "WPS043105": {
     "id": "WPS043105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Men's Footwear (Size 6 and Larger), Excluding Athletic",
     "observation_start": "1994-01-01",
     "observation_end": "2022-02-01",
@@ -188,8 +188,8 @@
   },
   "WPS043205": {
     "id": "WPS043205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Women's Footwear (Size 4 and Larger), Excluding Athletic",
     "observation_start": "2009-01-01",
     "observation_end": "2013-12-01",
@@ -205,8 +205,8 @@
   },
   "WPS043901": {
     "id": "WPS043901",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Footwear, Excluding Rubber and Plastic Soled Footwear",
     "observation_start": "2004-01-01",
     "observation_end": "2013-12-01",
@@ -222,8 +222,8 @@
   },
   "WPS044101": {
     "id": "WPS044101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Luggage and Small Leather Goods",
     "observation_start": "1986-01-01",
     "observation_end": "2010-12-01",
@@ -239,8 +239,8 @@
   },
   "WPS044501": {
     "id": "WPS044501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified (DISCONTINUED)",
     "observation_start": "1996-01-01",
     "observation_end": "1998-12-01",
@@ -256,8 +256,8 @@
   },
   "WPU04": {
     "id": "WPU04",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:53-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU041": {
     "id": "WPU041",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:05-05",
-    "popularity": 48,
+    "popularity": 49,
     "group_popularity": 50
   },
   "WPU042": {
     "id": "WPU042",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -302,13 +302,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:33-05",
-    "popularity": 4,
-    "group_popularity": 6
+    "popularity": 3,
+    "group_popularity": 4
   },
   "WPU043": {
     "id": "WPU043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Footwear",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:33-05",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU044": {
     "id": "WPU044",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Leather and Related Products",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "WPU0419": {
     "id": "WPU0419",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle",
     "observation_start": "2001-06-01",
     "observation_end": "2022-02-01",
@@ -358,8 +358,8 @@
   },
   "WPU0427": {
     "id": "WPU0427",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Finished and Unfinished Leather",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -375,8 +375,8 @@
   },
   "WPU0431": {
     "id": "WPU0431",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Men's Nonathletic Footwear",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "WPU0432": {
     "id": "WPU0432",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Women's Nonathletic Footwear",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -409,8 +409,8 @@
   },
   "WPU0439": {
     "id": "WPU0439",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Footwear Including Slippers",
     "observation_start": "2002-12-01",
     "observation_end": "2021-09-01",
@@ -426,8 +426,8 @@
   },
   "WPU0441": {
     "id": "WPU0441",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Luggage and Small Leather Goods",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -443,8 +443,8 @@
   },
   "WPU0445": {
     "id": "WPU0445",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -460,8 +460,8 @@
   },
   "WPU041901": {
     "id": "WPU041901",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides, Skins, and Pelts, Made in Slaughtering Plants",
     "observation_start": "2001-06-01",
     "observation_end": "2022-02-01",
@@ -473,12 +473,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:50-05",
     "popularity": 2,
-    "group_popularity": 21
+    "group_popularity": 24
   },
   "WPU042701": {
     "id": "WPU042701",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Finished and Unfinished Leather",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -494,8 +494,8 @@
   },
   "WPU043105": {
     "id": "WPU043105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Men's Footwear (Size 6 and Larger), Excluding Athletic",
     "observation_start": "1993-12-01",
     "observation_end": "2022-02-01",
@@ -511,8 +511,8 @@
   },
   "WPU043205": {
     "id": "WPU043205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Women's Footwear (Size 4 and Larger), Excluding Athletic",
     "observation_start": "1993-12-01",
     "observation_end": "2022-02-01",
@@ -528,8 +528,8 @@
   },
   "WPU043901": {
     "id": "WPU043901",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Footwear, Excluding Rubber and Plastic Soled Footwear",
     "observation_start": "2002-12-01",
     "observation_end": "2020-01-01",
@@ -545,8 +545,8 @@
   },
   "WPU044101": {
     "id": "WPU044101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Luggage and Small Leather Goods",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -562,8 +562,8 @@
   },
   "WPU044501": {
     "id": "WPU044501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -579,8 +579,8 @@
   },
   "WPU04190108": {
     "id": "WPU04190108",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides, Skins, and Pelts, Made in Slaughtering Plants",
     "observation_start": "2001-06-01",
     "observation_end": "2022-02-01",
@@ -591,13 +591,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:13-05",
-    "popularity": 20,
-    "group_popularity": 21
+    "popularity": 24,
+    "group_popularity": 24
   },
   "WPU04270102": {
     "id": "WPU04270102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Finished and Unfinished Leather",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -613,8 +613,8 @@
   },
   "WPU04310501": {
     "id": "WPU04310501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Men's Footwear (Size 6 and Larger), Excluding Athletic",
     "observation_start": "1993-12-01",
     "observation_end": "2022-02-01",
@@ -630,8 +630,8 @@
   },
   "WPU04320501": {
     "id": "WPU04320501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Women's Footwear (Size 4 and Larger), Excluding Athletic",
     "observation_start": "1993-12-01",
     "observation_end": "2022-02-01",
@@ -647,8 +647,8 @@
   },
   "WPU04390104": {
     "id": "WPU04390104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Other Footwear, Excluding Rubber and Plastic Soled Footwear",
     "observation_start": "2011-12-01",
     "observation_end": "2020-01-01",
@@ -664,8 +664,8 @@
   },
   "WPU04410112": {
     "id": "WPU04410112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Luggage (Including Suitcases, Travel Bags, Backpacks, and Other Types)",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -681,8 +681,8 @@
   },
   "WPU04410128": {
     "id": "WPU04410128",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Women's and Children's Handbags and Purses",
     "observation_start": "1982-06-01",
     "observation_end": "2022-02-01",
@@ -698,8 +698,8 @@
   },
   "WPU04410132": {
     "id": "WPU04410132",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Personal Leather Goods (Excluding Women's Handbags and Purses)",
     "observation_start": "1982-06-01",
     "observation_end": "2022-02-01",
@@ -715,8 +715,8 @@
   },
   "WPU04450101": {
     "id": "WPU04450101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: All Other Leather Goods",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -727,13 +727,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:02-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU04450111": {
     "id": "WPU04450111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather Belts, Made from Purchased Materials",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "WPU044501011": {
     "id": "WPU044501011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Boot and Shoe Cut Stock and Findings",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -766,8 +766,8 @@
   },
   "WPU044501014": {
     "id": "WPU044501014",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: All Other Miscellaneous Leather Goods",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -778,7 +778,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:02-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   }
 }

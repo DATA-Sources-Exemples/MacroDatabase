@@ -1,7 +1,7 @@
 {
   "id": "CPALTT01AUQ657N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index: Total All Items for Australia",
   "observation_start": "1960-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 10:22:15-06",
-  "popularity": 11,
-  "group_popularity": 13,
+  "popularity": 10,
+  "group_popularity": 12,
   "notes": "OECD descriptor ID: CPALTT01\nOECD unit ID: GP\nOECD country ID: AUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

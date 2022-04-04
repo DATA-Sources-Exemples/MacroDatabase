@@ -1,7 +1,7 @@
 {
   "id": "USHLTHSOCASSRQGSP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Domestic Product: Health Care and Social Assistance (NAICS 62) in the United States",
   "observation_start": "2005-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2021-12-23 09:04:07-06",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 7,
+  "group_popularity": 8,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

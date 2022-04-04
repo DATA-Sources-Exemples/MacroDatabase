@@ -5,31 +5,31 @@
 | ACTLISCOUYY12260          | Housing Inventory: Active Listing Count Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                 | 2017-07-01          | 2022-01-01        |
 | ATNHPIUS12260Q            | All-Transactions House Price Index for Augusta-Richmond County, GA-SC (MSA)                                                     | 1979-07-01          | 2021-10-01        |
 | AUGPOP                    | Resident Population in Augusta-Richmond County, GA-SC (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| AUGU213EDUH               | All Employees: Education and Health Services in Augusta-Richmond County, GA-SC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| AUGU213EDUHN              | All Employees: Education and Health Services in Augusta-Richmond County, GA-SC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| AUGU213FIRE               | All Employees: Financial Activities in Augusta-Richmond County, GA-SC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| AUGU213FIREN              | All Employees: Financial Activities in Augusta-Richmond County, GA-SC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| AUGU213GOVT               | All Employees: Government in Augusta-Richmond County, GA-SC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| AUGU213GOVTN              | All Employees: Government in Augusta-Richmond County, GA-SC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| AUGU213INFO               | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| AUGU213INFON              | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| AUGU213LEIH               | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| AUGU213LEIHN              | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| AUGU213EDUH               | All Employees: Education and Health Services in Augusta-Richmond County, GA-SC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| AUGU213EDUHN              | All Employees: Education and Health Services in Augusta-Richmond County, GA-SC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| AUGU213FIRE               | All Employees: Financial Activities in Augusta-Richmond County, GA-SC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| AUGU213FIREN              | All Employees: Financial Activities in Augusta-Richmond County, GA-SC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| AUGU213GOVT               | All Employees: Government in Augusta-Richmond County, GA-SC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| AUGU213GOVTN              | All Employees: Government in Augusta-Richmond County, GA-SC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| AUGU213INFO               | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| AUGU213INFON              | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| AUGU213LEIH               | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| AUGU213LEIHN              | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | AUGU213LF                 | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | AUGU213LFN                | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| AUGU213MFG                | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUGU213MFGN               | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUGU213NA                 | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUGU213NAN                | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| AUGU213NRMN               | All Employees: Mining, Logging, and Construction in Augusta-Richmond County, GA-SC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| AUGU213NRMNN              | All Employees: Mining, Logging, and Construction in Augusta-Richmond County, GA-SC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| AUGU213PBSV               | All Employees: Professional and Business Services in Augusta-Richmond County, GA-SC (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| AUGU213PBSVN              | All Employees: Professional and Business Services in Augusta-Richmond County, GA-SC (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| AUGU213MFG                | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUGU213MFGN               | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUGU213NA                 | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUGU213NAN                | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| AUGU213NRMN               | All Employees: Mining, Logging, and Construction in Augusta-Richmond County, GA-SC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| AUGU213NRMNN              | All Employees: Mining, Logging, and Construction in Augusta-Richmond County, GA-SC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| AUGU213PBSV               | All Employees: Professional and Business Services in Augusta-Richmond County, GA-SC (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| AUGU213PBSVN              | All Employees: Professional and Business Services in Augusta-Richmond County, GA-SC (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | AUGU213PCPI               | Per Capita Personal Income in Augusta-Richmond County, GA-SC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| AUGU213SRVO               | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| AUGU213SRVON              | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| AUGU213TRAD               | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| AUGU213TRADN              | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| AUGU213SRVO               | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| AUGU213SRVON              | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| AUGU213TRAD               | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| AUGU213TRADN              | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | AUGU213UR                 | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | AUGU213URN                | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | AVELISPRI12260            | Housing Inventory: Average Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-01-01        |
@@ -52,7 +52,7 @@
 | HORAMSA12260              | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA12260            | Market Hotness: Hotness Rank in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA12260              | Market Hotness: Hotness Score in Augusta-Richmond County, GA-SC (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD12260                 | Implicit Regional Price Deflator for Augusta-Richmond County, GA-SC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131226000000003A     | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
 | LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
@@ -108,41 +108,41 @@
 | RPPGOOD12260              | Regional Price Parities: Goods for Augusta-Richmond County, GA-SC (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH12260          | Regional Price Parities: Services: Other for Augusta-Richmond County, GA-SC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT12260         | Regional Price Parities: Services: Rents for Augusta-Richmond County, GA-SC (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS13122600000000026      | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS13122600000000026      | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU13122600000000001A     | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13122600500000001      | All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU13122600500000001      | All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU13122600500000001A     | All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13122600500000001SA    | All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU13122600500000002      | Average Weekly Hours of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU13122600500000001SA    | All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU13122600500000002      | Average Weekly Hours of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU13122600500000002A     | Average Weekly Hours of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU13122600500000002SA    | Average Weekly Hours of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU13122600500000003      | Average Hourly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU13122600500000002SA    | Average Weekly Hours of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU13122600500000003      | Average Hourly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU13122600500000003A     | Average Hourly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13122600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU13122600500000011      | Average Weekly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU13122600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU13122600500000011      | Average Weekly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU13122600500000011A     | Average Weekly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13122600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU13122600600000001      | All Employees: Goods Producing in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU13122600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Augusta-Richmond County, GA-SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU13122600600000001      | All Employees: Goods Producing in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU13122600600000001A     | All Employees: Goods Producing in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU13122600600000001SA    | All Employees: Goods Producing in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU13122600700000001      | All Employees: Service-Providing in Augusta-Richmond County, GA-SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU13122600600000001SA    | All Employees: Goods Producing in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU13122600700000001      | All Employees: Service-Providing in Augusta-Richmond County, GA-SC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU13122600700000001A     | All Employees: Service-Providing in Augusta-Richmond County, GA-SC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU13122600700000001SA    | All Employees: Service-Providing in Augusta-Richmond County, GA-SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU13122600800000001      | All Employees: Private Service Providing in Augusta-Richmond County, GA-SC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU13122600700000001SA    | All Employees: Service-Providing in Augusta-Richmond County, GA-SC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU13122600800000001      | All Employees: Private Service Providing in Augusta-Richmond County, GA-SC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU13122600800000001A     | All Employees: Private Service Providing in Augusta-Richmond County, GA-SC (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU13122600800000001SA    | All Employees: Private Service Providing in Augusta-Richmond County, GA-SC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU13122600800000001SA    | All Employees: Private Service Providing in Augusta-Richmond County, GA-SC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU13122601500000001A     | All Employees: Mining, Logging, and Construction in Augusta-Richmond County, GA-SC (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU13122603000000001A     | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU13122604000000001A     | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU13122604100000001      | All Employees: Wholesale Trade in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU13122604100000001      | All Employees: Wholesale Trade in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU13122604100000001A     | All Employees: Wholesale Trade in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU13122604100000001SA    | All Employees: Wholesale Trade in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU13122604200000001      | All Employees: Retail Trade in Augusta-Richmond County, GA-SC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU13122604100000001SA    | All Employees: Wholesale Trade in Augusta-Richmond County, GA-SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU13122604200000001      | All Employees: Retail Trade in Augusta-Richmond County, GA-SC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU13122604200000001A     | All Employees: Retail Trade in Augusta-Richmond County, GA-SC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU13122604200000001SA    | All Employees: Retail Trade in Augusta-Richmond County, GA-SC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU13122604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Augusta-Richmond County, GA-SC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU13122604200000001SA    | All Employees: Retail Trade in Augusta-Richmond County, GA-SC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU13122604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Augusta-Richmond County, GA-SC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU13122604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Augusta-Richmond County, GA-SC (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU13122604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Augusta-Richmond County, GA-SC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU13122604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Augusta-Richmond County, GA-SC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU13122605000000001A     | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU13122605500000001A     | All Employees: Financial Activities in Augusta-Richmond County, GA-SC (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU13122606000000001A     | All Employees: Professional and Business Services in Augusta-Richmond County, GA-SC (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -150,13 +150,13 @@
 | SMU13122607000000001A     | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU13122608000000001A     | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU13122609000000001A     | All Employees: Government in Augusta-Richmond County, GA-SC (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU13122609091000001      | All Employees: Government: Federal Government in Augusta-Richmond County, GA-SC (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU13122609091000001      | All Employees: Government: Federal Government in Augusta-Richmond County, GA-SC (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU13122609091000001A     | All Employees: Federal Government in Augusta-Richmond County, GA-SC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU13122609091000001SA    | All Employees: Government: Federal Government in Augusta-Richmond County, GA-SC (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU13122609092000001      | All Employees: Government: State Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13122609091000001SA    | All Employees: Government: Federal Government in Augusta-Richmond County, GA-SC (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU13122609092000001      | All Employees: Government: State Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU13122609092000001A     | All Employees: State Government in Augusta-Richmond County, GA-SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13122609092000001SA    | All Employees: Government: State Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU13122609093000001      | All Employees: Government: Local Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13122609092000001SA    | All Employees: Government: State Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU13122609093000001      | All Employees: Government: Local Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU13122609093000001A     | All Employees: Local Government in Augusta-Richmond County, GA-SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13122609093000001SA    | All Employees: Government: Local Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU13122609093000001SA    | All Employees: Government: Local Government in Augusta-Richmond County, GA-SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA12260              | Market Hotness: Supply Score in Augusta-Richmond County, GA-SC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

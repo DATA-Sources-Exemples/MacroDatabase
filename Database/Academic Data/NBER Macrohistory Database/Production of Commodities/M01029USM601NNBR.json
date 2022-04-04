@@ -1,7 +1,7 @@
 {
   "id": "M01029USM601NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Fertilizer Consumption for Virginia, North Carolina, South Carolina, Georgia, Florida, Mississippi, Louisiana, Arkansas, Texas, Alabama, and Tennessee",
   "observation_start": "1922-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:05:55-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Tags Showing That Tax Has Been Paid Must Be Secured And Attached To Fertilizer. \"Tag Sales\" Thus Seems To Mean \"Sales Of Tags\" For Fertilizers And Constitute Only An Indication Of Actual Fertilizer Sales. Monthly Records Of Tag Sales Are Kept By State Officials And Are Usually Larger Or Smaller Than Actual Sales. Data Here Are Compiled By The National Fertlizer Association, From Tag Sales Reports Of Commissioners Of Agriculture In 11 Southern States. This Series Is Comparable Over The Entire Period As Missouri Has Been Eliminated From Data Previously Shown In The Scb. The 11 States Included Are Virginia, North Carolina, South Carolina, Georgia, Florida, Mississippi, Louisiana, Arkansas, Texas, Alabama, And Tennessee. Source: Survey Of Current Business, January 1934, P.19, And Successive Issues.\n\nThis NBER data series m01029 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01029"
 }

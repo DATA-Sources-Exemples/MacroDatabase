@@ -1,7 +1,7 @@
 {
   "id": "M0877BUSM027SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Rental Income of Persons for United States",
   "observation_start": "1946-01-01",
   "observation_end": "1968-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 14:23:38-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1939-1945 (2)--Seasonally Adjusted Data, 1946-1968. Data Are Billions Of Dollars At Annual Rates Source: Survey Of Current Business, August 1965 For Data Through 1962; July Issues Of Survey Of Current Business Are Used Thereafter.\n\nThis NBER data series m08277b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08277b"
 }

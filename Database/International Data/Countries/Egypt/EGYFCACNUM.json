@@ -1,7 +1,7 @@
 {
   "id": "EGYFCACNUM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Egypt",
   "observation_start": "2004-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-02 13:21:17-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

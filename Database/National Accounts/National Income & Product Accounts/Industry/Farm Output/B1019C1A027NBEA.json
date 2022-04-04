@@ -1,7 +1,7 @@
 {
   "id": "B1019C1A027NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Farm output: Compensation of employees: Wage and salary accruals",
   "observation_start": "1929-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:40:30-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: B1019C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

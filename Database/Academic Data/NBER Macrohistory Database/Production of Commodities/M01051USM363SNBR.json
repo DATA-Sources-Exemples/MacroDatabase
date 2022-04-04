@@ -1,7 +1,7 @@
 {
   "id": "M01051USM363SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Manufacture of Consumption Goods for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1928-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-16 11:05:05-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Index Include Foods (Cattle Slaughtering, Hog Slaughtering, Wheat Flour, And Sugar Meltings), Newsprint Consumed, Tobacco Products, Automobiles, Gasoline, Boots And Shoes, Carpets And Rugs. Prior To May 1924, Tobacco Index Is Based On Cigars And Tobacco And Snuff Produced; Beginning May 1924, The Index Includes Also Small Cigarettes And Gasoline Produced. Source: Harvard Economic Service, Weekly Letter.\n\nThis NBER data series m01051 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01051"
 }

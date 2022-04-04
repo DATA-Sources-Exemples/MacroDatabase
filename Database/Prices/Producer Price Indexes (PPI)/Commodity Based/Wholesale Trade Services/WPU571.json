@@ -1,7 +1,7 @@
 {
   "id": "WPU571",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Wholesale Trade Services: Machinery and Equipment and Parts and Supplies Wholesaling",
   "observation_start": "2009-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:53:52-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 6,
+  "group_popularity": 7
 }

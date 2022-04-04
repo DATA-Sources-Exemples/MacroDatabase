@@ -1,7 +1,7 @@
 {
   "id": "FYFSDFYGDP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Federal Surplus or Deficit [-] as Percent of Gross Domestic Product",
   "observation_start": "1930-06-30",
   "observation_end": "2020-09-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-10-25 09:38:05-05",
-  "popularity": 18,
-  "group_popularity": 67
+  "popularity": 17,
+  "group_popularity": 66
 }

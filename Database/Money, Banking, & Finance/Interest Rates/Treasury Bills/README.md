@@ -1,9 +1,9 @@
 | id     | title                                       | observation_start   | observation_end   |
 |--------|---------------------------------------------|---------------------|-------------------|
-| DTB1YR | 1-Year Treasury Bill Secondary Market Rate  | 1959-07-15          | 2022-03-21        |
-| DTB3   | 3-Month Treasury Bill Secondary Market Rate | 1954-01-04          | 2022-03-21        |
-| DTB4WK | 4-Week Treasury Bill Secondary Market Rate  | 2001-07-31          | 2022-03-21        |
-| DTB6   | 6-Month Treasury Bill Secondary Market Rate | 1958-12-09          | 2022-03-21        |
+| DTB1YR | 1-Year Treasury Bill Secondary Market Rate  | 1959-07-15          | 2022-03-24        |
+| DTB3   | 3-Month Treasury Bill Secondary Market Rate | 1954-01-04          | 2022-03-24        |
+| DTB4WK | 4-Week Treasury Bill Secondary Market Rate  | 2001-07-31          | 2022-03-24        |
+| DTB6   | 6-Month Treasury Bill Secondary Market Rate | 1958-12-09          | 2022-03-24        |
 | TB1YR  | 1-Year Treasury Bill Secondary Market Rate  | 1959-07-01          | 2022-02-01        |
 | TB3MS  | 3-Month Treasury Bill Secondary Market Rate | 1934-01-01          | 2022-02-01        |
 | TB4WK  | 4-Week Treasury Bill Secondary Market Rate  | 2001-07-01          | 2022-02-01        |

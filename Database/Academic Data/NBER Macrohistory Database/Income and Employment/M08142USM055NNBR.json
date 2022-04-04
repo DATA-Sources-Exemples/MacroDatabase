@@ -1,7 +1,7 @@
 {
   "id": "M08142USM055NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Hourly Earnings, Twenty-Five Manufacturing Industries for United States",
   "observation_start": "1920-01-01",
   "observation_end": "1948-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:18:10-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "January, 1920 To May, 1920 And January, 1922 To June, 1922 Were Estimated By NBER From Creamer'S Wage Rate Index. See NBER Occasional Paper No. 34, \"Behavior Of Wage Rates\" (Table A). Source: For 1920-1933, National Industrial Conference Board Study No. 229, \"Wages, Hours, And Employment In The United States: 1914-1936\"; For 1934-1939, The Conference Economic Record, March, 1940 (Volume Ii, No. 10); For 1940, The Conference Board Economic Record; For 1941-1948, The 1942 And Following Years' Conference Board Management Record.\n\nThis NBER data series m08142 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08142"
 }

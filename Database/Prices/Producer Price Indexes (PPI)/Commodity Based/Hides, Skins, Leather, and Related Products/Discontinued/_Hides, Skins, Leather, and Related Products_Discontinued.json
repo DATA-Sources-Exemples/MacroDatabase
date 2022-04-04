@@ -1,8 +1,8 @@
 {
   "WPS04": {
     "id": "WPS04",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1974-12-01",
@@ -18,8 +18,8 @@
   },
   "WPS0445": {
     "id": "WPS0445",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified (DISCONTINUED)",
     "observation_start": "1996-01-01",
     "observation_end": "1998-12-01",
@@ -35,8 +35,8 @@
   },
   "WPS044501": {
     "id": "WPS044501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Leather and Leather-Like Goods, Not Elsewhere Classified (DISCONTINUED)",
     "observation_start": "1996-01-01",
     "observation_end": "1998-12-01",

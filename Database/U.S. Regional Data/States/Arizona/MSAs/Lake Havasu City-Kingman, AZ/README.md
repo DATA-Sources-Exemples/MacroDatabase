@@ -83,65 +83,65 @@
 | RPPGOOD29420              | Regional Price Parities: Goods for Lake Havasu City-Kingman, AZ (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH29420          | Regional Price Parities: Services: Other for Lake Havasu City-Kingman, AZ (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT29420         | Regional Price Parities: Services: Rents for Lake Havasu City-Kingman, AZ (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS04294200000000001      | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMS04294200000000026      | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-04-01          | 2022-01-01        |
-| SMU04294200000000001      | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMS04294200000000001      | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMS04294200000000026      | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-04-01          | 2022-02-01        |
+| SMU04294200000000001      | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU04294200000000001A     | All Employees: Total Nonfarm in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04294200500000001      | All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU04294200500000001      | All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU04294200500000001A     | All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04294200500000001SA    | All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU04294200500000002      | Average Weekly Hours of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU04294200500000001SA    | All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU04294200500000002      | Average Weekly Hours of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU04294200500000002A     | Average Weekly Hours of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU04294200500000002SA    | Average Weekly Hours of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU04294200500000003      | Average Hourly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU04294200500000002SA    | Average Weekly Hours of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU04294200500000003      | Average Hourly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU04294200500000003A     | Average Hourly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04294200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU04294200500000011      | Average Weekly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU04294200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU04294200500000011      | Average Weekly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU04294200500000011A     | Average Weekly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU04294200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU04294200600000001      | All Employees: Goods Producing in Lake Havasu City-Kingman, AZ (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU04294200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lake Havasu City-Kingman, AZ (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU04294200600000001      | All Employees: Goods Producing in Lake Havasu City-Kingman, AZ (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU04294200600000001A     | All Employees: Goods Producing in Lake Havasu City-Kingman, AZ (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU04294200600000001SA    | All Employees: Goods Producing in Lake Havasu City-Kingman, AZ (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU04294200700000001      | All Employees: Service-Providing in Lake Havasu City-Kingman, AZ (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU04294200600000001SA    | All Employees: Goods Producing in Lake Havasu City-Kingman, AZ (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU04294200700000001      | All Employees: Service-Providing in Lake Havasu City-Kingman, AZ (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU04294200700000001A     | All Employees: Service-Providing in Lake Havasu City-Kingman, AZ (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU04294200700000001SA    | All Employees: Service-Providing in Lake Havasu City-Kingman, AZ (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU04294200800000001      | All Employees: Private Service Providing in Lake Havasu City-Kingman, AZ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU04294200700000001SA    | All Employees: Service-Providing in Lake Havasu City-Kingman, AZ (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU04294200800000001      | All Employees: Private Service Providing in Lake Havasu City-Kingman, AZ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU04294200800000001A     | All Employees: Private Service Providing in Lake Havasu City-Kingman, AZ (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU04294200800000001SA    | All Employees: Private Service Providing in Lake Havasu City-Kingman, AZ (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU04294201500000001      | All Employees: Mining, Logging, and Construction in Lake Havasu City-Kingman, AZ (MSA)                          | 1990-01-01          | 2022-01-01        |
+| SMU04294200800000001SA    | All Employees: Private Service Providing in Lake Havasu City-Kingman, AZ (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU04294201500000001      | All Employees: Mining, Logging, and Construction in Lake Havasu City-Kingman, AZ (MSA)                          | 1990-01-01          | 2022-02-01        |
 | SMU04294201500000001A     | All Employees: Mining, Logging, and Construction in Lake Havasu City-Kingman, AZ (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU04294201500000001SA    | All Employees: Mining, Logging, and Construction in Lake Havasu City-Kingman, AZ (MSA)                          | 1990-01-01          | 2022-01-01        |
-| SMU04294203000000001      | All Employees: Manufacturing in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU04294201500000001SA    | All Employees: Mining, Logging, and Construction in Lake Havasu City-Kingman, AZ (MSA)                          | 1990-01-01          | 2022-02-01        |
+| SMU04294203000000001      | All Employees: Manufacturing in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU04294203000000001A     | All Employees: Manufacturing in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU04294203000000001SA    | All Employees: Manufacturing in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU04294204000000001      | All Employees: Trade, Transportation, and Utilities in Lake Havasu City-Kingman, AZ (MSA)                       | 1990-01-01          | 2022-01-01        |
+| SMU04294203000000001SA    | All Employees: Manufacturing in Lake Havasu City-Kingman, AZ (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU04294204000000001      | All Employees: Trade, Transportation, and Utilities in Lake Havasu City-Kingman, AZ (MSA)                       | 1990-01-01          | 2022-02-01        |
 | SMU04294204000000001A     | All Employees: Trade, Transportation, and Utilities in Lake Havasu City-Kingman, AZ (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU04294204000000001SA    | All Employees: Trade, Transportation, and Utilities in Lake Havasu City-Kingman, AZ (MSA)                       | 1990-01-01          | 2022-01-01        |
-| SMU04294205000000001      | All Employees: Information in Lake Havasu City-Kingman, AZ (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU04294204000000001SA    | All Employees: Trade, Transportation, and Utilities in Lake Havasu City-Kingman, AZ (MSA)                       | 1990-01-01          | 2022-02-01        |
+| SMU04294205000000001      | All Employees: Information in Lake Havasu City-Kingman, AZ (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU04294205000000001A     | All Employees: Information in Lake Havasu City-Kingman, AZ (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU04294205000000001SA    | All Employees: Information in Lake Havasu City-Kingman, AZ (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU04294205500000001      | All Employees: Financial Activities in Lake Havasu City-Kingman, AZ (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU04294205000000001SA    | All Employees: Information in Lake Havasu City-Kingman, AZ (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU04294205500000001      | All Employees: Financial Activities in Lake Havasu City-Kingman, AZ (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU04294205500000001A     | All Employees: Financial Activities in Lake Havasu City-Kingman, AZ (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU04294205500000001SA    | All Employees: Financial Activities in Lake Havasu City-Kingman, AZ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SMU04294206000000001      | All Employees: Professional and Business Services in Lake Havasu City-Kingman, AZ (MSA)                         | 1990-01-01          | 2022-01-01        |
+| SMU04294205500000001SA    | All Employees: Financial Activities in Lake Havasu City-Kingman, AZ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SMU04294206000000001      | All Employees: Professional and Business Services in Lake Havasu City-Kingman, AZ (MSA)                         | 1990-01-01          | 2022-02-01        |
 | SMU04294206000000001A     | All Employees: Professional and Business Services in Lake Havasu City-Kingman, AZ (MSA)                         | 1990-01-01          | 2021-01-01        |
-| SMU04294206000000001SA    | All Employees: Professional and Business Services in Lake Havasu City-Kingman, AZ (MSA)                         | 1990-01-01          | 2022-01-01        |
-| SMU04294206500000001      | All Employees: Education and Health Services in Lake Havasu City-Kingman, AZ (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU04294206000000001SA    | All Employees: Professional and Business Services in Lake Havasu City-Kingman, AZ (MSA)                         | 1990-01-01          | 2022-02-01        |
+| SMU04294206500000001      | All Employees: Education and Health Services in Lake Havasu City-Kingman, AZ (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU04294206500000001A     | All Employees: Education and Health Services in Lake Havasu City-Kingman, AZ (MSA)                              | 1990-01-01          | 2021-01-01        |
-| SMU04294206500000001SA    | All Employees: Education and Health Services in Lake Havasu City-Kingman, AZ (MSA)                              | 1990-01-01          | 2022-01-01        |
-| SMU04294207000000001      | All Employees: Leisure and Hospitality in Lake Havasu City-Kingman, AZ (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SMU04294206500000001SA    | All Employees: Education and Health Services in Lake Havasu City-Kingman, AZ (MSA)                              | 1990-01-01          | 2022-02-01        |
+| SMU04294207000000001      | All Employees: Leisure and Hospitality in Lake Havasu City-Kingman, AZ (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | SMU04294207000000001A     | All Employees: Leisure and Hospitality in Lake Havasu City-Kingman, AZ (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU04294207000000001SA    | All Employees: Leisure and Hospitality in Lake Havasu City-Kingman, AZ (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| SMU04294208000000001      | All Employees: Other Services in Lake Havasu City-Kingman, AZ (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU04294207000000001SA    | All Employees: Leisure and Hospitality in Lake Havasu City-Kingman, AZ (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| SMU04294208000000001      | All Employees: Other Services in Lake Havasu City-Kingman, AZ (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU04294208000000001A     | All Employees: Other Services in Lake Havasu City-Kingman, AZ (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU04294208000000001SA    | All Employees: Other Services in Lake Havasu City-Kingman, AZ (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU04294209000000001      | All Employees: Government in Lake Havasu City-Kingman, AZ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU04294208000000001SA    | All Employees: Other Services in Lake Havasu City-Kingman, AZ (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU04294209000000001      | All Employees: Government in Lake Havasu City-Kingman, AZ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | SMU04294209000000001A     | All Employees: Government in Lake Havasu City-Kingman, AZ (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU04294209000000001SA    | All Employees: Government in Lake Havasu City-Kingman, AZ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SMU04294209091000001      | All Employees: Government: Federal Government in Lake Havasu City-Kingman, AZ (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU04294209000000001SA    | All Employees: Government in Lake Havasu City-Kingman, AZ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SMU04294209091000001      | All Employees: Government: Federal Government in Lake Havasu City-Kingman, AZ (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU04294209091000001A     | All Employees: Federal Government in Lake Havasu City-Kingman, AZ (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU04294209091000001SA    | All Employees: Government: Federal Government in Lake Havasu City-Kingman, AZ (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU04294209094000001      | All Employees: Government: Total State and Local Government in Lake Havasu City-Kingman, AZ (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU04294209091000001SA    | All Employees: Government: Federal Government in Lake Havasu City-Kingman, AZ (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU04294209094000001      | All Employees: Government: Total State and Local Government in Lake Havasu City-Kingman, AZ (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU04294209094000001A     | All Employees: Total State and Local Government in Lake Havasu City-Kingman, AZ (MSA)                           | 1990-01-01          | 2021-01-01        |
-| SMU04294209094000001SA    | All Employees: Government: Total State and Local Government in Lake Havasu City-Kingman, AZ (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU04294209094000001SA    | All Employees: Government: Total State and Local Government in Lake Havasu City-Kingman, AZ (MSA)               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA29420              | Market Hotness: Supply Score in Lake Havasu City-Kingman, AZ (CBSA)                                             | 2017-08-01          | 2022-01-01        |

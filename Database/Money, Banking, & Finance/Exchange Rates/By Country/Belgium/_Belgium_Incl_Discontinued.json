@@ -1,8 +1,8 @@
 {
   "EXBEUS": {
     "id": "EXBEUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Belgium / U.S. Foreign Exchange Rate (DISCONTINUED)",
     "observation_start": "1971-01-01",
     "observation_end": "2001-12-01",

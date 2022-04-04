@@ -1,17 +1,17 @@
 {
   "id": "SMU26476643100000030",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Warren-Troy-Farmington Hills, MI (MD)",
   "observation_start": "2005-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Dollars per Week",
   "units_short": "$ per Week",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-15 03:42:54-05",
+  "last_updated": "2022-03-26 03:42:21-05",
   "popularity": 1,
   "group_popularity": 1
 }

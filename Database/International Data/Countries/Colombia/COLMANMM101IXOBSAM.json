@@ -1,7 +1,7 @@
 {
   "id": "COLMANMM101IXOBSAM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Monetary aggregates and their components: Narrow money and components: M1 and components: M1 for Colombia",
   "observation_start": "1982-02-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 11:28:30-06",
   "popularity": 1,
-  "group_popularity": 8,
+  "group_popularity": 13,
   "notes": "OECD descriptor ID: MANMM101 OECD unit ID: IXOBSA OECD country ID: COL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

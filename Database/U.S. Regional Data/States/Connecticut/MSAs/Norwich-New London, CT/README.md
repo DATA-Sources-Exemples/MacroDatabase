@@ -55,7 +55,7 @@
 | NEWLISCOUYY35980          | Housing Inventory: New Listing Count Year-Over-Year in Norwich-New London, CT (CBSA)                      | 2017-07-01          | 2022-01-01        |
 | NGMP35980                 | Total Gross Domestic Product for Norwich-New London, CT (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA35980            | Market Hotness: Nielsen Household Rank in Norwich-New London, CT (CBSA)                                   | 2017-08-01          | 2022-01-01        |
-| NLOPOP                    | Resident Population in Norwich-New London, CT (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| NLOPOP                    | Resident Population in Norwich-New London, CT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA135980          | U.S. Granted Utility Patents Originating in Norwich-New London, CT (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU35980            | Housing Inventory: Pending Listing Count in Norwich-New London, CT (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM35980          | Housing Inventory: Pending Listing Count Month-Over-Month in Norwich-New London, CT (CBSA)                | 2017-07-01          | 2022-01-01        |

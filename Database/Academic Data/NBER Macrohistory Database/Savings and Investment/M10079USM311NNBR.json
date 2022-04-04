@@ -1,7 +1,7 @@
 {
   "id": "M10079USM311NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Net Credit Change, Bonds, Par Value, All Industries for United States",
   "observation_start": "1900-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:16:36-05",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 2,
   "notes": "Source: The Volume Of Corporate Financing Since 1900 (NBER), W. Braddock Hickman, 1953, Pp. 316-317\n\nThis NBER data series m10079 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10079"
 }

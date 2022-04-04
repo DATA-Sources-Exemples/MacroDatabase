@@ -1,7 +1,7 @@
 {
   "id": "CEU5553100001",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees, Real Estate",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-04 07:48:58-06",
   "popularity": 1,
-  "group_popularity": 9,
+  "group_popularity": 7,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU5553100001"
 }

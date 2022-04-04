@@ -1,7 +1,7 @@
 {
   "id": "SUBLPDHMSJNQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Net Percentage of Domestic Banks Tightening Standards for Qualified Mortgage Jumbo Mortgage Loans",
   "observation_start": "2015-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-31 13:18:15-06",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
 }

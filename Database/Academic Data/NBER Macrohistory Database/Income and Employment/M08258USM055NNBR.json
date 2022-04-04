@@ -1,7 +1,7 @@
 {
   "id": "M08258USM055NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Construction Wage Rates, Skilled Labor for United States",
   "observation_start": "1922-01-01",
   "observation_end": "1950-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:30:21-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Wage Rates Are The Average Of Rates Per Hour In 20 Cities For Bricklayers, Carpenters, And Ironworkers On The First Day Of The Month. Source: Engineering News Record, For 1922-1923 Data: Construction Costs, 1937; For 1924-1925: June 30, 1938 Issue; For 1926-1950: Issues Of May 27, 1948 And March 23, 1950 Of Engineering News Record; And Survey Of Current Business.\n\nThis NBER data series m08258 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08258"
 }

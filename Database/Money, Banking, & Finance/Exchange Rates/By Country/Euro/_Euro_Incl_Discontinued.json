@@ -1,8 +1,8 @@
 {
   "AEXUSEU": {
     "id": "AEXUSEU",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Dollars to Euro Spot Exchange Rate",
     "observation_start": "1999-01-01",
     "observation_end": "2021-01-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-03 15:36:01-06",
-    "popularity": 32,
+    "popularity": 30,
     "group_popularity": 73,
     "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies."
   },
   "DEXUSEU": {
     "id": "DEXUSEU",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Dollars to Euro Spot Exchange Rate",
     "observation_start": "1999-01-04",
     "observation_end": "2022-03-18",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-21 15:20:03-05",
-    "popularity": 72,
+    "popularity": 71,
     "group_popularity": 73,
     "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
   },
   "EXUSEC": {
     "id": "EXUSEC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Foreign Exchange Rate: Euro Community (DISCONTINUED)",
     "observation_start": "1978-12-01",
     "observation_end": "1998-12-01",
@@ -55,8 +55,8 @@
   },
   "EXUSEU": {
     "id": "EXUSEU",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Dollars to Euro Spot Exchange Rate",
     "observation_start": "1999-01-01",
     "observation_end": "2022-02-01",
@@ -67,7 +67,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-07 15:19:02-06",
-    "popularity": 54,
+    "popularity": 55,
     "group_popularity": 73,
     "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.\n\nThis data series is updated from the source files in the Data Download Program (http://www.federalreserve.gov/datadownload/Choose.aspx?rel=h10). The files are updated on a weekly basis every Monday. If Monday is a holiday, the data files are updated the next business day.\n\nMonthly values are averages of the daily data available. Preliminary value for the current month is provided by the source even if not all daily values are available for the entire month.\n\nPlease note that the values reported on the press release may not correspond to the values in the Data Download Program when the press release is published on a day other than Monday. This inconsistency is resolved on the next available weekly release date."
   }

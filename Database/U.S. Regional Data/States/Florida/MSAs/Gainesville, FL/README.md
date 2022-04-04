@@ -20,31 +20,31 @@
 | ENUC235440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2021-07-01        |
 | ENUC235440510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC235440510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2021-07-01        |
-| GAIN512EDUH               | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| GAIN512EDUHN              | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| GAIN512FIRE               | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| GAIN512FIREN              | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| GAIN512GOVT               | All Employees: Government in Gainesville, FL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| GAIN512GOVTN              | All Employees: Government in Gainesville, FL (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| GAIN512INFO               | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| GAIN512INFON              | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| GAIN512LEIH               | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| GAIN512LEIHN              | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| GAIN512EDUH               | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| GAIN512EDUHN              | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| GAIN512FIRE               | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| GAIN512FIREN              | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| GAIN512GOVT               | All Employees: Government in Gainesville, FL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| GAIN512GOVTN              | All Employees: Government in Gainesville, FL (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| GAIN512INFO               | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| GAIN512INFON              | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| GAIN512LEIH               | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| GAIN512LEIHN              | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | GAIN512LF                 | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | GAIN512LFN                | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| GAIN512MFG                | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GAIN512MFGN               | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GAIN512NA                 | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GAIN512NAN                | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| GAIN512NRMN               | All Employees: Mining, Logging, and Construction in Gainesville, FL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| GAIN512NRMNN              | All Employees: Mining, Logging, and Construction in Gainesville, FL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| GAIN512PBSV               | All Employees: Professional and Business Services in Gainesville, FL (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| GAIN512PBSVN              | All Employees: Professional and Business Services in Gainesville, FL (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| GAIN512MFG                | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GAIN512MFGN               | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GAIN512NA                 | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GAIN512NAN                | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| GAIN512NRMN               | All Employees: Mining, Logging, and Construction in Gainesville, FL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| GAIN512NRMNN              | All Employees: Mining, Logging, and Construction in Gainesville, FL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| GAIN512PBSV               | All Employees: Professional and Business Services in Gainesville, FL (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| GAIN512PBSVN              | All Employees: Professional and Business Services in Gainesville, FL (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | GAIN512PCPI               | Per Capita Personal Income in Gainesville, FL (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| GAIN512SRVO               | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| GAIN512SRVON              | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| GAIN512TRAD               | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| GAIN512TRADN              | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| GAIN512SRVO               | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| GAIN512SRVON              | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| GAIN512TRAD               | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| GAIN512TRADN              | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | GAIN512UR                 | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | GAIN512URN                | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | GVLPOP                    | Resident Population in Gainesville, FL (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -114,41 +114,41 @@
 | RPPSERVEOTH23580          | Regional Price Parities: Services: Other for Gainesville, GA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT23540         | Regional Price Parities: Services: Rents for Gainesville, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT23580         | Regional Price Parities: Services: Rents for Gainesville, GA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS12235400000000026      | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS12235400000000026      | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU12235400000000001A     | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU12235400500000001      | All Employees: Total Private in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU12235400500000001      | All Employees: Total Private in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU12235400500000001A     | All Employees: Total Private in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU12235400500000001SA    | All Employees: Total Private in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU12235400500000002      | Average Weekly Hours of All Employees: Total Private in Gainesville, FL (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU12235400500000001SA    | All Employees: Total Private in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU12235400500000002      | Average Weekly Hours of All Employees: Total Private in Gainesville, FL (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU12235400500000002A     | Average Weekly Hours of All Employees: Total Private in Gainesville, FL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU12235400500000002SA    | Average Weekly Hours of All Employees: Total Private in Gainesville, FL (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU12235400500000003      | Average Hourly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU12235400500000002SA    | Average Weekly Hours of All Employees: Total Private in Gainesville, FL (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU12235400500000003      | Average Hourly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU12235400500000003A     | Average Hourly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12235400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU12235400500000011      | Average Weekly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU12235400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU12235400500000011      | Average Weekly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU12235400500000011A     | Average Weekly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12235400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU12235400600000001      | All Employees: Goods Producing in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU12235400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Gainesville, FL (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU12235400600000001      | All Employees: Goods Producing in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU12235400600000001A     | All Employees: Goods Producing in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU12235400600000001SA    | All Employees: Goods Producing in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU12235400700000001      | All Employees: Service-Providing in Gainesville, FL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU12235400600000001SA    | All Employees: Goods Producing in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU12235400700000001      | All Employees: Service-Providing in Gainesville, FL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU12235400700000001A     | All Employees: Service-Providing in Gainesville, FL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU12235400700000001SA    | All Employees: Service-Providing in Gainesville, FL (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU12235400800000001      | All Employees: Private Service Providing in Gainesville, FL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU12235400700000001SA    | All Employees: Service-Providing in Gainesville, FL (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU12235400800000001      | All Employees: Private Service Providing in Gainesville, FL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU12235400800000001A     | All Employees: Private Service Providing in Gainesville, FL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU12235400800000001SA    | All Employees: Private Service Providing in Gainesville, FL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU12235400800000001SA    | All Employees: Private Service Providing in Gainesville, FL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU12235401500000001A     | All Employees: Mining, Logging, and Construction in Gainesville, FL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU12235403000000001A     | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU12235404000000001A     | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU12235404100000001      | All Employees: Wholesale Trade in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU12235404100000001      | All Employees: Wholesale Trade in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU12235404100000001A     | All Employees: Wholesale Trade in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU12235404100000001SA    | All Employees: Wholesale Trade in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU12235404200000001      | All Employees: Retail Trade in Gainesville, FL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU12235404100000001SA    | All Employees: Wholesale Trade in Gainesville, FL (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU12235404200000001      | All Employees: Retail Trade in Gainesville, FL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU12235404200000001A     | All Employees: Retail Trade in Gainesville, FL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU12235404200000001SA    | All Employees: Retail Trade in Gainesville, FL (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU12235404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Gainesville, FL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU12235404200000001SA    | All Employees: Retail Trade in Gainesville, FL (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU12235404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Gainesville, FL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU12235404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Gainesville, FL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU12235404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Gainesville, FL (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU12235404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Gainesville, FL (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU12235405000000001A     | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU12235405500000001A     | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU12235406000000001A     | All Employees: Professional and Business Services in Gainesville, FL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -156,13 +156,13 @@
 | SMU12235407000000001A     | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU12235408000000001A     | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU12235409000000001A     | All Employees: Government in Gainesville, FL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU12235409091000001      | All Employees: Government: Federal Government in Gainesville, FL (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU12235409091000001      | All Employees: Government: Federal Government in Gainesville, FL (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU12235409091000001A     | All Employees: Federal Government in Gainesville, FL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU12235409091000001SA    | All Employees: Government: Federal Government in Gainesville, FL (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU12235409092000001      | All Employees: Government: State Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU12235409091000001SA    | All Employees: Government: Federal Government in Gainesville, FL (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU12235409092000001      | All Employees: Government: State Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU12235409092000001A     | All Employees: State Government in Gainesville, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU12235409092000001SA    | All Employees: Government: State Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU12235409093000001      | All Employees: Government: Local Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU12235409092000001SA    | All Employees: Government: State Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU12235409093000001      | All Employees: Government: Local Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU12235409093000001A     | All Employees: Local Government in Gainesville, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU12235409093000001SA    | All Employees: Government: Local Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU12235409093000001SA    | All Employees: Government: Local Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA23540              | Market Hotness: Supply Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

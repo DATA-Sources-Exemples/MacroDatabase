@@ -1,8 +1,8 @@
 {
   "KOKO018EDUHN": {
     "id": "KOKO018EDUHN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Education and Health Services in Kokomo, IN (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -19,8 +19,8 @@
   },
   "KOKO018PBSVN": {
     "id": "KOKO018PBSVN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Professional and Business Services in Kokomo, IN (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -37,8 +37,8 @@
   },
   "PCRGMP29020": {
     "id": "PCRGMP29020",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Per Capita Real Gross Domestic Product for Kokomo, IN (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",

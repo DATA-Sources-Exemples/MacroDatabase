@@ -1,8 +1,8 @@
 {
   "CES5552500001": {
     "id": "CES5552500001",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",
@@ -19,8 +19,8 @@
   },
   "CEU5552500001": {
     "id": "CEU5552500001",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",

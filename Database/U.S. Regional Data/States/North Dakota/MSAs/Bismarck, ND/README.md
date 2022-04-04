@@ -7,31 +7,31 @@
 | AVELISPRI13900            | Housing Inventory: Average Listing Price in Bismarck, ND (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM13900          | Housing Inventory: Average Listing Price Month-Over-Month in Bismarck, ND (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY13900          | Housing Inventory: Average Listing Price Year-Over-Year in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| BISM938EDUH               | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BISM938EDUHN              | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BISM938FIRE               | All Employees: Financial Activities in Bismarck, ND (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BISM938FIREN              | All Employees: Financial Activities in Bismarck, ND (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BISM938GOVT               | All Employees: Government in Bismarck, ND (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BISM938GOVTN              | All Employees: Government in Bismarck, ND (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BISM938INFO               | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BISM938INFON              | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BISM938LEIH               | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| BISM938LEIHN              | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| BISM938EDUH               | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BISM938EDUHN              | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BISM938FIRE               | All Employees: Financial Activities in Bismarck, ND (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BISM938FIREN              | All Employees: Financial Activities in Bismarck, ND (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BISM938GOVT               | All Employees: Government in Bismarck, ND (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BISM938GOVTN              | All Employees: Government in Bismarck, ND (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BISM938INFO               | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BISM938INFON              | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BISM938LEIH               | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| BISM938LEIHN              | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | BISM938LF                 | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | BISM938LFN                | Civilian Labor Force in Bismarck, ND (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| BISM938MFG                | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BISM938MFGN               | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BISM938NA                 | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BISM938NAN                | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BISM938NRMN               | All Employees: Mining, Logging, and Construction in Bismarck, ND (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BISM938NRMNN              | All Employees: Mining, Logging, and Construction in Bismarck, ND (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BISM938PBSV               | All Employees: Professional and Business Services in Bismarck, ND (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BISM938PBSVN              | All Employees: Professional and Business Services in Bismarck, ND (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| BISM938MFG                | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BISM938MFGN               | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BISM938NA                 | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BISM938NAN                | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BISM938NRMN               | All Employees: Mining, Logging, and Construction in Bismarck, ND (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BISM938NRMNN              | All Employees: Mining, Logging, and Construction in Bismarck, ND (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BISM938PBSV               | All Employees: Professional and Business Services in Bismarck, ND (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BISM938PBSVN              | All Employees: Professional and Business Services in Bismarck, ND (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | BISM938PCPI               | Per Capita Personal Income in Bismarck, ND (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| BISM938SRVO               | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BISM938SRVON              | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BISM938TRAD               | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| BISM938TRADN              | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| BISM938SRVO               | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BISM938SRVON              | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BISM938TRAD               | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| BISM938TRADN              | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | BISM938UR                 | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BIZPOP                    | Resident Population in Bismarck, ND (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -107,64 +107,64 @@
 | RPPGOOD13900              | Regional Price Parities: Goods for Bismarck, ND (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH13900          | Regional Price Parities: Services: Other for Bismarck, ND (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT13900         | Regional Price Parities: Services: Rents for Bismarck, ND (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS38139000000000026      | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS38139000000000026      | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU38139000000000001A     | All Employees: Total Nonfarm in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU38139000500000001      | All Employees: Total Private in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU38139000500000001      | All Employees: Total Private in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU38139000500000001A     | All Employees: Total Private in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU38139000500000001SA    | All Employees: Total Private in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU38139000500000002      | Average Weekly Hours of All Employees: Total Private in Bismarck, ND (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU38139000500000001SA    | All Employees: Total Private in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU38139000500000002      | Average Weekly Hours of All Employees: Total Private in Bismarck, ND (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU38139000500000002A     | Average Weekly Hours of All Employees: Total Private in Bismarck, ND (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU38139000500000002SA    | Average Weekly Hours of All Employees: Total Private in Bismarck, ND (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU38139000500000003      | Average Hourly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU38139000500000002SA    | Average Weekly Hours of All Employees: Total Private in Bismarck, ND (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU38139000500000003      | Average Hourly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU38139000500000003A     | Average Hourly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU38139000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU38139000500000011      | Average Weekly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU38139000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU38139000500000011      | Average Weekly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU38139000500000011A     | Average Weekly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU38139000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU38139000600000001      | All Employees: Goods Producing in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU38139000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bismarck, ND (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU38139000600000001      | All Employees: Goods Producing in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU38139000600000001A     | All Employees: Goods Producing in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU38139000600000001SA    | All Employees: Goods Producing in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU38139000700000001      | All Employees: Service-Providing in Bismarck, ND (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU38139000600000001SA    | All Employees: Goods Producing in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU38139000700000001      | All Employees: Service-Providing in Bismarck, ND (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU38139000700000001A     | All Employees: Service-Providing in Bismarck, ND (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU38139000700000001SA    | All Employees: Service-Providing in Bismarck, ND (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU38139000800000001      | All Employees: Private Service Providing in Bismarck, ND (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU38139000700000001SA    | All Employees: Service-Providing in Bismarck, ND (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU38139000800000001      | All Employees: Private Service Providing in Bismarck, ND (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU38139000800000001A     | All Employees: Private Service Providing in Bismarck, ND (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU38139000800000001SA    | All Employees: Private Service Providing in Bismarck, ND (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU38139000800000001SA    | All Employees: Private Service Providing in Bismarck, ND (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU38139001500000001A     | All Employees: Mining, Logging, and Construction in Bismarck, ND (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU38139003000000001A     | All Employees: Manufacturing in Bismarck, ND (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU38139004000000001A     | All Employees: Trade, Transportation, and Utilities in Bismarck, ND (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU38139004100000001      | All Employees: Wholesale Trade in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU38139004100000001      | All Employees: Wholesale Trade in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU38139004100000001A     | All Employees: Wholesale Trade in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU38139004100000001SA    | All Employees: Wholesale Trade in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU38139004200000001      | All Employees: Retail Trade in Bismarck, ND (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU38139004100000001SA    | All Employees: Wholesale Trade in Bismarck, ND (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU38139004200000001      | All Employees: Retail Trade in Bismarck, ND (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU38139004200000001A     | All Employees: Retail Trade in Bismarck, ND (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU38139004200000001SA    | All Employees: Retail Trade in Bismarck, ND (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU38139004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bismarck, ND (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU38139004200000001SA    | All Employees: Retail Trade in Bismarck, ND (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU38139004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bismarck, ND (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU38139004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bismarck, ND (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU38139004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bismarck, ND (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU38139004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Bismarck, ND (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU38139005000000001A     | All Employees: Information in Bismarck, ND (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU38139005500000001A     | All Employees: Financial Activities in Bismarck, ND (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU38139006000000001A     | All Employees: Professional and Business Services in Bismarck, ND (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU38139006500000001A     | All Employees: Education and Health Services in Bismarck, ND (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU38139006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Bismarck, ND (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU38139006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Bismarck, ND (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU38139006562000001A     | All Employees: Health Care and Social Assistance in Bismarck, ND (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU38139006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Bismarck, ND (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU38139006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Bismarck, ND (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU38139007000000001A     | All Employees: Leisure and Hospitality in Bismarck, ND (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU38139007072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-01-01        |
+| SMU38139007072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-02-01        |
 | SMU38139007072000001A     | All Employees: Accommodation and Food Services in Bismarck, ND (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU38139007072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-01-01        |
-| SMU38139007072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Bismarck, ND (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU38139007072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-02-01        |
+| SMU38139007072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Bismarck, ND (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU38139007072200001A     | All Employees: Food Services and Drinking Places in Bismarck, ND (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU38139007072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Bismarck, ND (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU38139007072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Bismarck, ND (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU38139008000000001A     | All Employees: Other Services in Bismarck, ND (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU38139009000000001A     | All Employees: Government in Bismarck, ND (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU38139009091000001      | All Employees: Government: Federal Government in Bismarck, ND (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU38139009091000001      | All Employees: Government: Federal Government in Bismarck, ND (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU38139009091000001A     | All Employees: Federal Government in Bismarck, ND (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU38139009091000001SA    | All Employees: Government: Federal Government in Bismarck, ND (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU38139009092000001      | All Employees: Government: State Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU38139009091000001SA    | All Employees: Government: Federal Government in Bismarck, ND (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU38139009092000001      | All Employees: Government: State Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU38139009092000001A     | All Employees: State Government in Bismarck, ND (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU38139009092000001SA    | All Employees: Government: State Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU38139009093000001      | All Employees: Government: Local Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU38139009092000001SA    | All Employees: Government: State Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU38139009093000001      | All Employees: Government: Local Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU38139009093000001A     | All Employees: Local Government in Bismarck, ND (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU38139009093000001SA    | All Employees: Government: Local Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU38139009093000001SA    | All Employees: Government: Local Government in Bismarck, ND (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA13900              | Market Hotness: Supply Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

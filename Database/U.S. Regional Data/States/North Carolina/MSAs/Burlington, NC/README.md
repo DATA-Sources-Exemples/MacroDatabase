@@ -7,31 +7,31 @@
 | AVELISPRI15500            | Housing Inventory: Average Listing Price in Burlington, NC (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM15500          | Housing Inventory: Average Listing Price Month-Over-Month in Burlington, NC (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY15500          | Housing Inventory: Average Listing Price Year-Over-Year in Burlington, NC (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| BURL537EDUH               | All Employees: Education and Health Services in Burlington, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BURL537EDUHN              | All Employees: Education and Health Services in Burlington, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| BURL537FIRE               | All Employees: Financial Activities in Burlington, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BURL537FIREN              | All Employees: Financial Activities in Burlington, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| BURL537GOVT               | All Employees: Government in Burlington, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BURL537GOVTN              | All Employees: Government in Burlington, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| BURL537INFO               | All Employees: Information in Burlington, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BURL537INFON              | All Employees: Information in Burlington, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| BURL537LEIH               | All Employees: Leisure and Hospitality in Burlington, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| BURL537LEIHN              | All Employees: Leisure and Hospitality in Burlington, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| BURL537EDUH               | All Employees: Education and Health Services in Burlington, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BURL537EDUHN              | All Employees: Education and Health Services in Burlington, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| BURL537FIRE               | All Employees: Financial Activities in Burlington, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BURL537FIREN              | All Employees: Financial Activities in Burlington, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| BURL537GOVT               | All Employees: Government in Burlington, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BURL537GOVTN              | All Employees: Government in Burlington, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| BURL537INFO               | All Employees: Information in Burlington, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BURL537INFON              | All Employees: Information in Burlington, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| BURL537LEIH               | All Employees: Leisure and Hospitality in Burlington, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| BURL537LEIHN              | All Employees: Leisure and Hospitality in Burlington, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | BURL537LF                 | Civilian Labor Force in Burlington, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | BURL537LFN                | Civilian Labor Force in Burlington, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| BURL537MFG                | All Employees: Manufacturing in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BURL537MFGN               | All Employees: Manufacturing in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BURL537NA                 | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BURL537NAN                | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| BURL537NRMN               | All Employees: Mining, Logging, and Construction in Burlington, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BURL537NRMNN              | All Employees: Mining, Logging, and Construction in Burlington, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| BURL537PBSV               | All Employees: Professional and Business Services in Burlington, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BURL537PBSVN              | All Employees: Professional and Business Services in Burlington, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| BURL537MFG                | All Employees: Manufacturing in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BURL537MFGN               | All Employees: Manufacturing in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BURL537NA                 | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BURL537NAN                | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| BURL537NRMN               | All Employees: Mining, Logging, and Construction in Burlington, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BURL537NRMNN              | All Employees: Mining, Logging, and Construction in Burlington, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| BURL537PBSV               | All Employees: Professional and Business Services in Burlington, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BURL537PBSVN              | All Employees: Professional and Business Services in Burlington, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | BURL537PCPI               | Per Capita Personal Income in Burlington, NC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| BURL537SRVO               | All Employees: Other Services in Burlington, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BURL537SRVON              | All Employees: Other Services in Burlington, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| BURL537TRAD               | All Employees: Trade, Transportation, and Utilities in Burlington, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| BURL537TRADN              | All Employees: Trade, Transportation, and Utilities in Burlington, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| BURL537SRVO               | All Employees: Other Services in Burlington, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BURL537SRVON              | All Employees: Other Services in Burlington, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| BURL537TRAD               | All Employees: Trade, Transportation, and Utilities in Burlington, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| BURL537TRADN              | All Employees: Trade, Transportation, and Utilities in Burlington, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | BURL537UR                 | Unemployment Rate in Burlington, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BURL537URN                | Unemployment Rate in Burlington, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | BURPOP                    | Resident Population in Burlington, NC (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -107,41 +107,41 @@
 | RPPGOOD15500              | Regional Price Parities: Goods for Burlington, NC (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH15500          | Regional Price Parities: Services: Other for Burlington, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT15500         | Regional Price Parities: Services: Rents for Burlington, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS37155000000000026      | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS37155000000000026      | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU37155000000000001A     | All Employees: Total Nonfarm in Burlington, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37155000500000001      | All Employees: Total Private in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU37155000500000001      | All Employees: Total Private in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU37155000500000001A     | All Employees: Total Private in Burlington, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37155000500000001SA    | All Employees: Total Private in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU37155000500000002      | Average Weekly Hours of All Employees: Total Private in Burlington, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU37155000500000001SA    | All Employees: Total Private in Burlington, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU37155000500000002      | Average Weekly Hours of All Employees: Total Private in Burlington, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU37155000500000002A     | Average Weekly Hours of All Employees: Total Private in Burlington, NC (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU37155000500000002SA    | Average Weekly Hours of All Employees: Total Private in Burlington, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU37155000500000003      | Average Hourly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37155000500000002SA    | Average Weekly Hours of All Employees: Total Private in Burlington, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU37155000500000003      | Average Hourly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37155000500000003A     | Average Hourly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37155000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37155000500000011      | Average Weekly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37155000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37155000500000011      | Average Weekly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37155000500000011A     | Average Weekly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37155000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37155000600000001      | All Employees: Goods Producing in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37155000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Burlington, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37155000600000001      | All Employees: Goods Producing in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37155000600000001A     | All Employees: Goods Producing in Burlington, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37155000600000001SA    | All Employees: Goods Producing in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37155000700000001      | All Employees: Service-Providing in Burlington, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU37155000600000001SA    | All Employees: Goods Producing in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37155000700000001      | All Employees: Service-Providing in Burlington, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU37155000700000001A     | All Employees: Service-Providing in Burlington, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU37155000700000001SA    | All Employees: Service-Providing in Burlington, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU37155000800000001      | All Employees: Private Service Providing in Burlington, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37155000700000001SA    | All Employees: Service-Providing in Burlington, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU37155000800000001      | All Employees: Private Service Providing in Burlington, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37155000800000001A     | All Employees: Private Service Providing in Burlington, NC (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU37155000800000001SA    | All Employees: Private Service Providing in Burlington, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37155000800000001SA    | All Employees: Private Service Providing in Burlington, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37155001500000001A     | All Employees: Mining, Logging, and Construction in Burlington, NC (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU37155003000000001A     | All Employees: Manufacturing in Burlington, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU37155004000000001A     | All Employees: Trade, Transportation, and Utilities in Burlington, NC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU37155004100000001      | All Employees: Wholesale Trade in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37155004100000001      | All Employees: Wholesale Trade in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37155004100000001A     | All Employees: Wholesale Trade in Burlington, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37155004100000001SA    | All Employees: Wholesale Trade in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37155004200000001      | All Employees: Retail Trade in Burlington, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU37155004100000001SA    | All Employees: Wholesale Trade in Burlington, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37155004200000001      | All Employees: Retail Trade in Burlington, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU37155004200000001A     | All Employees: Retail Trade in Burlington, NC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU37155004200000001SA    | All Employees: Retail Trade in Burlington, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU37155004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Burlington, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37155004200000001SA    | All Employees: Retail Trade in Burlington, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU37155004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Burlington, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37155004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Burlington, NC (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU37155004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Burlington, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37155004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Burlington, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37155005000000001A     | All Employees: Information in Burlington, NC (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU37155005500000001A     | All Employees: Financial Activities in Burlington, NC (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU37155006000000001A     | All Employees: Professional and Business Services in Burlington, NC (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -149,13 +149,13 @@
 | SMU37155007000000001A     | All Employees: Leisure and Hospitality in Burlington, NC (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU37155008000000001A     | All Employees: Other Services in Burlington, NC (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU37155009000000001A     | All Employees: Government in Burlington, NC (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU37155009091000001      | All Employees: Government: Federal Government in Burlington, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU37155009091000001      | All Employees: Government: Federal Government in Burlington, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU37155009091000001A     | All Employees: Federal Government in Burlington, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU37155009091000001SA    | All Employees: Government: Federal Government in Burlington, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU37155009092000001      | All Employees: Government: State Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37155009091000001SA    | All Employees: Government: Federal Government in Burlington, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU37155009092000001      | All Employees: Government: State Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37155009092000001A     | All Employees: State Government in Burlington, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37155009092000001SA    | All Employees: Government: State Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU37155009093000001      | All Employees: Government: Local Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37155009092000001SA    | All Employees: Government: State Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU37155009093000001      | All Employees: Government: Local Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37155009093000001A     | All Employees: Local Government in Burlington, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37155009093000001SA    | All Employees: Government: Local Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37155009093000001SA    | All Employees: Government: Local Government in Burlington, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA15500              | Market Hotness: Supply Score in Burlington, NC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

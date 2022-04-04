@@ -1,7 +1,7 @@
 {
   "id": "QESR368BIS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Residential Property Prices for Spain",
   "observation_start": "1972-01-01",
   "observation_end": "2021-07-01",
@@ -11,8 +11,8 @@
   "units_short": "% per Annum",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-01-26 11:01:49-06",
-  "popularity": 9,
-  "group_popularity": 29,
+  "last_updated": "2022-03-24 11:01:29-05",
+  "popularity": 11,
+  "group_popularity": 28,
   "notes": "Source Code: Q:ES:R:368\n\nCoverage includes all types of new and existing dwellings in the whole country. The series is deflated using CPI.\n\nFor more information, please see https://www.bis.org/statistics/pp_detailed.htm.\n\nAny use of the series shall be cited as follows: \"Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.\"\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

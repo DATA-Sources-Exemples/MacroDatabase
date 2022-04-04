@@ -1,7 +1,7 @@
 {
   "id": "BOGMBBM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Monetary Base; Reserve Balances",
   "observation_start": "1959-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-22 12:03:17-05",
-  "popularity": 46,
-  "group_popularity": 46,
+  "popularity": 44,
+  "group_popularity": 44,
   "notes": "The Board of Governors consolidated this series onto the Statistical Release H.6, \"Money Stock Measures\", after the H.3 statistical release was discontinued. For more information on the consolidated H.6 release, see the H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm).\r\n\r\nTotal balances maintained are balances that an institution holds in a reserve account directly at a Federal Reserve Bank."
 }

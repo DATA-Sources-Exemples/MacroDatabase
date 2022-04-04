@@ -1,8 +1,8 @@
 {
   "PCU221221": {
     "id": "PCU221221",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Utilities",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:05-05",
-    "popularity": 21,
-    "group_popularity": 21
+    "popularity": 15,
+    "group_popularity": 15
   },
   "PCU22112211": {
     "id": "PCU22112211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation, Transmission, and Distribution",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:05-05",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 8,
+    "group_popularity": 8
   },
   "PCU22122212": {
     "id": "PCU22122212",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -52,8 +52,8 @@
   },
   "PCU2211122111": {
     "id": "PCU2211122111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -69,8 +69,8 @@
   },
   "PCU2211222112": {
     "id": "PCU2211222112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Transmission, Control, and Distribution",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:11-05",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU2212122121": {
     "id": "PCU2212122121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -103,8 +103,8 @@
   },
   "PCU221110221110": {
     "id": "PCU221110221110",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:06-05",
-    "popularity": 4,
+    "popularity": 3,
     "group_popularity": 4
   },
   "PCU221110221110M": {
     "id": "PCU221110221110M",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation: Miscellaneous Receipts",
     "observation_start": "2003-12-01",
     "observation_end": "2017-01-01",
@@ -137,8 +137,8 @@
   },
   "PCU221110221110P": {
     "id": "PCU221110221110P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation: Primary Products",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:04-05",
-    "popularity": 16,
-    "group_popularity": 16
+    "popularity": 12,
+    "group_popularity": 12
   },
   "PCU221121221121": {
     "id": "PCU221121221121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Bulk Power Transmission and Control",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:08-05",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 4,
+    "group_popularity": 5
   },
   "PCU221121221121P": {
     "id": "PCU221121221121P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Bulk Power Transmission and Control: Primary Products",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -188,8 +188,8 @@
   },
   "PCU221122221122": {
     "id": "PCU221122221122",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -205,8 +205,8 @@
   },
   "PCU221122221122M": {
     "id": "PCU221122221122M",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Miscellaneous Receipts",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -222,8 +222,8 @@
   },
   "PCU221122221122MM": {
     "id": "PCU221122221122MM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Miscellaneous Receipts",
     "observation_start": "1990-12-01",
     "observation_end": "2003-12-01",
@@ -239,8 +239,8 @@
   },
   "PCU221122221122P": {
     "id": "PCU221122221122P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Primary Products",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -256,8 +256,8 @@
   },
   "PCU221210221210": {
     "id": "PCU221210221210",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -273,8 +273,8 @@
   },
   "PCU221210221210M": {
     "id": "PCU221210221210M",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Miscellaneous Receipts",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -290,8 +290,8 @@
   },
   "PCU221210221210MM": {
     "id": "PCU221210221210MM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Miscellaneous Receipts",
     "observation_start": "1990-12-01",
     "observation_end": "2003-12-01",
@@ -307,8 +307,8 @@
   },
   "PCU221210221210P": {
     "id": "PCU221210221210P",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Primary Products",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -324,8 +324,8 @@
   },
   "PCU221210221210S": {
     "id": "PCU221210221210S",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Secondary Products (DISCONTINUED)",
     "observation_start": "2010-12-01",
     "observation_end": "2016-09-01",
@@ -341,8 +341,8 @@
   },
   "PCU2211102211104": {
     "id": "PCU2211102211104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation: Utilities",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -353,13 +353,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:02-05",
-    "popularity": 34,
-    "group_popularity": 34
+    "popularity": 26,
+    "group_popularity": 26
   },
   "PCU2211102211105": {
     "id": "PCU2211102211105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Generation: Non-Utilities",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -370,13 +370,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:08-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "PCU2211212211213": {
     "id": "PCU2211212211213",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Bulk Power Transmission and Control",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -387,13 +387,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:10:44-05",
-    "popularity": 1,
-    "group_popularity": 9
+    "popularity": 2,
+    "group_popularity": 5
   },
   "PCU22112222112241": {
     "id": "PCU22112222112241",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -404,13 +404,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:21-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "PCU22112222112242": {
     "id": "PCU22112222112242",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power",
     "observation_start": "1958-01-01",
     "observation_end": "2022-02-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:58:48-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU22112222112243": {
     "id": "PCU22112222112243",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power",
     "observation_start": "1958-01-01",
     "observation_end": "2022-02-01",
@@ -438,13 +438,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:03-05",
-    "popularity": 24,
-    "group_popularity": 24
+    "popularity": 23,
+    "group_popularity": 23
   },
   "PCU22112222112245": {
     "id": "PCU22112222112245",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Transportation Electric Power",
     "observation_start": "2010-12-01",
     "observation_end": "2022-02-01",
@@ -460,8 +460,8 @@
   },
   "PCU22121022121011": {
     "id": "PCU22121022121011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Natural Gas to Ultimate Consumers",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -472,13 +472,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:04-05",
-    "popularity": 20,
-    "group_popularity": 20
+    "popularity": 16,
+    "group_popularity": 16
   },
   "PCU22121022121012": {
     "id": "PCU22121022121012",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Delivered to Ultimate Consumers for the Account of Others (Transportation Only)",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -494,8 +494,8 @@
   },
   "PCU221122221122411": {
     "id": "PCU221122221122411",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for New England Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -511,8 +511,8 @@
   },
   "PCU221122221122412": {
     "id": "PCU221122221122412",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for Middle Atlantic Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -528,8 +528,8 @@
   },
   "PCU221122221122413": {
     "id": "PCU221122221122413",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East North Central Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -545,8 +545,8 @@
   },
   "PCU221122221122414": {
     "id": "PCU221122221122414",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for West North Central Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -562,8 +562,8 @@
   },
   "PCU221122221122415": {
     "id": "PCU221122221122415",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for South Atlantic Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -579,8 +579,8 @@
   },
   "PCU221122221122416": {
     "id": "PCU221122221122416",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East South Central Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -596,8 +596,8 @@
   },
   "PCU221122221122417": {
     "id": "PCU221122221122417",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for West South Central Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -613,8 +613,8 @@
   },
   "PCU221122221122418": {
     "id": "PCU221122221122418",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for Mountain Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -630,8 +630,8 @@
   },
   "PCU221122221122419": {
     "id": "PCU221122221122419",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for Pacific Census Division",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -647,8 +647,8 @@
   },
   "PCU221122221122421": {
     "id": "PCU221122221122421",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for New England Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -664,8 +664,8 @@
   },
   "PCU221122221122422": {
     "id": "PCU221122221122422",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for Middle Atlantic Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -681,8 +681,8 @@
   },
   "PCU221122221122423": {
     "id": "PCU221122221122423",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for East North Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -698,8 +698,8 @@
   },
   "PCU221122221122424": {
     "id": "PCU221122221122424",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for West North Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -715,8 +715,8 @@
   },
   "PCU221122221122425": {
     "id": "PCU221122221122425",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for South Atlantic Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -732,8 +732,8 @@
   },
   "PCU221122221122426": {
     "id": "PCU221122221122426",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for East South Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "PCU221122221122427": {
     "id": "PCU221122221122427",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for West South Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -766,8 +766,8 @@
   },
   "PCU221122221122428": {
     "id": "PCU221122221122428",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for Mountain Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -783,8 +783,8 @@
   },
   "PCU221122221122429": {
     "id": "PCU221122221122429",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for Pacific Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -800,8 +800,8 @@
   },
   "PCU221122221122431": {
     "id": "PCU221122221122431",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for New England Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -817,8 +817,8 @@
   },
   "PCU221122221122432": {
     "id": "PCU221122221122432",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for Middle Atlantic Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -834,8 +834,8 @@
   },
   "PCU221122221122433": {
     "id": "PCU221122221122433",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for East North Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -851,8 +851,8 @@
   },
   "PCU221122221122434": {
     "id": "PCU221122221122434",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for West North Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -863,13 +863,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:10:42-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU221122221122435": {
     "id": "PCU221122221122435",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for South Atlantic Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -885,8 +885,8 @@
   },
   "PCU221122221122436": {
     "id": "PCU221122221122436",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for East South Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -902,8 +902,8 @@
   },
   "PCU221122221122437": {
     "id": "PCU221122221122437",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for West South Central Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -914,13 +914,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:10:41-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU221122221122438": {
     "id": "PCU221122221122438",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for Mountain Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -936,8 +936,8 @@
   },
   "PCU221122221122439": {
     "id": "PCU221122221122439",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for Pacific Census Division",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -948,13 +948,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:10:41-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU221210221210112": {
     "id": "PCU221210221210112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Residential Natural Gas",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -965,13 +965,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:11-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU221210221210113": {
     "id": "PCU221210221210113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Commercial Natural Gas",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -987,8 +987,8 @@
   },
   "PCU221210221210114": {
     "id": "PCU221210221210114",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Industrial Natural Gas",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -999,13 +999,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:10-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU221210221210115": {
     "id": "PCU221210221210115",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: to Electric Power",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -1016,13 +1016,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:10-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 4,
+    "group_popularity": 4
   },
   "PCU221210221210122": {
     "id": "PCU221210221210122",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Industrial Consumer",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -1033,13 +1033,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:10:40-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "PCU221210221210123": {
     "id": "PCU221210221210123",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Industry: Natural Gas Distribution: Other Consumers",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",

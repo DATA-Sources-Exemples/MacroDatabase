@@ -1,7 +1,7 @@
 {
   "id": "NA000267Q",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "GDI: Corp profits with inventory valuation and CCAdj, domestic industries: Profits after tax with inventory valuation and CCAdj: Undistributed corp profits with inventory valuation and CCAdj",
   "observation_start": "2002-01-01",
   "observation_end": "2021-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-22 07:55:06-06",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 9,
   "notes": "BEA Account Code: NA000267"
 }

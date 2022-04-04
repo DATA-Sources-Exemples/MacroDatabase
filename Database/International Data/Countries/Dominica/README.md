@@ -15,16 +15,16 @@
 | CTDMAA475SCEN     | Number of Identified Exporters to Dominica from Connecticut                                                              | 1992-01-01          | 2017-01-01        |
 | DCDMAA052SCEN     | Value of Exports to Dominica from District of Columbia                                                                   | 2009-01-01          | 2010-01-01        |
 | DCDMAA475SCEN     | Number of Identified Exporters to Dominica from District of Columbia                                                     | 2003-01-01          | 2015-01-01        |
-| DDAI02DMA643NWDB  | Number of Bank Branches for Dominica                                                                                     | 2004-01-01          | 2016-01-01        |
-| DDDI01DMA156NWDB  | Private Credit by Deposit Money Banks to GDP for Dominica                                                                | 1975-01-01          | 2016-01-01        |
-| DDDI02DMA156NWDB  | Deposit Money Bank Assets to GDP for Dominica                                                                            | 1975-01-01          | 2016-01-01        |
-| DDDI04DMA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Dominica                              | 1975-01-01          | 2015-01-01        |
-| DDDI05DMA156NWDB  | Liquid Liabilities to GDP for Dominica                                                                                   | 1975-01-01          | 2016-01-01        |
-| DDDI06DMA156NWDB  | Central Bank Assets to GDP for Dominica                                                                                  | 1975-01-01          | 2015-01-01        |
-| DDDI08DMA156NWDB  | Financial System Deposits to GDP for Dominica                                                                            | 1975-01-01          | 2016-01-01        |
+| DDAI02DMA643NWDB  | Number of Bank Branches for Dominica                                                                                     | 2004-01-01          | 2019-01-01        |
+| DDDI01DMA156NWDB  | Private Credit by Deposit Money Banks to GDP for Dominica                                                                | 1975-01-01          | 2020-01-01        |
+| DDDI02DMA156NWDB  | Deposit Money Bank Assets to GDP for Dominica                                                                            | 1975-01-01          | 2020-01-01        |
+| DDDI04DMA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Dominica                              | 1975-01-01          | 2017-01-01        |
+| DDDI05DMA156NWDB  | Liquid Liabilities to GDP for Dominica                                                                                   | 1975-01-01          | 2020-01-01        |
+| DDDI06DMA156NWDB  | Central Bank Assets to GDP for Dominica                                                                                  | 1975-01-01          | 2017-01-01        |
+| DDDI08DMA156NWDB  | Financial System Deposits to GDP for Dominica                                                                            | 1975-01-01          | 2020-01-01        |
 | DDDI09DMA156NWDB  | Life Insurance Premium Volume to GDP for Dominica                                                                        | 1998-01-01          | 2014-01-01        |
 | DDDI10DMA156NWDB  | Non-Life Insurance Premium Volume to GDP for Dominica                                                                    | 1998-01-01          | 2014-01-01        |
-| DDDI12DMA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Dominica                               | 1975-01-01          | 2016-01-01        |
+| DDDI12DMA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Dominica                               | 1975-01-01          | 2020-01-01        |
 | DDEI01DMA156NWDB  | Bank's Net Interest Margin for Dominica                                                                                  | 2006-01-01          | 2016-01-01        |
 | DDEI02DMA156NWDB  | Bank Lending Deposit Spread for Dominica                                                                                 | 1980-01-01          | 2016-01-01        |
 | DDEI03DMA156NWDB  | Bank's Non-Interest Income to Total Income for Dominica                                                                  | 2005-01-01          | 2014-01-01        |
@@ -32,17 +32,17 @@
 | DDEI05DMA156NWDB  | Bank's Return on Assets for Dominica                                                                                     | 2006-01-01          | 2016-01-01        |
 | DDEI06DMA156NWDB  | Bank's Return on Equity for Dominica                                                                                     | 2006-01-01          | 2016-01-01        |
 | DDEI07DMA156NWDB  | Bank's Cost to Income Ratio for Dominica                                                                                 | 2005-01-01          | 2014-01-01        |
-| DDEI08DMA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Dominica                                                     | 1980-01-01          | 2016-01-01        |
-| DDOE01DMA086NWDB  | Consumer Price Index for Dominica                                                                                        | 1965-01-01          | 2016-01-01        |
-| DDOE02DMA086NWDB  | Consumer Price Index for Dominica                                                                                        | 1964-01-01          | 2016-01-01        |
-| DDOI02DMA156NWDB  | Bank Deposits to GDP for Dominica                                                                                        | 1975-01-01          | 2016-01-01        |
-| DDOI07DMA648NWDB  | Liquid Liabilities (Broad Money) for Dominica                                                                            | 1975-01-01          | 2016-01-01        |
+| DDEI08DMA156NWDB  | Credit to Government and State-Owned Enterprises to GDP for Dominica                                                     | 1980-01-01          | 2019-01-01        |
+| DDOE01DMA086NWDB  | Consumer Price Index for Dominica                                                                                        | 1965-01-01          | 2017-01-01        |
+| DDOE02DMA086NWDB  | Consumer Price Index for Dominica                                                                                        | 1964-01-01          | 2017-01-01        |
+| DDOI02DMA156NWDB  | Bank Deposits to GDP for Dominica                                                                                        | 1975-01-01          | 2020-01-01        |
+| DDOI07DMA648NWDB  | Liquid Liabilities (Broad Money) for Dominica                                                                            | 1975-01-01          | 2020-01-01        |
 | DDOI09DMA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Dominica                                                  | 1995-01-01          | 2013-01-01        |
-| DDOI10DMA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Dominica                            | 1995-01-01          | 2016-01-01        |
-| DDOI11DMA156NWDB  | Remittance Inflows to GDP for Dominica                                                                                   | 1977-01-01          | 2017-01-01        |
-| DDOI12DMA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Dominica                                                   | 1983-01-01          | 2016-01-01        |
+| DDOI10DMA156NWDB  | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Dominica                            | 1995-01-01          | 2020-01-01        |
+| DDOI11DMA156NWDB  | Remittance Inflows to GDP for Dominica                                                                                   | 1977-01-01          | 2020-01-01        |
+| DDOI12DMA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Dominica                                                   | 1983-01-01          | 2019-01-01        |
 | DDSI01DMA645NWDB  | Bank Z-Score for Dominica                                                                                                | 2005-01-01          | 2016-01-01        |
-| DDSI04DMA156NWDB  | Bank Credit to Bank Deposits for Dominica                                                                                | 1975-01-01          | 2016-01-01        |
+| DDSI04DMA156NWDB  | Bank Credit to Bank Deposits for Dominica                                                                                | 1975-01-01          | 2019-01-01        |
 | DDSI06DMA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Dominica                                                            | 2005-01-01          | 2016-01-01        |
 | DEDMAA475SCEN     | Number of Identified Exporters to Dominica from Delaware                                                                 | 2002-01-01          | 2016-01-01        |
 | DMABCAGDPBP6      | Balance of Payments for Dominica                                                                                         | 2014-01-01          | 2026-01-01        |

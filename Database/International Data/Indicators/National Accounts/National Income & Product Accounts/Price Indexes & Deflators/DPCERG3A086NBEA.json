@@ -1,7 +1,7 @@
 {
   "id": "DPCERG3A086NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal Consumption Expenditures: Chain-type Price Index",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:53:04-06",
-  "popularity": 27,
-  "group_popularity": 76,
+  "popularity": 28,
+  "group_popularity": 75,
   "notes": "BEA Account Code: DPCERG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

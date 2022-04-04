@@ -1,7 +1,7 @@
 {
   "id": "XTIMVA01AUM664N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Imports: Value Goods for Australia",
   "observation_start": "1960-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 11:34:58-06",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 9,
   "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: NCML\nOECD country ID: AUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

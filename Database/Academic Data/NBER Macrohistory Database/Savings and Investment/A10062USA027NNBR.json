@@ -1,7 +1,7 @@
 {
   "id": "A10062USA027NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Depreciation, Business Capital for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1946-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:21:26-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Source: S. Fabricant, Capital Consumption And Adjustment (NBER), 1938, Table 29, P. 160\n\nThis NBER data series a10062 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: a10062"
 }

@@ -1,8 +1,8 @@
 {
   "PCRGMP29460": {
     "id": "PCRGMP29460",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Per Capita Real Gross Domestic Product for Lakeland-Winter Haven, FL (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -19,8 +19,8 @@
   },
   "SMU12294603232500001": {
     "id": "SMU12294603232500001",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Non-Durable Goods: Chemical Manufacturing in Lakeland-Winter Haven, FL (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",
@@ -36,8 +36,8 @@
   },
   "SMU12294603232500001A": {
     "id": "SMU12294603232500001A",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Non-Durable Goods: Chemical Manufacturing in Lakeland-Winter Haven, FL (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-01-01",
@@ -53,8 +53,8 @@
   },
   "SMU12294603232500001SA": {
     "id": "SMU12294603232500001SA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Non-Durable Goods: Chemical Manufacturing in Lakeland-Winter Haven, FL (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",

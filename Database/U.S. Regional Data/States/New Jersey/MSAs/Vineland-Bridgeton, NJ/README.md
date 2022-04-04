@@ -60,41 +60,41 @@
 | RPPGOOD47220              | Regional Price Parities: Goods for Vineland-Bridgeton, NJ (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH47220          | Regional Price Parities: Services: Other for Vineland-Bridgeton, NJ (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT47220         | Regional Price Parities: Services: Rents for Vineland-Bridgeton, NJ (MSA)                                              | 2008-01-01          | 2020-01-01        |
-| SMS34472200000000026      | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-04-01          | 2022-01-01        |
+| SMS34472200000000026      | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-04-01          | 2022-02-01        |
 | SMU34472200000000001A     | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1970-01-01          | 2021-01-01        |
-| SMU34472200500000001      | All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU34472200500000001      | All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU34472200500000001A     | All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU34472200500000001SA    | All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SMU34472200500000002      | Average Weekly Hours of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                   | 2007-01-01          | 2022-01-01        |
+| SMU34472200500000001SA    | All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SMU34472200500000002      | Average Weekly Hours of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                   | 2007-01-01          | 2022-02-01        |
 | SMU34472200500000002A     | Average Weekly Hours of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                   | 2007-01-01          | 2021-01-01        |
-| SMU34472200500000002SA    | Average Weekly Hours of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                   | 2007-01-01          | 2022-01-01        |
-| SMU34472200500000003      | Average Hourly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-01-01        |
+| SMU34472200500000002SA    | Average Weekly Hours of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                   | 2007-01-01          | 2022-02-01        |
+| SMU34472200500000003      | Average Hourly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-02-01        |
 | SMU34472200500000003A     | Average Hourly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2021-01-01        |
-| SMU34472200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-01-01        |
-| SMU34472200500000011      | Average Weekly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-01-01        |
+| SMU34472200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-02-01        |
+| SMU34472200500000011      | Average Weekly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-02-01        |
 | SMU34472200500000011A     | Average Weekly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2021-01-01        |
-| SMU34472200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-01-01        |
-| SMU34472200600000001      | All Employees: Goods Producing in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU34472200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Vineland-Bridgeton, NJ (MSA)                                | 2007-01-01          | 2022-02-01        |
+| SMU34472200600000001      | All Employees: Goods Producing in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU34472200600000001A     | All Employees: Goods Producing in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU34472200600000001SA    | All Employees: Goods Producing in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU34472200700000001      | All Employees: Service-Providing in Vineland-Bridgeton, NJ (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU34472200600000001SA    | All Employees: Goods Producing in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU34472200700000001      | All Employees: Service-Providing in Vineland-Bridgeton, NJ (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU34472200700000001A     | All Employees: Service-Providing in Vineland-Bridgeton, NJ (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU34472200700000001SA    | All Employees: Service-Providing in Vineland-Bridgeton, NJ (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| SMU34472200800000001      | All Employees: Private Service Providing in Vineland-Bridgeton, NJ (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU34472200700000001SA    | All Employees: Service-Providing in Vineland-Bridgeton, NJ (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU34472200800000001      | All Employees: Private Service Providing in Vineland-Bridgeton, NJ (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU34472200800000001A     | All Employees: Private Service Providing in Vineland-Bridgeton, NJ (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU34472200800000001SA    | All Employees: Private Service Providing in Vineland-Bridgeton, NJ (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU34472200800000001SA    | All Employees: Private Service Providing in Vineland-Bridgeton, NJ (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU34472201500000001A     | All Employees: Mining, Logging, and Construction in Vineland-Bridgeton, NJ (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU34472203000000001A     | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU34472203132700001      | All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Vineland-Bridgeton, NJ (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU34472203132700001      | All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Vineland-Bridgeton, NJ (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU34472203132700001A     | All Employees: Durable Goods: Nonmetallic Mineral Product Manufacturing in Vineland-Bridgeton, NJ (MSA)                | 1990-01-01          | 2021-01-01        |
-| SMU34472203132700001SA    | All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Vineland-Bridgeton, NJ (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU34472203132700001SA    | All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Vineland-Bridgeton, NJ (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU34472204000000001A     | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU34472204100000001      | All Employees: Wholesale Trade in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| SMU34472204100000001      | All Employees: Wholesale Trade in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | SMU34472204100000001A     | All Employees: Wholesale Trade in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU34472204100000001SA    | All Employees: Wholesale Trade in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| SMU34472204200000001      | All Employees: Retail Trade in Vineland-Bridgeton, NJ (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU34472204100000001SA    | All Employees: Wholesale Trade in Vineland-Bridgeton, NJ (MSA)                                                         | 1990-01-01          | 2022-02-01        |
+| SMU34472204200000001      | All Employees: Retail Trade in Vineland-Bridgeton, NJ (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU34472204200000001A     | All Employees: Retail Trade in Vineland-Bridgeton, NJ (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU34472204200000001SA    | All Employees: Retail Trade in Vineland-Bridgeton, NJ (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU34472204200000001SA    | All Employees: Retail Trade in Vineland-Bridgeton, NJ (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU34472205000000001A     | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | SMU34472205500000001A     | All Employees: Financial Activities in Vineland-Bridgeton, NJ (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | SMU34472206000000001A     | All Employees: Professional and Business Services in Vineland-Bridgeton, NJ (MSA)                                      | 1990-01-01          | 2021-01-01        |
@@ -102,44 +102,44 @@
 | SMU34472207000000001A     | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2021-01-01        |
 | SMU34472208000000001A     | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | SMU34472209000000001A     | All Employees: Government in Vineland-Bridgeton, NJ (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU34472209091000001      | All Employees: Government: Federal Government in Vineland-Bridgeton, NJ (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU34472209091000001      | All Employees: Government: Federal Government in Vineland-Bridgeton, NJ (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU34472209091000001A     | All Employees: Federal Government in Vineland-Bridgeton, NJ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| SMU34472209091000001SA    | All Employees: Government: Federal Government in Vineland-Bridgeton, NJ (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU34472209092000001      | All Employees: Government: State Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU34472209091000001SA    | All Employees: Government: Federal Government in Vineland-Bridgeton, NJ (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU34472209092000001      | All Employees: Government: State Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU34472209092000001A     | All Employees: State Government in Vineland-Bridgeton, NJ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU34472209092000001SA    | All Employees: Government: State Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU34472209093000001      | All Employees: Government: Local Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU34472209092000001SA    | All Employees: Government: State Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU34472209093000001      | All Employees: Government: Local Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU34472209093000001A     | All Employees: Local Government in Vineland-Bridgeton, NJ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU34472209093000001SA    | All Employees: Government: Local Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| VINE234BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-01-01        |
-| VINE234BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-01-01        |
-| VINE234BPPRIV             | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-01-01        |
-| VINE234BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-01-01        |
-| VINE234EDUH               | All Employees: Education and Health Services in Vineland-Bridgeton, NJ (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| VINE234EDUHN              | All Employees: Education and Health Services in Vineland-Bridgeton, NJ (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| VINE234FIRE               | All Employees: Financial Activities in Vineland-Bridgeton, NJ (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| VINE234FIREN              | All Employees: Financial Activities in Vineland-Bridgeton, NJ (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| VINE234GOVT               | All Employees: Government in Vineland-Bridgeton, NJ (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| VINE234GOVTN              | All Employees: Government in Vineland-Bridgeton, NJ (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| VINE234INFO               | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| VINE234INFON              | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| VINE234LEIH               | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| VINE234LEIHN              | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU34472209093000001SA    | All Employees: Government: Local Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| VINE234BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-02-01        |
+| VINE234BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-02-01        |
+| VINE234BPPRIV             | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-02-01        |
+| VINE234BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-02-01        |
+| VINE234EDUH               | All Employees: Education and Health Services in Vineland-Bridgeton, NJ (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| VINE234EDUHN              | All Employees: Education and Health Services in Vineland-Bridgeton, NJ (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| VINE234FIRE               | All Employees: Financial Activities in Vineland-Bridgeton, NJ (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| VINE234FIREN              | All Employees: Financial Activities in Vineland-Bridgeton, NJ (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| VINE234GOVT               | All Employees: Government in Vineland-Bridgeton, NJ (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| VINE234GOVTN              | All Employees: Government in Vineland-Bridgeton, NJ (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| VINE234INFO               | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| VINE234INFON              | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| VINE234LEIH               | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| VINE234LEIHN              | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | VINE234LF                 | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | VINE234LFN                | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| VINE234MFG                | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| VINE234MFGN               | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| VINE234NA                 | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| VINE234NAN                | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1970-01-01          | 2022-01-01        |
-| VINE234NRMN               | All Employees: Mining, Logging, and Construction in Vineland-Bridgeton, NJ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| VINE234NRMNN              | All Employees: Mining, Logging, and Construction in Vineland-Bridgeton, NJ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| VINE234PBSV               | All Employees: Professional and Business Services in Vineland-Bridgeton, NJ (MSA)                                      | 1990-01-01          | 2022-01-01        |
-| VINE234PBSVN              | All Employees: Professional and Business Services in Vineland-Bridgeton, NJ (MSA)                                      | 1990-01-01          | 2022-01-01        |
+| VINE234MFG                | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| VINE234MFGN               | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| VINE234NA                 | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| VINE234NAN                | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1970-01-01          | 2022-02-01        |
+| VINE234NRMN               | All Employees: Mining, Logging, and Construction in Vineland-Bridgeton, NJ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| VINE234NRMNN              | All Employees: Mining, Logging, and Construction in Vineland-Bridgeton, NJ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| VINE234PBSV               | All Employees: Professional and Business Services in Vineland-Bridgeton, NJ (MSA)                                      | 1990-01-01          | 2022-02-01        |
+| VINE234PBSVN              | All Employees: Professional and Business Services in Vineland-Bridgeton, NJ (MSA)                                      | 1990-01-01          | 2022-02-01        |
 | VINE234PCPI               | Per Capita Personal Income in Vineland-Bridgeton, NJ (MSA)                                                             | 1969-01-01          | 2020-01-01        |
-| VINE234SRVO               | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| VINE234SRVON              | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| VINE234TRAD               | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| VINE234TRADN              | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| VINE234SRVO               | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| VINE234SRVON              | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| VINE234TRAD               | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| VINE234TRADN              | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | VINE234UR                 | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
 | VINE234URN                | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| VINPOP                    | Resident Population in Vineland-Bridgeton, NJ (MSA)                                                                    | 2000-01-01          | 2020-01-01        |
+| VINPOP                    | Resident Population in Vineland-Bridgeton, NJ (MSA)                                                                    | 2000-01-01          | 2021-01-01        |

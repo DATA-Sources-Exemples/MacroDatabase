@@ -1,8 +1,8 @@
 {
   "TWEXBANL": {
     "id": "TWEXBANL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED)",
     "observation_start": "1995-01-01",
     "observation_end": "2019-01-01",
@@ -19,8 +19,8 @@
   },
   "TWEXMANL": {
     "id": "TWEXMANL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)",
     "observation_start": "1973-01-01",
     "observation_end": "2019-01-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2020-01-06 15:51:03-06",
     "popularity": 6,
-    "group_popularity": 55,
+    "group_popularity": 54,
     "notes": "Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.\r\nMajor currency index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf."
   },
   "TWEXOANL": {
     "id": "TWEXOANL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)",
     "observation_start": "1995-01-01",
     "observation_end": "2019-01-01",
@@ -50,7 +50,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2020-01-06 15:56:01-06",
     "popularity": 1,
-    "group_popularity": 16,
+    "group_popularity": 14,
     "notes": "Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.\r\nCountries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.\r\nFor more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf."
   }
 }

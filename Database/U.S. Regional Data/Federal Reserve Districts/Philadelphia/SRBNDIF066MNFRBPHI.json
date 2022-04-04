@@ -1,7 +1,7 @@
 {
   "id": "SRBNDIF066MNFRBPHI",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Current Sales or Revenues; Diffusion Index for Federal Reserve District 3: Philadelphia",
   "observation_start": "2011-03-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-22 07:36:49-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Current Sales or Revenues reports the change in sales or revenues compared to the previous month for reporting service firms. The diffusion index is calculated by taking the percent reporting increases and subtracting the percentage reporting decreases. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey/ ."
 }

@@ -11,27 +11,27 @@
 | CTSMRA052SCEN     | Value of Exports to San Marino from Connecticut                                                                             | 2008-01-01          | 2008-01-01        |
 | CTSMRA475SCEN     | Number of Identified Exporters to San Marino from Connecticut                                                               | 2003-01-01          | 2016-01-01        |
 | DCSMRA475SCEN     | Number of Identified Exporters to San Marino from District of Columbia                                                      | 2004-01-01          | 2004-01-01        |
-| DDDI01SMA156NWDB  | Private Credit by Deposit Money Banks to GDP for San Marino                                                                 | 2005-01-01          | 2012-01-01        |
-| DDDI02SMA156NWDB  | Deposit Money Bank Assets to GDP for San Marino                                                                             | 2005-01-01          | 2012-01-01        |
-| DDDI04SMA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for San Marino                               | 2005-01-01          | 2012-01-01        |
-| DDDI06SMA156NWDB  | Central Bank Assets to GDP for San Marino                                                                                   | 2005-01-01          | 2012-01-01        |
-| DDDI08SMA156NWDB  | Financial System Deposits to GDP for San Marino                                                                             | 2005-01-01          | 2012-01-01        |
-| DDDI12SMA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for San Marino                                | 2005-01-01          | 2012-01-01        |
-| DDEI01SMA156NWDB  | Bank's Net Interest Margin for San Marino                                                                                   | 2005-01-01          | 2012-01-01        |
-| DDEI03SMA156NWDB  | Bank's Non-Interest Income to Total Income for San Marino                                                                   | 2005-01-01          | 2012-01-01        |
-| DDEI04SMA156NWDB  | Bank's Overhead Costs to Total Assets for San Marino                                                                        | 2005-01-01          | 2012-01-01        |
-| DDEI05SMA156NWDB  | Bank's Return on Assets for San Marino                                                                                      | 2005-01-01          | 2012-01-01        |
-| DDEI06SMA156NWDB  | Bank's Return on Equity for San Marino                                                                                      | 2005-01-01          | 2012-01-01        |
-| DDEI07SMA156NWDB  | Bank's Cost to Income Ratio for San Marino                                                                                  | 2005-01-01          | 2012-01-01        |
-| DDOE01SMA086NWDB  | Consumer Price Index for San Marino                                                                                         | 2005-01-01          | 2012-01-01        |
-| DDOE02SMA086NWDB  | Consumer Price Index for San Marino                                                                                         | 2005-01-01          | 2012-01-01        |
-| DDOI01SMA156NWDB  | Bank Concentration for San Marino                                                                                           | 2005-01-01          | 2012-01-01        |
-| DDOI02SMA156NWDB  | Bank Deposits to GDP for San Marino                                                                                         | 2005-01-01          | 2012-01-01        |
-| DDOI05SMA156NWDB  | Boone Indicator in Banking Market for San Marino                                                                            | 2005-01-01          | 2012-01-01        |
+| DDDI01SMA156NWDB  | Private Credit by Deposit Money Banks to GDP for San Marino                                                                 | 2001-01-01          | 2018-01-01        |
+| DDDI02SMA156NWDB  | Deposit Money Bank Assets to GDP for San Marino                                                                             | 2001-01-01          | 2018-01-01        |
+| DDDI04SMA156NWDB  | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for San Marino                               | 2001-01-01          | 2018-01-01        |
+| DDDI06SMA156NWDB  | Central Bank Assets to GDP for San Marino                                                                                   | 2001-01-01          | 2018-01-01        |
+| DDDI08SMA156NWDB  | Financial System Deposits to GDP for San Marino                                                                             | 2001-01-01          | 2018-01-01        |
+| DDDI12SMA156NWDB  | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for San Marino                                | 2001-01-01          | 2018-01-01        |
+| DDEI01SMA156NWDB  | Bank's Net Interest Margin for San Marino                                                                                   | 2005-01-01          | 2013-01-01        |
+| DDEI03SMA156NWDB  | Bank's Non-Interest Income to Total Income for San Marino                                                                   | 2004-01-01          | 2013-01-01        |
+| DDEI04SMA156NWDB  | Bank's Overhead Costs to Total Assets for San Marino                                                                        | 2005-01-01          | 2013-01-01        |
+| DDEI05SMA156NWDB  | Bank's Return on Assets for San Marino                                                                                      | 2005-01-01          | 2013-01-01        |
+| DDEI06SMA156NWDB  | Bank's Return on Equity for San Marino                                                                                      | 2005-01-01          | 2013-01-01        |
+| DDEI07SMA156NWDB  | Bank's Cost to Income Ratio for San Marino                                                                                  | 2004-01-01          | 2013-01-01        |
+| DDOE01SMA086NWDB  | Consumer Price Index for San Marino                                                                                         | 2002-01-01          | 2017-01-01        |
+| DDOE02SMA086NWDB  | Consumer Price Index for San Marino                                                                                         | 2002-01-01          | 2017-01-01        |
+| DDOI01SMA156NWDB  | Bank Concentration for San Marino                                                                                           | 2004-01-01          | 2013-01-01        |
+| DDOI02SMA156NWDB  | Bank Deposits to GDP for San Marino                                                                                         | 2001-01-01          | 2018-01-01        |
+| DDOI05SMA156NWDB  | Boone Indicator in Banking Market for San Marino                                                                            | 1999-01-01          | 2014-01-01        |
 | DDOI06SMA156NWDB  | 5-Bank Asset Concentration for San Marino                                                                                   | 2005-01-01          | 2012-01-01        |
-| DDOI07SMA648NWDB  | Liquid Liabilities (Broad Money) for San Marino                                                                             | 2005-01-01          | 2012-01-01        |
-| DDSI01SMA645NWDB  | Bank Z-Score for San Marino                                                                                                 | 2005-01-01          | 2012-01-01        |
-| DDSI04SMA156NWDB  | Bank Credit to Bank Deposits for San Marino                                                                                 | 2005-01-01          | 2012-01-01        |
+| DDOI07SMA648NWDB  | Liquid Liabilities (Broad Money) for San Marino                                                                             | 1993-01-01          | 2020-01-01        |
+| DDSI01SMA645NWDB  | Bank Z-Score for San Marino                                                                                                 | 2004-01-01          | 2013-01-01        |
+| DDSI04SMA156NWDB  | Bank Credit to Bank Deposits for San Marino                                                                                 | 2001-01-01          | 2017-01-01        |
 | DEBTTLSMA188A     | Central government debt, total (% of GDP) for San Marino                                                                    | 2002-01-01          | 2016-01-01        |
 | EXP4751           | U.S. Exports of Goods by F.A.S. Basis to San Marino                                                                         | 1992-01-01          | 2022-01-01        |
 | FLSMRA052SCEN     | Value of Exports to San Marino from Florida                                                                                 | 2002-01-01          | 2017-01-01        |

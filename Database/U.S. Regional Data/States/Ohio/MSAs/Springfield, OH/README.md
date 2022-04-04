@@ -79,87 +79,87 @@
 | RPPGOOD44220              | Regional Price Parities: Goods for Springfield, OH (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH44220          | Regional Price Parities: Services: Other for Springfield, OH (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT44220         | Regional Price Parities: Services: Rents for Springfield, OH (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS39442200000000026      | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS39442200000000026      | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU39442200000000001A     | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU39442200500000001      | All Employees: Total Private in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU39442200500000001      | All Employees: Total Private in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU39442200500000001A     | All Employees: Total Private in Springfield, OH (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU39442200500000001SA    | All Employees: Total Private in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU39442200500000002      | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU39442200500000001SA    | All Employees: Total Private in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU39442200500000002      | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU39442200500000002A     | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU39442200500000002SA    | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU39442200500000003      | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU39442200500000002SA    | Average Weekly Hours of All Employees: Total Private in Springfield, OH (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU39442200500000003      | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU39442200500000003A     | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39442200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU39442200500000011      | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU39442200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU39442200500000011      | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU39442200500000011A     | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU39442200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU39442200600000001      | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU39442200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Springfield, OH (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU39442200600000001      | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU39442200600000001A     | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU39442200600000001SA    | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU39442200700000001      | All Employees: Service-Providing in Springfield, OH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU39442200600000001SA    | All Employees: Goods Producing in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU39442200700000001      | All Employees: Service-Providing in Springfield, OH (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU39442200700000001A     | All Employees: Service-Providing in Springfield, OH (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU39442200700000001SA    | All Employees: Service-Providing in Springfield, OH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU39442200800000001      | All Employees: Private Service Providing in Springfield, OH (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU39442200700000001SA    | All Employees: Service-Providing in Springfield, OH (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU39442200800000001      | All Employees: Private Service Providing in Springfield, OH (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU39442200800000001A     | All Employees: Private Service Providing in Springfield, OH (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU39442200800000001SA    | All Employees: Private Service Providing in Springfield, OH (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU39442200800000001SA    | All Employees: Private Service Providing in Springfield, OH (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU39442201500000001A     | All Employees: Mining, Logging, and Construction in Springfield, OH (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU39442203000000001A     | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU39442204000000001A     | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU39442204100000001      | All Employees: Wholesale Trade in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU39442204100000001      | All Employees: Wholesale Trade in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU39442204100000001A     | All Employees: Wholesale Trade in Springfield, OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU39442204100000001SA    | All Employees: Wholesale Trade in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU39442204200000001      | All Employees: Retail Trade in Springfield, OH (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU39442204100000001SA    | All Employees: Wholesale Trade in Springfield, OH (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU39442204200000001      | All Employees: Retail Trade in Springfield, OH (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU39442204200000001A     | All Employees: Retail Trade in Springfield, OH (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU39442204200000001SA    | All Employees: Retail Trade in Springfield, OH (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU39442204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Springfield, OH (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU39442204200000001SA    | All Employees: Retail Trade in Springfield, OH (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU39442204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Springfield, OH (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU39442204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Springfield, OH (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU39442204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Springfield, OH (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU39442204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Springfield, OH (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU39442205500000001A     | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2021-01-01        |
 | SMU39442206000000001A     | All Employees: Professional and Business Services in Springfield, OH (MSA)                                       | 2003-01-01          | 2021-01-01        |
 | SMU39442206500000001A     | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU39442207000000001A     | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU39442208000000001A     | All Employees: Other Services in Springfield, OH (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU39442209000000001A     | All Employees: Government in Springfield, OH (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU39442209091000001      | All Employees: Government: Federal Government in Springfield, OH (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU39442209091000001      | All Employees: Government: Federal Government in Springfield, OH (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU39442209091000001A     | All Employees: Federal Government in Springfield, OH (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU39442209091000001SA    | All Employees: Government: Federal Government in Springfield, OH (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU39442209092000001      | All Employees: Government: State Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU39442209091000001SA    | All Employees: Government: Federal Government in Springfield, OH (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU39442209092000001      | All Employees: Government: State Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU39442209092000001A     | All Employees: State Government in Springfield, OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU39442209092000001SA    | All Employees: Government: State Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU39442209093000001      | All Employees: Government: Local Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU39442209092000001SA    | All Employees: Government: State Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU39442209093000001      | All Employees: Government: Local Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU39442209093000001A     | All Employees: Local Government in Springfield, OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU39442209093000001SA    | All Employees: Government: Local Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU39442209093161101      | All Employees: Government: Local Government Educational Services in Springfield, OH (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU39442209093000001SA    | All Employees: Government: Local Government in Springfield, OH (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU39442209093161101      | All Employees: Government: Local Government Educational Services in Springfield, OH (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU39442209093161101A     | All Employees: Local Government Educational Services in Springfield, OH (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU39442209093161101SA    | All Employees: Government: Local Government Educational Services in Springfield, OH (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SPGPOP                    | Resident Population in Springfield, OH (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| SPRI239BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-01-01        |
-| SPRI239BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-01-01        |
-| SPRI239BPPRIV             | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-01-01        |
-| SPRI239BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-01-01        |
-| SPRI239EDUH               | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SPRI239EDUHN              | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SPRI239FIRE               | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2022-01-01        |
-| SPRI239FIREN              | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2022-01-01        |
-| SPRI239GOVT               | All Employees: Government in Springfield, OH (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SPRI239GOVTN              | All Employees: Government in Springfield, OH (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SPRI239LEIH               | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SPRI239LEIHN              | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU39442209093161101SA    | All Employees: Government: Local Government Educational Services in Springfield, OH (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SPGPOP                    | Resident Population in Springfield, OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| SPRI239BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-02-01        |
+| SPRI239BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Springfield, OH (MSA)            | 2004-01-01          | 2022-02-01        |
+| SPRI239BPPRIV             | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-02-01        |
+| SPRI239BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Springfield, OH (MSA)                               | 2004-01-01          | 2022-02-01        |
+| SPRI239EDUH               | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SPRI239EDUHN              | All Employees: Education and Health Services in Springfield, OH (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SPRI239FIRE               | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2022-02-01        |
+| SPRI239FIREN              | All Employees: Financial Activities in Springfield, OH (MSA)                                                     | 2003-01-01          | 2022-02-01        |
+| SPRI239GOVT               | All Employees: Government in Springfield, OH (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SPRI239GOVTN              | All Employees: Government in Springfield, OH (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SPRI239LEIH               | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SPRI239LEIHN              | All Employees: Leisure and Hospitality in Springfield, OH (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SPRI239LF                 | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | SPRI239LFN                | Civilian Labor Force in Springfield, OH (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SPRI239MFG                | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPRI239MFGN               | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPRI239NA                 | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPRI239NAN                | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPRI239NRMN               | All Employees: Mining, Logging, and Construction in Springfield, OH (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SPRI239NRMNN              | All Employees: Mining, Logging, and Construction in Springfield, OH (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SPRI239PBSV               | All Employees: Professional and Business Services in Springfield, OH (MSA)                                       | 2003-01-01          | 2022-01-01        |
-| SPRI239PBSVN              | All Employees: Professional and Business Services in Springfield, OH (MSA)                                       | 2003-01-01          | 2022-01-01        |
+| SPRI239MFG                | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPRI239MFGN               | All Employees: Manufacturing in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPRI239NA                 | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPRI239NAN                | All Employees: Total Nonfarm in Springfield, OH (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPRI239NRMN               | All Employees: Mining, Logging, and Construction in Springfield, OH (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SPRI239NRMNN              | All Employees: Mining, Logging, and Construction in Springfield, OH (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SPRI239PBSV               | All Employees: Professional and Business Services in Springfield, OH (MSA)                                       | 2003-01-01          | 2022-02-01        |
+| SPRI239PBSVN              | All Employees: Professional and Business Services in Springfield, OH (MSA)                                       | 2003-01-01          | 2022-02-01        |
 | SPRI239PCPI               | Per Capita Personal Income in Springfield, OH (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| SPRI239SRVO               | All Employees: Other Services in Springfield, OH (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SPRI239SRVON              | All Employees: Other Services in Springfield, OH (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SPRI239TRAD               | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SPRI239TRADN              | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SPRI239SRVO               | All Employees: Other Services in Springfield, OH (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SPRI239SRVON              | All Employees: Other Services in Springfield, OH (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SPRI239TRAD               | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SPRI239TRADN              | All Employees: Trade, Transportation, and Utilities in Springfield, OH (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SPRI239UR                 | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SPRI239URN                | Unemployment Rate in Springfield, OH (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SUSCMSA44220              | Market Hotness: Supply Score in Springfield, OH (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

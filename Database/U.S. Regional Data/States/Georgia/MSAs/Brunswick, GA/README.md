@@ -7,15 +7,15 @@
 | AVELISPRI15260            | Housing Inventory: Average Listing Price in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM15260          | Housing Inventory: Average Listing Price Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY15260          | Housing Inventory: Average Listing Price Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| BRUN213GOVT               | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BRUN213GOVTN              | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| BRUN213GOVT               | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BRUN213GOVTN              | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | BRUN213LF                 | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BRUN213LFN                | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BRUN213NA                 | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BRUN213NAN                | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| BRUN213NA                 | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BRUN213NAN                | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | BRUN213PCPI               | Per Capita Personal Income in Brunswick, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| BRUN213TRAD               | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| BRUN213TRADN              | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| BRUN213TRAD               | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| BRUN213TRADN              | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BRUPOP                    | Resident Population in Brunswick, GA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -72,40 +72,40 @@
 | RPPGOOD15260              | Regional Price Parities: Goods for Brunswick, GA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH15260          | Regional Price Parities: Services: Other for Brunswick, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT15260         | Regional Price Parities: Services: Rents for Brunswick, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS13152600000000026      | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS13152600000000026      | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU13152600000000001A     | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13152600500000001      | All Employees: Total Private in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU13152600500000001      | All Employees: Total Private in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU13152600500000001A     | All Employees: Total Private in Brunswick, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13152600500000001SA    | All Employees: Total Private in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU13152600500000002      | Average Weekly Hours of All Employees: Total Private in Brunswick, GA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU13152600500000001SA    | All Employees: Total Private in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU13152600500000002      | Average Weekly Hours of All Employees: Total Private in Brunswick, GA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU13152600500000002A     | Average Weekly Hours of All Employees: Total Private in Brunswick, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13152600500000002SA    | Average Weekly Hours of All Employees: Total Private in Brunswick, GA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU13152600500000003      | Average Hourly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU13152600500000002SA    | Average Weekly Hours of All Employees: Total Private in Brunswick, GA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU13152600500000003      | Average Hourly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU13152600500000003A     | Average Hourly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13152600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU13152600500000011      | Average Weekly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU13152600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU13152600500000011      | Average Weekly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU13152600500000011A     | Average Weekly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13152600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU13152600600000001      | All Employees: Goods Producing in Brunswick, GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU13152600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Brunswick, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU13152600600000001      | All Employees: Goods Producing in Brunswick, GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU13152600600000001A     | All Employees: Goods Producing in Brunswick, GA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU13152600600000001SA    | All Employees: Goods Producing in Brunswick, GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU13152600700000001      | All Employees: Service-Providing in Brunswick, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU13152600600000001SA    | All Employees: Goods Producing in Brunswick, GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU13152600700000001      | All Employees: Service-Providing in Brunswick, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU13152600700000001A     | All Employees: Service-Providing in Brunswick, GA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU13152600700000001SA    | All Employees: Service-Providing in Brunswick, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU13152600800000001      | All Employees: Private Service Providing in Brunswick, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU13152600700000001SA    | All Employees: Service-Providing in Brunswick, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU13152600800000001      | All Employees: Private Service Providing in Brunswick, GA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU13152600800000001A     | All Employees: Private Service Providing in Brunswick, GA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU13152600800000001SA    | All Employees: Private Service Providing in Brunswick, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU13152600800000001SA    | All Employees: Private Service Providing in Brunswick, GA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU13152604000000001A     | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU13152604200000001      | All Employees: Retail Trade in Brunswick, GA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU13152604200000001      | All Employees: Retail Trade in Brunswick, GA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU13152604200000001A     | All Employees: Retail Trade in Brunswick, GA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU13152604200000001SA    | All Employees: Retail Trade in Brunswick, GA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU13152604200000001SA    | All Employees: Retail Trade in Brunswick, GA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU13152609000000001A     | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU13152609091000001      | All Employees: Government: Federal Government in Brunswick, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU13152609091000001      | All Employees: Government: Federal Government in Brunswick, GA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU13152609091000001A     | All Employees: Federal Government in Brunswick, GA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU13152609091000001SA    | All Employees: Government: Federal Government in Brunswick, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU13152609092000001      | All Employees: Government: State Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13152609091000001SA    | All Employees: Government: Federal Government in Brunswick, GA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU13152609092000001      | All Employees: Government: State Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU13152609092000001A     | All Employees: State Government in Brunswick, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13152609092000001SA    | All Employees: Government: State Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU13152609093000001      | All Employees: Government: Local Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13152609092000001SA    | All Employees: Government: State Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU13152609093000001      | All Employees: Government: Local Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU13152609093000001A     | All Employees: Local Government in Brunswick, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13152609093000001SA    | All Employees: Government: Local Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13152609093000001SA    | All Employees: Government: Local Government in Brunswick, GA (MSA)                               | 1990-01-01          | 2022-02-01        |

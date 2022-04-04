@@ -7,21 +7,21 @@
 | AVELISPRI13740            | Housing Inventory: Average Listing Price in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM13740          | Housing Inventory: Average Listing Price Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY13740          | Housing Inventory: Average Listing Price Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| BILL730EDUH               | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2022-01-01        |
-| BILL730EDUHN              | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2022-01-01        |
-| BILL730GOVT               | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BILL730GOVTN              | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BILL730LEIH               | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| BILL730LEIHN              | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| BILL730EDUH               | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2022-02-01        |
+| BILL730EDUHN              | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2022-02-01        |
+| BILL730GOVT               | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BILL730GOVTN              | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BILL730LEIH               | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| BILL730LEIHN              | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | BILL730LF                 | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BILL730LFN                | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BILL730NA                 | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BILL730NAN                | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BILL730PBSV               | All Employees: Professional and Business Services in Billings, MT (MSA)                         | 1990-01-01          | 2022-01-01        |
-| BILL730PBSVN              | All Employees: Professional and Business Services in Billings, MT (MSA)                         | 1990-01-01          | 2022-01-01        |
+| BILL730NA                 | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BILL730NAN                | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BILL730PBSV               | All Employees: Professional and Business Services in Billings, MT (MSA)                         | 1990-01-01          | 2022-02-01        |
+| BILL730PBSVN              | All Employees: Professional and Business Services in Billings, MT (MSA)                         | 1990-01-01          | 2022-02-01        |
 | BILL730PCPI               | Per Capita Personal Income in Billings, MT (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| BILL730TRAD               | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2022-01-01        |
-| BILL730TRADN              | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2022-01-01        |
+| BILL730TRAD               | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2022-02-01        |
+| BILL730TRADN              | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2022-02-01        |
 | BILL730UR                 | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BILL730URN                | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BILPOP                    | Resident Population in Billings, MT (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -97,41 +97,41 @@
 | RPPGOOD13740              | Regional Price Parities: Goods for Billings, MT (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH13740          | Regional Price Parities: Services: Other for Billings, MT (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT13740         | Regional Price Parities: Services: Rents for Billings, MT (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS30137400000000026      | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS30137400000000026      | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU30137400000000001A     | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU30137400500000001      | All Employees: Total Private in Billings, MT (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU30137400500000001      | All Employees: Total Private in Billings, MT (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU30137400500000001A     | All Employees: Total Private in Billings, MT (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU30137400500000001SA    | All Employees: Total Private in Billings, MT (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU30137400500000002      | Average Weekly Hours of All Employees: Total Private in Billings, MT (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU30137400500000001SA    | All Employees: Total Private in Billings, MT (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU30137400500000002      | Average Weekly Hours of All Employees: Total Private in Billings, MT (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU30137400500000002A     | Average Weekly Hours of All Employees: Total Private in Billings, MT (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU30137400500000002SA    | Average Weekly Hours of All Employees: Total Private in Billings, MT (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU30137400500000003      | Average Hourly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU30137400500000002SA    | Average Weekly Hours of All Employees: Total Private in Billings, MT (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU30137400500000003      | Average Hourly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU30137400500000003A     | Average Hourly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU30137400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU30137400500000011      | Average Weekly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU30137400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU30137400500000011      | Average Weekly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU30137400500000011A     | Average Weekly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU30137400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU30137400600000001      | All Employees: Goods Producing in Billings, MT (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU30137400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Billings, MT (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU30137400600000001      | All Employees: Goods Producing in Billings, MT (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU30137400600000001A     | All Employees: Goods Producing in Billings, MT (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU30137400600000001SA    | All Employees: Goods Producing in Billings, MT (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU30137400700000001      | All Employees: Service-Providing in Billings, MT (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU30137400600000001SA    | All Employees: Goods Producing in Billings, MT (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU30137400700000001      | All Employees: Service-Providing in Billings, MT (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU30137400700000001A     | All Employees: Service-Providing in Billings, MT (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU30137400700000001SA    | All Employees: Service-Providing in Billings, MT (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU30137400800000001      | All Employees: Private Service Providing in Billings, MT (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU30137400700000001SA    | All Employees: Service-Providing in Billings, MT (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU30137400800000001      | All Employees: Private Service Providing in Billings, MT (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU30137400800000001A     | All Employees: Private Service Providing in Billings, MT (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU30137400800000001SA    | All Employees: Private Service Providing in Billings, MT (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU30137400800000001SA    | All Employees: Private Service Providing in Billings, MT (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU30137404000000001A     | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2021-01-01        |
 | SMU30137406000000001A     | All Employees: Professional and Business Services in Billings, MT (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU30137406500000001A     | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU30137407000000001A     | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU30137409000000001A     | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU30137409091000001      | All Employees: Government: Federal Government in Billings, MT (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU30137409091000001      | All Employees: Government: Federal Government in Billings, MT (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU30137409091000001A     | All Employees: Federal Government in Billings, MT (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU30137409091000001SA    | All Employees: Government: Federal Government in Billings, MT (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU30137409092000001      | All Employees: Government: State Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU30137409091000001SA    | All Employees: Government: Federal Government in Billings, MT (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU30137409092000001      | All Employees: Government: State Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU30137409092000001A     | All Employees: State Government in Billings, MT (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU30137409092000001SA    | All Employees: Government: State Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU30137409093000001      | All Employees: Government: Local Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU30137409092000001SA    | All Employees: Government: State Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU30137409093000001      | All Employees: Government: Local Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU30137409093000001A     | All Employees: Local Government in Billings, MT (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU30137409093000001SA    | All Employees: Government: Local Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU30137409093000001SA    | All Employees: Government: Local Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA13740              | Market Hotness: Supply Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-01-01        |

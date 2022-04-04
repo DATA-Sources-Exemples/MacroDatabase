@@ -1,7 +1,7 @@
 {
   "id": "A399RC1Q027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Corporate profits with inventory valuation adjustments: Domestic industries: Nonfinancial",
   "observation_start": "1948-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2021-12-22 07:57:34-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: A399RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

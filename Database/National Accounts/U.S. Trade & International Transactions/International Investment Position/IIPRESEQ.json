@@ -1,7 +1,7 @@
 {
   "id": "IIPRESEQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "U.S. Assets: Reserve Assets",
   "observation_start": "2006-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-30 07:36:05-06",
-  "popularity": 4,
+  "popularity": 2,
   "group_popularity": 5,
   "notes": "As stated by the source, the IIP accounts are a statistical summary of the quarter-end value of accumulated stocks of U.S. assets and U.S. liabilities, as well as the value of the net international position of the United States. Separate statistics are available for the value of accumulated stocks of direct investment, portfolio investment, other investment, reserve assets, and financial derivatives. Changes in positions arise from financial transactions, asset valuation changes, and other changes in the volume of assets. Data from the IIP accounts are used in compiling national balance sheet statistics prepared by the Federal Reserve Board.(https://www.bea.gov/resources/methodologies/us-international-economic-accounts-concepts-methods)\n\nFor more information see http://www.bea.gov/international/concepts_methods.htm"
 }

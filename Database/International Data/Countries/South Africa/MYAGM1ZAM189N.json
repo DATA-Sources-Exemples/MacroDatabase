@@ -1,7 +1,7 @@
 {
   "id": "MYAGM1ZAM189N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "M1 for South Africa",
   "observation_start": "1965-03-01",
   "observation_end": "2017-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:11-05",
-  "popularity": 8,
-  "group_popularity": 18,
+  "popularity": 5,
+  "group_popularity": 13,
   "notes": "M1A comprises notes and coins in circulation outside the depository corporations and check and transferable deposits of households, local governments, public and private nonfinancial corporations, and other financial corporations (including the PIC beginning in January 1996) with the depository corporations.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

@@ -1,7 +1,7 @@
 {
   "id": "M03016USM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Operating Revenue of Railroads, Class I Railways for United States",
   "observation_start": "1907-07-01",
   "observation_end": "1963-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:02:10-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Data For 1907-October 1910 And 1932-1946 Exclude Switching And Terminal Companies. Beginning In 1943, Revenue Is Shown After Deduction Of Certain Amounts To Create A Reserve For Land Grant Deductions In Dispute. Beginning In 1962, Only Quarterly Data Are Published By The Icc; The Monthly Figures Presented Were Derived By NBER. Source: Interstate Commerce Commission, Data For 1907-1909: \"Bulletin And Revenues And Expenses Of Steam Railroads In The United States\", No. 5, P. 12; No. 18, P. 12; No. 31, P. 12. Data For 1910-1921: \"Statistics Of Railways\", 1921, P. Xcix. Data For 1922-1963: \"Operating Expenses Of Class I Steam Railways In The United States\".\n\nThis NBER data series m03016 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03016"
 }

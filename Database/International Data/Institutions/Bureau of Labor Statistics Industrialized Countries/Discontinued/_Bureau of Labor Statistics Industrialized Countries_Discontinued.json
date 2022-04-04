@@ -1,8 +1,8 @@
 {
   "COINDUSZ337": {
     "id": "COINDUSZ337",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index: Furniture and related product manufacturing for Industrialized Countries (DISCONTINUED)",
     "observation_start": "2012-06-01",
     "observation_end": "2014-12-01",
@@ -19,8 +19,8 @@
   },
   "COINDUSZ3343": {
     "id": "COINDUSZ3343",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index: Audio and video equipment manufacturing for Industrialized Countries (DISCONTINUED)",
     "observation_start": "2012-06-01",
     "observation_end": "2014-12-01",
@@ -37,8 +37,8 @@
   },
   "COINDUSZ3353": {
     "id": "COINDUSZ3353",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index: Electrical equipment manufacturing for Industrialized Countries (DISCONTINUED)",
     "observation_start": "2012-06-01",
     "observation_end": "2014-12-01",

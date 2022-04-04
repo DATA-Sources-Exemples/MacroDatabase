@@ -1,17 +1,17 @@
 {
   "id": "IEAXIA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Primary income receipts",
   "observation_start": "1999-01-01",
-  "observation_end": "2020-01-01",
+  "observation_end": "2021-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2021-06-23 07:50:15-05",
+  "last_updated": "2022-03-24 10:00:43-05",
   "popularity": 1,
   "group_popularity": 1
 }

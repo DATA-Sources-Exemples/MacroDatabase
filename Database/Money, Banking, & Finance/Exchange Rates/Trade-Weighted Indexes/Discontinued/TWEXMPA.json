@@ -1,7 +1,7 @@
 {
   "id": "TWEXMPA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Major Dollar Index (Goods Only) (DISCONTINUED)",
   "observation_start": "1973-01-01",
   "observation_end": "2019-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-01-02 15:21:02-06",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Averages of daily figures. Series is price adjusted. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.\n\nMajor currencies index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes see the Board of Governors methodology (https://www.federalreserve.gov/econres/notes/feds-notes/revisions-to-the-federal-reserve-dollar-indexes-20190115.htm)."
 }

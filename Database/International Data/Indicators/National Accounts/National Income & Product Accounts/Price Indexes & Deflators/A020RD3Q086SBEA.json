@@ -1,7 +1,7 @@
 {
   "id": "A020RD3Q086SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Exports of goods and services (implicit price deflator)",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-24 07:57:36-06",
-  "popularity": 6,
-  "group_popularity": 7,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "BEA Account Code: A020RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

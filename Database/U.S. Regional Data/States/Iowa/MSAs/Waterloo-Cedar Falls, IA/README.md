@@ -79,80 +79,80 @@
 | RPPGOOD47940              | Regional Price Parities: Goods for Waterloo-Cedar Falls, IA (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH47940          | Regional Price Parities: Services: Other for Waterloo-Cedar Falls, IA (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT47940         | Regional Price Parities: Services: Rents for Waterloo-Cedar Falls, IA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| SMS19479400000000026      | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-04-01          | 2022-01-01        |
+| SMS19479400000000026      | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-04-01          | 2022-02-01        |
 | SMU19479400000000001A     | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU19479400500000001      | All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU19479400500000001      | All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU19479400500000001A     | All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU19479400500000001SA    | All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMU19479400500000002      | Average Weekly Hours of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                            | 2007-01-01          | 2022-01-01        |
+| SMU19479400500000001SA    | All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU19479400500000002      | Average Weekly Hours of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                            | 2007-01-01          | 2022-02-01        |
 | SMU19479400500000002A     | Average Weekly Hours of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                            | 2007-01-01          | 2021-01-01        |
-| SMU19479400500000002SA    | Average Weekly Hours of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                            | 2007-01-01          | 2022-01-01        |
-| SMU19479400500000003      | Average Hourly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU19479400500000002SA    | Average Weekly Hours of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                            | 2007-01-01          | 2022-02-01        |
+| SMU19479400500000003      | Average Hourly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU19479400500000003A     | Average Hourly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU19479400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU19479400500000011      | Average Weekly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU19479400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU19479400500000011      | Average Weekly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU19479400500000011A     | Average Weekly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU19479400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU19479400600000001      | All Employees: Goods Producing in Waterloo-Cedar Falls, IA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU19479400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Waterloo-Cedar Falls, IA (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU19479400600000001      | All Employees: Goods Producing in Waterloo-Cedar Falls, IA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU19479400600000001A     | All Employees: Goods Producing in Waterloo-Cedar Falls, IA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU19479400600000001SA    | All Employees: Goods Producing in Waterloo-Cedar Falls, IA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU19479400700000001      | All Employees: Service-Providing in Waterloo-Cedar Falls, IA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU19479400600000001SA    | All Employees: Goods Producing in Waterloo-Cedar Falls, IA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU19479400700000001      | All Employees: Service-Providing in Waterloo-Cedar Falls, IA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU19479400700000001A     | All Employees: Service-Providing in Waterloo-Cedar Falls, IA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU19479400700000001SA    | All Employees: Service-Providing in Waterloo-Cedar Falls, IA (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU19479400800000001      | All Employees: Private Service Providing in Waterloo-Cedar Falls, IA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU19479400700000001SA    | All Employees: Service-Providing in Waterloo-Cedar Falls, IA (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU19479400800000001      | All Employees: Private Service Providing in Waterloo-Cedar Falls, IA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU19479400800000001A     | All Employees: Private Service Providing in Waterloo-Cedar Falls, IA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU19479400800000001SA    | All Employees: Private Service Providing in Waterloo-Cedar Falls, IA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU19479400800000001SA    | All Employees: Private Service Providing in Waterloo-Cedar Falls, IA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU19479403000000001A     | All Employees: Manufacturing in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU19479403100000001      | All Employees: Manufacturing: Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU19479403100000001      | All Employees: Manufacturing: Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU19479403100000001A     | All Employees: Manufacturing: Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU19479403100000001SA    | All Employees: Manufacturing: Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU19479403200000001      | All Employees: Manufacturing: Non-Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU19479403100000001SA    | All Employees: Manufacturing: Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU19479403200000001      | All Employees: Manufacturing: Non-Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU19479403200000001A     | All Employees: Manufacturing: Non-Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU19479403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU19479403200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Waterloo-Cedar Falls, IA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU19479404000000001A     | All Employees: Trade, Transportation, and Utilities in Waterloo-Cedar Falls, IA (MSA)                             | 1990-01-01          | 2021-01-01        |
-| SMU19479404200000001      | All Employees: Retail Trade in Waterloo-Cedar Falls, IA (MSA)                                                     | 2004-01-01          | 2022-01-01        |
+| SMU19479404200000001      | All Employees: Retail Trade in Waterloo-Cedar Falls, IA (MSA)                                                     | 2004-01-01          | 2022-02-01        |
 | SMU19479404200000001A     | All Employees: Retail Trade in Waterloo-Cedar Falls, IA (MSA)                                                     | 2004-01-01          | 2021-01-01        |
-| SMU19479404200000001SA    | All Employees: Retail Trade in Waterloo-Cedar Falls, IA (MSA)                                                     | 2004-01-01          | 2022-01-01        |
+| SMU19479404200000001SA    | All Employees: Retail Trade in Waterloo-Cedar Falls, IA (MSA)                                                     | 2004-01-01          | 2022-02-01        |
 | SMU19479405500000001A     | All Employees: Financial Activities in Waterloo-Cedar Falls, IA (MSA)                                             | 2004-01-01          | 2021-01-01        |
 | SMU19479406000000001A     | All Employees: Professional and Business Services in Waterloo-Cedar Falls, IA (MSA)                               | 1990-01-01          | 2021-01-01        |
 | SMU19479406500000001A     | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU19479406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Waterloo-Cedar Falls, IA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU19479406562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Waterloo-Cedar Falls, IA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU19479406562000001A     | All Employees: Health Care and Social Assistance in Waterloo-Cedar Falls, IA (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU19479406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Waterloo-Cedar Falls, IA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU19479406562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Waterloo-Cedar Falls, IA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU19479407000000001A     | All Employees: Leisure and Hospitality in Waterloo-Cedar Falls, IA (MSA)                                          | 1990-01-01          | 2021-01-01        |
 | SMU19479409000000001A     | All Employees: Government in Waterloo-Cedar Falls, IA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU19479409091000001      | All Employees: Government: Federal Government in Waterloo-Cedar Falls, IA (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| SMU19479409091000001      | All Employees: Government: Federal Government in Waterloo-Cedar Falls, IA (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | SMU19479409091000001A     | All Employees: Federal Government in Waterloo-Cedar Falls, IA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU19479409091000001SA    | All Employees: Government: Federal Government in Waterloo-Cedar Falls, IA (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| SMU19479409092000001      | All Employees: Government: State Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU19479409091000001SA    | All Employees: Government: Federal Government in Waterloo-Cedar Falls, IA (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| SMU19479409092000001      | All Employees: Government: State Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU19479409092000001A     | All Employees: State Government in Waterloo-Cedar Falls, IA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU19479409092000001SA    | All Employees: Government: State Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU19479409093000001      | All Employees: Government: Local Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU19479409092000001SA    | All Employees: Government: State Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU19479409093000001      | All Employees: Government: Local Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU19479409093000001A     | All Employees: Local Government in Waterloo-Cedar Falls, IA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU19479409093000001SA    | All Employees: Government: Local Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU19479409093161101      | All Employees: Government: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                | 2003-01-01          | 2022-01-01        |
+| SMU19479409093000001SA    | All Employees: Government: Local Government in Waterloo-Cedar Falls, IA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU19479409093161101      | All Employees: Government: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                | 2003-01-01          | 2022-02-01        |
 | SMU19479409093161101A     | All Employees: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                            | 2003-01-01          | 2021-01-01        |
-| SMU19479409093161101SA    | All Employees: Government: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                | 2003-01-01          | 2022-01-01        |
+| SMU19479409093161101SA    | All Employees: Government: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                | 2003-01-01          | 2022-02-01        |
 | SUSCMSA47940              | Market Hotness: Supply Score in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-01-01        |
-| WATE919EDUH               | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| WATE919EDUHN              | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| WATE919FIRE               | All Employees: Financial Activities in Waterloo-Cedar Falls, IA (MSA)                                             | 2004-01-01          | 2022-01-01        |
-| WATE919FIREN              | All Employees: Financial Activities in Waterloo-Cedar Falls, IA (MSA)                                             | 2004-01-01          | 2022-01-01        |
-| WATE919GOVT               | All Employees: Government in Waterloo-Cedar Falls, IA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| WATE919GOVTN              | All Employees: Government in Waterloo-Cedar Falls, IA (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| WATE919LEIH               | All Employees: Leisure and Hospitality in Waterloo-Cedar Falls, IA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| WATE919LEIHN              | All Employees: Leisure and Hospitality in Waterloo-Cedar Falls, IA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| WATE919EDUH               | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| WATE919EDUHN              | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| WATE919FIRE               | All Employees: Financial Activities in Waterloo-Cedar Falls, IA (MSA)                                             | 2004-01-01          | 2022-02-01        |
+| WATE919FIREN              | All Employees: Financial Activities in Waterloo-Cedar Falls, IA (MSA)                                             | 2004-01-01          | 2022-02-01        |
+| WATE919GOVT               | All Employees: Government in Waterloo-Cedar Falls, IA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| WATE919GOVTN              | All Employees: Government in Waterloo-Cedar Falls, IA (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| WATE919LEIH               | All Employees: Leisure and Hospitality in Waterloo-Cedar Falls, IA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| WATE919LEIHN              | All Employees: Leisure and Hospitality in Waterloo-Cedar Falls, IA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | WATE919LF                 | Civilian Labor Force in Waterloo-Cedar Falls, IA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | WATE919LFN                | Civilian Labor Force in Waterloo-Cedar Falls, IA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| WATE919MFG                | All Employees: Manufacturing in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| WATE919MFGN               | All Employees: Manufacturing in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| WATE919NA                 | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| WATE919NAN                | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| WATE919PBSV               | All Employees: Professional and Business Services in Waterloo-Cedar Falls, IA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| WATE919PBSVN              | All Employees: Professional and Business Services in Waterloo-Cedar Falls, IA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| WATE919MFG                | All Employees: Manufacturing in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| WATE919MFGN               | All Employees: Manufacturing in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| WATE919NA                 | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| WATE919NAN                | All Employees: Total Nonfarm in Waterloo-Cedar Falls, IA (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| WATE919PBSV               | All Employees: Professional and Business Services in Waterloo-Cedar Falls, IA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| WATE919PBSVN              | All Employees: Professional and Business Services in Waterloo-Cedar Falls, IA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | WATE919PCPI               | Per Capita Personal Income in Waterloo-Cedar Falls, IA (MSA)                                                      | 1969-01-01          | 2020-01-01        |
-| WATE919TRAD               | All Employees: Trade, Transportation, and Utilities in Waterloo-Cedar Falls, IA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| WATE919TRADN              | All Employees: Trade, Transportation, and Utilities in Waterloo-Cedar Falls, IA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| WATE919TRAD               | All Employees: Trade, Transportation, and Utilities in Waterloo-Cedar Falls, IA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| WATE919TRADN              | All Employees: Trade, Transportation, and Utilities in Waterloo-Cedar Falls, IA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | WATE919UR                 | Unemployment Rate in Waterloo-Cedar Falls, IA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | WATE919URN                | Unemployment Rate in Waterloo-Cedar Falls, IA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| WATPOP                    | Resident Population in Waterloo-Cedar Falls, IA (MSA)                                                             | 2000-01-01          | 2020-01-01        |
+| WATPOP                    | Resident Population in Waterloo-Cedar Falls, IA (MSA)                                                             | 2000-01-01          | 2021-01-01        |

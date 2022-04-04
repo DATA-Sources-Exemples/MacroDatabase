@@ -1,7 +1,7 @@
 {
   "id": "M0692DUSM027NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' Shipments, Total, Value for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1969-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 13:48:22-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1929-1944 (2)--Original Data, 1942-1963 (3)--Seasonally Adjusted Data, 1926-1963 (4)--Original Data, 1947-1969. The Series Was Renamed\"Manufacturers' Sales\" From \"Manufacturers' Shipments\" When The Source Changed. Original Estimates Are Adjusted For Trading-Day And Calender Month Variation Throughout The Period Beginning With 1947. Unadjusted 1948 Figures Were Revised, Obtained By Telephone, January 25, 1965. Source: U.S. Department Of Commerce, Data For 1947-1960: \"Manufacturers' Shipments, Inventories, And Orders, 1947-1963, Revised\", Bureau Of The Census Series M3-1; Data For 1961-June 1968: Same Title And Series But For 1961-1968; Data For July 1968-1969: \"Current Industrial Reports\", Same Title And Series; Also See Survey Of Current Business\n\nThis NBER data series m06092d appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06092d"
 }

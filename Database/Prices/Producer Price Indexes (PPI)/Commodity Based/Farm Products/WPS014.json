@@ -1,7 +1,7 @@
 {
   "id": "WPS014",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Farm Products: Slaughter Poultry",
   "observation_start": "1967-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:53:16-05",
-  "popularity": 15,
-  "group_popularity": 16
+  "popularity": 11,
+  "group_popularity": 12
 }

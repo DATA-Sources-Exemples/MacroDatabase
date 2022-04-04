@@ -1,7 +1,7 @@
 {
   "id": "IPUUN8114W201000000",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Employment for Other Services (Except Public Administration): Household Goods Repair and Maintenance (NAICS 8114) in the United States",
   "observation_start": "1988-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-07 21:56:39-05",
   "popularity": 0,
-  "group_popularity": 5,
+  "group_popularity": 2,
   "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
 }

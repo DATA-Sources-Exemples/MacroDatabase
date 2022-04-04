@@ -1,8 +1,8 @@
 {
   "CUURA103SA0": {
     "id": "CUURA103SA0",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: All Items in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1914-12-01",
     "observation_end": "2022-01-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-10 07:39:07-06",
-    "popularity": 21,
-    "group_popularity": 26
+    "popularity": 16,
+    "group_popularity": 19
   },
   "CUURA103SA0E": {
     "id": "CUURA103SA0E",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Energy in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -35,8 +35,8 @@
   },
   "CUURA103SA0L1E": {
     "id": "CUURA103SA0L1E",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1982-01-01",
     "observation_end": "2022-01-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-10 07:40:53-06",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "CUURA103SA0L2": {
     "id": "CUURA103SA0L2",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: All Items Less Shelter in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -69,8 +69,8 @@
   },
   "CUURA103SA0L5": {
     "id": "CUURA103SA0L5",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -86,8 +86,8 @@
   },
   "CUURA103SA0LE": {
     "id": "CUURA103SA0LE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: All Items Less Energy in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1978-01-01",
     "observation_end": "2022-01-01",
@@ -103,8 +103,8 @@
   },
   "CUURA103SAA": {
     "id": "CUURA103SAA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Apparel in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1952-10-01",
     "observation_end": "2022-01-01",
@@ -120,8 +120,8 @@
   },
   "CUURA103SAC": {
     "id": "CUURA103SAC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Commodities in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
   },
   "CUURA103SACL1": {
     "id": "CUURA103SACL1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Commodities Less Food in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -154,8 +154,8 @@
   },
   "CUURA103SACL11": {
     "id": "CUURA103SACL11",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -171,8 +171,8 @@
   },
   "CUURA103SAD": {
     "id": "CUURA103SAD",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Durables in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -188,8 +188,8 @@
   },
   "CUURA103SAE": {
     "id": "CUURA103SAE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Education and Communication in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1997-12-01",
     "observation_end": "2022-01-01",
@@ -205,8 +205,8 @@
   },
   "CUURA103SAEC": {
     "id": "CUURA103SAEC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Education and Communication Commodities in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -222,8 +222,8 @@
   },
   "CUURA103SAES": {
     "id": "CUURA103SAES",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Education and Communication Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -239,8 +239,8 @@
   },
   "CUURA103SAF": {
     "id": "CUURA103SAF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Food and Beverages in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -256,8 +256,8 @@
   },
   "CUURA103SAF1": {
     "id": "CUURA103SAF1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Food in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1914-12-01",
     "observation_end": "2022-01-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-10 07:40:37-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "CUURA103SAF11": {
     "id": "CUURA103SAF11",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Food at Home in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1953-01-01",
     "observation_end": "2022-02-01",
@@ -286,12 +286,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:48-06",
     "popularity": 2,
-    "group_popularity": 2
+    "group_popularity": 3
   },
   "CUURA103SAF116": {
     "id": "CUURA103SAF116",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -307,8 +307,8 @@
   },
   "CUURA103SAG": {
     "id": "CUURA103SAG",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Other Goods and Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -324,8 +324,8 @@
   },
   "CUURA103SAGC": {
     "id": "CUURA103SAGC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Other Goods in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -341,8 +341,8 @@
   },
   "CUURA103SAGS": {
     "id": "CUURA103SAGS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Other Personal Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -358,8 +358,8 @@
   },
   "CUURA103SAH": {
     "id": "CUURA103SAH",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Housing in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -371,12 +371,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-10 07:40:37-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 4
   },
   "CUURA103SAH1": {
     "id": "CUURA103SAH1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Shelter in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1952-10-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "CUURA103SAH2": {
     "id": "CUURA103SAH2",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Fuels and Utilities in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1952-12-01",
     "observation_end": "2022-01-01",
@@ -409,8 +409,8 @@
   },
   "CUURA103SAH3": {
     "id": "CUURA103SAH3",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -426,8 +426,8 @@
   },
   "CUURA103SAH21": {
     "id": "CUURA103SAH21",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Household Energy in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-02-01",
@@ -443,8 +443,8 @@
   },
   "CUURA103SAH31": {
     "id": "CUURA103SAH31",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -460,8 +460,8 @@
   },
   "CUURA103SAM": {
     "id": "CUURA103SAM",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Medical Care in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1947-01-01",
     "observation_end": "2022-01-01",
@@ -477,8 +477,8 @@
   },
   "CUURA103SAN": {
     "id": "CUURA103SAN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Nondurables in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -494,8 +494,8 @@
   },
   "CUURA103SANL1": {
     "id": "CUURA103SANL1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Nondurables Less Food in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -511,8 +511,8 @@
   },
   "CUURA103SANL11": {
     "id": "CUURA103SANL11",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-01-01",
@@ -528,8 +528,8 @@
   },
   "CUURA103SAR": {
     "id": "CUURA103SAR",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Recreation in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1997-12-01",
     "observation_end": "2022-01-01",
@@ -545,8 +545,8 @@
   },
   "CUURA103SAS": {
     "id": "CUURA103SAS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -558,12 +558,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-10 07:40:35-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "CUURA103SASL2RS": {
     "id": "CUURA103SASL2RS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1982-11-01",
     "observation_end": "2022-01-01",
@@ -579,8 +579,8 @@
   },
   "CUURA103SASL5": {
     "id": "CUURA103SASL5",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1967-01-01",
     "observation_end": "2022-01-01",
@@ -596,8 +596,8 @@
   },
   "CUURA103SAT": {
     "id": "CUURA103SAT",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Transportation in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1947-01-01",
     "observation_end": "2022-01-01",
@@ -613,8 +613,8 @@
   },
   "CUURA103SAT1": {
     "id": "CUURA103SAT1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Private Transportation in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1947-01-01",
     "observation_end": "2022-01-01",
@@ -630,8 +630,8 @@
   },
   "CUURA103SATCLTB": {
     "id": "CUURA103SATCLTB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2022-01-01",
@@ -647,8 +647,8 @@
   },
   "CUURA103SEFV": {
     "id": "CUURA103SEFV",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Food Away from Home in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1952-12-01",
     "observation_end": "2022-01-01",
@@ -659,13 +659,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-10 07:38:35-06",
-    "popularity": 1,
+    "popularity": 2,
     "group_popularity": 2
   },
   "CUURA103SEHA": {
     "id": "CUURA103SEHA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1914-12-01",
     "observation_end": "2022-02-01",
@@ -676,13 +676,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:14-06",
-    "popularity": 20,
-    "group_popularity": 22
+    "popularity": 22,
+    "group_popularity": 23
   },
   "CUURA103SEHC": {
     "id": "CUURA103SEHC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1982-11-01",
     "observation_end": "2022-02-01",
@@ -693,13 +693,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:27-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 3
   },
   "CUURA103SEHC01": {
     "id": "CUURA103SEHC01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1982-11-01",
     "observation_end": "2022-02-01",
@@ -711,12 +711,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:48-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 4
   },
   "CUURA103SEHF": {
     "id": "CUURA103SEHF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Energy Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -732,8 +732,8 @@
   },
   "CUURA103SEHF01": {
     "id": "CUURA103SEHF01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Electricity in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1971-05-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "CUURA103SEHF02": {
     "id": "CUURA103SEHF02",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1971-05-01",
     "observation_end": "2022-02-01",
@@ -766,8 +766,8 @@
   },
   "CUURA103SETB": {
     "id": "CUURA103SETB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Fuel in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -783,8 +783,8 @@
   },
   "CUURA103SETB01": {
     "id": "CUURA103SETB01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -800,8 +800,8 @@
   },
   "CUURA103SS47014": {
     "id": "CUURA103SS47014",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1976-01-01",
     "observation_end": "2022-02-01",
@@ -817,8 +817,8 @@
   },
   "CUURA103SS47015": {
     "id": "CUURA103SS47015",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1993-12-01",
     "observation_end": "2022-02-01",
@@ -834,8 +834,8 @@
   },
   "CUURA103SS47016": {
     "id": "CUURA103SS47016",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1981-08-01",
     "observation_end": "2022-02-01",
@@ -851,8 +851,8 @@
   },
   "CUUSA103SAS": {
     "id": "CUUSA103SAS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1984-01-01",
     "observation_end": "2021-01-01",
@@ -864,12 +864,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-12 07:43:47-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "CUUSA103SASS": {
     "id": "CUUSA103SASS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Services in Boston-Cambridge-Newton, MA-NH (CBSA)",
     "observation_start": "1984-01-01",
     "observation_end": "2021-07-01",
@@ -880,7 +880,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-12 07:43:46-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   }
 }

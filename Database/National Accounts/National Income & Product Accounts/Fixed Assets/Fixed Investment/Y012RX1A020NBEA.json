@@ -1,7 +1,7 @@
 {
   "id": "Y012RX1A020NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Private Fixed Investment in Intellectual Property Products: Research and development: Business: Manufacturing: Semiconductor and other electronic component manufacturing",
   "observation_start": "2002-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:33:05-05",
-  "popularity": 13,
-  "group_popularity": 14,
+  "popularity": 10,
+  "group_popularity": 11,
   "notes": "BEA Account Code: Y012RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

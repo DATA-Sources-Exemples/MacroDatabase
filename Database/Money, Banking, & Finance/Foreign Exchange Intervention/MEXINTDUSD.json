@@ -1,7 +1,7 @@
 {
   "id": "MEXINTDUSD",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Mexican Intervention: Banco de Mexico Purchases of USD against MXN (Millions of USD)",
   "observation_start": "1997-10-27",
   "observation_end": "2011-05-31",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2011-07-01 11:01:25-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Source: Banco de Mexico: http://www.banxico.org.mx/\r\n\r\n(+) numbers mean purchases of USD (Sell Peso), (-)numbers mean sales of USD (Buy Peso)\r\n\r\n1. Banco de Mexico provides background information on its \"Contingent dollar sales mechanism,\" which constitutes sterilized\r\ninterventions (14 total) from February 1997-June 2001:\r\n\r\n\"In February 1997, the Foreign Exchange Commission, composed of officials from the Ministry of Finance and Banco de M\u00e9xico (and responsible for Mexico's foreign exchange policy) announced the establishment of an auction mechanism to sell US dollars. This mechanism was implemented in order to ease the volatility in the foreign exchange market without violating the principles inherent in the prevailing floating exchange rate regime (see the Exchange Commission Statement and Banco de M\u00e9xico's Circular 10/97). Implementation of the mechanism was possible due to a significant accumulation of reserves, mainly achieved through the auction of foreign exchange options.\r\n\r\nUnder this mechanism, Banco de M\u00e9xico undertook daily sales of up to USD200 million, with a minimum price for the dollar set at 1.02 times the Mexican peso, as determined by the FIX on the preceding day. If any bids were allocated during the auction, the minimum price for the dollar on the following day was set at 1.02 times the weighted average peso exchange rate determined in the auction. The Contingent Dollar Sales Mechanism was effective until June 2001. It was triggered and implemented only fourteen days during the entire period, for a total amount of USD 1.950 billion sold. Furthermore, almost 60% of total dollar sales took place between August 1998 and January 1999, a period that was characterized by very high volatility in international financial markets.\"\r\n\r\n(http://www.banxico.org.mx/sistema-financiero/estadisticas/mercado-cambiario/operaciones-vigentes-del-banco-de-mexico-en-el-mer/mecanismos/february-1997---june-2001--co.html)\r\n\r\n2. Banco de Mexico has two added notes about the history of the Contingent dollar sales mechanism:\r\n\r\n\"1. Daily auction of dollars conducted as stipulated by the Foreign Exchange Commission in the press bulletin of February 19,1997 and circular 10/97 of Banco de M\u00e9xico. 2. On September 10,1998 there was also a discretionary intervention for 278 million dollars.\u201d\r\n\r\n\r\n3. Banco de Mexico has added additional intervention data. For information on new mechanisms and data please visit:\r\n\r\n(http://www.banxico.org.mx/sistema-financiero/estadisticas/mercado-cambiario/banco-mexico-s-foreign-exchan.html)"
 }

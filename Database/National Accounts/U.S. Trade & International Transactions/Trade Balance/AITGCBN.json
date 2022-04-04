@@ -1,7 +1,7 @@
 {
   "id": "AITGCBN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Advance U.S. International Trade in Goods: Balance",
   "observation_start": "2022-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-28 07:31:09-06",
-  "popularity": 3,
-  "group_popularity": 24,
+  "popularity": 2,
+  "group_popularity": 27,
   "notes": "This advance estimate represents the current month statistics of nearly complete coverage. The current month statistics reflecting complete coverage is available on the Census website at the U.S. International Trade in Goods and Services report (FT-900) https://www.census.gov/foreign-trade/statistics/historical/index.html \n\nFor more information on data collection and methodology, see https://www.census.gov/econ/indicators/methodology.html"
 }

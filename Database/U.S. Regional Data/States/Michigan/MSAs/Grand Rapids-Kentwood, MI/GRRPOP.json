@@ -1,7 +1,7 @@
 {
   "id": "GRRPOP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Resident Population in Grand Rapids-Wyoming, MI (MSA)",
   "observation_start": "2000-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-05-05 14:46:55-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "All observations are July 1 estimates of each year."
 }

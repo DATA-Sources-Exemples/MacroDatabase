@@ -1,7 +1,7 @@
 {
   "id": "M1426BUSM027NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Vault Cash, All Banks Except Federal Reserve Banks for United States",
   "observation_start": "1943-01-01",
   "observation_end": "1970-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:35:34-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted, 1907-1942 (3)--Original Data, 1943-1971. Source: Federal Reserve Board, Monthly Bulletins.\n\nThis NBER data series m14126b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14126b"
 }

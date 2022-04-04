@@ -1,8 +1,8 @@
 {
   "XTWEGS01NOA667S": {
     "id": "XTWEGS01NOA667S",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "World Exports of Goods and Services: Volume for the Non-OECD (DISCONTINUED)",
     "observation_start": "1969-01-01",
     "observation_end": "2013-01-01",
@@ -19,8 +19,8 @@
   },
   "XTWEGS01NOQ667S": {
     "id": "XTWEGS01NOQ667S",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "World Exports of Goods and Services: Volume for the Non-OECD (DISCONTINUED)",
     "observation_start": "1968-04-01",
     "observation_end": "2014-04-01",
@@ -37,8 +37,8 @@
   },
   "XTWIGS01NOA667S": {
     "id": "XTWIGS01NOA667S",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "World Imports of Goods and Services: Volume for the Non-OECD (DISCONTINUED)",
     "observation_start": "1966-01-01",
     "observation_end": "2013-01-01",
@@ -55,8 +55,8 @@
   },
   "XTWIGS01NOQ667S": {
     "id": "XTWIGS01NOQ667S",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "World Imports of Goods and Services: Volume for the Non-OECD (DISCONTINUED)",
     "observation_start": "1965-04-01",
     "observation_end": "2014-04-01",

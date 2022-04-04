@@ -18,57 +18,57 @@
 | CTHNDA475SCEN       | Number of Identified Exporters to Honduras from Connecticut                                                                         | 1992-01-01          | 2017-01-01        |
 | DCHNDA052SCEN       | Value of Exports to Honduras from District of Columbia                                                                              | 1997-01-01          | 2016-01-01        |
 | DCHNDA475SCEN       | Number of Identified Exporters to Honduras from District of Columbia                                                                | 1992-01-01          | 2016-01-01        |
-| DDAI02HNA643NWDB    | Number of Bank Branches for Honduras                                                                                                | 2004-01-01          | 2017-01-01        |
+| DDAI02HNA643NWDB    | Number of Bank Branches for Honduras                                                                                                | 2004-01-01          | 2019-01-01        |
 | DDAI03HNA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Honduras                                                                | 2006-01-01          | 2016-01-01        |
 | DDAI04HNA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Honduras                                                    | 2006-01-01          | 2016-01-01        |
 | DDAI05HNA156NWDB    | People 15 Years and Over with Account at a Formal Financial Institution for Honduras                                                | 2011-01-01          | 2017-01-01        |
 | DDAI06HNA156NWDB    | People 15 Years and Over Saving at a Financial Institution in the Past Year for Honduras                                            | 2011-01-01          | 2017-01-01        |
 | DDAI07HNA156NWDB    | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Honduras                                       | 2011-01-01          | 2017-01-01        |
-| DDDI01HNA156NWDB    | Private Credit by Deposit Money Banks to GDP for Honduras                                                                           | 1996-01-01          | 2017-01-01        |
-| DDDI02HNA156NWDB    | Deposit Money Bank Assets to GDP for Honduras                                                                                       | 1996-01-01          | 2017-01-01        |
-| DDDI03HNA156NWDB    | Non-Bank Financial Institutions' Assets to GDP for Honduras                                                                         | 2001-01-01          | 2017-01-01        |
-| DDDI04HNA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Honduras                                         | 1996-01-01          | 2017-01-01        |
-| DDDI05HNA156NWDB    | Liquid Liabilities to GDP for Honduras                                                                                              | 1996-01-01          | 2017-01-01        |
-| DDDI06HNA156NWDB    | Central Bank Assets to GDP for Honduras                                                                                             | 1996-01-01          | 2017-01-01        |
-| DDDI08HNA156NWDB    | Financial System Deposits to GDP for Honduras                                                                                       | 1996-01-01          | 2017-01-01        |
-| DDDI09HNA156NWDB    | Life Insurance Premium Volume to GDP for Honduras                                                                                   | 1996-01-01          | 2017-01-01        |
-| DDDI10HNA156NWDB    | Non-Life Insurance Premium Volume to GDP for Honduras                                                                               | 1996-01-01          | 2017-01-01        |
-| DDDI11HNA156NWDB    | Insurance Company Assets to GDP for Honduras                                                                                        | 1998-01-01          | 2017-01-01        |
-| DDDI12HNA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Honduras                                          | 1996-01-01          | 2017-01-01        |
+| DDDI01HNA156NWDB    | Private Credit by Deposit Money Banks to GDP for Honduras                                                                           | 1960-01-01          | 2020-01-01        |
+| DDDI02HNA156NWDB    | Deposit Money Bank Assets to GDP for Honduras                                                                                       | 1960-01-01          | 2020-01-01        |
+| DDDI03HNA156NWDB    | Non-Bank Financial Institutions' Assets to GDP for Honduras                                                                         | 2001-01-01          | 2020-01-01        |
+| DDDI04HNA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Honduras                                         | 1960-01-01          | 2020-01-01        |
+| DDDI05HNA156NWDB    | Liquid Liabilities to GDP for Honduras                                                                                              | 1960-01-01          | 2020-01-01        |
+| DDDI06HNA156NWDB    | Central Bank Assets to GDP for Honduras                                                                                             | 1960-01-01          | 2020-01-01        |
+| DDDI08HNA156NWDB    | Financial System Deposits to GDP for Honduras                                                                                       | 1960-01-01          | 2020-01-01        |
+| DDDI09HNA156NWDB    | Life Insurance Premium Volume to GDP for Honduras                                                                                   | 1990-01-01          | 2019-01-01        |
+| DDDI10HNA156NWDB    | Non-Life Insurance Premium Volume to GDP for Honduras                                                                               | 1990-01-01          | 2019-01-01        |
+| DDDI11HNA156NWDB    | Insurance Company Assets to GDP for Honduras                                                                                        | 1998-01-01          | 2019-01-01        |
+| DDDI12HNA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Honduras                                          | 1960-01-01          | 2020-01-01        |
 | DDDM01HNA156NWDB    | Stock Market Capitalization to GDP for Honduras                                                                                     | 1997-01-01          | 1998-01-01        |
-| DDDM09HNA156NWDB    | Gross Portfolio Equity Assets to GDP for Honduras                                                                                   | 2004-01-01          | 2017-01-01        |
-| DDDM10HNA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Honduras                                                                                | 2008-01-01          | 2017-01-01        |
+| DDDM09HNA156NWDB    | Gross Portfolio Equity Assets to GDP for Honduras                                                                                   | 2004-01-01          | 2019-01-01        |
+| DDDM10HNA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Honduras                                                                                | 2008-01-01          | 2019-01-01        |
 | DDEI01HNA156NWDB    | Bank's Net Interest Margin for Honduras                                                                                             | 1996-01-01          | 2017-01-01        |
-| DDEI02HNA156NWDB    | Bank Lending Deposit Spread for Honduras                                                                                            | 1996-01-01          | 2017-01-01        |
+| DDEI02HNA156NWDB    | Bank Lending Deposit Spread for Honduras                                                                                            | 1985-01-01          | 2019-01-01        |
 | DDEI03HNA156NWDB    | Bank's Non-Interest Income to Total Income for Honduras                                                                             | 1996-01-01          | 2017-01-01        |
 | DDEI04HNA156NWDB    | Bank's Overhead Costs to Total Assets for Honduras                                                                                  | 1996-01-01          | 2017-01-01        |
 | DDEI05HNA156NWDB    | Bank's Return on Assets for Honduras                                                                                                | 1996-01-01          | 2017-01-01        |
 | DDEI06HNA156NWDB    | Bank's Return on Equity for Honduras                                                                                                | 1996-01-01          | 2017-01-01        |
 | DDEI07HNA156NWDB    | Bank's Cost to Income Ratio for Honduras                                                                                            | 1996-01-01          | 2017-01-01        |
-| DDEI08HNA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Honduras                                                                | 1996-01-01          | 2017-01-01        |
-| DDOE01HNA086NWDB    | Consumer Price Index for Honduras                                                                                                   | 1996-01-01          | 2017-01-01        |
-| DDOE02HNA086NWDB    | Consumer Price Index for Honduras                                                                                                   | 1996-01-01          | 2017-01-01        |
+| DDEI08HNA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Honduras                                                                | 1980-01-01          | 2019-01-01        |
+| DDOE01HNA086NWDB    | Consumer Price Index for Honduras                                                                                                   | 1960-01-01          | 2017-01-01        |
+| DDOE02HNA086NWDB    | Consumer Price Index for Honduras                                                                                                   | 1960-01-01          | 2017-01-01        |
 | DDOI01HNA156NWDB    | Bank Concentration for Honduras                                                                                                     | 1996-01-01          | 2017-01-01        |
-| DDOI02HNA156NWDB    | Bank Deposits to GDP for Honduras                                                                                                   | 1996-01-01          | 2017-01-01        |
+| DDOI02HNA156NWDB    | Bank Deposits to GDP for Honduras                                                                                                   | 1960-01-01          | 2020-01-01        |
 | DDOI03HNA066NWDB    | H-Statistic in Banking Market for Honduras                                                                                          | 2010-01-01          | 2014-01-01        |
 | DDOI04HNA066NWDB    | Lerner Index in Banking Market for Honduras                                                                                         | 1996-01-01          | 2014-01-01        |
 | DDOI05HNA156NWDB    | Boone Indicator in Banking Market for Honduras                                                                                      | 1999-01-01          | 2014-01-01        |
 | DDOI06HNA156NWDB    | 5-Bank Asset Concentration for Honduras                                                                                             | 1996-01-01          | 2017-01-01        |
-| DDOI07HNA648NWDB    | Liquid Liabilities (Broad Money) for Honduras                                                                                       | 1996-01-01          | 2017-01-01        |
+| DDOI07HNA648NWDB    | Liquid Liabilities (Broad Money) for Honduras                                                                                       | 1960-01-01          | 2020-01-01        |
 | DDOI09HNA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Honduras                                                             | 1996-01-01          | 2017-01-01        |
-| DDOI10HNA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Honduras                                       | 1996-01-01          | 2017-01-01        |
-| DDOI11HNA156NWDB    | Remittance Inflows to GDP for Honduras                                                                                              | 1996-01-01          | 2017-01-01        |
-| DDOI12HNA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Honduras                                                              | 1996-01-01          | 2017-01-01        |
-| DDOI13HNA156NWDB    | Percentage of Foreign Banks Among Total Banks for Honduras                                                                          | 1996-01-01          | 2013-01-01        |
+| DDOI10HNA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Honduras                                       | 1995-01-01          | 2020-01-01        |
+| DDOI11HNA156NWDB    | Remittance Inflows to GDP for Honduras                                                                                              | 1974-01-01          | 2020-01-01        |
+| DDOI12HNA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Honduras                                                              | 1983-01-01          | 2019-01-01        |
+| DDOI13HNA156NWDB    | Percentage of Foreign Banks Among Total Banks for Honduras                                                                          | 1995-01-01          | 2013-01-01        |
 | DDOI14HNA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Honduras                                                              | 2004-01-01          | 2013-01-01        |
-| DDOM01HNA644NWDB    | Number of Listed Companies for Honduras                                                                                             | 1996-01-01          | 2001-01-01        |
+| DDOM01HNA644NWDB    | Number of Listed Companies for Honduras                                                                                             | 1995-01-01          | 2001-01-01        |
 | DDSI01HNA645NWDB    | Bank Z-Score for Honduras                                                                                                           | 1996-01-01          | 2017-01-01        |
-| DDSI02HNA156NWDB    | Bank Non-Performing Loans to Gross Loans for Honduras                                                                               | 1998-01-01          | 2017-01-01        |
-| DDSI03HNA156NWDB    | Bank Capital to Total Assets for Honduras                                                                                           | 1998-01-01          | 2017-01-01        |
-| DDSI04HNA156NWDB    | Bank Credit to Bank Deposits for Honduras                                                                                           | 1996-01-01          | 2017-01-01        |
-| DDSI05HNA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Honduras                                                                        | 1998-01-01          | 2017-01-01        |
+| DDSI02HNA156NWDB    | Bank Non-Performing Loans to Gross Loans for Honduras                                                                               | 1998-01-01          | 2019-01-01        |
+| DDSI03HNA156NWDB    | Bank Capital to Total Assets for Honduras                                                                                           | 1998-01-01          | 2019-01-01        |
+| DDSI04HNA156NWDB    | Bank Credit to Bank Deposits for Honduras                                                                                           | 1960-01-01          | 2020-01-01        |
+| DDSI05HNA156NWDB    | Bank Regulatory Capital to Risk-Weighted Assets for Honduras                                                                        | 1998-01-01          | 2019-01-01        |
 | DDSI06HNA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Honduras                                                                       | 1996-01-01          | 2017-01-01        |
-| DDSI07HNA156NWDB    | Provisions to Non-Performing Loans for Honduras                                                                                     | 1998-01-01          | 2017-01-01        |
+| DDSI07HNA156NWDB    | Provisions to Non-Performing Loans for Honduras                                                                                     | 1998-01-01          | 2019-01-01        |
 | DEHNDA052SCEN       | Value of Exports to Honduras from Delaware                                                                                          | 1992-01-01          | 2017-01-01        |
 | DEHNDA475SCEN       | Number of Identified Exporters to Honduras from Delaware                                                                            | 1992-01-01          | 2017-01-01        |
 | EXP2150             | U.S. Exports of Goods by F.A.S. Basis to Honduras                                                                                   | 1985-01-01          | 2022-01-01        |

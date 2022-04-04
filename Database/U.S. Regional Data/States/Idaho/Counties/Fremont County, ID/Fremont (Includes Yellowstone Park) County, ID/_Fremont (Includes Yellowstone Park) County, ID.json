@@ -1,8 +1,8 @@
 {
   "GDPALL16043": {
     "id": "GDPALL16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: All Industries in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -19,8 +19,8 @@
   },
   "GDPGOODS16043": {
     "id": "GDPGOODS16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Private Goods-Producing Industries in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -37,8 +37,8 @@
   },
   "GDPGOVT16043": {
     "id": "GDPGOVT16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Government and Government Enterprises in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -55,8 +55,8 @@
   },
   "GDPSERV16043": {
     "id": "GDPSERV16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Private Services-Providing Industries in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -73,8 +73,8 @@
   },
   "REALGDPALL16043": {
     "id": "REALGDPALL16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: All Industries in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -91,8 +91,8 @@
   },
   "REALGDPGOODS16043": {
     "id": "REALGDPGOODS16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -109,8 +109,8 @@
   },
   "REALGDPGOVT16043": {
     "id": "REALGDPGOVT16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Government and Government Enterprises in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -127,8 +127,8 @@
   },
   "REALGDPSERV16043": {
     "id": "REALGDPSERV16043",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Private Services-Providing Industries in Fremont (Includes Yellowstone Park) County, ID",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",

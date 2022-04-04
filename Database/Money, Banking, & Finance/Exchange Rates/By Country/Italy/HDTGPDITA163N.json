@@ -1,7 +1,7 @@
 {
   "id": "HDTGPDITA163N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Household Debt to GDP for Italy",
   "observation_start": "2005-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-01 07:02:52-06",
   "popularity": 2,
-  "group_popularity": 16,
+  "group_popularity": 13,
   "notes": "The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

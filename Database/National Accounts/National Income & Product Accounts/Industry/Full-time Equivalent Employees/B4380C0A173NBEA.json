@@ -1,7 +1,7 @@
 {
   "id": "B4380C0A173NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Full-time equivalent employees: Federal general government: Military",
   "observation_start": "1929-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:34:13-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "BEA Account Code: B4380C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

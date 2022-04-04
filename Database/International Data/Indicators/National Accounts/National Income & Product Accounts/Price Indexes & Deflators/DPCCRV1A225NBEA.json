@@ -1,7 +1,7 @@
 {
   "id": "DPCCRV1A225NBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Personal Consumption Expenditures (PCE) Excluding Food and Energy (chain-type price index)",
   "observation_start": "1930-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 07:52:07-06",
-  "popularity": 19,
+  "popularity": 17,
   "group_popularity": 51,
   "notes": "BEA Account Code: DPCCRV\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

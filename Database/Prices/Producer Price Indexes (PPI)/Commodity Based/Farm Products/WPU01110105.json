@@ -1,7 +1,7 @@
 {
   "id": "WPU01110105",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Farm Products: Valencia Oranges",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:57:57-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 4,
+  "group_popularity": 4
 }

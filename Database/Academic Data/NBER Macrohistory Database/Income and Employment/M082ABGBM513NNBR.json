@@ -1,7 +1,7 @@
 {
   "id": "M082ABGBM513NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Insured Workers Unemployed for United Kingdom",
   "observation_start": "1920-01-01",
   "observation_end": "1939-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:29:52-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1887-1924 (2)--Original Data, 1920-1939. There Is No Figure For October 1920 Because Of A Coal Dispute. Figures Prior To December 1921 Are Not Available For Northern Ireland. Under The Provisions Of The Widows, Orphans, And Old Age Contributory Pensions Act Of 1925, All Persons Aged 65 And Over Ceased To Be Insured Under The Unemployment Insurance Acts As Of January 2, 1928. After That Date, Such Persons Ceased To Appear In The Statistics Showing The Number Of Insured Persons Recorded As Unemployed And The Figures For 1928 And Subsequent Years Are Therefore Not Comparable With Those Of Earlier Years. For All Practical Purposes, However, The Percenatges Unemployed Can Be Regarded As Comparable Throughout. From September 1937 On, The Monthly Count Of Books Lodged Has Been Corrected By Deduction Of Those Persons Subsequently Found To Have Been In Employment. This Precaution Did Not Apply Hitherto. The Overlap Month Is September 1937. The Figure Without The Change Would Have Been 10.0. Here It Us Given As 9.7. Certain Classes Of Domestic Employments Were Included Beginning In July, 1938. The Overlap Month Is July 1938. The Figure Without The Inclusion Would Have Been 13.1. Here It Is Given As 12.9. Figures Are Exclusive Of Juveniles Under 16 And Persons Insured Under The Agricultural Scheme Who First Became Insurable In September 1934 And May 1936, Repectively. Beginning In March 1937 There Appear Special Schemes For Banking And Insurance Workers Included. Source: Ministry Of Labour, Abstract Of Labour Statistics 18Th And 21St.\n\nThis NBER data series m08002ab appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08002ab"
 }

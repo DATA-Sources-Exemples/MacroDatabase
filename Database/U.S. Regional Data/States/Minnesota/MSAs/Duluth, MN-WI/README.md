@@ -9,31 +9,31 @@
 | AVELISPRIYY20260          | Housing Inventory: Average Listing Price Year-Over-Year in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-01-01        |
 | DESCMSA20260              | Market Hotness: Demand Score in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | DULPOP                    | Resident Population in Duluth, MN-WI (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| DULU227EDUH               | All Employees: Education and Health Services in Duluth, MN-WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| DULU227EDUHN              | All Employees: Education and Health Services in Duluth, MN-WI (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| DULU227FIRE               | All Employees: Financial Activities in Duluth, MN-WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| DULU227FIREN              | All Employees: Financial Activities in Duluth, MN-WI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| DULU227GOVT               | All Employees: Government in Duluth, MN-WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| DULU227GOVTN              | All Employees: Government in Duluth, MN-WI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| DULU227INFO               | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| DULU227INFON              | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| DULU227LEIH               | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| DULU227LEIHN              | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| DULU227EDUH               | All Employees: Education and Health Services in Duluth, MN-WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| DULU227EDUHN              | All Employees: Education and Health Services in Duluth, MN-WI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| DULU227FIRE               | All Employees: Financial Activities in Duluth, MN-WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| DULU227FIREN              | All Employees: Financial Activities in Duluth, MN-WI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| DULU227GOVT               | All Employees: Government in Duluth, MN-WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| DULU227GOVTN              | All Employees: Government in Duluth, MN-WI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| DULU227INFO               | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| DULU227INFON              | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| DULU227LEIH               | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| DULU227LEIHN              | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | DULU227LF                 | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | DULU227LFN                | Civilian Labor Force in Duluth, MN-WI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| DULU227MFG                | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DULU227MFGN               | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DULU227NA                 | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DULU227NAN                | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| DULU227NRMN               | All Employees: Mining, Logging, and Construction in Duluth, MN-WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| DULU227NRMNN              | All Employees: Mining, Logging, and Construction in Duluth, MN-WI (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| DULU227PBSV               | All Employees: Professional and Business Services in Duluth, MN-WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| DULU227PBSVN              | All Employees: Professional and Business Services in Duluth, MN-WI (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| DULU227MFG                | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DULU227MFGN               | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DULU227NA                 | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DULU227NAN                | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| DULU227NRMN               | All Employees: Mining, Logging, and Construction in Duluth, MN-WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| DULU227NRMNN              | All Employees: Mining, Logging, and Construction in Duluth, MN-WI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| DULU227PBSV               | All Employees: Professional and Business Services in Duluth, MN-WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| DULU227PBSVN              | All Employees: Professional and Business Services in Duluth, MN-WI (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | DULU227PCPI               | Per Capita Personal Income in Duluth, MN-WI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| DULU227SRVO               | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| DULU227SRVON              | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| DULU227TRAD               | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| DULU227TRADN              | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| DULU227SRVO               | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| DULU227SRVON              | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| DULU227TRAD               | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| DULU227TRADN              | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
@@ -107,44 +107,44 @@
 | RPPGOOD20260              | Regional Price Parities: Goods for Duluth, MN-WI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH20260          | Regional Price Parities: Services: Other for Duluth, MN-WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT20260         | Regional Price Parities: Services: Rents for Duluth, MN-WI (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS27202600000000026      | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS27202600000000026      | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU27202600000000001A     | All Employees: Total Nonfarm in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU27202600500000001      | All Employees: Total Private in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU27202600500000001      | All Employees: Total Private in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU27202600500000001A     | All Employees: Total Private in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU27202600500000001SA    | All Employees: Total Private in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU27202600500000002      | Average Weekly Hours of All Employees: Total Private in Duluth, MN-WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU27202600500000001SA    | All Employees: Total Private in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU27202600500000002      | Average Weekly Hours of All Employees: Total Private in Duluth, MN-WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU27202600500000002A     | Average Weekly Hours of All Employees: Total Private in Duluth, MN-WI (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU27202600500000002SA    | Average Weekly Hours of All Employees: Total Private in Duluth, MN-WI (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU27202600500000003      | Average Hourly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU27202600500000002SA    | Average Weekly Hours of All Employees: Total Private in Duluth, MN-WI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU27202600500000003      | Average Hourly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU27202600500000003A     | Average Hourly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU27202600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU27202600500000011      | Average Weekly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU27202600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU27202600500000011      | Average Weekly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU27202600500000011A     | Average Weekly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU27202600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU27202600600000001      | All Employees: Goods Producing in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU27202600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Duluth, MN-WI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU27202600600000001      | All Employees: Goods Producing in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU27202600600000001A     | All Employees: Goods Producing in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU27202600600000001SA    | All Employees: Goods Producing in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU27202600700000001      | All Employees: Service-Providing in Duluth, MN-WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU27202600600000001SA    | All Employees: Goods Producing in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU27202600700000001      | All Employees: Service-Providing in Duluth, MN-WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU27202600700000001A     | All Employees: Service-Providing in Duluth, MN-WI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU27202600700000001SA    | All Employees: Service-Providing in Duluth, MN-WI (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU27202600800000001      | All Employees: Private Service Providing in Duluth, MN-WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU27202600700000001SA    | All Employees: Service-Providing in Duluth, MN-WI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU27202600800000001      | All Employees: Private Service Providing in Duluth, MN-WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU27202600800000001A     | All Employees: Private Service Providing in Duluth, MN-WI (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU27202600800000001SA    | All Employees: Private Service Providing in Duluth, MN-WI (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU27202600800000001SA    | All Employees: Private Service Providing in Duluth, MN-WI (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU27202601500000001A     | All Employees: Mining, Logging, and Construction in Duluth, MN-WI (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU27202603000000001A     | All Employees: Manufacturing in Duluth, MN-WI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU27202604000000001A     | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU27202604100000001      | All Employees: Wholesale Trade in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU27202604100000001      | All Employees: Wholesale Trade in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU27202604100000001A     | All Employees: Wholesale Trade in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU27202604100000001SA    | All Employees: Wholesale Trade in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU27202604200000001      | All Employees: Retail Trade in Duluth, MN-WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU27202604100000001SA    | All Employees: Wholesale Trade in Duluth, MN-WI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU27202604200000001      | All Employees: Retail Trade in Duluth, MN-WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU27202604200000001A     | All Employees: Retail Trade in Duluth, MN-WI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU27202604200000001SA    | All Employees: Retail Trade in Duluth, MN-WI (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU27202604245200001      | All Employees: Retail Trade: General Merchandise Stores in Duluth, MN-WI (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU27202604200000001SA    | All Employees: Retail Trade in Duluth, MN-WI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU27202604245200001      | All Employees: Retail Trade: General Merchandise Stores in Duluth, MN-WI (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU27202604245200001A     | All Employees: Retail Trade: General Merchandise Stores in Duluth, MN-WI (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU27202604245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Duluth, MN-WI (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU27202604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Duluth, MN-WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU27202604245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Duluth, MN-WI (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU27202604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Duluth, MN-WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU27202604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Duluth, MN-WI (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU27202604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Duluth, MN-WI (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU27202604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Duluth, MN-WI (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU27202605000000001A     | All Employees: Information in Duluth, MN-WI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU27202605500000001A     | All Employees: Financial Activities in Duluth, MN-WI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU27202606000000001A     | All Employees: Professional and Business Services in Duluth, MN-WI (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -152,13 +152,13 @@
 | SMU27202607000000001A     | All Employees: Leisure and Hospitality in Duluth, MN-WI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU27202608000000001A     | All Employees: Other Services in Duluth, MN-WI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU27202609000000001A     | All Employees: Government in Duluth, MN-WI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU27202609091000001      | All Employees: Government: Federal Government in Duluth, MN-WI (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU27202609091000001      | All Employees: Government: Federal Government in Duluth, MN-WI (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU27202609091000001A     | All Employees: Federal Government in Duluth, MN-WI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU27202609091000001SA    | All Employees: Government: Federal Government in Duluth, MN-WI (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU27202609092000001      | All Employees: Government: State Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU27202609091000001SA    | All Employees: Government: Federal Government in Duluth, MN-WI (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU27202609092000001      | All Employees: Government: State Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU27202609092000001A     | All Employees: State Government in Duluth, MN-WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU27202609092000001SA    | All Employees: Government: State Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU27202609093000001      | All Employees: Government: Local Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU27202609092000001SA    | All Employees: Government: State Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU27202609093000001      | All Employees: Government: Local Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU27202609093000001A     | All Employees: Local Government in Duluth, MN-WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU27202609093000001SA    | All Employees: Government: Local Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU27202609093000001SA    | All Employees: Government: Local Government in Duluth, MN-WI (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA20260              | Market Hotness: Supply Score in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

@@ -1,7 +1,7 @@
 {
   "id": "M03082GBM434NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Aggregate Coal Consumption by Freight Steam Locomotives for Great Britain",
   "observation_start": "1921-08-01",
   "observation_end": "1931-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:05:53-05",
-  "popularity": 2,
-  "group_popularity": 3,
+  "popularity": 7,
+  "group_popularity": 8,
   "notes": "Data For 1921-1935 Were Derived By NBER By Adding Freight Steam Locomotive Miles To Departmental Miles, Subtracting Shunting By Freight Shunting Steam Engine-Miles, And Multiplying The Result By Pounds Of Coal Consumption By Freight Steam Locomotives (Including Departmental). During Processing It Was Discovered That Monthly And Quarterly Figures For 1931 As Provided By NBER Do Not Agree, But Data Have Not Been Changed. The Annual Figure Provided Here Was Computed From Monthly Data. Source: Computed By NBER From Ministry Of Transport Data In \"Railway Statistics\".\n\nThis NBER data series m03082 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03082"
 }

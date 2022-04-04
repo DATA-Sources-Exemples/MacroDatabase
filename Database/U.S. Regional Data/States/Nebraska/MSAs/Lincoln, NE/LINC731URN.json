@@ -1,7 +1,7 @@
 {
   "id": "LINC731URN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Unemployment Rate in Lincoln, NE (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-18 12:40:09-05",
-  "popularity": 5,
-  "group_popularity": 11
+  "popularity": 4,
+  "group_popularity": 13
 }

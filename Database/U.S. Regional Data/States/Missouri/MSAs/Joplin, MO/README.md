@@ -25,19 +25,19 @@
 | HORAYYMSA27900            | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2018-08-01          | 2022-01-01        |
 | HOSCMSA27900              | Market Hotness: Hotness Score in Joplin, MO (CBSA)                                                  | 2017-08-01          | 2022-01-01        |
 | IRPD27900                 | Implicit Regional Price Deflator for Joplin, MO (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| JOPL929EDUH               | All Employees: Education and Health Services in Joplin, MO (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| JOPL929EDUHN              | All Employees: Education and Health Services in Joplin, MO (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| JOPL929GOVT               | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| JOPL929GOVTN              | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| JOPL929EDUH               | All Employees: Education and Health Services in Joplin, MO (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| JOPL929EDUHN              | All Employees: Education and Health Services in Joplin, MO (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| JOPL929GOVT               | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2022-02-01        |
+| JOPL929GOVTN              | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | JOPL929LF                 | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | JOPL929LFN                | Civilian Labor Force in Joplin, MO (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| JOPL929MFG                | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| JOPL929MFGN               | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| JOPL929NA                 | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| JOPL929NAN                | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| JOPL929MFG                | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| JOPL929MFGN               | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| JOPL929NA                 | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| JOPL929NAN                | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | JOPL929PCPI               | Per Capita Personal Income in Joplin, MO (MSA)                                                      | 1969-01-01          | 2020-01-01        |
-| JOPL929TRAD               | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2022-01-01        |
-| JOPL929TRADN              | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2022-01-01        |
+| JOPL929TRAD               | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2022-02-01        |
+| JOPL929TRADN              | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2022-02-01        |
 | JOPL929UR                 | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | JOPL929URN                | Unemployment Rate in Joplin, MO (MSA)                                                               | 1990-01-01          | 2022-01-01        |
 | JOPPOP                    | Resident Population in Joplin, MO (MSA)                                                             | 2000-01-01          | 2020-01-01        |
@@ -95,55 +95,55 @@
 | RPPGOOD27900              | Regional Price Parities: Goods for Joplin, MO (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH27900          | Regional Price Parities: Services: Other for Joplin, MO (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT27900         | Regional Price Parities: Services: Rents for Joplin, MO (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| SMS29279000000000026      | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-04-01          | 2022-01-01        |
+| SMS29279000000000026      | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-04-01          | 2022-02-01        |
 | SMU29279000000000001A     | All Employees: Total Nonfarm in Joplin, MO (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU29279000500000001      | All Employees: Total Private in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU29279000500000001      | All Employees: Total Private in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU29279000500000001A     | All Employees: Total Private in Joplin, MO (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU29279000500000001SA    | All Employees: Total Private in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMU29279000500000002      | Average Weekly Hours of All Employees: Total Private in Joplin, MO (MSA)                            | 2007-01-01          | 2022-01-01        |
+| SMU29279000500000001SA    | All Employees: Total Private in Joplin, MO (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU29279000500000002      | Average Weekly Hours of All Employees: Total Private in Joplin, MO (MSA)                            | 2007-01-01          | 2022-02-01        |
 | SMU29279000500000002A     | Average Weekly Hours of All Employees: Total Private in Joplin, MO (MSA)                            | 2007-01-01          | 2021-01-01        |
-| SMU29279000500000002SA    | Average Weekly Hours of All Employees: Total Private in Joplin, MO (MSA)                            | 2007-01-01          | 2022-01-01        |
-| SMU29279000500000003      | Average Hourly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU29279000500000002SA    | Average Weekly Hours of All Employees: Total Private in Joplin, MO (MSA)                            | 2007-01-01          | 2022-02-01        |
+| SMU29279000500000003      | Average Hourly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU29279000500000003A     | Average Hourly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU29279000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU29279000500000011      | Average Weekly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU29279000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU29279000500000011      | Average Weekly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU29279000500000011A     | Average Weekly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU29279000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU29279000600000001      | All Employees: Goods Producing in Joplin, MO (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU29279000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Joplin, MO (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU29279000600000001      | All Employees: Goods Producing in Joplin, MO (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU29279000600000001A     | All Employees: Goods Producing in Joplin, MO (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU29279000600000001SA    | All Employees: Goods Producing in Joplin, MO (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU29279000700000001      | All Employees: Service-Providing in Joplin, MO (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU29279000600000001SA    | All Employees: Goods Producing in Joplin, MO (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU29279000700000001      | All Employees: Service-Providing in Joplin, MO (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU29279000700000001A     | All Employees: Service-Providing in Joplin, MO (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU29279000700000001SA    | All Employees: Service-Providing in Joplin, MO (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU29279000800000001      | All Employees: Private Service Providing in Joplin, MO (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU29279000700000001SA    | All Employees: Service-Providing in Joplin, MO (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU29279000800000001      | All Employees: Private Service Providing in Joplin, MO (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU29279000800000001A     | All Employees: Private Service Providing in Joplin, MO (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU29279000800000001SA    | All Employees: Private Service Providing in Joplin, MO (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU29279000800000001SA    | All Employees: Private Service Providing in Joplin, MO (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU29279003000000001A     | All Employees: Manufacturing in Joplin, MO (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU29279003200000001      | All Employees: Manufacturing: Non-Durable Goods in Joplin, MO (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU29279003200000001      | All Employees: Manufacturing: Non-Durable Goods in Joplin, MO (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU29279003200000001A     | All Employees: Manufacturing: Non-Durable Goods in Joplin, MO (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU29279003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Joplin, MO (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU29279003231100001      | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Joplin, MO (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU29279003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Joplin, MO (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU29279003231100001      | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Joplin, MO (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU29279003231100001A     | All Employees: Non-Durable Goods: Food Manufacturing in Joplin, MO (MSA)                            | 1990-01-01          | 2021-01-01        |
-| SMU29279003231100001SA    | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Joplin, MO (MSA)             | 1990-01-01          | 2022-01-01        |
+| SMU29279003231100001SA    | All Employees: Manufacturing: Non-Durable Goods: Food Manufacturing in Joplin, MO (MSA)             | 1990-01-01          | 2022-02-01        |
 | SMU29279004000000001A     | All Employees: Trade, Transportation, and Utilities in Joplin, MO (MSA)                             | 1990-01-01          | 2021-01-01        |
-| SMU29279004200000001      | All Employees: Retail Trade in Joplin, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU29279004200000001      | All Employees: Retail Trade in Joplin, MO (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU29279004200000001A     | All Employees: Retail Trade in Joplin, MO (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU29279004200000001SA    | All Employees: Retail Trade in Joplin, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SMU29279004245200001      | All Employees: Retail Trade: General Merchandise Stores in Joplin, MO (MSA)                         | 1990-01-01          | 2022-01-01        |
+| SMU29279004200000001SA    | All Employees: Retail Trade in Joplin, MO (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU29279004245200001      | All Employees: Retail Trade: General Merchandise Stores in Joplin, MO (MSA)                         | 1990-01-01          | 2022-02-01        |
 | SMU29279004245200001A     | All Employees: Retail Trade: General Merchandise Stores in Joplin, MO (MSA)                         | 1990-01-01          | 2021-01-01        |
-| SMU29279004245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Joplin, MO (MSA)                         | 1990-01-01          | 2022-01-01        |
+| SMU29279004245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Joplin, MO (MSA)                         | 1990-01-01          | 2022-02-01        |
 | SMU29279006500000001A     | All Employees: Education and Health Services in Joplin, MO (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU29279006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Joplin, MO (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU29279006562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Joplin, MO (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU29279006562000001A     | All Employees: Health Care and Social Assistance in Joplin, MO (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU29279006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Joplin, MO (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU29279006562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Joplin, MO (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU29279009000000001A     | All Employees: Government in Joplin, MO (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU29279009091000001      | All Employees: Government: Federal Government in Joplin, MO (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| SMU29279009091000001      | All Employees: Government: Federal Government in Joplin, MO (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | SMU29279009091000001A     | All Employees: Federal Government in Joplin, MO (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU29279009091000001SA    | All Employees: Government: Federal Government in Joplin, MO (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| SMU29279009092000001      | All Employees: Government: State Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU29279009091000001SA    | All Employees: Government: Federal Government in Joplin, MO (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| SMU29279009092000001      | All Employees: Government: State Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU29279009092000001A     | All Employees: State Government in Joplin, MO (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU29279009092000001SA    | All Employees: Government: State Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SMU29279009093000001      | All Employees: Government: Local Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU29279009092000001SA    | All Employees: Government: State Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SMU29279009093000001      | All Employees: Government: Local Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU29279009093000001A     | All Employees: Local Government in Joplin, MO (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU29279009093000001SA    | All Employees: Government: Local Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU29279009093000001SA    | All Employees: Government: Local Government in Joplin, MO (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SUSCMSA27900              | Market Hotness: Supply Score in Joplin, MO (CBSA)                                                   | 2017-08-01          | 2022-01-01        |

@@ -7,30 +7,30 @@
 | AVELISPRI17420            | Housing Inventory: Average Listing Price in Cleveland, TN (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM17420          | Housing Inventory: Average Listing Price Month-Over-Month in Cleveland, TN (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY17420          | Housing Inventory: Average Listing Price Year-Over-Year in Cleveland, TN (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| CLEV447EDUH               | All Employees: Education and Health Services in Cleveland, TN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CLEV447EDUHN              | All Employees: Education and Health Services in Cleveland, TN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CLEV447FIRE               | All Employees: Financial Activities in Cleveland, TN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CLEV447FIREN              | All Employees: Financial Activities in Cleveland, TN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CLEV447GOVT               | All Employees: Government in Cleveland, TN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CLEV447GOVTN              | All Employees: Government in Cleveland, TN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CLEV447INFO               | All Employees: Information in Cleveland, TN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CLEV447INFON              | All Employees: Information in Cleveland, TN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CLEV447LEIH               | All Employees: Leisure and Hospitality in Cleveland, TN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| CLEV447LEIHN              | All Employees: Leisure and Hospitality in Cleveland, TN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| CLEV447EDUH               | All Employees: Education and Health Services in Cleveland, TN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CLEV447EDUHN              | All Employees: Education and Health Services in Cleveland, TN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CLEV447FIRE               | All Employees: Financial Activities in Cleveland, TN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CLEV447FIREN              | All Employees: Financial Activities in Cleveland, TN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CLEV447GOVT               | All Employees: Government in Cleveland, TN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CLEV447GOVTN              | All Employees: Government in Cleveland, TN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CLEV447INFO               | All Employees: Information in Cleveland, TN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CLEV447INFON              | All Employees: Information in Cleveland, TN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CLEV447LEIH               | All Employees: Leisure and Hospitality in Cleveland, TN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| CLEV447LEIHN              | All Employees: Leisure and Hospitality in Cleveland, TN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | CLEV447LF                 | Civilian Labor Force in Cleveland, TN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | CLEV447LFN                | Civilian Labor Force in Cleveland, TN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| CLEV447MFG                | All Employees: Manufacturing in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLEV447MFGN               | All Employees: Manufacturing in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLEV447NA                 | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLEV447NRMN               | All Employees: Mining, Logging, and Construction in Cleveland, TN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CLEV447NRMNN              | All Employees: Mining, Logging, and Construction in Cleveland, TN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CLEV447PBSV               | All Employees: Professional and Business Services in Cleveland, TN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| CLEV447PBSVN              | All Employees: Professional and Business Services in Cleveland, TN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| CLEV447MFG                | All Employees: Manufacturing in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLEV447MFGN               | All Employees: Manufacturing in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLEV447NA                 | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLEV447NRMN               | All Employees: Mining, Logging, and Construction in Cleveland, TN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CLEV447NRMNN              | All Employees: Mining, Logging, and Construction in Cleveland, TN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CLEV447PBSV               | All Employees: Professional and Business Services in Cleveland, TN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| CLEV447PBSVN              | All Employees: Professional and Business Services in Cleveland, TN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | CLEV447PCPI               | Per Capita Personal Income in Cleveland, TN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| CLEV447SRVO               | All Employees: Other Services in Cleveland, TN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CLEV447SRVON              | All Employees: Other Services in Cleveland, TN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CLEV447TRAD               | All Employees: Trade, Transportation, and Utilities in Cleveland, TN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| CLEV447TRADN              | All Employees: Trade, Transportation, and Utilities in Cleveland, TN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| CLEV447SRVO               | All Employees: Other Services in Cleveland, TN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CLEV447SRVON              | All Employees: Other Services in Cleveland, TN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CLEV447TRAD               | All Employees: Trade, Transportation, and Utilities in Cleveland, TN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| CLEV447TRADN              | All Employees: Trade, Transportation, and Utilities in Cleveland, TN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | CLEV447UR                 | Unemployment Rate in Cleveland, TN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | CLEV447URN                | Unemployment Rate in Cleveland, TN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | CLVPOP                    | Resident Population in Cleveland, TN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -87,42 +87,42 @@
 | RPPGOOD17420              | Regional Price Parities: Goods for Cleveland, TN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH17420          | Regional Price Parities: Services: Other for Cleveland, TN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT17420         | Regional Price Parities: Services: Rents for Cleveland, TN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS47174200000000026      | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
-| SMU47174200000000001      | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMS47174200000000026      | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
+| SMU47174200000000001      | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47174200000000001A     | All Employees: Total Nonfarm in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47174200500000001      | All Employees: Total Private in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU47174200500000001      | All Employees: Total Private in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47174200500000001A     | All Employees: Total Private in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47174200500000001SA    | All Employees: Total Private in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU47174200500000002      | Average Weekly Hours of All Employees: Total Private in Cleveland, TN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU47174200500000001SA    | All Employees: Total Private in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU47174200500000002      | Average Weekly Hours of All Employees: Total Private in Cleveland, TN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU47174200500000002A     | Average Weekly Hours of All Employees: Total Private in Cleveland, TN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47174200500000002SA    | Average Weekly Hours of All Employees: Total Private in Cleveland, TN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU47174200500000003      | Average Hourly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47174200500000002SA    | Average Weekly Hours of All Employees: Total Private in Cleveland, TN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU47174200500000003      | Average Hourly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47174200500000003A     | Average Hourly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47174200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47174200500000011      | Average Weekly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47174200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47174200500000011      | Average Weekly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47174200500000011A     | Average Weekly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47174200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47174200600000001      | All Employees: Goods Producing in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47174200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cleveland, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47174200600000001      | All Employees: Goods Producing in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47174200600000001A     | All Employees: Goods Producing in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47174200600000001SA    | All Employees: Goods Producing in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47174200700000001      | All Employees: Service-Providing in Cleveland, TN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU47174200600000001SA    | All Employees: Goods Producing in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47174200700000001      | All Employees: Service-Providing in Cleveland, TN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU47174200700000001A     | All Employees: Service-Providing in Cleveland, TN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU47174200700000001SA    | All Employees: Service-Providing in Cleveland, TN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU47174200800000001      | All Employees: Private Service Providing in Cleveland, TN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47174200700000001SA    | All Employees: Service-Providing in Cleveland, TN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU47174200800000001      | All Employees: Private Service Providing in Cleveland, TN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47174200800000001A     | All Employees: Private Service Providing in Cleveland, TN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU47174200800000001SA    | All Employees: Private Service Providing in Cleveland, TN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47174200800000001SA    | All Employees: Private Service Providing in Cleveland, TN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47174201500000001A     | All Employees: Mining, Logging, and Construction in Cleveland, TN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU47174203000000001A     | All Employees: Manufacturing in Cleveland, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU47174204000000001A     | All Employees: Trade, Transportation, and Utilities in Cleveland, TN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU47174204100000001      | All Employees: Wholesale Trade in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47174204100000001      | All Employees: Wholesale Trade in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47174204100000001A     | All Employees: Wholesale Trade in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47174204100000001SA    | All Employees: Wholesale Trade in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47174204200000001      | All Employees: Retail Trade in Cleveland, TN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU47174204100000001SA    | All Employees: Wholesale Trade in Cleveland, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47174204200000001      | All Employees: Retail Trade in Cleveland, TN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU47174204200000001A     | All Employees: Retail Trade in Cleveland, TN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU47174204200000001SA    | All Employees: Retail Trade in Cleveland, TN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU47174204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Cleveland, TN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47174204200000001SA    | All Employees: Retail Trade in Cleveland, TN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU47174204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Cleveland, TN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47174204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Cleveland, TN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU47174204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Cleveland, TN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47174204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Cleveland, TN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47174205000000001A     | All Employees: Information in Cleveland, TN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU47174205500000001A     | All Employees: Financial Activities in Cleveland, TN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU47174206000000001A     | All Employees: Professional and Business Services in Cleveland, TN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -130,12 +130,12 @@
 | SMU47174207000000001A     | All Employees: Leisure and Hospitality in Cleveland, TN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU47174208000000001A     | All Employees: Other Services in Cleveland, TN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU47174209000000001A     | All Employees: Government in Cleveland, TN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU47174209091000001      | All Employees: Government: Federal Government in Cleveland, TN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU47174209091000001      | All Employees: Government: Federal Government in Cleveland, TN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU47174209091000001A     | All Employees: Federal Government in Cleveland, TN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU47174209091000001SA    | All Employees: Government: Federal Government in Cleveland, TN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU47174209092000001      | All Employees: Government: State Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47174209091000001SA    | All Employees: Government: Federal Government in Cleveland, TN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU47174209092000001      | All Employees: Government: State Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47174209092000001A     | All Employees: State Government in Cleveland, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47174209092000001SA    | All Employees: Government: State Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47174209093000001      | All Employees: Government: Local Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47174209092000001SA    | All Employees: Government: State Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47174209093000001      | All Employees: Government: Local Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47174209093000001A     | All Employees: Local Government in Cleveland, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47174209093000001SA    | All Employees: Government: Local Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47174209093000001SA    | All Employees: Government: Local Government in Cleveland, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |

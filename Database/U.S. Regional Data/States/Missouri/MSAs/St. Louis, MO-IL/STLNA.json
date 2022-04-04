@@ -1,17 +1,17 @@
 {
   "id": "STLNA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All Employees: Total Nonfarm in St. Louis, MO-IL (MSA)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-03-15 03:26:03-05",
-  "popularity": 9,
-  "group_popularity": 10
+  "last_updated": "2022-03-26 03:27:06-05",
+  "popularity": 7,
+  "group_popularity": 7
 }

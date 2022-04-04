@@ -1,7 +1,7 @@
 {
   "id": "CES4300000003",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Average Hourly Earnings of All Employees, Transportation and Warehousing",
   "observation_start": "2006-03-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-04 07:44:35-06",
-  "popularity": 24,
-  "group_popularity": 24,
+  "popularity": 17,
+  "group_popularity": 18,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES4300000003"
 }

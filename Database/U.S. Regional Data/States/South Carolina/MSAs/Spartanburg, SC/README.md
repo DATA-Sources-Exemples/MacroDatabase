@@ -80,89 +80,89 @@
 | RPPSERVEOTH43900          | Regional Price Parities: Services: Other for Spartanburg, SC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT43900         | Regional Price Parities: Services: Rents for Spartanburg, SC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SMS45439000000000001      | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS45439000000000026      | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS45439000000000026      | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU45439000000000001A     | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU45439000500000001      | All Employees: Total Private in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU45439000500000001      | All Employees: Total Private in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU45439000500000001A     | All Employees: Total Private in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU45439000500000001SA    | All Employees: Total Private in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU45439000500000002      | Average Weekly Hours of All Employees: Total Private in Spartanburg, SC (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU45439000500000001SA    | All Employees: Total Private in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU45439000500000002      | Average Weekly Hours of All Employees: Total Private in Spartanburg, SC (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU45439000500000002A     | Average Weekly Hours of All Employees: Total Private in Spartanburg, SC (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU45439000500000002SA    | Average Weekly Hours of All Employees: Total Private in Spartanburg, SC (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU45439000500000003      | Average Hourly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU45439000500000002SA    | Average Weekly Hours of All Employees: Total Private in Spartanburg, SC (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU45439000500000003      | Average Hourly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU45439000500000003A     | Average Hourly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU45439000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU45439000500000011      | Average Weekly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU45439000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU45439000500000011      | Average Weekly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU45439000500000011A     | Average Weekly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU45439000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU45439000600000001      | All Employees: Goods Producing in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU45439000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Spartanburg, SC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU45439000600000001      | All Employees: Goods Producing in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU45439000600000001A     | All Employees: Goods Producing in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU45439000600000001SA    | All Employees: Goods Producing in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU45439000700000001      | All Employees: Service-Providing in Spartanburg, SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU45439000600000001SA    | All Employees: Goods Producing in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU45439000700000001      | All Employees: Service-Providing in Spartanburg, SC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU45439000700000001A     | All Employees: Service-Providing in Spartanburg, SC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU45439000700000001SA    | All Employees: Service-Providing in Spartanburg, SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU45439000800000001      | All Employees: Private Service Providing in Spartanburg, SC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU45439000700000001SA    | All Employees: Service-Providing in Spartanburg, SC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU45439000800000001      | All Employees: Private Service Providing in Spartanburg, SC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU45439000800000001A     | All Employees: Private Service Providing in Spartanburg, SC (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU45439000800000001SA    | All Employees: Private Service Providing in Spartanburg, SC (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU45439001500000001      | All Employees: Mining, Logging, and Construction in Spartanburg, SC (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU45439000800000001SA    | All Employees: Private Service Providing in Spartanburg, SC (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU45439001500000001      | All Employees: Mining, Logging, and Construction in Spartanburg, SC (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU45439001500000001A     | All Employees: Mining, Logging, and Construction in Spartanburg, SC (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU45439001500000001SA    | All Employees: Mining, Logging, and Construction in Spartanburg, SC (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU45439001500000001SA    | All Employees: Mining, Logging, and Construction in Spartanburg, SC (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU45439003000000001A     | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU45439003100000001      | All Employees: Manufacturing: Durable Goods in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU45439003100000001      | All Employees: Manufacturing: Durable Goods in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU45439003100000001A     | All Employees: Durable Goods in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU45439003100000001SA    | All Employees: Manufacturing: Durable Goods in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU45439003200000001      | All Employees: Manufacturing: Non-Durable Goods in Spartanburg, SC (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU45439003100000001SA    | All Employees: Manufacturing: Durable Goods in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU45439003200000001      | All Employees: Manufacturing: Non-Durable Goods in Spartanburg, SC (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU45439003200000001A     | All Employees: Non-Durable Goods in Spartanburg, SC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU45439003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Spartanburg, SC (MSA)                                         | 1990-01-01          | 2022-01-01        |
+| SMU45439003200000001SA    | All Employees: Manufacturing: Non-Durable Goods in Spartanburg, SC (MSA)                                         | 1990-01-01          | 2022-02-01        |
 | SMU45439004000000001A     | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU45439004100000001      | All Employees: Wholesale Trade in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU45439004100000001      | All Employees: Wholesale Trade in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU45439004100000001A     | All Employees: Wholesale Trade in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU45439004100000001SA    | All Employees: Wholesale Trade in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU45439004200000001      | All Employees: Retail Trade in Spartanburg, SC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU45439004100000001SA    | All Employees: Wholesale Trade in Spartanburg, SC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU45439004200000001      | All Employees: Retail Trade in Spartanburg, SC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU45439004200000001A     | All Employees: Retail Trade in Spartanburg, SC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU45439004200000001SA    | All Employees: Retail Trade in Spartanburg, SC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU45439004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spartanburg, SC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU45439004200000001SA    | All Employees: Retail Trade in Spartanburg, SC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU45439004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spartanburg, SC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU45439004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spartanburg, SC (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU45439004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spartanburg, SC (MSA) | 1990-01-01          | 2022-01-01        |
-| SMU45439005000000001      | All Employees: Information in Spartanburg, SC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU45439004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spartanburg, SC (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU45439005000000001      | All Employees: Information in Spartanburg, SC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU45439005000000001A     | All Employees: Information in Spartanburg, SC (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU45439005000000001SA    | All Employees: Information in Spartanburg, SC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SMU45439005500000001      | All Employees: Financial Activities in Spartanburg, SC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU45439005000000001SA    | All Employees: Information in Spartanburg, SC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU45439005500000001      | All Employees: Financial Activities in Spartanburg, SC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU45439005500000001A     | All Employees: Financial Activities in Spartanburg, SC (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU45439005500000001SA    | All Employees: Financial Activities in Spartanburg, SC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SMU45439006000000001      | All Employees: Professional and Business Services in Spartanburg, SC (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SMU45439005500000001SA    | All Employees: Financial Activities in Spartanburg, SC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU45439006000000001      | All Employees: Professional and Business Services in Spartanburg, SC (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SMU45439006000000001A     | All Employees: Professional and Business Services in Spartanburg, SC (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU45439006000000001SA    | All Employees: Professional and Business Services in Spartanburg, SC (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SMU45439006500000001      | All Employees: Education and Health Services in Spartanburg, SC (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU45439006000000001SA    | All Employees: Professional and Business Services in Spartanburg, SC (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SMU45439006500000001      | All Employees: Education and Health Services in Spartanburg, SC (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU45439006500000001A     | All Employees: Education and Health Services in Spartanburg, SC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU45439006500000001SA    | All Employees: Education and Health Services in Spartanburg, SC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU45439007000000001      | All Employees: Leisure and Hospitality in Spartanburg, SC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU45439006500000001SA    | All Employees: Education and Health Services in Spartanburg, SC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU45439007000000001      | All Employees: Leisure and Hospitality in Spartanburg, SC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU45439007000000001A     | All Employees: Leisure and Hospitality in Spartanburg, SC (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU45439007000000001SA    | All Employees: Leisure and Hospitality in Spartanburg, SC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU45439008000000001      | All Employees: Other Services in Spartanburg, SC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU45439007000000001SA    | All Employees: Leisure and Hospitality in Spartanburg, SC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU45439008000000001      | All Employees: Other Services in Spartanburg, SC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU45439008000000001A     | All Employees: Other Services in Spartanburg, SC (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU45439008000000001SA    | All Employees: Other Services in Spartanburg, SC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU45439008000000001SA    | All Employees: Other Services in Spartanburg, SC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU45439009000000001A     | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU45439009091000001      | All Employees: Government: Federal Government in Spartanburg, SC (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU45439009091000001      | All Employees: Government: Federal Government in Spartanburg, SC (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU45439009091000001A     | All Employees: Federal Government in Spartanburg, SC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU45439009091000001SA    | All Employees: Government: Federal Government in Spartanburg, SC (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU45439009092000001      | All Employees: Government: State Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU45439009091000001SA    | All Employees: Government: Federal Government in Spartanburg, SC (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU45439009092000001      | All Employees: Government: State Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU45439009092000001A     | All Employees: State Government in Spartanburg, SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU45439009092000001SA    | All Employees: Government: State Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU45439009093000001      | All Employees: Government: Local Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU45439009092000001SA    | All Employees: Government: State Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU45439009093000001      | All Employees: Government: Local Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU45439009093000001A     | All Employees: Local Government in Spartanburg, SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU45439009093000001SA    | All Employees: Government: Local Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SPAR945GOVT               | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| SPAR945GOVTN              | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
+| SMU45439009093000001SA    | All Employees: Government: Local Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SPAR945GOVT               | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SPAR945GOVTN              | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
 | SPAR945LF                 | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | SPAR945LFN                | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SPAR945MFG                | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPAR945MFGN               | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPAR945NA                 | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPAR945NAN                | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SPAR945MFG                | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPAR945MFGN               | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPAR945NA                 | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPAR945NAN                | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SPAR945PCPI               | Per Capita Personal Income in Spartanburg, SC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| SPAR945TRAD               | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SPAR945TRADN              | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SPAR945TRAD               | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SPAR945TRADN              | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SPAR945UR                 | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SPAR945URN                | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| SPBPOP                    | Resident Population in Spartanburg, SC (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| SPBPOP                    | Resident Population in Spartanburg, SC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SUSCMSA43900              | Market Hotness: Supply Score in Spartanburg, SC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

@@ -1,7 +1,7 @@
 {
   "id": "M1476CUSM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Monetary Gold Stock for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1970-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:34:41-05",
-  "popularity": 6,
+  "popularity": 5,
   "group_popularity": 20,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1946 (3)--Original Data, 1947-1970. Data Reflect Monthly Averages Of Daily Figures. Source: Federal Reserve Board, Federal Reserve Bulletins, 1947 And Following Issues.\n\nThis NBER data series m14076c appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14076c"
 }

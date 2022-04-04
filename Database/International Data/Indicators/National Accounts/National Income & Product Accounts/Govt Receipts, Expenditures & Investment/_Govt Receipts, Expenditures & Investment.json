@@ -1,8 +1,8 @@
 {
   "OPCNSH01MXA661N": {
     "id": "OPCNSH01MXA661N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Cost of Social Housing Construction for Mexico",
     "observation_start": "1973-01-01",
     "observation_end": "2018-01-01",
@@ -19,8 +19,8 @@
   },
   "OPCNSH01MXM661N": {
     "id": "OPCNSH01MXM661N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Cost of Social Housing Construction for Mexico",
     "observation_start": "1973-01-01",
     "observation_end": "2019-07-01",
@@ -37,8 +37,8 @@
   },
   "OPCNSH01MXQ661N": {
     "id": "OPCNSH01MXQ661N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Cost of Social Housing Construction for Mexico",
     "observation_start": "1973-01-01",
     "observation_end": "2019-04-01",

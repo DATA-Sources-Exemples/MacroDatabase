@@ -1,7 +1,7 @@
 {
   "id": "A089AAUSA144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Aggregate Payments to Individuals for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1938-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:28:21-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The 1934 Figure Is The Average Of Two Figures. See Page 321 Of The Source For An Explanation. Source: Simon Kuznets, National Income And Its Composition, 1919-1938, Volume I, 1941, Pp. 322-323, Table 57.\n\nThis NBER data series a08169aa appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08169aa"
 }

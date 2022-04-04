@@ -8,25 +8,25 @@
 | AVELISPRIMM21060          | Housing Inventory: Average Listing Price Month-Over-Month in Elizabethtown-Fort Knox, KY (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY21060          | Housing Inventory: Average Listing Price Year-Over-Year in Elizabethtown-Fort Knox, KY (CBSA)                  | 2017-07-01          | 2022-01-01        |
 | DESCMSA21060              | Market Hotness: Demand Score in Elizabethtown-Fort Knox, KY (CBSA)                                             | 2017-08-01          | 2022-01-01        |
-| ELZEDUH                   | All Employees: Education and Health Services in Elizabethtown-Fort Knox, KY (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ELZEDUHN                  | All Employees: Education and Health Services in Elizabethtown-Fort Knox, KY (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ELZGOVT                   | All Employees: Government in Elizabethtown-Fort Knox, KY (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ELZGOVTN                  | All Employees: Government in Elizabethtown-Fort Knox, KY (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ELZLEIH                   | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| ELZLEIHN                  | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| ELZEDUH                   | All Employees: Education and Health Services in Elizabethtown-Fort Knox, KY (MSA)                              | 1990-01-01          | 2022-02-01        |
+| ELZEDUHN                  | All Employees: Education and Health Services in Elizabethtown-Fort Knox, KY (MSA)                              | 1990-01-01          | 2022-02-01        |
+| ELZGOVT                   | All Employees: Government in Elizabethtown-Fort Knox, KY (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ELZGOVTN                  | All Employees: Government in Elizabethtown-Fort Knox, KY (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ELZLEIH                   | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| ELZLEIHN                  | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | ELZLF                     | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | ELZLFN                    | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| ELZMFG                    | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ELZMFGN                   | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ELZNA                     | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ELZNRMN                   | All Employees: Mining, Logging, and Construction in Elizabethtown-Fort Knox, KY (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ELZNRMNN                  | All Employees: Mining, Logging, and Construction in Elizabethtown-Fort Knox, KY (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ELZPBSV                   | All Employees: Professional and Business Services in Elizabethtown-Fort Knox, KY (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ELZPBSVN                  | All Employees: Professional and Business Services in Elizabethtown-Fort Knox, KY (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ELZMFG                    | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ELZMFGN                   | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ELZNA                     | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ELZNRMN                   | All Employees: Mining, Logging, and Construction in Elizabethtown-Fort Knox, KY (MSA)                          | 1990-01-01          | 2022-02-01        |
+| ELZNRMNN                  | All Employees: Mining, Logging, and Construction in Elizabethtown-Fort Knox, KY (MSA)                          | 1990-01-01          | 2022-02-01        |
+| ELZPBSV                   | All Employees: Professional and Business Services in Elizabethtown-Fort Knox, KY (MSA)                         | 1990-01-01          | 2022-02-01        |
+| ELZPBSVN                  | All Employees: Professional and Business Services in Elizabethtown-Fort Knox, KY (MSA)                         | 1990-01-01          | 2022-02-01        |
 | ELZPCPI                   | Per Capita Personal Income in Elizabethtown-Fort Knox, KY (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | ELZPOP                    | Resident Population in Elizabethtown-Fort Knox, KY (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| ELZTRAD                   | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-01-01        |
-| ELZTRADN                  | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-01-01        |
+| ELZTRAD                   | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-02-01        |
+| ELZTRADN                  | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-02-01        |
 | ELZUR                     | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ELZURN                    | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ENUC210630010             | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2021-07-01        |
@@ -100,48 +100,48 @@
 | RPPGOOD21060              | Regional Price Parities: Goods for Elizabethtown-Fort Knox, KY (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH21060          | Regional Price Parities: Services: Other for Elizabethtown-Fort Knox, KY (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT21060         | Regional Price Parities: Services: Rents for Elizabethtown-Fort Knox, KY (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS21210600000000001      | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMS21210600000000026      | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-04-01          | 2022-01-01        |
-| SMU21210600000000001      | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMS21210600000000001      | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMS21210600000000026      | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-04-01          | 2022-02-01        |
+| SMU21210600000000001      | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU21210600000000001A     | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU21210600500000001      | All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU21210600500000001      | All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU21210600500000001A     | All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU21210600500000001SA    | All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU21210600500000002      | Average Weekly Hours of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU21210600500000001SA    | All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU21210600500000002      | Average Weekly Hours of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU21210600500000002A     | Average Weekly Hours of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU21210600500000002SA    | Average Weekly Hours of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU21210600500000003      | Average Hourly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU21210600500000002SA    | Average Weekly Hours of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU21210600500000003      | Average Hourly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU21210600500000003A     | Average Hourly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU21210600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU21210600500000011      | Average Weekly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU21210600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU21210600500000011      | Average Weekly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU21210600500000011A     | Average Weekly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU21210600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU21210600600000001      | All Employees: Goods Producing in Elizabethtown-Fort Knox, KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU21210600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Elizabethtown-Fort Knox, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU21210600600000001      | All Employees: Goods Producing in Elizabethtown-Fort Knox, KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU21210600600000001A     | All Employees: Goods Producing in Elizabethtown-Fort Knox, KY (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU21210600600000001SA    | All Employees: Goods Producing in Elizabethtown-Fort Knox, KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU21210600700000001      | All Employees: Service-Providing in Elizabethtown-Fort Knox, KY (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU21210600600000001SA    | All Employees: Goods Producing in Elizabethtown-Fort Knox, KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU21210600700000001      | All Employees: Service-Providing in Elizabethtown-Fort Knox, KY (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU21210600700000001A     | All Employees: Service-Providing in Elizabethtown-Fort Knox, KY (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU21210600700000001SA    | All Employees: Service-Providing in Elizabethtown-Fort Knox, KY (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU21210600800000001      | All Employees: Private Service Providing in Elizabethtown-Fort Knox, KY (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU21210600700000001SA    | All Employees: Service-Providing in Elizabethtown-Fort Knox, KY (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU21210600800000001      | All Employees: Private Service Providing in Elizabethtown-Fort Knox, KY (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU21210600800000001A     | All Employees: Private Service Providing in Elizabethtown-Fort Knox, KY (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU21210600800000001SA    | All Employees: Private Service Providing in Elizabethtown-Fort Knox, KY (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU21210600800000001SA    | All Employees: Private Service Providing in Elizabethtown-Fort Knox, KY (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU21210601500000001A     | All Employees: Mining, Logging, and Construction in Elizabethtown-Fort Knox, KY (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU21210603000000001A     | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU21210604000000001A     | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU21210604200000001      | All Employees: Retail Trade in Elizabethtown-Fort Knox, KY (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU21210604200000001      | All Employees: Retail Trade in Elizabethtown-Fort Knox, KY (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU21210604200000001A     | All Employees: Retail Trade in Elizabethtown-Fort Knox, KY (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU21210604200000001SA    | All Employees: Retail Trade in Elizabethtown-Fort Knox, KY (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU21210604200000001SA    | All Employees: Retail Trade in Elizabethtown-Fort Knox, KY (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU21210606000000001A     | All Employees: Professional and Business Services in Elizabethtown-Fort Knox, KY (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU21210606500000001A     | All Employees: Education and Health Services in Elizabethtown-Fort Knox, KY (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU21210607000000001A     | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU21210609000000001A     | All Employees: Government in Elizabethtown-Fort Knox, KY (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU21210609091000001      | All Employees: Government: Federal Government in Elizabethtown-Fort Knox, KY (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU21210609091000001      | All Employees: Government: Federal Government in Elizabethtown-Fort Knox, KY (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU21210609091000001A     | All Employees: Federal Government in Elizabethtown-Fort Knox, KY (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU21210609091000001SA    | All Employees: Government: Federal Government in Elizabethtown-Fort Knox, KY (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU21210609092000001      | All Employees: Government: State Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU21210609091000001SA    | All Employees: Government: Federal Government in Elizabethtown-Fort Knox, KY (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU21210609092000001      | All Employees: Government: State Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU21210609092000001A     | All Employees: State Government in Elizabethtown-Fort Knox, KY (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU21210609092000001SA    | All Employees: Government: State Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU21210609093000001      | All Employees: Government: Local Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU21210609092000001SA    | All Employees: Government: State Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU21210609093000001      | All Employees: Government: Local Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU21210609093000001A     | All Employees: Local Government in Elizabethtown-Fort Knox, KY (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU21210609093000001SA    | All Employees: Government: Local Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU21210609093000001SA    | All Employees: Government: Local Government in Elizabethtown-Fort Knox, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA21060              | Market Hotness: Supply Score in Elizabethtown-Fort Knox, KY (CBSA)                                             | 2017-08-01          | 2022-01-01        |

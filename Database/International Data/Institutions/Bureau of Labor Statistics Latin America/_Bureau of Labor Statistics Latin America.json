@@ -1,8 +1,8 @@
 {
   "COLATZ11": {
     "id": "COLATZ11",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Agriculture, Forestry, Fishing and Hunting for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -19,8 +19,8 @@
   },
   "COLATZ31": {
     "id": "COLATZ31",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -37,8 +37,8 @@
   },
   "COLATZ32": {
     "id": "COLATZ32",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -55,8 +55,8 @@
   },
   "COLATZ33": {
     "id": "COLATZ33",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -73,8 +73,8 @@
   },
   "COLATZ111": {
     "id": "COLATZ111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Crop Production for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -91,8 +91,8 @@
   },
   "COLATZ315": {
     "id": "COLATZ315",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Apparel Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -109,8 +109,8 @@
   },
   "COLATZ325": {
     "id": "COLATZ325",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Chemical Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -127,8 +127,8 @@
   },
   "COLATZ331": {
     "id": "COLATZ331",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Primary Metal Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -145,8 +145,8 @@
   },
   "COLATZ332": {
     "id": "COLATZ332",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index: Fabricated metal product manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2018-12-01",
@@ -163,8 +163,8 @@
   },
   "COLATZ333": {
     "id": "COLATZ333",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Machinery Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -181,8 +181,8 @@
   },
   "COLATZ334": {
     "id": "COLATZ334",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -199,8 +199,8 @@
   },
   "COLATZ335": {
     "id": "COLATZ335",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -217,8 +217,8 @@
   },
   "COLATZ1113": {
     "id": "COLATZ1113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Fruit and Tree Nut Farming for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -235,8 +235,8 @@
   },
   "COLATZ3152": {
     "id": "COLATZ3152",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Cut and Sew Apparel Manufacturing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -253,8 +253,8 @@
   },
   "COLATZ3314": {
     "id": "COLATZ3314",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Import Price Index by Origin (NAICS): Nonferrous Metal (Except Aluminum) Production and Processing for Latin America",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -265,8 +265,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-16 07:38:38-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   }
 }

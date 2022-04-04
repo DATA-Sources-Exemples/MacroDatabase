@@ -17,54 +17,54 @@
 | CTMNGA475SCEN       | Number of Identified Exporters to Mongolia from Connecticut                                                                  | 1992-01-01          | 2017-01-01        |
 | DCMNGA475SCEN       | Number of Identified Exporters to Mongolia from District of Columbia                                                         | 1997-01-01          | 2016-01-01        |
 | DDAI01MNA642NWDB    | Number of Bank Accounts for Mongolia                                                                                         | 2005-01-01          | 2016-01-01        |
-| DDAI02MNA643NWDB    | Number of Bank Branches for Mongolia                                                                                         | 2005-01-01          | 2017-01-01        |
-| DDAI03MNA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Mongolia                                                         | 2009-01-01          | 2013-01-01        |
-| DDAI04MNA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Mongolia                                             | 2009-01-01          | 2013-01-01        |
+| DDAI02MNA643NWDB    | Number of Bank Branches for Mongolia                                                                                         | 2004-01-01          | 2019-01-01        |
+| DDAI03MNA156NWDB    | Firms with a Bank Loan or Line of Credit to Total Firms for Mongolia                                                         | 2009-01-01          | 2019-01-01        |
+| DDAI04MNA156NWDB    | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Mongolia                                             | 2009-01-01          | 2019-01-01        |
 | DDAI05MNA156NWDB    | People 15 Years and Over with Account at a Formal Financial Institution for Mongolia                                         | 2011-01-01          | 2017-01-01        |
 | DDAI06MNA156NWDB    | People 15 Years and Over Saving at a Financial Institution in the Past Year for Mongolia                                     | 2011-01-01          | 2017-01-01        |
 | DDAI07MNA156NWDB    | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Mongolia                                | 2011-01-01          | 2017-01-01        |
-| DDDI01MNA156NWDB    | Private Credit by Deposit Money Banks to GDP for Mongolia                                                                    | 2005-01-01          | 2017-01-01        |
-| DDDI02MNA156NWDB    | Deposit Money Bank Assets to GDP for Mongolia                                                                                | 2005-01-01          | 2017-01-01        |
-| DDDI04MNA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Mongolia                                  | 2005-01-01          | 2017-01-01        |
-| DDDI05MNA156NWDB    | Liquid Liabilities to GDP for Mongolia                                                                                       | 2005-01-01          | 2017-01-01        |
+| DDDI01MNA156NWDB    | Private Credit by Deposit Money Banks to GDP for Mongolia                                                                    | 1992-01-01          | 2020-01-01        |
+| DDDI02MNA156NWDB    | Deposit Money Bank Assets to GDP for Mongolia                                                                                | 1992-01-01          | 2020-01-01        |
+| DDDI04MNA156NWDB    | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Mongolia                                  | 1992-01-01          | 2020-01-01        |
+| DDDI05MNA156NWDB    | Liquid Liabilities to GDP for Mongolia                                                                                       | 1992-01-01          | 2020-01-01        |
 | DDDI06MNA156NWDB    | Central Bank Assets to GDP for Mongolia                                                                                      | 2005-01-01          | 2017-01-01        |
-| DDDI08MNA156NWDB    | Financial System Deposits to GDP for Mongolia                                                                                | 2005-01-01          | 2017-01-01        |
-| DDDI09MNA156NWDB    | Life Insurance Premium Volume to GDP for Mongolia                                                                            | 2011-01-01          | 2017-01-01        |
-| DDDI10MNA156NWDB    | Non-Life Insurance Premium Volume to GDP for Mongolia                                                                        | 2005-01-01          | 2017-01-01        |
-| DDDI11MNA156NWDB    | Insurance Company Assets to GDP for Mongolia                                                                                 | 2011-01-01          | 2016-01-01        |
-| DDDI12MNA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Mongolia                                   | 2005-01-01          | 2017-01-01        |
+| DDDI08MNA156NWDB    | Financial System Deposits to GDP for Mongolia                                                                                | 1992-01-01          | 2020-01-01        |
+| DDDI09MNA156NWDB    | Life Insurance Premium Volume to GDP for Mongolia                                                                            | 2008-01-01          | 2017-01-01        |
+| DDDI10MNA156NWDB    | Non-Life Insurance Premium Volume to GDP for Mongolia                                                                        | 1998-01-01          | 2018-01-01        |
+| DDDI11MNA156NWDB    | Insurance Company Assets to GDP for Mongolia                                                                                 | 2008-01-01          | 2017-01-01        |
+| DDDI12MNA156NWDB    | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Mongolia                                   | 1992-01-01          | 2020-01-01        |
 | DDDM01MNA156NWDB    | Stock Market Capitalization to GDP for Mongolia                                                                              | 2005-01-01          | 2011-01-01        |
 | DDDM02MNA156NWDB    | Stock Market Total Value Traded to GDP for Mongolia                                                                          | 2005-01-01          | 2011-01-01        |
-| DDDM08MNA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Mongolia                                                                       | 2011-01-01          | 2017-01-01        |
-| DDDM09MNA156NWDB    | Gross Portfolio Equity Assets to GDP for Mongolia                                                                            | 2011-01-01          | 2017-01-01        |
-| DDDM10MNA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Mongolia                                                                         | 2011-01-01          | 2017-01-01        |
-| DDEI01MNA156NWDB    | Bank's Net Interest Margin for Mongolia                                                                                      | 2005-01-01          | 2017-01-01        |
-| DDEI02MNA156NWDB    | Bank Lending Deposit Spread for Mongolia                                                                                     | 2005-01-01          | 2017-01-01        |
-| DDEI03MNA156NWDB    | Bank's Non-Interest Income to Total Income for Mongolia                                                                      | 2005-01-01          | 2017-01-01        |
-| DDEI04MNA156NWDB    | Bank's Overhead Costs to Total Assets for Mongolia                                                                           | 2005-01-01          | 2017-01-01        |
-| DDEI05MNA156NWDB    | Bank's Return on Assets for Mongolia                                                                                         | 2005-01-01          | 2017-01-01        |
-| DDEI06MNA156NWDB    | Bank's Return on Equity for Mongolia                                                                                         | 2005-01-01          | 2017-01-01        |
-| DDEI07MNA156NWDB    | Bank's Cost to Income Ratio for Mongolia                                                                                     | 2005-01-01          | 2017-01-01        |
-| DDEI08MNA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Mongolia                                                         | 2005-01-01          | 2017-01-01        |
+| DDDM08MNA156NWDB    | Gross Portfolio Equity Liabilities to GDP for Mongolia                                                                       | 2010-01-01          | 2019-01-01        |
+| DDDM09MNA156NWDB    | Gross Portfolio Equity Assets to GDP for Mongolia                                                                            | 2010-01-01          | 2019-01-01        |
+| DDDM10MNA156NWDB    | Gross Portfolio Debt Liabilities to GDP for Mongolia                                                                         | 2010-01-01          | 2019-01-01        |
+| DDEI01MNA156NWDB    | Bank's Net Interest Margin for Mongolia                                                                                      | 2001-01-01          | 2020-01-01        |
+| DDEI02MNA156NWDB    | Bank Lending Deposit Spread for Mongolia                                                                                     | 1998-01-01          | 2019-01-01        |
+| DDEI03MNA156NWDB    | Bank's Non-Interest Income to Total Income for Mongolia                                                                      | 2000-01-01          | 2020-01-01        |
+| DDEI04MNA156NWDB    | Bank's Overhead Costs to Total Assets for Mongolia                                                                           | 2001-01-01          | 2020-01-01        |
+| DDEI05MNA156NWDB    | Bank's Return on Assets for Mongolia                                                                                         | 2001-01-01          | 2020-01-01        |
+| DDEI06MNA156NWDB    | Bank's Return on Equity for Mongolia                                                                                         | 2001-01-01          | 2020-01-01        |
+| DDEI07MNA156NWDB    | Bank's Cost to Income Ratio for Mongolia                                                                                     | 2000-01-01          | 2020-01-01        |
+| DDEI08MNA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Mongolia                                                         | 1991-01-01          | 2019-01-01        |
 | DDEM01MNA156NWDB    | Stock Market Turnover Ratio (Value Traded/Capitalization) for Mongolia                                                       | 2005-01-01          | 2011-01-01        |
-| DDOE01MNA086NWDB    | Consumer Price Index for Mongolia                                                                                            | 2005-01-01          | 2017-01-01        |
-| DDOE02MNA086NWDB    | Consumer Price Index for Mongolia                                                                                            | 2005-01-01          | 2017-01-01        |
-| DDOI01MNA156NWDB    | Bank Concentration for Mongolia                                                                                              | 2005-01-01          | 2017-01-01        |
-| DDOI02MNA156NWDB    | Bank Deposits to GDP for Mongolia                                                                                            | 2005-01-01          | 2017-01-01        |
-| DDOI05MNA156NWDB    | Boone Indicator in Banking Market for Mongolia                                                                               | 2005-01-01          | 2014-01-01        |
-| DDOI06MNA156NWDB    | 5-Bank Asset Concentration for Mongolia                                                                                      | 2005-01-01          | 2017-01-01        |
-| DDOI07MNA648NWDB    | Liquid Liabilities (Broad Money) for Mongolia                                                                                | 2005-01-01          | 2017-01-01        |
-| DDOI09MNA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Mongolia                                                      | 2005-01-01          | 2017-01-01        |
+| DDOE01MNA086NWDB    | Consumer Price Index for Mongolia                                                                                            | 1991-01-01          | 2017-01-01        |
+| DDOE02MNA086NWDB    | Consumer Price Index for Mongolia                                                                                            | 1991-01-01          | 2017-01-01        |
+| DDOI01MNA156NWDB    | Bank Concentration for Mongolia                                                                                              | 2000-01-01          | 2020-01-01        |
+| DDOI02MNA156NWDB    | Bank Deposits to GDP for Mongolia                                                                                            | 1992-01-01          | 2020-01-01        |
+| DDOI05MNA156NWDB    | Boone Indicator in Banking Market for Mongolia                                                                               | 2000-01-01          | 2014-01-01        |
+| DDOI06MNA156NWDB    | 5-Bank Asset Concentration for Mongolia                                                                                      | 2005-01-01          | 2020-01-01        |
+| DDOI07MNA648NWDB    | Liquid Liabilities (Broad Money) for Mongolia                                                                                | 1991-01-01          | 2020-01-01        |
+| DDOI09MNA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Mongolia                                                      | 2002-01-01          | 2020-01-01        |
 | DDOI10MNA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Mongolia                                | 2005-01-01          | 2017-01-01        |
-| DDOI11MNA156NWDB    | Remittance Inflows to GDP for Mongolia                                                                                       | 2005-01-01          | 2017-01-01        |
-| DDOI12MNA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Mongolia                                                       | 2005-01-01          | 2017-01-01        |
-| DDOI13MNA156NWDB    | Percentage of Foreign Banks Among Total Banks for Mongolia                                                                   | 2005-01-01          | 2011-01-01        |
+| DDOI11MNA156NWDB    | Remittance Inflows to GDP for Mongolia                                                                                       | 1998-01-01          | 2020-01-01        |
+| DDOI12MNA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Mongolia                                                       | 1983-01-01          | 2019-01-01        |
+| DDOI13MNA156NWDB    | Percentage of Foreign Banks Among Total Banks for Mongolia                                                                   | 1995-01-01          | 2013-01-01        |
 | DDOI14MNA156NWDB    | Percentage of Foreign Bank Assets Among Total Bank Assets for Mongolia                                                       | 2005-01-01          | 2007-01-01        |
 | DDOM01MNA644NWDB    | Number of Listed Companies for Mongolia                                                                                      | 2005-01-01          | 2011-01-01        |
-| DDSI01MNA645NWDB    | Bank Z-Score for Mongolia                                                                                                    | 2005-01-01          | 2017-01-01        |
-| DDSI04MNA156NWDB    | Bank Credit to Bank Deposits for Mongolia                                                                                    | 2005-01-01          | 2017-01-01        |
-| DDSI06MNA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Mongolia                                                                | 2005-01-01          | 2017-01-01        |
-| DDSM01MNA066NWDB    | Volatility of Stock Price Index for Mongolia                                                                                 | 2005-01-01          | 2017-01-01        |
+| DDSI01MNA645NWDB    | Bank Z-Score for Mongolia                                                                                                    | 2000-01-01          | 2020-01-01        |
+| DDSI04MNA156NWDB    | Bank Credit to Bank Deposits for Mongolia                                                                                    | 1992-01-01          | 2020-01-01        |
+| DDSI06MNA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Mongolia                                                                | 2000-01-01          | 2020-01-01        |
+| DDSM01MNA066NWDB    | Volatility of Stock Price Index for Mongolia                                                                                 | 2001-01-01          | 2020-01-01        |
 | DEBTTLMNA188A       | Central government debt, total (% of GDP) for Mongolia                                                                       | 1992-01-01          | 2009-01-01        |
 | DEMNGA475SCEN       | Number of Identified Exporters to Mongolia from Delaware                                                                     | 2004-01-01          | 2016-01-01        |
 | EXP5740             | U.S. Exports of Goods by F.A.S. Basis to Mongolia                                                                            | 1992-01-01          | 2022-01-01        |

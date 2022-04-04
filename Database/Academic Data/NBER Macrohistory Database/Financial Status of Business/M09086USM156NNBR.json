@@ -1,7 +1,7 @@
 {
   "id": "M09086USM156NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Automobile Direct Loans, Delinquent 30 Days and Over as Percentage of Number Outstanding for United States",
   "observation_start": "1947-11-01",
   "observation_end": "1966-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:01:39-05",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 21,
+  "group_popularity": 21,
   "notes": "Source: American Bankers Association, \"Delinquency Rates On Bank Instalment Loans\", (Various Titles), Monthly, 1947-October, 1964, Bi-Monthly Thereafter\n\nThis NBER data series m09086 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09086"
 }

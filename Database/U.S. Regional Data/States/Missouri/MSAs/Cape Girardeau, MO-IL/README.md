@@ -63,31 +63,31 @@
 | RPPGOOD16020              | Regional Price Parities: Goods for Cape Girardeau, MO-IL (MSA)                                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH16020          | Regional Price Parities: Services: Other for Cape Girardeau, MO-IL (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT16020         | Regional Price Parities: Services: Rents for Cape Girardeau, MO-IL (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| SMS29160200000000001      | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMS29160200000000026      | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-04-01          | 2022-01-01        |
-| SMU29160200000000001      | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMS29160200000000001      | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMS29160200000000026      | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-04-01          | 2022-02-01        |
+| SMU29160200000000001      | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU29160200000000001A     | All Employees: Total Nonfarm in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU29160200500000001      | All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-01-01        |
+| SMU29160200500000001      | All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-02-01        |
 | SMU29160200500000001A     | All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU29160200500000001SA    | All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| SMU29160200500000002      | Average Weekly Hours of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                            | 2008-01-01          | 2022-01-01        |
+| SMU29160200500000001SA    | All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU29160200500000002      | Average Weekly Hours of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                            | 2008-01-01          | 2022-02-01        |
 | SMU29160200500000002A     | Average Weekly Hours of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                            | 2008-01-01          | 2021-01-01        |
-| SMU29160200500000002SA    | Average Weekly Hours of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                            | 2008-01-01          | 2022-01-01        |
-| SMU29160200500000003      | Average Hourly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-01-01        |
+| SMU29160200500000002SA    | Average Weekly Hours of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                            | 2008-01-01          | 2022-02-01        |
+| SMU29160200500000003      | Average Hourly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-02-01        |
 | SMU29160200500000003A     | Average Hourly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2021-01-01        |
-| SMU29160200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-01-01        |
-| SMU29160200500000011      | Average Weekly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-01-01        |
+| SMU29160200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-02-01        |
+| SMU29160200500000011      | Average Weekly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-02-01        |
 | SMU29160200500000011A     | Average Weekly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2021-01-01        |
-| SMU29160200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-01-01        |
-| SMU29160200600000001      | All Employees: Goods Producing in Cape Girardeau, MO-IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU29160200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cape Girardeau, MO-IL (MSA)                         | 2008-01-01          | 2022-02-01        |
+| SMU29160200600000001      | All Employees: Goods Producing in Cape Girardeau, MO-IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU29160200600000001A     | All Employees: Goods Producing in Cape Girardeau, MO-IL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU29160200600000001SA    | All Employees: Goods Producing in Cape Girardeau, MO-IL (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SMU29160200700000001      | All Employees: Service-Providing in Cape Girardeau, MO-IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU29160200600000001SA    | All Employees: Goods Producing in Cape Girardeau, MO-IL (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU29160200700000001      | All Employees: Service-Providing in Cape Girardeau, MO-IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU29160200700000001A     | All Employees: Service-Providing in Cape Girardeau, MO-IL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU29160200700000001SA    | All Employees: Service-Providing in Cape Girardeau, MO-IL (MSA)                                                | 1990-01-01          | 2022-01-01        |
-| SMU29160200800000001      | All Employees: Private Service Providing in Cape Girardeau, MO-IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU29160200700000001SA    | All Employees: Service-Providing in Cape Girardeau, MO-IL (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU29160200800000001      | All Employees: Private Service Providing in Cape Girardeau, MO-IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU29160200800000001A     | All Employees: Private Service Providing in Cape Girardeau, MO-IL (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU29160200800000001SA    | All Employees: Private Service Providing in Cape Girardeau, MO-IL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU29160209000000001      | All Employees: Government in Cape Girardeau, MO-IL (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU29160200800000001SA    | All Employees: Private Service Providing in Cape Girardeau, MO-IL (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU29160209000000001      | All Employees: Government in Cape Girardeau, MO-IL (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | SMU29160209000000001A     | All Employees: Government in Cape Girardeau, MO-IL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU29160209000000001SA    | All Employees: Government in Cape Girardeau, MO-IL (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| SMU29160209000000001SA    | All Employees: Government in Cape Girardeau, MO-IL (MSA)                                                       | 1990-01-01          | 2022-02-01        |

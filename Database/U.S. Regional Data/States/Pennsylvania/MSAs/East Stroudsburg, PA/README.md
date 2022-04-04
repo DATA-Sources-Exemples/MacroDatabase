@@ -33,60 +33,60 @@
 | RPPGOOD20700           | Regional Price Parities: Goods for East Stroudsburg, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH20700       | Regional Price Parities: Services: Other for East Stroudsburg, PA (MSA)                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT20700      | Regional Price Parities: Services: Rents for East Stroudsburg, PA (MSA)                               | 2008-01-01          | 2020-01-01        |
-| SMU42207000000000001   | All Employees: Total Nonfarm in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42207000000000001   | All Employees: Total Nonfarm in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42207000000000001A  | All Employees: Total Nonfarm in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42207000000000001SA | All Employees: Total Nonfarm in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42207000500000001   | All Employees: Total Private in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42207000000000001SA | All Employees: Total Nonfarm in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42207000500000001   | All Employees: Total Private in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42207000500000001A  | All Employees: Total Private in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42207000500000001SA | All Employees: Total Private in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42207000500000002   | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2022-01-01        |
+| SMU42207000500000001SA | All Employees: Total Private in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42207000500000002   | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2022-02-01        |
 | SMU42207000500000002A  | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU42207000500000002SA | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2022-01-01        |
-| SMU42207000500000003   | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-01-01        |
+| SMU42207000500000002SA | Average Weekly Hours of All Employees: Total Private in East Stroudsburg, PA (MSA)                    | 2011-01-01          | 2022-02-01        |
+| SMU42207000500000003   | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-02-01        |
 | SMU42207000500000003A  | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU42207000500000003SA | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-01-01        |
-| SMU42207000500000011   | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-01-01        |
+| SMU42207000500000003SA | Average Hourly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-02-01        |
+| SMU42207000500000011   | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-02-01        |
 | SMU42207000500000011A  | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU42207000500000011SA | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-01-01        |
-| SMU42207000600000001   | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU42207000500000011SA | Average Weekly Earnings of All Employees: Total Private in East Stroudsburg, PA (MSA)                 | 2011-01-01          | 2022-02-01        |
+| SMU42207000600000001   | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU42207000600000001A  | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU42207000600000001SA | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU42207000700000001   | All Employees: Service-Providing in East Stroudsburg, PA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| SMU42207000600000001SA | All Employees: Goods Producing in East Stroudsburg, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU42207000700000001   | All Employees: Service-Providing in East Stroudsburg, PA (MSA)                                        | 1990-01-01          | 2022-02-01        |
 | SMU42207000700000001A  | All Employees: Service-Providing in East Stroudsburg, PA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU42207000700000001SA | All Employees: Service-Providing in East Stroudsburg, PA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SMU42207000800000001   | All Employees: Private Service Providing in East Stroudsburg, PA (MSA)                                | 1990-01-01          | 2022-01-01        |
+| SMU42207000700000001SA | All Employees: Service-Providing in East Stroudsburg, PA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SMU42207000800000001   | All Employees: Private Service Providing in East Stroudsburg, PA (MSA)                                | 1990-01-01          | 2022-02-01        |
 | SMU42207000800000001A  | All Employees: Private Service Providing in East Stroudsburg, PA (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU42207000800000001SA | All Employees: Private Service Providing in East Stroudsburg, PA (MSA)                                | 1990-01-01          | 2022-01-01        |
-| SMU42207001500000001   | All Employees: Mining, Logging, and Construction in East Stroudsburg, PA (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU42207000800000001SA | All Employees: Private Service Providing in East Stroudsburg, PA (MSA)                                | 1990-01-01          | 2022-02-01        |
+| SMU42207001500000001   | All Employees: Mining, Logging, and Construction in East Stroudsburg, PA (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU42207001500000001A  | All Employees: Mining, Logging, and Construction in East Stroudsburg, PA (MSA)                        | 1990-01-01          | 2021-01-01        |
-| SMU42207001500000001SA | All Employees: Mining, Logging, and Construction in East Stroudsburg, PA (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU42207003000000001   | All Employees: Manufacturing in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42207001500000001SA | All Employees: Mining, Logging, and Construction in East Stroudsburg, PA (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU42207003000000001   | All Employees: Manufacturing in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42207003000000001A  | All Employees: Manufacturing in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42207003000000001SA | All Employees: Manufacturing in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42207004000000001   | All Employees: Trade, Transportation, and Utilities in East Stroudsburg, PA (MSA)                     | 1990-01-01          | 2022-01-01        |
+| SMU42207003000000001SA | All Employees: Manufacturing in East Stroudsburg, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42207004000000001   | All Employees: Trade, Transportation, and Utilities in East Stroudsburg, PA (MSA)                     | 1990-01-01          | 2022-02-01        |
 | SMU42207004000000001A  | All Employees: Trade, Transportation, and Utilities in East Stroudsburg, PA (MSA)                     | 1990-01-01          | 2021-01-01        |
-| SMU42207004000000001SA | All Employees: Trade, Transportation, and Utilities in East Stroudsburg, PA (MSA)                     | 1990-01-01          | 2022-01-01        |
-| SMU42207004200000001   | All Employees: Retail Trade in East Stroudsburg, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU42207004000000001SA | All Employees: Trade, Transportation, and Utilities in East Stroudsburg, PA (MSA)                     | 1990-01-01          | 2022-02-01        |
+| SMU42207004200000001   | All Employees: Retail Trade in East Stroudsburg, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU42207004200000001A  | All Employees: Retail Trade in East Stroudsburg, PA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU42207004200000001SA | All Employees: Retail Trade in East Stroudsburg, PA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU42207006000000001   | All Employees: Professional and Business Services in East Stroudsburg, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| SMU42207004200000001SA | All Employees: Retail Trade in East Stroudsburg, PA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU42207006000000001   | All Employees: Professional and Business Services in East Stroudsburg, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | SMU42207006000000001A  | All Employees: Professional and Business Services in East Stroudsburg, PA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU42207006000000001SA | All Employees: Professional and Business Services in East Stroudsburg, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| SMU42207006500000001   | All Employees: Education and Health Services in East Stroudsburg, PA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| SMU42207006000000001SA | All Employees: Professional and Business Services in East Stroudsburg, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| SMU42207006500000001   | All Employees: Education and Health Services in East Stroudsburg, PA (MSA)                            | 1990-01-01          | 2022-02-01        |
 | SMU42207006500000001A  | All Employees: Education and Health Services in East Stroudsburg, PA (MSA)                            | 1990-01-01          | 2021-01-01        |
-| SMU42207006500000001SA | All Employees: Education and Health Services in East Stroudsburg, PA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| SMU42207007000000001   | All Employees: Leisure and Hospitality in East Stroudsburg, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU42207006500000001SA | All Employees: Education and Health Services in East Stroudsburg, PA (MSA)                            | 1990-01-01          | 2022-02-01        |
+| SMU42207007000000001   | All Employees: Leisure and Hospitality in East Stroudsburg, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU42207007000000001A  | All Employees: Leisure and Hospitality in East Stroudsburg, PA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU42207007000000001SA | All Employees: Leisure and Hospitality in East Stroudsburg, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU42207009000000001   | All Employees: Government in East Stroudsburg, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU42207007000000001SA | All Employees: Leisure and Hospitality in East Stroudsburg, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU42207009000000001   | All Employees: Government in East Stroudsburg, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU42207009000000001A  | All Employees: Government in East Stroudsburg, PA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU42207009000000001SA | All Employees: Government in East Stroudsburg, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU42207009091000001   | All Employees: Government: Federal Government in East Stroudsburg, PA (MSA)                           | 1990-01-01          | 2022-01-01        |
+| SMU42207009000000001SA | All Employees: Government in East Stroudsburg, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU42207009091000001   | All Employees: Government: Federal Government in East Stroudsburg, PA (MSA)                           | 1990-01-01          | 2022-02-01        |
 | SMU42207009091000001A  | All Employees: Government: Federal Government in East Stroudsburg, PA (MSA)                           | 1990-01-01          | 2021-01-01        |
-| SMU42207009091000001SA | All Employees: Government: Federal Government in East Stroudsburg, PA (MSA)                           | 1990-01-01          | 2022-01-01        |
-| SMU42207009092000001   | All Employees: Government: State Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU42207009091000001SA | All Employees: Government: Federal Government in East Stroudsburg, PA (MSA)                           | 1990-01-01          | 2022-02-01        |
+| SMU42207009092000001   | All Employees: Government: State Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU42207009092000001A  | All Employees: Government: State Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2021-01-01        |
-| SMU42207009092000001SA | All Employees: Government: State Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU42207009093000001   | All Employees: Government: Local Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU42207009092000001SA | All Employees: Government: State Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU42207009093000001   | All Employees: Government: Local Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU42207009093000001A  | All Employees: Government: Local Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2021-01-01        |
-| SMU42207009093000001SA | All Employees: Government: Local Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU42207009093000001SA | All Employees: Government: Local Government in East Stroudsburg, PA (MSA)                             | 1990-01-01          | 2022-02-01        |

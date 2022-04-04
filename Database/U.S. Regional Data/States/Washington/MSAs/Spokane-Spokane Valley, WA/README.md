@@ -24,7 +24,7 @@
 | HORAMSA44060              | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA44060              | Market Hotness: Hotness Score in Spokane-Spokane Valley, WA (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD44060                 | Implicit Regional Price Deflator for Spokane-Spokane Valley, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534406000000003A     | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
 | LAUMT534406000000004      | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
@@ -80,110 +80,110 @@
 | RPPGOOD44060              | Regional Price Parities: Goods for Spokane-Spokane Valley, WA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH44060          | Regional Price Parities: Services: Other for Spokane-Spokane Valley, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT44060         | Regional Price Parities: Services: Rents for Spokane-Spokane Valley, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS53440600000000001      | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMS53440600000000026      | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS53440600000000001      | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMS53440600000000026      | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU53440600000000001A     | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53440600500000001      | All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU53440600500000001      | All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU53440600500000001A     | All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53440600500000001SA    | All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU53440600500000002      | Average Weekly Hours of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU53440600500000001SA    | All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU53440600500000002      | Average Weekly Hours of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU53440600500000002A     | Average Weekly Hours of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU53440600500000002SA    | Average Weekly Hours of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU53440600500000003      | Average Hourly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU53440600500000002SA    | Average Weekly Hours of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU53440600500000003      | Average Hourly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU53440600500000003A     | Average Hourly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53440600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU53440600500000011      | Average Weekly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU53440600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU53440600500000011      | Average Weekly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU53440600500000011A     | Average Weekly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53440600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU53440600600000001      | All Employees: Goods Producing in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU53440600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Spokane-Spokane Valley, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU53440600600000001      | All Employees: Goods Producing in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU53440600600000001A     | All Employees: Goods Producing in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU53440600600000001SA    | All Employees: Goods Producing in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU53440600700000001      | All Employees: Service-Providing in Spokane-Spokane Valley, WA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU53440600600000001SA    | All Employees: Goods Producing in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU53440600700000001      | All Employees: Service-Providing in Spokane-Spokane Valley, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU53440600700000001A     | All Employees: Service-Providing in Spokane-Spokane Valley, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU53440600700000001SA    | All Employees: Service-Providing in Spokane-Spokane Valley, WA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU53440600800000001      | All Employees: Private Service Providing in Spokane-Spokane Valley, WA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU53440600700000001SA    | All Employees: Service-Providing in Spokane-Spokane Valley, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU53440600800000001      | All Employees: Private Service Providing in Spokane-Spokane Valley, WA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU53440600800000001A     | All Employees: Private Service Providing in Spokane-Spokane Valley, WA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU53440600800000001SA    | All Employees: Private Service Providing in Spokane-Spokane Valley, WA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU53440600800000001SA    | All Employees: Private Service Providing in Spokane-Spokane Valley, WA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU53440601500000001A     | All Employees: Mining, Logging, and Construction in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU53440603000000001A     | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU53440604000000001A     | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU53440604100000001      | All Employees: Wholesale Trade in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU53440604100000001      | All Employees: Wholesale Trade in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU53440604100000001A     | All Employees: Wholesale Trade in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU53440604100000001SA    | All Employees: Wholesale Trade in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU53440604200000001      | All Employees: Retail Trade in Spokane-Spokane Valley, WA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU53440604100000001SA    | All Employees: Wholesale Trade in Spokane-Spokane Valley, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU53440604200000001      | All Employees: Retail Trade in Spokane-Spokane Valley, WA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU53440604200000001A     | All Employees: Retail Trade in Spokane-Spokane Valley, WA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU53440604200000001SA    | All Employees: Retail Trade in Spokane-Spokane Valley, WA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU53440604244500001      | All Employees: Retail Trade: Food and Beverage Stores in Spokane-Spokane Valley, WA (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| SMU53440604200000001SA    | All Employees: Retail Trade in Spokane-Spokane Valley, WA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU53440604244500001      | All Employees: Retail Trade: Food and Beverage Stores in Spokane-Spokane Valley, WA (MSA)                                   | 1990-01-01          | 2022-02-01        |
 | SMU53440604244500001A     | All Employees: Retail Trade: Food and Beverage Stores in Spokane-Spokane Valley, WA (MSA)                                   | 1990-01-01          | 2021-01-01        |
-| SMU53440604244500001SA    | All Employees: Retail Trade: Food and Beverage Stores in Spokane-Spokane Valley, WA (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| SMU53440604245200001      | All Employees: Retail Trade: General Merchandise Stores in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU53440604244500001SA    | All Employees: Retail Trade: Food and Beverage Stores in Spokane-Spokane Valley, WA (MSA)                                   | 1990-01-01          | 2022-02-01        |
+| SMU53440604245200001      | All Employees: Retail Trade: General Merchandise Stores in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU53440604245200001A     | All Employees: Retail Trade: General Merchandise Stores in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU53440604245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU53440604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spokane-Spokane Valley, WA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU53440604245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU53440604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spokane-Spokane Valley, WA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU53440604300000001A     | All Employees: Transportation and Utilities in Spokane-Spokane Valley, WA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU53440604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spokane-Spokane Valley, WA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU53440604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Spokane-Spokane Valley, WA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU53440605000000001A     | All Employees: Information in Spokane-Spokane Valley, WA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU53440605500000001A     | All Employees: Financial Activities in Spokane-Spokane Valley, WA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU53440605552000001      | All Employees: Financial Activities: Finance and Insurance in Spokane-Spokane Valley, WA (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU53440605552000001      | All Employees: Financial Activities: Finance and Insurance in Spokane-Spokane Valley, WA (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU53440605552000001A     | All Employees: Financial Activities: Finance and Insurance in Spokane-Spokane Valley, WA (MSA)                              | 1990-01-01          | 2021-01-01        |
-| SMU53440605552000001SA    | All Employees: Financial Activities: Finance and Insurance in Spokane-Spokane Valley, WA (MSA)                              | 1990-01-01          | 2022-01-01        |
+| SMU53440605552000001SA    | All Employees: Financial Activities: Finance and Insurance in Spokane-Spokane Valley, WA (MSA)                              | 1990-01-01          | 2022-02-01        |
 | SMU53440606000000001A     | All Employees: Professional and Business Services in Spokane-Spokane Valley, WA (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU53440606500000001A     | All Employees: Education and Health Services in Spokane-Spokane Valley, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53440606562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Spokane-Spokane Valley, WA (MSA)         | 1990-01-01          | 2022-01-01        |
+| SMU53440606562000001      | All Employees: Education and Health Services: Health Care and Social Assistance in Spokane-Spokane Valley, WA (MSA)         | 1990-01-01          | 2022-02-01        |
 | SMU53440606562000001A     | All Employees: Health Care and Social Assistance in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU53440606562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Spokane-Spokane Valley, WA (MSA)         | 1990-01-01          | 2022-01-01        |
-| SMU53440606562100001      | All Employees: Education and Health Services: Ambulatory Health Care Services in Spokane-Spokane Valley, WA (MSA)           | 1990-01-01          | 2022-01-01        |
+| SMU53440606562000001SA    | All Employees: Education and Health Services: Health Care and Social Assistance in Spokane-Spokane Valley, WA (MSA)         | 1990-01-01          | 2022-02-01        |
+| SMU53440606562100001      | All Employees: Education and Health Services: Ambulatory Health Care Services in Spokane-Spokane Valley, WA (MSA)           | 1990-01-01          | 2022-02-01        |
 | SMU53440606562100001A     | All Employees: Health Care: Ambulatory Health Care Services in Spokane-Spokane Valley, WA (MSA)                             | 1990-01-01          | 2021-01-01        |
-| SMU53440606562100001SA    | All Employees: Education and Health Services: Ambulatory Health Care Services in Spokane-Spokane Valley, WA (MSA)           | 1990-01-01          | 2022-01-01        |
-| SMU53440606562200001      | All Employees: Education and Health Services: Hospitals in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU53440606562100001SA    | All Employees: Education and Health Services: Ambulatory Health Care Services in Spokane-Spokane Valley, WA (MSA)           | 1990-01-01          | 2022-02-01        |
+| SMU53440606562200001      | All Employees: Education and Health Services: Hospitals in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU53440606562200001A     | All Employees: Health Care: Hospitals in Spokane-Spokane Valley, WA (MSA)                                                   | 1990-01-01          | 2021-01-01        |
-| SMU53440606562200001SA    | All Employees: Education and Health Services: Hospitals in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU53440606562200001SA    | All Employees: Education and Health Services: Hospitals in Spokane-Spokane Valley, WA (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU53440607000000001A     | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU53440607072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Spokane-Spokane Valley, WA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU53440607072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Spokane-Spokane Valley, WA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU53440607072200001A     | All Employees: Food Services and Drinking Places in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU53440607072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Spokane-Spokane Valley, WA (MSA)               | 1990-01-01          | 2022-01-01        |
+| SMU53440607072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in Spokane-Spokane Valley, WA (MSA)               | 1990-01-01          | 2022-02-01        |
 | SMU53440608000000001A     | All Employees: Other Services in Spokane-Spokane Valley, WA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU53440609000000001A     | All Employees: Government in Spokane-Spokane Valley, WA (MSA)                                                               | 1993-01-01          | 2021-01-01        |
-| SMU53440609091000001      | All Employees: Government: Federal Government in Spokane-Spokane Valley, WA (MSA)                                           | 1993-01-01          | 2022-01-01        |
+| SMU53440609091000001      | All Employees: Government: Federal Government in Spokane-Spokane Valley, WA (MSA)                                           | 1993-01-01          | 2022-02-01        |
 | SMU53440609091000001A     | All Employees: Federal Government in Spokane-Spokane Valley, WA (MSA)                                                       | 1993-01-01          | 2021-01-01        |
-| SMU53440609091000001SA    | All Employees: Government: Federal Government in Spokane-Spokane Valley, WA (MSA)                                           | 1993-01-01          | 2022-01-01        |
-| SMU53440609092000001      | All Employees: Government: State Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-01-01        |
+| SMU53440609091000001SA    | All Employees: Government: Federal Government in Spokane-Spokane Valley, WA (MSA)                                           | 1993-01-01          | 2022-02-01        |
+| SMU53440609092000001      | All Employees: Government: State Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-02-01        |
 | SMU53440609092000001A     | All Employees: State Government in Spokane-Spokane Valley, WA (MSA)                                                         | 1993-01-01          | 2021-01-01        |
-| SMU53440609092000001SA    | All Employees: Government: State Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-01-01        |
-| SMU53440609092161101      | All Employees: Government: State Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-01-01        |
+| SMU53440609092000001SA    | All Employees: Government: State Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-02-01        |
+| SMU53440609092161101      | All Employees: Government: State Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-02-01        |
 | SMU53440609092161101A     | All Employees: State Government Educational Services in Spokane-Spokane Valley, WA (MSA)                                    | 1993-01-01          | 2021-01-01        |
-| SMU53440609092161101SA    | All Employees: Government: State Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-01-01        |
-| SMU53440609093000001      | All Employees: Government: Local Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-01-01        |
+| SMU53440609092161101SA    | All Employees: Government: State Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-02-01        |
+| SMU53440609093000001      | All Employees: Government: Local Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-02-01        |
 | SMU53440609093000001A     | All Employees: Local Government in Spokane-Spokane Valley, WA (MSA)                                                         | 1993-01-01          | 2021-01-01        |
-| SMU53440609093000001SA    | All Employees: Government: Local Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-01-01        |
-| SMU53440609093161101      | All Employees: Government: Local Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-01-01        |
+| SMU53440609093000001SA    | All Employees: Government: Local Government in Spokane-Spokane Valley, WA (MSA)                                             | 1993-01-01          | 2022-02-01        |
+| SMU53440609093161101      | All Employees: Government: Local Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-02-01        |
 | SMU53440609093161101A     | All Employees: Local Government Educational Services in Spokane-Spokane Valley, WA (MSA)                                    | 1993-01-01          | 2021-01-01        |
-| SMU53440609093161101SA    | All Employees: Government: Local Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-01-01        |
-| SPKPOP                    | Resident Population in Spokane-Spokane Valley, WA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| SPOK053EDUH               | All Employees: Education and Health Services in Spokane-Spokane Valley, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SPOK053EDUHN              | All Employees: Education and Health Services in Spokane-Spokane Valley, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SPOK053FIRE               | All Employees: Financial Activities in Spokane-Spokane Valley, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SPOK053FIREN              | All Employees: Financial Activities in Spokane-Spokane Valley, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| SPOK053GOVT               | All Employees: Government in Spokane-Spokane Valley, WA (MSA)                                                               | 1993-01-01          | 2022-01-01        |
-| SPOK053GOVTN              | All Employees: Government in Spokane-Spokane Valley, WA (MSA)                                                               | 1993-01-01          | 2022-01-01        |
-| SPOK053INFO               | All Employees: Information in Spokane-Spokane Valley, WA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SPOK053INFON              | All Employees: Information in Spokane-Spokane Valley, WA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| SPOK053LEIH               | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| SPOK053LEIHN              | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU53440609093161101SA    | All Employees: Government: Local Government Educational Services in Spokane-Spokane Valley, WA (MSA)                        | 1993-01-01          | 2022-02-01        |
+| SPKPOP                    | Resident Population in Spokane-Spokane Valley, WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| SPOK053EDUH               | All Employees: Education and Health Services in Spokane-Spokane Valley, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SPOK053EDUHN              | All Employees: Education and Health Services in Spokane-Spokane Valley, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SPOK053FIRE               | All Employees: Financial Activities in Spokane-Spokane Valley, WA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SPOK053FIREN              | All Employees: Financial Activities in Spokane-Spokane Valley, WA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SPOK053GOVT               | All Employees: Government in Spokane-Spokane Valley, WA (MSA)                                                               | 1993-01-01          | 2022-02-01        |
+| SPOK053GOVTN              | All Employees: Government in Spokane-Spokane Valley, WA (MSA)                                                               | 1993-01-01          | 2022-02-01        |
+| SPOK053INFO               | All Employees: Information in Spokane-Spokane Valley, WA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SPOK053INFON              | All Employees: Information in Spokane-Spokane Valley, WA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SPOK053LEIH               | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SPOK053LEIHN              | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SPOK053LF                 | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | SPOK053LFN                | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| SPOK053MFG                | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPOK053MFGN               | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPOK053NAN                | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SPOK053NRMN               | All Employees: Mining, Logging, and Construction in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SPOK053NRMNN              | All Employees: Mining, Logging, and Construction in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| SPOK053PBSV               | All Employees: Professional and Business Services in Spokane-Spokane Valley, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| SPOK053PBSVN              | All Employees: Professional and Business Services in Spokane-Spokane Valley, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| SPOK053MFG                | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPOK053MFGN               | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPOK053NAN                | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SPOK053NRMN               | All Employees: Mining, Logging, and Construction in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SPOK053NRMNN              | All Employees: Mining, Logging, and Construction in Spokane-Spokane Valley, WA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SPOK053PBSV               | All Employees: Professional and Business Services in Spokane-Spokane Valley, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SPOK053PBSVN              | All Employees: Professional and Business Services in Spokane-Spokane Valley, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | SPOK053PCPI               | Per Capita Personal Income in Spokane-Spokane Valley, WA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| SPOK053SRVO               | All Employees: Other Services in Spokane-Spokane Valley, WA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SPOK053SRVON              | All Employees: Other Services in Spokane-Spokane Valley, WA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| SPOK053TRAD               | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| SPOK053TRADN              | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SPOK053SRVO               | All Employees: Other Services in Spokane-Spokane Valley, WA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SPOK053SRVON              | All Employees: Other Services in Spokane-Spokane Valley, WA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SPOK053TRAD               | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SPOK053TRADN              | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SPOK053UR                 | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SPOK053URN                | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | SUSCMSA44060              | Market Hotness: Supply Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

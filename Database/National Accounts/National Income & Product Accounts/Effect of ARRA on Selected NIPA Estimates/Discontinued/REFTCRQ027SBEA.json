@@ -1,7 +1,7 @@
 {
   "id": "REFTCRQ027SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefits: to Persons: Refundable Tax Credits (DISCONTINUED)",
   "observation_start": "2009-01-01",
   "observation_end": "2013-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2013-08-12 11:17:14-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "The estimated effect of ARRA on selected NIPA estimates of federal receipts and expenditures.\nIncludes outlays associated with the Making Work Pay, American Opportunity, and other refundable tax credits as well as an expansion of the earned income and child tax credits.\n\nEstimates of the ARRA\u2019s effects on the NIPAs will not be available for periods after the first quarter of 2013 due to the lack of availability of source data and the declining impact of the ARRA on the NIPAs. For more information about the ARRA, visit http://www.ed.gov/open/plan/recovery-gov."
 }

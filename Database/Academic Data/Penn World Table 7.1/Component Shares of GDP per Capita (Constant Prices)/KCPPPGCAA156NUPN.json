@@ -1,7 +1,7 @@
 {
   "id": "KCPPPGCAA156NUPN",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices for Canada",
   "observation_start": "1950-01-01",
   "observation_end": "2010-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-09-17 10:47:10-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: kc"
 }

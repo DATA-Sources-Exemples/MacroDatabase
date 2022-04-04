@@ -1,7 +1,7 @@
 {
   "id": "DTWEXBGS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Nominal Broad U.S. Dollar Index",
   "observation_start": "2006-01-02",
   "observation_end": "2022-03-18",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 15:20:02-05",
   "popularity": 74,
-  "group_popularity": 75
+  "group_popularity": 74
 }

@@ -1,8 +1,8 @@
 {
   "WPS132": {
     "id": "WPS132",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Ingredients and Related Products",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:46-05",
-    "popularity": 2,
+    "popularity": 3,
     "group_popularity": 7
   },
   "WPS133": {
     "id": "WPS133",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Products",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:46-05",
-    "popularity": 2,
-    "group_popularity": 10
+    "popularity": 1,
+    "group_popularity": 6
   },
   "WPS135": {
     "id": "WPS135",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Refractories",
     "observation_start": "1967-01-01",
     "observation_end": "2011-12-01",
@@ -52,8 +52,8 @@
   },
   "WPS136": {
     "id": "WPS136",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Asphalt Felts and Coatings",
     "observation_start": "1967-01-01",
     "observation_end": "2014-12-01",
@@ -65,12 +65,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-02-18 14:52:38-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "WPS137": {
     "id": "WPS137",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Products",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:43-05",
-    "popularity": 10,
-    "group_popularity": 30
+    "popularity": 8,
+    "group_popularity": 25
   },
   "WPS138": {
     "id": "WPS138",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -98,13 +98,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:57-05",
-    "popularity": 6,
-    "group_popularity": 7
+    "popularity": 3,
+    "group_popularity": 4
   },
   "WPS139": {
     "id": "WPS139",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Nonmetallic Minerals",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -116,12 +116,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:46-05",
     "popularity": 2,
-    "group_popularity": 2
+    "group_popularity": 3
   },
   "WPS1313": {
     "id": "WPS1313",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Finished Glassware",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPS1321": {
     "id": "WPS1321",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand, Gravel, and Crushed Stone",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:04-05",
-    "popularity": 43,
-    "group_popularity": 45
+    "popularity": 42,
+    "group_popularity": 44
   },
   "WPS1322": {
     "id": "WPS1322",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cement, Hydraulic",
     "observation_start": "1986-01-01",
     "observation_end": "2022-02-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:57-05",
-    "popularity": 4,
-    "group_popularity": 29
+    "popularity": 3,
+    "group_popularity": 28
   },
   "WPS1331": {
     "id": "WPS1331",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Block and Brick",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:03-05",
     "popularity": 3,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "WPS1333": {
     "id": "WPS1333",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -200,13 +200,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:24-05",
-    "popularity": 16,
-    "group_popularity": 35
+    "popularity": 14,
+    "group_popularity": 31
   },
   "WPS1334": {
     "id": "WPS1334",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Products",
     "observation_start": "1990-01-01",
     "observation_end": "2011-12-01",
@@ -218,12 +218,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2017-02-14 09:57:17-06",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 10
   },
   "WPS1345": {
     "id": "WPS1345",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Clay Products, Not Elsewhere Classified",
     "observation_start": "2002-01-01",
     "observation_end": "2015-12-01",
@@ -239,8 +239,8 @@
   },
   "WPS1352": {
     "id": "WPS1352",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Refractories",
     "observation_start": "1975-01-01",
     "observation_end": "2011-12-01",
@@ -256,8 +256,8 @@
   },
   "WPS1361": {
     "id": "WPS1361",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prepared Asphalt and Tar Roofing and Siding Products",
     "observation_start": "1975-01-01",
     "observation_end": "2012-12-01",
@@ -269,12 +269,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:02-06",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 7
   },
   "WPS1362": {
     "id": "WPS1362",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Roofing Asphalts, Pitches, Coatings, and Cement",
     "observation_start": "1975-01-01",
     "observation_end": "2016-12-01",
@@ -286,12 +286,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-11 11:24:21-06",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPS1381": {
     "id": "WPS1381",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers",
     "observation_start": "2000-01-01",
     "observation_end": "2022-02-01",
@@ -303,12 +303,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:50-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPS1392": {
     "id": "WPS1392",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Insulation Materials",
     "observation_start": "1987-01-01",
     "observation_end": "2015-12-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2021-02-17 10:48:06-06",
-    "popularity": 12,
-    "group_popularity": 33
+    "popularity": 10,
+    "group_popularity": 27
   },
   "WPS1394": {
     "id": "WPS1394",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Paving Mixtures and Blocks",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -337,12 +337,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:50-05",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 5
   },
   "WPS1398": {
     "id": "WPS1398",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gaskets, Packing, and Sealing Devices",
     "observation_start": "2008-01-01",
     "observation_end": "2014-12-01",
@@ -354,12 +354,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-02-18 14:52:38-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "WPS1399": {
     "id": "WPS1399",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Nonmetallic Minerals and Products, Not Elsewhere Classified",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -371,12 +371,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:49-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 5
   },
   "WPS131301": {
     "id": "WPS131301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Pressed and Blown Glassware",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "WPS132101": {
     "id": "WPS132101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand, Gravel and Crushed Stone",
     "observation_start": "1984-01-01",
     "observation_end": "2022-02-01",
@@ -404,13 +404,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:03-05",
-    "popularity": 2,
-    "group_popularity": 3
+    "popularity": 3,
+    "group_popularity": 4
   },
   "WPS132201": {
     "id": "WPS132201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cement, Hydraulic",
     "observation_start": "1981-01-01",
     "observation_end": "2022-02-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:46-05",
-    "popularity": 4,
-    "group_popularity": 29
+    "popularity": 3,
+    "group_popularity": 28
   },
   "WPS133111": {
     "id": "WPS133111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Concrete Block",
     "observation_start": "1986-01-01",
     "observation_end": "2022-02-01",
@@ -438,13 +438,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:50-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPS133121": {
     "id": "WPS133121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Decorative Concrete Block",
     "observation_start": "2004-01-01",
     "observation_end": "2022-02-01",
@@ -460,8 +460,8 @@
   },
   "WPS133301": {
     "id": "WPS133301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -472,13 +472,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:24-05",
-    "popularity": 8,
-    "group_popularity": 35
+    "popularity": 9,
+    "group_popularity": 31
   },
   "WPS133401": {
     "id": "WPS133401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Products",
     "observation_start": "1990-01-01",
     "observation_end": "2011-12-01",
@@ -490,12 +490,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2017-02-14 09:57:17-06",
     "popularity": 2,
-    "group_popularity": 7
+    "group_popularity": 10
   },
   "WPS134501": {
     "id": "WPS134501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Clay Products, Not Elsewhere Classified",
     "observation_start": "2002-01-01",
     "observation_end": "2015-12-01",
@@ -511,8 +511,8 @@
   },
   "WPS135201": {
     "id": "WPS135201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Refractories",
     "observation_start": "1990-01-01",
     "observation_end": "2011-12-01",
@@ -528,8 +528,8 @@
   },
   "WPS136101": {
     "id": "WPS136101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prepared Asphalt and Tar Roofing and Siding Products",
     "observation_start": "1990-01-01",
     "observation_end": "2012-12-01",
@@ -541,12 +541,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:07-06",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 7
   },
   "WPS136201": {
     "id": "WPS136201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Roofing Asphalts, Pitches, Coatings, and Cement",
     "observation_start": "1997-01-01",
     "observation_end": "2016-12-01",
@@ -558,12 +558,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-11 11:25:39-06",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPS137101": {
     "id": "WPS137101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Products",
     "observation_start": "1987-01-01",
     "observation_end": "2022-02-01",
@@ -575,12 +575,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:50-05",
     "popularity": 1,
-    "group_popularity": 30
+    "group_popularity": 25
   },
   "WPS138101": {
     "id": "WPS138101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers (Including Value of Packaging)",
     "observation_start": "2000-01-01",
     "observation_end": "2022-02-01",
@@ -591,13 +591,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:28-05",
-    "popularity": 4,
-    "group_popularity": 6
+    "popularity": 2,
+    "group_popularity": 3
   },
   "WPS139201": {
     "id": "WPS139201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Mineral Wool for Thermal and Acoustical Envelope Insulation",
     "observation_start": "1987-01-01",
     "observation_end": "2015-12-01",
@@ -608,13 +608,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2021-02-17 10:48:14-06",
-    "popularity": 1,
+    "popularity": 2,
     "group_popularity": 3
   },
   "WPS139401": {
     "id": "WPS139401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Paving Mixtures and Blocks",
     "observation_start": "1997-01-01",
     "observation_end": "2022-02-01",
@@ -626,12 +626,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:49-05",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 5
   },
   "WPS139801": {
     "id": "WPS139801",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gaskets and Gasketing Material",
     "observation_start": "2008-01-01",
     "observation_end": "2014-12-01",
@@ -647,8 +647,8 @@
   },
   "WPS139901": {
     "id": "WPS139901",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Industrial Sand",
     "observation_start": "1986-01-01",
     "observation_end": "2011-12-01",
@@ -664,8 +664,8 @@
   },
   "WPS139902": {
     "id": "WPS139902",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay and Stone Mining and Quarrying",
     "observation_start": "1993-01-01",
     "observation_end": "2014-12-01",
@@ -681,8 +681,8 @@
   },
   "WPU13": {
     "id": "WPU13",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -693,13 +693,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:28-05",
-    "popularity": 19,
-    "group_popularity": 19
+    "popularity": 18,
+    "group_popularity": 18
   },
   "WPU131": {
     "id": "WPU131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -710,13 +710,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:37-05",
-    "popularity": 18,
-    "group_popularity": 18
+    "popularity": 15,
+    "group_popularity": 15
   },
   "WPU132": {
     "id": "WPU132",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Ingredients and Related Products",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -727,13 +727,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:35-05",
-    "popularity": 6,
+    "popularity": 5,
     "group_popularity": 7
   },
   "WPU133": {
     "id": "WPU133",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Products",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -744,13 +744,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:56-05",
-    "popularity": 9,
-    "group_popularity": 10
+    "popularity": 5,
+    "group_popularity": 6
   },
   "WPU134": {
     "id": "WPU134",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Construction Products Excluding Refractories",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -761,13 +761,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:45-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU135": {
     "id": "WPU135",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Refractories",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -783,8 +783,8 @@
   },
   "WPU136": {
     "id": "WPU136",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Asphalt Felts and Coatings",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -796,12 +796,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
     "popularity": 3,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "WPU137": {
     "id": "WPU137",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Products",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -812,13 +812,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:16-05",
-    "popularity": 26,
-    "group_popularity": 30
+    "popularity": 21,
+    "group_popularity": 25
   },
   "WPU138": {
     "id": "WPU138",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -830,12 +830,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPU139": {
     "id": "WPU139",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Nonmetallic Minerals",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -847,12 +847,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 3
   },
   "WPU1311": {
     "id": "WPU1311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Flat Glass",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -863,13 +863,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:27-05",
-    "popularity": 28,
-    "group_popularity": 28
+    "popularity": 22,
+    "group_popularity": 22
   },
   "WPU1313": {
     "id": "WPU1313",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Finished Glassware",
     "observation_start": "1983-06-01",
     "observation_end": "2022-02-01",
@@ -885,8 +885,8 @@
   },
   "WPU1321": {
     "id": "WPU1321",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand, Gravel, and Crushed Stone",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -897,13 +897,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:32-05",
-    "popularity": 20,
-    "group_popularity": 45
+    "popularity": 19,
+    "group_popularity": 44
   },
   "WPU1322": {
     "id": "WPU1322",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cement, Hydraulic",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -914,13 +914,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:29-05",
-    "popularity": 26,
-    "group_popularity": 29
+    "popularity": 25,
+    "group_popularity": 28
   },
   "WPU1331": {
     "id": "WPU1331",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Block and Brick",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -931,13 +931,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:27-05",
-    "popularity": 4,
-    "group_popularity": 6
+    "popularity": 3,
+    "group_popularity": 5
   },
   "WPU1332": {
     "id": "WPU1332",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Pipe",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -948,13 +948,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:57-05",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU1333": {
     "id": "WPU1333",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -965,13 +965,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:22-05",
-    "popularity": 28,
-    "group_popularity": 35
+    "popularity": 23,
+    "group_popularity": 31
   },
   "WPU1334": {
     "id": "WPU1334",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Products",
     "observation_start": "1980-06-01",
     "observation_end": "2022-02-01",
@@ -982,13 +982,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:00-05",
-    "popularity": 6,
-    "group_popularity": 7
+    "popularity": 8,
+    "group_popularity": 10
   },
   "WPU1335": {
     "id": "WPU1335",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prestressed Concrete Products",
     "observation_start": "1980-06-01",
     "observation_end": "2022-02-01",
@@ -1004,8 +1004,8 @@
   },
   "WPU1342": {
     "id": "WPU1342",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Brick and Structural Clay Tile",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -1016,13 +1016,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:27-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU1344": {
     "id": "WPU1344",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Floor and Wall Tile, Glazed and Unglazed",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1038,8 +1038,8 @@
   },
   "WPU1345": {
     "id": "WPU1345",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Clay Products, Not Elsewhere Classified",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1055,8 +1055,8 @@
   },
   "WPU1352": {
     "id": "WPU1352",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Refractories",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1072,8 +1072,8 @@
   },
   "WPU1353": {
     "id": "WPU1353",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Nonclay Refractories",
     "observation_start": "1974-12-01",
     "observation_end": "2022-02-01",
@@ -1089,8 +1089,8 @@
   },
   "WPU1361": {
     "id": "WPU1361",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prepared Asphalt and Tar Roofing and Siding Products",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -1101,13 +1101,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:46-05",
-    "popularity": 7,
-    "group_popularity": 9
+    "popularity": 5,
+    "group_popularity": 7
   },
   "WPU1362": {
     "id": "WPU1362",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Roofing Asphalts, Pitches, Coatings, and Cement",
     "observation_start": "1964-12-01",
     "observation_end": "2022-02-01",
@@ -1118,13 +1118,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
-    "popularity": 3,
-    "group_popularity": 7
+    "popularity": 1,
+    "group_popularity": 4
   },
   "WPU1371": {
     "id": "WPU1371",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Products",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1135,13 +1135,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
-    "popularity": 6,
-    "group_popularity": 30
+    "popularity": 3,
+    "group_popularity": 25
   },
   "WPU1381": {
     "id": "WPU1381",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1153,12 +1153,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:26-05",
     "popularity": 2,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPU1392": {
     "id": "WPU1392",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Insulation Materials",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1169,13 +1169,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:09-05",
-    "popularity": 31,
-    "group_popularity": 33
+    "popularity": 25,
+    "group_popularity": 27
   },
   "WPU1394": {
     "id": "WPU1394",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Paving Mixtures and Blocks",
     "observation_start": "1958-01-01",
     "observation_end": "2022-02-01",
@@ -1186,13 +1186,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:26-05",
-    "popularity": 8,
-    "group_popularity": 9
+    "popularity": 4,
+    "group_popularity": 5
   },
   "WPU1395": {
     "id": "WPU1395",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cut Stone and Stone Products",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -1208,8 +1208,8 @@
   },
   "WPU1398": {
     "id": "WPU1398",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gaskets, Packing, and Sealing Devices",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1221,12 +1221,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:06-05",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "WPU1399": {
     "id": "WPU1399",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Nonmetallic Minerals and Products, Not Elsewhere Classified",
     "observation_start": "1982-06-01",
     "observation_end": "2022-02-01",
@@ -1237,13 +1237,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:56-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU131105": {
     "id": "WPU131105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Flat Glass (Float, Sheet, and Plate Process)",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -1254,13 +1254,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:48-05",
-    "popularity": 1,
-    "group_popularity": 8
+    "popularity": 3,
+    "group_popularity": 6
   },
   "WPU131107": {
     "id": "WPU131107",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Specialty Glass",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -1272,12 +1272,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:47-05",
     "popularity": 6,
-    "group_popularity": 6
+    "group_popularity": 7
   },
   "WPU131301": {
     "id": "WPU131301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Pressed and Blown Glassware",
     "observation_start": "1983-06-01",
     "observation_end": "2022-02-01",
@@ -1293,8 +1293,8 @@
   },
   "WPU132101": {
     "id": "WPU132101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand, Gravel and Crushed Stone",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1306,12 +1306,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:59-05",
     "popularity": 2,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU132201": {
     "id": "WPU132201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cement, Hydraulic",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1323,12 +1323,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:47-05",
     "popularity": 3,
-    "group_popularity": 29
+    "group_popularity": 28
   },
   "WPU133111": {
     "id": "WPU133111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Concrete Block",
     "observation_start": "1981-06-01",
     "observation_end": "2022-02-01",
@@ -1340,12 +1340,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:47-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 2
   },
   "WPU133121": {
     "id": "WPU133121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Decorative Concrete Block",
     "observation_start": "1981-06-01",
     "observation_end": "2022-02-01",
@@ -1361,8 +1361,8 @@
   },
   "WPU133131": {
     "id": "WPU133131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Brick",
     "observation_start": "1981-06-01",
     "observation_end": "2022-02-01",
@@ -1378,8 +1378,8 @@
   },
   "WPU133141": {
     "id": "WPU133141",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Pavers",
     "observation_start": "1983-10-01",
     "observation_end": "2022-02-01",
@@ -1395,8 +1395,8 @@
   },
   "WPU133201": {
     "id": "WPU133201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Pipe",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1408,12 +1408,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:46-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPU133301": {
     "id": "WPU133301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1425,12 +1425,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
     "popularity": 3,
-    "group_popularity": 35
+    "group_popularity": 31
   },
   "WPU133401": {
     "id": "WPU133401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Products",
     "observation_start": "1980-07-01",
     "observation_end": "2022-02-01",
@@ -1442,12 +1442,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:45-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 10
   },
   "WPU133501": {
     "id": "WPU133501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prestressed Concrete Products",
     "observation_start": "1980-06-01",
     "observation_end": "2022-02-01",
@@ -1463,8 +1463,8 @@
   },
   "WPU134201": {
     "id": "WPU134201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Building or Common Brick",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -1475,13 +1475,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU134202": {
     "id": "WPU134202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glazed Brick and Other Brick (Paving, Floor, and Sewer)",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -1497,8 +1497,8 @@
   },
   "WPU134401": {
     "id": "WPU134401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Floor and Wall Tile, Glazed and Unglazed (Including Quarry Tile and Ceramic Mosaic Tile)",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1509,13 +1509,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:57-05",
-    "popularity": 12,
-    "group_popularity": 13
+    "popularity": 9,
+    "group_popularity": 9
   },
   "WPU134501": {
     "id": "WPU134501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Clay Products, Not Elsewhere Classified",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1531,8 +1531,8 @@
   },
   "WPU135201": {
     "id": "WPU135201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Refractories",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1548,8 +1548,8 @@
   },
   "WPU135301": {
     "id": "WPU135301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Nonclay Refractories (Excluding Dead-Burned Magnesia)",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1565,8 +1565,8 @@
   },
   "WPU136101": {
     "id": "WPU136101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prepared Asphalt and Tar Roofing and Siding Products",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1577,13 +1577,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:08-05",
-    "popularity": 3,
-    "group_popularity": 9
+    "popularity": 2,
+    "group_popularity": 7
   },
   "WPU136201": {
     "id": "WPU136201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Roofing Asphalts, Pitches, Coatings, and Cement",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1594,13 +1594,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
-    "popularity": 3,
-    "group_popularity": 7
+    "popularity": 2,
+    "group_popularity": 4
   },
   "WPU137101": {
     "id": "WPU137101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Products",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1611,13 +1611,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
-    "popularity": 2,
-    "group_popularity": 30
+    "popularity": 1,
+    "group_popularity": 25
   },
   "WPU138101": {
     "id": "WPU138101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers (Including Value of Packaging)",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1629,12 +1629,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 3
   },
   "WPU139201": {
     "id": "WPU139201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Mineral Wool for Thermal and Acoustical Envelope Insulation",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1645,13 +1645,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:46-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 3
   },
   "WPU139202": {
     "id": "WPU139202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Mineral Wool for Industrial, Equipment, and Appliance Insulation",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -1663,12 +1663,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:06-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 5
   },
   "WPU139401": {
     "id": "WPU139401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Paving Mixtures and Blocks",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1680,12 +1680,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:06-05",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 5
   },
   "WPU139501": {
     "id": "WPU139501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cut Stone and Stone Products",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -1701,8 +1701,8 @@
   },
   "WPU139801": {
     "id": "WPU139801",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gaskets and Gasketing Material",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1718,8 +1718,8 @@
   },
   "WPU139802": {
     "id": "WPU139802",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Packing and Sealing",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1735,8 +1735,8 @@
   },
   "WPU139901": {
     "id": "WPU139901",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Industrial Sand",
     "observation_start": "1982-06-01",
     "observation_end": "2022-02-01",
@@ -1747,13 +1747,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:26-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "WPU139902": {
     "id": "WPU139902",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay and Stone Mining and Quarrying",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -1769,8 +1769,8 @@
   },
   "WPU139903": {
     "id": "WPU139903",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: All Other Miscellaneous Nonmetallic Mineral Products",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1786,8 +1786,8 @@
   },
   "WPU13110511": {
     "id": "WPU13110511",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Flat Glass (Float, Sheet, and Plate Process)",
     "observation_start": "1983-06-01",
     "observation_end": "2022-02-01",
@@ -1798,13 +1798,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:35-05",
-    "popularity": 7,
-    "group_popularity": 8
+    "popularity": 5,
+    "group_popularity": 6
   },
   "WPU13110703": {
     "id": "WPU13110703",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Specialty Glass",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -1816,12 +1816,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:48-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 7
   },
   "WPU13130116": {
     "id": "WPU13130116",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Machine-Made Pressed and Blown Table, Kitchen, Art, and Novelty Glassware",
     "observation_start": "2011-12-01",
     "observation_end": "2022-01-01",
@@ -1832,13 +1832,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-15 07:58:51-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU13130117": {
     "id": "WPU13130117",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: All Other Machine-Made Pressed and Blown Glassware",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -1854,8 +1854,8 @@
   },
   "WPU13130118": {
     "id": "WPU13130118",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Handmade Pressed and Blown Glassware",
     "observation_start": "2011-12-01",
     "observation_end": "2022-01-01",
@@ -1871,8 +1871,8 @@
   },
   "WPU13210120": {
     "id": "WPU13210120",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand and Gravel (Run of Pit/Bank, Washed, Screened, etc.)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -1883,13 +1883,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:28-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU13210121": {
     "id": "WPU13210121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Crushed and Broken Stone",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1900,13 +1900,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:58-05",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 7,
+    "group_popularity": 7
   },
   "WPU13220161": {
     "id": "WPU13220161",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Cement, Hydraulic",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1917,13 +1917,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:28-05",
-    "popularity": 2,
-    "group_popularity": 29
+    "popularity": 1,
+    "group_popularity": 28
   },
   "WPU13311135": {
     "id": "WPU13311135",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Concrete Block",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1935,12 +1935,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:47-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 2
   },
   "WPU13312101": {
     "id": "WPU13312101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Decorative Concrete Block (Including Screen, Split, Slump, Shadowal Block, etc.)",
     "observation_start": "1981-06-01",
     "observation_end": "2022-02-01",
@@ -1956,8 +1956,8 @@
   },
   "WPU13313101": {
     "id": "WPU13313101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Brick",
     "observation_start": "1981-06-01",
     "observation_end": "2022-02-01",
@@ -1973,8 +1973,8 @@
   },
   "WPU13314101": {
     "id": "WPU13314101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Pavers (Including Grid, Interlocking, etc.)",
     "observation_start": "1982-05-01",
     "observation_end": "2022-02-01",
@@ -1990,8 +1990,8 @@
   },
   "WPU13320108": {
     "id": "WPU13320108",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Pipe",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -2003,12 +2003,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:46-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPU13330101": {
     "id": "WPU13330101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete",
     "observation_start": "1958-01-01",
     "observation_end": "2022-02-01",
@@ -2020,12 +2020,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:46-05",
     "popularity": 1,
-    "group_popularity": 35
+    "group_popularity": 31
   },
   "WPU13330101A": {
     "id": "WPU13330101A",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete for Northeast Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2041,8 +2041,8 @@
   },
   "WPU13330101B": {
     "id": "WPU13330101B",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete for Midwest Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2053,13 +2053,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:45-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU13330101C": {
     "id": "WPU13330101C",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete for South Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2070,13 +2070,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:46-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU13330101D": {
     "id": "WPU13330101D",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete for West Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2087,13 +2087,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:45-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU13340106": {
     "id": "WPU13340106",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Products",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -2105,12 +2105,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:45-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 10
   },
   "WPU13350107": {
     "id": "WPU13350107",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prestressed Concrete Products",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -2126,8 +2126,8 @@
   },
   "WPU13420101": {
     "id": "WPU13420101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Building or Common Brick",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -2139,12 +2139,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:10-05",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 4
   },
   "WPU13420201": {
     "id": "WPU13420201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glazed Brick and Other Brick (Paving, Floor, and Sewer)",
     "observation_start": "2005-01-01",
     "observation_end": "2022-02-01",
@@ -2160,8 +2160,8 @@
   },
   "WPU13440131": {
     "id": "WPU13440131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Floor and Wall Tile, Glazed and Unglazed (Including Quarry Tile and Ceramic Mosaic Tile)",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2173,12 +2173,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:09-05",
     "popularity": 1,
-    "group_popularity": 13
+    "group_popularity": 9
   },
   "WPU13450101": {
     "id": "WPU13450101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Vitrified Clay Sewer Pipe and Fittings",
     "observation_start": "1947-01-01",
     "observation_end": "2015-05-01",
@@ -2189,13 +2189,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-06-15 13:47:35-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU13450199": {
     "id": "WPU13450199",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: All Other Structural Clay Products, Excluding Clay Refractories",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -2211,8 +2211,8 @@
   },
   "WPU13520181": {
     "id": "WPU13520181",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay Refractories",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -2228,8 +2228,8 @@
   },
   "WPU13530112": {
     "id": "WPU13530112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Nonclay Refractories (Excluding Dead-Burned Magnesia)",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -2245,8 +2245,8 @@
   },
   "WPU13610131": {
     "id": "WPU13610131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Prepared Asphalt and Tar Roofing and Siding Products",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2258,12 +2258,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:08-05",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 7
   },
   "WPU13620121": {
     "id": "WPU13620121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Roofing Asphalts, Pitches, Coatings, and Cement",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -2275,12 +2275,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:07-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 4
   },
   "WPU13710102": {
     "id": "WPU13710102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Building Materials",
     "observation_start": "1994-02-01",
     "observation_end": "2022-02-01",
@@ -2291,13 +2291,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:57-05",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU13710116": {
     "id": "WPU13710116",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Gypsum Products",
     "observation_start": "2004-01-01",
     "observation_end": "2022-02-01",
@@ -2313,8 +2313,8 @@
   },
   "WPU13810104": {
     "id": "WPU13810104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Glass Containers (Including Value of Packaging)",
     "observation_start": "1995-06-01",
     "observation_end": "2022-02-01",
@@ -2326,12 +2326,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
     "popularity": 2,
-    "group_popularity": 6
+    "group_popularity": 3
   },
   "WPU13920105": {
     "id": "WPU13920105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Mineral Wool for Thermal and Acoustical Envelope Insulation",
     "observation_start": "2007-06-01",
     "observation_end": "2022-02-01",
@@ -2347,8 +2347,8 @@
   },
   "WPU13920201": {
     "id": "WPU13920201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Mineral Wool for Industrial, Equipment, and Appliance Insulation",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -2359,13 +2359,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:57-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU13940113": {
     "id": "WPU13940113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Paving Mixtures and Blocks",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2377,12 +2377,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:06-05",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 5
   },
   "WPU13950111": {
     "id": "WPU13950111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Dressed Dimension Granite (Including Gneiss, Syenite, Diorite, and Cut Granite)",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -2393,13 +2393,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:35-05",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 9,
+    "group_popularity": 9
   },
   "WPU13950121": {
     "id": "WPU13950121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Dressed Dimension Limestone (Including Dolomite, Travertine, Calcareous, Tufa, and Cut Limestone)",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -2415,8 +2415,8 @@
   },
   "WPU13950151": {
     "id": "WPU13950151",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Dressed Dimension Marble and Other Stone",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -2427,13 +2427,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:56-05",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU13980111": {
     "id": "WPU13980111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Nonmetallic Gaskets and Gasketing",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -2449,8 +2449,8 @@
   },
   "WPU13980112": {
     "id": "WPU13980112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Metallic Gaskets and Machined Seals",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -2461,13 +2461,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:05-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU13980211": {
     "id": "WPU13980211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Compression Packing",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -2483,8 +2483,8 @@
   },
   "WPU13980212": {
     "id": "WPU13980212",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Molded Packing and Sealing Devices",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -2500,8 +2500,8 @@
   },
   "WPU13980214": {
     "id": "WPU13980214",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Rotary Oil Seals",
     "observation_start": "1990-12-01",
     "observation_end": "2022-02-01",
@@ -2517,8 +2517,8 @@
   },
   "WPU13990101": {
     "id": "WPU13990101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Industrial Glass Sand",
     "observation_start": "1982-06-01",
     "observation_end": "2018-08-01",
@@ -2529,13 +2529,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2018-09-12 08:01:24-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU13990111": {
     "id": "WPU13990111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Industrial Molding Sand",
     "observation_start": "1982-06-01",
     "observation_end": "2016-06-01",
@@ -2551,8 +2551,8 @@
   },
   "WPU13990121": {
     "id": "WPU13990121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Hydraulic Fracturing Sand and All Other Industrial Sand",
     "observation_start": "1982-06-01",
     "observation_end": "2022-02-01",
@@ -2568,8 +2568,8 @@
   },
   "WPU13990209": {
     "id": "WPU13990209",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Ground or Treated Minerals and Earths",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -2585,8 +2585,8 @@
   },
   "WPU13990211": {
     "id": "WPU13990211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Dimension Stone Mining and Quarrying",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -2602,8 +2602,8 @@
   },
   "WPU13990214": {
     "id": "WPU13990214",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Clay, Excluding Kaolin and Ball Clay",
     "observation_start": "1990-06-01",
     "observation_end": "2022-02-01",
@@ -2619,8 +2619,8 @@
   },
   "WPU13990214B": {
     "id": "WPU13990214B",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Common (Miscellaneous) Clay and Shale",
     "observation_start": "2007-12-01",
     "observation_end": "2018-01-01",
@@ -2636,8 +2636,8 @@
   },
   "WPU13990214C": {
     "id": "WPU13990214C",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Bentonite",
     "observation_start": "2007-12-01",
     "observation_end": "2022-02-01",
@@ -2648,13 +2648,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:21-05",
-    "popularity": 21,
-    "group_popularity": 21
+    "popularity": 20,
+    "group_popularity": 20
   },
   "WPU13990214V": {
     "id": "WPU13990214V",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Feldspar, Fire Clay, and Fuller's Earth",
     "observation_start": "2007-12-01",
     "observation_end": "2019-01-01",
@@ -2665,13 +2665,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2019-03-13 10:36:02-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU13990299": {
     "id": "WPU13990299",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: All Other Nonmetallic Minerals, Including Talc and Gypsum",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -2682,13 +2682,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:15-05",
-    "popularity": 18,
-    "group_popularity": 18
+    "popularity": 15,
+    "group_popularity": 15
   },
   "WPU13990312": {
     "id": "WPU13990312",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Dry-Mixed Concrete Materials (Prepackaged Sand, Gravel, Mortar, and Cement Premixes)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2699,13 +2699,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:56-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU13990313": {
     "id": "WPU13990313",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Nonmetallic Mineral Products",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2716,13 +2716,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:04-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU132101201": {
     "id": "WPU132101201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand and Gravel for Northeast Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2738,8 +2738,8 @@
   },
   "WPU132101202": {
     "id": "WPU132101202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand and Gravel for Midwest Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2750,13 +2750,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:28-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU132101203": {
     "id": "WPU132101203",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand and Gravel for South Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2018-08-01",
@@ -2772,8 +2772,8 @@
   },
   "WPU132101204": {
     "id": "WPU132101204",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand and Gravel for West Census Region",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -2789,8 +2789,8 @@
   },
   "WPU132101212": {
     "id": "WPU132101212",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Crushed and Broken Limestone",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2801,13 +2801,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:47-05",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 11,
+    "group_popularity": 11
   },
   "WPU132101213": {
     "id": "WPU132101213",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Crushed and Broken Granite",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2823,8 +2823,8 @@
   },
   "WPU132101219": {
     "id": "WPU132101219",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Bituminous Limestone, Sandstone, and Other Crushed and Broken Stone",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2835,13 +2835,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:47-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU133111351": {
     "id": "WPU133111351",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Concrete Block, Lightweight Units (Weighing Less Than 105 Pounds/Cubic Foot) (Dry Weight)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2857,8 +2857,8 @@
   },
   "WPU133111352": {
     "id": "WPU133111352",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Concrete Block, Mediumweight Units (Weighing 105 - 124 Pounds/Cubic Foot) (Dry Weight)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2869,13 +2869,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:47-05",
-    "popularity": 5,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU133111353": {
     "id": "WPU133111353",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Structural Concrete Block, Normalweight Units (Weighing 125 Pounds or More/Cubic Foot) (Dry Weight)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2891,8 +2891,8 @@
   },
   "WPU133201081": {
     "id": "WPU133201081",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Culvert Pipe",
     "observation_start": "2011-12-01",
     "observation_end": "2020-01-01",
@@ -2908,8 +2908,8 @@
   },
   "WPU133201082": {
     "id": "WPU133201082",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Storm Sewer Pipe",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2920,13 +2920,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:27-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU133201083": {
     "id": "WPU133201083",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Concrete Pipe, Except Concrete Culvert and Storm Sewer Pipe",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2937,13 +2937,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:46-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU133401061": {
     "id": "WPU133401061",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Slabs and Tile, Roof and Floor Units",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2959,8 +2959,8 @@
   },
   "WPU133401062": {
     "id": "WPU133401062",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Architectural Wall Panels",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2971,13 +2971,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:10-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU133401063": {
     "id": "WPU133401063",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Burial Vaults and Boxes, Precast Concrete",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2993,8 +2993,8 @@
   },
   "WPU133401064": {
     "id": "WPU133401064",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Precast Concrete Products (Excluding Burial Vaults and Boxes, Slabs and Tile, and Architectural Wall Panels)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -3005,13 +3005,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:10-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU139901211": {
     "id": "WPU139901211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Hydraulic Fracturing Sand",
     "observation_start": "2012-12-01",
     "observation_end": "2020-09-01",
@@ -3022,13 +3022,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2020-10-14 07:52:28-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU139901212": {
     "id": "WPU139901212",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: All Other Industrial Sand",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -3039,13 +3039,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:26-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU139902094": {
     "id": "WPU139902094",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Treated Lightweight Aggregate and Crushed Slag, Minerals and Earths",
     "observation_start": "2014-12-01",
     "observation_end": "2022-02-01",
@@ -3056,13 +3056,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:00-05",
-    "popularity": 12,
-    "group_popularity": 11
+    "popularity": 6,
+    "group_popularity": 6
   },
   "WPU139902096": {
     "id": "WPU139902096",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Other Minerals and Earths, Treated",
     "observation_start": "2014-12-01",
     "observation_end": "2022-02-01",

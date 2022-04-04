@@ -1,7 +1,7 @@
 {
   "id": "QRSR771BIS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Residential Property Prices for Serbia",
   "observation_start": "2001-01-01",
   "observation_end": "2021-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-26 10:06:16-06",
-  "popularity": 4,
-  "group_popularity": 10,
+  "popularity": 3,
+  "group_popularity": 7,
   "notes": "Source Code: Q:RS:R:771\n\nThe series is deflated using CPI.\n\nFor more information, please see https://www.bis.org/statistics/pp_detailed.htm.\n\nAny use of the series shall be cited as follows: \"Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.\"\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

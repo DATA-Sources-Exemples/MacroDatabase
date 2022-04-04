@@ -1,7 +1,7 @@
 {
   "id": "MPU9910032",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Nondurable Manufacturing Sector: Combined Inputs",
   "observation_start": "1987-01-01",
   "observation_end": "2020-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2021-11-18 09:51:47-06",
+  "last_updated": "2022-03-25 12:23:05-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Labor input and capital services are combined using chained superlative Tornqvist aggregation, applying weights that represent each component's share of total costs. The chained superlative Tornqvist index uses changing weights; the share in each year is averaged with the preceding year's share. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU9910032"

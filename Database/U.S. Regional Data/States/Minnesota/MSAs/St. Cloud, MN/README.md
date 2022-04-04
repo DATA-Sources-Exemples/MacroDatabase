@@ -79,41 +79,41 @@
 | RPPGOOD41060              | Regional Price Parities: Goods for St. Cloud, MN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH41060          | Regional Price Parities: Services: Other for St. Cloud, MN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41060         | Regional Price Parities: Services: Rents for St. Cloud, MN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS27410600000000026      | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS27410600000000026      | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU27410600000000001A     | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1988-01-01          | 2021-01-01        |
-| SMU27410600500000001      | All Employees: Total Private in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU27410600500000001      | All Employees: Total Private in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU27410600500000001A     | All Employees: Total Private in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU27410600500000001SA    | All Employees: Total Private in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU27410600500000002      | Average Weekly Hours of All Employees: Total Private in St. Cloud, MN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU27410600500000001SA    | All Employees: Total Private in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU27410600500000002      | Average Weekly Hours of All Employees: Total Private in St. Cloud, MN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU27410600500000002A     | Average Weekly Hours of All Employees: Total Private in St. Cloud, MN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU27410600500000002SA    | Average Weekly Hours of All Employees: Total Private in St. Cloud, MN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU27410600500000003      | Average Hourly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU27410600500000002SA    | Average Weekly Hours of All Employees: Total Private in St. Cloud, MN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU27410600500000003      | Average Hourly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU27410600500000003A     | Average Hourly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU27410600500000003SA    | Average Hourly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU27410600500000011      | Average Weekly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU27410600500000003SA    | Average Hourly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU27410600500000011      | Average Weekly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU27410600500000011A     | Average Weekly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU27410600500000011SA    | Average Weekly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU27410600600000001      | All Employees: Goods Producing in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU27410600500000011SA    | Average Weekly Earnings of All Employees: Total Private in St. Cloud, MN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU27410600600000001      | All Employees: Goods Producing in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU27410600600000001A     | All Employees: Goods Producing in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU27410600600000001SA    | All Employees: Goods Producing in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU27410600700000001      | All Employees: Service-Providing in St. Cloud, MN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU27410600600000001SA    | All Employees: Goods Producing in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU27410600700000001      | All Employees: Service-Providing in St. Cloud, MN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU27410600700000001A     | All Employees: Service-Providing in St. Cloud, MN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU27410600700000001SA    | All Employees: Service-Providing in St. Cloud, MN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU27410600800000001      | All Employees: Private Service Providing in St. Cloud, MN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU27410600700000001SA    | All Employees: Service-Providing in St. Cloud, MN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU27410600800000001      | All Employees: Private Service Providing in St. Cloud, MN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU27410600800000001A     | All Employees: Private Service Providing in St. Cloud, MN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU27410600800000001SA    | All Employees: Private Service Providing in St. Cloud, MN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU27410600800000001SA    | All Employees: Private Service Providing in St. Cloud, MN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU27410601500000001A     | All Employees: Mining, Logging, and Construction in St. Cloud, MN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU27410603000000001A     | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU27410604000000001A     | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU27410604100000001      | All Employees: Wholesale Trade in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU27410604100000001      | All Employees: Wholesale Trade in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU27410604100000001A     | All Employees: Wholesale Trade in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU27410604100000001SA    | All Employees: Wholesale Trade in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU27410604200000001      | All Employees: Retail Trade in St. Cloud, MN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU27410604100000001SA    | All Employees: Wholesale Trade in St. Cloud, MN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU27410604200000001      | All Employees: Retail Trade in St. Cloud, MN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU27410604200000001A     | All Employees: Retail Trade in St. Cloud, MN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU27410604200000001SA    | All Employees: Retail Trade in St. Cloud, MN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU27410604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in St. Cloud, MN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU27410604200000001SA    | All Employees: Retail Trade in St. Cloud, MN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU27410604300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in St. Cloud, MN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU27410604300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in St. Cloud, MN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU27410604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in St. Cloud, MN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU27410604300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in St. Cloud, MN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU27410605000000001A     | All Employees: Information in St. Cloud, MN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU27410605500000001A     | All Employees: Financial Activities in St. Cloud, MN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU27410606000000001A     | All Employees: Professional and Business Services in St. Cloud, MN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -121,41 +121,41 @@
 | SMU27410607000000001A     | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU27410608000000001A     | All Employees: Other Services in St. Cloud, MN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU27410609000000001A     | All Employees: Government in St. Cloud, MN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU27410609091000001      | All Employees: Government: Federal Government in St. Cloud, MN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU27410609091000001      | All Employees: Government: Federal Government in St. Cloud, MN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU27410609091000001A     | All Employees: Federal Government in St. Cloud, MN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU27410609091000001SA    | All Employees: Government: Federal Government in St. Cloud, MN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU27410609092000001      | All Employees: Government: State Government in St. Cloud, MN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU27410609091000001SA    | All Employees: Government: Federal Government in St. Cloud, MN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU27410609092000001      | All Employees: Government: State Government in St. Cloud, MN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU27410609092000001A     | All Employees: State Government in St. Cloud, MN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU27410609092000001SA    | All Employees: Government: State Government in St. Cloud, MN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU27410609093000001      | All Employees: Government: Local Government in St. Cloud, MN (MSA)                                             | 1992-01-01          | 2022-01-01        |
+| SMU27410609092000001SA    | All Employees: Government: State Government in St. Cloud, MN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU27410609093000001      | All Employees: Government: Local Government in St. Cloud, MN (MSA)                                             | 1992-01-01          | 2022-02-01        |
 | SMU27410609093000001A     | All Employees: Local Government in St. Cloud, MN (MSA)                                                         | 1992-01-01          | 2021-01-01        |
-| SMU27410609093000001SA    | All Employees: Government: Local Government in St. Cloud, MN (MSA)                                             | 1992-01-01          | 2022-01-01        |
-| STCL027EDUH               | All Employees: Education and Health Services in St. Cloud, MN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| STCL027EDUHN              | All Employees: Education and Health Services in St. Cloud, MN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| STCL027FIRE               | All Employees: Financial Activities in St. Cloud, MN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| STCL027FIREN              | All Employees: Financial Activities in St. Cloud, MN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| STCL027GOVT               | All Employees: Government in St. Cloud, MN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| STCL027GOVTN              | All Employees: Government in St. Cloud, MN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| STCL027INFO               | All Employees: Information in St. Cloud, MN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| STCL027INFON              | All Employees: Information in St. Cloud, MN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| STCL027LEIH               | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| STCL027LEIHN              | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU27410609093000001SA    | All Employees: Government: Local Government in St. Cloud, MN (MSA)                                             | 1992-01-01          | 2022-02-01        |
+| STCL027EDUH               | All Employees: Education and Health Services in St. Cloud, MN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| STCL027EDUHN              | All Employees: Education and Health Services in St. Cloud, MN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| STCL027FIRE               | All Employees: Financial Activities in St. Cloud, MN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| STCL027FIREN              | All Employees: Financial Activities in St. Cloud, MN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| STCL027GOVT               | All Employees: Government in St. Cloud, MN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| STCL027GOVTN              | All Employees: Government in St. Cloud, MN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| STCL027INFO               | All Employees: Information in St. Cloud, MN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| STCL027INFON              | All Employees: Information in St. Cloud, MN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| STCL027LEIH               | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| STCL027LEIHN              | All Employees: Leisure and Hospitality in St. Cloud, MN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | STCL027LF                 | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | STCL027LFN                | Civilian Labor Force in St. Cloud, MN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| STCL027MFG                | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| STCL027MFGN               | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| STCL027NA                 | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| STCL027NAN                | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1988-01-01          | 2022-01-01        |
-| STCL027NRMN               | All Employees: Mining, Logging, and Construction in St. Cloud, MN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| STCL027NRMNN              | All Employees: Mining, Logging, and Construction in St. Cloud, MN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| STCL027PBSV               | All Employees: Professional and Business Services in St. Cloud, MN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| STCL027PBSVN              | All Employees: Professional and Business Services in St. Cloud, MN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| STCL027MFG                | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| STCL027MFGN               | All Employees: Manufacturing in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| STCL027NA                 | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| STCL027NAN                | All Employees: Total Nonfarm in St. Cloud, MN (MSA)                                                            | 1988-01-01          | 2022-02-01        |
+| STCL027NRMN               | All Employees: Mining, Logging, and Construction in St. Cloud, MN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| STCL027NRMNN              | All Employees: Mining, Logging, and Construction in St. Cloud, MN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| STCL027PBSV               | All Employees: Professional and Business Services in St. Cloud, MN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| STCL027PBSVN              | All Employees: Professional and Business Services in St. Cloud, MN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | STCL027PCPI               | Per Capita Personal Income in St. Cloud, MN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| STCL027SRVO               | All Employees: Other Services in St. Cloud, MN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| STCL027SRVON              | All Employees: Other Services in St. Cloud, MN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| STCL027TRAD               | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| STCL027TRADN              | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| STCL027SRVO               | All Employees: Other Services in St. Cloud, MN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| STCL027SRVON              | All Employees: Other Services in St. Cloud, MN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| STCL027TRAD               | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| STCL027TRADN              | All Employees: Trade, Transportation, and Utilities in St. Cloud, MN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | STCL027UR                 | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | STCL027URN                | Unemployment Rate in St. Cloud, MN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| STCPOP                    | Resident Population in St. Cloud, MN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| STCPOP                    | Resident Population in St. Cloud, MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SUSCMSA41060              | Market Hotness: Supply Score in St. Cloud, MN (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

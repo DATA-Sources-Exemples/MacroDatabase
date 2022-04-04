@@ -1,8 +1,8 @@
 {
   "B015RX1A020NBEA": {
     "id": "B015RX1A020NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Change in real private inventories: Nonfarm (DISCONTINUED)",
     "observation_start": "1997-01-01",
     "observation_end": "2014-01-01",
@@ -19,8 +19,8 @@
   },
   "B015RX1Q020SBEA": {
     "id": "B015RX1Q020SBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Change in real private inventories: Nonfarm (DISCONTINUED)",
     "observation_start": "1997-01-01",
     "observation_end": "2015-04-01",
@@ -37,8 +37,8 @@
   },
   "K160051A027NBEA": {
     "id": "K160051A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Produced assets, opening balance: Private inventories (DISCONTINUED)",
     "observation_start": "1951-01-01",
     "observation_end": "2011-01-01",
@@ -55,8 +55,8 @@
   },
   "K160271A027NBEA": {
     "id": "K160271A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Accumulation of produced assets: Change in private inventories (DISCONTINUED)",
     "observation_start": "1951-01-01",
     "observation_end": "2011-01-01",
@@ -73,8 +73,8 @@
   },
   "K160421A027NBEA": {
     "id": "K160421A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Revaluation of produced assets: Neutral holding gains or losses (-): Private inventories (DISCONTINUED)",
     "observation_start": "1951-01-01",
     "observation_end": "2011-01-01",
@@ -91,8 +91,8 @@
   },
   "K160471A027NBEA": {
     "id": "K160471A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Revaluation of produced assets: Real holding gains or losses (-): Private inventories (DISCONTINUED)",
     "observation_start": "1951-01-01",
     "observation_end": "2011-01-01",
@@ -109,8 +109,8 @@
   },
   "K160521A027NBEA": {
     "id": "K160521A027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Produced assets, closing balance: Private inventories (DISCONTINUED)",
     "observation_start": "1951-01-01",
     "observation_end": "2011-01-01",

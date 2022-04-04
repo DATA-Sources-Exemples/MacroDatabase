@@ -1,7 +1,7 @@
 {
   "id": "PATSIAGI",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Individual Income Tax Filing: Taxable Pensions and Annuities",
   "observation_start": "1999-01-01",
   "observation_end": "2016-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-12-19 13:31:09-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Excludes Individual Retirement Arrangement (IRA) distributions. \r\n\r\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
 }

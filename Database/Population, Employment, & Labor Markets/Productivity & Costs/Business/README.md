@@ -13,37 +13,37 @@
 | HCOMPBS            | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1947-01-01          | 2021-10-01        |
 | HOABS              | Business Sector: Hours Worked for All Employed Persons                                                                                | 1947-01-01          | 2021-10-01        |
 | IPDBS              | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1947-01-01          | 2021-10-01        |
-| MFPPBS             | Private Business Sector: Multifactor Productivity                                                                                     | 1948-01-01          | 2020-01-01        |
-| MPU4900013         | Private Business Sector: Multifactor Productivity                                                                                     | 1988-01-01          | 2020-01-01        |
-| MPU4900022         | Private Business Sector: Value-Added Output                                                                                           | 1987-01-01          | 2020-01-01        |
-| MPU4900023         | Private Business Sector: Value-Added Output                                                                                           | 1988-01-01          | 2020-01-01        |
-| MPU4900032         | Private Business Sector: Combined Inputs                                                                                              | 1987-01-01          | 2020-01-01        |
-| MPU4900033         | Private Business Sector: Combined Inputs                                                                                              | 1988-01-01          | 2020-01-01        |
-| MPU4900042         | Private Business Sector: Capital Services                                                                                             | 1987-01-01          | 2020-01-01        |
-| MPU4900043         | Private Business Sector: Capital Services                                                                                             | 1988-01-01          | 2020-01-01        |
-| MPU4900052         | Private Business Sector: Labor Input                                                                                                  | 1987-01-01          | 2020-01-01        |
-| MPU4900053         | Private Business Sector: Labor Input                                                                                                  | 1988-01-01          | 2020-01-01        |
-| MPU4900062         | Private Business Sector: Labor Productivity                                                                                           | 1987-01-01          | 2020-01-01        |
-| MPU4900063         | Private Business Sector: Labor Productivity                                                                                           | 1988-01-01          | 2020-01-01        |
-| MPU4900072         | Private Business Sector: Output per Unit Capital Services                                                                             | 1987-01-01          | 2020-01-01        |
-| MPU4900073         | Private Business Sector: Output per Unit Capital Services                                                                             | 1988-01-01          | 2020-01-01        |
-| MPU4900082         | Private Business Sector: Capital Intensity                                                                                            | 1987-01-01          | 2020-01-01        |
-| MPU4900083         | Private Business Sector: Capital Intensity                                                                                            | 1988-01-01          | 2020-01-01        |
-| MPU4900092         | Private Business Sector: Labor Composition                                                                                            | 1987-01-01          | 2020-01-01        |
-| MPU4900093         | Private Business Sector: Labor Composition                                                                                            | 1988-01-01          | 2020-01-01        |
+| MFPPBS             | Private Business Sector: Multifactor Productivity                                                                                     | 1948-01-01          | 2021-01-01        |
+| MPU4900013         | Private Business Sector: Multifactor Productivity                                                                                     | 1988-01-01          | 2021-01-01        |
+| MPU4900022         | Private Business Sector: Value-Added Output                                                                                           | 1987-01-01          | 2021-01-01        |
+| MPU4900023         | Private Business Sector: Value-Added Output                                                                                           | 1988-01-01          | 2021-01-01        |
+| MPU4900032         | Private Business Sector: Combined Inputs                                                                                              | 1987-01-01          | 2021-01-01        |
+| MPU4900033         | Private Business Sector: Combined Inputs                                                                                              | 1988-01-01          | 2021-01-01        |
+| MPU4900042         | Private Business Sector: Capital Services                                                                                             | 1987-01-01          | 2021-01-01        |
+| MPU4900043         | Private Business Sector: Capital Services                                                                                             | 1988-01-01          | 2021-01-01        |
+| MPU4900052         | Private Business Sector: Labor Input                                                                                                  | 1987-01-01          | 2021-01-01        |
+| MPU4900053         | Private Business Sector: Labor Input                                                                                                  | 1988-01-01          | 2021-01-01        |
+| MPU4900062         | Private Business Sector: Labor Productivity                                                                                           | 1987-01-01          | 2021-01-01        |
+| MPU4900063         | Private Business Sector: Labor Productivity                                                                                           | 1988-01-01          | 2021-01-01        |
+| MPU4900072         | Private Business Sector: Output per Unit Capital Services                                                                             | 1987-01-01          | 2021-01-01        |
+| MPU4900073         | Private Business Sector: Output per Unit Capital Services                                                                             | 1988-01-01          | 2021-01-01        |
+| MPU4900082         | Private Business Sector: Capital Intensity                                                                                            | 1987-01-01          | 2021-01-01        |
+| MPU4900083         | Private Business Sector: Capital Intensity                                                                                            | 1988-01-01          | 2021-01-01        |
+| MPU4900092         | Private Business Sector: Labor Composition                                                                                            | 1987-01-01          | 2021-01-01        |
+| MPU4900093         | Private Business Sector: Labor Composition                                                                                            | 1988-01-01          | 2021-01-01        |
 | MPU4900101         | Private Business Sector: Current Dollar Output                                                                                        | 1987-01-01          | 2020-01-01        |
 | MPU4900111         | Private Business Sector: Capital Cost                                                                                                 | 1987-01-01          | 2020-01-01        |
 | MPU4900121         | Private Business Sector: Labor Compensation                                                                                           | 1987-01-01          | 2020-01-01        |
 | MPU4900131         | Private Business Sector: Capital's Share in Cost                                                                                      | 1987-01-01          | 2020-01-01        |
 | MPU4900141         | Private Business Sector: Labor's Share in Cost                                                                                        | 1987-01-01          | 2020-01-01        |
-| MPU4900152         | Private Business Sector: Contribution of Capital Intensity                                                                            | 1987-01-01          | 2020-01-01        |
-| MPU4900153         | Private Business Sector: Contribution of Capital Intensity                                                                            | 1988-01-01          | 2020-01-01        |
+| MPU4900152         | Private Business Sector: Contribution of Capital Intensity                                                                            | 1987-01-01          | 2021-01-01        |
+| MPU4900153         | Private Business Sector: Contribution of Capital Intensity                                                                            | 1988-01-01          | 2021-01-01        |
 | MPU4900162         | Private Business Sector: Contribution of Information Processing Equipment (IPE) Intensity                                             | 1987-01-01          | 2020-01-01        |
 | MPU4900163         | Private Business Sector: Contribution of Information Processing Equipment (IPE) Intensity                                             | 1988-01-01          | 2020-01-01        |
 | MPU4900172         | Private Business Sector: Contribution of Capital Services Excluding IPP and IPE Intensity                                             | 1987-01-01          | 2020-01-01        |
 | MPU4900173         | Private Business Sector: Contribution of Capital Services Excluding IPP and IPE Intensity                                             | 1988-01-01          | 2020-01-01        |
-| MPU4900182         | Private Business Sector: Contribution of Labor Composition                                                                            | 1987-01-01          | 2020-01-01        |
-| MPU4900183         | Private Business Sector: Contribution of Labor Composition                                                                            | 1988-01-01          | 2020-01-01        |
+| MPU4900182         | Private Business Sector: Contribution of Labor Composition                                                                            | 1987-01-01          | 2021-01-01        |
+| MPU4900183         | Private Business Sector: Contribution of Labor Composition                                                                            | 1988-01-01          | 2021-01-01        |
 | MPU4900192         | Private Business Sector: Contribution of Research and Development (R&D) Intensity                                                     | 1987-01-01          | 2020-01-01        |
 | MPU4900193         | Private Business Sector: Contribution of Research and Development (R&D) Intensity                                                     | 1988-01-01          | 2020-01-01        |
 | MPU4900202         | Private Business Sector: Contribution of Intellectual Property Products Excluding R&D Intensity                                       | 1987-01-01          | 2020-01-01        |

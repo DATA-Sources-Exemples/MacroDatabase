@@ -38,33 +38,33 @@
 | MEDSQUFEE34100            | Housing Inventory: Median Home Size in Square Feet in Morristown, TN (CBSA)                                     | 2016-07-01          | 2022-01-01        |
 | MEDSQUFEEMM34100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Morristown, TN (CBSA)                    | 2017-07-01          | 2022-01-01        |
 | MEDSQUFEEYY34100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Morristown, TN (CBSA)                      | 2017-07-01          | 2022-01-01        |
-| MORR147EDUH               | All Employees: Education and Health Services in Morristown, TN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MORR147EDUHN              | All Employees: Education and Health Services in Morristown, TN (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MORR147FIRE               | All Employees: Financial Activities in Morristown, TN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MORR147FIREN              | All Employees: Financial Activities in Morristown, TN (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MORR147GOVT               | All Employees: Government in Morristown, TN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MORR147GOVTN              | All Employees: Government in Morristown, TN (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MORR147INFO               | All Employees: Information in Morristown, TN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MORR147INFON              | All Employees: Information in Morristown, TN (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MORR147LEIH               | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| MORR147LEIHN              | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| MORR147EDUH               | All Employees: Education and Health Services in Morristown, TN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MORR147EDUHN              | All Employees: Education and Health Services in Morristown, TN (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MORR147FIRE               | All Employees: Financial Activities in Morristown, TN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MORR147FIREN              | All Employees: Financial Activities in Morristown, TN (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MORR147GOVT               | All Employees: Government in Morristown, TN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MORR147GOVTN              | All Employees: Government in Morristown, TN (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MORR147INFO               | All Employees: Information in Morristown, TN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MORR147INFON              | All Employees: Information in Morristown, TN (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MORR147LEIH               | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| MORR147LEIHN              | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | MORR147LF                 | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | MORR147LFN                | Civilian Labor Force in Morristown, TN (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| MORR147MFG                | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MORR147MFGN               | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MORR147NA                 | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MORR147NRMN               | All Employees: Mining, Logging, and Construction in Morristown, TN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MORR147NRMNN              | All Employees: Mining, Logging, and Construction in Morristown, TN (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MORR147PBSV               | All Employees: Professional and Business Services in Morristown, TN (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| MORR147PBSVN              | All Employees: Professional and Business Services in Morristown, TN (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| MORR147MFG                | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MORR147MFGN               | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MORR147NA                 | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MORR147NRMN               | All Employees: Mining, Logging, and Construction in Morristown, TN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MORR147NRMNN              | All Employees: Mining, Logging, and Construction in Morristown, TN (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MORR147PBSV               | All Employees: Professional and Business Services in Morristown, TN (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| MORR147PBSVN              | All Employees: Professional and Business Services in Morristown, TN (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | MORR147PCPI               | Per Capita Personal Income in Morristown, TN (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| MORR147SRVO               | All Employees: Other Services in Morristown, TN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MORR147SRVON              | All Employees: Other Services in Morristown, TN (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MORR147TRAD               | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| MORR147TRADN              | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| MORR147SRVO               | All Employees: Other Services in Morristown, TN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MORR147SRVON              | All Employees: Other Services in Morristown, TN (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MORR147TRAD               | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| MORR147TRADN              | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | MORR147UR                 | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | MORR147URN                | Unemployment Rate in Morristown, TN (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| MRTPOP                    | Resident Population in Morristown, TN (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| MRTPOP                    | Resident Population in Morristown, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34100            | Housing Inventory: New Listing Count in Morristown, TN (CBSA)                                                   | 2016-07-01          | 2022-01-01        |
 | NEWLISCOUMM34100          | Housing Inventory: New Listing Count Month-Over-Month in Morristown, TN (CBSA)                                  | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY34100          | Housing Inventory: New Listing Count Year-Over-Year in Morristown, TN (CBSA)                                    | 2017-07-01          | 2022-01-01        |
@@ -87,43 +87,43 @@
 | RPPGOOD34100              | Regional Price Parities: Goods for Morristown, TN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH34100          | Regional Price Parities: Services: Other for Morristown, TN (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT34100         | Regional Price Parities: Services: Rents for Morristown, TN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS47341000000000001      | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMS47341000000000026      | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-04-01          | 2022-01-01        |
-| SMU47341000000000001      | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMS47341000000000001      | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMS47341000000000026      | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-04-01          | 2022-02-01        |
+| SMU47341000000000001      | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47341000000000001A     | All Employees: Total Nonfarm in Morristown, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47341000500000001      | All Employees: Total Private in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU47341000500000001      | All Employees: Total Private in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47341000500000001A     | All Employees: Total Private in Morristown, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47341000500000001SA    | All Employees: Total Private in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU47341000500000002      | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU47341000500000001SA    | All Employees: Total Private in Morristown, TN (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU47341000500000002      | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU47341000500000002A     | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47341000500000002SA    | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU47341000500000003      | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47341000500000002SA    | Average Weekly Hours of All Employees: Total Private in Morristown, TN (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU47341000500000003      | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47341000500000003A     | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47341000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47341000500000011      | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47341000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47341000500000011      | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47341000500000011A     | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47341000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47341000600000001      | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47341000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Morristown, TN (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47341000600000001      | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47341000600000001A     | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47341000600000001SA    | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47341000700000001      | All Employees: Service-Providing in Morristown, TN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU47341000600000001SA    | All Employees: Goods Producing in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47341000700000001      | All Employees: Service-Providing in Morristown, TN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU47341000700000001A     | All Employees: Service-Providing in Morristown, TN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU47341000700000001SA    | All Employees: Service-Providing in Morristown, TN (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU47341000800000001      | All Employees: Private Service Providing in Morristown, TN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47341000700000001SA    | All Employees: Service-Providing in Morristown, TN (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU47341000800000001      | All Employees: Private Service Providing in Morristown, TN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47341000800000001A     | All Employees: Private Service Providing in Morristown, TN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU47341000800000001SA    | All Employees: Private Service Providing in Morristown, TN (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47341000800000001SA    | All Employees: Private Service Providing in Morristown, TN (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47341001500000001A     | All Employees: Mining, Logging, and Construction in Morristown, TN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU47341003000000001A     | All Employees: Manufacturing in Morristown, TN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU47341004000000001A     | All Employees: Trade, Transportation, and Utilities in Morristown, TN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU47341004100000001      | All Employees: Wholesale Trade in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47341004100000001      | All Employees: Wholesale Trade in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47341004100000001A     | All Employees: Wholesale Trade in Morristown, TN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47341004100000001SA    | All Employees: Wholesale Trade in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47341004200000001      | All Employees: Retail Trade in Morristown, TN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU47341004100000001SA    | All Employees: Wholesale Trade in Morristown, TN (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47341004200000001      | All Employees: Retail Trade in Morristown, TN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU47341004200000001A     | All Employees: Retail Trade in Morristown, TN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU47341004200000001SA    | All Employees: Retail Trade in Morristown, TN (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU47341004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Morristown, TN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47341004200000001SA    | All Employees: Retail Trade in Morristown, TN (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU47341004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Morristown, TN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47341004300000001A     | All Employees: Transportation and Utilities in Morristown, TN (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU47341004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Morristown, TN (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47341004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Morristown, TN (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47341005000000001A     | All Employees: Information in Morristown, TN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU47341005500000001A     | All Employees: Financial Activities in Morristown, TN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU47341006000000001A     | All Employees: Professional and Business Services in Morristown, TN (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -131,12 +131,12 @@
 | SMU47341007000000001A     | All Employees: Leisure and Hospitality in Morristown, TN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU47341008000000001A     | All Employees: Other Services in Morristown, TN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU47341009000000001A     | All Employees: Government in Morristown, TN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU47341009091000001      | All Employees: Government: Federal Government in Morristown, TN (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU47341009091000001      | All Employees: Government: Federal Government in Morristown, TN (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU47341009091000001A     | All Employees: Federal Government in Morristown, TN (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU47341009091000001SA    | All Employees: Government: Federal Government in Morristown, TN (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU47341009092000001      | All Employees: Government: State Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47341009091000001SA    | All Employees: Government: Federal Government in Morristown, TN (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU47341009092000001      | All Employees: Government: State Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47341009092000001A     | All Employees: State Government in Morristown, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47341009092000001SA    | All Employees: Government: State Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47341009093000001      | All Employees: Government: Local Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47341009092000001SA    | All Employees: Government: State Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47341009093000001      | All Employees: Government: Local Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47341009093000001A     | All Employees: Local Government in Morristown, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47341009093000001SA    | All Employees: Government: Local Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47341009093000001SA    | All Employees: Government: Local Government in Morristown, TN (MSA)                                             | 1990-01-01          | 2022-02-01        |

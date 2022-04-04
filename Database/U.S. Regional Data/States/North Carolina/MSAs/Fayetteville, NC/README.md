@@ -20,31 +20,31 @@
 | ENUC221840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2021-07-01        |
 | ENUC221840510             | Average Weekly Wages for Employees in Private Establishments in Fayetteville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
 | ENUC221840510SA           | Average Weekly Wages for Employees in Private Establishments in Fayetteville, NC (MSA)                            | 1990-01-01          | 2021-07-01        |
-| FAYE137EDUH               | All Employees: Education and Health Services in Fayetteville, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| FAYE137EDUHN              | All Employees: Education and Health Services in Fayetteville, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| FAYE137FIRE               | All Employees: Financial Activities in Fayetteville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| FAYE137FIREN              | All Employees: Financial Activities in Fayetteville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| FAYE137GOVT               | All Employees: Government in Fayetteville, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| FAYE137GOVTN              | All Employees: Government in Fayetteville, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| FAYE137INFO               | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| FAYE137INFON              | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| FAYE137LEIH               | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| FAYE137LEIHN              | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| FAYE137EDUH               | All Employees: Education and Health Services in Fayetteville, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| FAYE137EDUHN              | All Employees: Education and Health Services in Fayetteville, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| FAYE137FIRE               | All Employees: Financial Activities in Fayetteville, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| FAYE137FIREN              | All Employees: Financial Activities in Fayetteville, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| FAYE137GOVT               | All Employees: Government in Fayetteville, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| FAYE137GOVTN              | All Employees: Government in Fayetteville, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| FAYE137INFO               | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| FAYE137INFON              | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| FAYE137LEIH               | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| FAYE137LEIHN              | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | FAYE137LF                 | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | FAYE137LFN                | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| FAYE137MFG                | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FAYE137MFGN               | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FAYE137NA                 | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FAYE137NAN                | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| FAYE137NRMN               | All Employees: Mining, Logging, and Construction in Fayetteville, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| FAYE137NRMNN              | All Employees: Mining, Logging, and Construction in Fayetteville, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| FAYE137PBSV               | All Employees: Professional and Business Services in Fayetteville, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| FAYE137PBSVN              | All Employees: Professional and Business Services in Fayetteville, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| FAYE137MFG                | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FAYE137MFGN               | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FAYE137NA                 | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FAYE137NAN                | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| FAYE137NRMN               | All Employees: Mining, Logging, and Construction in Fayetteville, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| FAYE137NRMNN              | All Employees: Mining, Logging, and Construction in Fayetteville, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| FAYE137PBSV               | All Employees: Professional and Business Services in Fayetteville, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| FAYE137PBSVN              | All Employees: Professional and Business Services in Fayetteville, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | FAYE137PCPI               | Per Capita Personal Income in Fayetteville, NC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| FAYE137SRVO               | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| FAYE137SRVON              | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| FAYE137TRAD               | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| FAYE137TRADN              | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| FAYE137SRVO               | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| FAYE137SRVON              | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| FAYE137TRAD               | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| FAYE137TRADN              | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | FAYE137UR                 | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | FAYE137URN                | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | FAYPOP                    | Resident Population in Fayetteville, NC (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -52,7 +52,7 @@
 | HORAMSA22180              | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA22180              | Market Hotness: Hotness Score in Fayetteville, NC (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD22180                 | Implicit Regional Price Deflator for Fayetteville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT372218000000003A     | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
 | LAUMT372218000000004      | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
@@ -108,41 +108,41 @@
 | RPPGOOD22180              | Regional Price Parities: Goods for Fayetteville, NC (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH22180          | Regional Price Parities: Services: Other for Fayetteville, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT22180         | Regional Price Parities: Services: Rents for Fayetteville, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS37221800000000026      | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS37221800000000026      | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU37221800000000001A     | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37221800500000001      | All Employees: Total Private in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU37221800500000001      | All Employees: Total Private in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU37221800500000001A     | All Employees: Total Private in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37221800500000001SA    | All Employees: Total Private in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU37221800500000002      | Average Weekly Hours of All Employees: Total Private in Fayetteville, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU37221800500000001SA    | All Employees: Total Private in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU37221800500000002      | Average Weekly Hours of All Employees: Total Private in Fayetteville, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU37221800500000002A     | Average Weekly Hours of All Employees: Total Private in Fayetteville, NC (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU37221800500000002SA    | Average Weekly Hours of All Employees: Total Private in Fayetteville, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU37221800500000003      | Average Hourly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37221800500000002SA    | Average Weekly Hours of All Employees: Total Private in Fayetteville, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU37221800500000003      | Average Hourly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37221800500000003A     | Average Hourly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37221800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37221800500000011      | Average Weekly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37221800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37221800500000011      | Average Weekly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37221800500000011A     | Average Weekly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37221800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37221800600000001      | All Employees: Goods Producing in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37221800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Fayetteville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37221800600000001      | All Employees: Goods Producing in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37221800600000001A     | All Employees: Goods Producing in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37221800600000001SA    | All Employees: Goods Producing in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37221800700000001      | All Employees: Service-Providing in Fayetteville, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU37221800600000001SA    | All Employees: Goods Producing in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37221800700000001      | All Employees: Service-Providing in Fayetteville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU37221800700000001A     | All Employees: Service-Providing in Fayetteville, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU37221800700000001SA    | All Employees: Service-Providing in Fayetteville, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU37221800800000001      | All Employees: Private Service Providing in Fayetteville, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37221800700000001SA    | All Employees: Service-Providing in Fayetteville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU37221800800000001      | All Employees: Private Service Providing in Fayetteville, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37221800800000001A     | All Employees: Private Service Providing in Fayetteville, NC (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU37221800800000001SA    | All Employees: Private Service Providing in Fayetteville, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37221800800000001SA    | All Employees: Private Service Providing in Fayetteville, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37221801500000001A     | All Employees: Mining, Logging, and Construction in Fayetteville, NC (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU37221803000000001A     | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU37221804000000001A     | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU37221804100000001      | All Employees: Wholesale Trade in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37221804100000001      | All Employees: Wholesale Trade in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37221804100000001A     | All Employees: Wholesale Trade in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37221804100000001SA    | All Employees: Wholesale Trade in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37221804200000001      | All Employees: Retail Trade in Fayetteville, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU37221804100000001SA    | All Employees: Wholesale Trade in Fayetteville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37221804200000001      | All Employees: Retail Trade in Fayetteville, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU37221804200000001A     | All Employees: Retail Trade in Fayetteville, NC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU37221804200000001SA    | All Employees: Retail Trade in Fayetteville, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU37221804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fayetteville, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37221804200000001SA    | All Employees: Retail Trade in Fayetteville, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU37221804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fayetteville, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37221804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fayetteville, NC (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU37221804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fayetteville, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37221804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Fayetteville, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37221805000000001A     | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU37221805500000001A     | All Employees: Financial Activities in Fayetteville, NC (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU37221806000000001A     | All Employees: Professional and Business Services in Fayetteville, NC (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -150,13 +150,13 @@
 | SMU37221807000000001A     | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU37221808000000001A     | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU37221809000000001A     | All Employees: Government in Fayetteville, NC (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU37221809091000001      | All Employees: Government: Federal Government in Fayetteville, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU37221809091000001      | All Employees: Government: Federal Government in Fayetteville, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU37221809091000001A     | All Employees: Federal Government in Fayetteville, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU37221809091000001SA    | All Employees: Government: Federal Government in Fayetteville, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU37221809092000001      | All Employees: Government: State Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37221809091000001SA    | All Employees: Government: Federal Government in Fayetteville, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU37221809092000001      | All Employees: Government: State Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37221809092000001A     | All Employees: State Government in Fayetteville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37221809092000001SA    | All Employees: Government: State Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU37221809093000001      | All Employees: Government: Local Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37221809092000001SA    | All Employees: Government: State Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU37221809093000001      | All Employees: Government: Local Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37221809093000001A     | All Employees: Local Government in Fayetteville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37221809093000001SA    | All Employees: Government: Local Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37221809093000001SA    | All Employees: Government: Local Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA22180              | Market Hotness: Supply Score in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

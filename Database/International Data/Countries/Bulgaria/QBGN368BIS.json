@@ -1,7 +1,7 @@
 {
   "id": "QBGN368BIS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Residential Property Prices for Bulgaria",
   "observation_start": "2006-01-01",
   "observation_end": "2021-07-01",
@@ -11,8 +11,8 @@
   "units_short": "% per Annum",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-01-26 11:02:09-06",
-  "popularity": 1,
-  "group_popularity": 7,
+  "last_updated": "2022-03-24 11:01:56-05",
+  "popularity": 9,
+  "group_popularity": 14,
   "notes": "Source Code: Q:BG:N:368\n\nCoverage includes existing flats in big cities.\n\nFor more information, please see https://www.bis.org/statistics/pp_detailed.htm.\n\nAny use of the series shall be cited as follows: \"Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.\"\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

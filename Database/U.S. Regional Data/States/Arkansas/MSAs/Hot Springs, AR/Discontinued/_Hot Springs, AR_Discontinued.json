@@ -1,8 +1,8 @@
 {
   "HSPEDUHN": {
     "id": "HSPEDUHN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Education and Health Services in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -19,8 +19,8 @@
   },
   "HSPFIREN": {
     "id": "HSPFIREN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Financial Activities in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -37,8 +37,8 @@
   },
   "HSPLEIHN": {
     "id": "HSPLEIHN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Leisure and Hospitality in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -55,8 +55,8 @@
   },
   "HSPMFGN": {
     "id": "HSPMFGN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Manufacturing in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -73,8 +73,8 @@
   },
   "HSPNRMNN": {
     "id": "HSPNRMNN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Mining, Logging, and Construction in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -91,8 +91,8 @@
   },
   "HSPPBSVN": {
     "id": "HSPPBSVN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Professional and Business Services in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -109,8 +109,8 @@
   },
   "HSPTRADN": {
     "id": "HSPTRADN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Trade, Transportation and Utilities in Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2007-12-01",
@@ -127,8 +127,8 @@
   },
   "PCRGMP26300": {
     "id": "PCRGMP26300",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Per Capita Real Gross Domestic Product for Hot Springs, AR (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",

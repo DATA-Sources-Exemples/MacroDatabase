@@ -1,8 +1,8 @@
 {
   "IBANRIAIGN": {
     "id": "IBANRIAIGN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Guinea (DISCONTINUED)",
     "observation_start": "1972-10-01",
     "observation_end": "1973-01-01",
@@ -19,8 +19,8 @@
   },
   "IBANRIAOGN": {
     "id": "IBANRIAOGN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Guinea (DISCONTINUED)",
     "observation_start": "1972-10-01",
     "observation_end": "1990-07-01",
@@ -37,8 +37,8 @@
   },
   "IBANRINIGN": {
     "id": "IBANRINIGN",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Guinea (DISCONTINUED)",
     "observation_start": "1972-10-01",
     "observation_end": "1990-10-01",

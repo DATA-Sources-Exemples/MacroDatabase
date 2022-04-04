@@ -1,7 +1,7 @@
 {
   "id": "W256RX1Q020SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real net domestic income",
   "observation_start": "1947-01-01",
   "observation_end": "2021-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 08:01:43-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: W256RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

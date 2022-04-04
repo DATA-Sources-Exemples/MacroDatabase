@@ -1,8 +1,8 @@
 {
   "HOUST": {
     "id": "HOUST",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Total Units",
     "observation_start": "1959-01-01",
     "observation_end": "2022-02-01",
@@ -19,8 +19,8 @@
   },
   "HOUST1F": {
     "id": "HOUST1F",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Single-Family Units",
     "observation_start": "1959-01-01",
     "observation_end": "2022-02-01",
@@ -31,13 +31,13 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-03-17 07:31:10-05",
-    "popularity": 59,
-    "group_popularity": 60
+    "popularity": 58,
+    "group_popularity": 59
   },
   "HOUST1FNSA": {
     "id": "HOUST1FNSA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Single-Family Units",
     "observation_start": "1959-01-01",
     "observation_end": "2022-02-01",
@@ -48,13 +48,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-17 07:31:14-05",
-    "popularity": 26,
-    "group_popularity": 60
+    "popularity": 28,
+    "group_popularity": 59
   },
   "HOUST1FQ": {
     "id": "HOUST1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States, Total One-Family Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -65,13 +65,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:03-06",
-    "popularity": 30,
-    "group_popularity": 30
+    "popularity": 29,
+    "group_popularity": 29
   },
   "HOUST2F": {
     "id": "HOUST2F",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units",
     "observation_start": "1959-01-01",
     "observation_end": "2022-02-01",
@@ -83,13 +83,13 @@
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-03-17 07:31:16-05",
     "popularity": 18,
-    "group_popularity": 19,
+    "group_popularity": 20,
     "notes": "Census discontinued SAAR 2-4 unit-structures because tests for identifiable and stable seasonality do not meet reliability standards for publication. It is calculated by Haver Analytics by subtracting 1-unit structures and 5-unit structures from total housing starts.\n\nCopyright, 2016, Haver Analytics. Reprinted with permission."
   },
   "HOUST2FNSA": {
     "id": "HOUST2FNSA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units",
     "observation_start": "1963-08-01",
     "observation_end": "2022-02-01",
@@ -100,13 +100,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-17 07:31:24-05",
-    "popularity": 3,
-    "group_popularity": 19
+    "popularity": 7,
+    "group_popularity": 20
   },
   "HOUST2UMQ": {
     "id": "HOUST2UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States, Total Two or More Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -117,13 +117,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:17-06",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 4,
+    "group_popularity": 4
   },
   "HOUST5F": {
     "id": "HOUST5F",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More",
     "observation_start": "1959-01-01",
     "observation_end": "2022-02-01",
@@ -134,14 +134,14 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-03-17 07:31:12-05",
-    "popularity": 45,
-    "group_popularity": 45,
+    "popularity": 43,
+    "group_popularity": 44,
     "notes": "From January 1959 until July 1963, the 5 units or more category also includes 2 to 4 unit structures."
   },
   "HOUST5FNSA": {
     "id": "HOUST5FNSA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More",
     "observation_start": "1963-08-01",
     "observation_end": "2022-02-01",
@@ -152,13 +152,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-17 07:31:20-05",
-    "popularity": 5,
-    "group_popularity": 45
+    "popularity": 8,
+    "group_popularity": 44
   },
   "HOUSTCB1FQ": {
     "id": "HOUSTCB1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Purpose of Construction, Contractor-Built One-Family Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -169,13 +169,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:09-06",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 6,
+    "group_popularity": 6
   },
   "HOUSTCB24UMQ": {
     "id": "HOUSTCB24UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Number of Units in Building, 2 to 4 Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -191,8 +191,8 @@
   },
   "HOUSTDTA1FQ": {
     "id": "HOUSTDTA1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Design Type, Attached One-Family Units",
     "observation_start": "1985-01-01",
     "observation_end": "2021-10-01",
@@ -208,8 +208,8 @@
   },
   "HOUSTDTA20UMQ": {
     "id": "HOUSTDTA20UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Number of Units in Building, 20 or More Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -225,8 +225,8 @@
   },
   "HOUSTDTD1FQ": {
     "id": "HOUSTDTD1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Design Type, Detached One-Family Units",
     "observation_start": "1985-01-01",
     "observation_end": "2021-10-01",
@@ -237,13 +237,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:21-06",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 6,
+    "group_popularity": 6
   },
   "HOUSTDTD1019UMQ": {
     "id": "HOUSTDTD1019UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Number of Units in Building, 10 to 19 Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -259,8 +259,8 @@
   },
   "HOUSTNSA": {
     "id": "HOUSTNSA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately-Owned Housing Units Started: Total Units",
     "observation_start": "1959-01-01",
     "observation_end": "2022-02-01",
@@ -271,13 +271,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-17 07:31:13-05",
-    "popularity": 44,
+    "popularity": 42,
     "group_popularity": 78
   },
   "HOUSTOB1FQ": {
     "id": "HOUSTOB1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Purpose of Construction, Owner-Built One-Family Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -288,13 +288,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:10-06",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 3,
+    "group_popularity": 3
   },
   "HOUSTOB59UMQ": {
     "id": "HOUSTOB59UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Number of Units in Building, 5 to 9 Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -310,8 +310,8 @@
   },
   "HOUSTPFR2UMQ": {
     "id": "HOUSTPFR2UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Rent Two or More Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -322,13 +322,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:06-06",
-    "popularity": 16,
-    "group_popularity": 16
+    "popularity": 12,
+    "group_popularity": 12
   },
   "HOUSTPFS1FQ": {
     "id": "HOUSTPFS1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Fee Simple One-Family Units",
     "observation_start": "1985-01-01",
     "observation_end": "2021-10-01",
@@ -339,13 +339,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:17-06",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 3,
+    "group_popularity": 3
   },
   "HOUSTPFST1FQ": {
     "id": "HOUSTPFST1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Total One-Family Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -356,13 +356,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:05-06",
-    "popularity": 24,
-    "group_popularity": 24
+    "popularity": 21,
+    "group_popularity": 21
   },
   "HOUSTPFST2UMQ": {
     "id": "HOUSTPFST2UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Two or More Units",
     "observation_start": "1974-01-01",
     "observation_end": "2021-10-01",
@@ -378,8 +378,8 @@
   },
   "HOUSTSFLAA1FQ": {
     "id": "HOUSTSFLAA1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States, Average Square Feet of Floor Area for One-Family Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -390,13 +390,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:07-06",
-    "popularity": 12,
-    "group_popularity": 12
+    "popularity": 9,
+    "group_popularity": 9
   },
   "HOUSTSFLAA2UMQ": {
     "id": "HOUSTSFLAA2UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States, Average Square Feet Per Unit for Two or More Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -407,13 +407,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:28-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "HOUSTSFLAM1FQ": {
     "id": "HOUSTSFLAM1FQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States, Median Square Feet of Floor Area for One-Family Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -424,13 +424,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:16-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "HOUSTSFLAM2UMQ": {
     "id": "HOUSTSFLAM2UMQ",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Privately Owned Housing Starts in the United States, Median Square Feet Per Unit for Two or More Units",
     "observation_start": "1999-01-01",
     "observation_end": "2021-10-01",
@@ -441,7 +441,7 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-17 07:46:27-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   }
 }

@@ -1,17 +1,17 @@
 {
   "id": "WOFSRBGSA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Assets: Other Factors Supplying Reserve Balances: Gold Stock: Week Average",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-03-16",
+  "observation_end": "2022-03-23",
   "frequency": "Weekly, Ending Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-17 15:47:27-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "last_updated": "2022-03-24 15:33:27-05",
+  "popularity": 3,
+  "group_popularity": 3
 }

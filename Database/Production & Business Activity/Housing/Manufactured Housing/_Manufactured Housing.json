@@ -1,8 +1,8 @@
 {
   "ISRMNSAUS": {
     "id": "ISRMNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes Intended for Sale or Lease for Residential Use: Multi-Section Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -18,8 +18,8 @@
   },
   "ISRSNSAUS": {
     "id": "ISRSNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes Intended for Sale or Lease for Residential Use: Single Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -35,8 +35,8 @@
   },
   "ISRTNSAUS": {
     "id": "ISRTNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes Intended for Sale or Lease for Residential Use: Total Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -52,8 +52,8 @@
   },
   "NRMNSAUS": {
     "id": "NRMNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes for Non-Residential or Other Use: Multi-Section Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -69,8 +69,8 @@
   },
   "NRSNSAUS": {
     "id": "NRSNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes for Non-Residential or Other Use: Single Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -86,8 +86,8 @@
   },
   "NRTNSAUS": {
     "id": "NRTNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes for Non-Residential or Other Use: Total Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -103,8 +103,8 @@
   },
   "SHMNSAUS": {
     "id": "SHMNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Shipments of New Manufactured Homes: Multi-Section Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -120,8 +120,8 @@
   },
   "SHSNSAUS": {
     "id": "SHSNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Shipments of New Manufactured Homes: Single Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -137,8 +137,8 @@
   },
   "SHTNSAUS": {
     "id": "SHTNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Shipments of New Manufactured Homes: Total Homes in the United States",
     "observation_start": "1959-01-01",
     "observation_end": "2022-01-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:07-06",
-    "popularity": 3,
-    "group_popularity": 20
+    "popularity": 2,
+    "group_popularity": 19
   },
   "SHTSAUS": {
     "id": "SHTSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Shipments of New Manufactured Homes: Total Homes in the United States",
     "observation_start": "1959-01-01",
     "observation_end": "2022-01-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-08 11:03:03-06",
-    "popularity": 19,
-    "group_popularity": 20
+    "popularity": 18,
+    "group_popularity": 19
   },
   "SPDNSAMW": {
     "id": "SPDNSAMW",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Double Homes in Midwest Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -188,8 +188,8 @@
   },
   "SPDNSANE": {
     "id": "SPDNSANE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Double Homes in Northeast Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -200,13 +200,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:12-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "SPDNSASO": {
     "id": "SPDNSASO",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Double Homes in South Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:11-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "SPDNSAUS": {
     "id": "SPDNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Double Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:05-06",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 10,
+    "group_popularity": 10
   },
   "SPDNSAWE": {
     "id": "SPDNSAWE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Double Homes in West Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -251,13 +251,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:11-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "SPRMNSAUS": {
     "id": "SPRMNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes Sold or Leased for Residential Use: Multi-Section Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -273,8 +273,8 @@
   },
   "SPRSNSAUS": {
     "id": "SPRSNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes Sold or Leased for Residential Use: Single Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -290,8 +290,8 @@
   },
   "SPRTNSAUS": {
     "id": "SPRTNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "New Manufactured Homes Sold or Leased for Residential Use: Total Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -307,8 +307,8 @@
   },
   "SPSNSAMW": {
     "id": "SPSNSAMW",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Single Homes in Midwest Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:05-06",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "SPSNSANE": {
     "id": "SPSNSANE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Single Homes in Northeast Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -341,8 +341,8 @@
   },
   "SPSNSASO": {
     "id": "SPSNSASO",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Single Homes in South Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -353,13 +353,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:08-06",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "SPSNSAUS": {
     "id": "SPSNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Single Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -370,13 +370,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:03-06",
-    "popularity": 24,
-    "group_popularity": 24
+    "popularity": 26,
+    "group_popularity": 26
   },
   "SPSNSAWE": {
     "id": "SPSNSAWE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Single Homes in West Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -392,8 +392,8 @@
   },
   "SPTNSAMW": {
     "id": "SPTNSAMW",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Total Homes in Midwest Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -409,8 +409,8 @@
   },
   "SPTNSANE": {
     "id": "SPTNSANE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Total Homes in Northeast Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:04-06",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "SPTNSASO": {
     "id": "SPTNSASO",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Total Homes in South Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -443,8 +443,8 @@
   },
   "SPTNSAUS": {
     "id": "SPTNSAUS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Total Homes in the United States",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -455,13 +455,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:04-06",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 6,
+    "group_popularity": 6
   },
   "SPTNSAWE": {
     "id": "SPTNSAWE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Average Sales Price of New Manufactured Homes: Total Homes in West Census Region",
     "observation_start": "2014-01-01",
     "observation_end": "2021-10-01",
@@ -473,6 +473,6 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-08 11:03:02-06",
     "popularity": 53,
-    "group_popularity": 52
+    "group_popularity": 53
   }
 }

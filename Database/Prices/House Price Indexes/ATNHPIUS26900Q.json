@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS26900Q",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "All-Transactions House Price Index for Indianapolis-Carmel-Anderson, IN (MSA)",
   "observation_start": "1976-10-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:03:17-06",
-  "popularity": 30,
-  "group_popularity": 30,
+  "popularity": 26,
+  "group_popularity": 26,
   "notes": "Estimated using sales prices and appraisal data."
 }

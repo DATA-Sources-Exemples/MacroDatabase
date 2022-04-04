@@ -1,7 +1,7 @@
 {
   "id": "CONSDEF",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumption Deflator",
   "observation_start": "1947-01-01",
   "observation_end": "2020-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-20 15:11:05-06",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "This series is the deflator for PCE Nondurable Goods and PCE Services.\n\nFor additional details see: R. DiCecio (2009). \"Sticky wages and sectoral labor comovement,\" Journal of Economic Dynamics and Control, 33(3): 538-53. (http://dx.doi.org/10.1016/j.jedc.2008.08.003)."
 }

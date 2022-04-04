@@ -61,27 +61,27 @@
 | NEWLISCOUYY36500          | Housing Inventory: New Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                    | 2017-07-01          | 2022-01-01        |
 | NGMP36500                 | Total Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA36500            | Market Hotness: Nielsen Household Rank in Olympia-Tumwater, WA (CBSA)                                                 | 2017-08-01          | 2022-01-01        |
-| OLYM553FIREN              | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| OLYM553GOVT               | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| OLYM553GOVTN              | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| OLYM553LEIH               | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| OLYM553LEIHN              | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| OLYM553FIREN              | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| OLYM553GOVT               | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| OLYM553GOVTN              | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| OLYM553LEIH               | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| OLYM553LEIHN              | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | OLYM553LF                 | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | OLYM553LFN                | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| OLYM553MFG                | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OLYM553MFGN               | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OLYM553NA                 | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OLYM553NAN                | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OLYM553NRMN               | All Employees: Mining, Logging, and Construction in Olympia-Tumwater, WA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| OLYM553NRMNN              | All Employees: Mining, Logging, and Construction in Olympia-Tumwater, WA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| OLYM553PBSV               | All Employees: Professional and Business Services in Olympia-Tumwater, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| OLYM553PBSVN              | All Employees: Professional and Business Services in Olympia-Tumwater, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| OLYM553MFG                | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OLYM553MFGN               | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OLYM553NA                 | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OLYM553NAN                | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| OLYM553NRMN               | All Employees: Mining, Logging, and Construction in Olympia-Tumwater, WA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| OLYM553NRMNN              | All Employees: Mining, Logging, and Construction in Olympia-Tumwater, WA (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| OLYM553PBSV               | All Employees: Professional and Business Services in Olympia-Tumwater, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| OLYM553PBSVN              | All Employees: Professional and Business Services in Olympia-Tumwater, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | OLYM553PCPI               | Per Capita Personal Income in Olympia-Tumwater, WA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| OLYM553TRAD               | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| OLYM553TRADN              | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| OLYM553TRAD               | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| OLYM553TRADN              | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | OLYM553UR                 | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | OLYM553URN                | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| OLYPOP                    | Resident Population in Olympia-Tumwater, WA (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| OLYPOP                    | Resident Population in Olympia-Tumwater, WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136500          | U.S. Granted Utility Patents Originating in Olympia, WA (MSA)                                                         | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36500            | Housing Inventory: Pending Listing Count in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM36500          | Housing Inventory: Pending Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-01-01        |
@@ -100,68 +100,68 @@
 | RPPGOOD36500              | Regional Price Parities: Goods for Olympia-Tumwater, WA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH36500          | Regional Price Parities: Services: Other for Olympia-Tumwater, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT36500         | Regional Price Parities: Services: Rents for Olympia-Tumwater, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS53365000000000026      | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS53365000000000026      | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU53365000000000001A     | All Employees: Total Nonfarm in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53365000500000001      | All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU53365000500000001      | All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU53365000500000001A     | All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU53365000500000001SA    | All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU53365000500000002      | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU53365000500000001SA    | All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU53365000500000002      | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU53365000500000002A     | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU53365000500000002SA    | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU53365000500000003      | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU53365000500000002SA    | Average Weekly Hours of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU53365000500000003      | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU53365000500000003A     | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53365000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU53365000500000011      | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU53365000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU53365000500000011      | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU53365000500000011A     | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU53365000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU53365000600000001      | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU53365000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Olympia-Tumwater, WA (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU53365000600000001      | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU53365000600000001A     | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU53365000600000001SA    | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU53365000700000001      | All Employees: Service-Providing in Olympia-Tumwater, WA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU53365000600000001SA    | All Employees: Goods Producing in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU53365000700000001      | All Employees: Service-Providing in Olympia-Tumwater, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU53365000700000001A     | All Employees: Service-Providing in Olympia-Tumwater, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU53365000700000001SA    | All Employees: Service-Providing in Olympia-Tumwater, WA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU53365000800000001      | All Employees: Private Service Providing in Olympia-Tumwater, WA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU53365000700000001SA    | All Employees: Service-Providing in Olympia-Tumwater, WA (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU53365000800000001      | All Employees: Private Service Providing in Olympia-Tumwater, WA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU53365000800000001A     | All Employees: Private Service Providing in Olympia-Tumwater, WA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU53365000800000001SA    | All Employees: Private Service Providing in Olympia-Tumwater, WA (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU53365000800000001SA    | All Employees: Private Service Providing in Olympia-Tumwater, WA (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU53365001500000001A     | All Employees: Mining, Logging, and Construction in Olympia-Tumwater, WA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU53365003000000001A     | All Employees: Manufacturing in Olympia-Tumwater, WA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU53365004000000001A     | All Employees: Trade, Transportation, and Utilities in Olympia-Tumwater, WA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU53365004100000001      | All Employees: Wholesale Trade in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU53365004100000001      | All Employees: Wholesale Trade in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU53365004100000001A     | All Employees: Wholesale Trade in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU53365004100000001SA    | All Employees: Wholesale Trade in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU53365004200000001      | All Employees: Retail Trade in Olympia-Tumwater, WA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU53365004100000001SA    | All Employees: Wholesale Trade in Olympia-Tumwater, WA (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU53365004200000001      | All Employees: Retail Trade in Olympia-Tumwater, WA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU53365004200000001A     | All Employees: Retail Trade in Olympia-Tumwater, WA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU53365004200000001SA    | All Employees: Retail Trade in Olympia-Tumwater, WA (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU53365004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Olympia-Tumwater, WA (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU53365004200000001SA    | All Employees: Retail Trade in Olympia-Tumwater, WA (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU53365004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Olympia-Tumwater, WA (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU53365004300000001A     | All Employees: Transportation and Utilities in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU53365004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Olympia-Tumwater, WA (MSA) | 1990-01-01          | 2022-01-01        |
-| SMU53365005000000001      | All Employees: Information in Olympia-Tumwater, WA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU53365004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Olympia-Tumwater, WA (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU53365005000000001      | All Employees: Information in Olympia-Tumwater, WA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU53365005000000001A     | All Employees: Information in Olympia-Tumwater, WA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU53365005000000001SA    | All Employees: Information in Olympia-Tumwater, WA (MSA)                                                              | 1990-01-01          | 2022-01-01        |
+| SMU53365005000000001SA    | All Employees: Information in Olympia-Tumwater, WA (MSA)                                                              | 1990-01-01          | 2022-02-01        |
 | SMU53365005500000001A     | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU53365005500000001SA    | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| SMU53365005500000001SA    | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | SMU53365006000000001A     | All Employees: Professional and Business Services in Olympia-Tumwater, WA (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU53365006500000001      | All Employees: Education and Health Services in Olympia-Tumwater, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU53365006500000001      | All Employees: Education and Health Services in Olympia-Tumwater, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU53365006500000001A     | All Employees: Education and Health Services in Olympia-Tumwater, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53365006500000001SA    | All Employees: Education and Health Services in Olympia-Tumwater, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU53365006500000001SA    | All Employees: Education and Health Services in Olympia-Tumwater, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU53365007000000001A     | All Employees: Leisure and Hospitality in Olympia-Tumwater, WA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU53365008000000001      | All Employees: Other Services in Olympia-Tumwater, WA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU53365008000000001      | All Employees: Other Services in Olympia-Tumwater, WA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU53365008000000001A     | All Employees: Other Services in Olympia-Tumwater, WA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU53365008000000001SA    | All Employees: Other Services in Olympia-Tumwater, WA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
+| SMU53365008000000001SA    | All Employees: Other Services in Olympia-Tumwater, WA (MSA)                                                           | 1990-01-01          | 2022-02-01        |
 | SMU53365009000000001A     | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU53365009091000001      | All Employees: Government: Federal Government in Olympia-Tumwater, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU53365009091000001      | All Employees: Government: Federal Government in Olympia-Tumwater, WA (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU53365009091000001A     | All Employees: Federal Government in Olympia-Tumwater, WA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU53365009091000001SA    | All Employees: Government: Federal Government in Olympia-Tumwater, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU53365009092000001      | All Employees: Government: State Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU53365009091000001SA    | All Employees: Government: Federal Government in Olympia-Tumwater, WA (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU53365009092000001      | All Employees: Government: State Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU53365009092000001A     | All Employees: State Government in Olympia-Tumwater, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU53365009092000001SA    | All Employees: Government: State Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU53365009092161101      | All Employees: Government: State Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU53365009092000001SA    | All Employees: Government: State Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU53365009092161101      | All Employees: Government: State Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU53365009092161101A     | All Employees: State Government Educational Services in Olympia-Tumwater, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU53365009092161101SA    | All Employees: Government: State Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-01-01        |
-| SMU53365009093000001      | All Employees: Government: Local Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU53365009092161101SA    | All Employees: Government: State Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-02-01        |
+| SMU53365009093000001      | All Employees: Government: Local Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU53365009093000001A     | All Employees: Local Government in Olympia-Tumwater, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU53365009093000001SA    | All Employees: Government: Local Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU53365009093161101      | All Employees: Government: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU53365009093000001SA    | All Employees: Government: Local Government in Olympia-Tumwater, WA (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU53365009093161101      | All Employees: Government: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SMU53365009093161101A     | All Employees: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU53365009093161101SA    | All Employees: Government: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-01-01        |
+| SMU53365009093161101SA    | All Employees: Government: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-02-01        |
 | SUSCMSA36500              | Market Hotness: Supply Score in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

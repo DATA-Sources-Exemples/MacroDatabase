@@ -1,7 +1,7 @@
 {
   "id": "EUNNGDP",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Gross Domestic Product (Euro/ECU series) for Euro Area (19 Countries)",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-08 04:02:04-06",
-  "popularity": 40,
-  "group_popularity": 41,
+  "popularity": 38,
+  "group_popularity": 40,
   "notes": "Copyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright\"\n\nData prior to December 31, 1998 are in Millions of ECU.\n\nIncluded countries: Belgium, Germany, Estonia, Ireland, Greece, Spain, France, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Austria, Portugal, Slovenia, Slovakia and Finland."
 }

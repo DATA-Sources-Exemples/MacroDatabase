@@ -1,7 +1,7 @@
 {
   "id": "IP8526",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Import Price Index (Harmonized System): Radar and radio navigational aid apparatus and radio remote control (DISCONTINUED)",
   "observation_start": "2012-12-01",
   "observation_end": "2013-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-01-14 08:02:05-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

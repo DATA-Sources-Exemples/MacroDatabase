@@ -1,7 +1,7 @@
 {
   "id": "M1502BUSM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Federal Budget Receipts, Income Tax for United States",
   "observation_start": "1953-02-01",
   "observation_end": "1959-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:46:10-05",
-  "popularity": 2,
-  "group_popularity": 3,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1910-1953 (2)--Original Data, 1953-1959. Source: U.S. Treasury Department, Monthly Statement Of Receipts And Expenditures Of The U.S. Government, February 1954 And Following Issues.\n\nThis NBER data series m15002b appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15002b"
 }

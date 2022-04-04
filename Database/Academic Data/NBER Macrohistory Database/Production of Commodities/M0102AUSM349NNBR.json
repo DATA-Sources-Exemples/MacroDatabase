@@ -1,7 +1,7 @@
 {
   "id": "M0102AUSM349NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Output Per Manhour in Manufacturing Production, Nondurable Goods for United States",
   "observation_start": "1932-01-01",
   "observation_end": "1951-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:48:19-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1932-1951 (2)--Original Data, 1947-1962 Beginning In 1956, Manhours Figures Have Been Revised Due To Revision Of Bls Employment And Hours Estimates On The Basis Of More Recent Benchmarks. The Data Are Treated As Though Continuous. Source: Calculated By NBER Based On Series (Index Of Production Of Nondurable Manufactures), Series (Index Of Manhours In Manufacturing Production, Nondurable Goods), Bls Unpublished Table On Manhours In Nondurable Manufactures And Employment And Earnings, Published By The Bls.\n\nThis NBER data series m01302a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01302a"
 }

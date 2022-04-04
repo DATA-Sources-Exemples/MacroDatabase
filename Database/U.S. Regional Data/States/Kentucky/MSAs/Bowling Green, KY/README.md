@@ -7,26 +7,26 @@
 | AVELISPRI14540            | Housing Inventory: Average Listing Price in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM14540          | Housing Inventory: Average Listing Price Month-Over-Month in Bowling Green, KY (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY14540          | Housing Inventory: Average Listing Price Year-Over-Year in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| BOWEDUH                   | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2022-01-01        |
-| BOWEDUHN                  | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2022-01-01        |
-| BOWGOVT                   | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BOWGOVTN                  | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BOWLEIH                   | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| BOWLEIHN                  | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| BOWEDUH                   | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2022-02-01        |
+| BOWEDUHN                  | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2022-02-01        |
+| BOWGOVT                   | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BOWGOVTN                  | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BOWLEIH                   | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| BOWLEIHN                  | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | BOWLF                     | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BOWLFN                    | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BOWMFG                    | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BOWMFGN                   | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BOWNA                     | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BOWNAN                    | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BOWNRMN                   | All Employees: Mining, Logging, and Construction in Bowling Green, KY (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BOWNRMNN                  | All Employees: Mining, Logging, and Construction in Bowling Green, KY (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BOWPBSV                   | All Employees: Professional and Business Services in Bowling Green, KY (MSA)                         | 1990-01-01          | 2022-01-01        |
-| BOWPBSVN                  | All Employees: Professional and Business Services in Bowling Green, KY (MSA)                         | 1990-01-01          | 2022-01-01        |
+| BOWMFG                    | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BOWMFGN                   | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BOWNA                     | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BOWNAN                    | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BOWNRMN                   | All Employees: Mining, Logging, and Construction in Bowling Green, KY (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BOWNRMNN                  | All Employees: Mining, Logging, and Construction in Bowling Green, KY (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BOWPBSV                   | All Employees: Professional and Business Services in Bowling Green, KY (MSA)                         | 1990-01-01          | 2022-02-01        |
+| BOWPBSVN                  | All Employees: Professional and Business Services in Bowling Green, KY (MSA)                         | 1990-01-01          | 2022-02-01        |
 | BOWPCPI                   | Per Capita Personal Income in Bowling Green, KY (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BOWPOP                    | Resident Population in Bowling Green, KY (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| BOWTRAD                   | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-01-01        |
-| BOWTRADN                  | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-01-01        |
+| BOWTRAD                   | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-02-01        |
+| BOWTRADN                  | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-02-01        |
 | BOWUR                     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BOWURN                    | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | DESCMSA14540              | Market Hotness: Demand Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-01-01        |
@@ -102,46 +102,46 @@
 | RPPSERVEOTH14540          | Regional Price Parities: Services: Other for Bowling Green, KY (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT14540         | Regional Price Parities: Services: Rents for Bowling Green, KY (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | SMS21145400000000001      | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2018-02-01        |
-| SMS21145400000000026      | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS21145400000000026      | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU21145400000000001A     | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU21145400500000001      | All Employees: Total Private in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU21145400500000001      | All Employees: Total Private in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU21145400500000001A     | All Employees: Total Private in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU21145400500000001SA    | All Employees: Total Private in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU21145400500000002      | Average Weekly Hours of All Employees: Total Private in Bowling Green, KY (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU21145400500000001SA    | All Employees: Total Private in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU21145400500000002      | Average Weekly Hours of All Employees: Total Private in Bowling Green, KY (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU21145400500000002A     | Average Weekly Hours of All Employees: Total Private in Bowling Green, KY (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU21145400500000002SA    | Average Weekly Hours of All Employees: Total Private in Bowling Green, KY (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU21145400500000003      | Average Hourly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU21145400500000002SA    | Average Weekly Hours of All Employees: Total Private in Bowling Green, KY (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU21145400500000003      | Average Hourly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU21145400500000003A     | Average Hourly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU21145400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU21145400500000011      | Average Weekly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU21145400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU21145400500000011      | Average Weekly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU21145400500000011A     | Average Weekly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU21145400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU21145400600000001      | All Employees: Goods Producing in Bowling Green, KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU21145400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bowling Green, KY (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU21145400600000001      | All Employees: Goods Producing in Bowling Green, KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU21145400600000001A     | All Employees: Goods Producing in Bowling Green, KY (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU21145400600000001SA    | All Employees: Goods Producing in Bowling Green, KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU21145400700000001      | All Employees: Service-Providing in Bowling Green, KY (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU21145400600000001SA    | All Employees: Goods Producing in Bowling Green, KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU21145400700000001      | All Employees: Service-Providing in Bowling Green, KY (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU21145400700000001A     | All Employees: Service-Providing in Bowling Green, KY (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU21145400700000001SA    | All Employees: Service-Providing in Bowling Green, KY (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU21145400800000001      | All Employees: Private Service Providing in Bowling Green, KY (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU21145400700000001SA    | All Employees: Service-Providing in Bowling Green, KY (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU21145400800000001      | All Employees: Private Service Providing in Bowling Green, KY (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU21145400800000001A     | All Employees: Private Service Providing in Bowling Green, KY (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU21145400800000001SA    | All Employees: Private Service Providing in Bowling Green, KY (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU21145400800000001SA    | All Employees: Private Service Providing in Bowling Green, KY (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU21145401500000001A     | All Employees: Mining, Logging, and Construction in Bowling Green, KY (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU21145403000000001A     | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU21145404000000001A     | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU21145404200000001      | All Employees: Retail Trade in Bowling Green, KY (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU21145404200000001      | All Employees: Retail Trade in Bowling Green, KY (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU21145404200000001A     | All Employees: Retail Trade in Bowling Green, KY (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU21145404200000001SA    | All Employees: Retail Trade in Bowling Green, KY (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU21145404200000001SA    | All Employees: Retail Trade in Bowling Green, KY (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU21145406000000001A     | All Employees: Professional and Business Services in Bowling Green, KY (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU21145406500000001A     | All Employees: Education and Health Services in Bowling Green, KY (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU21145407000000001A     | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU21145409000000001A     | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU21145409091000001      | All Employees: Government: Federal Government in Bowling Green, KY (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU21145409091000001      | All Employees: Government: Federal Government in Bowling Green, KY (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU21145409091000001A     | All Employees: Federal Government in Bowling Green, KY (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU21145409091000001SA    | All Employees: Government: Federal Government in Bowling Green, KY (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU21145409092000001      | All Employees: Government: State Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU21145409091000001SA    | All Employees: Government: Federal Government in Bowling Green, KY (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU21145409092000001      | All Employees: Government: State Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU21145409092000001A     | All Employees: State Government in Bowling Green, KY (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU21145409092000001SA    | All Employees: Government: State Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU21145409093000001      | All Employees: Government: Local Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU21145409092000001SA    | All Employees: Government: State Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU21145409093000001      | All Employees: Government: Local Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU21145409093000001A     | All Employees: Local Government in Bowling Green, KY (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU21145409093000001SA    | All Employees: Government: Local Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU21145409093000001SA    | All Employees: Government: Local Government in Bowling Green, KY (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA14540              | Market Hotness: Supply Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-01-01        |

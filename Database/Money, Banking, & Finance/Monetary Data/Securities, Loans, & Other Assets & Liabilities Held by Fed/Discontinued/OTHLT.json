@@ -1,7 +1,7 @@
 {
   "id": "OTHLT",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Other loans held by the Federal Reserve: All Maturities (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2018-06-13",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-14 15:41:04-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/WLCFLL\n\n\nOther loans is the sum of Primary credit, Secondary credit, Seasonal credit, Primary dealer and other broker-dealer credit, Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility, Credit extended to American International Group, Inc., Term Asset-Backed Securities Loan Facility, and Other credit extensions."
 }

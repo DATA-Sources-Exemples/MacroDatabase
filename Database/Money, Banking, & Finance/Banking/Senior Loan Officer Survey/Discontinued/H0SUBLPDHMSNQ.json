@@ -1,7 +1,7 @@
 {
   "id": "H0SUBLPDHMSNQ",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Net Percentage of Banks Tightening Standards for Mortgage Loans (DISCONTINUED)",
   "observation_start": "1990-07-01",
   "observation_end": "2007-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-10-15 13:56:06-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "This series no longer appears on the Senior Loan Officer Opinion Survey on Bank Lending practices. For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
 }

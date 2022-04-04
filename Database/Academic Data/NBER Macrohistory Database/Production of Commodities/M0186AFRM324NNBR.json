@@ -1,7 +1,7 @@
 {
   "id": "M0186AFRM324NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Index of Cotton Textile Production for France",
   "observation_start": "1921-01-01",
   "observation_end": "1938-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:05:29-05",
-  "popularity": 2,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1938 (2)--Seasonally Adjusted Data, 1927-1939. Index Adjusted For The Number Of Working Days. Data Based On Output Of Yarn Per Spindle And Output Of Cloth Per Loom, Multiplied By The Total Number Of Spindles And Looms In Existence (As Reported Once Or Twice A Year). Spinning And Weaving Combined In Ratio Of 7:12 (According To The Number Of Employed Workers). Data For 1934 On Also Checked With Indices Generaus Du Mouvement. Data For August Of 1936, 1937, And 1938 Reflect Compulsory Vacations In Certain Industries. Source: Annuaire Statistique, 1933, Pp. 74-76; Bulletin De Statistique.\n\nThis NBER data series m01186a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01186a"
 }

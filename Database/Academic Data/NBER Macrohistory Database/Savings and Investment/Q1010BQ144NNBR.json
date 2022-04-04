@@ -1,7 +1,7 @@
 {
   "id": "Q1010BQ144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "New Corporate Issues, Short Term Bonds and Notes, U.S. and Canadian",
   "observation_start": "1934-01-01",
   "observation_end": "1956-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:20:41-05",
   "popularity": 1,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "NBER Computed Data By Adding U.S. And Canadian Data, Which Are Given Separately In The Source From January 1922 On. Data Refer To\"New Capital\" (\"Refunding\" Not Included). \"Municipal\" And \"Government\" Are Excluded Throughout. Source: Computed By NBER From Data In The Commercial And Financial Chronicle\n\nThis NBER data series q10010b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10010b"
 }

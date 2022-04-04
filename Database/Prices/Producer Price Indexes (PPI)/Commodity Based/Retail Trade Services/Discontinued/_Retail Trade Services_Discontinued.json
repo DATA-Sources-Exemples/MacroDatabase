@@ -1,8 +1,8 @@
 {
   "WPS581101": {
     "id": "WPS581101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -19,8 +19,8 @@
   },
   "WPU581101": {
     "id": "WPU581101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -37,8 +37,8 @@
   },
   "WPU58110101": {
     "id": "WPU58110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",

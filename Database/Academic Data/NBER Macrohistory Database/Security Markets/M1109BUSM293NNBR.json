@@ -1,7 +1,7 @@
 {
   "id": "M1109BUSM293NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Dow-Jones Industrial Stock Price Index for United States",
   "observation_start": "1914-12-01",
   "observation_end": "1968-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:02:00-05",
-  "popularity": 53,
+  "popularity": 54,
   "group_popularity": 55,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1897-1916 (2)--Original Data, 1914-1958 20 Stocks Are Used Through September, 1928 And 30 Stocks Thereafter. A Detailed Description Of Methods Of Constucting Averages Is Given In \"Basis Of Calculation Of Dow-Jones Average\" Available From The Wall Street Journal. For A More Detailed Description Of The Series, See Business Cycle Indicators, Vol. Ii, Moore, NBER. This Index Is Based On Daily Closing Prices On The New York Stock Exchange. Through 1948, Averages Of Highest And Lowest Indexes For The Month Are Used. For 1949-1968, Averages Of Daily Closing Indexes Are Used. Source: Data Were Compiled By Dow Jones And Company From Quotations In The Wall Street Journal. Through June, 1952, Data Are From The Dow-Jones Averages, 13Th Edition, 1948, And Supplementary Averages (Barron'S Publishing Company). Thereafter, Through 1968, Data Are From Barron'S National Business And Financial Weekly.\n\nThis NBER data series m11009b appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11009b"
 }

@@ -3,31 +3,31 @@
 | ACTLISCOU11700            | Housing Inventory: Active Listing Count in Asheville, NC (CBSA)                                                | 2016-07-01          | 2022-01-01        |
 | ACTLISCOUMM11700          | Housing Inventory: Active Listing Count Month-Over-Month in Asheville, NC (CBSA)                               | 2017-07-01          | 2022-01-01        |
 | ACTLISCOUYY11700          | Housing Inventory: Active Listing Count Year-Over-Year in Asheville, NC (CBSA)                                 | 2017-07-01          | 2022-01-01        |
-| ASHE737EDUH               | All Employees: Education and Health Services in Asheville, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ASHE737EDUHN              | All Employees: Education and Health Services in Asheville, NC (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ASHE737FIRE               | All Employees: Financial Activities in Asheville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ASHE737FIREN              | All Employees: Financial Activities in Asheville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ASHE737GOVT               | All Employees: Government in Asheville, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ASHE737GOVTN              | All Employees: Government in Asheville, NC (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ASHE737INFO               | All Employees: Information in Asheville, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ASHE737INFON              | All Employees: Information in Asheville, NC (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ASHE737LEIH               | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| ASHE737LEIHN              | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| ASHE737EDUH               | All Employees: Education and Health Services in Asheville, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ASHE737EDUHN              | All Employees: Education and Health Services in Asheville, NC (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ASHE737FIRE               | All Employees: Financial Activities in Asheville, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ASHE737FIREN              | All Employees: Financial Activities in Asheville, NC (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ASHE737GOVT               | All Employees: Government in Asheville, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ASHE737GOVTN              | All Employees: Government in Asheville, NC (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ASHE737INFO               | All Employees: Information in Asheville, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ASHE737INFON              | All Employees: Information in Asheville, NC (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ASHE737LEIH               | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| ASHE737LEIHN              | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | ASHE737LF                 | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | ASHE737LFN                | Civilian Labor Force in Asheville, NC (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| ASHE737MFG                | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ASHE737MFGN               | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ASHE737NA                 | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ASHE737NAN                | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ASHE737NRMN               | All Employees: Mining, Logging, and Construction in Asheville, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ASHE737NRMNN              | All Employees: Mining, Logging, and Construction in Asheville, NC (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ASHE737PBSV               | All Employees: Professional and Business Services in Asheville, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| ASHE737PBSVN              | All Employees: Professional and Business Services in Asheville, NC (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| ASHE737MFG                | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ASHE737MFGN               | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ASHE737NA                 | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ASHE737NAN                | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ASHE737NRMN               | All Employees: Mining, Logging, and Construction in Asheville, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ASHE737NRMNN              | All Employees: Mining, Logging, and Construction in Asheville, NC (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ASHE737PBSV               | All Employees: Professional and Business Services in Asheville, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| ASHE737PBSVN              | All Employees: Professional and Business Services in Asheville, NC (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | ASHE737PCPI               | Per Capita Personal Income in Asheville, NC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| ASHE737SRVO               | All Employees: Other Services in Asheville, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ASHE737SRVON              | All Employees: Other Services in Asheville, NC (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ASHE737TRAD               | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| ASHE737TRADN              | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ASHE737SRVO               | All Employees: Other Services in Asheville, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ASHE737SRVON              | All Employees: Other Services in Asheville, NC (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ASHE737TRAD               | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| ASHE737TRADN              | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | ASHE737UR                 | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ASHE737URN                | Unemployment Rate in Asheville, NC (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ASHPOP                    | Resident Population in Asheville, NC (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
@@ -107,41 +107,41 @@
 | RPPGOOD11700              | Regional Price Parities: Goods for Asheville, NC (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH11700          | Regional Price Parities: Services: Other for Asheville, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT11700         | Regional Price Parities: Services: Rents for Asheville, NC (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS37117000000000026      | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS37117000000000026      | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU37117000000000001A     | All Employees: Total Nonfarm in Asheville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37117000500000001      | All Employees: Total Private in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU37117000500000001      | All Employees: Total Private in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU37117000500000001A     | All Employees: Total Private in Asheville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU37117000500000001SA    | All Employees: Total Private in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU37117000500000002      | Average Weekly Hours of All Employees: Total Private in Asheville, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU37117000500000001SA    | All Employees: Total Private in Asheville, NC (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU37117000500000002      | Average Weekly Hours of All Employees: Total Private in Asheville, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU37117000500000002A     | Average Weekly Hours of All Employees: Total Private in Asheville, NC (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU37117000500000002SA    | Average Weekly Hours of All Employees: Total Private in Asheville, NC (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU37117000500000003      | Average Hourly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37117000500000002SA    | Average Weekly Hours of All Employees: Total Private in Asheville, NC (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU37117000500000003      | Average Hourly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37117000500000003A     | Average Hourly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37117000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37117000500000011      | Average Weekly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU37117000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37117000500000011      | Average Weekly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU37117000500000011A     | Average Weekly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU37117000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU37117000600000001      | All Employees: Goods Producing in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37117000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Asheville, NC (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU37117000600000001      | All Employees: Goods Producing in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37117000600000001A     | All Employees: Goods Producing in Asheville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37117000600000001SA    | All Employees: Goods Producing in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37117000700000001      | All Employees: Service-Providing in Asheville, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU37117000600000001SA    | All Employees: Goods Producing in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37117000700000001      | All Employees: Service-Providing in Asheville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU37117000700000001A     | All Employees: Service-Providing in Asheville, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU37117000700000001SA    | All Employees: Service-Providing in Asheville, NC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU37117000800000001      | All Employees: Private Service Providing in Asheville, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37117000700000001SA    | All Employees: Service-Providing in Asheville, NC (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU37117000800000001      | All Employees: Private Service Providing in Asheville, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37117000800000001A     | All Employees: Private Service Providing in Asheville, NC (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU37117000800000001SA    | All Employees: Private Service Providing in Asheville, NC (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU37117000800000001SA    | All Employees: Private Service Providing in Asheville, NC (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU37117001500000001A     | All Employees: Mining, Logging, and Construction in Asheville, NC (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU37117003000000001A     | All Employees: Manufacturing in Asheville, NC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU37117004000000001A     | All Employees: Trade, Transportation, and Utilities in Asheville, NC (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU37117004100000001      | All Employees: Wholesale Trade in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU37117004100000001      | All Employees: Wholesale Trade in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU37117004100000001A     | All Employees: Wholesale Trade in Asheville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU37117004100000001SA    | All Employees: Wholesale Trade in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU37117004200000001      | All Employees: Retail Trade in Asheville, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU37117004100000001SA    | All Employees: Wholesale Trade in Asheville, NC (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU37117004200000001      | All Employees: Retail Trade in Asheville, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU37117004200000001A     | All Employees: Retail Trade in Asheville, NC (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU37117004200000001SA    | All Employees: Retail Trade in Asheville, NC (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU37117004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Asheville, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37117004200000001SA    | All Employees: Retail Trade in Asheville, NC (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU37117004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Asheville, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37117004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Asheville, NC (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU37117004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Asheville, NC (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU37117004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Asheville, NC (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU37117005000000001A     | All Employees: Information in Asheville, NC (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU37117005500000001A     | All Employees: Financial Activities in Asheville, NC (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU37117006000000001A     | All Employees: Professional and Business Services in Asheville, NC (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -149,12 +149,12 @@
 | SMU37117007000000001A     | All Employees: Leisure and Hospitality in Asheville, NC (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU37117008000000001A     | All Employees: Other Services in Asheville, NC (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU37117009000000001A     | All Employees: Government in Asheville, NC (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU37117009091000001      | All Employees: Government: Federal Government in Asheville, NC (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU37117009091000001      | All Employees: Government: Federal Government in Asheville, NC (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU37117009091000001A     | All Employees: Federal Government in Asheville, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU37117009092000001      | All Employees: Government: State Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37117009092000001      | All Employees: Government: State Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37117009092000001A     | All Employees: State Government in Asheville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37117009092000001SA    | All Employees: Government: State Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU37117009093000001      | All Employees: Government: Local Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37117009092000001SA    | All Employees: Government: State Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU37117009093000001      | All Employees: Government: Local Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU37117009093000001A     | All Employees: Local Government in Asheville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU37117009093000001SA    | All Employees: Government: Local Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU37117009093000001SA    | All Employees: Government: Local Government in Asheville, NC (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA11700              | Market Hotness: Supply Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

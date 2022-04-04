@@ -1,8 +1,8 @@
 {
   "IBANAINIAIPF": {
     "id": "IBANAINIAIPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2001-01-01",
@@ -19,8 +19,8 @@
   },
   "IBANAINIAOPF": {
     "id": "IBANAINIAOPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2010-10-01",
@@ -37,8 +37,8 @@
   },
   "IBANAININIPF": {
     "id": "IBANAININIPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2011-01-01",
@@ -55,8 +55,8 @@
   },
   "IBANRIAIPF": {
     "id": "IBANRIAIPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2001-01-01",
@@ -73,8 +73,8 @@
   },
   "IBANRIAOPF": {
     "id": "IBANRIAOPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2010-10-01",
@@ -91,8 +91,8 @@
   },
   "IBANRINIPF": {
     "id": "IBANRINIPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2011-01-01",
@@ -109,8 +109,8 @@
   },
   "IDS1MNIAOGGPF": {
     "id": "IDS1MNIAOGGPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2010-01-01",
     "observation_end": "2010-10-01",
@@ -127,8 +127,8 @@
   },
   "IDSGGGAMNIAOPF": {
     "id": "IDSGGGAMNIAOPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2010-10-01",
@@ -145,8 +145,8 @@
   },
   "IDSGGGAMNINIPF": {
     "id": "IDSGGGAMNINIPF",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in French Polynesia (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2011-01-01",

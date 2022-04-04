@@ -1,8 +1,8 @@
 {
   "DDDI09CDA156NWDB": {
     "id": "DDDI09CDA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Insurance Premium Volume to GDP for the Democratic Republic of the Congo (DISCONTINUED)",
     "observation_start": "2000-01-01",
     "observation_end": "2005-01-01",
@@ -19,8 +19,8 @@
   },
   "DDDI09EZA156NWDB": {
     "id": "DDDI09EZA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Insurance Premium Volume to GDP for Euro Area (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2015-01-01",
@@ -37,8 +37,8 @@
   },
   "DDDI09IQA156NWDB": {
     "id": "DDDI09IQA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Insurance Premium Volume to GDP for Iraq (DISCONTINUED)",
     "observation_start": "1979-01-01",
     "observation_end": "1990-01-01",
@@ -55,8 +55,8 @@
   },
   "DDDI09ROA156NWDB": {
     "id": "DDDI09ROA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Insurance Premium Volume to GDP for Romania (DISCONTINUED)",
     "observation_start": "1993-01-01",
     "observation_end": "2013-01-01",
@@ -73,8 +73,8 @@
   },
   "DDDI09ZWA156NWDB": {
     "id": "DDDI09ZWA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Insurance Premium Volume to GDP for Zimbabwe (DISCONTINUED)",
     "observation_start": "1981-01-01",
     "observation_end": "1998-01-01",
@@ -91,8 +91,8 @@
   },
   "DDDI10CDA156NWDB": {
     "id": "DDDI10CDA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for the Democratic Republic of the Congo (DISCONTINUED)",
     "observation_start": "2000-01-01",
     "observation_end": "2009-01-01",
@@ -109,8 +109,8 @@
   },
   "DDDI10EZA156NWDB": {
     "id": "DDDI10EZA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for Euro Area (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2015-01-01",
@@ -127,8 +127,8 @@
   },
   "DDDI10IQA156NWDB": {
     "id": "DDDI10IQA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for Iraq (DISCONTINUED)",
     "observation_start": "1987-01-01",
     "observation_end": "1990-01-01",
@@ -145,8 +145,8 @@
   },
   "DDDI10LIA156NWDB": {
     "id": "DDDI10LIA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for Liechtenstein (DISCONTINUED)",
     "observation_start": "2009-01-01",
     "observation_end": "2009-01-01",
@@ -163,8 +163,8 @@
   },
   "DDDI10ROA156NWDB": {
     "id": "DDDI10ROA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for Romania (DISCONTINUED)",
     "observation_start": "1993-01-01",
     "observation_end": "2013-01-01",
@@ -181,8 +181,8 @@
   },
   "DDDI10ZWA156NWDB": {
     "id": "DDDI10ZWA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for Zimbabwe (DISCONTINUED)",
     "observation_start": "1987-01-01",
     "observation_end": "1999-01-01",
@@ -199,8 +199,8 @@
   },
   "DDDI11CDA156NWDB": {
     "id": "DDDI11CDA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Insurance Company Assets to GDP for the Democratic Republic of the Congo (DISCONTINUED)",
     "observation_start": "2005-01-01",
     "observation_end": "2008-01-01",
@@ -217,8 +217,8 @@
   },
   "DDDI11CFA156NWDB": {
     "id": "DDDI11CFA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Insurance Company Assets to GDP for Central African Republic (DISCONTINUED)",
     "observation_start": "2007-01-01",
     "observation_end": "2007-01-01",
@@ -235,8 +235,8 @@
   },
   "DDDI11EZA156NWDB": {
     "id": "DDDI11EZA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Insurance Company Assets to GDP for Euro Area (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "2015-01-01",
@@ -253,8 +253,8 @@
   },
   "DDDI11ROA156NWDB": {
     "id": "DDDI11ROA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Insurance Company Assets to GDP for Romania (DISCONTINUED)",
     "observation_start": "2003-01-01",
     "observation_end": "2012-01-01",
@@ -271,8 +271,8 @@
   },
   "DDDI091WA156NWDB": {
     "id": "DDDI091WA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Life Insurance Premium Volume to GDP for World (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2015-01-01",
@@ -289,8 +289,8 @@
   },
   "DDDI101WA156NWDB": {
     "id": "DDDI101WA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Non-Life Insurance Premium Volume to GDP for World (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2015-01-01",
@@ -307,8 +307,8 @@
   },
   "DDDI111WA156NWDB": {
     "id": "DDDI111WA156NWDB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Insurance Company Assets to GDP for World (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "2015-01-01",
@@ -319,8 +319,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2017-08-29 13:06:45-05",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "Ratio of assets of insurance companies to GDP.\n\nData taken from a variety of sources such as AXCO and national sources. (World Bank - Non banking financial database)\n\nSource Code: GFDD.DI.11"
   }
 }

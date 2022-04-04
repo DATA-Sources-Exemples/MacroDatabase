@@ -25,7 +25,7 @@
 | HORAMSA14860              | Market Hotness: Hotness Rank in Bridgeport-Stamford-Norwalk, CT (CBSA)                                             | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA14860            | Market Hotness: Hotness Rank in Bridgeport-Stamford-Norwalk, CT (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | HOSCMSA14860              | Market Hotness: Hotness Score in Bridgeport-Stamford-Norwalk, CT (CBSA)                                            | 2017-08-01          | 2022-01-01        |
-| IHLCHG14860               | Job Postings on Indeed in Bridgeport-Stamford-Norwalk, CT (MSA)                                                    | 2020-02-01          | 2022-03-11        |
+| IHLCHG14860               | Job Postings on Indeed in Bridgeport-Stamford-Norwalk, CT (MSA)                                                    | 2020-02-01          | 2022-03-18        |
 | IRPD14860                 | Implicit Regional Price Deflator for Bridgeport-Stamford-Norwalk, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA14860          | Market Hotness: Listing Views per Property in Bridgeport-Stamford-Norwalk, CT (CBSA)                               | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA14860        | Market Hotness: Listing Views per Property Versus the United States in Bridgeport-Stamford-Norwalk, CT (CBSA)      | 2017-08-01          | 2022-01-01        |

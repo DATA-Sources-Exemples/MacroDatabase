@@ -1,7 +1,7 @@
 {
   "id": "WLEMUINDXD",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Equity Market-related Economic Uncertainty Index",
   "observation_start": "1985-01-01",
   "observation_end": "2022-02-18",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-21 08:01:06-06",
-  "popularity": 46,
-  "group_popularity": 46,
+  "popularity": 43,
+  "group_popularity": 43,
   "notes": "For additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
 }

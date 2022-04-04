@@ -1,7 +1,7 @@
 {
   "id": "WPU102105",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Gold Ores",
   "observation_start": "1985-06-01",
   "observation_end": "2021-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 07:59:41-06",
-  "popularity": 4,
-  "group_popularity": 34
+  "popularity": 3,
+  "group_popularity": 36
 }

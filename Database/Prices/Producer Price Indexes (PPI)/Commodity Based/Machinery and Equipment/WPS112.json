@@ -1,7 +1,7 @@
 {
   "id": "WPS112",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Construction Machinery and Equipment",
   "observation_start": "1982-01-01",
   "observation_end": "2015-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:02-06",
-  "popularity": 41,
+  "popularity": 40,
   "group_popularity": 45
 }

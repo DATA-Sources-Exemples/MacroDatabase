@@ -1,7 +1,7 @@
 {
   "id": "M0129BUSM311NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Electrical Energy Distribution, Revenue from Sales to Ultimate Consumers for United States",
   "observation_start": "1928-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:47:39-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1913-1933 (2)--Original Data, 1928-1951. Source: Data For 1928-1932: National Electric Light Association. Data For 1933-1949: Edison Electric Institute, Bulletins, No. 7, 1939; No. 8, 1940; No. 11, 1943; Nos. 13-17, 1945-1949. Data For 1950-1951: Survey Of Current Business.\n\nThis NBER data series m01129b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01129b"
 }

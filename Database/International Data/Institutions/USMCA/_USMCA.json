@@ -1,8 +1,8 @@
 {
   "EXP0021": {
     "id": "EXP0021",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Exports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption)",
     "observation_start": "2020-01-01",
     "observation_end": "2022-01-01",
@@ -19,8 +19,8 @@
   },
   "EXP0022": {
     "id": "EXP0022",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Exports of Goods by F.A.S. Basis to USMCA with Canada (Consumption)",
     "observation_start": "2020-01-01",
     "observation_end": "2022-01-01",
@@ -37,8 +37,8 @@
   },
   "IMP0021": {
     "id": "IMP0021",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Imports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption)",
     "observation_start": "2020-01-01",
     "observation_end": "2022-01-01",
@@ -55,8 +55,8 @@
   },
   "IMP0022": {
     "id": "IMP0022",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "U.S. Imports of Goods by F.A.S. Basis to USMCA with Canada (Consumption)",
     "observation_start": "2020-01-01",
     "observation_end": "2022-01-01",

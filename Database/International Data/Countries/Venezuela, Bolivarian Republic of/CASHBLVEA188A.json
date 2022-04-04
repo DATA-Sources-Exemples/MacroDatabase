@@ -1,7 +1,7 @@
 {
   "id": "CASHBLVEA188A",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Cash surplus/deficit (% of GDP) for Venezuela",
   "observation_start": "1990-01-01",
   "observation_end": "2005-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-27 13:31:12-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Cash surplus or deficit is revenue (including grants) minus expense, minus net acquisition of nonfinancial assets. In the 1986 GFS manual nonfinancial assets were included under revenue and expenditure in gross terms. This cash surplus or deficit is closest to the earlier overall budget balance (still missing is lending minus repayments, which are now a financing item under net acquisition of financial assets).\n\nWorld Bank sources: International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.\n\nSource Indicator: GC.BAL.CASH.GD.ZS"
 }

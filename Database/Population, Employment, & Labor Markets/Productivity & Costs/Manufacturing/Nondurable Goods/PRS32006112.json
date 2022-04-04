@@ -1,7 +1,7 @@
 {
   "id": "PRS32006112",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons",
   "observation_start": "1987-04-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 07:37:08-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BLS calculates unit labor costs as the ratio of hourly compensation to labor productivity.\n\nFor more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS32006112"
 }

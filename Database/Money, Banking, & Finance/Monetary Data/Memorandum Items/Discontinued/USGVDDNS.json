@@ -1,7 +1,7 @@
 {
   "id": "USGVDDNS",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "U.S. Government Demand Deposits and Note Balances - Total (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-02-11 15:33:10-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "This series has been discontinued and will no longer be updated. Starting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates, thereby eliminating the release of data on institutional money funds and memorandum items on U.S. government deposits and deposits due to foreign banks and foreign official institutions. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nU.S. Government demand deposits at commercial banks plus note balances at depository institutions. Calculated by the Federal Reserve Bank of St. Louis."
 }

@@ -1,7 +1,7 @@
 {
   "id": "CUUSA316SA0L1E",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: All items less food and energy in Dallas-Fort Worth-Arlington, TX (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:39:34-06",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

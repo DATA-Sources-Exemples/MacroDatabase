@@ -34,4 +34,4 @@
 | WEIR239PCPI           | Per Capita Personal Income in Weirton-Steubenville, WV-OH (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | WEIR239UR             | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2022-01-01        |
 | WEIR239URN            | Unemployment Rate in Weirton-Steubenville, WV-OH (MSA)                                                       | 1990-01-01          | 2022-01-01        |
-| WEUPOP                | Resident Population in Weirton-Steubenville, WV-OH (MSA)                                                     | 2000-01-01          | 2020-01-01        |
+| WEUPOP                | Resident Population in Weirton-Steubenville, WV-OH (MSA)                                                     | 2000-01-01          | 2021-01-01        |

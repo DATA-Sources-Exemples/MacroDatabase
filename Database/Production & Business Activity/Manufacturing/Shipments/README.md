@@ -26,8 +26,8 @@
 | A27SVS             | Manufacturers' Value of Shipments: Nonmetallic Mineral Products                                                      | 1992-01-01          | 2022-01-01        |
 | A31AVS             | Manufacturers' Value of Shipments: Iron and Steel Mills and Ferroalloy and Steel Product Manufacturing               | 1992-01-01          | 2022-01-01        |
 | A31CVS             | Manufacturers' Value of Shipments: Ferrous Metal Foundries                                                           | 1992-01-01          | 2022-01-01        |
-| A31SVS             | Manufacturers' Value of Shipments: Primary Metals                                                                    | 1992-01-01          | 2022-01-01        |
-| A32SVS             | Manufacturers' Value of Shipments: Fabricated Metal Products                                                         | 1992-01-01          | 2022-01-01        |
+| A31SVS             | Manufacturers' Value of Shipments: Primary Metals                                                                    | 1992-01-01          | 2022-02-01        |
+| A32SVS             | Manufacturers' Value of Shipments: Fabricated Metal Products                                                         | 1992-01-01          | 2022-02-01        |
 | A33AVS             | Manufacturers' Value of Shipments: Farm Machinery and Equipment Manufacturing                                        | 1992-01-01          | 2022-01-01        |
 | A33CVS             | Manufacturers' Value of Shipments: Construction Machinery Manufacturing                                              | 1992-01-01          | 2022-01-01        |
 | A33DVS             | Manufacturers' Value of Shipments: Mining, Oil, and Gas Field Machinery Manufacturing                                | 1992-01-01          | 2022-01-01        |
@@ -36,7 +36,7 @@
 | A33HVS             | Manufacturers' Value of Shipments: Ventilation, Heating, Air-Conditioning, and Refrigeration Equipment Manufacturing | 1992-01-01          | 2022-01-01        |
 | A33IVS             | Manufacturers' Value of Shipments: Metalworking Machinery Manufacturing                                              | 1992-01-01          | 2022-01-01        |
 | A33MVS             | Manufacturers' Value of Shipments: Material Handling Equipment Manufacturing                                         | 1992-01-01          | 2022-01-01        |
-| A33SVS             | Manufacturers' Value of Shipments: Machinery                                                                         | 1992-01-01          | 2022-01-01        |
+| A33SVS             | Manufacturers' Value of Shipments: Machinery                                                                         | 1992-01-01          | 2022-02-01        |
 | A34AVS             | Manufacturers' Value of Shipments: Electronic Computer Manufacturing                                                 | 1992-01-01          | 2022-01-01        |
 | A34BVS             | Manufacturers' Value of Shipments: Computer Storage Device Manufacturing                                             | 1992-01-01          | 2022-01-01        |
 | A34CVS             | Manufacturers' Value of Shipments: Other Computer Peripheral Equipment Manufacturing                                 | 1992-01-01          | 2022-01-01        |
@@ -47,17 +47,17 @@
 | A34IVS             | Manufacturers' Value of Shipments: Search and Navigation Equipment, Nondefense                                       | 1992-01-01          | 2022-01-01        |
 | A34JVS             | Manufacturers' Value of Shipments: Search and Navigation Equipment, Defense                                          | 1992-01-01          | 2022-01-01        |
 | A34KVS             | Manufacturers' Value of Shipments: Electromedical, Measuring, and Control Instrument Manufacturing                   | 1992-01-01          | 2022-01-01        |
-| A34SVS             | Manufacturers' Value of Shipments: Computers and Electronic Products                                                 | 1992-01-01          | 2022-01-01        |
-| A34XVS             | Manufacturers' Value of Shipments: Communications Equipment                                                          | 1992-01-01          | 2022-01-01        |
+| A34SVS             | Manufacturers' Value of Shipments: Computers and Electronic Products                                                 | 1992-01-01          | 2022-02-01        |
+| A34XVS             | Manufacturers' Value of Shipments: Communications Equipment                                                          | 1992-01-01          | 2022-02-01        |
 | A35AVS             | Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing                                         | 1992-01-01          | 2022-01-01        |
 | A35BVS             | Manufacturers' Value of Shipments: Household Appliance Manufacturing                                                 | 1992-01-01          | 2022-01-01        |
 | A35CVS             | Manufacturers' Value of Shipments: Electrical Equipment Manufacturing                                                | 1992-01-01          | 2022-01-01        |
 | A35DVS             | Manufacturers' Value of Shipments: Battery Manufacturing                                                             | 1992-01-01          | 2022-01-01        |
-| A35SVS             | Manufacturers' Value of Shipments: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-01-01        |
+| A35SVS             | Manufacturers' Value of Shipments: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-02-01        |
 | A36AVS             | Manufacturers' Value of Shipments: Automobile Manufacturing                                                          | 1992-01-01          | 2022-01-01        |
 | A36BVS             | Manufacturers' Value of Shipments: Light Truck and Utility Vehicle Manufacturing                                     | 1992-01-01          | 2022-01-01        |
 | A36CVS             | Manufacturers' Value of Shipments: Heavy Duty Truck Manufacturing                                                    | 1992-01-01          | 2022-01-01        |
-| A36SVS             | Manufacturers' Value of Shipments: Transportation Equipment                                                          | 1992-01-01          | 2022-01-01        |
+| A36SVS             | Manufacturers' Value of Shipments: Transportation Equipment                                                          | 1992-01-01          | 2022-02-01        |
 | A36ZVS             | Manufacturers' Value of Shipments: Ships and Boats                                                                   | 1992-01-01          | 2022-01-01        |
 | A37SVS             | Manufacturers' Value of Shipments: Furniture and Related Products                                                    | 1992-01-01          | 2022-01-01        |
 | A39SVS             | Manufacturers' Value of Shipments: Miscellaneous Products                                                            | 1992-01-01          | 2022-01-01        |
@@ -67,24 +67,24 @@
 | ACMSVS             | Manufacturers' Value of Shipments: Construction Materials and Supplies                                               | 1992-01-01          | 2022-01-01        |
 | ACNGVS             | Manufacturers' Value of Shipments: Consumer Nondurable Goods                                                         | 1992-01-01          | 2022-01-01        |
 | ACOGVS             | Manufacturers' Value of Shipments: Consumer Goods                                                                    | 1992-01-01          | 2022-01-01        |
-| ACRPVS             | Manufacturers' Value of Shipments: Computers and Related Products                                                    | 1992-01-01          | 2022-01-01        |
-| ADAPVS             | Manufacturers' Value of Shipments: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-01-01        |
-| ADEFVS             | Manufacturers' Value of Shipments: Defense Capital Goods                                                             | 1992-01-01          | 2022-01-01        |
-| ADXDVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-01-01        |
-| ADXTVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-01-01        |
+| ACRPVS             | Manufacturers' Value of Shipments: Computers and Related Products                                                    | 1992-01-01          | 2022-02-01        |
+| ADAPVS             | Manufacturers' Value of Shipments: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-02-01        |
+| ADEFVS             | Manufacturers' Value of Shipments: Defense Capital Goods                                                             | 1992-01-01          | 2022-02-01        |
+| ADXDVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-02-01        |
+| ADXTVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-02-01        |
 | AITIVS             | Manufacturers' Value of Shipments: Information Technology Industries                                                 | 1992-01-01          | 2022-01-01        |
-| AMDMVS             | Manufacturers' Value of Shipments: Durable Goods                                                                     | 1992-01-01          | 2022-01-01        |
+| AMDMVS             | Manufacturers' Value of Shipments: Durable Goods                                                                     | 1992-01-01          | 2022-02-01        |
 | AMNMVS             | Manufacturers' Value of Shipments: Nondurable Goods                                                                  | 1992-01-01          | 2022-01-01        |
 | AMTMVS             | Manufacturers' Value of Shipments: Total Manufacturing                                                               | 1992-01-01          | 2022-01-01        |
-| AMTUVS             | Manufacturers' Value of Shipments: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-01-01        |
-| AMVPVS             | Manufacturers' Value of Shipments: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-01-01        |
+| AMTUVS             | Manufacturers' Value of Shipments: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-02-01        |
+| AMVPVS             | Manufacturers' Value of Shipments: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-02-01        |
 | AMXDVS             | Manufacturers' Value of Shipments: Manufacturing Excluding Defense                                                   | 1992-01-01          | 2022-01-01        |
 | AMXTVS             | Manufacturers' Value of Shipments: Manufacturing Excluding Transportation                                            | 1992-01-01          | 2022-01-01        |
-| ANAPVS             | Manufacturers' Value of Shipments: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-01-01        |
-| ANDEVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-01-01        |
-| ANXAVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-01-01        |
-| AODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-01-01        |
-| ATCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-01-01        |
+| ANAPVS             | Manufacturers' Value of Shipments: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-02-01        |
+| ANDEVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-02-01        |
+| ANXAVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-02-01        |
+| AODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-02-01        |
+| ATCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-02-01        |
 | ATGPVS             | Manufacturers' Value of Shipments: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-01-01        |
 | DTCDFNA066MNFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-03-01        |
 | DTCDFSA066MSFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-03-01        |
@@ -184,8 +184,8 @@
 | U27SVS             | Manufacturers' Value of Shipments: Nonmetallic Mineral Products                                                      | 1992-01-01          | 2022-01-01        |
 | U31AVS             | Manufacturers' Value of Shipments: Iron and Steel Mills and Ferroalloy and Steel Product Manufacturing               | 1992-01-01          | 2022-01-01        |
 | U31CVS             | Manufacturers' Value of Shipments: Ferrous Metal Foundries                                                           | 1992-01-01          | 2022-01-01        |
-| U31SVS             | Manufacturers' Value of Shipments: Primary Metals                                                                    | 1992-01-01          | 2022-01-01        |
-| U32SVS             | Manufacturers' Value of Shipments: Fabricated Metal Products                                                         | 1992-01-01          | 2022-01-01        |
+| U31SVS             | Manufacturers' Value of Shipments: Primary Metals                                                                    | 1992-01-01          | 2022-02-01        |
+| U32SVS             | Manufacturers' Value of Shipments: Fabricated Metal Products                                                         | 1992-01-01          | 2022-02-01        |
 | U33AVS             | Manufacturers' Value of Shipments: Farm Machinery and Equipment Manufacturing                                        | 1992-01-01          | 2022-01-01        |
 | U33CVS             | Manufacturers' Value of Shipments: Construction Machinery Manufacturing                                              | 1992-01-01          | 2022-01-01        |
 | U33DVS             | Manufacturers' Value of Shipments: Mining, Oil, and Gas Field Machinery Manufacturing                                | 1992-01-01          | 2022-01-01        |
@@ -194,7 +194,7 @@
 | U33HVS             | Manufacturers' Value of Shipments: Ventilation, Heating, Air-Conditioning, and Refrigeration Equipment Manufacturing | 1992-01-01          | 2022-01-01        |
 | U33IVS             | Manufacturers' Value of Shipments: Metalworking Machinery Manufacturing                                              | 1992-01-01          | 2022-01-01        |
 | U33MVS             | Manufacturers' Value of Shipments: Material Handling Equipment Manufacturing                                         | 1992-01-01          | 2022-01-01        |
-| U33SVS             | Manufacturers' Value of Shipments: Machinery                                                                         | 1992-01-01          | 2022-01-01        |
+| U33SVS             | Manufacturers' Value of Shipments: Machinery                                                                         | 1992-01-01          | 2022-02-01        |
 | U34AVS             | Manufacturers' Value of Shipments: Electronic Computer Manufacturing                                                 | 1992-01-01          | 2022-01-01        |
 | U34BVS             | Manufacturers' Value of Shipments: Computer Storage Device Manufacturing                                             | 1992-01-01          | 2022-01-01        |
 | U34CVS             | Manufacturers' Value of Shipments: Other Computer Peripheral Equipment Manufacturing                                 | 1992-01-01          | 2022-01-01        |
@@ -205,17 +205,17 @@
 | U34IVS             | Manufacturers' Value of Shipments: Search and Navigation Equipment, Nondefense                                       | 1992-01-01          | 2022-01-01        |
 | U34JVS             | Manufacturers' Value of Shipments: Search and Navigation Equipment, Defense                                          | 1992-01-01          | 2022-01-01        |
 | U34KVS             | Manufacturers' Value of Shipments: Electromedical, Measuring, and Control Instrument Manufacturing                   | 1992-01-01          | 2022-01-01        |
-| U34SVS             | Manufacturers' Value of Shipments: Computers and Electronic Products                                                 | 1992-01-01          | 2022-01-01        |
-| U34XVS             | Manufacturers' Value of Shipments: Communications Equipment                                                          | 1992-01-01          | 2022-01-01        |
+| U34SVS             | Manufacturers' Value of Shipments: Computers and Electronic Products                                                 | 1992-01-01          | 2022-02-01        |
+| U34XVS             | Manufacturers' Value of Shipments: Communications Equipment                                                          | 1992-01-01          | 2022-02-01        |
 | U35AVS             | Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing                                         | 1992-01-01          | 2022-01-01        |
 | U35BVS             | Manufacturers' Value of Shipments: Household Appliance Manufacturing                                                 | 1992-01-01          | 2022-01-01        |
 | U35CVS             | Manufacturers' Value of Shipments: Electrical Equipment Manufacturing                                                | 1992-01-01          | 2022-01-01        |
 | U35DVS             | Manufacturers' Value of Shipments: Battery Manufacturing                                                             | 1992-01-01          | 2022-01-01        |
-| U35SVS             | Manufacturers' Value of Shipments: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-01-01        |
+| U35SVS             | Manufacturers' Value of Shipments: Electrical Equipment, Appliances and Components                                   | 1992-01-01          | 2022-02-01        |
 | U36AVS             | Manufacturers' Value of Shipments: Automobile Manufacturing                                                          | 1992-01-01          | 2022-01-01        |
 | U36BVS             | Manufacturers' Value of Shipments: Light Truck and Utility Vehicle Manufacturing                                     | 1992-01-01          | 2022-01-01        |
 | U36CVS             | Manufacturers' Value of Shipments: Heavy Duty Truck Manufacturing                                                    | 1992-01-01          | 2022-01-01        |
-| U36SVS             | Manufacturers' Value of Shipments: Transportation Equipment                                                          | 1992-01-01          | 2022-01-01        |
+| U36SVS             | Manufacturers' Value of Shipments: Transportation Equipment                                                          | 1992-01-01          | 2022-02-01        |
 | U36ZVS             | Manufacturers' Value of Shipments: Ships and Boats                                                                   | 1992-01-01          | 2022-01-01        |
 | U37SVS             | Manufacturers' Value of Shipments: Furniture and Related Products                                                    | 1992-01-01          | 2022-01-01        |
 | U39SVS             | Manufacturers' Value of Shipments: Miscellaneous Products                                                            | 1992-01-01          | 2022-01-01        |
@@ -225,24 +225,24 @@
 | UCMSVS             | Manufacturers' Value of Shipments: Construction Materials and Supplies                                               | 1992-01-01          | 2022-01-01        |
 | UCNGVS             | Manufacturers' Value of Shipments: Consumer Nondurable Goods                                                         | 1992-01-01          | 2022-01-01        |
 | UCOGVS             | Manufacturers' Value of Shipments: Consumer Goods                                                                    | 1992-01-01          | 2022-01-01        |
-| UCRPVS             | Manufacturers' Value of Shipments: Computers and Related Products                                                    | 1992-01-01          | 2022-01-01        |
-| UDAPVS             | Manufacturers' Value of Shipments: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-01-01        |
-| UDEFVS             | Manufacturers' Value of Shipments: Defense Capital Goods                                                             | 1992-01-01          | 2022-01-01        |
-| UDXDVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-01-01        |
-| UDXTVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-01-01        |
+| UCRPVS             | Manufacturers' Value of Shipments: Computers and Related Products                                                    | 1992-01-01          | 2022-02-01        |
+| UDAPVS             | Manufacturers' Value of Shipments: Defense Aircraft and Parts                                                        | 1992-01-01          | 2022-02-01        |
+| UDEFVS             | Manufacturers' Value of Shipments: Defense Capital Goods                                                             | 1992-01-01          | 2022-02-01        |
+| UDXDVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-02-01        |
+| UDXTVS             | Manufacturers' Value of Shipments: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-02-01        |
 | UITIVS             | Manufacturers' Value of Shipments: Information Technology Industries                                                 | 1992-01-01          | 2022-01-01        |
-| UMDMVS             | Manufacturers' Value of Shipments: Durable Goods                                                                     | 1992-01-01          | 2022-01-01        |
+| UMDMVS             | Manufacturers' Value of Shipments: Durable Goods                                                                     | 1992-01-01          | 2022-02-01        |
 | UMNMVS             | Manufacturers' Value of Shipments: Nondurable Goods                                                                  | 1992-01-01          | 2022-01-01        |
 | UMTMVS             | Manufacturers' Value of Shipments: Total Manufacturing                                                               | 1992-01-01          | 2022-01-01        |
-| UMTUVS             | Manufacturers' Value of Shipments: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-01-01        |
-| UMVPVS             | Manufacturers' Value of Shipments: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-01-01        |
+| UMTUVS             | Manufacturers' Value of Shipments: Manufacturing with Unfilled Orders                                                | 1992-01-01          | 2022-02-01        |
+| UMVPVS             | Manufacturers' Value of Shipments: Motor Vehicles and Parts                                                          | 1992-01-01          | 2022-02-01        |
 | UMXDVS             | Manufacturers' Value of Shipments: Manufacturing Excluding Defense                                                   | 1992-01-01          | 2022-01-01        |
 | UMXTVS             | Manufacturers' Value of Shipments: Manufacturing Excluding Transportation                                            | 1992-01-01          | 2022-01-01        |
-| UNAPVS             | Manufacturers' Value of Shipments: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-01-01        |
-| UNDEVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-01-01        |
-| UNXAVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-01-01        |
-| UODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-01-01        |
-| UTCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-01-01        |
+| UNAPVS             | Manufacturers' Value of Shipments: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-02-01        |
+| UNDEVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-02-01        |
+| UNXAVS             | Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-02-01        |
+| UODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-02-01        |
+| UTCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-02-01        |
 | UTGPVS             | Manufacturers' Value of Shipments: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-01-01        |
 | VSHPDSAMFRBDAL     | Current Shipments; Percentage Reporting Decreases for Texas                                                          | 2004-06-01          | 2022-02-01        |
 | VSHPDUAMFRBDAL     | Current Shipments; Percentage Reporting Decreases for Texas                                                          | 2004-06-01          | 2022-02-01        |

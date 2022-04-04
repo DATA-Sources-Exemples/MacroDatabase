@@ -1,7 +1,7 @@
 {
   "id": "IR21320",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Import Price Index (End Use): Semiconductors",
   "observation_start": "1984-12-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-16 07:36:10-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

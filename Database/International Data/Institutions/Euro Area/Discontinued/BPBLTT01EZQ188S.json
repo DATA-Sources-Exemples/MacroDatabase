@@ -1,7 +1,7 @@
 {
   "id": "BPBLTT01EZQ188S",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Current Account Balance for the Euro Area (DISCONTINUED)",
   "observation_start": "1997-01-01",
   "observation_end": "2012-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2014-02-05 09:13:00-06",
   "popularity": 2,
-  "group_popularity": 5,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: BPBLTT01\nOECD unit ID: STSA\nOECD country ID: EA17\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

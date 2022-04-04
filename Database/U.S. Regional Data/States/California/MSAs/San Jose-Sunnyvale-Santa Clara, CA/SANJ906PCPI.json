@@ -1,7 +1,7 @@
 {
   "id": "SANJ906PCPI",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Per Capita Personal Income in San Jose-Sunnyvale-Santa Clara, CA (MSA)",
   "observation_start": "1969-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-16 07:38:04-06",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 12,
+  "group_popularity": 12
 }

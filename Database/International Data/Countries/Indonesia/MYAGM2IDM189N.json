@@ -1,7 +1,7 @@
 {
   "id": "MYAGM2IDM189N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "M2 for Indonesia",
   "observation_start": "1995-01-01",
   "observation_end": "2017-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:09-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "M2 comprises M1, quasi-money, and securities issued by other depository corporations held by other financial corporations, state and local governments, public nonfinancial corporations, and the private sector. Quasi-money comprises time, savings, and foreign-currency deposits that other financial corporations, state and local governments, public nonfinancial corporations, and the private sector hold in the BI and other depository corporations.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

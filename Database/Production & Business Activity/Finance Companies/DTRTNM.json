@@ -1,7 +1,7 @@
 {
   "id": "DTRTNM",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Total Real Estate Loans Owned and Securitized by Finance Companies, Level",
   "observation_start": "1970-06-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-18 14:48:11-05",
-  "popularity": 2,
-  "group_popularity": 8,
+  "popularity": 3,
+  "group_popularity": 9,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ ."
 }

@@ -1,7 +1,7 @@
 {
   "id": "FEDTARCTMLR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint",
   "observation_start": "2015-06-17",
   "observation_end": "2022-03-16",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-16 15:15:13-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "The longer-run projections are the rates of growth, inflation, unemployment, and federal funds rate to which a policymaker expects the economy to converge over time in the absence of further shocks and under appropriate monetary policy. Because appropriate monetary policy, by definition, is aimed at achieving the Federal Reserve's dual mandate of maximum employment and price stability in the longer run, policymakers' longer-run projections for economic growth and unemployment may be interpreted, respectively, as estimates of the economy's longer-run potential growth rate and the longer-run normal rate of unemployment; similarly, the longer-run projection of inflation is the rate of inflation which the FOMC judges to be most consistent with its dual mandate in the longer-term.\n\nThe projections for the federal funds rate are the value of the midpoint of the projected appropriate target range for the federal funds rate or the projected appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. Each participant's projections are based on his or her assessment of appropriate monetary policy. The range for each variable in a given year includes all participants' projections, from lowest to highest, for that variable in the given year; the central tendencies exclude the three highest and three lowest projections for each year. This series represents the midpoint of the central tendency forecast's high and low values established by the Federal Open Market Committee.\n\nDigitized originals of this release can be found at https://fraser.stlouisfed.org/publication/?pid=677."
 }

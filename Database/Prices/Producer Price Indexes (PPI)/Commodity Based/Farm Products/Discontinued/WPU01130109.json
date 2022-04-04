@@ -1,7 +1,7 @@
 {
   "id": "WPU01130109",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity for Farm Products: Dry Garbanzo Beans (DISCONTINUED)",
   "observation_start": "2011-12-01",
   "observation_end": "2015-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-10-15 08:53:12-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm"
 }

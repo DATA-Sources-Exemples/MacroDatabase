@@ -1,7 +1,7 @@
 {
   "id": "A10039USA144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Net Capital Formation, Total, in Current Prices for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1939-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:17:51-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Source: Simon Kuznets, National Product Since 1869 (NBER) 1946, Table I-17, P. 54\n\nThis NBER data series a10039 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: a10039"
 }

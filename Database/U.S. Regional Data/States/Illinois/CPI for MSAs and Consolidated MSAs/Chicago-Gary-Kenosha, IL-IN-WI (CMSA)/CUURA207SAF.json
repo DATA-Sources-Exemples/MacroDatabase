@@ -1,7 +1,7 @@
 {
   "id": "CUURA207SAF",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Food and Beverages in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)",
   "observation_start": "1976-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:40:24-06",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 4
 }

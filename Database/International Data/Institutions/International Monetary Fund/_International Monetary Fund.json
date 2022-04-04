@@ -1,8 +1,8 @@
 {
   "CCUSMA02IFA618N": {
     "id": "CCUSMA02IFA618N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "National Currency to US Dollar Exchange Rate: Average of Daily Rates for the International Monetary Fund",
     "observation_start": "1960-01-01",
     "observation_end": "2018-01-01",
@@ -19,8 +19,8 @@
   },
   "CCUSMA02IFM618N": {
     "id": "CCUSMA02IFM618N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "National Currency to US Dollar Exchange Rate: Average of Daily Rates for the International Monetary Fund",
     "observation_start": "1960-01-01",
     "observation_end": "2019-04-01",
@@ -37,8 +37,8 @@
   },
   "CCUSMA02IFQ618N": {
     "id": "CCUSMA02IFQ618N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "National Currency to US Dollar Exchange Rate: Average of Daily Rates for the International Monetary Fund",
     "observation_start": "1960-01-01",
     "observation_end": "2019-01-01",
@@ -55,8 +55,8 @@
   },
   "CCUSSP01IFA650N": {
     "id": "CCUSSP01IFA650N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund",
     "observation_start": "1975-01-01",
     "observation_end": "2021-01-01",
@@ -68,13 +68,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-15 11:13:38-06",
     "popularity": 1,
-    "group_popularity": 9,
+    "group_popularity": 12,
     "notes": "OECD descriptor ID: CCUSSP01\nOECD unit ID: ST\nOECD country ID: SDR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
   },
   "CCUSSP01IFM650N": {
     "id": "CCUSSP01IFM650N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund",
     "observation_start": "1975-01-01",
     "observation_end": "2022-01-01",
@@ -85,14 +85,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 10:40:04-06",
-    "popularity": 9,
-    "group_popularity": 9,
+    "popularity": 11,
+    "group_popularity": 12,
     "notes": "OECD descriptor ID: CCUSSP01\nOECD unit ID: ST\nOECD country ID: SDR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
   },
   "CCUSSP01IFQ650N": {
     "id": "CCUSSP01IFQ650N",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "US Dollar to National Currency Spot Exchange Rate for the International Monetary Fund",
     "observation_start": "1975-01-01",
     "observation_end": "2021-10-01",
@@ -104,7 +104,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-15 10:18:52-06",
     "popularity": 1,
-    "group_popularity": 9,
+    "group_popularity": 12,
     "notes": "OECD descriptor ID: CCUSSP01\nOECD unit ID: ST\nOECD country ID: SDR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
   }
 }

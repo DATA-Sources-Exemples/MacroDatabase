@@ -1,8 +1,8 @@
 {
   "PCRGMP46700": {
     "id": "PCRGMP46700",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Total Per Capita Real Gross Domestic Product for Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -19,8 +19,8 @@
   },
   "SMU06467002023600001": {
     "id": "SMU06467002023600001",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Construction: Construction of Buildings in Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2014-12-01",
@@ -36,8 +36,8 @@
   },
   "SMU06467002023600001A": {
     "id": "SMU06467002023600001A",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Construction: Construction of Buildings in Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-01-01",
@@ -53,8 +53,8 @@
   },
   "SMU06467002023600001SA": {
     "id": "SMU06467002023600001SA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Construction: Construction of Buildings in Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2014-12-01",
@@ -71,8 +71,8 @@
   },
   "SMU06467007072259001": {
     "id": "SMU06467007072259001",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Limited-Service Eating Places in Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2014-12-01",
@@ -88,8 +88,8 @@
   },
   "SMU06467007072259001A": {
     "id": "SMU06467007072259001A",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Limited-Service Eating Places in Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-01-01",
@@ -105,8 +105,8 @@
   },
   "SMU06467007072259001SA": {
     "id": "SMU06467007072259001SA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "All Employees: Limited-Service Eating Places in Vallejo-Fairfield, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2014-12-01",

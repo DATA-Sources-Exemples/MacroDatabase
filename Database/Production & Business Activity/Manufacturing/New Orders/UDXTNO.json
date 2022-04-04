@@ -1,18 +1,18 @@
 {
   "id": "UDXTNO",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Manufacturers' New Orders: Durable Goods Excluding Transportation",
   "observation_start": "1992-02-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-02-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-03 09:04:16-06",
+  "last_updated": "2022-03-24 07:32:23-05",
   "popularity": 3,
-  "group_popularity": 33,
+  "group_popularity": 36,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

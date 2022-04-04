@@ -1,18 +1,18 @@
 {
   "id": "ICNSA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Initial Claims",
   "observation_start": "1967-01-07",
-  "observation_end": "2022-03-12",
+  "observation_end": "2022-03-19",
   "frequency": "Weekly, Ending Saturday",
   "frequency_short": "W",
   "units": "Number",
   "units_short": "Number",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-17 07:48:06-05",
+  "last_updated": "2022-03-24 07:48:09-05",
   "popularity": 38,
-  "group_popularity": 75,
+  "group_popularity": 76,
   "notes": "An initial claim is a claim filed by an unemployed individual after a separation from an employer. The claim requests a determination of basic eligibility for the Unemployment Insurance program."
 }

@@ -42,26 +42,26 @@
 | NEWLISCOUMM36140          | Housing Inventory: New Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-01-01        |
 | NEWLISCOUYY36140          | Housing Inventory: New Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                         | 2017-07-01          | 2022-01-01        |
 | NGMP36140                 | Total Gross Domestic Product for Ocean City, NJ (MSA)                                                | 2001-01-01          | 2020-01-01        |
-| OCEA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-01-01        |
-| OCEA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-01-01        |
-| OCEA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-01-01        |
-| OCEA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-01-01        |
-| OCEA134EDUH               | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| OCEA134EDUHN              | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| OCEA134GOVT               | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| OCEA134GOVTN              | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-01-01        |
-| OCEA134LEIH               | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| OCEA134LEIHN              | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| OCEA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-02-01        |
+| OCEA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-02-01        |
+| OCEA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-02-01        |
+| OCEA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-02-01        |
+| OCEA134EDUH               | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| OCEA134EDUHN              | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| OCEA134GOVT               | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| OCEA134GOVTN              | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-02-01        |
+| OCEA134LEIH               | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| OCEA134LEIHN              | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | OCEA134LF                 | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | OCEA134LFN                | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| OCEA134NA                 | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| OCEA134NAN                | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| OCEA134NA                 | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| OCEA134NAN                | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | OCEA134PCPI               | Per Capita Personal Income in Ocean City, NJ (MSA)                                                   | 1969-01-01          | 2020-01-01        |
-| OCEA134TRAD               | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-01-01        |
-| OCEA134TRADN              | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-01-01        |
+| OCEA134TRAD               | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-02-01        |
+| OCEA134TRADN              | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-02-01        |
 | OCEA134UR                 | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-01-01        |
 | OCEA134URN                | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| OCIPOP                    | Resident Population in Ocean City, NJ (MSA)                                                          | 2000-01-01          | 2020-01-01        |
+| OCIPOP                    | Resident Population in Ocean City, NJ (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136140          | U.S. Granted Utility Patents Originating in Ocean City, NJ (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36140            | Housing Inventory: Pending Listing Count in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-01-01        |
 | PENLISCOUMM36140          | Housing Inventory: Pending Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-01-01        |
@@ -80,45 +80,45 @@
 | RPPGOOD36140              | Regional Price Parities: Goods for Ocean City, NJ (MSA)                                              | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH36140          | Regional Price Parities: Services: Other for Ocean City, NJ (MSA)                                    | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT36140         | Regional Price Parities: Services: Rents for Ocean City, NJ (MSA)                                    | 2008-01-01          | 2020-01-01        |
-| SMS34361400000000026      | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-04-01          | 2022-01-01        |
+| SMS34361400000000026      | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-04-01          | 2022-02-01        |
 | SMU34361400000000001A     | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU34361400500000001      | All Employees: Total Private in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| SMU34361400500000001      | All Employees: Total Private in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | SMU34361400500000001A     | All Employees: Total Private in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU34361400500000001SA    | All Employees: Total Private in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| SMU34361400500000002      | Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)                         | 2007-01-01          | 2022-01-01        |
+| SMU34361400500000001SA    | All Employees: Total Private in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| SMU34361400500000002      | Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)                         | 2007-01-01          | 2022-02-01        |
 | SMU34361400500000002A     | Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)                         | 2007-01-01          | 2021-01-01        |
-| SMU34361400500000002SA    | Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)                         | 2007-01-01          | 2022-01-01        |
-| SMU34361400500000003      | Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU34361400500000002SA    | Average Weekly Hours of All Employees: Total Private in Ocean City, NJ (MSA)                         | 2007-01-01          | 2022-02-01        |
+| SMU34361400500000003      | Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU34361400500000003A     | Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU34361400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU34361400500000011      | Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU34361400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU34361400500000011      | Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU34361400500000011A     | Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU34361400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU34361400600000001      | All Employees: Goods Producing in Ocean City, NJ (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU34361400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Ocean City, NJ (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU34361400600000001      | All Employees: Goods Producing in Ocean City, NJ (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU34361400600000001A     | All Employees: Goods Producing in Ocean City, NJ (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU34361400600000001SA    | All Employees: Goods Producing in Ocean City, NJ (MSA)                                               | 1990-01-01          | 2022-01-01        |
-| SMU34361400700000001      | All Employees: Service-Providing in Ocean City, NJ (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU34361400600000001SA    | All Employees: Goods Producing in Ocean City, NJ (MSA)                                               | 1990-01-01          | 2022-02-01        |
+| SMU34361400700000001      | All Employees: Service-Providing in Ocean City, NJ (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU34361400700000001A     | All Employees: Service-Providing in Ocean City, NJ (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU34361400700000001SA    | All Employees: Service-Providing in Ocean City, NJ (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU34361400800000001      | All Employees: Private Service Providing in Ocean City, NJ (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU34361400700000001SA    | All Employees: Service-Providing in Ocean City, NJ (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU34361400800000001      | All Employees: Private Service Providing in Ocean City, NJ (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU34361400800000001A     | All Employees: Private Service Providing in Ocean City, NJ (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU34361400800000001SA    | All Employees: Private Service Providing in Ocean City, NJ (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| SMU34361400800000001SA    | All Employees: Private Service Providing in Ocean City, NJ (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | SMU34361404000000001A     | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU34361404200000001      | All Employees: Retail Trade in Ocean City, NJ (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU34361404200000001      | All Employees: Retail Trade in Ocean City, NJ (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU34361404200000001A     | All Employees: Retail Trade in Ocean City, NJ (MSA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU34361404200000001SA    | All Employees: Retail Trade in Ocean City, NJ (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| SMU34361404200000001SA    | All Employees: Retail Trade in Ocean City, NJ (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | SMU34361406500000001A     | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2021-01-01        |
 | SMU34361407000000001A     | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU34361407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-01-01        |
+| SMU34361407072000001      | All Employees: Leisure and Hospitality: Accommodation and Food Services in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-02-01        |
 | SMU34361407072000001A     | All Employees: Accommodation and Food Services in Ocean City, NJ (MSA)                               | 1990-01-01          | 2021-01-01        |
-| SMU34361407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-01-01        |
+| SMU34361407072000001SA    | All Employees: Leisure and Hospitality: Accommodation and Food Services in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-02-01        |
 | SMU34361409000000001A     | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| SMU34361409091000001      | All Employees: Government: Federal Government in Ocean City, NJ (MSA)                                | 1990-01-01          | 2022-01-01        |
+| SMU34361409091000001      | All Employees: Government: Federal Government in Ocean City, NJ (MSA)                                | 1990-01-01          | 2022-02-01        |
 | SMU34361409091000001A     | All Employees: Federal Government in Ocean City, NJ (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU34361409091000001SA    | All Employees: Government: Federal Government in Ocean City, NJ (MSA)                                | 1990-01-01          | 2022-01-01        |
-| SMU34361409092000001      | All Employees: Government: State Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU34361409091000001SA    | All Employees: Government: Federal Government in Ocean City, NJ (MSA)                                | 1990-01-01          | 2022-02-01        |
+| SMU34361409092000001      | All Employees: Government: State Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU34361409092000001A     | All Employees: State Government in Ocean City, NJ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU34361409092000001SA    | All Employees: Government: State Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| SMU34361409093000001      | All Employees: Government: Local Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU34361409092000001SA    | All Employees: Government: State Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-02-01        |
+| SMU34361409093000001      | All Employees: Government: Local Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU34361409093000001A     | All Employees: Local Government in Ocean City, NJ (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU34361409093000001SA    | All Employees: Government: Local Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU34361409093000001SA    | All Employees: Government: Local Government in Ocean City, NJ (MSA)                                  | 1990-01-01          | 2022-02-01        |

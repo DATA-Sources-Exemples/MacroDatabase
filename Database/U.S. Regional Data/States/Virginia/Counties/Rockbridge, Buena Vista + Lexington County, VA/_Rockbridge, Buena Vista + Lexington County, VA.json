@@ -1,8 +1,8 @@
 {
   "GDPALL51945": {
     "id": "GDPALL51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: All Industries in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -19,8 +19,8 @@
   },
   "GDPGOODS51945": {
     "id": "GDPGOODS51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Private Goods-Producing Industries in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -37,8 +37,8 @@
   },
   "GDPGOVT51945": {
     "id": "GDPGOVT51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Government and Government Enterprises in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -55,8 +55,8 @@
   },
   "GDPSERV51945": {
     "id": "GDPSERV51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Gross Domestic Product: Private Services-Providing Industries in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -73,8 +73,8 @@
   },
   "REALGDPALL51945": {
     "id": "REALGDPALL51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: All Industries in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -91,8 +91,8 @@
   },
   "REALGDPGOODS51945": {
     "id": "REALGDPGOODS51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -109,8 +109,8 @@
   },
   "REALGDPGOVT51945": {
     "id": "REALGDPGOVT51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Government and Government Enterprises in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -127,8 +127,8 @@
   },
   "REALGDPSERV51945": {
     "id": "REALGDPSERV51945",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Real Gross Domestic Product: Private Services-Providing Industries in Rockbridge, Buena Vista + Lexington County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",

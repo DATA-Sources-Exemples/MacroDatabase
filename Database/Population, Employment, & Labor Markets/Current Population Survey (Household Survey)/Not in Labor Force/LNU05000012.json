@@ -1,7 +1,7 @@
 {
   "id": "LNU05000012",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Not in Labor Force, 16-19 Yrs.",
   "observation_start": "1976-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-04 07:45:34-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU05000012"
 }

@@ -35,36 +35,36 @@
 | LDPEPRMMMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA31180        | Market Hotness: Listing Views per Property Versus the United States in Lubbock, TX (CBSA)                    | 2017-08-01          | 2022-01-01        |
 | LDPEPRYYMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2018-08-01          | 2022-01-01        |
-| LUBB148EDUH               | All Employees: Education and Health Services in Lubbock, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LUBB148EDUHN              | All Employees: Education and Health Services in Lubbock, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LUBB148FIRE               | All Employees: Financial Activities in Lubbock, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LUBB148FIREN              | All Employees: Financial Activities in Lubbock, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LUBB148GOVT               | All Employees: Government in Lubbock, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LUBB148GOVTN              | All Employees: Government in Lubbock, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LUBB148INFO               | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LUBB148INFON              | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LUBB148LEIH               | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| LUBB148LEIHN              | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| LUBB148EDUH               | All Employees: Education and Health Services in Lubbock, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LUBB148EDUHN              | All Employees: Education and Health Services in Lubbock, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LUBB148FIRE               | All Employees: Financial Activities in Lubbock, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LUBB148FIREN              | All Employees: Financial Activities in Lubbock, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LUBB148GOVT               | All Employees: Government in Lubbock, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LUBB148GOVTN              | All Employees: Government in Lubbock, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LUBB148INFO               | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LUBB148INFON              | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LUBB148LEIH               | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| LUBB148LEIHN              | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | LUBB148LF                 | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | LUBB148LFN                | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| LUBB148MFG                | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LUBB148MFGN               | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LUBB148NA                 | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LUBB148NAN                | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LUBB148NRMN               | All Employees: Mining, Logging, and Construction in Lubbock, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LUBB148NRMNN              | All Employees: Mining, Logging, and Construction in Lubbock, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LUBB148PBSV               | All Employees: Professional and Business Services in Lubbock, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| LUBB148PBSVN              | All Employees: Professional and Business Services in Lubbock, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| LUBB148MFG                | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LUBB148MFGN               | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LUBB148NA                 | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LUBB148NAN                | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LUBB148NRMN               | All Employees: Mining, Logging, and Construction in Lubbock, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LUBB148NRMNN              | All Employees: Mining, Logging, and Construction in Lubbock, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LUBB148PBSV               | All Employees: Professional and Business Services in Lubbock, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| LUBB148PBSVN              | All Employees: Professional and Business Services in Lubbock, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | LUBB148PCPI               | Per Capita Personal Income in Lubbock, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| LUBB148SRVO               | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LUBB148SRVON              | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LUBB148TRAD               | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| LUBB148TRADN              | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| LUBB148SRVO               | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LUBB148SRVON              | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LUBB148TRAD               | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| LUBB148TRADN              | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | LUBB148UR                 | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LUBB148URN                | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| LUBSA158MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| LUBSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| LUBSA175MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| LUBSA158MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| LUBSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| LUBSA175MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | LUBSA674AFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA31180        | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2018-08-01          | 2022-01-01        |
 | MEDAONMAMSA31180          | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-01-01        |
@@ -111,41 +111,41 @@
 | RPPGOOD31180              | Regional Price Parities: Goods for Lubbock, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH31180          | Regional Price Parities: Services: Other for Lubbock, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT31180         | Regional Price Parities: Services: Rents for Lubbock, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48311800000000026      | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48311800000000026      | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48311800000000001A     | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48311800500000001      | All Employees: Total Private in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48311800500000001      | All Employees: Total Private in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48311800500000001A     | All Employees: Total Private in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48311800500000001SA    | All Employees: Total Private in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48311800500000002      | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48311800500000001SA    | All Employees: Total Private in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48311800500000002      | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48311800500000002A     | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48311800500000002SA    | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48311800500000003      | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48311800500000002SA    | Average Weekly Hours of All Employees: Total Private in Lubbock, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48311800500000003      | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48311800500000003A     | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48311800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48311800500000011      | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48311800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48311800500000011      | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48311800500000011A     | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48311800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48311800600000001      | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48311800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Lubbock, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48311800600000001      | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48311800600000001A     | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48311800600000001SA    | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48311800700000001      | All Employees: Service-Providing in Lubbock, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48311800600000001SA    | All Employees: Goods Producing in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48311800700000001      | All Employees: Service-Providing in Lubbock, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48311800700000001A     | All Employees: Service-Providing in Lubbock, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48311800700000001SA    | All Employees: Service-Providing in Lubbock, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48311800800000001      | All Employees: Private Service Providing in Lubbock, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48311800700000001SA    | All Employees: Service-Providing in Lubbock, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48311800800000001      | All Employees: Private Service Providing in Lubbock, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48311800800000001A     | All Employees: Private Service Providing in Lubbock, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48311800800000001SA    | All Employees: Private Service Providing in Lubbock, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48311800800000001SA    | All Employees: Private Service Providing in Lubbock, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48311801500000001A     | All Employees: Mining, Logging, and Construction in Lubbock, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48311803000000001A     | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48311804000000001A     | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48311804100000001      | All Employees: Wholesale Trade in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48311804100000001      | All Employees: Wholesale Trade in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48311804100000001A     | All Employees: Wholesale Trade in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48311804100000001SA    | All Employees: Wholesale Trade in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48311804200000001      | All Employees: Retail Trade in Lubbock, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48311804100000001SA    | All Employees: Wholesale Trade in Lubbock, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48311804200000001      | All Employees: Retail Trade in Lubbock, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48311804200000001A     | All Employees: Retail Trade in Lubbock, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48311804200000001SA    | All Employees: Retail Trade in Lubbock, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48311804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lubbock, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48311804200000001SA    | All Employees: Retail Trade in Lubbock, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48311804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lubbock, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48311804300000001A     | All Employees: Transportation and Utilities in Lubbock, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48311804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lubbock, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48311804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lubbock, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48311805000000001A     | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48311805500000001A     | All Employees: Financial Activities in Lubbock, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48311806000000001A     | All Employees: Professional and Business Services in Lubbock, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -153,13 +153,13 @@
 | SMU48311807000000001A     | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48311808000000001A     | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48311809000000001A     | All Employees: Government in Lubbock, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48311809091000001      | All Employees: Government: Federal Government in Lubbock, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48311809091000001      | All Employees: Government: Federal Government in Lubbock, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48311809091000001A     | All Employees: Federal Government in Lubbock, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48311809091000001SA    | All Employees: Government: Federal Government in Lubbock, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48311809092000001      | All Employees: Government: State Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48311809091000001SA    | All Employees: Government: Federal Government in Lubbock, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48311809092000001      | All Employees: Government: State Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48311809092000001A     | All Employees: State Government in Lubbock, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48311809092000001SA    | All Employees: Government: State Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48311809093000001      | All Employees: Government: Local Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48311809092000001SA    | All Employees: Government: State Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48311809093000001      | All Employees: Government: Local Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48311809093000001A     | All Employees: Local Government in Lubbock, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48311809093000001SA    | All Employees: Government: Local Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48311809093000001SA    | All Employees: Government: Local Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA31180              | Market Hotness: Supply Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

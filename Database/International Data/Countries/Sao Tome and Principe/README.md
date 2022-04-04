@@ -7,7 +7,7 @@
 | COSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Colorado                                                                   | 2003-01-01          | 2015-01-01        |
 | CTSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Connecticut                                                                | 2003-01-01          | 2014-01-01        |
 | DCSTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from District of Columbia                                                       | 2003-01-01          | 2005-01-01        |
-| DDAI01STA642NWDB    | Number of Bank Accounts for Sao Tome and Principe                                                                                       | 2007-01-01          | 2016-01-01        |
+| DDAI01STA642NWDB    | Number of Bank Accounts for Sao Tome and Principe                                                                                       | 2007-01-01          | 2018-01-01        |
 | DDAI02STA643NWDB    | Number of Bank Branches for Sao Tome and Principe                                                                                       | 2004-01-01          | 2016-01-01        |
 | DDDI01STA156NWDB    | Private Credit by Deposit Money Banks to GDP for Sao Tome and Principe                                                                  | 1995-01-01          | 2016-01-01        |
 | DDDI02STA156NWDB    | Deposit Money Bank Assets to GDP for Sao Tome and Principe                                                                              | 1995-01-01          | 2016-01-01        |
@@ -24,14 +24,14 @@
 | DDEI06STA156NWDB    | Bank's Return on Equity for Sao Tome and Principe                                                                                       | 1999-01-01          | 2016-01-01        |
 | DDEI07STA156NWDB    | Bank's Cost to Income Ratio for Sao Tome and Principe                                                                                   | 1996-01-01          | 2014-01-01        |
 | DDEI08STA156NWDB    | Credit to Government and State-Owned Enterprises to GDP for Sao Tome and Principe                                                       | 2006-01-01          | 2016-01-01        |
-| DDOE01STA086NWDB    | Consumer Price Index for Sao Tome and Principe                                                                                          | 1996-01-01          | 2016-01-01        |
-| DDOE02STA086NWDB    | Consumer Price Index for Sao Tome and Principe                                                                                          | 1996-01-01          | 2016-01-01        |
+| DDOE01STA086NWDB    | Consumer Price Index for Sao Tome and Principe                                                                                          | 1996-01-01          | 2017-01-01        |
+| DDOE02STA086NWDB    | Consumer Price Index for Sao Tome and Principe                                                                                          | 1996-01-01          | 2017-01-01        |
 | DDOI02STA156NWDB    | Bank Deposits to GDP for Sao Tome and Principe                                                                                          | 1995-01-01          | 2016-01-01        |
 | DDOI07STA648NWDB    | Liquid Liabilities (Broad Money) for Sao Tome and Principe                                                                              | 1995-01-01          | 2016-01-01        |
 | DDOI09STA156NWDB    | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Sao Tome and Principe                                                    | 2000-01-01          | 2013-01-01        |
 | DDOI10STA156NWDB    | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Sao Tome and Principe                              | 1995-01-01          | 2016-01-01        |
 | DDOI11STA156NWDB    | Remittance Inflows to GDP for Sao Tome and Principe                                                                                     | 2000-01-01          | 2017-01-01        |
-| DDOI12STA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Sao Tome and Principe                                                     | 1983-01-01          | 2016-01-01        |
+| DDOI12STA156NWDB    | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Sao Tome and Principe                                                     | 1983-01-01          | 2019-01-01        |
 | DDSI04STA156NWDB    | Bank Credit to Bank Deposits for Sao Tome and Principe                                                                                  | 1995-01-01          | 2016-01-01        |
 | DDSI06STA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Sao Tome and Principe                                                              | 1996-01-01          | 2016-01-01        |
 | DESTPA475SCEN       | Number of Identified Exporters to Sao Tome and Principe from Delaware                                                                   | 1992-01-01          | 2012-01-01        |

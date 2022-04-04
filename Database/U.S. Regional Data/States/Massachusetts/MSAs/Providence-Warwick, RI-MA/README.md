@@ -24,7 +24,7 @@
 | HORAMSA39300              | Market Hotness: Hotness Rank in Providence-Warwick, RI-MA (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA39300            | Market Hotness: Hotness Rank in Providence-Warwick, RI-MA (CBSA)                                                          | 2018-08-01          | 2022-01-01        |
 | HOSCMSA39300              | Market Hotness: Hotness Score in Providence-Warwick, RI-MA (CBSA)                                                         | 2017-08-01          | 2022-01-01        |
-| IHLCHG39300               | Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                 | 2020-02-01          | 2022-03-11        |
+| IHLCHG39300               | Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                 | 2020-02-01          | 2022-03-18        |
 | IRPD39300                 | Implicit Regional Price Deflator for Providence-Warwick, RI-MA (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA39300          | Market Hotness: Listing Views per Property in Providence-Warwick, RI-MA (CBSA)                                            | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA39300        | Market Hotness: Listing Views per Property Versus the United States in Providence-Warwick, RI-MA (CBSA)                   | 2017-08-01          | 2022-01-01        |
@@ -63,7 +63,7 @@
 | PRIINCCOU39300            | Housing Inventory: Price Increased Count in Providence-Warwick, RI-MA (CBSA)                                              | 2016-07-01          | 2022-01-01        |
 | PRIINCCOUMM39300          | Housing Inventory: Price Increased Count Month-Over-Month in Providence-Warwick, RI-MA (CBSA)                             | 2017-07-01          | 2022-01-01        |
 | PRIINCCOUYY39300          | Housing Inventory: Price Increased Count Year-Over-Year in Providence-Warwick, RI-MA (CBSA)                               | 2017-07-01          | 2022-01-01        |
-| PRIPOP                    | Resident Population in Providence-Warwick, RI-MA (MSA)                                                                    | 2000-01-01          | 2020-01-01        |
+| PRIPOP                    | Resident Population in Providence-Warwick, RI-MA (MSA)                                                                    | 2000-01-01          | 2021-01-01        |
 | PRIREDCOU39300            | Housing Inventory: Price Reduced Count in Providence-Warwick, RI-MA (CBSA)                                                | 2016-07-01          | 2022-01-01        |
 | PRIREDCOUMM39300          | Housing Inventory: Price Reduced Count Month-Over-Month in Providence-Warwick, RI-MA (CBSA)                               | 2017-07-01          | 2022-01-01        |
 | PRIREDCOUYY39300          | Housing Inventory: Price Reduced Count Year-Over-Year in Providence-Warwick, RI-MA (CBSA)                                 | 2017-07-01          | 2022-01-01        |

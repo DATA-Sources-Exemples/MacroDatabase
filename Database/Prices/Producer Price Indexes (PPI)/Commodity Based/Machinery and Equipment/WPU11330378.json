@@ -1,7 +1,7 @@
 {
   "id": "WPU11330378",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Arc Welding Electrodes, Metal",
   "observation_start": "1991-07-01",
   "observation_end": "2016-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-10-14 11:31:03-05",
-  "popularity": 8,
-  "group_popularity": 8
+  "popularity": 5,
+  "group_popularity": 5
 }

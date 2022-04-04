@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SEHF01",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Consumer Price Index for All Urban Consumers: Electricity in U.S. City Average",
   "observation_start": "1913-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:38:34-06",
   "popularity": 10,
-  "group_popularity": 41
+  "group_popularity": 38
 }

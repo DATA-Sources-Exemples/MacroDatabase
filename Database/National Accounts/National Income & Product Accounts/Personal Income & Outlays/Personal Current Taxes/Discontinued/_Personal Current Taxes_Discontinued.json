@@ -1,8 +1,8 @@
 {
   "A074RU1Q027NBEA": {
     "id": "A074RU1Q027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Federal government current tax receipts: Personal current taxes (DISCONTINUED)",
     "observation_start": "1947-01-01",
     "observation_end": "2016-10-01",
@@ -19,8 +19,8 @@
   },
   "W071RU1Q027NBEA": {
     "id": "W071RU1Q027NBEA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "State and local government current tax receipts: Personal current taxes (DISCONTINUED)",
     "observation_start": "1947-01-01",
     "observation_end": "2016-10-01",

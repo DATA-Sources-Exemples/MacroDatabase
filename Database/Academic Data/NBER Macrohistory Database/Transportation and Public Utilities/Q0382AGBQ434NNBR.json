@@ -1,7 +1,7 @@
 {
   "id": "Q0382AGBQ434NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Aggregate Coal Consumption by Freight Steam Locomotives for Great Britain",
   "observation_start": "1935-01-01",
   "observation_end": "1939-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:03:00-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 8,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1935 (2)--Original Data, 1935-1939 Data Were Derived By Adding Freight Steam Loocomotive Miles To Departmental Miles And Multiplying The Result By Pounds Of Coal Consumed Per Engine-Mile Of Freight (Including Departmental And Shunting). Source: Computed By NBER From Ministry Of Transport Data In \"Railway Statistics\".\n\nThis NBER data series q03082a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: q03082a"
 }

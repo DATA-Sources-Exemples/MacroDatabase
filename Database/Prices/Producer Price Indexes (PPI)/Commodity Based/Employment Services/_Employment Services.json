@@ -1,8 +1,8 @@
 {
   "WPU46": {
     "id": "WPU46",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -18,8 +18,8 @@
   },
   "WPU461": {
     "id": "WPU461",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Permanent Placement Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -35,8 +35,8 @@
   },
   "WPU462": {
     "id": "WPU462",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Executive Search Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -52,8 +52,8 @@
   },
   "WPU463": {
     "id": "WPU463",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Staffing Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:24-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU4611": {
     "id": "WPU4611",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Permanent Placement Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -86,8 +86,8 @@
   },
   "WPU4621": {
     "id": "WPU4621",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Executive Search Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -103,8 +103,8 @@
   },
   "WPU4631": {
     "id": "WPU4631",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Temporary Help Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:19-05",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 3
   },
   "WPU4632": {
     "id": "WPU4632",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Co-Employment Staffing Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPU461101": {
     "id": "WPU461101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Employment Placement Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -154,8 +154,8 @@
   },
   "WPU462101": {
     "id": "WPU462101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Executive Search Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -171,8 +171,8 @@
   },
   "WPU463101": {
     "id": "WPU463101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Temporary Help Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:24-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 3
   },
   "WPU463201": {
     "id": "WPU463201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Co-Employment Staffing Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -205,8 +205,8 @@
   },
   "WPU46110101": {
     "id": "WPU46110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Employment Placement Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -222,8 +222,8 @@
   },
   "WPU46210101": {
     "id": "WPU46210101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Executive Search Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -239,8 +239,8 @@
   },
   "WPU46310101": {
     "id": "WPU46310101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Temporary Help Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -252,12 +252,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:58-05",
     "popularity": 2,
-    "group_popularity": 5
+    "group_popularity": 3
   },
   "WPU46320101": {
     "id": "WPU46320101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Employment Services: Co-Employment Staffing Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",

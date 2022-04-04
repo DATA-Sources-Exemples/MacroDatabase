@@ -8,12 +8,12 @@
 | AVELISPRIMM13980          | Housing Inventory: Average Listing Price Month-Over-Month in Blacksburg-Christiansburg-Radford, VA (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY13980          | Housing Inventory: Average Listing Price Year-Over-Year in Blacksburg-Christiansburg-Radford, VA (CBSA)                  | 2017-07-01          | 2022-01-01        |
 | BCRPOP                    | Resident Population in Blacksburg-Christiansburg-Radford, VA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| BLAC951GOVT               | All Employees: Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BLAC951GOVTN              | All Employees: Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| BLAC951GOVT               | All Employees: Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BLAC951GOVTN              | All Employees: Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | BLAC951LF                 | Civilian Labor Force in Blacksburg-Christiansburg-Radford, VA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BLAC951LFN                | Civilian Labor Force in Blacksburg-Christiansburg-Radford, VA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BLAC951NA                 | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BLAC951NAN                | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| BLAC951NA                 | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BLAC951NAN                | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | BLAC951PCPI               | Per Capita Personal Income in Blacksburg-Christiansburg-Radford, VA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BLAC951UR                 | Unemployment Rate in Blacksburg-Christiansburg-Radford, VA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BLAC951URN                | Unemployment Rate in Blacksburg-Christiansburg-Radford, VA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
@@ -89,37 +89,37 @@
 | RPPGOOD13980              | Regional Price Parities: Goods for Blacksburg-Christiansburg-Radford, VA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH13980          | Regional Price Parities: Services: Other for Blacksburg-Christiansburg-Radford, VA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT13980         | Regional Price Parities: Services: Rents for Blacksburg-Christiansburg-Radford, VA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS51139800000000026      | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS51139800000000026      | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU51139800000000001A     | All Employees: Total Nonfarm in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU51139800500000001      | All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU51139800500000001      | All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU51139800500000001A     | All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU51139800500000001SA    | All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU51139800500000002      | Average Weekly Hours of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU51139800500000001SA    | All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU51139800500000002      | Average Weekly Hours of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU51139800500000002A     | Average Weekly Hours of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU51139800500000002SA    | Average Weekly Hours of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU51139800500000003      | Average Hourly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU51139800500000002SA    | Average Weekly Hours of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU51139800500000003      | Average Hourly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU51139800500000003A     | Average Hourly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU51139800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU51139800500000011      | Average Weekly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU51139800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU51139800500000011      | Average Weekly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU51139800500000011A     | Average Weekly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU51139800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU51139800600000001      | All Employees: Goods Producing in Blacksburg-Christiansburg-Radford, VA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU51139800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Blacksburg-Christiansburg-Radford, VA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU51139800600000001      | All Employees: Goods Producing in Blacksburg-Christiansburg-Radford, VA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU51139800600000001A     | All Employees: Goods Producing in Blacksburg-Christiansburg-Radford, VA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU51139800600000001SA    | All Employees: Goods Producing in Blacksburg-Christiansburg-Radford, VA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU51139800700000001      | All Employees: Service-Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU51139800600000001SA    | All Employees: Goods Producing in Blacksburg-Christiansburg-Radford, VA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU51139800700000001      | All Employees: Service-Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU51139800700000001A     | All Employees: Service-Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU51139800700000001SA    | All Employees: Service-Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU51139800800000001      | All Employees: Private Service Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU51139800700000001SA    | All Employees: Service-Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU51139800800000001      | All Employees: Private Service Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU51139800800000001A     | All Employees: Private Service Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU51139800800000001SA    | All Employees: Private Service Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU51139800800000001SA    | All Employees: Private Service Providing in Blacksburg-Christiansburg-Radford, VA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU51139809000000001A     | All Employees: Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU51139809091000001      | All Employees: Government: Federal Government in Blacksburg-Christiansburg-Radford, VA (MSA)                             | 2003-01-01          | 2022-01-01        |
+| SMU51139809091000001      | All Employees: Government: Federal Government in Blacksburg-Christiansburg-Radford, VA (MSA)                             | 2003-01-01          | 2022-02-01        |
 | SMU51139809091000001A     | All Employees: Federal Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                         | 2003-01-01          | 2021-01-01        |
-| SMU51139809091000001SA    | All Employees: Government: Federal Government in Blacksburg-Christiansburg-Radford, VA (MSA)                             | 2003-01-01          | 2022-01-01        |
-| SMU51139809092000001      | All Employees: Government: State Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU51139809091000001SA    | All Employees: Government: Federal Government in Blacksburg-Christiansburg-Radford, VA (MSA)                             | 2003-01-01          | 2022-02-01        |
+| SMU51139809092000001      | All Employees: Government: State Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU51139809092000001A     | All Employees: State Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU51139809092000001SA    | All Employees: Government: State Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU51139809093000001      | All Employees: Government: Local Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 2003-01-01          | 2022-01-01        |
+| SMU51139809092000001SA    | All Employees: Government: State Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU51139809093000001      | All Employees: Government: Local Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 2003-01-01          | 2022-02-01        |
 | SMU51139809093000001A     | All Employees: Local Government in Blacksburg-Christiansburg-Radford, VA (MSA)                                           | 2003-01-01          | 2021-01-01        |
-| SMU51139809093000001SA    | All Employees: Government: Local Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 2003-01-01          | 2022-01-01        |
+| SMU51139809093000001SA    | All Employees: Government: Local Government in Blacksburg-Christiansburg-Radford, VA (MSA)                               | 2003-01-01          | 2022-02-01        |
 | SUSCMSA13980              | Market Hotness: Supply Score in Blacksburg-Christiansburg-Radford, VA (CBSA)                                             | 2017-08-01          | 2022-01-01        |

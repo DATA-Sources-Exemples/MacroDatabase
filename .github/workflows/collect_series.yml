@@ -1,7 +1,5 @@
 name: Collect Series
-on:
-  schedule:
-  - cron: 00 12 * * 0
+on: [push]
 
 jobs:
   Collect-Fred-Series:
@@ -16,12 +14,14 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - name: Get date
-        run: echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+        run: | 
+          echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo ${{ env.MY_DATE }}
       - name: Collecting FRED series
         run: |
           echo Running File...
           status=$(python Methodology/collect_series.py ${{ secrets.VERY_SECRET_VALUE }} > logs/collect_series/${{ env.MY_DATE }}.txt 2>&1; echo $?)
-          cat logs/collect_series/${{ steps.date.outputs.today }}.txt
+          cat logs/collect_series/${{ env.MY_DATE }}.txt
           echo ::set-output name=status::$status
       - name: Commit files and log
         run: |

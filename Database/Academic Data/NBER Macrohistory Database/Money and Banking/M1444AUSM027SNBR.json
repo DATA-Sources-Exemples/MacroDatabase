@@ -1,7 +1,7 @@
 {
   "id": "M1444AUSM027SNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Money Stock, Commercial Banks Plus Currency Held by Public for United States",
   "observation_start": "1907-05-01",
   "observation_end": "1946-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-20 08:31:57-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1867-1906 (2)--Seasonally Adjusted Data, 1907-1946 (3)--Original Data, 1955-1969 (4)--Seasonally Adjusted Data, 1947-1969. Data Are For The Wednesday Nearest The End Of The Month. Source: Data Are Computed By NBER From The Sum Of Series 14125 (Currency Held By The Public) And Series 14145 (Demand Deposits Adjusted And Time Deposits All Commericial Banks); See Friedman And Schwartz, Monetary Statistics Of The United States (NBER, 1970).\n\nThis NBER data series m14144a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14144a"
 }

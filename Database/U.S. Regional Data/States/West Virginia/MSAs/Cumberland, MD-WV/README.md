@@ -8,12 +8,12 @@
 | AVELISPRIMM19060          | Housing Inventory: Average Listing Price Month-Over-Month in Cumberland, MD-WV (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY19060          | Housing Inventory: Average Listing Price Year-Over-Year in Cumberland, MD-WV (CBSA)                  | 2017-07-01          | 2022-01-01        |
 | CMBPOP                    | Resident Population in Cumberland, MD-WV (MSA)                                                       | 2000-01-01          | 2020-01-01        |
-| CUMB024GOVT               | All Employees: Government in Cumberland, MD-WV (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| CUMB024GOVTN              | All Employees: Government in Cumberland, MD-WV (MSA)                                                 | 1990-01-01          | 2022-01-01        |
+| CUMB024GOVT               | All Employees: Government in Cumberland, MD-WV (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| CUMB024GOVTN              | All Employees: Government in Cumberland, MD-WV (MSA)                                                 | 1990-01-01          | 2022-02-01        |
 | CUMB024LF                 | Civilian Labor Force in Cumberland, MD-WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | CUMB024LFN                | Civilian Labor Force in Cumberland, MD-WV (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| CUMB024NA                 | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| CUMB024NAN                | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| CUMB024NA                 | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| CUMB024NAN                | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | CUMB024PCPI               | Per Capita Personal Income in Cumberland, MD-WV (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | CUMB024UR                 | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | CUMB024URN                | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2022-01-01        |
@@ -70,27 +70,27 @@
 | RPPGOOD19060              | Regional Price Parities: Goods for Cumberland, MD-WV (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH19060          | Regional Price Parities: Services: Other for Cumberland, MD-WV (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT19060         | Regional Price Parities: Services: Rents for Cumberland, MD-WV (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS24190600000000026      | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS24190600000000026      | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU24190600000000001A     | All Employees: Total Nonfarm in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU24190600500000001      | All Employees: Total Private in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU24190600500000001      | All Employees: Total Private in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU24190600500000001A     | All Employees: Total Private in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU24190600500000001SA    | All Employees: Total Private in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU24190600500000002      | Average Weekly Hours of All Employees: Total Private in Cumberland, MD-WV (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU24190600500000001SA    | All Employees: Total Private in Cumberland, MD-WV (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU24190600500000002      | Average Weekly Hours of All Employees: Total Private in Cumberland, MD-WV (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU24190600500000002A     | Average Weekly Hours of All Employees: Total Private in Cumberland, MD-WV (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU24190600500000002SA    | Average Weekly Hours of All Employees: Total Private in Cumberland, MD-WV (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU24190600500000003      | Average Hourly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU24190600500000002SA    | Average Weekly Hours of All Employees: Total Private in Cumberland, MD-WV (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU24190600500000003      | Average Hourly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU24190600500000003A     | Average Hourly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU24190600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU24190600500000011      | Average Weekly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU24190600500000003SA    | Average Hourly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU24190600500000011      | Average Weekly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU24190600500000011A     | Average Weekly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU24190600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU24190600600000001      | All Employees: Goods Producing in Cumberland, MD-WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU24190600500000011SA    | Average Weekly Earnings of All Employees: Total Private in Cumberland, MD-WV (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU24190600600000001      | All Employees: Goods Producing in Cumberland, MD-WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU24190600600000001A     | All Employees: Goods Producing in Cumberland, MD-WV (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU24190600600000001SA    | All Employees: Goods Producing in Cumberland, MD-WV (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU24190600700000001      | All Employees: Service-Providing in Cumberland, MD-WV (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU24190600600000001SA    | All Employees: Goods Producing in Cumberland, MD-WV (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU24190600700000001      | All Employees: Service-Providing in Cumberland, MD-WV (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU24190600700000001A     | All Employees: Service-Providing in Cumberland, MD-WV (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU24190600700000001SA    | All Employees: Service-Providing in Cumberland, MD-WV (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU24190600800000001      | All Employees: Private Service Providing in Cumberland, MD-WV (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU24190600700000001SA    | All Employees: Service-Providing in Cumberland, MD-WV (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU24190600800000001      | All Employees: Private Service Providing in Cumberland, MD-WV (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU24190600800000001A     | All Employees: Private Service Providing in Cumberland, MD-WV (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU24190600800000001SA    | All Employees: Private Service Providing in Cumberland, MD-WV (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU24190600800000001SA    | All Employees: Private Service Providing in Cumberland, MD-WV (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU24190609000000001A     | All Employees: Government in Cumberland, MD-WV (MSA)                                                 | 1990-01-01          | 2021-01-01        |

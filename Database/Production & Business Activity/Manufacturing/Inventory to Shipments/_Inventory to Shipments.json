@@ -1,8 +1,8 @@
 {
   "A11SIS": {
     "id": "A11SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Food Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -18,8 +18,8 @@
   },
   "A12SIS": {
     "id": "A12SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Beverage and Tobacco Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -35,8 +35,8 @@
   },
   "A13SIS": {
     "id": "A13SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Textile Mills",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -52,8 +52,8 @@
   },
   "A14SIS": {
     "id": "A14SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Textile Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:26-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "A15SIS": {
     "id": "A15SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Apparel",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:27-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "A16SIS": {
     "id": "A16SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Leather and Allied Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -103,8 +103,8 @@
   },
   "A21SIS": {
     "id": "A21SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Wood Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:13-06",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "A22SIS": {
     "id": "A22SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Paper Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -137,8 +137,8 @@
   },
   "A23SIS": {
     "id": "A23SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Printing",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -154,8 +154,8 @@
   },
   "A24SIS": {
     "id": "A24SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Petroleum and Coal Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:30-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 4,
+    "group_popularity": 4
   },
   "A25SIS": {
     "id": "A25SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Chemical Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -188,8 +188,8 @@
   },
   "A26SIS": {
     "id": "A26SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Plastics and Rubber Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -200,13 +200,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:31-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "A27SIS": {
     "id": "A27SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Nonmetallic Mineral Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -222,8 +222,8 @@
   },
   "A31SIS": {
     "id": "A31SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Primary Metals",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:05-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 4,
+    "group_popularity": 4
   },
   "A32SIS": {
     "id": "A32SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Fabricated Metal Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -256,8 +256,8 @@
   },
   "A33SIS": {
     "id": "A33SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Machinery",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:37-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "A34SIS": {
     "id": "A34SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Computers and Electronic Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:12-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 6,
+    "group_popularity": 7
   },
   "A35SIS": {
     "id": "A35SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Electrical Equipment, Appliances and Components",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -302,13 +302,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:05:07-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 4
   },
   "A36SIS": {
     "id": "A36SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Transportation Equipment",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:04:28-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 4
   },
   "A37SIS": {
     "id": "A37SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Furniture and Related Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -336,13 +336,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:04:30-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 3,
+    "group_popularity": 3
   },
   "A39SIS": {
     "id": "A39SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Miscellaneous Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -358,8 +358,8 @@
   },
   "AMDMIS": {
     "id": "AMDMIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Durable Goods",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -370,13 +370,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:04:08-06",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 8,
+    "group_popularity": 8
   },
   "AMNMIS": {
     "id": "AMNMIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Nondurable Goods",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -387,13 +387,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-03 09:04:09-06",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 5,
+    "group_popularity": 5
   },
   "AMTMIS": {
     "id": "AMTMIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Total Manufacturing",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -409,8 +409,8 @@
   },
   "U11SIS": {
     "id": "U11SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Food Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -426,8 +426,8 @@
   },
   "U12SIS": {
     "id": "U12SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Beverage and Tobacco Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -443,8 +443,8 @@
   },
   "U13SIS": {
     "id": "U13SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Textile Mills",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -460,8 +460,8 @@
   },
   "U14SIS": {
     "id": "U14SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Textile Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -473,12 +473,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:51-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "U15SIS": {
     "id": "U15SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Apparel",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -490,12 +490,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:52-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "U16SIS": {
     "id": "U16SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Leather and Allied Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -511,8 +511,8 @@
   },
   "U21SIS": {
     "id": "U21SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Wood Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -524,12 +524,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:54-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 2
   },
   "U22SIS": {
     "id": "U22SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Paper Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -545,8 +545,8 @@
   },
   "U23SIS": {
     "id": "U23SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Printing",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -562,8 +562,8 @@
   },
   "U24SIS": {
     "id": "U24SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Petroleum and Coal Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -575,12 +575,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:58-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 4
   },
   "U25SIS": {
     "id": "U25SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Chemical Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -591,13 +591,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:10-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "U26SIS": {
     "id": "U26SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Plastics and Rubber Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -609,12 +609,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:05:00-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "U27SIS": {
     "id": "U27SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Nonmetallic Mineral Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -630,8 +630,8 @@
   },
   "U31SIS": {
     "id": "U31SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Primary Metals",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -643,12 +643,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:05:19-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 4
   },
   "U32SIS": {
     "id": "U32SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Fabricated Metal Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -664,8 +664,8 @@
   },
   "U33SIS": {
     "id": "U33SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Machinery",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -677,12 +677,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:03:15-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "U34SIS": {
     "id": "U34SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Computers and Electronic Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -694,12 +694,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:03:31-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 7
   },
   "U35SIS": {
     "id": "U35SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Electrical Equipment, Appliances and Components",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -711,12 +711,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:03:39-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 4
   },
   "U36SIS": {
     "id": "U36SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Transportation Equipment",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -728,12 +728,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:03:44-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 4
   },
   "U37SIS": {
     "id": "U37SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Furniture and Related Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -745,12 +745,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:03:49-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 3
   },
   "U39SIS": {
     "id": "U39SIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Miscellaneous Products",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -766,8 +766,8 @@
   },
   "UMDMIS": {
     "id": "UMDMIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Durable Goods",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -779,12 +779,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:17-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 8
   },
   "UMNMIS": {
     "id": "UMNMIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Nondurable Goods",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -796,12 +796,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-03 09:04:19-06",
     "popularity": 1,
-    "group_popularity": 3
+    "group_popularity": 5
   },
   "UMTMIS": {
     "id": "UMTMIS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Manufacturers' Inventories to Shipments Ratios: Total Manufacturing",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",

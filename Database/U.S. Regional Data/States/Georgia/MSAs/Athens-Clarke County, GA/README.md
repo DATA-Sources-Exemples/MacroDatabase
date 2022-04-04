@@ -3,19 +3,19 @@
 | ACTLISCOU12020            | Housing Inventory: Active Listing Count in Athens-Clarke County, GA (CBSA)                                  | 2016-07-01          | 2022-01-01        |
 | ACTLISCOUMM12020          | Housing Inventory: Active Listing Count Month-Over-Month in Athens-Clarke County, GA (CBSA)                 | 2017-07-01          | 2022-01-01        |
 | ACTLISCOUYY12020          | Housing Inventory: Active Listing Count Year-Over-Year in Athens-Clarke County, GA (CBSA)                   | 2017-07-01          | 2022-01-01        |
-| ATHE013GOVT               | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ATHE013GOVTN              | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| ATHE013LEIH               | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| ATHE013LEIHN              | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| ATHE013GOVT               | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ATHE013GOVTN              | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| ATHE013LEIH               | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| ATHE013LEIHN              | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | ATHE013LF                 | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | ATHE013LFN                | Civilian Labor Force in Athens-Clarke County, GA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| ATHE013NA                 | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ATHE013NAN                | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| ATHE013PBSV               | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ATHE013PBSVN              | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2022-01-01        |
+| ATHE013NA                 | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ATHE013NAN                | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| ATHE013PBSV               | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2022-02-01        |
+| ATHE013PBSVN              | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2022-02-01        |
 | ATHE013PCPI               | Per Capita Personal Income in Athens-Clarke County, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| ATHE013TRAD               | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| ATHE013TRADN              | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| ATHE013TRAD               | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| ATHE013TRADN              | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | ATHE013UR                 | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ATHE013URN                | Unemployment Rate in Athens-Clarke County, GA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | ATHPOP                    | Resident Population in Athens-Clarke County, GA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -95,43 +95,43 @@
 | RPPGOOD12020              | Regional Price Parities: Goods for Athens-Clarke County, GA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH12020          | Regional Price Parities: Services: Other for Athens-Clarke County, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT12020         | Regional Price Parities: Services: Rents for Athens-Clarke County, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS13120200000000026      | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS13120200000000026      | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU13120200000000001A     | All Employees: Total Nonfarm in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13120200500000001      | All Employees: Total Private in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU13120200500000001      | All Employees: Total Private in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU13120200500000001A     | All Employees: Total Private in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13120200500000001SA    | All Employees: Total Private in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU13120200500000002      | Average Weekly Hours of All Employees: Total Private in Athens-Clarke County, GA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU13120200500000001SA    | All Employees: Total Private in Athens-Clarke County, GA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU13120200500000002      | Average Weekly Hours of All Employees: Total Private in Athens-Clarke County, GA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU13120200500000002A     | Average Weekly Hours of All Employees: Total Private in Athens-Clarke County, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13120200500000002SA    | Average Weekly Hours of All Employees: Total Private in Athens-Clarke County, GA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU13120200500000003      | Average Hourly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU13120200500000002SA    | Average Weekly Hours of All Employees: Total Private in Athens-Clarke County, GA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU13120200500000003      | Average Hourly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU13120200500000003A     | Average Hourly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13120200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU13120200500000011      | Average Weekly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU13120200500000003SA    | Average Hourly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU13120200500000011      | Average Weekly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU13120200500000011A     | Average Weekly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13120200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU13120200600000001      | All Employees: Goods Producing in Athens-Clarke County, GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU13120200500000011SA    | Average Weekly Earnings of All Employees: Total Private in Athens-Clarke County, GA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU13120200600000001      | All Employees: Goods Producing in Athens-Clarke County, GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU13120200600000001A     | All Employees: Goods Producing in Athens-Clarke County, GA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU13120200600000001SA    | All Employees: Goods Producing in Athens-Clarke County, GA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU13120200700000001      | All Employees: Service-Providing in Athens-Clarke County, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU13120200600000001SA    | All Employees: Goods Producing in Athens-Clarke County, GA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU13120200700000001      | All Employees: Service-Providing in Athens-Clarke County, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU13120200700000001A     | All Employees: Service-Providing in Athens-Clarke County, GA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU13120200700000001SA    | All Employees: Service-Providing in Athens-Clarke County, GA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU13120200800000001      | All Employees: Private Service Providing in Athens-Clarke County, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU13120200700000001SA    | All Employees: Service-Providing in Athens-Clarke County, GA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU13120200800000001      | All Employees: Private Service Providing in Athens-Clarke County, GA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU13120200800000001A     | All Employees: Private Service Providing in Athens-Clarke County, GA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU13120200800000001SA    | All Employees: Private Service Providing in Athens-Clarke County, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU13120200800000001SA    | All Employees: Private Service Providing in Athens-Clarke County, GA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU13120204000000001A     | All Employees: Trade, Transportation, and Utilities in Athens-Clarke County, GA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU13120204200000001      | All Employees: Retail Trade in Athens-Clarke County, GA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU13120204200000001      | All Employees: Retail Trade in Athens-Clarke County, GA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU13120204200000001A     | All Employees: Retail Trade in Athens-Clarke County, GA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU13120204200000001SA    | All Employees: Retail Trade in Athens-Clarke County, GA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU13120204200000001SA    | All Employees: Retail Trade in Athens-Clarke County, GA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU13120206000000001A     | All Employees: Professional and Business Services in Athens-Clarke County, GA (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU13120207000000001A     | All Employees: Leisure and Hospitality in Athens-Clarke County, GA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU13120209000000001A     | All Employees: Government in Athens-Clarke County, GA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU13120209091000001      | All Employees: Government: Federal Government in Athens-Clarke County, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU13120209091000001      | All Employees: Government: Federal Government in Athens-Clarke County, GA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU13120209091000001A     | All Employees: Federal Government in Athens-Clarke County, GA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU13120209091000001SA    | All Employees: Government: Federal Government in Athens-Clarke County, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU13120209092000001      | All Employees: Government: State Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13120209091000001SA    | All Employees: Government: Federal Government in Athens-Clarke County, GA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU13120209092000001      | All Employees: Government: State Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU13120209092000001A     | All Employees: State Government in Athens-Clarke County, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13120209092000001SA    | All Employees: Government: State Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU13120209093000001      | All Employees: Government: Local Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13120209092000001SA    | All Employees: Government: State Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU13120209093000001      | All Employees: Government: Local Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU13120209093000001A     | All Employees: Local Government in Athens-Clarke County, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13120209093000001SA    | All Employees: Government: Local Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU13120209093000001SA    | All Employees: Government: Local Government in Athens-Clarke County, GA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA12020              | Market Hotness: Supply Score in Athens-Clarke County, GA (CBSA)                                             | 2017-08-01          | 2022-01-01        |

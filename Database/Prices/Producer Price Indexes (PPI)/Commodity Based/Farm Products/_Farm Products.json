@@ -1,8 +1,8 @@
 {
   "WPS012": {
     "id": "WPS012",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Grains",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:26-05",
-    "popularity": 11,
-    "group_popularity": 30
+    "popularity": 13,
+    "group_popularity": 31
   },
   "WPS013": {
     "id": "WPS013",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Livestock",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:05-05",
-    "popularity": 2,
+    "popularity": 3,
     "group_popularity": 3
   },
   "WPS014": {
     "id": "WPS014",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Poultry",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:16-05",
-    "popularity": 15,
-    "group_popularity": 16
+    "popularity": 11,
+    "group_popularity": 12
   },
   "WPS016": {
     "id": "WPS016",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:12-05",
-    "popularity": 14,
-    "group_popularity": 37
+    "popularity": 11,
+    "group_popularity": 33
   },
   "WPS017": {
     "id": "WPS017",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Chicken Eggs",
     "observation_start": "1967-01-01",
     "observation_end": "2012-12-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:01-06",
-    "popularity": 6,
-    "group_popularity": 9
+    "popularity": 5,
+    "group_popularity": 7
   },
   "WPS018": {
     "id": "WPS018",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hay, Hayseeds, and Oilseeds",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -103,8 +103,8 @@
   },
   "WPS0111": {
     "id": "WPS0111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Fresh Fruits and Melons",
     "observation_start": "1967-01-01",
     "observation_end": "2014-12-01",
@@ -116,12 +116,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2020-02-18 14:52:43-06",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 3
   },
   "WPS0122": {
     "id": "WPS0122",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Other Grains",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPS0131": {
     "id": "WPS0131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cattle",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:15-05",
-    "popularity": 11,
-    "group_popularity": 15
+    "popularity": 9,
+    "group_popularity": 12
   },
   "WPS0132": {
     "id": "WPS0132",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Hogs",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:24-05",
-    "popularity": 5,
-    "group_popularity": 6
+    "popularity": 7,
+    "group_popularity": 7
   },
   "WPS0133": {
     "id": "WPS0133",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Lambs",
     "observation_start": "1990-04-01",
     "observation_end": "2022-02-01",
@@ -184,12 +184,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:06:25-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPS0141": {
     "id": "WPS0141",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Chickens",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -201,12 +201,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:59-05",
     "popularity": 4,
-    "group_popularity": 18
+    "group_popularity": 14
   },
   "WPS0142": {
     "id": "WPS0142",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Turkeys",
     "observation_start": "1967-07-01",
     "observation_end": "2022-02-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:48-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "WPS0161": {
     "id": "WPS0161",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:06:25-05",
-    "popularity": 1,
-    "group_popularity": 37
+    "popularity": 3,
+    "group_popularity": 33
   },
   "WPS0171": {
     "id": "WPS0171",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Chicken Eggs",
     "observation_start": "1991-01-01",
     "observation_end": "2012-12-01",
@@ -252,12 +252,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:02-06",
     "popularity": 1,
-    "group_popularity": 9
+    "group_popularity": 7
   },
   "WPS0181": {
     "id": "WPS0181",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hay and Hayseeds",
     "observation_start": "1975-01-01",
     "observation_end": "2015-12-01",
@@ -269,12 +269,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2021-02-17 10:48:19-06",
     "popularity": 1,
-    "group_popularity": 23
+    "group_popularity": 22
   },
   "WPS0183": {
     "id": "WPS0183",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Oilseeds",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -286,12 +286,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:06:25-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 2
   },
   "WPS011101": {
     "id": "WPS011101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Citrus Fruits",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -302,13 +302,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:48-05",
-    "popularity": 6,
-    "group_popularity": 15
+    "popularity": 4,
+    "group_popularity": 11
   },
   "WPS011102": {
     "id": "WPS011102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Other Fruits and Berries",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -324,8 +324,8 @@
   },
   "WPS011301": {
     "id": "WPS011301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Dry Vegetables",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "WPS011303": {
     "id": "WPS011303",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sweet Potatoes",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -353,13 +353,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:14-05",
-    "popularity": 14,
-    "group_popularity": 15
+    "popularity": 13,
+    "group_popularity": 13
   },
   "WPS012201": {
     "id": "WPS012201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Barley",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -370,13 +370,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:44-05",
-    "popularity": 3,
-    "group_popularity": 24
+    "popularity": 10,
+    "group_popularity": 23
   },
   "WPS012202": {
     "id": "WPS012202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Corn",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -387,14 +387,31 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:04-05",
-    "popularity": 37,
-    "group_popularity": 41
+    "popularity": 35,
+    "group_popularity": 39
   },
   "WPS013101": {
     "id": "WPS013101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Steers and Heifers",
+    "observation_start": "1975-01-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 1982=100",
+    "units_short": "Index 1982=100",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-15 07:53:44-05",
+    "popularity": 2,
+    "group_popularity": 3
+  },
+  "WPS013102": {
+    "id": "WPS013102",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
+    "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cows and Bulls",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
     "frequency": "Monthly",
@@ -407,27 +424,10 @@
     "popularity": 3,
     "group_popularity": 3
   },
-  "WPS013102": {
-    "id": "WPS013102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
-    "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cows and Bulls",
-    "observation_start": "1975-01-01",
-    "observation_end": "2022-02-01",
-    "frequency": "Monthly",
-    "frequency_short": "M",
-    "units": "Index 1982=100",
-    "units_short": "Index 1982=100",
-    "seasonal_adjustment": "Seasonally Adjusted",
-    "seasonal_adjustment_short": "SA",
-    "last_updated": "2022-03-15 07:53:44-05",
-    "popularity": 4,
-    "group_popularity": 4
-  },
   "WPS013103": {
     "id": "WPS013103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Vealers",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -443,8 +443,8 @@
   },
   "WPS013201": {
     "id": "WPS013201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Barrows and Gilts",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -460,8 +460,8 @@
   },
   "WPS014102": {
     "id": "WPS014102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Broilers and Other Meat Type Chickens",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -472,13 +472,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:22-05",
-    "popularity": 4,
-    "group_popularity": 11
+    "popularity": 3,
+    "group_popularity": 7
   },
   "WPS014201": {
     "id": "WPS014201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Turkeys",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -494,8 +494,8 @@
   },
   "WPS016101": {
     "id": "WPS016101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -507,12 +507,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:05-05",
     "popularity": 1,
-    "group_popularity": 37
+    "group_popularity": 33
   },
   "WPS017107": {
     "id": "WPS017107",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs for Fresh Use",
     "observation_start": "1993-01-01",
     "observation_end": "2012-12-01",
@@ -523,13 +523,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:05-06",
-    "popularity": 6,
-    "group_popularity": 25
+    "popularity": 4,
+    "group_popularity": 24
   },
   "WPS017108": {
     "id": "WPS017108",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Breaker Stock and Checks and Undergrades",
     "observation_start": "1993-01-01",
     "observation_end": "2012-12-01",
@@ -545,8 +545,8 @@
   },
   "WPS018101": {
     "id": "WPS018101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hay and Hayseeds",
     "observation_start": "1998-01-01",
     "observation_end": "2015-12-01",
@@ -557,13 +557,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2021-02-17 10:48:05-06",
-    "popularity": 7,
-    "group_popularity": 23
+    "popularity": 4,
+    "group_popularity": 22
   },
   "WPS018301": {
     "id": "WPS018301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Oilseeds",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -575,12 +575,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:06:24-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 2
   },
   "WPU01": {
     "id": "WPU01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products",
     "observation_start": "1913-01-01",
     "observation_end": "2022-02-01",
@@ -591,13 +591,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:10-05",
-    "popularity": 33,
-    "group_popularity": 33
+    "popularity": 26,
+    "group_popularity": 26
   },
   "WPU01PLUS02": {
     "id": "WPU01PLUS02",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products, Processed Foods and Feeds",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -608,13 +608,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:11-05",
-    "popularity": 27,
-    "group_popularity": 27
+    "popularity": 23,
+    "group_popularity": 23
   },
   "WPU011": {
     "id": "WPU011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Fruits and Melons, Fresh/Dry Vegetables and Nuts",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -625,13 +625,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:22-05",
-    "popularity": 16,
-    "group_popularity": 16
+    "popularity": 14,
+    "group_popularity": 14
   },
   "WPU012": {
     "id": "WPU012",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Grains",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -643,12 +643,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:18-05",
     "popularity": 27,
-    "group_popularity": 30
+    "group_popularity": 31
   },
   "WPU013": {
     "id": "WPU013",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Livestock",
     "observation_start": "1939-03-01",
     "observation_end": "2022-02-01",
@@ -664,8 +664,8 @@
   },
   "WPU014": {
     "id": "WPU014",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Poultry",
     "observation_start": "1939-03-01",
     "observation_end": "2022-02-01",
@@ -677,12 +677,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:56-05",
     "popularity": 2,
-    "group_popularity": 16
+    "group_popularity": 12
   },
   "WPU015": {
     "id": "WPU015",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -693,13 +693,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:27-05",
-    "popularity": 13,
-    "group_popularity": 16
+    "popularity": 9,
+    "group_popularity": 11
   },
   "WPU016": {
     "id": "WPU016",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -710,13 +710,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:40-05",
-    "popularity": 4,
-    "group_popularity": 37
+    "popularity": 5,
+    "group_popularity": 33
   },
   "WPU017": {
     "id": "WPU017",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Chicken Eggs",
     "observation_start": "1937-01-01",
     "observation_end": "2022-02-01",
@@ -727,13 +727,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:56-05",
-    "popularity": 2,
-    "group_popularity": 9
+    "popularity": 1,
+    "group_popularity": 7
   },
   "WPU018": {
     "id": "WPU018",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hay, Hayseeds, and Oilseeds",
     "observation_start": "1926-01-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "WPU0111": {
     "id": "WPU0111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Fresh Fruits and Melons",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -761,13 +761,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:57-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU0113": {
     "id": "WPU0113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Fresh and Dry Vegetables",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -778,13 +778,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:31-05",
-    "popularity": 8,
-    "group_popularity": 8
+    "popularity": 7,
+    "group_popularity": 7
   },
   "WPU0119": {
     "id": "WPU0119",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Tree Nuts",
     "observation_start": "1971-11-01",
     "observation_end": "2022-02-01",
@@ -795,13 +795,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:34-05",
-    "popularity": 13,
-    "group_popularity": 13
+    "popularity": 11,
+    "group_popularity": 11
   },
   "WPU0121": {
     "id": "WPU0121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Wheat",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -812,13 +812,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:12-05",
-    "popularity": 35,
-    "group_popularity": 36
+    "popularity": 34,
+    "group_popularity": 35
   },
   "WPU0122": {
     "id": "WPU0122",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Other Grains",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -834,8 +834,8 @@
   },
   "WPU0123": {
     "id": "WPU0123",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -846,13 +846,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:43-05",
-    "popularity": 2,
-    "group_popularity": 13
+    "popularity": 1,
+    "group_popularity": 8
   },
   "WPU0131": {
     "id": "WPU0131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cattle",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -863,13 +863,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:29-05",
-    "popularity": 7,
-    "group_popularity": 15
+    "popularity": 6,
+    "group_popularity": 12
   },
   "WPU0132": {
     "id": "WPU0132",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Hogs",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -881,12 +881,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:43-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 7
   },
   "WPU0133": {
     "id": "WPU0133",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Lambs",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -898,12 +898,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:32-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU0141": {
     "id": "WPU0141",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Chickens",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -914,13 +914,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:18-05",
-    "popularity": 16,
-    "group_popularity": 18
+    "popularity": 11,
+    "group_popularity": 14
   },
   "WPU0142": {
     "id": "WPU0142",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Turkeys",
     "observation_start": "1954-12-01",
     "observation_end": "2022-02-01",
@@ -936,8 +936,8 @@
   },
   "WPU0143": {
     "id": "WPU0143",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Ducks",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -953,8 +953,8 @@
   },
   "WPU0151": {
     "id": "WPU0151",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -966,12 +966,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:43-05",
     "popularity": 3,
-    "group_popularity": 16
+    "group_popularity": 11
   },
   "WPU0161": {
     "id": "WPU0161",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -983,12 +983,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:30-05",
     "popularity": 1,
-    "group_popularity": 37
+    "group_popularity": 33
   },
   "WPU0171": {
     "id": "WPU0171",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Chicken Eggs",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -999,13 +999,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:56-05",
-    "popularity": 3,
-    "group_popularity": 9
+    "popularity": 2,
+    "group_popularity": 7
   },
   "WPU0181": {
     "id": "WPU0181",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hay and Hayseeds",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1017,12 +1017,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:20-05",
     "popularity": 20,
-    "group_popularity": 23
+    "group_popularity": 22
   },
   "WPU0183": {
     "id": "WPU0183",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Oilseeds",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1033,13 +1033,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:43-05",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU011101": {
     "id": "WPU011101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Citrus Fruits",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1050,13 +1050,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:25-05",
-    "popularity": 12,
-    "group_popularity": 15
+    "popularity": 8,
+    "group_popularity": 11
   },
   "WPU011102": {
     "id": "WPU011102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Other Fruits and Berries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1072,8 +1072,8 @@
   },
   "WPU011103": {
     "id": "WPU011103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Melons",
     "observation_start": "1991-12-01",
     "observation_end": "2021-11-01",
@@ -1089,8 +1089,8 @@
   },
   "WPU011301": {
     "id": "WPU011301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Dry Vegetables",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1106,8 +1106,8 @@
   },
   "WPU011302": {
     "id": "WPU011302",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Fresh Vegetables, Except Potatoes",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1123,8 +1123,8 @@
   },
   "WPU011303": {
     "id": "WPU011303",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sweet Potatoes",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1136,12 +1136,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:35-05",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 13
   },
   "WPU011306": {
     "id": "WPU011306",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Potatoes",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -1152,13 +1152,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:27-05",
-    "popularity": 16,
-    "group_popularity": 16
+    "popularity": 13,
+    "group_popularity": 13
   },
   "WPU011901": {
     "id": "WPU011901",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Tree Nuts",
     "observation_start": "1991-10-01",
     "observation_end": "2022-02-01",
@@ -1170,12 +1170,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:35-05",
     "popularity": 1,
-    "group_popularity": 13
+    "group_popularity": 11
   },
   "WPU012101": {
     "id": "WPU012101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Wheat",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1186,13 +1186,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:43-05",
-    "popularity": 6,
-    "group_popularity": 36
+    "popularity": 4,
+    "group_popularity": 35
   },
   "WPU012201": {
     "id": "WPU012201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Barley",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1204,12 +1204,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:56-05",
     "popularity": 3,
-    "group_popularity": 24
+    "group_popularity": 23
   },
   "WPU012202": {
     "id": "WPU012202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Corn",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1220,13 +1220,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:17-05",
-    "popularity": 20,
-    "group_popularity": 41
+    "popularity": 21,
+    "group_popularity": 39
   },
   "WPU012203": {
     "id": "WPU012203",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Oats",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1237,13 +1237,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:24-05",
-    "popularity": 18,
-    "group_popularity": 19
+    "popularity": 16,
+    "group_popularity": 17
   },
   "WPU012204": {
     "id": "WPU012204",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Rye",
     "observation_start": "1971-01-01",
     "observation_end": "2021-11-01",
@@ -1255,12 +1255,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 07:55:49-06",
     "popularity": 4,
-    "group_popularity": 5
+    "group_popularity": 4
   },
   "WPU012205": {
     "id": "WPU012205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sorghum",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1272,12 +1272,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:34-05",
     "popularity": 1,
-    "group_popularity": 16
+    "group_popularity": 17
   },
   "WPU012301": {
     "id": "WPU012301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1289,12 +1289,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:34-05",
     "popularity": 1,
-    "group_popularity": 13
+    "group_popularity": 8
   },
   "WPU013101": {
     "id": "WPU013101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Steers and Heifers",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1310,8 +1310,8 @@
   },
   "WPU013102": {
     "id": "WPU013102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cows and Bulls",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1323,12 +1323,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:33-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "WPU013103": {
     "id": "WPU013103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Vealers",
     "observation_start": "1957-12-01",
     "observation_end": "2022-02-01",
@@ -1344,8 +1344,8 @@
   },
   "WPU013201": {
     "id": "WPU013201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Barrows and Gilts",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1361,8 +1361,8 @@
   },
   "WPU013202": {
     "id": "WPU013202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Sows",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -1378,8 +1378,8 @@
   },
   "WPU013301": {
     "id": "WPU013301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Lambs",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1391,12 +1391,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:32-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU014102": {
     "id": "WPU014102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Broilers and Other Meat Type Chickens",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1407,13 +1407,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:40-05",
-    "popularity": 8,
-    "group_popularity": 11
+    "popularity": 5,
+    "group_popularity": 7
   },
   "WPU014201": {
     "id": "WPU014201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Turkeys",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1429,8 +1429,8 @@
   },
   "WPU014301": {
     "id": "WPU014301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Ducks",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1446,8 +1446,8 @@
   },
   "WPU015101": {
     "id": "WPU015101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -1459,12 +1459,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:40-05",
     "popularity": 2,
-    "group_popularity": 16
+    "group_popularity": 11
   },
   "WPU016101": {
     "id": "WPU016101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1476,12 +1476,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:30-05",
     "popularity": 1,
-    "group_popularity": 37
+    "group_popularity": 33
   },
   "WPU017107": {
     "id": "WPU017107",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs for Fresh Use",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1492,13 +1492,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:17-05",
-    "popularity": 24,
-    "group_popularity": 25
+    "popularity": 23,
+    "group_popularity": 24
   },
   "WPU017108": {
     "id": "WPU017108",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Breaker Stock and Checks and Undergrades",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1514,8 +1514,8 @@
   },
   "WPU018101": {
     "id": "WPU018101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hay and Hayseeds",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1527,12 +1527,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:39-05",
     "popularity": 1,
-    "group_popularity": 23
+    "group_popularity": 22
   },
   "WPU018301": {
     "id": "WPU018301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Oilseeds",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1544,12 +1544,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:39-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 2
   },
   "WPU01110101": {
     "id": "WPU01110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Grapefruits",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1565,8 +1565,8 @@
   },
   "WPU01110104": {
     "id": "WPU01110104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Lemons",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1582,8 +1582,8 @@
   },
   "WPU01110105": {
     "id": "WPU01110105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Valencia Oranges",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1594,13 +1594,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:57-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU01110106": {
     "id": "WPU01110106",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Navel Oranges",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1616,8 +1616,8 @@
   },
   "WPU01110108": {
     "id": "WPU01110108",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Tangerines",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1633,8 +1633,8 @@
   },
   "WPU01110201": {
     "id": "WPU01110201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Plums and Fresh Prunes",
     "observation_start": "1991-12-01",
     "observation_end": "2021-09-01",
@@ -1645,13 +1645,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:24-06",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU01110202": {
     "id": "WPU01110202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Nectarines",
     "observation_start": "1991-12-01",
     "observation_end": "2021-09-01",
@@ -1667,8 +1667,8 @@
   },
   "WPU01110203": {
     "id": "WPU01110203",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cherries",
     "observation_start": "1991-12-01",
     "observation_end": "2021-07-01",
@@ -1679,13 +1679,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:10-06",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 6,
+    "group_popularity": 6
   },
   "WPU01110204": {
     "id": "WPU01110204",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Apricots",
     "observation_start": "1991-12-01",
     "observation_end": "2021-07-01",
@@ -1696,13 +1696,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:25:02-06",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU01110205": {
     "id": "WPU01110205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Avocados",
     "observation_start": "1991-12-01",
     "observation_end": "2021-11-01",
@@ -1718,8 +1718,8 @@
   },
   "WPU01110206": {
     "id": "WPU01110206",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Kiwifruit",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1735,8 +1735,8 @@
   },
   "WPU01110208": {
     "id": "WPU01110208",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Granny Smith Apples",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1747,13 +1747,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:57-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU01110209": {
     "id": "WPU01110209",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Rome Apples",
     "observation_start": "1991-12-01",
     "observation_end": "2017-03-01",
@@ -1769,8 +1769,8 @@
   },
   "WPU01110211": {
     "id": "WPU01110211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Golden Delicious Apples",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -1781,13 +1781,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:34-05",
-    "popularity": 15,
-    "group_popularity": 15
+    "popularity": 14,
+    "group_popularity": 14
   },
   "WPU01110215": {
     "id": "WPU01110215",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Red Delicious Apples",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1803,8 +1803,8 @@
   },
   "WPU01110216": {
     "id": "WPU01110216",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Mcintosh Apples",
     "observation_start": "1965-12-01",
     "observation_end": "2022-02-01",
@@ -1815,13 +1815,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:37-05",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU01110219": {
     "id": "WPU01110219",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Peaches",
     "observation_start": "1947-07-01",
     "observation_end": "2021-09-01",
@@ -1832,13 +1832,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:14-06",
-    "popularity": 8,
-    "group_popularity": 8
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU01110221": {
     "id": "WPU01110221",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Pears",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1854,8 +1854,8 @@
   },
   "WPU01110222": {
     "id": "WPU01110222",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Strawberries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1866,13 +1866,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:20-05",
-    "popularity": 19,
-    "group_popularity": 19
+    "popularity": 16,
+    "group_popularity": 16
   },
   "WPU01110224": {
     "id": "WPU01110224",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raspberries",
     "observation_start": "1991-12-01",
     "observation_end": "2021-10-01",
@@ -1883,13 +1883,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:13-06",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 8,
+    "group_popularity": 8
   },
   "WPU01110225": {
     "id": "WPU01110225",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Blackberries",
     "observation_start": "1991-12-01",
     "observation_end": "2021-10-01",
@@ -1905,8 +1905,8 @@
   },
   "WPU01110226": {
     "id": "WPU01110226",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cranberries",
     "observation_start": "1991-12-01",
     "observation_end": "2020-12-01",
@@ -1917,13 +1917,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-01-15 07:52:51-06",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU01110227": {
     "id": "WPU01110227",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Blueberries",
     "observation_start": "1991-12-01",
     "observation_end": "2021-09-01",
@@ -1934,13 +1934,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:07-06",
-    "popularity": 13,
-    "group_popularity": 13
+    "popularity": 9,
+    "group_popularity": 9
   },
   "WPU01110228": {
     "id": "WPU01110228",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Grapes",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1951,13 +1951,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:41-05",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 7,
+    "group_popularity": 7
   },
   "WPU01110301": {
     "id": "WPU01110301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cantaloupes",
     "observation_start": "1947-05-01",
     "observation_end": "2021-11-01",
@@ -1973,8 +1973,8 @@
   },
   "WPU01110302": {
     "id": "WPU01110302",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Honeydews",
     "observation_start": "1991-12-01",
     "observation_end": "2021-10-01",
@@ -1990,8 +1990,8 @@
   },
   "WPU01110303": {
     "id": "WPU01110303",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Watermelons",
     "observation_start": "1991-12-01",
     "observation_end": "2021-10-01",
@@ -2002,13 +2002,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 07:57:02-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU01130211": {
     "id": "WPU01130211",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cabbage",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2019,13 +2019,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:31-05",
-    "popularity": 11,
-    "group_popularity": 11
+    "popularity": 14,
+    "group_popularity": 14
   },
   "WPU01130212": {
     "id": "WPU01130212",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Carrots",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2036,13 +2036,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:22-05",
-    "popularity": 14,
-    "group_popularity": 14
+    "popularity": 11,
+    "group_popularity": 11
   },
   "WPU01130213": {
     "id": "WPU01130213",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Celery",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2053,13 +2053,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:44-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU01130214": {
     "id": "WPU01130214",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sweet Corn",
     "observation_start": "1960-01-01",
     "observation_end": "2022-02-01",
@@ -2075,8 +2075,8 @@
   },
   "WPU01130215": {
     "id": "WPU01130215",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Lettuce",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2087,13 +2087,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:41-05",
-    "popularity": 14,
-    "group_popularity": 14
+    "popularity": 8,
+    "group_popularity": 8
   },
   "WPU01130216": {
     "id": "WPU01130216",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Dry Onions",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2104,13 +2104,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:12-05",
-    "popularity": 23,
-    "group_popularity": 23
+    "popularity": 20,
+    "group_popularity": 20
   },
   "WPU01130217": {
     "id": "WPU01130217",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Tomatoes",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2121,13 +2121,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:06-05",
-    "popularity": 38,
-    "group_popularity": 38
+    "popularity": 37,
+    "group_popularity": 37
   },
   "WPU01130218": {
     "id": "WPU01130218",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Snap Beans",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2138,13 +2138,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:41-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU01130219": {
     "id": "WPU01130219",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Green Peas",
     "observation_start": "1991-12-01",
     "observation_end": "2021-11-01",
@@ -2155,13 +2155,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:05-06",
-    "popularity": 21,
-    "group_popularity": 21
+    "popularity": 19,
+    "group_popularity": 19
   },
   "WPU01130221": {
     "id": "WPU01130221",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Asparagus",
     "observation_start": "1991-12-01",
     "observation_end": "2021-05-01",
@@ -2177,8 +2177,8 @@
   },
   "WPU01130222": {
     "id": "WPU01130222",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Broccoli",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2189,13 +2189,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:41-05",
-    "popularity": 9,
-    "group_popularity": 9
+    "popularity": 7,
+    "group_popularity": 7
   },
   "WPU01130223": {
     "id": "WPU01130223",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cauliflower",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2206,13 +2206,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:33-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 9,
+    "group_popularity": 9
   },
   "WPU01130224": {
     "id": "WPU01130224",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Spinach",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2223,13 +2223,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:54-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU01130225": {
     "id": "WPU01130225",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Greens",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2245,8 +2245,8 @@
   },
   "WPU01130226": {
     "id": "WPU01130226",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Endive",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2262,8 +2262,8 @@
   },
   "WPU01130228": {
     "id": "WPU01130228",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Green Peppers",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2274,13 +2274,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:30-05",
-    "popularity": 6,
-    "group_popularity": 6
+    "popularity": 5,
+    "group_popularity": 5
   },
   "WPU01130229": {
     "id": "WPU01130229",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggplant",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2291,13 +2291,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:36-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU01130231": {
     "id": "WPU01130231",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Squash",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2313,8 +2313,8 @@
   },
   "WPU01130232": {
     "id": "WPU01130232",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Beets",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2325,13 +2325,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:36-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU01130234": {
     "id": "WPU01130234",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cucumbers",
     "observation_start": "1991-12-01",
     "observation_end": "2021-12-01",
@@ -2342,13 +2342,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-13 07:52:30-06",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 9,
+    "group_popularity": 9
   },
   "WPU01130235": {
     "id": "WPU01130235",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Artichokes",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2364,8 +2364,8 @@
   },
   "WPU01130236": {
     "id": "WPU01130236",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Pumpkins",
     "observation_start": "2011-12-01",
     "observation_end": "2021-10-01",
@@ -2376,13 +2376,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 10:24:08-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 8,
+    "group_popularity": 8
   },
   "WPU01130301": {
     "id": "WPU01130301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sweet Potatoes",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2394,12 +2394,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:57-05",
     "popularity": 2,
-    "group_popularity": 15
+    "group_popularity": 13
   },
   "WPU01130601": {
     "id": "WPU01130601",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Long White Potatoes",
     "observation_start": "1991-12-01",
     "observation_end": "2021-07-01",
@@ -2415,8 +2415,8 @@
   },
   "WPU01130602": {
     "id": "WPU01130602",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Round White Potatoes",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2432,8 +2432,8 @@
   },
   "WPU01130603": {
     "id": "WPU01130603",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Russet Potatoes",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2444,13 +2444,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:07-05",
-    "popularity": 38,
-    "group_popularity": 38
+    "popularity": 36,
+    "group_popularity": 36
   },
   "WPU01130604": {
     "id": "WPU01130604",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Round Red Potatoes",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2466,8 +2466,8 @@
   },
   "WPU01190101": {
     "id": "WPU01190101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Pecans",
     "observation_start": "1967-11-01",
     "observation_end": "2022-02-01",
@@ -2478,13 +2478,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:27-05",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 8,
+    "group_popularity": 8
   },
   "WPU01190102": {
     "id": "WPU01190102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Almonds",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2495,13 +2495,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:06-05",
-    "popularity": 45,
-    "group_popularity": 45
+    "popularity": 44,
+    "group_popularity": 44
   },
   "WPU01190103": {
     "id": "WPU01190103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Filberts",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2512,13 +2512,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:35-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 1
   },
   "WPU01190104": {
     "id": "WPU01190104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Walnuts",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2529,13 +2529,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:12-05",
-    "popularity": 24,
-    "group_popularity": 24
+    "popularity": 23,
+    "group_popularity": 23
   },
   "WPU01190105": {
     "id": "WPU01190105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Macadamias",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2546,13 +2546,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:29-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 8,
+    "group_popularity": 8
   },
   "WPU01190106": {
     "id": "WPU01190106",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Pistachios",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2563,13 +2563,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:15-05",
-    "popularity": 17,
-    "group_popularity": 17
+    "popularity": 18,
+    "group_popularity": 18
   },
   "WPU01210101": {
     "id": "WPU01210101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hard Red Winter Wheat",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2585,8 +2585,8 @@
   },
   "WPU01210102": {
     "id": "WPU01210102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hard Red Spring Wheat",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2597,13 +2597,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:55:54-05",
-    "popularity": 3,
-    "group_popularity": 3
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU01210103": {
     "id": "WPU01210103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Soft White Wheat",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2619,8 +2619,8 @@
   },
   "WPU01210104": {
     "id": "WPU01210104",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Soft Red Winter Wheat",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2631,13 +2631,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:35-05",
-    "popularity": 7,
-    "group_popularity": 7
+    "popularity": 4,
+    "group_popularity": 4
   },
   "WPU01210105": {
     "id": "WPU01210105",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Hard Amber Durum Wheat",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -2648,13 +2648,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:32-05",
-    "popularity": 19,
-    "group_popularity": 19
+    "popularity": 14,
+    "group_popularity": 14
   },
   "WPU01220101": {
     "id": "WPU01220101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Barley",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2665,13 +2665,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:24-05",
-    "popularity": 22,
-    "group_popularity": 24
+    "popularity": 16,
+    "group_popularity": 23
   },
   "WPU01220205": {
     "id": "WPU01220205",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Corn",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2683,12 +2683,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:55:54-05",
     "popularity": 3,
-    "group_popularity": 41
+    "group_popularity": 39
   },
   "WPU01220311": {
     "id": "WPU01220311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Oats",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2699,13 +2699,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:34-05",
-    "popularity": 4,
-    "group_popularity": 19
+    "popularity": 3,
+    "group_popularity": 17
   },
   "WPU01220415": {
     "id": "WPU01220415",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Rye",
     "observation_start": "1947-01-01",
     "observation_end": "2021-11-01",
@@ -2717,12 +2717,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-12-14 08:03:14-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 4
   },
   "WPU01220501": {
     "id": "WPU01220501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sorghum",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2733,13 +2733,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:20-05",
-    "popularity": 15,
-    "group_popularity": 16
+    "popularity": 17,
+    "group_popularity": 17
   },
   "WPU01230103": {
     "id": "WPU01230103",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
     "observation_start": "2004-12-01",
     "observation_end": "2022-02-01",
@@ -2750,13 +2750,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:32-05",
-    "popularity": 13,
-    "group_popularity": 13
+    "popularity": 8,
+    "group_popularity": 8
   },
   "WPU01310199": {
     "id": "WPU01310199",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Steers and Heifers",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2772,8 +2772,8 @@
   },
   "WPU01310299": {
     "id": "WPU01310299",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cows and Bulls",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2785,12 +2785,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:33-05",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 3
   },
   "WPU01310399": {
     "id": "WPU01310399",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Vealers",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2806,8 +2806,8 @@
   },
   "WPU01320199": {
     "id": "WPU01320199",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Barrows and Gilts",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2823,8 +2823,8 @@
   },
   "WPU01320299": {
     "id": "WPU01320299",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Sows",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2840,8 +2840,8 @@
   },
   "WPU01330199": {
     "id": "WPU01330199",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Lambs",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2853,12 +2853,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:32-05",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 2
   },
   "WPU01410299": {
     "id": "WPU01410299",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Chickens",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2870,12 +2870,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:32-05",
     "popularity": 1,
-    "group_popularity": 18
+    "group_popularity": 14
   },
   "WPU01420199": {
     "id": "WPU01420199",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Turkeys",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2891,8 +2891,8 @@
   },
   "WPU01430199": {
     "id": "WPU01430199",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Slaughter Ducks",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -2908,8 +2908,8 @@
   },
   "WPU01510101": {
     "id": "WPU01510101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -2921,12 +2921,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:31-05",
     "popularity": 1,
-    "group_popularity": 16
+    "group_popularity": 11
   },
   "WPU01610102": {
     "id": "WPU01610102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Raw Milk",
     "observation_start": "1973-08-01",
     "observation_end": "2022-02-01",
@@ -2937,13 +2937,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:09-05",
-    "popularity": 33,
-    "group_popularity": 37
+    "popularity": 29,
+    "group_popularity": 33
   },
   "WPU01710701": {
     "id": "WPU01710701",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs, Jumbo",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -2959,8 +2959,8 @@
   },
   "WPU01710702": {
     "id": "WPU01710702",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs, Extra Large",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -2971,13 +2971,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:05:30-05",
-    "popularity": 5,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU01710703": {
     "id": "WPU01710703",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs, Large",
     "observation_start": "1971-12-01",
     "observation_end": "2022-02-01",
@@ -2993,8 +2993,8 @@
   },
   "WPU01710704": {
     "id": "WPU01710704",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs, Medium",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -3010,8 +3010,8 @@
   },
   "WPU01710705": {
     "id": "WPU01710705",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Eggs, Small",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -3027,8 +3027,8 @@
   },
   "WPU01710801": {
     "id": "WPU01710801",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Breaker Stock",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -3044,8 +3044,8 @@
   },
   "WPU01710802": {
     "id": "WPU01710802",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Checks and Undergrades",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -3061,8 +3061,8 @@
   },
   "WPU01810101": {
     "id": "WPU01810101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Alfalfa Hay",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -3073,13 +3073,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:22-05",
-    "popularity": 20,
-    "group_popularity": 20
+    "popularity": 16,
+    "group_popularity": 16
   },
   "WPU01830111": {
     "id": "WPU01830111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Peanuts",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -3090,13 +3090,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:19-05",
-    "popularity": 18,
-    "group_popularity": 18
+    "popularity": 19,
+    "group_popularity": 19
   },
   "WPU01830121": {
     "id": "WPU01830121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Cottonseed",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -3107,13 +3107,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:55:54-05",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU01830131": {
     "id": "WPU01830131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Soybeans",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -3124,13 +3124,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:11-05",
-    "popularity": 28,
-    "group_popularity": 28
+    "popularity": 25,
+    "group_popularity": 25
   },
   "WPU01830151": {
     "id": "WPU01830151",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Flaxseed",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -3141,13 +3141,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:17-05",
-    "popularity": 24,
-    "group_popularity": 24
+    "popularity": 21,
+    "group_popularity": 21
   },
   "WPU01830161": {
     "id": "WPU01830161",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Sunflower",
     "observation_start": "1991-12-01",
     "observation_end": "2022-02-01",
@@ -3163,8 +3163,8 @@
   },
   "WPU01830171": {
     "id": "WPU01830171",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Canola",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -3175,13 +3175,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:13-05",
-    "popularity": 28,
-    "group_popularity": 28
+    "popularity": 26,
+    "group_popularity": 26
   },
   "WPU011102281": {
     "id": "WPU011102281",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Table Grapes",
     "observation_start": "2011-12-01",
     "observation_end": "2021-12-01",
@@ -3192,13 +3192,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-13 08:02:36-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU011102283": {
     "id": "WPU011102283",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Farm Products: Wine Grapes",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -3209,7 +3209,7 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:34-05",
-    "popularity": 15,
-    "group_popularity": 15
+    "popularity": 16,
+    "group_popularity": 16
   }
 }

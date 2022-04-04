@@ -1,8 +1,8 @@
 {
   "CPITRNNS": {
     "id": "CPITRNNS",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -13,13 +13,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:34-06",
-    "popularity": 6,
-    "group_popularity": 43
+    "popularity": 5,
+    "group_popularity": 45
   },
   "CPITRNSL": {
     "id": "CPITRNSL",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -30,13 +30,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:08-06",
-    "popularity": 42,
-    "group_popularity": 43
+    "popularity": 44,
+    "group_popularity": 45
   },
   "CUSR0000SAT1": {
     "id": "CUSR0000SAT1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Private Transportation in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -47,13 +47,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:36-06",
-    "popularity": 7,
-    "group_popularity": 15
+    "popularity": 4,
+    "group_popularity": 9
   },
   "CUSR0000SETA": {
     "id": "CUSR0000SETA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: New and Used Motor Vehicles in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -64,13 +64,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:11-06",
-    "popularity": 33,
-    "group_popularity": 34
+    "popularity": 36,
+    "group_popularity": 37
   },
   "CUSR0000SETA01": {
     "id": "CUSR0000SETA01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average",
     "observation_start": "1953-01-01",
     "observation_end": "2022-02-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:07-06",
-    "popularity": 44,
+    "popularity": 45,
     "group_popularity": 61
   },
   "CUSR0000SETA02": {
     "id": "CUSR0000SETA02",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average",
     "observation_start": "1953-01-01",
     "observation_end": "2022-02-01",
@@ -103,8 +103,8 @@
   },
   "CUSR0000SETB": {
     "id": "CUSR0000SETB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Fuel in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:20-06",
-    "popularity": 17,
-    "group_popularity": 19
+    "popularity": 18,
+    "group_popularity": 21
   },
   "CUSR0000SETB01": {
     "id": "CUSR0000SETB01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "CUSR0000SETC": {
     "id": "CUSR0000SETC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Vehicle Parts and Equipment in U.S. City Average",
     "observation_start": "1991-01-01",
     "observation_end": "2022-02-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:17-06",
-    "popularity": 17,
-    "group_popularity": 38
+    "popularity": 13,
+    "group_popularity": 36
   },
   "CUSR0000SETD": {
     "id": "CUSR0000SETD",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Vehicle Maintenance and Repair in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:10-06",
-    "popularity": 36,
-    "group_popularity": 38
+    "popularity": 33,
+    "group_popularity": 35
   },
   "CUSR0000SETG": {
     "id": "CUSR0000SETG",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Public Transportation in U.S. City Average",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -183,13 +183,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:27-06",
-    "popularity": 10,
-    "group_popularity": 16
+    "popularity": 6,
+    "group_popularity": 11
   },
   "CUSR0000SETG01": {
     "id": "CUSR0000SETG01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Airline Fares in U.S. City Average",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -200,13 +200,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:38:07-06",
-    "popularity": 50,
-    "group_popularity": 50
+    "popularity": 46,
+    "group_popularity": 47
   },
   "CUUR0000SAT1": {
     "id": "CUUR0000SAT1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Private Transportation in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -217,13 +217,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:33-06",
-    "popularity": 12,
-    "group_popularity": 15
+    "popularity": 7,
+    "group_popularity": 9
   },
   "CUUR0000SETA": {
     "id": "CUUR0000SETA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: New and Used Motor Vehicles in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -234,13 +234,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:31-06",
-    "popularity": 5,
-    "group_popularity": 34
+    "popularity": 6,
+    "group_popularity": 37
   },
   "CUUR0000SETA01": {
     "id": "CUUR0000SETA01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average",
     "observation_start": "1947-03-01",
     "observation_end": "2022-02-01",
@@ -256,8 +256,8 @@
   },
   "CUUR0000SETA02": {
     "id": "CUUR0000SETA02",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average",
     "observation_start": "1952-12-01",
     "observation_end": "2022-02-01",
@@ -268,13 +268,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:12-06",
-    "popularity": 33,
+    "popularity": 30,
     "group_popularity": 72
   },
   "CUUR0000SETB": {
     "id": "CUUR0000SETB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Fuel in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:37-06",
-    "popularity": 4,
-    "group_popularity": 19
+    "popularity": 9,
+    "group_popularity": 21
   },
   "CUUR0000SETB01": {
     "id": "CUUR0000SETB01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -307,8 +307,8 @@
   },
   "CUUR0000SETC": {
     "id": "CUUR0000SETC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Vehicle Parts and Equipment in U.S. City Average",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:12-06",
-    "popularity": 35,
-    "group_popularity": 38
+    "popularity": 34,
+    "group_popularity": 36
   },
   "CUUR0000SETD": {
     "id": "CUUR0000SETD",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Motor Vehicle Maintenance and Repair in U.S. City Average",
     "observation_start": "1947-03-01",
     "observation_end": "2022-02-01",
@@ -336,13 +336,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:37-06",
-    "popularity": 8,
-    "group_popularity": 38
+    "popularity": 7,
+    "group_popularity": 35
   },
   "CUUR0000SETG": {
     "id": "CUUR0000SETG",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Public Transportation in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -353,13 +353,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:30-06",
-    "popularity": 9,
-    "group_popularity": 16
+    "popularity": 7,
+    "group_popularity": 11
   },
   "CUUR0000SETG01": {
     "id": "CUUR0000SETG01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Consumers: Airline Fares in U.S. City Average",
     "observation_start": "1963-12-01",
     "observation_end": "2022-02-01",
@@ -370,13 +370,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:38:34-06",
-    "popularity": 12,
-    "group_popularity": 50
+    "popularity": 11,
+    "group_popularity": 47
   },
   "CWSR0000SAT": {
     "id": "CWSR0000SAT",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Transportation in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -387,13 +387,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:39-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "CWSR0000SAT1": {
     "id": "CWSR0000SAT1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Private Transportation in U.S. City Average",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -405,12 +405,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:39:30-06",
     "popularity": 2,
-    "group_popularity": 8
+    "group_popularity": 7
   },
   "CWSR0000SETA": {
     "id": "CWSR0000SETA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: New and Used Motor Vehicles in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:38-06",
-    "popularity": 3,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "CWSR0000SETA01": {
     "id": "CWSR0000SETA01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: New Vehicles in U.S. City Average",
     "observation_start": "1953-01-01",
     "observation_end": "2022-02-01",
@@ -439,12 +439,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:38-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "CWSR0000SETA02": {
     "id": "CWSR0000SETA02",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Used Cars and Trucks in U.S. City Average",
     "observation_start": "1953-01-01",
     "observation_end": "2022-02-01",
@@ -455,13 +455,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:39:25-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "CWSR0000SETB": {
     "id": "CWSR0000SETB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Motor Fuel in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -477,8 +477,8 @@
   },
   "CWSR0000SETB01": {
     "id": "CWSR0000SETB01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Gasoline (All Types) in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -490,12 +490,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:38-06",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 3
   },
   "CWSR0000SETC": {
     "id": "CWSR0000SETC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Motor Vehicle Parts and Equipment in U.S. City Average",
     "observation_start": "1991-01-01",
     "observation_end": "2022-02-01",
@@ -506,13 +506,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:39:23-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "CWSR0000SETD": {
     "id": "CWSR0000SETD",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Motor Vehicle Maintenance and Repair in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -528,8 +528,8 @@
   },
   "CWSR0000SETG": {
     "id": "CWSR0000SETG",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Public Transportation in U.S. City Average",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -541,12 +541,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:38-06",
     "popularity": 1,
-    "group_popularity": 1
+    "group_popularity": 4
   },
   "CWUR0000SAT": {
     "id": "CWUR0000SAT",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Transportation in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -557,13 +557,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:25-06",
-    "popularity": 2,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "CWUR0000SAT1": {
     "id": "CWUR0000SAT1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Private Transportation in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -574,13 +574,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:18-06",
-    "popularity": 7,
-    "group_popularity": 8
+    "popularity": 6,
+    "group_popularity": 7
   },
   "CWUR0000SETA": {
     "id": "CWUR0000SETA",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: New and Used Motor Vehicles in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -591,13 +591,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:36-06",
-    "popularity": 2,
-    "group_popularity": 4
+    "popularity": 1,
+    "group_popularity": 2
   },
   "CWUR0000SETA01": {
     "id": "CWUR0000SETA01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: New Vehicles in U.S. City Average",
     "observation_start": "1947-03-01",
     "observation_end": "2022-02-01",
@@ -608,13 +608,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:35-06",
-    "popularity": 4,
-    "group_popularity": 4
+    "popularity": 2,
+    "group_popularity": 2
   },
   "CWUR0000SETA02": {
     "id": "CWUR0000SETA02",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Used Cars and Trucks in U.S. City Average",
     "observation_start": "1952-12-01",
     "observation_end": "2022-02-01",
@@ -626,12 +626,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:35-06",
     "popularity": 1,
-    "group_popularity": 4
+    "group_popularity": 2
   },
   "CWUR0000SETB": {
     "id": "CWUR0000SETB",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Motor Fuel in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -647,8 +647,8 @@
   },
   "CWUR0000SETB01": {
     "id": "CWUR0000SETB01",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Gasoline (All Types) in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -659,13 +659,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:20-06",
-    "popularity": 4,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 3
   },
   "CWUR0000SETC": {
     "id": "CWUR0000SETC",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Motor Vehicle Parts and Equipment in U.S. City Average",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -681,8 +681,8 @@
   },
   "CWUR0000SETD": {
     "id": "CWUR0000SETD",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Motor Vehicle Maintenance and Repair in U.S. City Average",
     "observation_start": "1947-03-01",
     "observation_end": "2022-02-01",
@@ -698,8 +698,8 @@
   },
   "CWUR0000SETG": {
     "id": "CWUR0000SETG",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Public Transportation in U.S. City Average",
     "observation_start": "1935-03-01",
     "observation_end": "2022-02-01",
@@ -710,13 +710,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:39:22-06",
-    "popularity": 1,
-    "group_popularity": 1
+    "popularity": 4,
+    "group_popularity": 4
   },
   "SUUR0000SAT": {
     "id": "SUUR0000SAT",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Chained Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",
@@ -732,8 +732,8 @@
   },
   "SUUR0000SAT1": {
     "id": "SUUR0000SAT1",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Chained Consumer Price Index for All Urban Consumers: Private Transportation in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "SUUR0000SETG": {
     "id": "SUUR0000SETG",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Chained Consumer Price Index for All Urban Consumers: Public Transportation in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",

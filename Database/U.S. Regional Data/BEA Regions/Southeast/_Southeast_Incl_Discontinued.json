@@ -1,8 +1,8 @@
 {
   "MORTGAGE1SE": {
     "id": "MORTGAGE1SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "1-Year Adjustable Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1986-04-04",
     "observation_end": "2015-12-31",
@@ -19,8 +19,8 @@
   },
   "MORTGAGE5SE": {
     "id": "MORTGAGE5SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "5/1-Year Adjustable Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "2005-01-06",
     "observation_end": "2015-12-31",
@@ -37,8 +37,8 @@
   },
   "MORTGAGE15SE": {
     "id": "MORTGAGE15SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "15-Year Fixed Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1991-08-30",
     "observation_end": "2015-12-31",
@@ -55,8 +55,8 @@
   },
   "MORTGAGE30SE": {
     "id": "MORTGAGE30SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "30-Year Fixed Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1976-03-26",
     "observation_end": "2015-12-31",
@@ -73,8 +73,8 @@
   },
   "MORTMRGN1SE": {
     "id": "MORTMRGN1SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Margin for 1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1988-02-19",
     "observation_end": "2015-12-31",
@@ -91,8 +91,8 @@
   },
   "MORTMRGN5SE": {
     "id": "MORTMRGN5SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Margin for 5/1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "2005-01-06",
     "observation_end": "2015-12-31",
@@ -109,8 +109,8 @@
   },
   "MORTPTS1SE": {
     "id": "MORTPTS1SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Origination Fees and Discount Points for 1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1986-04-04",
     "observation_end": "2015-12-31",
@@ -127,8 +127,8 @@
   },
   "MORTPTS5SE": {
     "id": "MORTPTS5SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Origination Fees and Discount Points for 5/1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "2005-01-06",
     "observation_end": "2015-12-31",
@@ -145,8 +145,8 @@
   },
   "MORTPTS15SE": {
     "id": "MORTPTS15SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Origination Fees and Discount Points for 15-Year Fixed Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1991-08-30",
     "observation_end": "2015-12-31",
@@ -163,8 +163,8 @@
   },
   "MORTPTS30SE": {
     "id": "MORTPTS30SE",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Origination Fees and Discount Points for 30-Year Fixed Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)",
     "observation_start": "1976-03-26",
     "observation_end": "2015-12-31",
@@ -175,8 +175,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-12-31 10:16:14-06",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Origination Fees and Discount Points are the total charged by the lender at settlement. One point equals one percent of the loan amount.\nData is provided \"as is,\" by Freddie Mac\u00a9 with no warranties of any kind, express or implied, including, but not limited to, warranties of accuracy or implied warranties of merchantability or fitness for a particular purpose. Use of the data is at the user's sole risk. In no event will Freddie Mac be liable for any damages arising out of or related to the data, including, but not limited to direct, indirect, incidental, special, consequential, or punitive damages, whether under a contract, tort, or any other theory of liability, even if Freddie Mac is aware of the possibility of such damages.\nCopyright, 2016, Freddie Mac. Reprinted with permission."
   }
 }

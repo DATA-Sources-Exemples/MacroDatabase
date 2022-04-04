@@ -1,7 +1,7 @@
 {
   "id": "AUTHNOT24U",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 2-4 Units",
   "observation_start": "1968-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 07:31:30-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 4
 }

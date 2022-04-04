@@ -24,7 +24,7 @@
 | HORAMSA32580              | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA32580              | Market Hotness: Hotness Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD32580                 | Implicit Regional Price Deflator for McAllen-Edinburg-Mission, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483258000000003A     | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
 | LAUMT483258000000004      | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
@@ -35,94 +35,94 @@
 | LDPEPRMMMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | LDPEPRVSUSMSA32580        | Market Hotness: Listing Views per Property Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                    | 2017-08-01          | 2022-01-01        |
 | LDPEPRYYMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2018-08-01          | 2022-01-01        |
-| MCAEDUHA158MFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-02-01          | 2022-01-01        |
-| MCAEDUHA175MCFRBDAL       | Change in Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                             | 1990-02-01          | 2022-01-01        |
-| MCAEDUHA175MFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| MCAEDUHA158MFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-02-01          | 2022-02-01        |
+| MCAEDUHA175MCFRBDAL       | Change in Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                             | 1990-02-01          | 2022-02-01        |
+| MCAEDUHA175MFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | MCAEDUHA674AFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1991-01-01          | 2021-01-01        |
-| MCAFIREA158MFRBDAL        | Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-02-01          | 2022-01-01        |
-| MCAFIREA175MCFRBDAL       | Change in Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                      | 1990-02-01          | 2022-01-01        |
-| MCAFIREA175MFRBDAL        | Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| MCAFIREA158MFRBDAL        | Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-02-01          | 2022-02-01        |
+| MCAFIREA175MCFRBDAL       | Change in Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                      | 1990-02-01          | 2022-02-01        |
+| MCAFIREA175MFRBDAL        | Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | MCAFIREA674AFRBDAL        | Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1991-01-01          | 2021-01-01        |
-| MCAGOODA158MFRBDAL        | Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-02-01          | 2022-01-01        |
-| MCAGOODA175MCFRBDAL       | Change in Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                           | 1990-02-01          | 2022-01-01        |
-| MCAGOODA175MFRBDAL        | Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| MCAGOODA158MFRBDAL        | Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-02-01          | 2022-02-01        |
+| MCAGOODA175MCFRBDAL       | Change in Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                           | 1990-02-01          | 2022-02-01        |
+| MCAGOODA175MFRBDAL        | Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
 | MCAGOODA674AFRBDAL        | Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                     | 1991-01-01          | 2021-01-01        |
-| MCAGOVTA158MFRBDAL        | Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-02-01          | 2022-01-01        |
-| MCAGOVTA175MCFRBDAL       | Change in Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-02-01          | 2022-01-01        |
-| MCAGOVTA175MFRBDAL        | Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| MCAGOVTA158MFRBDAL        | Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-02-01          | 2022-02-01        |
+| MCAGOVTA175MCFRBDAL       | Change in Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-02-01          | 2022-02-01        |
+| MCAGOVTA175MFRBDAL        | Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | MCAGOVTA674AFRBDAL        | Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                          | 1991-01-01          | 2021-01-01        |
-| MCAINFOA158MFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-02-01          | 2022-01-01        |
-| MCAINFOA175MCFRBDAL       | Change in Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                               | 1990-02-01          | 2022-01-01        |
-| MCAINFOA175MFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2022-01-01        |
+| MCAINFOA158MFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-02-01          | 2022-02-01        |
+| MCAINFOA175MCFRBDAL       | Change in Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                               | 1990-02-01          | 2022-02-01        |
+| MCAINFOA175MFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2022-02-01        |
 | MCAINFOA674AFRBDAL        | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                         | 1991-01-01          | 2021-01-01        |
-| MCAL548BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-01-01        |
-| MCAL548BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-01-01        |
-| MCAL548BPPRIV             | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-01-01        |
-| MCAL548BPPRIVSA           | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-01-01        |
-| MCAL548EDUH               | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MCAL548EDUHN              | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| MCAL548FIRE               | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MCAL548FIREN              | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| MCAL548GOVT               | All Employees: Government in McAllen-Edinburg-Mission, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MCAL548GOVTN              | All Employees: Government in McAllen-Edinburg-Mission, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| MCAL548INFO               | All Employees: Information in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MCAL548INFON              | All Employees: Information in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| MCAL548LEIH               | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| MCAL548LEIHN              | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| MCAL548BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-02-01        |
+| MCAL548BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for McAllen-Edinburg-Mission, TX (MSA)            | 1988-01-01          | 2022-02-01        |
+| MCAL548BPPRIV             | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-02-01        |
+| MCAL548BPPRIVSA           | New Private Housing Units Authorized by Building Permits for McAllen-Edinburg-Mission, TX (MSA)                               | 1988-01-01          | 2022-02-01        |
+| MCAL548EDUH               | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MCAL548EDUHN              | All Employees: Education and Health Services in McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| MCAL548FIRE               | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MCAL548FIREN              | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| MCAL548GOVT               | All Employees: Government in McAllen-Edinburg-Mission, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MCAL548GOVTN              | All Employees: Government in McAllen-Edinburg-Mission, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| MCAL548INFO               | All Employees: Information in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MCAL548INFON              | All Employees: Information in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| MCAL548LEIH               | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| MCAL548LEIHN              | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | MCAL548LF                 | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | MCAL548LFN                | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| MCAL548MFG                | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MCAL548MFGN               | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MCAL548NA                 | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| MCAL548NAN                | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1980-01-01          | 2022-01-01        |
-| MCAL548NRMN               | All Employees: Mining, Logging, and Construction in McAllen-Edinburg-Mission, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MCAL548NRMNN              | All Employees: Mining, Logging, and Construction in McAllen-Edinburg-Mission, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| MCAL548PBSV               | All Employees: Professional and Business Services in McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| MCAL548PBSVN              | All Employees: Professional and Business Services in McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| MCAL548MFG                | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MCAL548MFGN               | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MCAL548NA                 | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| MCAL548NAN                | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1980-01-01          | 2022-02-01        |
+| MCAL548NRMN               | All Employees: Mining, Logging, and Construction in McAllen-Edinburg-Mission, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MCAL548NRMNN              | All Employees: Mining, Logging, and Construction in McAllen-Edinburg-Mission, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| MCAL548PBSV               | All Employees: Professional and Business Services in McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| MCAL548PBSVN              | All Employees: Professional and Business Services in McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | MCAL548PCPI               | Per Capita Personal Income in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| MCAL548SRVO               | All Employees: Other Services in McAllen-Edinburg-Mission, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MCAL548SRVON              | All Employees: Other Services in McAllen-Edinburg-Mission, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| MCAL548TRAD               | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| MCAL548TRADN              | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| MCAL548SRVO               | All Employees: Other Services in McAllen-Edinburg-Mission, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MCAL548SRVON              | All Employees: Other Services in McAllen-Edinburg-Mission, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| MCAL548TRAD               | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| MCAL548TRADN              | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | MCAL548UR                 | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | MCAL548URN                | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| MCALEIHA158MFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| MCALEIHA175MCFRBDAL       | Change in Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                   | 1990-02-01          | 2022-01-01        |
-| MCALEIHA175MFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| MCALEIHA158MFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| MCALEIHA175MCFRBDAL       | Change in Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                   | 1990-02-01          | 2022-02-01        |
+| MCALEIHA175MFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | MCALEIHA674AFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1991-01-01          | 2021-01-01        |
-| MCAMANUA158MFRBDAL        | Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| MCAMANUA175MCFRBDAL       | Change in Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| MCAMANUA175MFRBDAL        | Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| MCAMANUA158MFRBDAL        | Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| MCAMANUA175MCFRBDAL       | Change in Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| MCAMANUA175MFRBDAL        | Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | MCAMANUA674AFRBDAL        | Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| MCANRMCA158MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                          | 1990-02-01          | 2022-01-01        |
-| MCANRMCA175MCFRBDAL       | Change in Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                | 1990-02-01          | 2022-01-01        |
-| MCANRMCA175MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                          | 1990-01-01          | 2022-01-01        |
+| MCANRMCA158MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                          | 1990-02-01          | 2022-02-01        |
+| MCANRMCA175MCFRBDAL       | Change in Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                | 1990-02-01          | 2022-02-01        |
+| MCANRMCA175MFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                          | 1990-01-01          | 2022-02-01        |
 | MCANRMCA674AFRBDAL        | Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                          | 1991-01-01          | 2021-01-01        |
-| MCAPBSVA158MFRBDAL        | Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                  | 1990-02-01          | 2022-01-01        |
-| MCAPBSVA175MCFRBDAL       | Change in Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                        | 1990-02-01          | 2022-01-01        |
-| MCAPBSVA175MFRBDAL        | Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| MCAPBSVA158MFRBDAL        | Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                  | 1990-02-01          | 2022-02-01        |
+| MCAPBSVA175MCFRBDAL       | Change in Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                        | 1990-02-01          | 2022-02-01        |
+| MCAPBSVA175MFRBDAL        | Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | MCAPBSVA674AFRBDAL        | Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                  | 1991-01-01          | 2021-01-01        |
-| MCAPRIVA158MFRBDAL        | Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-02-01          | 2022-01-01        |
-| MCAPRIVA175MCFRBDAL       | Change in Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1990-02-01          | 2022-01-01        |
-| MCAPRIVA175MFRBDAL        | Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| MCAPRIVA158MFRBDAL        | Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-02-01          | 2022-02-01        |
+| MCAPRIVA175MCFRBDAL       | Change in Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1990-02-01          | 2022-02-01        |
+| MCAPRIVA175MFRBDAL        | Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | MCAPRIVA674AFRBDAL        | Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                             | 1991-01-01          | 2021-01-01        |
-| MCASA158MFRBDAL           | Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| MCASA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| MCASA175MFRBDAL           | Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| MCASA158MFRBDAL           | Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| MCASA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| MCASA175MFRBDAL           | Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | MCASA674AFRBDAL           | Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| MCASERPA158MFRBDAL        | Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1990-02-01          | 2022-01-01        |
-| MCASERPA175MCFRBDAL       | Change in Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                         | 1990-02-01          | 2022-01-01        |
-| MCASERPA175MFRBDAL        | Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1990-01-01          | 2022-01-01        |
+| MCASERPA158MFRBDAL        | Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1990-02-01          | 2022-02-01        |
+| MCASERPA175MCFRBDAL       | Change in Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                         | 1990-02-01          | 2022-02-01        |
+| MCASERPA175MFRBDAL        | Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1990-01-01          | 2022-02-01        |
 | MCASERPA674AFRBDAL        | Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                   | 1991-01-01          | 2021-01-01        |
-| MCASRVOA158MFRBDAL        | Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                      | 1990-02-01          | 2022-01-01        |
-| MCASRVOA175MCFRBDAL       | Change in Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-02-01          | 2022-01-01        |
-| MCASRVOA175MFRBDAL        | Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                      | 1990-01-01          | 2022-01-01        |
+| MCASRVOA158MFRBDAL        | Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                      | 1990-02-01          | 2022-02-01        |
+| MCASRVOA175MCFRBDAL       | Change in Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                            | 1990-02-01          | 2022-02-01        |
+| MCASRVOA175MFRBDAL        | Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                      | 1990-01-01          | 2022-02-01        |
 | MCASRVOA674AFRBDAL        | Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                                      | 1991-01-01          | 2021-01-01        |
-| MCATTULA158MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1990-02-01          | 2022-01-01        |
-| MCATTULA175MCFRBDAL       | Change in Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                      | 1990-02-01          | 2022-01-01        |
-| MCATTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1990-01-01          | 2022-01-01        |
+| MCATTULA158MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1990-02-01          | 2022-02-01        |
+| MCATTULA175MCFRBDAL       | Change in Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                      | 1990-02-01          | 2022-02-01        |
+| MCATTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1990-01-01          | 2022-02-01        |
 | MCATTULA674AFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1991-01-01          | 2021-01-01        |
-| MCLPOP                    | Resident Population in McAllen-Edinburg-Mission, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
+| MCLPOP                    | Resident Population in McAllen-Edinburg-Mission, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA32580        | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2018-08-01          | 2022-01-01        |
 | MEDAONMAMSA32580          | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2017-08-01          | 2022-01-01        |
 | MEDAONMAYYMSA32580        | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2018-08-01          | 2022-01-01        |
@@ -168,44 +168,44 @@
 | RPPGOOD32580              | Regional Price Parities: Goods for McAllen-Edinburg-Mission, TX (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH32580          | Regional Price Parities: Services: Other for McAllen-Edinburg-Mission, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT32580         | Regional Price Parities: Services: Rents for McAllen-Edinburg-Mission, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48325800000000026      | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48325800000000026      | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48325800000000001A     | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1980-01-01          | 2021-01-01        |
-| SMU48325800500000001      | All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48325800500000001      | All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48325800500000001A     | All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48325800500000001SA    | All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48325800500000002      | Average Weekly Hours of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48325800500000001SA    | All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48325800500000002      | Average Weekly Hours of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48325800500000002A     | Average Weekly Hours of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48325800500000002SA    | Average Weekly Hours of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48325800500000003      | Average Hourly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48325800500000002SA    | Average Weekly Hours of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48325800500000003      | Average Hourly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48325800500000003A     | Average Hourly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48325800500000003SA    | Average Hourly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48325800500000011      | Average Weekly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48325800500000003SA    | Average Hourly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48325800500000011      | Average Weekly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48325800500000011A     | Average Weekly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48325800500000011SA    | Average Weekly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48325800600000001      | All Employees: Goods Producing in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48325800500000011SA    | Average Weekly Earnings of All Employees: Total Private in McAllen-Edinburg-Mission, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48325800600000001      | All Employees: Goods Producing in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48325800600000001A     | All Employees: Goods Producing in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48325800600000001SA    | All Employees: Goods Producing in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48325800700000001      | All Employees: Service-Providing in McAllen-Edinburg-Mission, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48325800600000001SA    | All Employees: Goods Producing in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48325800700000001      | All Employees: Service-Providing in McAllen-Edinburg-Mission, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48325800700000001A     | All Employees: Service-Providing in McAllen-Edinburg-Mission, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48325800700000001SA    | All Employees: Service-Providing in McAllen-Edinburg-Mission, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48325800800000001      | All Employees: Private Service Providing in McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48325800700000001SA    | All Employees: Service-Providing in McAllen-Edinburg-Mission, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48325800800000001      | All Employees: Private Service Providing in McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48325800800000001A     | All Employees: Private Service Providing in McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48325800800000001SA    | All Employees: Private Service Providing in McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48325800800000001SA    | All Employees: Private Service Providing in McAllen-Edinburg-Mission, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48325801500000001A     | All Employees: Mining, Logging, and Construction in McAllen-Edinburg-Mission, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48325803000000001A     | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48325804000000001A     | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48325804100000001      | All Employees: Wholesale Trade in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48325804100000001      | All Employees: Wholesale Trade in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48325804100000001A     | All Employees: Wholesale Trade in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48325804100000001SA    | All Employees: Wholesale Trade in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48325804200000001      | All Employees: Retail Trade in McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48325804100000001SA    | All Employees: Wholesale Trade in McAllen-Edinburg-Mission, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48325804200000001      | All Employees: Retail Trade in McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48325804200000001A     | All Employees: Retail Trade in McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48325804200000001SA    | All Employees: Retail Trade in McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48325804245200001      | All Employees: Retail Trade: General Merchandise Stores in McAllen-Edinburg-Mission, TX (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU48325804200000001SA    | All Employees: Retail Trade in McAllen-Edinburg-Mission, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48325804245200001      | All Employees: Retail Trade: General Merchandise Stores in McAllen-Edinburg-Mission, TX (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU48325804245200001A     | All Employees: Retail Trade: General Merchandise Stores in McAllen-Edinburg-Mission, TX (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU48325804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in McAllen-Edinburg-Mission, TX (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU48325804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in McAllen-Edinburg-Mission, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48325804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in McAllen-Edinburg-Mission, TX (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU48325804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in McAllen-Edinburg-Mission, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48325804300000001A     | All Employees: Transportation and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48325804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in McAllen-Edinburg-Mission, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48325804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in McAllen-Edinburg-Mission, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48325805000000001A     | All Employees: Information in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48325805500000001A     | All Employees: Financial Activities in McAllen-Edinburg-Mission, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48325806000000001A     | All Employees: Professional and Business Services in McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -213,13 +213,13 @@
 | SMU48325807000000001A     | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48325808000000001A     | All Employees: Other Services in McAllen-Edinburg-Mission, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48325809000000001A     | All Employees: Government in McAllen-Edinburg-Mission, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48325809091000001      | All Employees: Government: Federal Government in McAllen-Edinburg-Mission, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48325809091000001      | All Employees: Government: Federal Government in McAllen-Edinburg-Mission, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48325809091000001A     | All Employees: Federal Government in McAllen-Edinburg-Mission, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48325809091000001SA    | All Employees: Government: Federal Government in McAllen-Edinburg-Mission, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48325809092000001      | All Employees: Government: State Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48325809091000001SA    | All Employees: Government: Federal Government in McAllen-Edinburg-Mission, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48325809092000001      | All Employees: Government: State Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48325809092000001A     | All Employees: State Government in McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48325809092000001SA    | All Employees: Government: State Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48325809093000001      | All Employees: Government: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48325809092000001SA    | All Employees: Government: State Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48325809093000001      | All Employees: Government: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48325809093000001A     | All Employees: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48325809093000001SA    | All Employees: Government: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48325809093000001SA    | All Employees: Government: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA32580              | Market Hotness: Supply Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

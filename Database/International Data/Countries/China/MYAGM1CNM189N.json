@@ -1,7 +1,7 @@
 {
   "id": "MYAGM1CNM189N",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "M1 for China",
   "observation_start": "1998-12-01",
   "observation_end": "2019-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-11-11 07:02:02-06",
-  "popularity": 29,
-  "group_popularity": 43,
+  "popularity": 27,
+  "group_popularity": 41,
   "notes": "M1 comprises currency in circulation plus demand deposits in national currency of resident non-bank non-government sectors with the PBC and banking institutions. Currency in circulation refers to notes and coins by the PBC less the amount held by banking institutions.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

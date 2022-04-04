@@ -1,7 +1,7 @@
 {
   "id": "M0187AUSM241NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Tobacco Consumption, Small Cigarettes for United States",
   "observation_start": "1915-01-01",
   "observation_end": "1944-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:05:35-05",
   "popularity": 1,
-  "group_popularity": 5,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1915-1944 (2)--Original Data, 1944-1957. Data Are As Indicated By Tax-Paid Withdrawals From Factories And Bonded Customs Warehouses And Imports, Computed On The Basis Of Sales Of Revenue Stamps. Small Cigarettes Are Those Weighing Not More Than 3 Pounds Per 1000. Source: 1915-1919 Data Are From Standard Statistics Company, Standard Statistical Bulletin, January 1932, Except For Imports From Puerto Rico And The Phillipines, Which Were Obtained Direct From The Bureau Of Internal Revenue; 1920-1941 Data Are From Survey Of Current Business, May 1922-August 1924, And Supplements For 1932, 1936, 1938, 1940, And 1942; The Data Have Been Cross-Checked With Bureau Of Internal Revenue Releases; 1942-1944 Data Are From A Mimeographed Release From The Bureau Of Internal Revenue.\n\nThis NBER data series m01087a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01087a"
 }

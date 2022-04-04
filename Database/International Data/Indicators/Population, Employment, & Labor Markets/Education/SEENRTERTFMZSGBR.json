@@ -1,7 +1,7 @@
 {
   "id": "SEENRTERTFMZSGBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Ratio of Female to Male Tertiary School Enrollment for the United Kingdom",
   "observation_start": "1971-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-02 14:35:56-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Ratio of girls to boys enrolled at tertiary level in public and private schools.\n\nSource Indicator: SE.ENR.TERT.FM.ZS"
 }

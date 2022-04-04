@@ -7,25 +7,25 @@
 | AVELISPRI13380            | Housing Inventory: Average Listing Price in Bellingham, WA (CBSA)                                 | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM13380          | Housing Inventory: Average Listing Price Month-Over-Month in Bellingham, WA (CBSA)                | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY13380          | Housing Inventory: Average Listing Price Year-Over-Year in Bellingham, WA (CBSA)                  | 2017-07-01          | 2022-01-01        |
-| BELL353FIRE               | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BELL353FIREN              | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| BELL353GOVT               | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BELL353GOVTN              | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| BELL353LEIH               | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| BELL353LEIHN              | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| BELL353FIRE               | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BELL353FIREN              | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| BELL353GOVT               | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BELL353GOVTN              | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| BELL353LEIH               | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| BELL353LEIHN              | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | BELL353LF                 | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | BELL353LFN                | Civilian Labor Force in Bellingham, WA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| BELL353MFG                | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BELL353MFGN               | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BELL353NA                 | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BELL353NAN                | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| BELL353NRMN               | All Employees: Mining, Logging, and Construction in Bellingham, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BELL353NRMNN              | All Employees: Mining, Logging, and Construction in Bellingham, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| BELL353PBSV               | All Employees: Professional and Business Services in Bellingham, WA (MSA)                         | 1990-01-01          | 2022-01-01        |
-| BELL353PBSVN              | All Employees: Professional and Business Services in Bellingham, WA (MSA)                         | 1990-01-01          | 2022-01-01        |
+| BELL353MFG                | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BELL353MFGN               | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BELL353NA                 | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BELL353NAN                | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| BELL353NRMN               | All Employees: Mining, Logging, and Construction in Bellingham, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BELL353NRMNN              | All Employees: Mining, Logging, and Construction in Bellingham, WA (MSA)                          | 1990-01-01          | 2022-02-01        |
+| BELL353PBSV               | All Employees: Professional and Business Services in Bellingham, WA (MSA)                         | 1990-01-01          | 2022-02-01        |
+| BELL353PBSVN              | All Employees: Professional and Business Services in Bellingham, WA (MSA)                         | 1990-01-01          | 2022-02-01        |
 | BELL353PCPI               | Per Capita Personal Income in Bellingham, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| BELL353TRAD               | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| BELL353TRADN              | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| BELL353TRAD               | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| BELL353TRADN              | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | BELL353UR                 | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BELL353URN                | Unemployment Rate in Bellingham, WA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | BLLPOP                    | Resident Population in Bellingham, WA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
@@ -101,46 +101,46 @@
 | RPPGOOD13380              | Regional Price Parities: Goods for Bellingham, WA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH13380          | Regional Price Parities: Services: Other for Bellingham, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT13380         | Regional Price Parities: Services: Rents for Bellingham, WA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS53133800000000026      | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS53133800000000026      | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU53133800000000001A     | All Employees: Total Nonfarm in Bellingham, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53133800500000001      | All Employees: Total Private in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU53133800500000001      | All Employees: Total Private in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU53133800500000001A     | All Employees: Total Private in Bellingham, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU53133800500000001SA    | All Employees: Total Private in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU53133800500000002      | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU53133800500000001SA    | All Employees: Total Private in Bellingham, WA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU53133800500000002      | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU53133800500000002A     | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU53133800500000002SA    | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU53133800500000003      | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53133800500000002SA    | Average Weekly Hours of All Employees: Total Private in Bellingham, WA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU53133800500000003      | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53133800500000003A     | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53133800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53133800500000011      | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU53133800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53133800500000011      | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU53133800500000011A     | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU53133800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU53133800600000001      | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU53133800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Bellingham, WA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU53133800600000001      | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU53133800600000001A     | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU53133800600000001SA    | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU53133800700000001      | All Employees: Service-Providing in Bellingham, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU53133800600000001SA    | All Employees: Goods Producing in Bellingham, WA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU53133800700000001      | All Employees: Service-Providing in Bellingham, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU53133800700000001A     | All Employees: Service-Providing in Bellingham, WA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU53133800700000001SA    | All Employees: Service-Providing in Bellingham, WA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU53133800800000001      | All Employees: Private Service Providing in Bellingham, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53133800700000001SA    | All Employees: Service-Providing in Bellingham, WA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU53133800800000001      | All Employees: Private Service Providing in Bellingham, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53133800800000001A     | All Employees: Private Service Providing in Bellingham, WA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU53133800800000001SA    | All Employees: Private Service Providing in Bellingham, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU53133800800000001SA    | All Employees: Private Service Providing in Bellingham, WA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU53133801500000001A     | All Employees: Mining, Logging, and Construction in Bellingham, WA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU53133803000000001A     | All Employees: Manufacturing in Bellingham, WA (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU53133804000000001A     | All Employees: Trade, Transportation, and Utilities in Bellingham, WA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU53133804200000001      | All Employees: Retail Trade in Bellingham, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53133804200000001      | All Employees: Retail Trade in Bellingham, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53133804200000001A     | All Employees: Retail Trade in Bellingham, WA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU53133804200000001SA    | All Employees: Retail Trade in Bellingham, WA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU53133804200000001SA    | All Employees: Retail Trade in Bellingham, WA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU53133805500000001A     | All Employees: Financial Activities in Bellingham, WA (MSA)                                       | 1990-01-01          | 2021-01-01        |
 | SMU53133806000000001A     | All Employees: Professional and Business Services in Bellingham, WA (MSA)                         | 1990-01-01          | 2021-01-01        |
 | SMU53133807000000001A     | All Employees: Leisure and Hospitality in Bellingham, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU53133809000000001A     | All Employees: Government in Bellingham, WA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU53133809091000001      | All Employees: Government: Federal Government in Bellingham, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU53133809091000001      | All Employees: Government: Federal Government in Bellingham, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU53133809091000001A     | All Employees: Federal Government in Bellingham, WA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU53133809091000001SA    | All Employees: Government: Federal Government in Bellingham, WA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU53133809092000001      | All Employees: Government: State Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53133809091000001SA    | All Employees: Government: Federal Government in Bellingham, WA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU53133809092000001      | All Employees: Government: State Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53133809092000001A     | All Employees: State Government in Bellingham, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53133809092000001SA    | All Employees: Government: State Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU53133809093000001      | All Employees: Government: Local Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53133809092000001SA    | All Employees: Government: State Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU53133809093000001      | All Employees: Government: Local Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU53133809093000001A     | All Employees: Local Government in Bellingham, WA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU53133809093000001SA    | All Employees: Government: Local Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU53133809093000001SA    | All Employees: Government: Local Government in Bellingham, WA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SUSCMSA13380              | Market Hotness: Supply Score in Bellingham, WA (CBSA)                                             | 2017-08-01          | 2022-01-01        |

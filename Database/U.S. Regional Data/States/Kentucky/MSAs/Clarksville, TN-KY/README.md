@@ -7,32 +7,32 @@
 | AVELISPRI17300            | Housing Inventory: Average Listing Price in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-01-01        |
 | AVELISPRIMM17300          | Housing Inventory: Average Listing Price Month-Over-Month in Clarksville, TN-KY (CBSA)                              | 2017-07-01          | 2022-01-01        |
 | AVELISPRIYY17300          | Housing Inventory: Average Listing Price Year-Over-Year in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-01-01        |
-| CLHEDUH                   | All Employees: Education and Health Services in Clarksville, TN-KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CLHEDUHN                  | All Employees: Education and Health Services in Clarksville, TN-KY (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| CLHFIRE                   | All Employees: Financial Activities in Clarksville, TN-KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CLHFIREN                  | All Employees: Financial Activities in Clarksville, TN-KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| CLHGOVT                   | All Employees: Government in Clarksville, TN-KY (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CLHGOVTN                  | All Employees: Government in Clarksville, TN-KY (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| CLHINFO                   | All Employees: Information in Clarksville, TN-KY (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CLHINFON                  | All Employees: Information in Clarksville, TN-KY (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| CLHLEIH                   | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| CLHLEIHN                  | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| CLHEDUH                   | All Employees: Education and Health Services in Clarksville, TN-KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CLHEDUHN                  | All Employees: Education and Health Services in Clarksville, TN-KY (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| CLHFIRE                   | All Employees: Financial Activities in Clarksville, TN-KY (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CLHFIREN                  | All Employees: Financial Activities in Clarksville, TN-KY (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| CLHGOVT                   | All Employees: Government in Clarksville, TN-KY (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CLHGOVTN                  | All Employees: Government in Clarksville, TN-KY (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| CLHINFO                   | All Employees: Information in Clarksville, TN-KY (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CLHINFON                  | All Employees: Information in Clarksville, TN-KY (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| CLHLEIH                   | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| CLHLEIHN                  | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | CLHLF                     | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | CLHLFN                    | Civilian Labor Force in Clarksville, TN-KY (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| CLHMFG                    | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLHMFGN                   | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLHNA                     | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLHNAN                    | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| CLHNRMN                   | All Employees: Mining, Logging, and Construction in Clarksville, TN-KY (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CLHNRMNN                  | All Employees: Mining, Logging, and Construction in Clarksville, TN-KY (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| CLHPBSV                   | All Employees: Professional and Business Services in Clarksville, TN-KY (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| CLHPBSVN                  | All Employees: Professional and Business Services in Clarksville, TN-KY (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| CLHMFG                    | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLHMFGN                   | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLHNA                     | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLHNAN                    | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| CLHNRMN                   | All Employees: Mining, Logging, and Construction in Clarksville, TN-KY (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CLHNRMNN                  | All Employees: Mining, Logging, and Construction in Clarksville, TN-KY (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| CLHPBSV                   | All Employees: Professional and Business Services in Clarksville, TN-KY (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| CLHPBSVN                  | All Employees: Professional and Business Services in Clarksville, TN-KY (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | CLHPCPI                   | Per Capita Personal Income in Clarksville, TN-KY (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | CLHPOP                    | Resident Population in Clarksville, TN-KY (MSA)                                                                     | 1970-01-01          | 2020-01-01        |
-| CLHSRVO                   | All Employees: Other Services in Clarksville, TN-KY (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CLHSRVON                  | All Employees: Other Services in Clarksville, TN-KY (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| CLHTRAD                   | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| CLHTRADN                  | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| CLHSRVO                   | All Employees: Other Services in Clarksville, TN-KY (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CLHSRVON                  | All Employees: Other Services in Clarksville, TN-KY (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| CLHTRAD                   | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| CLHTRADN                  | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | CLHUR                     | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | CLHURN                    | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | DESCMSA17300              | Market Hotness: Demand Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
@@ -107,38 +107,38 @@
 | RPPGOOD17300              | Regional Price Parities: Goods for Clarksville, TN-KY (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH17300          | Regional Price Parities: Services: Other for Clarksville, TN-KY (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT17300         | Regional Price Parities: Services: Rents for Clarksville, TN-KY (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS47173000000000026      | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS47173000000000026      | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU47173000000000001A     | All Employees: Total Nonfarm in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47173000500000001      | All Employees: Total Private in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU47173000500000001      | All Employees: Total Private in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU47173000500000001A     | All Employees: Total Private in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU47173000500000001SA    | All Employees: Total Private in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU47173000500000002      | Average Weekly Hours of All Employees: Total Private in Clarksville, TN-KY (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU47173000500000001SA    | All Employees: Total Private in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU47173000500000002      | Average Weekly Hours of All Employees: Total Private in Clarksville, TN-KY (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU47173000500000002A     | Average Weekly Hours of All Employees: Total Private in Clarksville, TN-KY (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU47173000500000002SA    | Average Weekly Hours of All Employees: Total Private in Clarksville, TN-KY (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU47173000500000003      | Average Hourly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47173000500000002SA    | Average Weekly Hours of All Employees: Total Private in Clarksville, TN-KY (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU47173000500000003      | Average Hourly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47173000500000003A     | Average Hourly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47173000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47173000500000011      | Average Weekly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU47173000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47173000500000011      | Average Weekly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU47173000500000011A     | Average Weekly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU47173000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU47173000600000001      | All Employees: Goods Producing in Clarksville, TN-KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU47173000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Clarksville, TN-KY (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU47173000600000001      | All Employees: Goods Producing in Clarksville, TN-KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU47173000600000001A     | All Employees: Goods Producing in Clarksville, TN-KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU47173000600000001SA    | All Employees: Goods Producing in Clarksville, TN-KY (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU47173000700000001      | All Employees: Service-Providing in Clarksville, TN-KY (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU47173000600000001SA    | All Employees: Goods Producing in Clarksville, TN-KY (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU47173000700000001      | All Employees: Service-Providing in Clarksville, TN-KY (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU47173000700000001A     | All Employees: Service-Providing in Clarksville, TN-KY (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU47173000700000001SA    | All Employees: Service-Providing in Clarksville, TN-KY (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU47173000800000001      | All Employees: Private Service Providing in Clarksville, TN-KY (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47173000700000001SA    | All Employees: Service-Providing in Clarksville, TN-KY (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU47173000800000001      | All Employees: Private Service Providing in Clarksville, TN-KY (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47173000800000001A     | All Employees: Private Service Providing in Clarksville, TN-KY (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU47173000800000001SA    | All Employees: Private Service Providing in Clarksville, TN-KY (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU47173000800000001SA    | All Employees: Private Service Providing in Clarksville, TN-KY (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU47173001500000001A     | All Employees: Mining, Logging, and Construction in Clarksville, TN-KY (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU47173003000000001A     | All Employees: Manufacturing in Clarksville, TN-KY (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU47173004000000001A     | All Employees: Trade, Transportation, and Utilities in Clarksville, TN-KY (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU47173004200000001      | All Employees: Retail Trade in Clarksville, TN-KY (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU47173004200000001      | All Employees: Retail Trade in Clarksville, TN-KY (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU47173004200000001A     | All Employees: Retail Trade in Clarksville, TN-KY (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU47173004200000001SA    | All Employees: Retail Trade in Clarksville, TN-KY (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU47173004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Clarksville, TN-KY (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47173004200000001SA    | All Employees: Retail Trade in Clarksville, TN-KY (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU47173004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Clarksville, TN-KY (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47173004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Clarksville, TN-KY (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU47173004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Clarksville, TN-KY (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU47173004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Clarksville, TN-KY (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU47173005000000001A     | All Employees: Information in Clarksville, TN-KY (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU47173005500000001A     | All Employees: Financial Activities in Clarksville, TN-KY (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU47173006000000001A     | All Employees: Professional and Business Services in Clarksville, TN-KY (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -146,13 +146,13 @@
 | SMU47173007000000001A     | All Employees: Leisure and Hospitality in Clarksville, TN-KY (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU47173008000000001A     | All Employees: Other Services in Clarksville, TN-KY (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU47173009000000001A     | All Employees: Government in Clarksville, TN-KY (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU47173009091000001      | All Employees: Government: Federal Government in Clarksville, TN-KY (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU47173009091000001      | All Employees: Government: Federal Government in Clarksville, TN-KY (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU47173009091000001A     | All Employees: Federal Government in Clarksville, TN-KY (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU47173009091000001SA    | All Employees: Government: Federal Government in Clarksville, TN-KY (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU47173009092000001      | All Employees: Government: State Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47173009091000001SA    | All Employees: Government: Federal Government in Clarksville, TN-KY (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU47173009092000001      | All Employees: Government: State Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47173009092000001A     | All Employees: State Government in Clarksville, TN-KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47173009092000001SA    | All Employees: Government: State Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU47173009093000001      | All Employees: Government: Local Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47173009092000001SA    | All Employees: Government: State Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU47173009093000001      | All Employees: Government: Local Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU47173009093000001A     | All Employees: Local Government in Clarksville, TN-KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU47173009093000001SA    | All Employees: Government: Local Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU47173009093000001SA    | All Employees: Government: Local Government in Clarksville, TN-KY (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA17300              | Market Hotness: Supply Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

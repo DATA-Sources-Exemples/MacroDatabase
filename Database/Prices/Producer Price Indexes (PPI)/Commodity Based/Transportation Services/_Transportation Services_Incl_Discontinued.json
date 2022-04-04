@@ -1,8 +1,8 @@
 {
   "WPS301": {
     "id": "WPS301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Transportation of Freight and Mail",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -18,8 +18,8 @@
   },
   "WPS302": {
     "id": "WPS302",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Transportation of Passengers (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -35,8 +35,8 @@
   },
   "WPS312": {
     "id": "WPS312",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Services Related to Air Transportation",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -52,8 +52,8 @@
   },
   "WPS3011": {
     "id": "WPS3011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Freight and Mail",
     "observation_start": "2008-12-01",
     "observation_end": "2012-12-01",
@@ -65,12 +65,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:02-06",
     "popularity": 3,
-    "group_popularity": 20
+    "group_popularity": 18
   },
   "WPS3012": {
     "id": "WPS3012",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Truck Transportation of Freight",
     "observation_start": "2009-06-01",
     "observation_end": "2011-12-01",
@@ -81,13 +81,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2017-02-14 09:57:15-06",
-    "popularity": 29,
-    "group_popularity": 48
+    "popularity": 27,
+    "group_popularity": 47
   },
   "WPS3016": {
     "id": "WPS3016",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Courier, Messenger, and U.S. Postal Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -99,12 +99,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:47-05",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "WPS3022": {
     "id": "WPS3022",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Airline Passenger Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -115,13 +115,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:46-05",
-    "popularity": 1,
-    "group_popularity": 7
+    "popularity": 2,
+    "group_popularity": 6
   },
   "WPS3121": {
     "id": "WPS3121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Other Airport Operations, Excluding Aircraft Maintenance and Repair",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -137,8 +137,8 @@
   },
   "WPS301101": {
     "id": "WPS301101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Freight and Mail",
     "observation_start": "2008-12-01",
     "observation_end": "2012-12-01",
@@ -149,13 +149,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:07-06",
-    "popularity": 6,
-    "group_popularity": 20
+    "popularity": 4,
+    "group_popularity": 18
   },
   "WPS301201": {
     "id": "WPS301201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Local Motor Carrying",
     "observation_start": "2009-06-01",
     "observation_end": "2011-12-01",
@@ -166,13 +166,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2017-02-14 09:57:15-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 3
   },
   "WPS301202": {
     "id": "WPS301202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Long-Distance Motor Carrying",
     "observation_start": "2009-06-01",
     "observation_end": "2011-12-01",
@@ -183,13 +183,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2017-02-14 09:57:14-06",
-    "popularity": 1,
-    "group_popularity": 15
+    "popularity": 2,
+    "group_popularity": 9
   },
   "WPS301303": {
     "id": "WPS301303",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Great Lakes-St. Lawrence Seaway Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2010-12-01",
@@ -205,8 +205,8 @@
   },
   "WPS301602": {
     "id": "WPS301602",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Courier and Messenger Services, Except Air",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -222,8 +222,8 @@
   },
   "WPS301603": {
     "id": "WPS301603",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Air Mail and Package Delivery Services, Excluding by USPS",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -235,12 +235,12 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:02-05",
     "popularity": 4,
-    "group_popularity": 5
+    "group_popularity": 6
   },
   "WPS302201": {
     "id": "WPS302201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Airline Passenger Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -251,13 +251,13 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:02-05",
-    "popularity": 3,
-    "group_popularity": 7
+    "popularity": 2,
+    "group_popularity": 6
   },
   "WPS312101": {
     "id": "WPS312101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Other Airport Operations, Excluding Aircraft Maintenance and Repair",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -273,8 +273,8 @@
   },
   "WPU30": {
     "id": "WPU30",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -285,13 +285,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:30-05",
-    "popularity": 14,
-    "group_popularity": 14
+    "popularity": 11,
+    "group_popularity": 11
   },
   "WPU31": {
     "id": "WPU31",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -302,13 +302,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:26-05",
-    "popularity": 2,
-    "group_popularity": 2
+    "popularity": 3,
+    "group_popularity": 3
   },
   "WPU301": {
     "id": "WPU301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Transportation of Freight and Mail",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -319,13 +319,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:23-05",
-    "popularity": 2,
+    "popularity": 3,
     "group_popularity": 3
   },
   "WPU302": {
     "id": "WPU302",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Transportation of Passengers (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -341,8 +341,8 @@
   },
   "WPU311": {
     "id": "WPU311",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Services Related to Water Transportation",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -358,8 +358,8 @@
   },
   "WPU312": {
     "id": "WPU312",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Services Related to Air Transportation",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -375,8 +375,8 @@
   },
   "WPU313": {
     "id": "WPU313",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Other Services Related to Transportation Activities (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -392,8 +392,8 @@
   },
   "WPU3011": {
     "id": "WPU3011",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Freight and Mail",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -404,13 +404,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:20-05",
-    "popularity": 12,
-    "group_popularity": 20
+    "popularity": 14,
+    "group_popularity": 18
   },
   "WPU3012": {
     "id": "WPU3012",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Truck Transportation of Freight",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -421,13 +421,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:05-05",
-    "popularity": 45,
-    "group_popularity": 48
+    "popularity": 44,
+    "group_popularity": 47
   },
   "WPU3013": {
     "id": "WPU3013",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Water Transportation of Freight",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -438,13 +438,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:56-05",
-    "popularity": 10,
-    "group_popularity": 10
+    "popularity": 9,
+    "group_popularity": 9
   },
   "WPU3014": {
     "id": "WPU3014",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Air Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -455,13 +455,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:29-05",
-    "popularity": 14,
-    "group_popularity": 15
+    "popularity": 11,
+    "group_popularity": 11
   },
   "WPU3015": {
     "id": "WPU3015",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Pipeline Transportation (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -477,8 +477,8 @@
   },
   "WPU3016": {
     "id": "WPU3016",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Courier, Messenger, and U.S. Postal Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -490,12 +490,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:35-05",
     "popularity": 1,
-    "group_popularity": 2
+    "group_popularity": 1
   },
   "WPU3021": {
     "id": "WPU3021",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Passengers",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -511,8 +511,8 @@
   },
   "WPU3022": {
     "id": "WPU3022",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Airline Passenger Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -523,13 +523,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:54-05",
-    "popularity": 5,
-    "group_popularity": 7
+    "popularity": 3,
+    "group_popularity": 6
   },
   "WPU3111": {
     "id": "WPU3111",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Towing, Tugging, Docking, and Related Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -545,8 +545,8 @@
   },
   "WPU3112": {
     "id": "WPU3112",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Operation of Port Waterfront Terminals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -562,8 +562,8 @@
   },
   "WPU3113": {
     "id": "WPU3113",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Marine Cargo Handling",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -579,8 +579,8 @@
   },
   "WPU3121": {
     "id": "WPU3121",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Other Airport Operations, Excluding Aircraft Maintenance and Repair",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -596,8 +596,8 @@
   },
   "WPU3131": {
     "id": "WPU3131",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Arrangement of Freight and Cargo",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -608,13 +608,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:31-05",
-    "popularity": 5,
-    "group_popularity": 6
+    "popularity": 2,
+    "group_popularity": 2
   },
   "WPU3132": {
     "id": "WPU3132",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Freight Forwarding",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -625,13 +625,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:30-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2
   },
   "WPU301101": {
     "id": "WPU301101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Freight and Mail",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -642,13 +642,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:54-05",
-    "popularity": 2,
-    "group_popularity": 20
+    "popularity": 3,
+    "group_popularity": 18
   },
   "WPU301201": {
     "id": "WPU301201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Local Motor Carrying",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -659,13 +659,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:37-05",
-    "popularity": 1,
+    "popularity": 2,
     "group_popularity": 3
   },
   "WPU301202": {
     "id": "WPU301202",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Long-Distance Motor Carrying",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -676,13 +676,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:42-05",
-    "popularity": 13,
-    "group_popularity": 15
+    "popularity": 7,
+    "group_popularity": 9
   },
   "WPU301301": {
     "id": "WPU301301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Deep Sea Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -693,13 +693,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:10-05",
-    "popularity": 27,
-    "group_popularity": 28
+    "popularity": 25,
+    "group_popularity": 27
   },
   "WPU301302": {
     "id": "WPU301302",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Coastal and Intercoastal Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -715,8 +715,8 @@
   },
   "WPU301303": {
     "id": "WPU301303",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Great Lakes-St. Lawrence Seaway Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -732,8 +732,8 @@
   },
   "WPU301304": {
     "id": "WPU301304",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Inland Waterways Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -749,8 +749,8 @@
   },
   "WPU301401": {
     "id": "WPU301401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Air Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -762,12 +762,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:35-05",
     "popularity": 1,
-    "group_popularity": 15
+    "group_popularity": 11
   },
   "WPU301501": {
     "id": "WPU301501",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Pipeline Transportation of Petroleum Products",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -783,8 +783,8 @@
   },
   "WPU301601": {
     "id": "WPU301601",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: U.S. Postal Service",
     "observation_start": "1972-01-01",
     "observation_end": "2022-02-01",
@@ -800,8 +800,8 @@
   },
   "WPU301602": {
     "id": "WPU301602",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Courier and Messenger Services, Except Air",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -817,8 +817,8 @@
   },
   "WPU301603": {
     "id": "WPU301603",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Air Mail and Package Delivery Services, Excluding by USPS",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -829,13 +829,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:34-05",
-    "popularity": 1,
-    "group_popularity": 5
+    "popularity": 2,
+    "group_popularity": 6
   },
   "WPU302101": {
     "id": "WPU302101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Passengers",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -851,8 +851,8 @@
   },
   "WPU302201": {
     "id": "WPU302201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Airline Passenger Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -864,12 +864,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:33-05",
     "popularity": 1,
-    "group_popularity": 7
+    "group_popularity": 6
   },
   "WPU311101": {
     "id": "WPU311101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Towing, Tugging, Docking and Related Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -885,8 +885,8 @@
   },
   "WPU311201": {
     "id": "WPU311201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Operation of Port Waterfront Terminals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -902,8 +902,8 @@
   },
   "WPU311301": {
     "id": "WPU311301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Marine Cargo Handling",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -919,8 +919,8 @@
   },
   "WPU312101": {
     "id": "WPU312101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Other Airport Operations, Excluding Aircraft Maintenance and Repair",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -936,8 +936,8 @@
   },
   "WPU313101": {
     "id": "WPU313101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Arrangement of Freight and Cargo",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -949,12 +949,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:31-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 2
   },
   "WPU313201": {
     "id": "WPU313201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Freight Forwarding",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -970,8 +970,8 @@
   },
   "WPU30110101": {
     "id": "WPU30110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Freight and Mail",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -982,13 +982,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:26-05",
-    "popularity": 5,
-    "group_popularity": 20
+    "popularity": 3,
+    "group_popularity": 18
   },
   "WPU30120101": {
     "id": "WPU30120101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Local Motor Carrying",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -1004,8 +1004,8 @@
   },
   "WPU30120201": {
     "id": "WPU30120201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Long-Distance Motor Carrying",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -1016,13 +1016,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:23-05",
-    "popularity": 3,
-    "group_popularity": 15
+    "popularity": 2,
+    "group_popularity": 9
   },
   "WPU30130101": {
     "id": "WPU30130101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Deep Sea Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1033,13 +1033,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:23-05",
-    "popularity": 4,
-    "group_popularity": 28
+    "popularity": 5,
+    "group_popularity": 27
   },
   "WPU30130201": {
     "id": "WPU30130201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Coastal and Intercoastal Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1055,8 +1055,8 @@
   },
   "WPU30130301": {
     "id": "WPU30130301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Great Lakes-St. Lawrence Seaway Water Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1072,8 +1072,8 @@
   },
   "WPU30130401": {
     "id": "WPU30130401",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Inland Waterways Transportation of Freight",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1084,13 +1084,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:23-05",
-    "popularity": 1,
+    "popularity": 2,
     "group_popularity": 2
   },
   "WPU30140101": {
     "id": "WPU30140101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity for Transportation Services: Air Transportation of Freight (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2016-01-01",
@@ -1106,8 +1106,8 @@
   },
   "WPU30150101": {
     "id": "WPU30150101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Pipeline Transportation of Crude Petroleum",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1123,8 +1123,8 @@
   },
   "WPU30150102": {
     "id": "WPU30150102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Pipeline Transportation of Refined Petroleum Products",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1140,8 +1140,8 @@
   },
   "WPU30160107": {
     "id": "WPU30160107",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Mailing Services (Market Dominant Services)",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -1157,8 +1157,8 @@
   },
   "WPU30160108": {
     "id": "WPU30160108",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Shipping Services (Competitive Services)",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -1169,13 +1169,13 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:10-05",
-    "popularity": 25,
-    "group_popularity": 25
+    "popularity": 22,
+    "group_popularity": 22
   },
   "WPU30160201": {
     "id": "WPU30160201",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Courier and Messenger Services, Except Air",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -1191,8 +1191,8 @@
   },
   "WPU30160301": {
     "id": "WPU30160301",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Air Mail and Package Delivery Services, Excluding by USPS",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -1204,12 +1204,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:33-05",
     "popularity": 1,
-    "group_popularity": 5
+    "group_popularity": 6
   },
   "WPU30210101": {
     "id": "WPU30210101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Rail Transportation of Passengers",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1225,8 +1225,8 @@
   },
   "WPU30220101": {
     "id": "WPU30220101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Airline Passenger Services, Domestic",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1242,8 +1242,8 @@
   },
   "WPU30220102": {
     "id": "WPU30220102",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Airline Passenger Services, International",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1259,8 +1259,8 @@
   },
   "WPU31110101": {
     "id": "WPU31110101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Towing, Tugging, Docking and Related Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -1276,8 +1276,8 @@
   },
   "WPU31120101": {
     "id": "WPU31120101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Operation of Port Waterfront Terminals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1293,8 +1293,8 @@
   },
   "WPU31130101": {
     "id": "WPU31130101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Marine Cargo Handling",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1310,8 +1310,8 @@
   },
   "WPU31210101": {
     "id": "WPU31210101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Other Airport Operations, Excluding Aircraft Maintenance and Repair",
     "observation_start": "2009-04-01",
     "observation_end": "2022-02-01",
@@ -1327,8 +1327,8 @@
   },
   "WPU31310101": {
     "id": "WPU31310101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Arrangement of Freight and Cargo",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1340,12 +1340,12 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:30-05",
     "popularity": 1,
-    "group_popularity": 6
+    "group_popularity": 2
   },
   "WPU31320101": {
     "id": "WPU31320101",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Services Related to Transportation Activities: Freight Forwarding",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1361,8 +1361,8 @@
   },
   "WPU301601071": {
     "id": "WPU301601071",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: First Class Mail",
     "observation_start": "1972-01-01",
     "observation_end": "2022-02-01",
@@ -1378,8 +1378,8 @@
   },
   "WPU301601072": {
     "id": "WPU301601072",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Periodicals Mail",
     "observation_start": "1972-01-01",
     "observation_end": "2022-02-01",
@@ -1395,8 +1395,8 @@
   },
   "WPU301601073": {
     "id": "WPU301601073",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Standard Class Mail",
     "observation_start": "1972-01-01",
     "observation_end": "2022-02-01",
@@ -1412,8 +1412,8 @@
   },
   "WPU301601074": {
     "id": "WPU301601074",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Package Services Mail",
     "observation_start": "1972-01-01",
     "observation_end": "2022-02-01",
@@ -1429,8 +1429,8 @@
   },
   "WPU301601075": {
     "id": "WPU301601075",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
+    "realtime_start": "2022-03-28",
+    "realtime_end": "2022-03-28",
     "title": "Producer Price Index by Commodity: Transportation Services: Special Services and Fees",
     "observation_start": "1972-01-01",
     "observation_end": "2022-02-01",

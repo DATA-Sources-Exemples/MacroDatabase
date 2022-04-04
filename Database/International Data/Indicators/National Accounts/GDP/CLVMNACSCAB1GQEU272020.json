@@ -1,7 +1,7 @@
 {
   "id": "CLVMNACSCAB1GQEU272020",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real Gross Domestic Product for European Union (27 countries from 2020)",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-08 04:02:11-06",
   "popularity": 8,
-  "group_popularity": 15,
+  "group_popularity": 18,
   "notes": "Eurostat unit ID: CLV10_MNAC \n\nEurostat item ID = B1GQ \n\nEurostat country ID: EU27_2020 \n\nSeasonally and calendar adjusted data. \n\nFor euro area member states, the national currency series are converted into euros using the irrevocably fixed exchange rate. This preserves the same growth rates than for the previous national currency series. Both series coincide for years after accession to the euro area but differ for earlier years due to market exchange rate movements. \n\nEuropean Union (27 countries from 2020) represents the 2020 reduction in the European Union countries due to the departure of the United Kindom. European Union (27 countries): Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, the Netherlands, Portugal, Austria, Finland, Sweden, Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovenia, Slovakia, Bulgaria, Romania, and Croatia. \n\nCopyright, European Union, https://ec.europa.eu, 1995-2016. Complete terms of use are available here (https://ec.europa.eu/info/legal-notice_en#copyright)."
 }

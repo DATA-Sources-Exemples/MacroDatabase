@@ -1,7 +1,7 @@
 {
   "id": "M1424CUSM144NNBR",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "National Bank Notes Outstanding, Outside Treasury and Federal Reserve Banks for United States",
   "observation_start": "1914-11-01",
   "observation_end": "1949-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:33:38-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1864-1879 (2)--Original Data, 1874-1919 (3)--Original Data, 1914-1949. Data For August 1914-January 1915 Include Additional Circulating Notes Issued Under Authority Of The Act Of May 30, 1908 As Amended By Acts Of December 23, 1913 And August 4, 1914. Retirement Of National Bank Notes Began In July 1935. Source: Federal Reserve Board, Data For 1914-1941: Banking And Monetary Statistics. Data For 1942-1949: Federal Reserve Board Bulletins, Monthly.\n\nThis NBER data series m14124c appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14124c"
 }

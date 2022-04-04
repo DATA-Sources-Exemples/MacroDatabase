@@ -4,35 +4,35 @@
 | ACTLISCOU10740            | Housing Inventory: Active Listing Count in Albuquerque, NM (CBSA)                                                | 2016-07-01          | 2022-01-01        |
 | ACTLISCOUMM10740          | Housing Inventory: Active Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                               | 2017-07-01          | 2022-01-01        |
 | ACTLISCOUYY10740          | Housing Inventory: Active Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                 | 2017-07-01          | 2022-01-01        |
-| ALBU735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-01-01        |
-| ALBU735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-01-01        |
-| ALBU735BPPRIV             | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-01-01        |
-| ALBU735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-01-01        |
-| ALBU735EDUH               | All Employees: Education and Health Services in Albuquerque, NM (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ALBU735EDUHN              | All Employees: Education and Health Services in Albuquerque, NM (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| ALBU735FIRE               | All Employees: Financial Activities in Albuquerque, NM (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ALBU735FIREN              | All Employees: Financial Activities in Albuquerque, NM (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ALBU735GOVT               | All Employees: Government in Albuquerque, NM (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ALBU735GOVTN              | All Employees: Government in Albuquerque, NM (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ALBU735INFO               | All Employees: Information in Albuquerque, NM (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ALBU735INFON              | All Employees: Information in Albuquerque, NM (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| ALBU735LEIH               | All Employees: Leisure and Hospitality in Albuquerque, NM (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| ALBU735LEIHN              | All Employees: Leisure and Hospitality in Albuquerque, NM (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| ALBU735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-02-01        |
+| ALBU735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-02-01        |
+| ALBU735BPPRIV             | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-02-01        |
+| ALBU735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-02-01        |
+| ALBU735EDUH               | All Employees: Education and Health Services in Albuquerque, NM (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ALBU735EDUHN              | All Employees: Education and Health Services in Albuquerque, NM (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| ALBU735FIRE               | All Employees: Financial Activities in Albuquerque, NM (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ALBU735FIREN              | All Employees: Financial Activities in Albuquerque, NM (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| ALBU735GOVT               | All Employees: Government in Albuquerque, NM (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ALBU735GOVTN              | All Employees: Government in Albuquerque, NM (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| ALBU735INFO               | All Employees: Information in Albuquerque, NM (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ALBU735INFON              | All Employees: Information in Albuquerque, NM (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| ALBU735LEIH               | All Employees: Leisure and Hospitality in Albuquerque, NM (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| ALBU735LEIHN              | All Employees: Leisure and Hospitality in Albuquerque, NM (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | ALBU735LF                 | Civilian Labor Force in Albuquerque, NM (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | ALBU735LFN                | Civilian Labor Force in Albuquerque, NM (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| ALBU735MFG                | All Employees: Manufacturing in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ALBU735MFGN               | All Employees: Manufacturing in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ALBU735NA                 | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ALBU735NAN                | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| ALBU735NRMN               | All Employees: Mining, Logging, and Construction in Albuquerque, NM (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ALBU735NRMNN              | All Employees: Mining, Logging, and Construction in Albuquerque, NM (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ALBU735PBSV               | All Employees: Professional and Business Services in Albuquerque, NM (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| ALBU735PBSVN              | All Employees: Professional and Business Services in Albuquerque, NM (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| ALBU735MFG                | All Employees: Manufacturing in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ALBU735MFGN               | All Employees: Manufacturing in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ALBU735NA                 | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ALBU735NAN                | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| ALBU735NRMN               | All Employees: Mining, Logging, and Construction in Albuquerque, NM (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ALBU735NRMNN              | All Employees: Mining, Logging, and Construction in Albuquerque, NM (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| ALBU735PBSV               | All Employees: Professional and Business Services in Albuquerque, NM (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| ALBU735PBSVN              | All Employees: Professional and Business Services in Albuquerque, NM (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | ALBU735PCPI               | Per Capita Personal Income in Albuquerque, NM (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| ALBU735SRVO               | All Employees: Other Services in Albuquerque, NM (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ALBU735SRVON              | All Employees: Other Services in Albuquerque, NM (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ALBU735TRAD               | All Employees: Trade, Transportation, and Utilities in Albuquerque, NM (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| ALBU735TRADN              | All Employees: Trade, Transportation, and Utilities in Albuquerque, NM (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ALBU735SRVO               | All Employees: Other Services in Albuquerque, NM (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ALBU735SRVON              | All Employees: Other Services in Albuquerque, NM (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| ALBU735TRAD               | All Employees: Trade, Transportation, and Utilities in Albuquerque, NM (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| ALBU735TRADN              | All Employees: Trade, Transportation, and Utilities in Albuquerque, NM (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | ALBU735UR                 | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ALBU735URN                | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | ATNHPIUS10740Q            | All-Transactions House Price Index for Albuquerque, NM (MSA)                                                     | 1977-07-01          | 2021-10-01        |
@@ -56,7 +56,7 @@
 | HORAMSA10740              | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-01-01        |
 | HORAYYMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2018-08-01          | 2022-01-01        |
 | HOSCMSA10740              | Market Hotness: Hotness Score in Albuquerque, NM (CBSA)                                                          | 2017-08-01          | 2022-01-01        |
-| IHLCHG10740               | Job Postings on Indeed in Albuquerque, NM (MSA)                                                                  | 2020-02-01          | 2022-03-11        |
+| IHLCHG10740               | Job Postings on Indeed in Albuquerque, NM (MSA)                                                                  | 2020-02-01          | 2022-03-18        |
 | IRPD10740                 | Implicit Regional Price Deflator for Albuquerque, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT351074000000003A     | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
 | LAUMT351074000000004      | Unemployed Persons in Albuquerque, NM (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
@@ -112,41 +112,41 @@
 | RPPGOOD10740              | Regional Price Parities: Goods for Albuquerque, NM (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH10740          | Regional Price Parities: Services: Other for Albuquerque, NM (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT10740         | Regional Price Parities: Services: Rents for Albuquerque, NM (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS35107400000000026      | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS35107400000000026      | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU35107400000000001A     | All Employees: Total Nonfarm in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU35107400500000001      | All Employees: Total Private in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU35107400500000001      | All Employees: Total Private in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU35107400500000001A     | All Employees: Total Private in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU35107400500000001SA    | All Employees: Total Private in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU35107400500000002      | Average Weekly Hours of All Employees: Total Private in Albuquerque, NM (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU35107400500000001SA    | All Employees: Total Private in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU35107400500000002      | Average Weekly Hours of All Employees: Total Private in Albuquerque, NM (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU35107400500000002A     | Average Weekly Hours of All Employees: Total Private in Albuquerque, NM (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU35107400500000002SA    | Average Weekly Hours of All Employees: Total Private in Albuquerque, NM (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU35107400500000003      | Average Hourly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU35107400500000002SA    | Average Weekly Hours of All Employees: Total Private in Albuquerque, NM (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU35107400500000003      | Average Hourly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU35107400500000003A     | Average Hourly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU35107400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU35107400500000011      | Average Weekly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU35107400500000003SA    | Average Hourly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU35107400500000011      | Average Weekly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU35107400500000011A     | Average Weekly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU35107400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU35107400600000001      | All Employees: Goods Producing in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU35107400500000011SA    | Average Weekly Earnings of All Employees: Total Private in Albuquerque, NM (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU35107400600000001      | All Employees: Goods Producing in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU35107400600000001A     | All Employees: Goods Producing in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU35107400600000001SA    | All Employees: Goods Producing in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU35107400700000001      | All Employees: Service-Providing in Albuquerque, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU35107400600000001SA    | All Employees: Goods Producing in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU35107400700000001      | All Employees: Service-Providing in Albuquerque, NM (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU35107400700000001A     | All Employees: Service-Providing in Albuquerque, NM (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU35107400700000001SA    | All Employees: Service-Providing in Albuquerque, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU35107400800000001      | All Employees: Private Service Providing in Albuquerque, NM (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU35107400700000001SA    | All Employees: Service-Providing in Albuquerque, NM (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU35107400800000001      | All Employees: Private Service Providing in Albuquerque, NM (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU35107400800000001A     | All Employees: Private Service Providing in Albuquerque, NM (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU35107400800000001SA    | All Employees: Private Service Providing in Albuquerque, NM (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU35107400800000001SA    | All Employees: Private Service Providing in Albuquerque, NM (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU35107401500000001A     | All Employees: Mining, Logging, and Construction in Albuquerque, NM (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU35107403000000001A     | All Employees: Manufacturing in Albuquerque, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU35107404000000001A     | All Employees: Trade, Transportation, and Utilities in Albuquerque, NM (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU35107404100000001      | All Employees: Wholesale Trade in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU35107404100000001      | All Employees: Wholesale Trade in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU35107404100000001A     | All Employees: Wholesale Trade in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU35107404100000001SA    | All Employees: Wholesale Trade in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU35107404200000001      | All Employees: Retail Trade in Albuquerque, NM (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU35107404100000001SA    | All Employees: Wholesale Trade in Albuquerque, NM (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU35107404200000001      | All Employees: Retail Trade in Albuquerque, NM (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU35107404200000001A     | All Employees: Retail Trade in Albuquerque, NM (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU35107404200000001SA    | All Employees: Retail Trade in Albuquerque, NM (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU35107404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Albuquerque, NM (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU35107404200000001SA    | All Employees: Retail Trade in Albuquerque, NM (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU35107404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Albuquerque, NM (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU35107404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Albuquerque, NM (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU35107404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Albuquerque, NM (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU35107404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Albuquerque, NM (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU35107405000000001A     | All Employees: Information in Albuquerque, NM (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU35107405500000001A     | All Employees: Financial Activities in Albuquerque, NM (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU35107406000000001A     | All Employees: Professional and Business Services in Albuquerque, NM (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -154,13 +154,13 @@
 | SMU35107407000000001A     | All Employees: Leisure and Hospitality in Albuquerque, NM (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU35107408000000001A     | All Employees: Other Services in Albuquerque, NM (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU35107409000000001A     | All Employees: Government in Albuquerque, NM (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU35107409091000001      | All Employees: Government: Federal Government in Albuquerque, NM (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU35107409091000001      | All Employees: Government: Federal Government in Albuquerque, NM (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU35107409091000001A     | All Employees: Federal Government in Albuquerque, NM (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU35107409091000001SA    | All Employees: Government: Federal Government in Albuquerque, NM (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU35107409092000001      | All Employees: Government: State Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU35107409091000001SA    | All Employees: Government: Federal Government in Albuquerque, NM (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU35107409092000001      | All Employees: Government: State Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU35107409092000001A     | All Employees: State Government in Albuquerque, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU35107409092000001SA    | All Employees: Government: State Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU35107409093000001      | All Employees: Government: Local Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU35107409092000001SA    | All Employees: Government: State Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU35107409093000001      | All Employees: Government: Local Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU35107409093000001A     | All Employees: Local Government in Albuquerque, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU35107409093000001SA    | All Employees: Government: Local Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU35107409093000001SA    | All Employees: Government: Local Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA10740              | Market Hotness: Supply Score in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

@@ -1,7 +1,7 @@
 {
   "id": "WPS0181",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Producer Price Index by Commodity: Farm Products: Hay and Hayseeds",
   "observation_start": "1975-01-01",
   "observation_end": "2015-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:19-06",
   "popularity": 1,
-  "group_popularity": 23
+  "group_popularity": 22
 }

@@ -60,61 +60,61 @@
 | RPPGOOD48700              | Regional Price Parities: Goods for Williamsport, PA (MSA)                                           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH48700          | Regional Price Parities: Services: Other for Williamsport, PA (MSA)                                 | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT48700         | Regional Price Parities: Services: Rents for Williamsport, PA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS42487000000000026      | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1990-04-01          | 2022-01-01        |
+| SMS42487000000000026      | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1990-04-01          | 2022-02-01        |
 | SMU42487000000000001A     | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1971-01-01          | 2021-01-01        |
-| SMU42487000500000001      | All Employees: Total Private in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
+| SMU42487000500000001      | All Employees: Total Private in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
 | SMU42487000500000001A     | All Employees: Total Private in Williamsport, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU42487000500000001SA    | All Employees: Total Private in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| SMU42487000500000002      | Average Weekly Hours of All Employees: Total Private in Williamsport, PA (MSA)                      | 2007-01-01          | 2022-01-01        |
+| SMU42487000500000001SA    | All Employees: Total Private in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| SMU42487000500000002      | Average Weekly Hours of All Employees: Total Private in Williamsport, PA (MSA)                      | 2007-01-01          | 2022-02-01        |
 | SMU42487000500000002A     | Average Weekly Hours of All Employees: Total Private in Williamsport, PA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU42487000500000002SA    | Average Weekly Hours of All Employees: Total Private in Williamsport, PA (MSA)                      | 2007-01-01          | 2022-01-01        |
-| SMU42487000500000003      | Average Hourly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU42487000500000002SA    | Average Weekly Hours of All Employees: Total Private in Williamsport, PA (MSA)                      | 2007-01-01          | 2022-02-01        |
+| SMU42487000500000003      | Average Hourly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU42487000500000003A     | Average Hourly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42487000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU42487000500000011      | Average Weekly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
+| SMU42487000500000003SA    | Average Hourly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU42487000500000011      | Average Weekly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
 | SMU42487000500000011A     | Average Weekly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU42487000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-01-01        |
-| SMU42487000600000001      | All Employees: Goods Producing in Williamsport, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
+| SMU42487000500000011SA    | Average Weekly Earnings of All Employees: Total Private in Williamsport, PA (MSA)                   | 2007-01-01          | 2022-02-01        |
+| SMU42487000600000001      | All Employees: Goods Producing in Williamsport, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
 | SMU42487000600000001A     | All Employees: Goods Producing in Williamsport, PA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU42487000600000001SA    | All Employees: Goods Producing in Williamsport, PA (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| SMU42487000700000001      | All Employees: Service-Providing in Williamsport, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
+| SMU42487000600000001SA    | All Employees: Goods Producing in Williamsport, PA (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SMU42487000700000001      | All Employees: Service-Providing in Williamsport, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
 | SMU42487000700000001A     | All Employees: Service-Providing in Williamsport, PA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU42487000700000001SA    | All Employees: Service-Providing in Williamsport, PA (MSA)                                          | 1990-01-01          | 2022-01-01        |
-| SMU42487000800000001      | All Employees: Private Service Providing in Williamsport, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU42487000700000001SA    | All Employees: Service-Providing in Williamsport, PA (MSA)                                          | 1990-01-01          | 2022-02-01        |
+| SMU42487000800000001      | All Employees: Private Service Providing in Williamsport, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU42487000800000001A     | All Employees: Private Service Providing in Williamsport, PA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU42487000800000001SA    | All Employees: Private Service Providing in Williamsport, PA (MSA)                                  | 1990-01-01          | 2022-01-01        |
+| SMU42487000800000001SA    | All Employees: Private Service Providing in Williamsport, PA (MSA)                                  | 1990-01-01          | 2022-02-01        |
 | SMU42487003000000001A     | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU42487004000000001A     | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU42487004200000001      | All Employees: Retail Trade in Williamsport, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU42487004200000001      | All Employees: Retail Trade in Williamsport, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU42487004200000001A     | All Employees: Retail Trade in Williamsport, PA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU42487004200000001SA    | All Employees: Retail Trade in Williamsport, PA (MSA)                                               | 1990-01-01          | 2022-01-01        |
+| SMU42487004200000001SA    | All Employees: Retail Trade in Williamsport, PA (MSA)                                               | 1990-01-01          | 2022-02-01        |
 | SMU42487006500000001A     | All Employees: Education and Health Services in Williamsport, PA (MSA)                              | 1990-01-01          | 2021-01-01        |
 | SMU42487007000000001A     | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU42487009000000001A     | All Employees: Government in Williamsport, PA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU42487009091000001      | All Employees: Government: Federal Government in Williamsport, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
+| SMU42487009091000001      | All Employees: Government: Federal Government in Williamsport, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
 | SMU42487009091000001A     | All Employees: Federal Government in Williamsport, PA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU42487009091000001SA    | All Employees: Government: Federal Government in Williamsport, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| SMU42487009092000001      | All Employees: Government: State Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42487009091000001SA    | All Employees: Government: Federal Government in Williamsport, PA (MSA)                             | 1990-01-01          | 2022-02-01        |
+| SMU42487009092000001      | All Employees: Government: State Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU42487009092000001A     | All Employees: State Government in Williamsport, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU42487009092000001SA    | All Employees: Government: State Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| SMU42487009093000001      | All Employees: Government: Local Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
+| SMU42487009092000001SA    | All Employees: Government: State Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| SMU42487009093000001      | All Employees: Government: Local Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
 | SMU42487009093000001A     | All Employees: Local Government in Williamsport, PA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU42487009093000001SA    | All Employees: Government: Local Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| WILL742EDUH               | All Employees: Education and Health Services in Williamsport, PA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| WILL742EDUHN              | All Employees: Education and Health Services in Williamsport, PA (MSA)                              | 1990-01-01          | 2022-01-01        |
-| WILL742GOVT               | All Employees: Government in Williamsport, PA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| WILL742GOVTN              | All Employees: Government in Williamsport, PA (MSA)                                                 | 1990-01-01          | 2022-01-01        |
-| WILL742LEIH               | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| WILL742LEIHN              | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| SMU42487009093000001SA    | All Employees: Government: Local Government in Williamsport, PA (MSA)                               | 1990-01-01          | 2022-02-01        |
+| WILL742EDUH               | All Employees: Education and Health Services in Williamsport, PA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| WILL742EDUHN              | All Employees: Education and Health Services in Williamsport, PA (MSA)                              | 1990-01-01          | 2022-02-01        |
+| WILL742GOVT               | All Employees: Government in Williamsport, PA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| WILL742GOVTN              | All Employees: Government in Williamsport, PA (MSA)                                                 | 1990-01-01          | 2022-02-01        |
+| WILL742LEIH               | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2022-02-01        |
+| WILL742LEIHN              | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2022-02-01        |
 | WILL742LF                 | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
 | WILL742LFN                | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2022-01-01        |
-| WILL742MFG                | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WILL742MFGN               | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WILL742NA                 | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-01-01        |
-| WILL742NAN                | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1971-01-01          | 2022-01-01        |
+| WILL742MFG                | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WILL742MFGN               | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WILL742NA                 | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-02-01        |
+| WILL742NAN                | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1971-01-01          | 2022-02-01        |
 | WILL742PCPI               | Per Capita Personal Income in Williamsport, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| WILL742TRAD               | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
-| WILL742TRADN              | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2022-01-01        |
+| WILL742TRAD               | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
+| WILL742TRADN              | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2022-02-01        |
 | WILL742UR                 | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
 | WILL742URN                | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2022-01-01        |
-| WSPPOP                    | Resident Population in Williamsport, PA (MSA)                                                       | 2000-01-01          | 2020-01-01        |
+| WSPPOP                    | Resident Population in Williamsport, PA (MSA)                                                       | 2000-01-01          | 2021-01-01        |

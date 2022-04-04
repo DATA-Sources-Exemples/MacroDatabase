@@ -1,7 +1,7 @@
 {
   "id": "A862RX1Q020SBEA",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Real gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Equipment: Other equipment",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 08:05:50-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: A862RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

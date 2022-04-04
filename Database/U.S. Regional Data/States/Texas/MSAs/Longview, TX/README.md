@@ -36,36 +36,36 @@
 | LDPEPRVSUSMSA30980        | Market Hotness: Listing Views per Property Versus the United States in Longview, TX (CBSA)                    | 2017-08-01          | 2022-01-01        |
 | LDPEPRYYMSA30980          | Market Hotness: Listing Views per Property in Longview, TX (CBSA)                                             | 2018-08-01          | 2022-01-01        |
 | LGMPOP                    | Resident Population in Longview, TX (MSA)                                                                     | 2000-01-01          | 2020-01-01        |
-| LONG948EDUH               | All Employees: Education and Health Services in Longview, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LONG948EDUHN              | All Employees: Education and Health Services in Longview, TX (MSA)                                            | 1990-01-01          | 2022-01-01        |
-| LONG948FIRE               | All Employees: Financial Activities in Longview, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LONG948FIREN              | All Employees: Financial Activities in Longview, TX (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| LONG948GOVT               | All Employees: Government in Longview, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LONG948GOVTN              | All Employees: Government in Longview, TX (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| LONG948INFO               | All Employees: Information in Longview, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LONG948INFON              | All Employees: Information in Longview, TX (MSA)                                                              | 1990-01-01          | 2022-01-01        |
-| LONG948LEIH               | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
-| LONG948LEIHN              | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2022-01-01        |
+| LONG948EDUH               | All Employees: Education and Health Services in Longview, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LONG948EDUHN              | All Employees: Education and Health Services in Longview, TX (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| LONG948FIRE               | All Employees: Financial Activities in Longview, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LONG948FIREN              | All Employees: Financial Activities in Longview, TX (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| LONG948GOVT               | All Employees: Government in Longview, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LONG948GOVTN              | All Employees: Government in Longview, TX (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| LONG948INFO               | All Employees: Information in Longview, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LONG948INFON              | All Employees: Information in Longview, TX (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| LONG948LEIH               | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| LONG948LEIHN              | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2022-02-01        |
 | LONG948LF                 | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
 | LONG948LFN                | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
-| LONG948MFG                | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LONG948MFGN               | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LONG948NA                 | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| LONG948NAN                | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1979-01-01          | 2022-01-01        |
-| LONG948NRMN               | All Employees: Mining, Logging, and Construction in Longview, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LONG948NRMNN              | All Employees: Mining, Logging, and Construction in Longview, TX (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| LONG948PBSV               | All Employees: Professional and Business Services in Longview, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| LONG948PBSVN              | All Employees: Professional and Business Services in Longview, TX (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| LONG948MFG                | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LONG948MFGN               | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LONG948NA                 | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| LONG948NAN                | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1979-01-01          | 2022-02-01        |
+| LONG948NRMN               | All Employees: Mining, Logging, and Construction in Longview, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LONG948NRMNN              | All Employees: Mining, Logging, and Construction in Longview, TX (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| LONG948PBSV               | All Employees: Professional and Business Services in Longview, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| LONG948PBSVN              | All Employees: Professional and Business Services in Longview, TX (MSA)                                       | 1990-01-01          | 2022-02-01        |
 | LONG948PCPI               | Per Capita Personal Income in Longview, TX (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| LONG948SRVO               | All Employees: Other Services in Longview, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LONG948SRVON              | All Employees: Other Services in Longview, TX (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| LONG948TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| LONG948TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| LONG948SRVO               | All Employees: Other Services in Longview, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LONG948SRVON              | All Employees: Other Services in Longview, TX (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| LONG948TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| LONG948TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-02-01        |
 | LONG948UR                 | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
 | LONG948URN                | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
-| LONSA158MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-02-01          | 2022-01-01        |
-| LONSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Longview, TX (MSA)                                             | 1990-02-01          | 2022-01-01        |
-| LONSA175MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-01-01          | 2022-01-01        |
+| LONSA158MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-02-01          | 2022-02-01        |
+| LONSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Longview, TX (MSA)                                             | 1990-02-01          | 2022-02-01        |
+| LONSA175MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-01-01          | 2022-02-01        |
 | LONSA674AFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA30980        | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2018-08-01          | 2022-01-01        |
 | MEDAONMAMSA30980          | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-01-01        |
@@ -118,44 +118,44 @@
 | RPPSERVEOTH31020          | Regional Price Parities: Services: Other for Longview, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT30980         | Regional Price Parities: Services: Rents for Longview, TX (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT31020         | Regional Price Parities: Services: Rents for Longview, WA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS48309800000000026      | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1990-04-01          | 2022-01-01        |
+| SMS48309800000000026      | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1990-04-01          | 2022-02-01        |
 | SMU48309800000000001A     | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1979-01-01          | 2021-01-01        |
-| SMU48309800500000001      | All Employees: Total Private in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
+| SMU48309800500000001      | All Employees: Total Private in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
 | SMU48309800500000001A     | All Employees: Total Private in Longview, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU48309800500000001SA    | All Employees: Total Private in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-01-01        |
-| SMU48309800500000002      | Average Weekly Hours of All Employees: Total Private in Longview, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
+| SMU48309800500000001SA    | All Employees: Total Private in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU48309800500000002      | Average Weekly Hours of All Employees: Total Private in Longview, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
 | SMU48309800500000002A     | Average Weekly Hours of All Employees: Total Private in Longview, TX (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU48309800500000002SA    | Average Weekly Hours of All Employees: Total Private in Longview, TX (MSA)                                    | 2007-01-01          | 2022-01-01        |
-| SMU48309800500000003      | Average Hourly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48309800500000002SA    | Average Weekly Hours of All Employees: Total Private in Longview, TX (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU48309800500000003      | Average Hourly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48309800500000003A     | Average Hourly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48309800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48309800500000011      | Average Weekly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
+| SMU48309800500000003SA    | Average Hourly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48309800500000011      | Average Weekly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
 | SMU48309800500000011A     | Average Weekly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU48309800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-01-01        |
-| SMU48309800600000001      | All Employees: Goods Producing in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48309800500000011SA    | Average Weekly Earnings of All Employees: Total Private in Longview, TX (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU48309800600000001      | All Employees: Goods Producing in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48309800600000001A     | All Employees: Goods Producing in Longview, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48309800600000001SA    | All Employees: Goods Producing in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48309800700000001      | All Employees: Service-Providing in Longview, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
+| SMU48309800600000001SA    | All Employees: Goods Producing in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48309800700000001      | All Employees: Service-Providing in Longview, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
 | SMU48309800700000001A     | All Employees: Service-Providing in Longview, TX (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU48309800700000001SA    | All Employees: Service-Providing in Longview, TX (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| SMU48309800800000001      | All Employees: Private Service Providing in Longview, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48309800700000001SA    | All Employees: Service-Providing in Longview, TX (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU48309800800000001      | All Employees: Private Service Providing in Longview, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48309800800000001A     | All Employees: Private Service Providing in Longview, TX (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU48309800800000001SA    | All Employees: Private Service Providing in Longview, TX (MSA)                                                | 1990-01-01          | 2022-01-01        |
+| SMU48309800800000001SA    | All Employees: Private Service Providing in Longview, TX (MSA)                                                | 1990-01-01          | 2022-02-01        |
 | SMU48309801500000001A     | All Employees: Mining, Logging, and Construction in Longview, TX (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU48309803000000001A     | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48309804000000001A     | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU48309804100000001      | All Employees: Wholesale Trade in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
+| SMU48309804100000001      | All Employees: Wholesale Trade in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
 | SMU48309804100000001A     | All Employees: Wholesale Trade in Longview, TX (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU48309804100000001SA    | All Employees: Wholesale Trade in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-01-01        |
-| SMU48309804200000001      | All Employees: Retail Trade in Longview, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
+| SMU48309804100000001SA    | All Employees: Wholesale Trade in Longview, TX (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU48309804200000001      | All Employees: Retail Trade in Longview, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
 | SMU48309804200000001A     | All Employees: Retail Trade in Longview, TX (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU48309804200000001SA    | All Employees: Retail Trade in Longview, TX (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| SMU48309804245200001      | All Employees: Retail Trade: General Merchandise Stores in Longview, TX (MSA)                                 | 1990-01-01          | 2022-01-01        |
+| SMU48309804200000001SA    | All Employees: Retail Trade in Longview, TX (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU48309804245200001      | All Employees: Retail Trade: General Merchandise Stores in Longview, TX (MSA)                                 | 1990-01-01          | 2022-02-01        |
 | SMU48309804245200001A     | All Employees: Retail Trade: General Merchandise Stores in Longview, TX (MSA)                                 | 1990-01-01          | 2021-01-01        |
-| SMU48309804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Longview, TX (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| SMU48309804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Longview, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48309804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in Longview, TX (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU48309804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Longview, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48309804300000001A     | All Employees: Transportation and Utilities in Longview, TX (MSA)                                             | 1990-01-01          | 2021-01-01        |
-| SMU48309804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Longview, TX (MSA) | 1990-01-01          | 2022-01-01        |
+| SMU48309804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Longview, TX (MSA) | 1990-01-01          | 2022-02-01        |
 | SMU48309805000000001A     | All Employees: Information in Longview, TX (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU48309805500000001A     | All Employees: Financial Activities in Longview, TX (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU48309806000000001A     | All Employees: Professional and Business Services in Longview, TX (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -163,13 +163,13 @@
 | SMU48309807000000001A     | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU48309808000000001A     | All Employees: Other Services in Longview, TX (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU48309809000000001A     | All Employees: Government in Longview, TX (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU48309809091000001      | All Employees: Government: Federal Government in Longview, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
+| SMU48309809091000001      | All Employees: Government: Federal Government in Longview, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
 | SMU48309809091000001A     | All Employees: Federal Government in Longview, TX (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU48309809091000001SA    | All Employees: Government: Federal Government in Longview, TX (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| SMU48309809092000001      | All Employees: Government: State Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48309809091000001SA    | All Employees: Government: Federal Government in Longview, TX (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU48309809092000001      | All Employees: Government: State Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48309809092000001A     | All Employees: State Government in Longview, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48309809092000001SA    | All Employees: Government: State Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
-| SMU48309809093000001      | All Employees: Government: Local Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48309809092000001SA    | All Employees: Government: State Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU48309809093000001      | All Employees: Government: Local Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SMU48309809093000001A     | All Employees: Local Government in Longview, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU48309809093000001SA    | All Employees: Government: Local Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-01-01        |
+| SMU48309809093000001SA    | All Employees: Government: Local Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-02-01        |
 | SUSCMSA30980              | Market Hotness: Supply Score in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-01-01        |

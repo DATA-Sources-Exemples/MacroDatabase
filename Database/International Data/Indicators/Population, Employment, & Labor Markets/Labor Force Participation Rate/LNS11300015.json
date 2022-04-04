@@ -1,7 +1,7 @@
 {
   "id": "LNS11300015",
-  "realtime_start": "2022-03-23",
-  "realtime_end": "2022-03-23",
+  "realtime_start": "2022-03-28",
+  "realtime_end": "2022-03-28",
   "title": "Labor Force Participation Rate - 16-19 Yrs., White",
   "observation_start": "1954-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-04 07:44:57-06",
-  "popularity": 3,
-  "group_popularity": 4,
+  "popularity": 6,
+  "group_popularity": 9,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS11300015"
 }
