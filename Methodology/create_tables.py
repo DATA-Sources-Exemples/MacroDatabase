@@ -39,6 +39,9 @@ for directory_path, directory_names, _ in os.walk(path_str):
         else:
             paths = None, directory_path
 
+        if "_Curated" in directory_path or "_Structure" in directory_path:
+            continue
+
         for path in paths:
             if path:
                 name = paths[1].split("/")[-1]
