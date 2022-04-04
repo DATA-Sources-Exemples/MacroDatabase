@@ -1,0 +1,20 @@
+{
+  "United States": {
+    "id": "IR3TED01USQ156N",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "3-Month or 90-day Rates and Yields: Eurodollar Deposits for the United States",
+    "observation_start": "1960-01-01",
+    "observation_end": "2021-04-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-07-14 17:20:15-05",
+    "popularity": 11,
+    "group_popularity": 48,
+    "notes": "OECD descriptor ID: IR3TED01\nOECD unit ID: ST\nOECD country ID: USA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+  }
+}

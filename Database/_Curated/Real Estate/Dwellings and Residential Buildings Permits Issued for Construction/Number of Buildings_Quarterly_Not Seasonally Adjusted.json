@@ -1,0 +1,20 @@
+{
+  "South Africa": {
+    "id": "ODCNPI03ZAQ470N",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Dwellings and Residential Buildings Permits Issued for Construction for South Africa",
+    "observation_start": "1993-01-01",
+    "observation_end": "2018-04-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Number of Buildings",
+    "units_short": "Number of Buildings",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-11-23 11:09:04-06",
+    "popularity": 7,
+    "group_popularity": 8,
+    "notes": "OECD descriptor ID: ODCNPI03\nOECD unit ID: ML\nOECD country ID: ZAF\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+  }
+}

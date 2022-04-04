@@ -1,0 +1,38 @@
+{
+  "Guinea": {
+    "id": "GINFCAODUSNUM",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Credit Unions and Financial Cooperatives for Guinea",
+    "observation_start": "2004-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number",
+    "units_short": "Number",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-08-02 13:27:27-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  },
+  "China": {
+    "id": "CHNFCAODUSNUM",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Use of Financial Services Deposit Accounts: Small and Medium Enterprise Accounts at Credit Unions and Financial Cooperatives for China, P.R.: Mainland",
+    "observation_start": "2006-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number",
+    "units_short": "Number",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-08-02 13:29:25-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}
