@@ -1,3 +1,3 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Automotive Production Seasonal Factor |                 8 |
+| Automotive Production Seasonal Factor |                 1 |

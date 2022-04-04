@@ -1,3 +1,3 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
-| Phoenix-Mesa, AZ (MSA) |                55 |
+| Phoenix-Mesa, AZ (MSA) |                 1 |

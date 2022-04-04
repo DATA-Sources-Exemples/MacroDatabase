@@ -1,3 +1,2 @@
-| id          | title                                                                            | observation_start   | observation_end   |
-|-------------|----------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP37900 | Total Per Capita Real Gross Domestic Product for Peoria, IL (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

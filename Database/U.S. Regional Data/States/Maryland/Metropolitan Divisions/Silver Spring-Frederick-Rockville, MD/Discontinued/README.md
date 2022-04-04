@@ -1,3 +1,2 @@
-| id             | title                                                                                              | observation_start   | observation_end   |
-|----------------|----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS43524Q | All-Transactions House Price Index for Silver Spring-Frederick-Rockville, MD (MSAD) (DISCONTINUED) | 1976-04-01          | 2018-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

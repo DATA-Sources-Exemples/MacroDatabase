@@ -1,13 +1,2 @@
-| id               | title                                                                                                                        | observation_start   | observation_end   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BIRAGRIDX        | Economic Conditions Index for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| CCDIOA13820Q156N | CredAbility Consumer Distress Index for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMEBIR     | Net Interest Income for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSBIR           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRBIR          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIBIR            | Net Income for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMBIR           | Net Interest Margin for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP13820      | Total Per Capita Real Gross Domestic Product for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROABIR           | Return on Average Assets for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETBIR      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANBIR       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Birmingham-Hoover, AL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

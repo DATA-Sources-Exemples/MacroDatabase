@@ -1,4 +1,4 @@
 | Folder       |   Files / Folders |
 |--------------|-------------------|
-| Casper, WY   |               149 |
-| Cheyenne, WY |               148 |
+| Cheyenne, WY |                 2 |
+| Casper, WY   |                 2 |

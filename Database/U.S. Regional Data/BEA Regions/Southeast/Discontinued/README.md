@@ -1,12 +1,2 @@
-| id           | title                                                                                                                         | observation_start   | observation_end   |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| MORTGAGE1SE  | 1-Year Adjustable Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)                                    | 1986-04-04          | 2015-12-31        |
-| MORTGAGE5SE  | 5/1-Year Adjustable Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)                                  | 2005-01-06          | 2015-12-31        |
-| MORTGAGE15SE | 15-Year Fixed Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)                                        | 1991-08-30          | 2015-12-31        |
-| MORTGAGE30SE | 30-Year Fixed Rate Mortgage Average in the Southeast Freddie Mac Region (DISCONTINUED)                                        | 1976-03-26          | 2015-12-31        |
-| MORTMRGN1SE  | Margin for 1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)                                 | 1988-02-19          | 2015-12-31        |
-| MORTMRGN5SE  | Margin for 5/1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)                               | 2005-01-06          | 2015-12-31        |
-| MORTPTS1SE   | Origination Fees and Discount Points for 1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)   | 1986-04-04          | 2015-12-31        |
-| MORTPTS5SE   | Origination Fees and Discount Points for 5/1-Year Adjustable Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED) | 2005-01-06          | 2015-12-31        |
-| MORTPTS15SE  | Origination Fees and Discount Points for 15-Year Fixed Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)       | 1991-08-30          | 2015-12-31        |
-| MORTPTS30SE  | Origination Fees and Discount Points for 30-Year Fixed Rate Mortgage in the Southeast Freddie Mac Region (DISCONTINUED)       | 1976-03-26          | 2015-12-31        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

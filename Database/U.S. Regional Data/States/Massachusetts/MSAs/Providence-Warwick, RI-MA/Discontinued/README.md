@@ -1,13 +1,2 @@
-| id               | title                                                                                                                            | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA39300Q156N | CredAbility Consumer Distress Index for Providence-New Bedford-Fall River, RI-MA (MSA) (DISCONTINUED)                            | 2005-01-01          | 2013-01-01        |
-| INTINCOMEPPW     | Net Interest Income for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSPPW           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRPPW          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIMPPW           | Net Interest Margin for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NIPPW            | Net Income for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP39300      | Total Per Capita Real Gross Domestic Product for Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| PPWAGRIDX        | Economic Conditions Index for Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| ROAPPW           | Return on Average Assets for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETPPW      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANPPW       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Providence-Warwick, RI-MA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

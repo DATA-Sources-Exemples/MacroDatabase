@@ -1,69 +1,69 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Suwannee County, FL     |                89 |
-| Sumter County, FL       |               146 |
-| St. Johns County, FL    |               146 |
-| Volusia County, FL      |               146 |
-| Taylor County, FL       |                88 |
-| Miami-Dade County, FL   |               147 |
-| Gulf County, FL         |                89 |
-| Baker County, FL        |                89 |
-| Marion County, FL       |               146 |
-| St. Lucie County, FL    |               146 |
-| Hardee County, FL       |                89 |
-| Charlotte County, FL    |               146 |
-| Sarasota County, FL     |               146 |
-| Levy County, FL         |                88 |
-| Gadsden County, FL      |                89 |
-| Citrus County, FL       |               146 |
-| Hamilton County, FL     |                88 |
-| Collier County, FL      |               146 |
-| Dixie County, FL        |                88 |
-| Franklin County, FL     |                89 |
-| Pinellas County, FL     |               146 |
-| Leon County, FL         |               145 |
-| Polk County, FL         |               146 |
-| Santa Rosa County, FL   |               146 |
-| Gilchrist County, FL    |                89 |
-| Seminole County, FL     |               146 |
-| Alachua County, FL      |               146 |
-| Palm Beach County, FL   |               146 |
-| Jefferson County, FL    |                88 |
-| Flagler County, FL      |               146 |
-| Okaloosa County, FL     |               146 |
-| Osceola County, FL      |               146 |
-| Hernando County, FL     |               146 |
-| Manatee County, FL      |               146 |
-| De Soto County, FL      |                89 |
-| Hendry County, FL       |                89 |
-| Broward County, FL      |               146 |
-| Walton County, FL       |               146 |
-| Highlands County, FL    |               146 |
-| Lake County, FL         |               146 |
-| Washington County, FL   |                89 |
-| Brevard County, FL      |               146 |
-| Pasco County, FL        |               146 |
-| Monroe County, FL       |               146 |
-| Lafayette County, FL    |                87 |
-| Bay County, FL          |               146 |
-| Wakulla County, FL      |                88 |
-| Orange County, FL       |               146 |
-| Calhoun County, FL      |                88 |
-| Duval County, FL        |               145 |
-| Madison County, FL      |                87 |
-| Hillsborough County, FL |               146 |
-| Columbia County, FL     |               145 |
-| Bradford County, FL     |                89 |
-| Escambia County, FL     |               146 |
-| Liberty County, FL      |                87 |
-| Lee County, FL          |               145 |
-| Putnam County, FL       |               146 |
-| Glades County, FL       |                88 |
-| Indian River County, FL |               146 |
-| Martin County, FL       |               146 |
-| Union County, FL        |                87 |
-| Okeechobee County, FL   |                88 |
-| Nassau County, FL       |               146 |
-| Jackson County, FL      |                89 |
-| Clay County, FL         |               146 |
-| Holmes County, FL       |                87 |
+| Osceola County, FL      |                 1 |
+| De Soto County, FL      |                 1 |
+| Liberty County, FL      |                 1 |
+| Polk County, FL         |                 1 |
+| Gilchrist County, FL    |                 1 |
+| Clay County, FL         |                 1 |
+| Taylor County, FL       |                 1 |
+| Calhoun County, FL      |                 1 |
+| Orange County, FL       |                 1 |
+| Jackson County, FL      |                 1 |
+| Dixie County, FL        |                 1 |
+| Union County, FL        |                 1 |
+| Manatee County, FL      |                 1 |
+| Charlotte County, FL    |                 1 |
+| Gulf County, FL         |                 1 |
+| Glades County, FL       |                 1 |
+| Alachua County, FL      |                 1 |
+| Monroe County, FL       |                 1 |
+| Jefferson County, FL    |                 1 |
+| Lee County, FL          |                 1 |
+| Leon County, FL         |                 1 |
+| Bradford County, FL     |                 1 |
+| Nassau County, FL       |                 1 |
+| Escambia County, FL     |                 1 |
+| Flagler County, FL      |                 1 |
+| Volusia County, FL      |                 1 |
+| Franklin County, FL     |                 1 |
+| Pinellas County, FL     |                 1 |
+| Hendry County, FL       |                 1 |
+| Hardee County, FL       |                 1 |
+| Walton County, FL       |                 1 |
+| Palm Beach County, FL   |                 1 |
+| Lafayette County, FL    |                 1 |
+| Levy County, FL         |                 1 |
+| Seminole County, FL     |                 1 |
+| Pasco County, FL        |                 1 |
+| St. Lucie County, FL    |                 1 |
+| Holmes County, FL       |                 1 |
+| Miami-Dade County, FL   |                 2 |
+| Bay County, FL          |                 1 |
+| Duval County, FL        |                 1 |
+| Marion County, FL       |                 1 |
+| Highlands County, FL    |                 1 |
+| Washington County, FL   |                 1 |
+| St. Johns County, FL    |                 1 |
+| Okeechobee County, FL   |                 1 |
+| Suwannee County, FL     |                 1 |
+| Citrus County, FL       |                 1 |
+| Sarasota County, FL     |                 1 |
+| Collier County, FL      |                 1 |
+| Martin County, FL       |                 1 |
+| Gadsden County, FL      |                 1 |
+| Lake County, FL         |                 1 |
+| Madison County, FL      |                 1 |
+| Baker County, FL        |                 1 |
+| Hillsborough County, FL |                 1 |
+| Columbia County, FL     |                 1 |
+| Putnam County, FL       |                 1 |
+| Broward County, FL      |                 1 |
+| Hernando County, FL     |                 1 |
+| Hamilton County, FL     |                 1 |
+| Brevard County, FL      |                 1 |
+| Sumter County, FL       |                 1 |
+| Wakulla County, FL      |                 1 |
+| Okaloosa County, FL     |                 1 |
+| Santa Rosa County, FL   |                 1 |
+| Indian River County, FL |                 1 |

@@ -1,3 +1,3 @@
 | Folder   |   Files / Folders |
 |----------|-------------------|
-| Gary, IN |               117 |
+| Gary, IN |                 1 |

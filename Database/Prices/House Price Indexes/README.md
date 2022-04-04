@@ -376,83 +376,83 @@
 | ATNHPIUS49660Q       | All-Transactions House Price Index for Youngstown-Warren-Boardman, OH-PA (MSA)                                                      | 1985-07-01          | 2021-10-01        |
 | ATNHPIUS49700Q       | All-Transactions House Price Index for Yuba City, CA (MSA)                                                                          | 1986-10-01          | 2021-10-01        |
 | ATNHPIUS49740Q       | All-Transactions House Price Index for Yuma, AZ (MSA)                                                                               | 1988-07-01          | 2021-10-01        |
-| ATXRHTNSA            | Home Price Index (High Tier) for Atlanta, Georgia                                                                                   | 1991-01-01          | 2021-12-01        |
-| ATXRHTSA             | Home Price Index (High Tier) for Atlanta, Georgia                                                                                   | 1991-01-01          | 2021-12-01        |
-| ATXRLTNSA            | Home Price Index (Low Tier) for Atlanta, Georgia                                                                                    | 1991-01-01          | 2021-12-01        |
-| ATXRLTSA             | Home Price Index (Low Tier) for Atlanta, Georgia                                                                                    | 1991-01-01          | 2021-12-01        |
-| ATXRMTNSA            | Home Price Index (Middle Tier) for Atlanta, Georgia                                                                                 | 1991-01-01          | 2021-12-01        |
-| ATXRMTSA             | Home Price Index (Middle Tier) for Atlanta, Georgia                                                                                 | 1991-01-01          | 2021-12-01        |
-| ATXRNSA              | S&P/Case-Shiller GA-Atlanta Home Price Index                                                                                        | 1991-01-01          | 2021-12-01        |
-| ATXRPSNSA            | Home Price Sales Pair Counts for Atlanta, Georgia                                                                                   | 1991-01-01          | 2021-12-01        |
-| ATXRSA               | S&P/Case-Shiller GA-Atlanta Home Price Index                                                                                        | 1991-01-01          | 2021-12-01        |
+| ATXRHTNSA            | Home Price Index (High Tier) for Atlanta, Georgia                                                                                   | 1991-01-01          | 2022-01-01        |
+| ATXRHTSA             | Home Price Index (High Tier) for Atlanta, Georgia                                                                                   | 1991-01-01          | 2022-01-01        |
+| ATXRLTNSA            | Home Price Index (Low Tier) for Atlanta, Georgia                                                                                    | 1991-01-01          | 2022-01-01        |
+| ATXRLTSA             | Home Price Index (Low Tier) for Atlanta, Georgia                                                                                    | 1991-01-01          | 2022-01-01        |
+| ATXRMTNSA            | Home Price Index (Middle Tier) for Atlanta, Georgia                                                                                 | 1991-01-01          | 2022-01-01        |
+| ATXRMTSA             | Home Price Index (Middle Tier) for Atlanta, Georgia                                                                                 | 1991-01-01          | 2022-01-01        |
+| ATXRNSA              | S&P/Case-Shiller GA-Atlanta Home Price Index                                                                                        | 1991-01-01          | 2022-01-01        |
+| ATXRPSNSA            | Home Price Sales Pair Counts for Atlanta, Georgia                                                                                   | 1991-01-01          | 2022-01-01        |
+| ATXRSA               | S&P/Case-Shiller GA-Atlanta Home Price Index                                                                                        | 1991-01-01          | 2022-01-01        |
 | AZSTHPI              | All-Transactions House Price Index for Arizona                                                                                      | 1975-01-01          | 2021-10-01        |
 | AZUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arizona                      | 2000-01-01          | 2022-02-01        |
-| BOXRCNSA             | Condo Price Index for Boston, Massachusetts                                                                                         | 1995-01-01          | 2021-12-01        |
-| BOXRCPSNSA           | Condo Price Sales Pair Counts for Boston, Massachusetts                                                                             | 1995-01-01          | 2021-12-01        |
-| BOXRCSA              | Condo Price Index for Boston, Massachusetts                                                                                         | 1995-01-01          | 2021-12-01        |
-| BOXRHTNSA            | Home Price Index (High Tier) for Boston, Massachusetts                                                                              | 1987-01-01          | 2021-12-01        |
-| BOXRHTSA             | Home Price Index (High Tier) for Boston, Massachusetts                                                                              | 1987-01-01          | 2021-12-01        |
-| BOXRLTNSA            | Home Price Index (Low Tier) for Boston, Massachusetts                                                                               | 1987-01-01          | 2021-12-01        |
-| BOXRLTSA             | Home Price Index (Low Tier) for Boston, Massachusetts                                                                               | 1987-01-01          | 2021-12-01        |
-| BOXRMTNSA            | Home Price Index (Middle Tier) for Boston, Massachusetts                                                                            | 1987-01-01          | 2021-12-01        |
-| BOXRMTSA             | Home Price Index (Middle Tier) for Boston, Massachusetts                                                                            | 1987-01-01          | 2021-12-01        |
-| BOXRNSA              | S&P/Case-Shiller MA-Boston Home Price Index                                                                                         | 1987-01-01          | 2021-12-01        |
-| BOXRPSNSA            | Home Price Sales Pair Counts for Boston, Massachusetts                                                                              | 1987-01-01          | 2021-12-01        |
-| BOXRSA               | S&P/Case-Shiller MA-Boston Home Price Index                                                                                         | 1987-01-01          | 2021-12-01        |
+| BOXRCNSA             | Condo Price Index for Boston, Massachusetts                                                                                         | 1995-01-01          | 2022-01-01        |
+| BOXRCPSNSA           | Condo Price Sales Pair Counts for Boston, Massachusetts                                                                             | 1995-01-01          | 2022-01-01        |
+| BOXRCSA              | Condo Price Index for Boston, Massachusetts                                                                                         | 1995-01-01          | 2022-01-01        |
+| BOXRHTNSA            | Home Price Index (High Tier) for Boston, Massachusetts                                                                              | 1987-01-01          | 2022-01-01        |
+| BOXRHTSA             | Home Price Index (High Tier) for Boston, Massachusetts                                                                              | 1987-01-01          | 2022-01-01        |
+| BOXRLTNSA            | Home Price Index (Low Tier) for Boston, Massachusetts                                                                               | 1987-01-01          | 2022-01-01        |
+| BOXRLTSA             | Home Price Index (Low Tier) for Boston, Massachusetts                                                                               | 1987-01-01          | 2022-01-01        |
+| BOXRMTNSA            | Home Price Index (Middle Tier) for Boston, Massachusetts                                                                            | 1987-01-01          | 2022-01-01        |
+| BOXRMTSA             | Home Price Index (Middle Tier) for Boston, Massachusetts                                                                            | 1987-01-01          | 2022-01-01        |
+| BOXRNSA              | S&P/Case-Shiller MA-Boston Home Price Index                                                                                         | 1987-01-01          | 2022-01-01        |
+| BOXRPSNSA            | Home Price Sales Pair Counts for Boston, Massachusetts                                                                              | 1987-01-01          | 2022-01-01        |
+| BOXRSA               | S&P/Case-Shiller MA-Boston Home Price Index                                                                                         | 1987-01-01          | 2022-01-01        |
 | CASTHPI              | All-Transactions House Price Index for California                                                                                   | 1975-01-01          | 2021-10-01        |
 | CAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California                   | 2000-01-01          | 2022-02-01        |
 | CENCSTHPI            | All-Transactions House Price Index for the East North Central Census Division                                                       | 1975-01-01          | 2021-10-01        |
 | CESCSTHPI            | All-Transactions House Price Index for the East South Central Census Division                                                       | 1975-01-01          | 2021-10-01        |
-| CEXRNSA              | S&P/Case-Shiller OH-Cleveland Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| CEXRPSNSA            | Home Price Sales Pair Counts for Cleveland, Ohio                                                                                    | 1987-01-01          | 2021-12-01        |
-| CEXRSA               | S&P/Case-Shiller OH-Cleveland Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| CHXRCNSA             | Condo Price Index for Chicago, Illinois                                                                                             | 1995-01-01          | 2021-12-01        |
-| CHXRCPSNSA           | Condo Price Sales Pair Counts for Chicago, Illinois                                                                                 | 1995-01-01          | 2021-12-01        |
-| CHXRCSA              | Condo Price Index for Chicago, Illinois                                                                                             | 1995-01-01          | 2021-12-01        |
-| CHXRHTNSA            | Home Price Index (High Tier) for Chicago, Illinois                                                                                  | 1992-01-01          | 2021-12-01        |
-| CHXRHTSA             | Home Price Index (High Tier) for Chicago, Illinois                                                                                  | 1992-01-01          | 2021-12-01        |
-| CHXRLTNSA            | Home Price Index (Low Tier) for Chicago, Illinois                                                                                   | 1992-01-01          | 2021-12-01        |
-| CHXRLTSA             | Home Price Index (Low Tier) for Chicago, Illinois                                                                                   | 1992-01-01          | 2021-12-01        |
-| CHXRMTNSA            | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2021-12-01        |
-| CHXRMTSA             | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2021-12-01        |
-| CHXRNSA              | S&P/Case-Shiller IL-Chicago Home Price Index                                                                                        | 1987-01-01          | 2021-12-01        |
-| CHXRPSNSA            | Home Price Sales Pair Counts for Chicago, Illinois                                                                                  | 1987-01-01          | 2021-12-01        |
-| CHXRSA               | S&P/Case-Shiller IL-Chicago Home Price Index                                                                                        | 1987-01-01          | 2021-12-01        |
+| CEXRNSA              | S&P/Case-Shiller OH-Cleveland Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| CEXRPSNSA            | Home Price Sales Pair Counts for Cleveland, Ohio                                                                                    | 1987-01-01          | 2022-01-01        |
+| CEXRSA               | S&P/Case-Shiller OH-Cleveland Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| CHXRCNSA             | Condo Price Index for Chicago, Illinois                                                                                             | 1995-01-01          | 2022-01-01        |
+| CHXRCPSNSA           | Condo Price Sales Pair Counts for Chicago, Illinois                                                                                 | 1995-01-01          | 2022-01-01        |
+| CHXRCSA              | Condo Price Index for Chicago, Illinois                                                                                             | 1995-01-01          | 2022-01-01        |
+| CHXRHTNSA            | Home Price Index (High Tier) for Chicago, Illinois                                                                                  | 1992-01-01          | 2022-01-01        |
+| CHXRHTSA             | Home Price Index (High Tier) for Chicago, Illinois                                                                                  | 1992-01-01          | 2022-01-01        |
+| CHXRLTNSA            | Home Price Index (Low Tier) for Chicago, Illinois                                                                                   | 1992-01-01          | 2022-01-01        |
+| CHXRLTSA             | Home Price Index (Low Tier) for Chicago, Illinois                                                                                   | 1992-01-01          | 2022-01-01        |
+| CHXRMTNSA            | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-01-01        |
+| CHXRMTSA             | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-01-01        |
+| CHXRNSA              | S&P/Case-Shiller IL-Chicago Home Price Index                                                                                        | 1987-01-01          | 2022-01-01        |
+| CHXRPSNSA            | Home Price Sales Pair Counts for Chicago, Illinois                                                                                  | 1987-01-01          | 2022-01-01        |
+| CHXRSA               | S&P/Case-Shiller IL-Chicago Home Price Index                                                                                        | 1987-01-01          | 2022-01-01        |
 | CMATSTHPI            | All-Transactions House Price Index for the Middle Atlantic Census Division                                                          | 1975-01-01          | 2021-10-01        |
 | CMTNSTHPI            | All-Transactions House Price Index for the Mountain Census Division                                                                 | 1975-01-01          | 2021-10-01        |
 | CNEWSTHPI            | All-Transactions House Price Index for the New England Census Division                                                              | 1975-01-01          | 2021-10-01        |
 | COSTHPI              | All-Transactions House Price Index for Colorado                                                                                     | 1975-01-01          | 2021-10-01        |
 | COUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Colorado                     | 2000-01-01          | 2022-02-01        |
 | CPACSTHPI            | All-Transactions House Price Index for the Pacific Census Division                                                                  | 1975-01-01          | 2021-10-01        |
-| CRXRNSA              | S&P/Case-Shiller NC-Charlotte Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| CRXRPSNSA            | Home Price Sales Pair Counts for Charlotte, North Carolina                                                                          | 1987-01-01          | 2021-12-01        |
-| CRXRSA               | S&P/Case-Shiller NC-Charlotte Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
+| CRXRNSA              | S&P/Case-Shiller NC-Charlotte Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| CRXRPSNSA            | Home Price Sales Pair Counts for Charlotte, North Carolina                                                                          | 1987-01-01          | 2022-01-01        |
+| CRXRSA               | S&P/Case-Shiller NC-Charlotte Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
 | CSATSTHPI            | All-Transactions House Price Index for the South Atlantic Census Division                                                           | 1975-01-01          | 2021-10-01        |
-| CSUSHPINSA           | S&P/Case-Shiller U.S. National Home Price Index                                                                                     | 1987-01-01          | 2021-12-01        |
-| CSUSHPISA            | S&P/Case-Shiller U.S. National Home Price Index                                                                                     | 1987-01-01          | 2021-12-01        |
+| CSUSHPINSA           | S&P/Case-Shiller U.S. National Home Price Index                                                                                     | 1987-01-01          | 2022-01-01        |
+| CSUSHPISA            | S&P/Case-Shiller U.S. National Home Price Index                                                                                     | 1987-01-01          | 2022-01-01        |
 | CTSTHPI              | All-Transactions House Price Index for Connecticut                                                                                  | 1975-01-01          | 2021-10-01        |
 | CTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Connecticut                  | 2000-01-01          | 2022-02-01        |
 | CWNCSTHPI            | All-Transactions House Price Index for the West North Central Census Division                                                       | 1975-01-01          | 2021-10-01        |
 | CWSCSTHPI            | All-Transactions House Price Index for the West South Central Census Division                                                       | 1975-01-01          | 2021-10-01        |
-| DAXRNSA              | S&P/Case-Shiller TX-Dallas Home Price Index                                                                                         | 2000-01-01          | 2021-12-01        |
-| DAXRPSNSA            | Home Price Sales Pair Counts for Dallas, Texas                                                                                      | 2000-01-01          | 2021-12-01        |
-| DAXRSA               | S&P/Case-Shiller TX-Dallas Home Price Index                                                                                         | 2000-01-01          | 2021-12-01        |
+| DAXRNSA              | S&P/Case-Shiller TX-Dallas Home Price Index                                                                                         | 2000-01-01          | 2022-01-01        |
+| DAXRPSNSA            | Home Price Sales Pair Counts for Dallas, Texas                                                                                      | 2000-01-01          | 2022-01-01        |
+| DAXRSA               | S&P/Case-Shiller TX-Dallas Home Price Index                                                                                         | 2000-01-01          | 2022-01-01        |
 | DCSTHPI              | All-Transactions House Price Index for the District of Columbia                                                                     | 1975-01-01          | 2021-10-01        |
 | DCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the District of Columbia     | 2000-01-01          | 2022-02-01        |
 | DESTHPI              | All-Transactions House Price Index for Delaware                                                                                     | 1975-01-01          | 2021-10-01        |
 | DEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Delaware                     | 2000-01-01          | 2022-02-01        |
-| DEXRNSA              | S&P/Case-Shiller MI-Detroit Home Price Index                                                                                        | 1991-01-01          | 2021-12-01        |
-| DEXRPSNSA            | Home Price Sales Pair Counts for Detroit, Michigan                                                                                  | 1991-01-01          | 2021-12-01        |
-| DEXRSA               | S&P/Case-Shiller MI-Detroit Home Price Index                                                                                        | 1991-01-01          | 2021-12-01        |
-| DNXRHTNSA            | Home Price Index (High Tier) for Denver, Colorado                                                                                   | 1987-01-01          | 2021-12-01        |
-| DNXRHTSA             | Home Price Index (High Tier) for Denver, Colorado                                                                                   | 1987-01-01          | 2021-12-01        |
-| DNXRLTNSA            | Home Price Index (Low Tier) for Denver, Colorado                                                                                    | 1987-01-01          | 2021-12-01        |
-| DNXRLTSA             | Home Price Index (Low Tier) for Denver, Colorado                                                                                    | 1987-01-01          | 2021-12-01        |
-| DNXRMTNSA            | Home Price Index (Middle Tier) for Denver, Colorado                                                                                 | 1987-01-01          | 2021-12-01        |
-| DNXRMTSA             | Home Price Index (Middle Tier) for Denver, Colorado                                                                                 | 1987-01-01          | 2021-12-01        |
-| DNXRNSA              | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2021-12-01        |
-| DNXRPSNSA            | Home Price Sales Pair Counts for Denver, Colorado                                                                                   | 1987-01-01          | 2021-12-01        |
-| DNXRSA               | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2021-12-01        |
+| DEXRNSA              | S&P/Case-Shiller MI-Detroit Home Price Index                                                                                        | 1991-01-01          | 2022-01-01        |
+| DEXRPSNSA            | Home Price Sales Pair Counts for Detroit, Michigan                                                                                  | 1991-01-01          | 2022-01-01        |
+| DEXRSA               | S&P/Case-Shiller MI-Detroit Home Price Index                                                                                        | 1991-01-01          | 2022-01-01        |
+| DNXRHTNSA            | Home Price Index (High Tier) for Denver, Colorado                                                                                   | 1987-01-01          | 2022-01-01        |
+| DNXRHTSA             | Home Price Index (High Tier) for Denver, Colorado                                                                                   | 1987-01-01          | 2022-01-01        |
+| DNXRLTNSA            | Home Price Index (Low Tier) for Denver, Colorado                                                                                    | 1987-01-01          | 2022-01-01        |
+| DNXRLTSA             | Home Price Index (Low Tier) for Denver, Colorado                                                                                    | 1987-01-01          | 2022-01-01        |
+| DNXRMTNSA            | Home Price Index (Middle Tier) for Denver, Colorado                                                                                 | 1987-01-01          | 2022-01-01        |
+| DNXRMTSA             | Home Price Index (Middle Tier) for Denver, Colorado                                                                                 | 1987-01-01          | 2022-01-01        |
+| DNXRNSA              | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2022-01-01        |
+| DNXRPSNSA            | Home Price Sales Pair Counts for Denver, Colorado                                                                                   | 1987-01-01          | 2022-01-01        |
+| DNXRSA               | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2022-01-01        |
 | FIXHAI               | Housing Affordability Index (Fixed)                                                                                                 | 2021-02-01          | 2022-01-01        |
 | FLSTHPI              | All-Transactions House Price Index for Florida                                                                                      | 1975-01-01          | 2021-10-01        |
 | FLUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida                      | 2000-01-01          | 2022-02-01        |
@@ -460,8 +460,8 @@
 | GAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Georgia                      | 2000-01-01          | 2022-02-01        |
 | HISTHPI              | All-Transactions House Price Index for Hawaii                                                                                       | 1975-01-01          | 2021-10-01        |
 | HIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Hawaii                       | 2000-01-01          | 2022-02-01        |
-| HPIPONM226N          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2021-12-01        |
-| HPIPONM226S          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2021-12-01        |
+| HPIPONM226N          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2022-01-01        |
+| HPIPONM226S          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2022-01-01        |
 | IASTHPI              | All-Transactions House Price Index for Iowa                                                                                         | 1975-01-01          | 2021-10-01        |
 | IAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Iowa                         | 2000-01-01          | 2022-02-01        |
 | IDSTHPI              | All-Transactions House Price Index for Idaho                                                                                        | 1975-01-01          | 2021-10-01        |
@@ -476,27 +476,27 @@
 | KYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kentucky                     | 2000-01-01          | 2022-02-01        |
 | LASTHPI              | All-Transactions House Price Index for Louisiana                                                                                    | 1975-01-01          | 2021-10-01        |
 | LAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Louisiana                    | 2000-01-01          | 2022-02-01        |
-| LVXRHTNSA            | Home Price Index (High Tier) for Las Vegas, Nevada                                                                                  | 1993-01-01          | 2021-12-01        |
-| LVXRHTSA             | Home Price Index (High Tier) for Las Vegas, Nevada                                                                                  | 1993-01-01          | 2021-12-01        |
-| LVXRLTNSA            | Home Price Index (Low Tier) for Las Vegas, Nevada                                                                                   | 1993-01-01          | 2021-12-01        |
-| LVXRLTSA             | Home Price Index (Low Tier) for Las Vegas, Nevada                                                                                   | 1993-01-01          | 2021-12-01        |
-| LVXRMTNSA            | Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                                | 1993-01-01          | 2021-12-01        |
-| LVXRMTSA             | Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                                | 1993-01-01          | 2021-12-01        |
-| LVXRNSA              | S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| LVXRPSNSA            | Home Price Sales Pair Counts for Las Vegas, Nevada                                                                                  | 1987-01-01          | 2021-12-01        |
-| LVXRSA               | S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| LXXRCNSA             | Condo Price Index for Los Angeles, California                                                                                       | 1995-01-01          | 2021-12-01        |
-| LXXRCPSNSA           | Condo Price Sales Pair Counts for Los Angeles, California                                                                           | 1995-01-01          | 2021-12-01        |
-| LXXRCSA              | Condo Price Index for Los Angeles, California                                                                                       | 1995-01-01          | 2021-12-01        |
-| LXXRHTNSA            | Home Price Index (High Tier) for Los Angeles, California                                                                            | 1987-01-01          | 2021-12-01        |
-| LXXRHTSA             | Home Price Index (High Tier) for Los Angeles, California                                                                            | 1987-01-01          | 2021-12-01        |
-| LXXRLTNSA            | Home Price Index (Low Tier) for Los Angeles, California                                                                             | 1987-01-01          | 2021-12-01        |
-| LXXRLTSA             | Home Price Index (Low Tier) for Los Angeles, California                                                                             | 1987-01-01          | 2021-12-01        |
-| LXXRMTNSA            | Home Price Index (Middle Tier) for Los Angeles, California                                                                          | 1987-01-01          | 2021-12-01        |
-| LXXRMTSA             | Home Price Index (Middle Tier) for Los Angeles, California                                                                          | 1987-01-01          | 2021-12-01        |
-| LXXRNSA              | S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                                    | 1987-01-01          | 2021-12-01        |
-| LXXRPSNSA            | Home Price Sales Pair Counts for Los Angeles, California                                                                            | 1987-01-01          | 2021-12-01        |
-| LXXRSA               | S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                                    | 1987-01-01          | 2021-12-01        |
+| LVXRHTNSA            | Home Price Index (High Tier) for Las Vegas, Nevada                                                                                  | 1993-01-01          | 2022-01-01        |
+| LVXRHTSA             | Home Price Index (High Tier) for Las Vegas, Nevada                                                                                  | 1993-01-01          | 2022-01-01        |
+| LVXRLTNSA            | Home Price Index (Low Tier) for Las Vegas, Nevada                                                                                   | 1993-01-01          | 2022-01-01        |
+| LVXRLTSA             | Home Price Index (Low Tier) for Las Vegas, Nevada                                                                                   | 1993-01-01          | 2022-01-01        |
+| LVXRMTNSA            | Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                                | 1993-01-01          | 2022-01-01        |
+| LVXRMTSA             | Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                                | 1993-01-01          | 2022-01-01        |
+| LVXRNSA              | S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| LVXRPSNSA            | Home Price Sales Pair Counts for Las Vegas, Nevada                                                                                  | 1987-01-01          | 2022-01-01        |
+| LVXRSA               | S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| LXXRCNSA             | Condo Price Index for Los Angeles, California                                                                                       | 1995-01-01          | 2022-01-01        |
+| LXXRCPSNSA           | Condo Price Sales Pair Counts for Los Angeles, California                                                                           | 1995-01-01          | 2022-01-01        |
+| LXXRCSA              | Condo Price Index for Los Angeles, California                                                                                       | 1995-01-01          | 2022-01-01        |
+| LXXRHTNSA            | Home Price Index (High Tier) for Los Angeles, California                                                                            | 1987-01-01          | 2022-01-01        |
+| LXXRHTSA             | Home Price Index (High Tier) for Los Angeles, California                                                                            | 1987-01-01          | 2022-01-01        |
+| LXXRLTNSA            | Home Price Index (Low Tier) for Los Angeles, California                                                                             | 1987-01-01          | 2022-01-01        |
+| LXXRLTSA             | Home Price Index (Low Tier) for Los Angeles, California                                                                             | 1987-01-01          | 2022-01-01        |
+| LXXRMTNSA            | Home Price Index (Middle Tier) for Los Angeles, California                                                                          | 1987-01-01          | 2022-01-01        |
+| LXXRMTSA             | Home Price Index (Middle Tier) for Los Angeles, California                                                                          | 1987-01-01          | 2022-01-01        |
+| LXXRNSA              | S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                                    | 1987-01-01          | 2022-01-01        |
+| LXXRPSNSA            | Home Price Sales Pair Counts for Los Angeles, California                                                                            | 1987-01-01          | 2022-01-01        |
+| LXXRSA               | S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                                    | 1987-01-01          | 2022-01-01        |
 | MASTHPI              | All-Transactions House Price Index for Massachusetts                                                                                | 1975-01-01          | 2021-10-01        |
 | MAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Massachusetts                | 2000-01-01          | 2022-02-01        |
 | MDSTHPI              | All-Transactions House Price Index for Maryland                                                                                     | 1975-01-01          | 2021-10-01        |
@@ -505,26 +505,26 @@
 | MEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maine                        | 2000-01-01          | 2022-02-01        |
 | MISTHPI              | All-Transactions House Price Index for Michigan                                                                                     | 1975-01-01          | 2021-10-01        |
 | MIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Michigan                     | 2000-01-01          | 2022-02-01        |
-| MIXRHTNSA            | Home Price Index (High Tier) for Miami, Florida                                                                                     | 1987-01-01          | 2021-12-01        |
-| MIXRHTSA             | Home Price Index (High Tier) for Miami, Florida                                                                                     | 1987-01-01          | 2021-12-01        |
-| MIXRLTNSA            | Home Price Index (Low Tier) for Miami, Florida                                                                                      | 1987-01-01          | 2021-12-01        |
-| MIXRLTSA             | Home Price Index (Low Tier) for Miami, Florida                                                                                      | 1987-01-01          | 2021-12-01        |
-| MIXRMTNSA            | Home Price Index (Middle Tier) for Miami, Florida                                                                                   | 1987-01-01          | 2021-12-01        |
-| MIXRMTSA             | Home Price Index (Middle Tier) for Miami, Florida                                                                                   | 1987-01-01          | 2021-12-01        |
-| MIXRNSA              | S&P/Case-Shiller FL-Miami Home Price Index                                                                                          | 1987-01-01          | 2021-12-01        |
-| MIXRPSNSA            | Home Price Sales Pair Counts for Miami, Florida                                                                                     | 1987-01-01          | 2021-12-01        |
-| MIXRSA               | S&P/Case-Shiller FL-Miami Home Price Index                                                                                          | 1987-01-01          | 2021-12-01        |
+| MIXRHTNSA            | Home Price Index (High Tier) for Miami, Florida                                                                                     | 1987-01-01          | 2022-01-01        |
+| MIXRHTSA             | Home Price Index (High Tier) for Miami, Florida                                                                                     | 1987-01-01          | 2022-01-01        |
+| MIXRLTNSA            | Home Price Index (Low Tier) for Miami, Florida                                                                                      | 1987-01-01          | 2022-01-01        |
+| MIXRLTSA             | Home Price Index (Low Tier) for Miami, Florida                                                                                      | 1987-01-01          | 2022-01-01        |
+| MIXRMTNSA            | Home Price Index (Middle Tier) for Miami, Florida                                                                                   | 1987-01-01          | 2022-01-01        |
+| MIXRMTSA             | Home Price Index (Middle Tier) for Miami, Florida                                                                                   | 1987-01-01          | 2022-01-01        |
+| MIXRNSA              | S&P/Case-Shiller FL-Miami Home Price Index                                                                                          | 1987-01-01          | 2022-01-01        |
+| MIXRPSNSA            | Home Price Sales Pair Counts for Miami, Florida                                                                                     | 1987-01-01          | 2022-01-01        |
+| MIXRSA               | S&P/Case-Shiller FL-Miami Home Price Index                                                                                          | 1987-01-01          | 2022-01-01        |
 | MNSTHPI              | All-Transactions House Price Index for Minnesota                                                                                    | 1975-01-01          | 2021-10-01        |
 | MNUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Minnesota                    | 2000-01-01          | 2022-02-01        |
-| MNXRHTNSA            | Home Price Index (High Tier) for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2021-12-01        |
-| MNXRHTSA             | Home Price Index (High Tier) for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2021-12-01        |
-| MNXRLTNSA            | Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                              | 1989-01-01          | 2021-12-01        |
-| MNXRLTSA             | Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                              | 1989-01-01          | 2021-12-01        |
-| MNXRMTNSA            | Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                           | 1989-01-01          | 2021-12-01        |
-| MNXRMTSA             | Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                           | 1989-01-01          | 2021-12-01        |
-| MNXRNSA              | S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                                    | 1989-01-01          | 2021-12-01        |
-| MNXRPSNSA            | Home Price Sales Pair Counts for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2021-12-01        |
-| MNXRSA               | S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                                    | 1989-01-01          | 2021-12-01        |
+| MNXRHTNSA            | Home Price Index (High Tier) for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2022-01-01        |
+| MNXRHTSA             | Home Price Index (High Tier) for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2022-01-01        |
+| MNXRLTNSA            | Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                              | 1989-01-01          | 2022-01-01        |
+| MNXRLTSA             | Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                              | 1989-01-01          | 2022-01-01        |
+| MNXRMTNSA            | Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                           | 1989-01-01          | 2022-01-01        |
+| MNXRMTSA             | Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                           | 1989-01-01          | 2022-01-01        |
+| MNXRNSA              | S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                                    | 1989-01-01          | 2022-01-01        |
+| MNXRPSNSA            | Home Price Sales Pair Counts for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2022-01-01        |
+| MNXRSA               | S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                                    | 1989-01-01          | 2022-01-01        |
 | MOSTHPI              | All-Transactions House Price Index for Missouri                                                                                     | 1975-01-01          | 2021-10-01        |
 | MOUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Missouri                     | 2000-01-01          | 2022-02-01        |
 | MSSTHPI              | All-Transactions House Price Index for Mississippi                                                                                  | 1975-01-01          | 2021-10-01        |
@@ -547,18 +547,18 @@
 | NVUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nevada                       | 2000-01-01          | 2022-02-01        |
 | NYSTHPI              | All-Transactions House Price Index for New York                                                                                     | 1975-01-01          | 2021-10-01        |
 | NYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New York                     | 2000-01-01          | 2022-02-01        |
-| NYXRCNSA             | Condo Price Index for New York, New York                                                                                            | 1995-01-01          | 2021-12-01        |
-| NYXRCPSNSA           | Condo Price Sales Pair Counts for New York, New York                                                                                | 1995-01-01          | 2021-12-01        |
-| NYXRCSA              | Condo Price Index for New York, New York                                                                                            | 1995-01-01          | 2021-12-01        |
-| NYXRHTNSA            | Home Price Index (High Tier) for New York, New York                                                                                 | 1987-01-01          | 2021-12-01        |
-| NYXRHTSA             | Home Price Index (High Tier) for New York, New York                                                                                 | 1987-01-01          | 2021-12-01        |
-| NYXRLTNSA            | Home Price Index (Low Tier) for New York, New York                                                                                  | 1987-01-01          | 2021-12-01        |
-| NYXRLTSA             | Home Price Index (Low Tier) for New York, New York                                                                                  | 1987-01-01          | 2021-12-01        |
-| NYXRMTNSA            | Home Price Index (Middle Tier) for New York, New York                                                                               | 1987-01-01          | 2021-12-01        |
-| NYXRMTSA             | Home Price Index (Middle Tier) for New York, New York                                                                               | 1987-01-01          | 2021-12-01        |
-| NYXRNSA              | S&P/Case-Shiller NY-New York Home Price Index                                                                                       | 1987-01-01          | 2021-12-01        |
-| NYXRPSNSA            | Home Price Sales Pair Counts for New York, New York                                                                                 | 1987-01-01          | 2021-12-01        |
-| NYXRSA               | S&P/Case-Shiller NY-New York Home Price Index                                                                                       | 1987-01-01          | 2021-12-01        |
+| NYXRCNSA             | Condo Price Index for New York, New York                                                                                            | 1995-01-01          | 2022-01-01        |
+| NYXRCPSNSA           | Condo Price Sales Pair Counts for New York, New York                                                                                | 1995-01-01          | 2022-01-01        |
+| NYXRCSA              | Condo Price Index for New York, New York                                                                                            | 1995-01-01          | 2022-01-01        |
+| NYXRHTNSA            | Home Price Index (High Tier) for New York, New York                                                                                 | 1987-01-01          | 2022-01-01        |
+| NYXRHTSA             | Home Price Index (High Tier) for New York, New York                                                                                 | 1987-01-01          | 2022-01-01        |
+| NYXRLTNSA            | Home Price Index (Low Tier) for New York, New York                                                                                  | 1987-01-01          | 2022-01-01        |
+| NYXRLTSA             | Home Price Index (Low Tier) for New York, New York                                                                                  | 1987-01-01          | 2022-01-01        |
+| NYXRMTNSA            | Home Price Index (Middle Tier) for New York, New York                                                                               | 1987-01-01          | 2022-01-01        |
+| NYXRMTSA             | Home Price Index (Middle Tier) for New York, New York                                                                               | 1987-01-01          | 2022-01-01        |
+| NYXRNSA              | S&P/Case-Shiller NY-New York Home Price Index                                                                                       | 1987-01-01          | 2022-01-01        |
+| NYXRPSNSA            | Home Price Sales Pair Counts for New York, New York                                                                                 | 1987-01-01          | 2022-01-01        |
+| NYXRSA               | S&P/Case-Shiller NY-New York Home Price Index                                                                                       | 1987-01-01          | 2022-01-01        |
 | OHSTHPI              | All-Transactions House Price Index for Ohio                                                                                         | 1975-01-01          | 2021-10-01        |
 | OHUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Ohio                         | 2000-01-01          | 2022-02-01        |
 | OKSTHPI              | All-Transactions House Price Index for Oklahoma                                                                                     | 1975-01-01          | 2021-10-01        |
@@ -567,33 +567,33 @@
 | ORUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oregon                       | 2000-01-01          | 2022-02-01        |
 | PASTHPI              | All-Transactions House Price Index for Pennsylvania                                                                                 | 1975-01-01          | 2021-10-01        |
 | PAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Pennsylvania                 | 2000-01-01          | 2022-02-01        |
-| PHXRHTNSA            | Home Price Index (High Tier) for Phoenix, Arizona                                                                                   | 1989-01-01          | 2021-12-01        |
-| PHXRHTSA             | Home Price Index (High Tier) for Phoenix, Arizona                                                                                   | 1989-01-01          | 2021-12-01        |
-| PHXRLTNSA            | Home Price Index (Low Tier) for Phoenix, Arizona                                                                                    | 1989-01-01          | 2021-12-01        |
-| PHXRLTSA             | Home Price Index (Low Tier) for Phoenix, Arizona                                                                                    | 1989-01-01          | 2021-12-01        |
-| PHXRMTNSA            | Home Price Index (Middle Tier) for Phoenix, Arizona                                                                                 | 1989-01-01          | 2021-12-01        |
-| PHXRMTSA             | Home Price Index (Middle Tier) for Phoenix, Arizona                                                                                 | 1989-01-01          | 2021-12-01        |
-| PHXRNSA              | S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                                        | 1989-01-01          | 2021-12-01        |
-| PHXRPSNSA            | Home Price Sales Pair Counts for Phoenix, Arizona                                                                                   | 1989-01-01          | 2021-12-01        |
-| PHXRSA               | S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                                        | 1989-01-01          | 2021-12-01        |
-| PONHPI00101M226N     | Purchase Only House Price Index for the New England Census Division                                                                 | 1991-01-01          | 2021-12-01        |
-| PONHPI00101M226S     | Purchase Only House Price Index for the New England Census Division                                                                 | 1991-01-01          | 2021-12-01        |
-| PONHPI00102M226N     | Purchase Only House Price Index for the Middle Atlantic Census Division                                                             | 1991-01-01          | 2021-12-01        |
-| PONHPI00102M226S     | Purchase Only House Price Index for the Middle Atlantic Census Division                                                             | 1991-01-01          | 2021-12-01        |
-| PONHPI00103M226N     | Purchase Only House Price Index for the South Atlantic Census Division                                                              | 1991-01-01          | 2021-12-01        |
-| PONHPI00103M226S     | Purchase Only House Price Index for the South Atlantic Census Division                                                              | 1991-01-01          | 2021-12-01        |
-| PONHPI00104M226N     | Purchase Only House Price Index for the East South Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00104M226S     | Purchase Only House Price Index for the East South Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00105M226N     | Purchase Only House Price Index for the West South Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00105M226S     | Purchase Only House Price Index for the West South Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00106M226N     | Purchase Only House Price Index for the East North Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00106M226S     | Purchase Only House Price Index for the East North Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00107M226N     | Purchase Only House Price Index for the West North Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00107M226S     | Purchase Only House Price Index for the West North Central Census Division                                                          | 1991-01-01          | 2021-12-01        |
-| PONHPI00108M226N     | Purchase Only House Price Index for the Mountain Census Division                                                                    | 1991-01-01          | 2021-12-01        |
-| PONHPI00108M226S     | Purchase Only House Price Index for the Mountain Census Division                                                                    | 1991-01-01          | 2021-12-01        |
-| PONHPI00109M226N     | Purchase Only House Price Index for the Pacific Census Division                                                                     | 1991-01-01          | 2021-12-01        |
-| PONHPI00109M226S     | Purchase Only House Price Index for the Pacific Census Division                                                                     | 1991-01-01          | 2021-12-01        |
+| PHXRHTNSA            | Home Price Index (High Tier) for Phoenix, Arizona                                                                                   | 1989-01-01          | 2022-01-01        |
+| PHXRHTSA             | Home Price Index (High Tier) for Phoenix, Arizona                                                                                   | 1989-01-01          | 2022-01-01        |
+| PHXRLTNSA            | Home Price Index (Low Tier) for Phoenix, Arizona                                                                                    | 1989-01-01          | 2022-01-01        |
+| PHXRLTSA             | Home Price Index (Low Tier) for Phoenix, Arizona                                                                                    | 1989-01-01          | 2022-01-01        |
+| PHXRMTNSA            | Home Price Index (Middle Tier) for Phoenix, Arizona                                                                                 | 1989-01-01          | 2022-01-01        |
+| PHXRMTSA             | Home Price Index (Middle Tier) for Phoenix, Arizona                                                                                 | 1989-01-01          | 2022-01-01        |
+| PHXRNSA              | S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                                        | 1989-01-01          | 2022-01-01        |
+| PHXRPSNSA            | Home Price Sales Pair Counts for Phoenix, Arizona                                                                                   | 1989-01-01          | 2022-01-01        |
+| PHXRSA               | S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                                        | 1989-01-01          | 2022-01-01        |
+| PONHPI00101M226N     | Purchase Only House Price Index for the New England Census Division                                                                 | 1991-01-01          | 2022-01-01        |
+| PONHPI00101M226S     | Purchase Only House Price Index for the New England Census Division                                                                 | 1991-01-01          | 2022-01-01        |
+| PONHPI00102M226N     | Purchase Only House Price Index for the Middle Atlantic Census Division                                                             | 1991-01-01          | 2022-01-01        |
+| PONHPI00102M226S     | Purchase Only House Price Index for the Middle Atlantic Census Division                                                             | 1991-01-01          | 2022-01-01        |
+| PONHPI00103M226N     | Purchase Only House Price Index for the South Atlantic Census Division                                                              | 1991-01-01          | 2022-01-01        |
+| PONHPI00103M226S     | Purchase Only House Price Index for the South Atlantic Census Division                                                              | 1991-01-01          | 2022-01-01        |
+| PONHPI00104M226N     | Purchase Only House Price Index for the East South Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00104M226S     | Purchase Only House Price Index for the East South Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00105M226N     | Purchase Only House Price Index for the West South Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00105M226S     | Purchase Only House Price Index for the West South Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00106M226N     | Purchase Only House Price Index for the East North Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00106M226S     | Purchase Only House Price Index for the East North Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00107M226N     | Purchase Only House Price Index for the West North Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00107M226S     | Purchase Only House Price Index for the West North Central Census Division                                                          | 1991-01-01          | 2022-01-01        |
+| PONHPI00108M226N     | Purchase Only House Price Index for the Mountain Census Division                                                                    | 1991-01-01          | 2022-01-01        |
+| PONHPI00108M226S     | Purchase Only House Price Index for the Mountain Census Division                                                                    | 1991-01-01          | 2022-01-01        |
+| PONHPI00109M226N     | Purchase Only House Price Index for the Pacific Census Division                                                                     | 1991-01-01          | 2022-01-01        |
+| PONHPI00109M226S     | Purchase Only House Price Index for the Pacific Census Division                                                                     | 1991-01-01          | 2022-01-01        |
 | PONHPI10100Q226N     | Purchase Only House Price Index for the New England Census Division                                                                 | 1991-01-01          | 2021-10-01        |
 | PONHPI10100Q226S     | Purchase Only House Price Index for the New England Census Division                                                                 | 1991-01-01          | 2021-10-01        |
 | PONHPI10200Q226N     | Purchase Only House Price Index for the Middle Atlantic Census Division                                                             | 1991-01-01          | 2021-10-01        |
@@ -614,68 +614,68 @@
 | PONHPI10900Q226S     | Purchase Only House Price Index for the Pacific Census Division                                                                     | 1991-01-01          | 2021-10-01        |
 | PONHPIM226N          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2021-10-01        |
 | PONHPIM226S          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2021-10-01        |
-| POXRHTNSA            | Home Price Index (High Tier) for Portland, Oregon                                                                                   | 1987-01-01          | 2021-12-01        |
-| POXRHTSA             | Home Price Index (High Tier) for Portland, Oregon                                                                                   | 1987-01-01          | 2021-12-01        |
-| POXRLTNSA            | Home Price Index (Low Tier) for Portland, Oregon                                                                                    | 1987-01-01          | 2021-12-01        |
-| POXRLTSA             | Home Price Index (Low Tier) for Portland, Oregon                                                                                    | 1987-01-01          | 2021-12-01        |
-| POXRMTNSA            | Home Price Index (Middle Tier) for Portland, Oregon                                                                                 | 1987-01-01          | 2021-12-01        |
-| POXRMTSA             | Home Price Index (Middle Tier) for Portland, Oregon                                                                                 | 1987-01-01          | 2021-12-01        |
-| POXRNSA              | S&P/Case-Shiller OR-Portland Home Price Index                                                                                       | 1987-01-01          | 2021-12-01        |
-| POXRPSNSA            | Home Price Sales Pair Counts for Portland, Oregon                                                                                   | 1987-01-01          | 2021-12-01        |
-| POXRSA               | S&P/Case-Shiller OR-Portland Home Price Index                                                                                       | 1987-01-01          | 2021-12-01        |
+| POXRHTNSA            | Home Price Index (High Tier) for Portland, Oregon                                                                                   | 1987-01-01          | 2022-01-01        |
+| POXRHTSA             | Home Price Index (High Tier) for Portland, Oregon                                                                                   | 1987-01-01          | 2022-01-01        |
+| POXRLTNSA            | Home Price Index (Low Tier) for Portland, Oregon                                                                                    | 1987-01-01          | 2022-01-01        |
+| POXRLTSA             | Home Price Index (Low Tier) for Portland, Oregon                                                                                    | 1987-01-01          | 2022-01-01        |
+| POXRMTNSA            | Home Price Index (Middle Tier) for Portland, Oregon                                                                                 | 1987-01-01          | 2022-01-01        |
+| POXRMTSA             | Home Price Index (Middle Tier) for Portland, Oregon                                                                                 | 1987-01-01          | 2022-01-01        |
+| POXRNSA              | S&P/Case-Shiller OR-Portland Home Price Index                                                                                       | 1987-01-01          | 2022-01-01        |
+| POXRPSNSA            | Home Price Sales Pair Counts for Portland, Oregon                                                                                   | 1987-01-01          | 2022-01-01        |
+| POXRSA               | S&P/Case-Shiller OR-Portland Home Price Index                                                                                       | 1987-01-01          | 2022-01-01        |
 | RISTHPI              | All-Transactions House Price Index for Rhode Island                                                                                 | 1975-01-01          | 2021-10-01        |
 | RIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Rhode Island                 | 2000-01-01          | 2022-02-01        |
 | SCSTHPI              | All-Transactions House Price Index for South Carolina                                                                               | 1975-01-01          | 2021-10-01        |
 | SCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Carolina               | 2000-01-01          | 2022-02-01        |
 | SDSTHPI              | All-Transactions House Price Index for South Dakota                                                                                 | 1975-01-01          | 2021-10-01        |
 | SDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Dakota                 | 2000-01-01          | 2022-02-01        |
-| SDXRHTNSA            | Home Price Index (High Tier) for San Diego, California                                                                              | 1989-01-01          | 2021-12-01        |
-| SDXRHTSA             | Home Price Index (High Tier) for San Diego, California                                                                              | 1989-01-01          | 2021-12-01        |
-| SDXRLTNSA            | Home Price Index (Low Tier) for San Diego, California                                                                               | 1989-01-01          | 2021-12-01        |
-| SDXRLTSA             | Home Price Index (Low Tier) for San Diego, California                                                                               | 1989-01-01          | 2021-12-01        |
-| SDXRMTNSA            | Home Price Index (Middle Tier) for San Diego, California                                                                            | 1989-01-01          | 2021-12-01        |
-| SDXRMTSA             | Home Price Index (Middle Tier) for San Diego, California                                                                            | 1989-01-01          | 2021-12-01        |
-| SDXRNSA              | S&P/Case-Shiller CA-San Diego Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| SDXRPSNSA            | Home Price Sales Pair Counts for San Diego, California                                                                              | 1987-01-01          | 2021-12-01        |
-| SDXRSA               | S&P/Case-Shiller CA-San Diego Home Price Index                                                                                      | 1987-01-01          | 2021-12-01        |
-| SEXRHTNSA            | Home Price Index (High Tier) for Seattle, Washington                                                                                | 1990-01-01          | 2021-12-01        |
-| SEXRHTSA             | Home Price Index (High Tier) for Seattle, Washington                                                                                | 1990-01-01          | 2021-12-01        |
-| SEXRLTNSA            | Home Price Index (Low Tier) for Seattle, Washington                                                                                 | 1990-01-01          | 2021-12-01        |
-| SEXRLTSA             | Home Price Index (Low Tier) for Seattle, Washington                                                                                 | 1990-01-01          | 2021-12-01        |
-| SEXRMTNSA            | Home Price Index (Middle Tier) for Seattle, Washington                                                                              | 1990-01-01          | 2021-12-01        |
-| SEXRMTSA             | Home Price Index (Middle Tier) for Seattle, Washington                                                                              | 1990-01-01          | 2021-12-01        |
-| SEXRNSA              | S&P/Case-Shiller WA-Seattle Home Price Index                                                                                        | 1990-01-01          | 2021-12-01        |
-| SEXRPSNSA            | Home Price Sales Pair Counts for Seattle, Washington                                                                                | 1990-01-01          | 2021-12-01        |
-| SEXRSA               | S&P/Case-Shiller WA-Seattle Home Price Index                                                                                        | 1990-01-01          | 2021-12-01        |
-| SFXRCNSA             | Condo Price Index for San Francisco, California                                                                                     | 1995-01-01          | 2021-12-01        |
-| SFXRCPSNSA           | Condo Price Sales Pair Counts for San Francisco, California                                                                         | 1995-01-01          | 2021-12-01        |
-| SFXRCSA              | Condo Price Index for San Francisco, California                                                                                     | 1995-01-01          | 2021-12-01        |
-| SFXRHTNSA            | Home Price Index (High Tier) for San Francisco, California                                                                          | 1987-01-01          | 2021-12-01        |
-| SFXRHTSA             | Home Price Index (High Tier) for San Francisco, California                                                                          | 1987-01-01          | 2021-12-01        |
-| SFXRLTNSA            | Home Price Index (Low Tier) for San Francisco, California                                                                           | 1987-01-01          | 2021-12-01        |
-| SFXRLTSA             | Home Price Index (Low Tier) for San Francisco, California                                                                           | 1987-01-01          | 2021-12-01        |
-| SFXRMTNSA            | Home Price Index (Middle Tier) for San Francisco, California                                                                        | 1987-01-01          | 2021-12-01        |
-| SFXRMTSA             | Home Price Index (Middle Tier) for San Francisco, California                                                                        | 1987-01-01          | 2021-12-01        |
-| SFXRNSA              | S&P/Case-Shiller CA-San Francisco Home Price Index                                                                                  | 1987-01-01          | 2021-12-01        |
-| SFXRPSNSA            | Home Price Sales Pair Counts for San Francisco, California                                                                          | 1987-01-01          | 2021-12-01        |
-| SFXRSA               | S&P/Case-Shiller CA-San Francisco Home Price Index                                                                                  | 1987-01-01          | 2021-12-01        |
-| SPCS10RNSA           | S&P/Case-Shiller 10-City Composite Home Price Index                                                                                 | 1987-01-01          | 2021-12-01        |
-| SPCS10RPSNSA         | S&P/Case-Shiller 10-City Home Price Sales Pair Counts                                                                               | 1987-01-01          | 2021-12-01        |
-| SPCS10RSA            | S&P/Case-Shiller 10-City Composite Home Price Index                                                                                 | 1987-01-01          | 2021-12-01        |
-| SPCS20RNSA           | S&P/Case-Shiller 20-City Composite Home Price Index                                                                                 | 2000-01-01          | 2021-12-01        |
-| SPCS20RPSNSA         | S&P/Case-Shiller 20-City Home Price Sales Pair Counts                                                                               | 2000-01-01          | 2021-12-01        |
-| SPCS20RSA            | S&P/Case-Shiller 20-City Composite Home Price Index                                                                                 | 2000-01-01          | 2021-12-01        |
+| SDXRHTNSA            | Home Price Index (High Tier) for San Diego, California                                                                              | 1989-01-01          | 2022-01-01        |
+| SDXRHTSA             | Home Price Index (High Tier) for San Diego, California                                                                              | 1989-01-01          | 2022-01-01        |
+| SDXRLTNSA            | Home Price Index (Low Tier) for San Diego, California                                                                               | 1989-01-01          | 2022-01-01        |
+| SDXRLTSA             | Home Price Index (Low Tier) for San Diego, California                                                                               | 1989-01-01          | 2022-01-01        |
+| SDXRMTNSA            | Home Price Index (Middle Tier) for San Diego, California                                                                            | 1989-01-01          | 2022-01-01        |
+| SDXRMTSA             | Home Price Index (Middle Tier) for San Diego, California                                                                            | 1989-01-01          | 2022-01-01        |
+| SDXRNSA              | S&P/Case-Shiller CA-San Diego Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| SDXRPSNSA            | Home Price Sales Pair Counts for San Diego, California                                                                              | 1987-01-01          | 2022-01-01        |
+| SDXRSA               | S&P/Case-Shiller CA-San Diego Home Price Index                                                                                      | 1987-01-01          | 2022-01-01        |
+| SEXRHTNSA            | Home Price Index (High Tier) for Seattle, Washington                                                                                | 1990-01-01          | 2022-01-01        |
+| SEXRHTSA             | Home Price Index (High Tier) for Seattle, Washington                                                                                | 1990-01-01          | 2022-01-01        |
+| SEXRLTNSA            | Home Price Index (Low Tier) for Seattle, Washington                                                                                 | 1990-01-01          | 2022-01-01        |
+| SEXRLTSA             | Home Price Index (Low Tier) for Seattle, Washington                                                                                 | 1990-01-01          | 2022-01-01        |
+| SEXRMTNSA            | Home Price Index (Middle Tier) for Seattle, Washington                                                                              | 1990-01-01          | 2022-01-01        |
+| SEXRMTSA             | Home Price Index (Middle Tier) for Seattle, Washington                                                                              | 1990-01-01          | 2022-01-01        |
+| SEXRNSA              | S&P/Case-Shiller WA-Seattle Home Price Index                                                                                        | 1990-01-01          | 2022-01-01        |
+| SEXRPSNSA            | Home Price Sales Pair Counts for Seattle, Washington                                                                                | 1990-01-01          | 2022-01-01        |
+| SEXRSA               | S&P/Case-Shiller WA-Seattle Home Price Index                                                                                        | 1990-01-01          | 2022-01-01        |
+| SFXRCNSA             | Condo Price Index for San Francisco, California                                                                                     | 1995-01-01          | 2022-01-01        |
+| SFXRCPSNSA           | Condo Price Sales Pair Counts for San Francisco, California                                                                         | 1995-01-01          | 2022-01-01        |
+| SFXRCSA              | Condo Price Index for San Francisco, California                                                                                     | 1995-01-01          | 2022-01-01        |
+| SFXRHTNSA            | Home Price Index (High Tier) for San Francisco, California                                                                          | 1987-01-01          | 2022-01-01        |
+| SFXRHTSA             | Home Price Index (High Tier) for San Francisco, California                                                                          | 1987-01-01          | 2022-01-01        |
+| SFXRLTNSA            | Home Price Index (Low Tier) for San Francisco, California                                                                           | 1987-01-01          | 2022-01-01        |
+| SFXRLTSA             | Home Price Index (Low Tier) for San Francisco, California                                                                           | 1987-01-01          | 2022-01-01        |
+| SFXRMTNSA            | Home Price Index (Middle Tier) for San Francisco, California                                                                        | 1987-01-01          | 2022-01-01        |
+| SFXRMTSA             | Home Price Index (Middle Tier) for San Francisco, California                                                                        | 1987-01-01          | 2022-01-01        |
+| SFXRNSA              | S&P/Case-Shiller CA-San Francisco Home Price Index                                                                                  | 1987-01-01          | 2022-01-01        |
+| SFXRPSNSA            | Home Price Sales Pair Counts for San Francisco, California                                                                          | 1987-01-01          | 2022-01-01        |
+| SFXRSA               | S&P/Case-Shiller CA-San Francisco Home Price Index                                                                                  | 1987-01-01          | 2022-01-01        |
+| SPCS10RNSA           | S&P/Case-Shiller 10-City Composite Home Price Index                                                                                 | 1987-01-01          | 2022-01-01        |
+| SPCS10RPSNSA         | S&P/Case-Shiller 10-City Home Price Sales Pair Counts                                                                               | 1987-01-01          | 2022-01-01        |
+| SPCS10RSA            | S&P/Case-Shiller 10-City Composite Home Price Index                                                                                 | 1987-01-01          | 2022-01-01        |
+| SPCS20RNSA           | S&P/Case-Shiller 20-City Composite Home Price Index                                                                                 | 2000-01-01          | 2022-01-01        |
+| SPCS20RPSNSA         | S&P/Case-Shiller 20-City Home Price Sales Pair Counts                                                                               | 2000-01-01          | 2022-01-01        |
+| SPCS20RSA            | S&P/Case-Shiller 20-City Composite Home Price Index                                                                                 | 2000-01-01          | 2022-01-01        |
 | TNSTHPI              | All-Transactions House Price Index for Tennessee                                                                                    | 1975-01-01          | 2021-10-01        |
 | TNUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Tennessee                    | 2000-01-01          | 2022-02-01        |
-| TPXRHTNSA            | Home Price Index (High Tier) for Tampa, Florida                                                                                     | 1987-01-01          | 2021-12-01        |
-| TPXRHTSA             | Home Price Index (High Tier) for Tampa, Florida                                                                                     | 1987-01-01          | 2021-12-01        |
-| TPXRLTNSA            | Home Price Index (Low Tier) for Tampa, Florida                                                                                      | 1987-01-01          | 2021-12-01        |
-| TPXRLTSA             | Home Price Index (Low Tier) for Tampa, Florida                                                                                      | 1987-01-01          | 2021-12-01        |
-| TPXRMTNSA            | Home Price Index (Middle Tier) for Tampa, Florida                                                                                   | 1987-01-01          | 2021-12-01        |
-| TPXRMTSA             | Home Price Index (Middle Tier) for Tampa, Florida                                                                                   | 1987-01-01          | 2021-12-01        |
-| TPXRNSA              | S&P/Case-Shiller FL-Tampa Home Price Index                                                                                          | 1987-01-01          | 2021-12-01        |
-| TPXRPSNSA            | Home Price Sales Pair Counts for Tampa, Florida                                                                                     | 1987-01-01          | 2021-12-01        |
-| TPXRSA               | S&P/Case-Shiller FL-Tampa Home Price Index                                                                                          | 1987-01-01          | 2021-12-01        |
+| TPXRHTNSA            | Home Price Index (High Tier) for Tampa, Florida                                                                                     | 1987-01-01          | 2022-01-01        |
+| TPXRHTSA             | Home Price Index (High Tier) for Tampa, Florida                                                                                     | 1987-01-01          | 2022-01-01        |
+| TPXRLTNSA            | Home Price Index (Low Tier) for Tampa, Florida                                                                                      | 1987-01-01          | 2022-01-01        |
+| TPXRLTSA             | Home Price Index (Low Tier) for Tampa, Florida                                                                                      | 1987-01-01          | 2022-01-01        |
+| TPXRMTNSA            | Home Price Index (Middle Tier) for Tampa, Florida                                                                                   | 1987-01-01          | 2022-01-01        |
+| TPXRMTSA             | Home Price Index (Middle Tier) for Tampa, Florida                                                                                   | 1987-01-01          | 2022-01-01        |
+| TPXRNSA              | S&P/Case-Shiller FL-Tampa Home Price Index                                                                                          | 1987-01-01          | 2022-01-01        |
+| TPXRPSNSA            | Home Price Sales Pair Counts for Tampa, Florida                                                                                     | 1987-01-01          | 2022-01-01        |
+| TPXRSA               | S&P/Case-Shiller FL-Tampa Home Price Index                                                                                          | 1987-01-01          | 2022-01-01        |
 | TXSTHPI              | All-Transactions House Price Index for Texas                                                                                        | 1975-01-01          | 2021-10-01        |
 | TXUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas                        | 2000-01-01          | 2022-02-01        |
 | USAUCSFRCONDOSMSAMID | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United States of America | 2000-01-01          | 2022-02-01        |
@@ -688,15 +688,15 @@
 | VTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Vermont                      | 2000-01-01          | 2022-02-01        |
 | WASTHPI              | All-Transactions House Price Index for Washington                                                                                   | 1975-01-01          | 2021-10-01        |
 | WAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Washington                   | 2000-01-01          | 2022-02-01        |
-| WDXRHTNSA            | Home Price Index (High Tier) for Washington D.C.                                                                                    | 1987-01-01          | 2021-12-01        |
-| WDXRHTSA             | Home Price Index (High Tier) for Washington D.C.                                                                                    | 1987-01-01          | 2021-12-01        |
-| WDXRLTNSA            | Home Price Index (Low Tier) for Washington D.C.                                                                                     | 1987-01-01          | 2021-12-01        |
-| WDXRLTSA             | Home Price Index (Low Tier) for Washington D.C.                                                                                     | 1987-01-01          | 2021-12-01        |
-| WDXRMTNSA            | Home Price Index (Middle Tier) for Washington D.C.                                                                                  | 1987-01-01          | 2021-12-01        |
-| WDXRMTSA             | Home Price Index (Middle Tier) for Washington D.C.                                                                                  | 1987-01-01          | 2021-12-01        |
-| WDXRNSA              | S&P/Case-Shiller DC-Washington Home Price Index                                                                                     | 1987-01-01          | 2021-12-01        |
-| WDXRPSNSA            | Home Price Sales Pair Counts for Washington D.C.                                                                                    | 1987-01-01          | 2021-12-01        |
-| WDXRSA               | S&P/Case-Shiller DC-Washington Home Price Index                                                                                     | 1987-01-01          | 2021-12-01        |
+| WDXRHTNSA            | Home Price Index (High Tier) for Washington D.C.                                                                                    | 1987-01-01          | 2022-01-01        |
+| WDXRHTSA             | Home Price Index (High Tier) for Washington D.C.                                                                                    | 1987-01-01          | 2022-01-01        |
+| WDXRLTNSA            | Home Price Index (Low Tier) for Washington D.C.                                                                                     | 1987-01-01          | 2022-01-01        |
+| WDXRLTSA             | Home Price Index (Low Tier) for Washington D.C.                                                                                     | 1987-01-01          | 2022-01-01        |
+| WDXRMTNSA            | Home Price Index (Middle Tier) for Washington D.C.                                                                                  | 1987-01-01          | 2022-01-01        |
+| WDXRMTSA             | Home Price Index (Middle Tier) for Washington D.C.                                                                                  | 1987-01-01          | 2022-01-01        |
+| WDXRNSA              | S&P/Case-Shiller DC-Washington Home Price Index                                                                                     | 1987-01-01          | 2022-01-01        |
+| WDXRPSNSA            | Home Price Sales Pair Counts for Washington D.C.                                                                                    | 1987-01-01          | 2022-01-01        |
+| WDXRSA               | S&P/Case-Shiller DC-Washington Home Price Index                                                                                     | 1987-01-01          | 2022-01-01        |
 | WISTHPI              | All-Transactions House Price Index for Wisconsin                                                                                    | 1975-01-01          | 2021-10-01        |
 | WIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wisconsin                    | 2000-01-01          | 2022-02-01        |
 | WVSTHPI              | All-Transactions House Price Index for West Virginia                                                                                | 1975-01-01          | 2021-10-01        |

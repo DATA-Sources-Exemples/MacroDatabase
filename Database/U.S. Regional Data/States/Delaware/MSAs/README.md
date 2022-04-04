@@ -1,4 +1,4 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Salisbury, MD-DE |               149 |
-| Dover, DE        |               168 |
+| Salisbury, MD-DE |                 2 |
+| Dover, DE        |                 2 |

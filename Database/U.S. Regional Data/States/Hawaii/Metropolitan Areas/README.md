@@ -1,3 +1,3 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
-| Urban Honolulu, HI |               260 |
+| Urban Honolulu, HI |                 2 |

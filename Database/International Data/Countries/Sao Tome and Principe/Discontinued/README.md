@@ -1,3 +1,2 @@
-| id               | title                                                                      | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------|---------------------|-------------------|
-| DDOI05STA156NWDB | Boone Indicator in Banking Market for Sao Tome and Principe (DISCONTINUED) | 1997-01-01          | 2010-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

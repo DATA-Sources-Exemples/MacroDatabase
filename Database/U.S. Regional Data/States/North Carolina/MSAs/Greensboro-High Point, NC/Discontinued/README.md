@@ -1,13 +1,2 @@
-| id               | title                                                                                                                            | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA24660Q156N | CredAbility Consumer Distress Index for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| GNSAGRIDX        | Economic Conditions Index for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| INTINCOMEGNS     | Net Interest Income for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSGNS           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRGNS          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIGNS            | Net Income for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMGNS           | Net Interest Margin for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP24660      | Total Per Capita Real Gross Domestic Product for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROAGNS           | Return on Average Assets for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETGNS      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANGNS       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Greensboro-High Point, NC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

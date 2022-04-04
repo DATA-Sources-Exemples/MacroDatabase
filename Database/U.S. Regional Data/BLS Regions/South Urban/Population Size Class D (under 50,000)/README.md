@@ -1,3 +1,3 @@
 | Folder       |   Files / Folders |
 |--------------|-------------------|
-| Discontinued |               101 |
+| Discontinued |                 1 |

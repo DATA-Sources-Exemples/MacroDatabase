@@ -1,3 +1,2 @@
-| id                     | title                                                                          | observation_start   | observation_end   |
-|------------------------|--------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU36935620000000001SA | All Employees: Total Nonfarm in Orange-Rockland-Westchester, NY (DISCONTINUED) | 1990-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

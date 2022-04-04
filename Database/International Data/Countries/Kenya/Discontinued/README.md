@@ -1,14 +1,2 @@
-| id             | title                                                                                                                                                          | observation_start   | observation_end   |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IDS1MNIAOFCKE  | Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Nationality of Issuer in Kenya (DISCONTINUED)       | 1997-10-01          | 2015-04-01        |
-| IDS1YMAORIFCKE | Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Residence of Issuer in Kenya (DISCONTINUED)         | 1997-10-01          | 2015-04-01        |
-| IDSGFCAMNIAOKE | Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Kenya (DISCONTINUED) | 1997-10-01          | 1998-07-01        |
-| IDSGFCAMNINIKE | Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Kenya (DISCONTINUED)         | 1997-10-01          | 1998-10-01        |
-| IDSOFAMRIAOKE  | Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Kenya (DISCONTINUED)   | 1997-10-01          | 1998-07-01        |
-| IDSOFAMRINIKE  | Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer in Kenya (DISCONTINUED)           | 1997-10-01          | 1998-10-01        |
-| IMMINIAIAOKE   | Amount Outstanding of International Money Market instruments for All Issuers, Nationality of Issuer in Kenya (DISCONTINUED)                                    | 1997-10-01          | 2015-04-01        |
-| IMMINIAIGIKE   | Gross Issuance of International Money Market instruments for All Issuers, Nationality of Issuer in Kenya (DISCONTINUED)                                        | 1997-10-01          | 2015-04-01        |
-| IMMINIAINIKE   | Net Issues of International Money Market instruments for All Issuers, Nationality of Issuer in Kenya (DISCONTINUED)                                            | 1997-10-01          | 2015-04-01        |
-| IMMIRIAOKE     | Amount Outstanding of International Money Market instruments for All Issuers, Residence of Issuer in Kenya (DISCONTINUED)                                      | 1997-10-01          | 2015-04-01        |
-| IMMIRIGIKE     | Gross Issuance of International Money Market instruments for All Issuers, Residence of Issuer in Kenya (DISCONTINUED)                                          | 1997-10-01          | 2015-04-01        |
-| IMMIRINIKE     | Net Issues of International Money Market instruments for All Issuers, Residence of Issuer in Kenya (DISCONTINUED)                                              | 1997-10-01          | 2015-04-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

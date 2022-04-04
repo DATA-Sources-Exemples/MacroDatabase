@@ -1,5 +1,2 @@
-| id                     | title                                                                                                                | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU36935615552500001   | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles in New York City, NY (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
-| SMU36935615552500001A  | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles in New York City, NY (DISCONTINUED) | 1990-01-01          | 2012-01-01        |
-| SMU36935615552500001SA | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles in New York City, NY (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

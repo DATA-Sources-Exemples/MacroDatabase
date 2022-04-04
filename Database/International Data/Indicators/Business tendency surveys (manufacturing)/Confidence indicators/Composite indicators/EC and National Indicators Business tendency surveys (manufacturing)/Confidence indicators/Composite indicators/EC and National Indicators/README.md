@@ -1,35 +1,3 @@
-| id              | title                                                                                                                                             | observation_start   | observation_end   |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BSFGLV02ATM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Austria                | 1985-01-01          | 2022-02-01        |
-| BSFGLV02AUQ460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Australia              | 1966-01-01          | 2021-10-01        |
-| BSFGLV02BEM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Belgium                | 1965-12-01          | 2022-02-01        |
-| BSFGLV02BRM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Brazil                 | 1980-01-01          | 2022-02-01        |
-| BSFGLV02BRQ460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Brazil                 | 1980-01-01          | 2021-10-01        |
-| BSFGLV02CHM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Switzerland            | 1967-02-01          | 2022-02-01        |
-| BSFGLV02CLM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Chile                  | 2003-11-01          | 2022-02-01        |
-| BSFGLV02CZM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for the Czech Republic     | 1993-02-01          | 2022-02-01        |
-| BSFGLV02DEM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Germany                | 1960-01-01          | 2022-02-01        |
-| BSFGLV02DKM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Denmark                | 1985-01-01          | 2022-02-01        |
-| BSFGLV02EEM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Estonia                | 1992-04-01          | 2022-02-01        |
-| BSFGLV02ESM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Spain                  | 1963-08-01          | 2022-02-01        |
-| BSFGLV02EZM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for the Euro Area          | 1985-01-01          | 2022-02-01        |
-| BSFGLV02FIM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Finland                | 1993-01-01          | 2022-02-01        |
-| BSFGLV02FRM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for France                 | 1966-10-01          | 2022-02-01        |
-| BSFGLV02GBM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for the United Kingdom     | 1977-03-01          | 2021-03-01        |
-| BSFGLV02GRM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Greece                 | 1975-02-01          | 2022-02-01        |
-| BSFGLV02HUM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Hungary                | 1996-01-01          | 2022-02-01        |
-| BSFGLV02IDQ460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Indonesia              | 2002-01-01          | 2021-10-01        |
-| BSFGLV02IEM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Ireland                | 1974-04-01          | 2022-02-01        |
-| BSFGLV02INQ460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for India                  | 2000-04-01          | 2021-07-01        |
-| BSFGLV02ITM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Italy                  | 1962-02-01          | 2022-02-01        |
-| BSFGLV02LUM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Luxembourg             | 1983-01-01          | 2022-02-01        |
-| BSFGLV02MXM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Mexico                 | 1978-01-01          | 2022-01-01        |
-| BSFGLV02NLM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for the Netherlands        | 1961-06-01          | 2022-02-01        |
-| BSFGLV02NOQ460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Norway                 | 1990-01-01          | 2021-10-01        |
-| BSFGLV02PLM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Poland                 | 1992-06-01          | 2022-02-01        |
-| BSFGLV02PTM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Portugal               | 1987-01-01          | 2022-02-01        |
-| BSFGLV02RUM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for the Russian Federation | 1992-09-01          | 2022-01-01        |
-| BSFGLV02SEM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Sweden                 | 1996-01-01          | 2022-02-01        |
-| BSFGLV02SIM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Slovenia               | 1995-04-01          | 2022-02-01        |
-| BSFGLV02SKM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for the Slovak Republic    | 1993-08-01          | 2022-02-01        |
-| BSFGLV02TRM460S | Business Tendency Surveys for Manufacturing: Finished Goods Stocks: Level: European Commission and National Indicators for Turkey                 | 1991-02-01          | 2022-02-01        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 1 |

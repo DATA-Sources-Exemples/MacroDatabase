@@ -1,29 +1,29 @@
 | Folder                                                             |   Files / Folders |
 |--------------------------------------------------------------------|-------------------|
-| OECD Total                                                         |               136 |
-| Non-OECD                                                           |                 8 |
-| European Union                                                     |               848 |
-| Group of Seven (G7)                                                |               465 |
-| Bureau of Labor Statistics Latin America                           |                16 |
-| International Organizations                                        |                 8 |
-| Group of Twenty Finance Ministers and Central Bank Governors (G20) |                61 |
-| Advanced Economies                                                 |                 5 |
-| Bureau of Labor Statistics Industrialized Countries                |                40 |
-| Four Big European Countries                                        |                16 |
-| Bureau of Labor Statistics Asian Newly Industrialized Countries    |                 9 |
-| OECD - Europe                                                      |                89 |
-| NAFTA                                                              |                20 |
-| European Economic Area                                             |               168 |
-| United Nations                                                     |                 1 |
-| Bureau of Labor Statistics Pacific Rim                             |                42 |
-| NICS                                                               |                 3 |
-| Unidentified Countries                                             |                20 |
-| Advance Technology Products                                        |                 3 |
-| International Monetary Fund                                        |                 7 |
-| OECD + Non-member Economies                                        |                18 |
-| Association of Southeast Asian Nations (ASEAN)                     |                 9 |
-| USMCA                                                              |                 5 |
+| Non-OECD                                                           |                 2 |
+| European Economic Area                                             |                 1 |
+| OECD - Europe                                                      |                 2 |
+| International Organizations                                        |                 1 |
+| European Union                                                     |                 2 |
 | OECD Non-member Economies                                          |                 1 |
-| Euro Area                                                          |               659 |
-| Major 5 Asia                                                       |                18 |
-| Emerging Markets                                                   |                 5 |
+| Euro Area                                                          |                 2 |
+| OECD + Non-member Economies                                        |                 1 |
+| Advance Technology Products                                        |                 1 |
+| OECD Total                                                         |                 2 |
+| Emerging Markets                                                   |                 1 |
+| NAFTA                                                              |                 1 |
+| Group of Seven (G7)                                                |                 2 |
+| Major 5 Asia                                                       |                 1 |
+| Bureau of Labor Statistics Latin America                           |                 1 |
+| Bureau of Labor Statistics Industrialized Countries                |                 2 |
+| International Monetary Fund                                        |                 1 |
+| Bureau of Labor Statistics Asian Newly Industrialized Countries    |                 1 |
+| Group of Twenty Finance Ministers and Central Bank Governors (G20) |                 2 |
+| Unidentified Countries                                             |                 1 |
+| United Nations                                                     |                 1 |
+| Advanced Economies                                                 |                 1 |
+| Association of Southeast Asian Nations (ASEAN)                     |                 2 |
+| Four Big European Countries                                        |                 1 |
+| USMCA                                                              |                 1 |
+| NICS                                                               |                 1 |
+| Bureau of Labor Statistics Pacific Rim                             |                 2 |

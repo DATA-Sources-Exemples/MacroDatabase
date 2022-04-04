@@ -1,4 +1,2 @@
-| id            | title                                                                                           | observation_start   | observation_end   |
-|---------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CES5552500001 | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
-| CEU5552500001 | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

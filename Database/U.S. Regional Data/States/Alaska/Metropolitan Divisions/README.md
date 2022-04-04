@@ -1,21 +1,21 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Cordova-McCarthy Division, AK        |                 3 |
-| Outer Ketchikan Division, AK         |                 3 |
-| Bethel Division, AK                  |                 3 |
-| Valdez-Chitina-Whittier Division, AK |                 3 |
-| Yukon-Koyukuk Division, AK           |                 3 |
-| Angoon Division, AK                  |                 3 |
-| Barrow-North Slope Division, AK      |                 3 |
-| Seward Division, AK                  |                 3 |
-| Aleutian Islands Division, AK        |                 3 |
-| Sitka Division, AK                   |                 3 |
-| Kenai-Cook Inlet Division, AK        |                 3 |
-| Skagway-Yakutat Division, AK         |                 3 |
-| Kuskokwim Division, AK               |                 3 |
-| Upper Yukon Division, AK             |                 3 |
-| Wrangell-Petersburg Division, AK     |                 3 |
-| Bristol Bay Division, AK             |                 3 |
-| Haines Division, AK                  |                 3 |
-| Southeast Fairbanks Division, AK     |                 3 |
-| Prince of Wales Division, AK         |                 3 |
+| Bethel Division, AK                  |                 1 |
+| Aleutian Islands Division, AK        |                 1 |
+| Prince of Wales Division, AK         |                 1 |
+| Skagway-Yakutat Division, AK         |                 1 |
+| Yukon-Koyukuk Division, AK           |                 1 |
+| Kuskokwim Division, AK               |                 1 |
+| Bristol Bay Division, AK             |                 1 |
+| Barrow-North Slope Division, AK      |                 1 |
+| Angoon Division, AK                  |                 1 |
+| Seward Division, AK                  |                 1 |
+| Southeast Fairbanks Division, AK     |                 1 |
+| Cordova-McCarthy Division, AK        |                 1 |
+| Wrangell-Petersburg Division, AK     |                 1 |
+| Outer Ketchikan Division, AK         |                 1 |
+| Kenai-Cook Inlet Division, AK        |                 1 |
+| Haines Division, AK                  |                 1 |
+| Upper Yukon Division, AK             |                 1 |
+| Sitka Division, AK                   |                 1 |
+| Valdez-Chitina-Whittier Division, AK |                 1 |

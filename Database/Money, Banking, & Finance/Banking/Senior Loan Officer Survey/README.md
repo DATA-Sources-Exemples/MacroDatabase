@@ -1,35 +1,3 @@
-| id           | title                                                                                                                                       | observation_start   | observation_end   |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DEMAUTO      | Net Percentage of Domestic Banks Reporting Stronger Demand for Auto Loans                                                                   | 2011-04-01          | 2022-01-01        |
-| DEMCC        | Net Percentage of Domestic Banks Reporting Stronger Demand for Credit Card Loans                                                            | 2011-04-01          | 2022-01-01        |
-| DEMOTHCONS   | Net Percentage of Domestic Banks Reporting Stronger Demand for Consumer Loans Excluding Credit Card and Auto Loans                          | 2011-04-01          | 2022-01-01        |
-| DRISCFLM     | Net Percentage of Domestic Banks Increasing Spreads of Loan Rates over Banks' Cost of Funds to Large and Middle-Market Firms                | 1990-04-01          | 2022-01-01        |
-| DRISCFS      | Net Percentage of Domestic Banks Increasing Spreads of Loan Rates over Banks' Cost of Funds to Small Firms                                  | 1990-04-01          | 2022-01-01        |
-| DRIWCIL      | Net Percentage of Domestic Banks Reporting Increased Willingness to Make Consumer Installment Loans                                         | 1982-04-01          | 2022-01-01        |
-| DRSDCILM     | Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial and Industrial Loans from Large and Middle-Market Firms           | 1991-10-01          | 2022-01-01        |
-| DRSDCIS      | Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial and Industrial Loans from Small Firms                             | 1991-10-01          | 2022-01-01        |
-| DRSDSP       | Net Percentage of Domestic Banks Reporting Stronger Demand for Subprime Mortgage Loans                                                      | 2007-04-01          | 2022-01-01        |
-| DRTSCILM     | Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Large and Middle-Market Firms                  | 1990-04-01          | 2022-01-01        |
-| DRTSCIS      | Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms                                    | 1990-04-01          | 2022-01-01        |
-| DRTSCLCC     | Net Percentage of Domestic Banks Tightening Standards for Credit Card Loans                                                                 | 1996-01-01          | 2022-01-01        |
-| DRTSSP       | Net Percentage of Domestic Banks Tightening Standards for Subprime Mortgage Loans                                                           | 2007-04-01          | 2022-01-01        |
-| STDSAUTO     | Net Percentage of Domestic Banks Tightening Standards for Auto Loans                                                                        | 2011-04-01          | 2022-01-01        |
-| STDSOTHCONS  | Net Percentage of Domestic Banks Tightening Standards for Consumer Loans Excluding Credit Card and Auto Loans                               | 2011-04-01          | 2022-01-01        |
-| SUBLPDHMDENQ | Net Percentage of Domestic Banks Reporting Stronger Demand for GSE-Eligible Mortgage Loans                                                  | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMDGNQ | Net Percentage of Domestic Banks Reporting Stronger Demand for Government Mortgage Loans                                                    | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMDJNQ | Net Percentage of Domestic Banks Reporting Stronger Demand for Qualified Mortgage Jumbo Mortgage Loans                                      | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMDKNQ | Net Percentage of Domestic Banks Reporting Stronger Demand for Non-Qualified Mortgage Jumbo Mortgage Loans                                  | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMDMNQ | Net Percentage of Domestic Banks Reporting Stronger Demand for Non-Qualified Mortgage Non-Jumbo Mortgage Loans                              | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMDQNQ | Net Percentage of Domestic Banks Reporting Stronger Demand for Qualified Mortgage Non-Jumbo, Non-GSE-Eligible Mortgage Loans                | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMSENQ | Net Percentage of Domestic Banks Tightening Standards for GSE-Eligible Mortgage Loans                                                       | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMSGNQ | Net Percentage of Domestic Banks Tightening Standards for Government Mortgage Loans                                                         | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMSJNQ | Net Percentage of Domestic Banks Tightening Standards for Qualified Mortgage Jumbo Mortgage Loans                                           | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMSKNQ | Net Percentage of Domestic Banks Tightening Standards for Non-Qualified Mortgage Jumbo Mortgage Loans                                       | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMSMNQ | Net Percentage of Domestic Banks Tightening Standards for Non-Qualified Mortgage Non-Jumbo Mortgage Loans                                   | 2015-01-01          | 2022-01-01        |
-| SUBLPDHMSQNQ | Net Percentage of Domestic Banks Tightening Standards for Qualified Mortgage Non-Jumbo, Non-GSE-Eligible Mortgage Loans                     | 2015-01-01          | 2022-01-01        |
-| SUBLPDRCDC   | Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial Real Estate Loans with Construction and Land Development Purposes | 2013-10-01          | 2022-01-01        |
-| SUBLPDRCDM   | Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial Real Estate Loans Secured by Multifamily Residential Structures   | 2013-10-01          | 2022-01-01        |
-| SUBLPDRCDN   | Net Percentage of Domestic Banks Reporting Stronger Demand for Commercial Real Estate Loans Secured by Nonfarm Nonresidential Structures    | 2013-10-01          | 2022-01-01        |
-| SUBLPDRCSC   | Net Percentage of Domestic Banks Tightening Standards for Commercial Real Estate Loans with Construction and Land Development Purposes      | 2013-10-01          | 2022-01-01        |
-| SUBLPDRCSM   | Net Percentage of Domestic Banks Tightening Standards for Commercial Real Estate Loans Secured by Multifamily Residential Structures        | 2013-10-01          | 2022-01-01        |
-| SUBLPDRCSN   | Net Percentage of Domestic Banks Tightening Standards for Commercial Real Estate Loans Secured by Nonfarm Nonresidential Structures         | 2013-10-01          | 2022-01-01        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 1 |

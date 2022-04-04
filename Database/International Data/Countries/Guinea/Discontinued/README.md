@@ -1,5 +1,2 @@
-| id         | title                                                                                                             | observation_start   | observation_end   |
-|------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANRIAIGN | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Guinea (DISCONTINUED)   | 1972-10-01          | 1973-01-01        |
-| IBANRIAOGN | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Guinea (DISCONTINUED) | 1972-10-01          | 1990-07-01        |
-| IBANRINIGN | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Guinea (DISCONTINUED)         | 1972-10-01          | 1990-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

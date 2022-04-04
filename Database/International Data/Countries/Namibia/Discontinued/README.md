@@ -1,14 +1,2 @@
-| id             | title                                                                                                                                                         | observation_start   | observation_end   |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANAINIAINA   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Namibia (DISCONTINUED)                                            | 2011-10-01          | 2011-10-01        |
-| IBANAINIAONA   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Namibia (DISCONTINUED)                                          | 2011-10-01          | 2015-04-01        |
-| IBANAINININA   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Namibia (DISCONTINUED)                                                  | 2011-10-01          | 2011-10-01        |
-| IBANRIAINA     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Namibia (DISCONTINUED)                                              | 2011-10-01          | 2011-10-01        |
-| IBANRIAONA     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Namibia (DISCONTINUED)                                            | 2011-10-01          | 2015-04-01        |
-| IBANRININA     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Namibia (DISCONTINUED)                                                    | 2011-10-01          | 2011-10-01        |
-| IDS1MNIAOAINA  | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Namibia (DISCONTINUED)                      | 1993-07-01          | 2014-10-01        |
-| IDS1MNIAOGGNA  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Namibia (DISCONTINUED)        | 1993-07-01          | 2014-10-01        |
-| IDS1YMAORIAINA | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Namibia (DISCONTINUED)                        | 1993-07-01          | 2014-10-01        |
-| IDS1YMAORIGGNA | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Namibia (DISCONTINUED)          | 1993-07-01          | 2014-10-01        |
-| IDSGGGAMNIAONA | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Namibia (DISCONTINUED) | 2011-10-01          | 2015-04-01        |
-| IDSGGGAMNININA | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Namibia (DISCONTINUED)         | 2011-10-01          | 2011-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,3 +1,3 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Consumer Expenditures |              1001 |
+| Consumer Expenditures |                 1 |

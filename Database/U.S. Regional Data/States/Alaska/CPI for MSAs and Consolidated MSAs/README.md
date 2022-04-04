@@ -1,3 +1,3 @@
 | Folder              |   Files / Folders |
 |---------------------|-------------------|
-| Anchorage, AK (MSA) |                51 |
+| Anchorage, AK (MSA) |                 1 |

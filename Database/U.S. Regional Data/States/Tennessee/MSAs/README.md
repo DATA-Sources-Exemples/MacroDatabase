@@ -1,9 +1,9 @@
 | Folder                                         |   Files / Folders |
 |------------------------------------------------|-------------------|
-| Jackson, TN                                    |               142 |
-| Nashville-Davidson--Murfreesboro--Franklin, TN |               189 |
-| Knoxville, TN                                  |               167 |
-| Memphis, TN-MS-AR                              |               181 |
-| Cleveland, TN                                  |               141 |
-| Morristown, TN                                 |               142 |
-| Johnson City, TN                               |               165 |
+| Morristown, TN                                 |                 2 |
+| Cleveland, TN                                  |                 2 |
+| Nashville-Davidson--Murfreesboro--Franklin, TN |                 2 |
+| Knoxville, TN                                  |                 2 |
+| Memphis, TN-MS-AR                              |                 2 |
+| Johnson City, TN                               |                 2 |
+| Jackson, TN                                    |                 2 |

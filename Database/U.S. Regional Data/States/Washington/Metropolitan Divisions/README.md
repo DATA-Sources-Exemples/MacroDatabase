@@ -1,4 +1,4 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Tacoma-Lakewood, WA          |               111 |
-| Seattle-Bellevue-Everett, WA |               228 |
+| Seattle-Bellevue-Everett, WA |                 1 |
+| Tacoma-Lakewood, WA          |                 1 |

@@ -1,3 +1,3 @@
 | Folder                            |   Files / Folders |
 |-----------------------------------|-------------------|
-| Denver-Boulder-Greeley, CO (CMSA) |                55 |
+| Denver-Boulder-Greeley, CO (CMSA) |                 1 |

@@ -1,9 +1,2 @@
-| id      | title                                                                                                                                                                                | observation_start   | observation_end   |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| D8LLRTL | Loan Loss Reserve to Total Loans for Banks Geographically Located in Federal Reserve District 8: St. Louis (DISCONTINUED)                                                            | 1984-01-01          | 2020-07-01        |
-| D8LSTL  | Net Loan Losses to Average Total Loans for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of 8th Banks (DISCONTINUED)                                 | 1984-01-01          | 2020-07-01        |
-| D8NIM   | Net Interest Margin for Banks Geographically Located in Federal Reserve District 8: St. Louis (DISCONTINUED)                                                                         | 1984-01-01          | 2020-07-01        |
-| D8NPTL  | Nonperforming Loans (past due 90+ days plus nonaccrual) to Total Loans for Banks Geographically Located in Federal Reserve District 8: St. Louis Portion of 8th Banks (DISCONTINUED) | 1984-01-01          | 2020-07-01        |
-| D8NUM   | Commercial Banks Geographically Located in Federal Reserve District 8: St. Louis (DISCONTINUED)                                                                                      | 1984-01-01          | 2020-07-01        |
-| D8ROA   | Return on Average Assets for Banks Geographically Located in Federal Reserve District 8: St. Louis (DISCONTINUED)                                                                    | 1984-01-01          | 2020-07-01        |
-| D8ROE   | Return on Average Equity for Banks Geographically Located in Federal Reserve District 8: St. Louis (DISCONTINUED)                                                                    | 1984-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

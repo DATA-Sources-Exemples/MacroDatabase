@@ -1,10 +1,2 @@
-| id                | title                                                                                                                 | observation_start   | observation_end   |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| GDPALL51919       | Gross Domestic Product: All Industries in Fairfax, Fairfax City + Falls Church County, VA                             | 2001-01-01          | 2020-01-01        |
-| GDPGOODS51919     | Gross Domestic Product: Private Goods-Producing Industries in Fairfax, Fairfax City + Falls Church County, VA         | 2003-01-01          | 2015-01-01        |
-| GDPGOVT51919      | Gross Domestic Product: Government and Government Enterprises in Fairfax, Fairfax City + Falls Church County, VA      | 2001-01-01          | 2020-01-01        |
-| GDPSERV51919      | Gross Domestic Product: Private Services-Providing Industries in Fairfax, Fairfax City + Falls Church County, VA      | 2003-01-01          | 2015-01-01        |
-| REALGDPALL51919   | Real Gross Domestic Product: All Industries in Fairfax, Fairfax City + Falls Church County, VA                        | 2001-01-01          | 2020-01-01        |
-| REALGDPGOODS51919 | Real Gross Domestic Product: Private Goods-Producing Industries in Fairfax, Fairfax City + Falls Church County, VA    | 2003-01-01          | 2015-01-01        |
-| REALGDPGOVT51919  | Real Gross Domestic Product: Government and Government Enterprises in Fairfax, Fairfax City + Falls Church County, VA | 2001-01-01          | 2020-01-01        |
-| REALGDPSERV51919  | Real Gross Domestic Product: Private Services-Providing Industries in Fairfax, Fairfax City + Falls Church County, VA | 2003-01-01          | 2015-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

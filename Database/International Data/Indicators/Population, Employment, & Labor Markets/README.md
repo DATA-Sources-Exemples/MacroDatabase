@@ -1,9 +1,9 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
-| Education                       |               693 |
-| Population                      |                 6 |
+| Labor Force Participation Rate  |                 1 |
+| Job Openings and Labor Turnover |                 1 |
+| Labor Force                     |                 2 |
 | Unemployment                    |                 2 |
-| Labor Force Participation Rate  |                19 |
-| Job Openings and Labor Turnover |               127 |
-| Labor Force                     |               774 |
-| Labor Compensation              |               607 |
+| Population                      |                 6 |
+| Education                       |                 2 |
+| Labor Compensation              |                 2 |

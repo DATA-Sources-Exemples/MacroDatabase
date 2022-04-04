@@ -1,25 +1,2 @@
-| id                     | title                                                                                                                                        | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA41940Q156N       | CredAbility Consumer Distress Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                              | 2005-01-01          | 2013-01-01        |
-| INTINCOMESSC           | Net Interest Income for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                    | 1989-01-01          | 2020-07-01        |
-| LLSRSSC                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)       | 1989-01-01          | 2020-07-01        |
-| LLSSSC                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIMSSC                 | Net Interest Margin for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                    | 1989-01-01          | 2020-07-01        |
-| NISSC                  | Net Income for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                             | 1989-01-01          | 2020-07-01        |
-| PCRGMP41940            | Total Per Capita Real Gross Domestic Product for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                     | 2001-01-01          | 2017-01-01        |
-| ROASSC                 | Return on Average Assets for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)               | 1989-01-01          | 2020-07-01        |
-| SMU06419403133320001   | All Employees: Durable Goods: Industrial Machinery Manufacturing in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-12-01        |
-| SMU06419403133320001A  | All Employees: Durable Goods: Industrial Machinery Manufacturing in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2012-01-01        |
-| SMU06419403133320001SA | All Employees: Durable Goods: Industrial Machinery Manufacturing in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                  | 1990-01-01          | 2013-12-01        |
-| SMU06419405051110001   | All Employees: Information: Newspaper, Periodical, Book, and Directory Publishers in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
-| SMU06419405051110001A  | All Employees: Information: Newspaper, Periodical, Book, and Directory Publishers in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2012-01-01        |
-| SMU06419405051110001SA | All Employees: Information: Newspaper, Periodical, Book, and Directory Publishers in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
-| SMU06419405051800001   | All Employees: Information: Data Processing, Hosting and Related Services in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)         | 1990-01-01          | 2014-12-01        |
-| SMU06419405051800001A  | All Employees: Information: Data Processing, Hosting and Related Services in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)         | 1990-01-01          | 2013-01-01        |
-| SMU06419405051800001SA | All Employees: Information: Data Processing, Hosting and Related Services in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)         | 1990-01-01          | 2014-12-01        |
-| SMU06419407072259001   | All Employees: Limited-Service Eating Places in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                      | 1990-01-01          | 2014-12-01        |
-| SMU06419407072259001A  | All Employees: Limited-Service Eating Places in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                      | 1990-01-01          | 2013-01-01        |
-| SMU06419407072259001SA | All Employees: Limited-Service Eating Places in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                      | 1990-01-01          | 2014-12-01        |
-| SSCAGRIDX              | Economic Conditions Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                                        | 1990-02-01          | 2019-12-01        |
-| TOTASSETSSC            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)      | 1989-01-01          | 2020-07-01        |
-| TOTLOANSSC             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)       | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

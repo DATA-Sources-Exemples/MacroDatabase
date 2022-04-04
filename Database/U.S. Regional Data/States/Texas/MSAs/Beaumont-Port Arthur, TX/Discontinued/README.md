@@ -1,4 +1,2 @@
-| id              | title                                                                                          | observation_start   | observation_end   |
-|-----------------|------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BEASA175AFRBDAL | Total Nonfarm Payroll Employment for Beaumont-Port Arthur, TX (MSA) (DISCONTINUED)             | 1990-01-01          | 2016-01-01        |
-| PCRGMP13140     | Total Per Capita Real Gross Domestic Product for Beaumont-Port Arthur, TX (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

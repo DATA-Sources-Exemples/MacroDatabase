@@ -1,18 +1,2 @@
-| id                 | title                                                                                                                                               | observation_start   | observation_end   |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CP0600EU27M086NEST | Harmonized Index of Consumer Prices: Health for European Union (27 countries) (DISCONTINUED)                                                        | 1996-01-01          | 2015-12-01        |
-| CP0600EZ17M086NEST | Harmonized Index of Consumer Prices: Health for Euro area (17 countries) (DISCONTINUED)                                                             | 1996-01-01          | 2015-12-01        |
-| CP0610EU27M086NEST | Harmonized Index of Consumer Prices: Medical Products, Appliances, and Equipment for European Union (27 countries) (DISCONTINUED)                   | 1999-12-01          | 2015-12-01        |
-| CP0610EZ17M086NEST | Harmonized Index of Consumer Prices: Medical Products, Appliances, and Equipment for Euro area (17 countries) (DISCONTINUED)                        | 1999-12-01          | 2015-12-01        |
-| CP0611EU27M086NEST | Harmonized Index of Consumer Prices: Pharmaceutical Products for European Union (27 countries) (DISCONTINUED)                                       | 1999-12-01          | 2015-12-01        |
-| CP0611EZ17M086NEST | Harmonized Index of Consumer Prices: Pharmaceutical Products for Euro area (17 countries) (DISCONTINUED)                                            | 1999-12-01          | 2015-12-01        |
-| CP0612EU27M086NEST | Harmonized Index of Consumer Prices: Other Medical Products, Therapeutic Appliances, and Equipment for European Union (27 countries) (DISCONTINUED) | 1999-12-01          | 2015-12-01        |
-| CP0612EZ17M086NEST | Harmonized Index of Consumer Prices: Other Medical Products, Therapeutic Appliances, and Equipment for Euro area (17 countries) (DISCONTINUED)      | 1999-12-01          | 2015-12-01        |
-| CP0620EU27M086NEST | Harmonized Index of Consumer Prices: Out-Patient Services for European Union (27 countries) (DISCONTINUED)                                          | 1999-12-01          | 2015-12-01        |
-| CP0620EZ17M086NEST | Harmonized Index of Consumer Prices: Out-Patient Services for Euro area (17 countries) (DISCONTINUED)                                               | 1999-12-01          | 2015-12-01        |
-| CP0621EU27M086NEST | Harmonized Index of Consumer Prices: Medical Services and Paramedical Services for European Union (27 countries) (DISCONTINUED)                     | 1999-12-01          | 2015-12-01        |
-| CP0621EZ17M086NEST | Harmonized Index of Consumer Prices: Medical Services and Paramedical Services for Euro area (17 countries) (DISCONTINUED)                          | 1999-12-01          | 2015-12-01        |
-| CP0622EU27M086NEST | Harmonized Index of Consumer Prices: Dental Services for European Union (27 countries) (DISCONTINUED)                                               | 1999-12-01          | 2015-12-01        |
-| CP0622EZ17M086NEST | Harmonized Index of Consumer Prices: Dental Services for Euro area (17 countries) (DISCONTINUED)                                                    | 1999-12-01          | 2015-12-01        |
-| CP0630EU27M086NEST | Harmonized Index of Consumer Prices: Hospital Services for European Union (27 countries) (DISCONTINUED)                                             | 1999-12-01          | 2015-12-01        |
-| CP0630EZ17M086NEST | Harmonized Index of Consumer Prices: Hospital Services for Euro area (17 countries) (DISCONTINUED)                                                  | 1999-12-01          | 2015-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

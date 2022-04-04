@@ -1,9 +1,9 @@
 | Folder                        |   Files / Folders |
 |-------------------------------|-------------------|
-| Monetary Data                 |                 3 |
-| Financial Indicators          |                 5 |
+| Exchange Rate                 |                 2 |
+| Reserves & Monetary Base      |                 1 |
 | International Debt Securities |                 1 |
-| Exchange Rate                 |               679 |
-| Financial Institutions        |               331 |
-| Financial Stress Indicators   |                25 |
-| Reserves & Monetary Base      |                52 |
+| Financial Stress Indicators   |                 1 |
+| Monetary Data                 |                 3 |
+| Financial Institutions        |                 2 |
+| Financial Indicators          |                 5 |

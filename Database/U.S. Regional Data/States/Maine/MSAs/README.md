@@ -1,4 +1,4 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Portland-South Portland, ME |                78 |
-| Bangor, ME                  |                91 |
+| Portland-South Portland, ME |                 2 |
+| Bangor, ME                  |                 1 |

@@ -1,3 +1,2 @@
-| id          | title                                                                            | observation_start   | observation_end   |
-|-------------|----------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP39380 | Total Per Capita Real Gross Domestic Product for Pueblo, CO (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

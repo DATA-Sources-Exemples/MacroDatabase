@@ -1,10 +1,2 @@
-| id              | title                                                                                                                                                                    | observation_start   | observation_end   |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| J4710C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Manufacturing: Durable goods (DISCONTINUED)                                              | 1948-01-01          | 1969-01-01        |
-| J4711C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Manufacturing: Nondurable goods (DISCONTINUED)                                           | 1948-01-01          | 1969-01-01        |
-| J4713C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Transportation (DISCONTINUED)                                                            | 1948-01-01          | 1969-01-01        |
-| J4715C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Transportation and public utilities: Electric, gas, and sanitary services (DISCONTINUED) | 1948-01-01          | 1969-01-01        |
-| J4716C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Wholesale trade (DISCONTINUED)                                                           | 1948-01-01          | 1969-01-01        |
-| J4717C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Retail trade (DISCONTINUED)                                                              | 1948-01-01          | 1969-01-01        |
-| J4718C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Finance, insurance, and real estate (DISCONTINUED)                                       | 1948-01-01          | 1969-01-01        |
-| J4719C0A222NBEA | Hours worked by full-time and part-time employees: Domestic private industries: Services (DISCONTINUED)                                                                  | 1948-01-01          | 1969-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

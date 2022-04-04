@@ -1,4 +1,4 @@
 | Folder                         |   Files / Folders |
 |--------------------------------|-------------------|
-| Manchester-Nashua, NH          |                77 |
-| Boston-Cambridge-Newton, MA-NH |                90 |
+| Boston-Cambridge-Newton, MA-NH |                 2 |
+| Manchester-Nashua, NH          |                 2 |

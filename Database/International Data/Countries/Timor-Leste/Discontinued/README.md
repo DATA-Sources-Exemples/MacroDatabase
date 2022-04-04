@@ -1,23 +1,2 @@
-| id               | title                                                                                                                                  | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DDAI01TLA642NWDB | Number of Bank Accounts for Democratic Republic of Timor-Leste (DISCONTINUED)                                                          | 2004-01-01          | 2013-01-01        |
-| DDAI02TLA643NWDB | Number of Bank Branches for Democratic Republic of Timor-Leste (DISCONTINUED)                                                          | 2004-01-01          | 2013-01-01        |
-| DDAI03TLA156NWDB | Firms with a Bank Loan or Line of Credit to Total Firms for Democratic Republic of Timor-Leste (DISCONTINUED)                          | 2009-01-01          | 2009-01-01        |
-| DDAI04TLA156NWDB | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Democratic Republic of Timor-Leste (DISCONTINUED)              | 2009-01-01          | 2009-01-01        |
-| DDDI01TLA156NWDB | Private Credit by Deposit Money Banks to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                     | 2012-01-01          | 2012-01-01        |
-| DDDI02TLA156NWDB | Deposit Money Bank Assets to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                                 | 2012-01-01          | 2012-01-01        |
-| DDDI04TLA156NWDB | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Democratic Republic of Timor-Leste (DISCONTINUED)   | 2003-01-01          | 2013-01-01        |
-| DDDI05TLA156NWDB | Liquid Liabilities to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                                        | 2003-01-01          | 2012-01-01        |
-| DDDI06TLA156NWDB | Central Bank Assets to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                                       | 2004-01-01          | 2012-01-01        |
-| DDDI08TLA156NWDB | Financial System Deposits to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                                 | 2003-01-01          | 2012-01-01        |
-| DDDI12TLA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)    | 2003-01-01          | 2012-01-01        |
-| DDEI02TLA156NWDB | Bank Lending Deposit Spread for Democratic Republic of Timor-Leste (DISCONTINUED)                                                      | 2003-01-01          | 2013-01-01        |
-| DDOE01TLA086NWDB | Consumer Price Index for Democratic Republic of Timor-Leste (DISCONTINUED)                                                             | 2001-01-01          | 2013-01-01        |
-| DDOE02TLA086NWDB | Consumer Price Index for Democratic Republic of Timor-Leste (DISCONTINUED)                                                             | 2001-01-01          | 2014-01-01        |
-| DDOI02TLA156NWDB | Bank Deposits to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                                             | 2003-01-01          | 2012-01-01        |
-| DDOI07TLA648NWDB | Liquid Liabilities (Broad Money) for Democratic Republic of Timor-Leste (DISCONTINUED)                                                 | 2002-01-01          | 2011-01-01        |
-| DDOI09TLA156NWDB | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                       | 2002-01-01          | 2012-01-01        |
-| DDOI10TLA156NWDB | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for Democratic Republic of Timor-Leste (DISCONTINUED) | 2003-01-01          | 2014-01-01        |
-| DDOI11TLA156NWDB | Remittance Inflows to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                                                        | 2006-01-01          | 2014-01-01        |
-| DDOI12TLA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Democratic Republic of Timor-Leste (DISCONTINUED)                        | 2004-01-01          | 2013-01-01        |
-| DDSI04TLA156NWDB | Bank Credit to Bank Deposits for Democratic Republic of Timor-Leste (DISCONTINUED)                                                     | 2002-01-01          | 2013-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

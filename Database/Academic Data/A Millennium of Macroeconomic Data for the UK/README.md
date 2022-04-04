@@ -1,8 +1,8 @@
 | Folder                           |   Files / Folders |
 |----------------------------------|-------------------|
-| Labour, Capital and Productivity |                14 |
-| Financial Markets                |                39 |
-| Trade                            |                 7 |
-| Wages and Prices                 |                17 |
-| Money and Credit                 |                22 |
-| Fiscal                           |                 9 |
+| Money and Credit                 |                 1 |
+| Trade                            |                 1 |
+| Labour, Capital and Productivity |                 1 |
+| Fiscal                           |                 1 |
+| Wages and Prices                 |                 1 |
+| Financial Markets                |                 1 |

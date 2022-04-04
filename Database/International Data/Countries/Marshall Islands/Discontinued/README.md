@@ -1,3 +1,2 @@
-| id               | title                                                                                         | observation_start   | observation_end   |
-|------------------|-----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DDOI12MHA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for Marshall Islands (DISCONTINUED) | 2002-01-01          | 2008-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

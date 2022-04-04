@@ -1,6 +1,2 @@
-| id                | title                                                                                                                                                   | observation_start   | observation_end   |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCU531130531130SM | Producer Price Index by Industry: Miniwarehouse and Self-Storage Unit Operators: Other Receipts (DISCONTINUED)                                          | 2003-12-01          | 2012-03-01        |
-| PCU532111532111SM | Producer Price Index by Industry: Passenger Car Rental: Other Receipts (DISCONTINUED)                                                                   | 1991-12-01          | 2015-12-01        |
-| PCU5321205321205  | Producer Price Index by Industry: Truck, Trailer and RV Rental and Leasing: Truck Tractor Rental and/or Leasing (DISCONTINUED)                          | 2007-06-01          | 2015-09-01        |
-| PCU5321205321206  | Producer Price Index by Industry: Truck, Trailer and RV Rental and Leasing: Truck Trailer, Utility Trailer, and RV Rental and/or Leasing (DISCONTINUED) | 2007-06-01          | 2015-09-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

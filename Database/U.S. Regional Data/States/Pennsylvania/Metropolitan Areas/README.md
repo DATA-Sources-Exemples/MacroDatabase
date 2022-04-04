@@ -1,3 +1,3 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Philadelphia City, PA |               107 |
+| Philadelphia City, PA |                 1 |

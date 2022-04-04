@@ -1,10 +1,2 @@
-| id                | title                                                                                                                | observation_start   | observation_end   |
-|-------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| GDPALL16043       | Gross Domestic Product: All Industries in Fremont (Includes Yellowstone Park) County, ID                             | 2001-01-01          | 2020-01-01        |
-| GDPGOODS16043     | Gross Domestic Product: Private Goods-Producing Industries in Fremont (Includes Yellowstone Park) County, ID         | 2001-01-01          | 2020-01-01        |
-| GDPGOVT16043      | Gross Domestic Product: Government and Government Enterprises in Fremont (Includes Yellowstone Park) County, ID      | 2001-01-01          | 2020-01-01        |
-| GDPSERV16043      | Gross Domestic Product: Private Services-Providing Industries in Fremont (Includes Yellowstone Park) County, ID      | 2001-01-01          | 2020-01-01        |
-| REALGDPALL16043   | Real Gross Domestic Product: All Industries in Fremont (Includes Yellowstone Park) County, ID                        | 2001-01-01          | 2020-01-01        |
-| REALGDPGOODS16043 | Real Gross Domestic Product: Private Goods-Producing Industries in Fremont (Includes Yellowstone Park) County, ID    | 2001-01-01          | 2020-01-01        |
-| REALGDPGOVT16043  | Real Gross Domestic Product: Government and Government Enterprises in Fremont (Includes Yellowstone Park) County, ID | 2001-01-01          | 2020-01-01        |
-| REALGDPSERV16043  | Real Gross Domestic Product: Private Services-Providing Industries in Fremont (Includes Yellowstone Park) County, ID | 2001-01-01          | 2020-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

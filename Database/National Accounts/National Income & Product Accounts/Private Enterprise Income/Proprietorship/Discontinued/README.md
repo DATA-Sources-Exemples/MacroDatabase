@@ -1,5 +1,2 @@
-| id              | title                                                                                                                        | observation_start   | observation_end   |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| B046RC0A144NBEA | Nonfarm proprietors' income, NIPAs (DISCONTINUED)                                                                            | 1929-01-01          | 2016-01-01        |
-| B1226C1A027NBEA | Nonfarm sole proprietorships and partnerships: Depreciation of computer software not in IRS depreciation (DISCONTINUED)      | 1929-01-01          | 2010-01-01        |
-| W359RC1A027NBEA | Borrower services: Imputed interest paid: Domestic business: Rental income of persons and proprietors' income (DISCONTINUED) | 1946-01-01          | 2013-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

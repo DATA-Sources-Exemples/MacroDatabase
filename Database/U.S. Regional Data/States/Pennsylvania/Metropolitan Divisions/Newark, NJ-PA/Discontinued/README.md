@@ -1,3 +1,2 @@
-| id                     | title                                                             | observation_start   | observation_end   |
-|------------------------|-------------------------------------------------------------------|---------------------|-------------------|
-| SMU34350840000000001SA | All Employees: Total Nonfarm in Newark, NJ-PA (MD) (DISCONTINUED) | 1990-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

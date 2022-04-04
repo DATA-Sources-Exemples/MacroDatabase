@@ -1,11 +1,2 @@
-| id             | title                                                                                                                                                         | observation_start   | observation_end   |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANAINIAISN   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Senegal (DISCONTINUED)                                            | 2009-10-01          | 2014-07-01        |
-| IBANAINIAOSN   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Senegal (DISCONTINUED)                                          | 2009-10-01          | 2015-04-01        |
-| IBANAININISN   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Senegal (DISCONTINUED)                                                  | 2009-10-01          | 2014-10-01        |
-| IBANRIAISN     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Senegal (DISCONTINUED)                                              | 2009-10-01          | 2014-07-01        |
-| IBANRIAOSN     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Senegal (DISCONTINUED)                                            | 2009-10-01          | 2015-04-01        |
-| IBANRINISN     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Senegal (DISCONTINUED)                                                    | 2009-10-01          | 2014-10-01        |
-| IDS1MNIAOGGSN  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Senegal (DISCONTINUED)        | 2013-10-01          | 2014-07-01        |
-| IDSGGGAMNIAOSN | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Senegal (DISCONTINUED) | 2009-10-01          | 2015-04-01        |
-| IDSGGGAMNINISN | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Senegal (DISCONTINUED)         | 2009-10-01          | 2014-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

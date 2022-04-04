@@ -1,6 +1,2 @@
-| id                     | title                                                                                                                       | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP42220            | Total Per Capita Real Gross Domestic Product for Santa Rosa, CA (MSA) (DISCONTINUED)                                        | 2001-01-01          | 2017-01-01        |
-| SMU06422203133400001   | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Santa Rosa-Petaluma, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06422203133400001A  | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Santa Rosa-Petaluma, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
-| SMU06422203133400001SA | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Santa Rosa-Petaluma, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,14 +1,2 @@
-| id               | title                                                                                                                                                      | observation_start   | observation_end   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DDDI09IQA156NWDB | Life Insurance Premium Volume to GDP for Iraq (DISCONTINUED)                                                                                               | 1979-01-01          | 1990-01-01        |
-| DDDI10IQA156NWDB | Non-Life Insurance Premium Volume to GDP for Iraq (DISCONTINUED)                                                                                           | 1987-01-01          | 1990-01-01        |
-| DDDM07IQA156NWDB | Outstanding Total International Debt Securities to GDP for Iraq (DISCONTINUED)                                                                             | 2006-01-01          | 2010-01-01        |
-| IBANAINIAIIQ     | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Iraq (DISCONTINUED)                                            | 2006-01-01          | 2006-01-01        |
-| IBANAINIAOIQ     | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Iraq (DISCONTINUED)                                          | 2006-01-01          | 2015-04-01        |
-| IBANAININIIQ     | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Iraq (DISCONTINUED)                                                  | 2006-01-01          | 2009-10-01        |
-| IBANRIAIIQ       | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Iraq (DISCONTINUED)                                              | 2006-01-01          | 2006-01-01        |
-| IBANRIAOIQ       | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Iraq (DISCONTINUED)                                            | 2006-01-01          | 2015-04-01        |
-| IBANRINIIQ       | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Iraq (DISCONTINUED)                                                    | 2006-01-01          | 2009-10-01        |
-| IDS1MNIAOGGIQ    | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Iraq (DISCONTINUED)        | 2008-10-01          | 2009-07-01        |
-| IDSGGGAMNIAOIQ   | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Iraq (DISCONTINUED) | 2006-01-01          | 2015-04-01        |
-| IDSGGGAMNINIIQ   | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Iraq (DISCONTINUED)         | 2006-01-01          | 2009-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

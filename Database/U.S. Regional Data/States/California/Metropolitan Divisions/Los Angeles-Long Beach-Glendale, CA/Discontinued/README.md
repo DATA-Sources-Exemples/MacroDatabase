@@ -1,14 +1,2 @@
-| id                     | title                                                                                                                                   | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU06310843231200001   | All Employees: Non-Durable Goods: Beverage and Tobacco Product Manufacturing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06310843231200001A  | All Employees: Non-Durable Goods: Beverage and Tobacco Product Manufacturing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
-| SMU06310843231200001SA | All Employees: Non-Durable Goods: Beverage and Tobacco Product Manufacturing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06310845553200001   | All Employees: Rental and Leasing Services in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                                   | 1990-01-01          | 2013-12-01        |
-| SMU06310845553200001A  | All Employees: Rental and Leasing Services in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                                   | 1990-01-01          | 2012-01-01        |
-| SMU06310845553200001SA | All Employees: Rental and Leasing Services in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                                   | 1990-01-01          | 2013-12-01        |
-| SMU06310845553210001   | All Employees: Automotive Equipment Rental and Leasing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                       | 1990-01-01          | 2013-12-01        |
-| SMU06310845553210001A  | All Employees: Automotive Equipment Rental and Leasing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                       | 1990-01-01          | 2012-01-01        |
-| SMU06310845553210001SA | All Employees: Automotive Equipment Rental and Leasing in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                       | 1990-01-01          | 2013-12-01        |
-| SMU06310846561120001   | All Employees: Educational Services: Junior Colleges in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                         | 1990-01-01          | 2014-12-01        |
-| SMU06310846561120001A  | All Employees: Educational Services: Junior Colleges in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                         | 1990-01-01          | 2013-01-01        |
-| SMU06310846561120001SA | All Employees: Educational Services: Junior Colleges in Los Angeles-Long Beach-Glendale, CA (MD) (DISCONTINUED)                         | 1990-01-01          | 2014-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

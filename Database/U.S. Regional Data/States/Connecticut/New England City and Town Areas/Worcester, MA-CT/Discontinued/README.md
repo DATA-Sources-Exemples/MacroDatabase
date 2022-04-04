@@ -1,13 +1,2 @@
-| id               | title                                                                                                                   | observation_start   | observation_end   |
-|------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA49340Q156N | CredAbility Consumer Distress Index for Worcester, MA (MSA) (DISCONTINUED)                                              | 2005-01-01          | 2013-01-01        |
-| INTINCOMEWTR     | Net Interest Income for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSRWTR          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| LLSWTR           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| NIMWTR           | Net Interest Margin for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NIWTR            | Net Income for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP49340      | Total Per Capita Real Gross Domestic Product for Worcester, MA-CT (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROAWTR           | Return on Average Assets for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETWTR      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANWTR       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Worcester, MA-CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| WTRAGRIDX        | Economic Conditions Index for Worcester, MA-CT (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

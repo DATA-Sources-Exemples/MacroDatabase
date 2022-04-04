@@ -1,3 +1,2 @@
-| id             | title                                                                    | observation_start   | observation_end   |
-|----------------|--------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS37764Q | All-Transactions House Price Index for Peabody, MA (MSAD) (DISCONTINUED) | 1979-07-01          | 2013-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

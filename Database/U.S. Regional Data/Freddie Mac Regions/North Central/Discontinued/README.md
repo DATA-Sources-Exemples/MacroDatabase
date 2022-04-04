@@ -1,12 +1,2 @@
-| id           | title                                                                                                                             | observation_start   | observation_end   |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| MORTGAGE1NC  | 1-Year Adjustable Rate Mortgage Average in the North Central Freddie Mac Region (DISCONTINUED)                                    | 1986-04-04          | 2015-12-31        |
-| MORTGAGE5NC  | 5/1-Year Adjustable Rate Mortgage Average in the North Central Freddie Mac Region (DISCONTINUED)                                  | 2005-01-06          | 2015-12-31        |
-| MORTGAGE15NC | 15-Year Fixed Rate Mortgage Average in the North Central Freddie Mac Region (DISCONTINUED)                                        | 1991-08-30          | 2015-12-31        |
-| MORTGAGE30NC | 30-Year Fixed Rate Mortgage Average in the North Central Freddie Mac Region (DISCONTINUED)                                        | 1976-03-26          | 2015-12-31        |
-| MORTMRGN1NC  | Margin for 1-Year Adjustable Rate Mortgage in the North Central Freddie Mac Region (DISCONTINUED)                                 | 1988-02-19          | 2015-12-31        |
-| MORTMRGN5NC  | Margin for 5/1-Year Adjustable Rate Mortgage in the North Central Freddie Mac Region (DISCONTINUED)                               | 2005-01-06          | 2015-12-31        |
-| MORTPTS1NC   | Origination Fees and Discount Points for 1-Year Adjustable Rate Mortgage in the North Central Freddie Mac Region (DISCONTINUED)   | 1986-04-04          | 2015-12-31        |
-| MORTPTS5NC   | Origination Fees and Discount Points for 5/1-Year Adjustable Rate Mortgage in the North Central Freddie Mac Region (DISCONTINUED) | 2005-01-06          | 2015-12-31        |
-| MORTPTS15NC  | Origination Fees and Discount Points for 15-Year Fixed Rate Mortgage in the North Central Freddie Mac Region (DISCONTINUED)       | 1991-08-30          | 2015-12-31        |
-| MORTPTS30NC  | Origination Fees and Discount Points for 30-Year Fixed Rate Mortgage in the North Central Freddie Mac Region (DISCONTINUED)       | 1976-03-26          | 2015-12-31        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

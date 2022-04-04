@@ -1,12 +1,2 @@
-| id           | title                                                                                                                                     | observation_start   | observation_end   |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CHIAGRIDX    | Economic Conditions Index for Chicago-Naperville-Joliet, IL-IN-WI (MSA) (DISCONTINUED)                                                    | 1990-02-01          | 2019-12-01        |
-| INTINCOMECHI | Net Interest Income for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSCHI       | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRCHI      | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NICHI        | Net Income for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMCHI       | Net Interest Margin for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP16980  | Total Per Capita Real Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROACHI       | Return on Average Assets for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETCHI  | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANCHI   | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Chicago-Naperville-Elgin, IL-IN-WI (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

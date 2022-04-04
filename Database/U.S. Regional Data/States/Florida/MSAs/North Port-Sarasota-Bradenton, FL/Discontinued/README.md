@@ -1,16 +1,2 @@
-| id               | title                                                                                                                                    | observation_start   | observation_end   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA35840Q156N | CredAbility Consumer Distress Index for North Port-Bradenton-Sarasota, FL (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| ENUC422630010    | Total Quarterly Wages in Sarasota-Bradenton-Venice, FL (MSA) (DISCONTINUED)                                                              | 1990-01-01          | 2012-10-01        |
-| ENUC422630010SA  | Total Quarterly Wages in Sarasota-Bradenton-Venice, FL (MSA) (DISCONTINUED)                                                              | 1990-01-01          | 2012-10-01        |
-| INTINCOMESAR     | Net Interest Income for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSRSAR          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| LLSSAR           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| NIMSAR           | Net Interest Margin for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NISAR            | Net Income for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP35840      | Total Per Capita Real Gross Domestic Product for North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROASAR           | Return on Average Assets for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| SARA212NA        | All Employees: Total Nonfarm in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                                                   | 1990-01-01          | 2015-05-01        |
-| SARAGRIDX        | Economic Conditions Index for North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| TOTASSETSAR      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANSAR       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

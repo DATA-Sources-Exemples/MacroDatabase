@@ -1,3 +1,2 @@
-| id                     | title                                                                                     | observation_start   | observation_end   |
-|------------------------|-------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU25765240000000001SA | All Employees: Total Nonfarm in Peabody-Salem-Beverly, MA (NECTA Division) (DISCONTINUED) | 1990-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

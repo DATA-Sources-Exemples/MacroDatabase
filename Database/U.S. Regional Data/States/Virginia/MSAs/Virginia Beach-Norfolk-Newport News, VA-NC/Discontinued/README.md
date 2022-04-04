@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                             | observation_start   | observation_end   |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA47260Q156N | CredAbility Consumer Distress Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMENFK     | Net Interest Income for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSNFK           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRNFK          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NFKAGRIDX        | Economic Conditions Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| NIMNFK           | Net Interest Margin for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NINFK            | Net Income for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP47260      | Total Per Capita Real Gross Domestic Product for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROANFK           | Return on Average Assets for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETNFK      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANNFK       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

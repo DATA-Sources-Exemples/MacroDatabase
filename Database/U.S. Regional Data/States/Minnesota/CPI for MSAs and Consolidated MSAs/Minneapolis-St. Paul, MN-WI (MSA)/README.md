@@ -1,7 +1,2 @@
-| id              | title                                                                                                                         | observation_start   | observation_end   |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CUUSA211SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA) | 1984-01-01          | 2021-07-01        |
-| CUUSA211SA0S    | Consumer Price Index for All Urban Consumers: All Items in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)                      | 1984-01-01          | 2021-07-01        |
-| CUUSA211SAC     | Consumer Price Index for All Urban Consumers: Commodities in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                    | 1984-01-01          | 2021-01-01        |
-| CUUSA211SACS    | Consumer Price Index for All Urban Consumers: Commodities in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)                    | 1984-01-01          | 2021-07-01        |
-| CUUSA211SASS    | Consumer Price Index for All Urban Consumers: Services in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)                       | 1984-01-01          | 2021-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

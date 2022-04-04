@@ -1,9 +1,9 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Joplin, MO            |               149 |
-| Jefferson City, MO    |               129 |
-| Cape Girardeau, MO-IL |                93 |
-| St. Louis, MO-IL      |               241 |
-| Springfield, MO       |               182 |
-| St. Joseph, MO-KS     |               106 |
-| Columbia, MO          |               135 |
+| St. Joseph, MO-KS     |                 2 |
+| Springfield, MO       |                 2 |
+| Cape Girardeau, MO-IL |                 2 |
+| Joplin, MO            |                 2 |
+| Columbia, MO          |                 2 |
+| St. Louis, MO-IL      |                 2 |
+| Jefferson City, MO    |                 2 |

@@ -1,3 +1,2 @@
-| id          | title                                                                                                | observation_start   | observation_end   |
-|-------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP19780 | Total Per Capita Real Gross Domestic Product for Des Moines-West Des Moines, IA (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

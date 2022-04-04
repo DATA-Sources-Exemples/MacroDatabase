@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                      | observation_start   | observation_end   |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA45300Q156N | CredAbility Consumer Distress Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMETMA     | Net Interest Income for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSRTMA          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| LLSTMA           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| NIMTMA           | Net Interest Margin for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NITMA            | Net Income for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP45300      | Total Per Capita Real Gross Domestic Product for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROATMA           | Return on Average Assets for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TMAAGRIDX        | Economic Conditions Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| TOTASSETTMA      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANTMA       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

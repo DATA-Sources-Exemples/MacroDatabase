@@ -1,15 +1,2 @@
-| id                     | title                                                                                                                                       | observation_start   | observation_end   |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU06418840000000001SA | All Employees: Total Nonfarm in San Francisco-Redwood City-South San Francisco, CA (MD) (DISCONTINUED)                                      | 1990-01-01          | 2017-01-01        |
-| SMU06418843133400001   | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06418843133400001A  | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED) | 1990-01-01          | 2013-01-01        |
-| SMU06418843133400001SA | All Employees: Durable Goods: Computer and Electronic Product Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED) | 1990-01-01          | 2014-12-01        |
-| SMU06418843232500001   | All Employees: Non-Durable Goods: Chemical Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)                    | 1990-01-01          | 2014-12-01        |
-| SMU06418843232500001A  | All Employees: Non-Durable Goods: Chemical Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)                    | 1990-01-01          | 2013-01-01        |
-| SMU06418843232500001SA | All Employees: Non-Durable Goods: Chemical Manufacturing in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)                    | 1990-01-01          | 2014-12-01        |
-| SMU06418845051200001   | All Employees: Information: Motion Picture and Sound Recording Industries in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)   | 1990-01-01          | 2014-12-01        |
-| SMU06418845051200001A  | All Employees: Information: Motion Picture and Sound Recording Industries in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)   | 1990-01-01          | 2013-01-01        |
-| SMU06418845051200001SA | All Employees: Information: Motion Picture and Sound Recording Industries in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)   | 1990-01-01          | 2014-12-01        |
-| SMU06418845051500001   | All Employees: Information: Broadcasting (except Internet) in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)                  | 1990-01-01          | 2014-12-01        |
-| SMU06418845051500001A  | All Employees: Information: Broadcasting (except Internet) in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)                  | 1990-01-01          | 2013-01-01        |
-| SMU06418845051500001SA | All Employees: Information: Broadcasting (except Internet) in San Francisco-San Mateo-Redwood City, CA (MD) (DISCONTINUED)                  | 1990-01-01          | 2014-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

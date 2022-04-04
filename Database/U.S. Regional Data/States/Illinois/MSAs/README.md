@@ -1,11 +1,11 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Springfield, IL       |               170 |
-| Champaign-Urbana, IL  |               166 |
-| Bloomington, IL       |               114 |
-| Carbondale-Marion, IL |                58 |
-| Peoria, IL            |               168 |
-| Decatur, IL           |               148 |
-| Rockford, IL          |               167 |
-| Kankakee, IL          |               143 |
-| Danville, IL          |               139 |
+| Danville, IL          |                 2 |
+| Springfield, IL       |                 2 |
+| Kankakee, IL          |                 2 |
+| Peoria, IL            |                 2 |
+| Rockford, IL          |                 2 |
+| Decatur, IL           |                 2 |
+| Bloomington, IL       |                 2 |
+| Champaign-Urbana, IL  |                 2 |
+| Carbondale-Marion, IL |                 2 |

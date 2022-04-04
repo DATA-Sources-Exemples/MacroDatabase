@@ -1,4 +1,2 @@
-| id              | title                                                                                           | observation_start   | observation_end   |
-|-----------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BRYSA175AFRBDAL | Total Nonfarm Payroll Employment for College Station-Bryan, TX (MSA) (DISCONTINUED)             | 1990-01-01          | 2016-01-01        |
-| PCRGMP17780     | Total Per Capita Real Gross Domestic Product for College Station-Bryan, TX (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

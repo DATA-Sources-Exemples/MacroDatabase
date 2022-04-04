@@ -1,5 +1,5 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| New Castle County, DE |               146 |
-| Sussex County, DE     |               145 |
-| Kent County, DE       |               145 |
+| Sussex County, DE     |                 1 |
+| New Castle County, DE |                 1 |
+| Kent County, DE       |                 1 |

@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                  | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA19100Q156N | CredAbility Consumer Distress Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| DFWAGRIDX        | Economic Conditions Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| INTINCOMEDFW     | Net Interest Income for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSDFW           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRDFW          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIDFW            | Net Income for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMDFW           | Net Interest Margin for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP19100      | Total Per Capita Real Gross Domestic Product for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROADFW           | Return on Average Assets for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETDFW      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANDFW       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

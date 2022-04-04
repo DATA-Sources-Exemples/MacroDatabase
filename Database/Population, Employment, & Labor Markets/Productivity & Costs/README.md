@@ -1,15 +1,15 @@
 | Folder                                                                   |   Files / Folders |
 |--------------------------------------------------------------------------|-------------------|
-| Business                                                                 |                92 |
-| Mining                                                                   |                28 |
-| Nonfinancial Corporations                                                |                58 |
-| Professional, Scientific, and Technical Services                         |                69 |
-| Transportation and Warehousing                                           |                48 |
-| Real Estate and Rental and Leasing                                       |                51 |
-| Finance and Insurance                                                    |               168 |
-| Other Services (except Public Administration)                            |               479 |
-| Administrative and Support and Waste Management and Remediation Services |               248 |
+| Transportation and Warehousing                                           |                 1 |
+| Nonfarm Business                                                         |                 1 |
+| Nonfinancial Corporations                                                |                 1 |
+| Administrative and Support and Waste Management and Remediation Services |                 2 |
+| Mining                                                                   |                 1 |
+| Other Services (except Public Administration)                            |                 1 |
+| Professional, Scientific, and Technical Services                         |                 2 |
+| Health Care and Social Assistance                                        |                 2 |
+| Business                                                                 |                 2 |
+| Finance and Insurance                                                    |                 2 |
 | Manufacturing                                                            |                 0 |
-| Nonfarm Business                                                         |              1001 |
-| Management of Companies and Enterprises                                  |                25 |
-| Health Care and Social Assistance                                        |               363 |
+| Management of Companies and Enterprises                                  |                 1 |
+| Real Estate and Rental and Leasing                                       |                 2 |

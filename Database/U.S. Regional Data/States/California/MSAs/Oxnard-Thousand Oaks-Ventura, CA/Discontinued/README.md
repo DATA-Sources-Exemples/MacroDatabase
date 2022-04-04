@@ -1,16 +1,2 @@
-| id                     | title                                                                                                                                   | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA37100Q156N       | CredAbility Consumer Distress Index for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMEVEN           | Net Interest Income for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2019-10-01        |
-| LLSRVEN                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2017-07-01        |
-| LLSVEN                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED) | 1989-01-01          | 2019-10-01        |
-| NIMVEN                 | Net Interest Margin for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2019-10-01        |
-| NIVEN                  | Net Income for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2019-10-01        |
-| PCRGMP37100            | Total Per Capita Real Gross Domestic Product for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROAVEN                 | Return on Average Assets for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2019-10-01        |
-| SMU06371005051700001   | All Employees: Information: Telecommunications in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2014-12-01        |
-| SMU06371005051700001A  | All Employees: Information: Telecommunications in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2013-01-01        |
-| SMU06371005051700001SA | All Employees: Information: Telecommunications in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                 | 1990-01-01          | 2014-12-01        |
-| TOTASSETVEN            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)   | 1989-01-01          | 2019-10-01        |
-| TOTLOANVEN             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2019-10-01        |
-| VENAGRIDX              | Economic Conditions Index for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

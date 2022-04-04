@@ -1,13 +1,2 @@
-| id               | title                                                                                                                        | observation_start   | observation_end   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA35300Q156N | CredAbility Consumer Distress Index for New Haven-Milford, CT (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMENHA     | Net Interest Income for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSNHA           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRNHA          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NHAAGRIDX        | Economic Conditions Index for New Haven-Milford, CT (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| NIMNHA           | Net Interest Margin for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NINHA            | Net Income for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP35300      | Total Per Capita Real Gross Domestic Product for New Haven-Milford, CT (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROANHA           | Return on Average Assets for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETNHA      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANNHA       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in New Haven-Milford, CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

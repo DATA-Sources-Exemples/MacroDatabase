@@ -1,5 +1,5 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Missoula, MT    |               124 |
-| Billings, MT    |               137 |
-| Great Falls, MT |               117 |
+| Great Falls, MT |                 2 |
+| Missoula, MT    |                 2 |
+| Billings, MT    |                 2 |

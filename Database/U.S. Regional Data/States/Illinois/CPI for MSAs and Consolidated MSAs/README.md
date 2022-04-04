@@ -1,3 +1,3 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
-| Chicago-Gary-Kenosha, IL-IN-WI (CMSA) |               101 |
+| Chicago-Gary-Kenosha, IL-IN-WI (CMSA) |                 1 |

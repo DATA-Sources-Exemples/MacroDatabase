@@ -1,11 +1,2 @@
-| id                 | title                                                                                                                                                                 | observation_start   | observation_end   |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| NGMPMNGCOENTPRUSMP | Gross Domestic Product: Private Industries: Professional and Business Services: Management of Companies and Enterprises for United States Metropolitan Portion        | 2001-01-01          | 2020-01-01        |
-| QGMPMNGCOENTPRUSMP | Quantity Indexes for Real GDP: Private Industries: Professional and Business Services: Management of Companies and Enterprises for United States Metropolitan Portion | 2001-01-01          | 2020-01-01        |
-| RGMPMNGCOENTPRUSMP | Real Gross Domestic Product: Private Industries: Professional and Business Services: Management of Companies and Enterprises for United States Metropolitan Portion   | 2001-01-01          | 2020-01-01        |
-| USMNGCOENTPRNGSP   | Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States                                                                       | 1997-01-01          | 2020-01-01        |
-| USMNGCOENTPRNQGSP  | Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States                                                                       | 2005-01-01          | 2021-07-01        |
-| USMNGCOENTPRQGSP   | Chain-Type Quantity Index for Real GDP: Management of Companies and Enterprises (NAICS 55) in the United States                                                       | 1997-01-01          | 2020-01-01        |
-| USMNGCOENTPRQQGSP  | Chain-Type Quantity Index for Real GDP: Management of Companies and Enterprises (NAICS 55) in the United States                                                       | 2005-01-01          | 2021-07-01        |
-| USMNGCOENTPRRGSP   | Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States                                                                  | 1997-01-01          | 2020-01-01        |
-| USMNGCOENTPRRQGSP  | Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States                                                                  | 2005-01-01          | 2021-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

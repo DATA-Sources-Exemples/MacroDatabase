@@ -1,12 +1,2 @@
-| id        | title                                                                                                                                                               | observation_start   | observation_end   |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| EEAENQ    | Standard Error of Loan Rate, All Commercial Banks (DISCONTINUED)                                                                                                    | 1997-04-01          | 2017-04-01        |
-| EEAEXDBNQ | Standard Error of Loan Rate, Domestic Banks (DISCONTINUED)                                                                                                          | 2012-07-01          | 2017-04-01        |
-| EEAEXFBNQ | Standard Error of Loan Rate, U.S. Branches and Agencies of Foreign Banks (DISCONTINUED)                                                                             | 2012-07-01          | 2017-04-01        |
-| EEAEXSLNQ | Standard Error of Loan Rate, Large Domestic Banks (DISCONTINUED)                                                                                                    | 2012-07-01          | 2017-04-01        |
-| EEAEXSSNQ | Standard Error of Loan Rate, Small Domestic Banks (DISCONTINUED)                                                                                                    | 2012-07-01          | 2017-04-01        |
-| EWNQ      | Average Reported Prime Rate,Weighted by the Amount Loans Priced Relative to Prime, by Base Pricing Rate, All Commercial Banks (DISCONTINUED)                        | 1997-04-01          | 2017-04-01        |
-| EWXDBNQ   | Average Reported Prime Rate,Weighted by the Amount Loans Priced Relative to Prime, by Base Pricing Rate, Domestic Banks (DISCONTINUED)                              | 1997-04-01          | 2017-04-01        |
-| EWXFBNQ   | Average Reported Prime Rate,Weighted by the Amount Loans Priced Relative to Prime, by Base Pricing Rate, U.S. Branches and Agencies of Foreign Banks (DISCONTINUED) | 1997-04-01          | 2017-04-01        |
-| EWXSLNQ   | Average Reported Prime Rate,Weighted by the Amount Loans Priced Relative to Prime, by Base Pricing Rate, Large Domestic Banks (DISCONTINUED)                        | 1997-04-01          | 2017-04-01        |
-| EWXSSNQ   | Average Reported Prime Rate,Weighted by the Amount Loans Priced Relative to Prime, by Base Pricing Rate, Small Domestic Banks (DISCONTINUED)                        | 1997-04-01          | 2017-04-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

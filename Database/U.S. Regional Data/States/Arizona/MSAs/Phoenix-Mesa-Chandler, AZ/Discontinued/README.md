@@ -1,16 +1,2 @@
-| id                     | title                                                                                                                              | observation_start   | observation_end   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA38060Q156N       | CredAbility Consumer Distress Index for Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                             | 2005-01-01          | 2013-01-01        |
-| INTINCOMEPHX           | Net Interest Income for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSPHX                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRPHX                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIMPHX                 | Net Interest Margin for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NIPHX                  | Net Income for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP38060            | Total Per Capita Real Gross Domestic Product for Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| PHXAGRIDX              | Economic Conditions Index for Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| ROAPHX                 | Return on Average Assets for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| SMU04380604348100001   | All Employees: Air Transportation in Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2014-12-01        |
-| SMU04380604348100001A  | All Employees: Air Transportation in Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2013-01-01        |
-| SMU04380604348100001SA | All Employees: Air Transportation in Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2014-12-01        |
-| TOTASSETPHX            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANPHX             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

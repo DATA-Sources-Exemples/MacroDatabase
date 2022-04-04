@@ -1,3 +1,3 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| EC and National Indicators |                35 |
+| EC and National Indicators |                 2 |

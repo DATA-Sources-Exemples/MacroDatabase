@@ -1,3 +1,3 @@
 | Folder                                     |   Files / Folders |
 |--------------------------------------------|-------------------|
-| Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA) |                53 |
+| Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA) |                 1 |

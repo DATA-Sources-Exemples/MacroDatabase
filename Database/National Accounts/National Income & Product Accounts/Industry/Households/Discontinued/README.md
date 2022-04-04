@@ -1,4 +1,2 @@
-| id              | title                                                                                    | observation_start   | observation_end   |
-|-----------------|------------------------------------------------------------------------------------------|---------------------|-------------------|
-| W390RC1A027NBEA | Household consumption expenditures (DISCONTINUED)                                        | 1992-01-01          | 2013-01-01        |
-| W392RC1A027NBEA | Household consumption expenditures: Purchases from nonprofit institutions (DISCONTINUED) | 1992-01-01          | 2013-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,12 +1,12 @@
 | Folder                                     |   Files / Folders |
 |--------------------------------------------|-------------------|
-| Richmond, VA                               |               184 |
-| Kingsport-Bristol, TN-VA                   |               161 |
-| Danville, VA                               |                36 |
-| Lynchburg, VA                              |               161 |
-| Staunton, VA                               |                62 |
-| Harrisonburg, VA                           |               111 |
-| Charlottesville, VA                        |               161 |
-| Blacksburg-Christiansburg, VA              |               125 |
-| Roanoke, VA                                |               161 |
-| Virginia Beach-Norfolk-Newport News, VA-NC |               214 |
+| Charlottesville, VA                        |                 2 |
+| Blacksburg-Christiansburg, VA              |                 2 |
+| Lynchburg, VA                              |                 2 |
+| Harrisonburg, VA                           |                 2 |
+| Roanoke, VA                                |                 2 |
+| Danville, VA                               |                 2 |
+| Virginia Beach-Norfolk-Newport News, VA-NC |                 2 |
+| Kingsport-Bristol, TN-VA                   |                 2 |
+| Staunton, VA                               |                 2 |
+| Richmond, VA                               |                 2 |

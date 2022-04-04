@@ -1,12 +1,12 @@
 | Folder                            |   Files / Folders |
 |-----------------------------------|-------------------|
-| Sumter, SC                        |               112 |
-| Charleston-North Charleston, SC   |               178 |
-| Greenville-Anderson, SC           |               177 |
-| Spartanburg, SC                   |               168 |
-| Anderson, SC                      |                 2 |
-| Charlotte-Concord-Gastonia, NC-SC |               267 |
-| Florence, SC                      |               128 |
-| Columbia, SC                      |               175 |
-| Augusta-Richmond County, GA-SC    |               162 |
-| Hilton Head Island-Bluffton, SC   |                62 |
+| Florence, SC                      |                 2 |
+| Greenville-Anderson, SC           |                 2 |
+| Hilton Head Island-Bluffton, SC   |                 2 |
+| Sumter, SC                        |                 2 |
+| Augusta-Richmond County, GA-SC    |                 2 |
+| Charlotte-Concord-Gastonia, NC-SC |                 2 |
+| Anderson, SC                      |                 1 |
+| Charleston-North Charleston, SC   |                 2 |
+| Columbia, SC                      |                 2 |
+| Spartanburg, SC                   |                 2 |

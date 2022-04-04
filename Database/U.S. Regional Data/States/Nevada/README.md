@@ -1,4 +1,4 @@
 | Folder   |   Files / Folders |
 |----------|-------------------|
-| MSAs     |                 3 |
 | Counties |                16 |
+| MSAs     |                 3 |

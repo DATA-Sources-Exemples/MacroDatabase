@@ -1,3 +1,2 @@
-| id               | title                                                                       | observation_start   | observation_end   |
-|------------------|-----------------------------------------------------------------------------|---------------------|-------------------|
-| DDDI11CFA156NWDB | Insurance Company Assets to GDP for Central African Republic (DISCONTINUED) | 2007-01-01          | 2007-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,15 +1,15 @@
 | Folder                              |   Files / Folders |
 |-------------------------------------|-------------------|
-| Financial Status of Business        |               143 |
-| Transportation and Public Utilities |               173 |
-| Leading Indicators                  |                63 |
-| Security Markets                    |                32 |
-| Volume of Transactions              |                60 |
-| Distribution of Commodities         |               165 |
-| Money and Banking                   |               181 |
-| Production of Commodities           |               455 |
-| Income and Employment               |               489 |
-| Foreign Trade                       |                78 |
-| Government and Finance              |                57 |
-| Savings and Investment              |               166 |
-| Stocks of Commodities               |               193 |
+| Transportation and Public Utilities |                 1 |
+| Savings and Investment              |                 1 |
+| Government and Finance              |                 1 |
+| Security Markets                    |                 1 |
+| Volume of Transactions              |                 1 |
+| Production of Commodities           |                 1 |
+| Foreign Trade                       |                 1 |
+| Money and Banking                   |                 1 |
+| Income and Employment               |                 1 |
+| Stocks of Commodities               |                 1 |
+| Distribution of Commodities         |                 1 |
+| Leading Indicators                  |                 1 |
+| Financial Status of Business        |                 1 |

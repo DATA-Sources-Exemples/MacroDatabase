@@ -1,19 +1,2 @@
-| id              | title                                                                                                                         | observation_start   | observation_end   |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| A900RC1A027NBEA | Net government investment: Equipment and software: Consumption of fixed capital (DISCONTINUED)                                | 1929-01-01          | 2011-01-01        |
-| A918RU1Q027NBEA | Federal government consumption of fixed capital (DISCONTINUED)                                                                | 1947-01-01          | 2016-10-01        |
-| A919RU1Q027NBEA | State and local government consumption of fixed capital (DISCONTINUED)                                                        | 1947-01-01          | 2016-10-01        |
-| B024RX1A020NBEA | Real gross private domestic investment: Consumption of fixed capital (DISCONTINUED)                                           | 1929-01-01          | 2014-01-01        |
-| B128RC1A027NBEA | Corporations: Consumption of fixed capital, NIPAs (DISCONTINUED)                                                              | 1929-01-01          | 2014-01-01        |
-| B189RC1A027NBEA | Net fixed investment: Net nonresidential: Equipment and software: Consumption of fixed capital (DISCONTINUED)                 | 1929-01-01          | 2011-01-01        |
-| B189RX1A020NBEA | Real net fixed investment: Net nonresidential: Equipment and Software: Consumption of fixed capital (DISCONTINUED)            | 1967-01-01          | 2011-01-01        |
-| B900RX1A020NBEA | Real net government investment: Equipment and Software: Consumption of fixed capital (DISCONTINUED)                           | 1995-01-01          | 2011-01-01        |
-| K160181A027NBEA | Accumulation of produced assets: Consumption of fixed capital (DISCONTINUED)                                                  | 1951-01-01          | 2011-01-01        |
-| K160191A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Private (DISCONTINUED)                                         | 1951-01-01          | 2011-01-01        |
-| K160201A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Private: Nonresidential (DISCONTINUED)                         | 1951-01-01          | 2011-01-01        |
-| K160211A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Private: Nonresidential: Structures (DISCONTINUED)             | 1951-01-01          | 2011-01-01        |
-| K160221A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Private: Nonresidential: Equipment and software (DISCONTINUED) | 1951-01-01          | 2011-01-01        |
-| K160231A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Private: Residential (DISCONTINUED)                            | 1951-01-01          | 2011-01-01        |
-| K160241A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Government (DISCONTINUED)                                      | 1951-01-01          | 2011-01-01        |
-| K160251A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Government: Structures (DISCONTINUED)                          | 1951-01-01          | 2011-01-01        |
-| K160261A027NBEA | Accumulation of produced assets: Consumption of fixed capital: Government: Equipment and software (DISCONTINUED)              | 1951-01-01          | 2011-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

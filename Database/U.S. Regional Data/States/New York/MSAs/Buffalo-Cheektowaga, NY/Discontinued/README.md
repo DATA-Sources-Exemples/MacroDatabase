@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                        | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BUFAGRIDX        | Economic Conditions Index for Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| CCDIOA15380Q156N | CredAbility Consumer Distress Index for Buffalo-Niagara Falls, NY (MSA) (DISCONTINUED)                                                       | 2005-01-01          | 2013-01-01        |
-| INTINCOMEBUF     | Net Interest Income for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSBUF           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRBUF          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIBUF            | Net Income for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMBUF           | Net Interest Margin for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP15380      | Total Per Capita Real Gross Domestic Product for Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROABUF           | Return on Average Assets for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETBUF      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANBUF       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

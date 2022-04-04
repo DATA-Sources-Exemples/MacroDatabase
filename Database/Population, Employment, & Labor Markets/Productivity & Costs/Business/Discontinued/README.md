@@ -1,4 +1,2 @@
-| id              | title                                                                                                                | observation_start   | observation_end   |
-|-----------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CFSBCNWAGECOSTS | Chicago Fed Survey of Business Conditions: Nonwage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED) | 2013-02-01          | 2019-09-01        |
-| CFSBCWAGECOSTS  | Chicago Fed Survey of Business Conditions: Wage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)    | 2013-02-01          | 2019-09-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

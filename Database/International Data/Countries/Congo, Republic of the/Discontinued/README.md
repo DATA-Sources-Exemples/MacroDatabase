@@ -1,11 +1,2 @@
-| id             | title                                                                                                                                                       | observation_start   | observation_end   |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANAINIAICG   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Congo (DISCONTINUED)                                            | 1994-01-01          | 1994-01-01        |
-| IBANAINIAOCG   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Congo (DISCONTINUED)                                          | 1994-01-01          | 2003-07-01        |
-| IBANAININICG   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Congo (DISCONTINUED)                                                  | 1994-01-01          | 2003-10-01        |
-| IBANRIAICG     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Congo (DISCONTINUED)                                              | 1973-10-01          | 1994-01-01        |
-| IBANRIAOCG     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Congo (DISCONTINUED)                                            | 1973-10-01          | 2003-07-01        |
-| IBANRINICG     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Congo (DISCONTINUED)                                                    | 1973-10-01          | 2003-10-01        |
-| IDS1MNIAOGGCG  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Congo (DISCONTINUED)        | 2002-10-01          | 2003-07-01        |
-| IDSGGGAMNIAOCG | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Congo (DISCONTINUED) | 1994-01-01          | 2003-07-01        |
-| IDSGGGAMNINICG | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Congo (DISCONTINUED)         | 1994-01-01          | 2003-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

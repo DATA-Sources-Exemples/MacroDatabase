@@ -1,3 +1,2 @@
-| id         | title                                                                                                                    | observation_start   | observation_end   |
-|------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| COASEANZ11 | Import Price Index: Agriculture, forestry, fishing and hunting for Association of Southeast Asian Nations (DISCONTINUED) | 2012-06-01          | 2016-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

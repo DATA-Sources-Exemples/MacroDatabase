@@ -1,26 +1,2 @@
-| id                 | title                                                                                                                               | observation_start   | observation_end   |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA32580Q156N   | CredAbility Consumer Distress Index for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMEMCL       | Net Interest Income for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSMCL             | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRMCL            | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| MCAEDUHA175AFRBDAL | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                              | 1990-01-01          | 2016-01-01        |
-| MCAFIREA175AFRBDAL | Financial Activities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                       | 1990-01-01          | 2016-01-01        |
-| MCAGOODA175AFRBDAL | Goods Producing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                            | 1990-01-01          | 2016-01-01        |
-| MCAGOVTA175AFRBDAL | Government Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                                 | 1990-01-01          | 2016-01-01        |
-| MCAINFOA175AFRBDAL | Information Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                                | 1990-01-01          | 2016-01-01        |
-| MCALEIHA175AFRBDAL | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                    | 1990-01-01          | 2016-01-01        |
-| MCAMANUA175AFRBDAL | Manufacturing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                              | 1990-01-01          | 2016-01-01        |
-| MCANRMCA175AFRBDAL | Construction, Mining and Natural Resources Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                 | 1990-01-01          | 2016-01-01        |
-| MCAPBSVA175AFRBDAL | Professional and Business Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                         | 1990-01-01          | 2016-01-01        |
-| MCAPRIVA175AFRBDAL | Private Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                                    | 1990-01-01          | 2016-01-01        |
-| MCASA175AFRBDAL    | Total Nonfarm Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                              | 1990-01-01          | 2016-01-01        |
-| MCASERPA175AFRBDAL | Service-Providing Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                          | 1990-01-01          | 2016-01-01        |
-| MCASRVOA175AFRBDAL | Other Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2016-01-01        |
-| MCATTULA175AFRBDAL | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                       | 1990-01-01          | 2016-01-01        |
-| NIMCL              | Net Income for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMMCL             | Net Interest Margin for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP32580        | Total Per Capita Real Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROAMCL             | Return on Average Assets for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETMCL        | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANMCL         | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,5 +1,5 @@
 | Folder                        |   Files / Folders |
 |-------------------------------|-------------------|
-| Baltimore-Columbia-Towson, MD |               280 |
-| Hagerstown-Martinsburg, MD-WV |               164 |
-| California-Lexington Park, MD |                62 |
+| California-Lexington Park, MD |                 2 |
+| Hagerstown-Martinsburg, MD-WV |                 2 |
+| Baltimore-Columbia-Towson, MD |                 2 |

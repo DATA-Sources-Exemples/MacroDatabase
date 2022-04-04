@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                | observation_start   | observation_end   |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BTMAGRIDX        | Economic Conditions Index for Baltimore-Towson, MD (MSA) (DISCONTINUED)                                                              | 1990-02-01          | 2019-12-01        |
-| CCDIOA12580Q156N | CredAbility Consumer Distress Index for Baltimore-Towson, MD (MSA) (DISCONTINUED)                                                    | 2005-01-01          | 2013-01-01        |
-| INTINCOMEBTM     | Net Interest Income for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSBTM           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRBTM          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIBTM            | Net Income for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMBTM           | Net Interest Margin for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP12580      | Total Per Capita Real Gross Domestic Product for Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROABTM           | Return on Average Assets for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETBTM      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANBTM       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Baltimore-Columbia-Towson, MD (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

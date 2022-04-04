@@ -1,7 +1,7 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Washington County, RI |               145 |
-| Newport County, RI    |               145 |
-| Bristol County, RI    |               142 |
-| Providence County, RI |               145 |
-| Kent County, RI       |               145 |
+| Providence County, RI |                 1 |
+| Bristol County, RI    |                 1 |
+| Washington County, RI |                 1 |
+| Newport County, RI    |                 1 |
+| Kent County, RI       |                 1 |

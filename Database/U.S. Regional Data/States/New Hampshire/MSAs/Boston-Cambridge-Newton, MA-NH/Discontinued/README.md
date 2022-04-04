@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                 | observation_start   | observation_end   |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BSLAGRIDX        | Economic Conditions Index for Boston-Cambridge-Quincy, MA-NH (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| CCDIOA14460Q156N | CredAbility Consumer Distress Index for Boston-Cambridge-Quincy, MA-NH (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMEBSL     | Net Interest Income for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSBSL           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRBSL          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIBSL            | Net Income for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMBSL           | Net Interest Margin for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP14460      | Total Per Capita Real Gross Domestic Product for Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROABSL           | Return on Average Assets for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETBSL      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANBSL       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Boston-Cambridge-Newton, MA-NH (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

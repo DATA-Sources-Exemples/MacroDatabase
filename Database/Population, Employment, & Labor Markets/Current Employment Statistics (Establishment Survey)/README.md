@@ -1,18 +1,18 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Financial Activities                 |                51 |
-| Total Nonfarm                        |                 6 |
-| Leisure and Hospitality              |                42 |
-| Wholesale Trade                      |               576 |
-| Education and Health Services        |                52 |
-| Government                           |                28 |
-| Utilities                            |                63 |
-| Information                          |                40 |
-| Total Private                        |                28 |
-| Durable Goods                        |                64 |
-| Goods-Producing                      |                28 |
-| Trade, Transportation, and Utilities |                28 |
-| Service-Providing                    |                 2 |
-| Other Services                       |                34 |
-| Mining and Logging                   |                40 |
-| Private Service-Providing            |                28 |
+| Information                          |                 1 |
+| Wholesale Trade                      |                 1 |
+| Trade, Transportation, and Utilities |                 1 |
+| Financial Activities                 |                 2 |
+| Total Nonfarm                        |                 1 |
+| Utilities                            |                 2 |
+| Education and Health Services        |                 1 |
+| Service-Providing                    |                 1 |
+| Private Service-Providing            |                 1 |
+| Leisure and Hospitality              |                 1 |
+| Other Services                       |                 1 |
+| Durable Goods                        |                 1 |
+| Total Private                        |                 1 |
+| Mining and Logging                   |                 1 |
+| Goods-Producing                      |                 1 |
+| Government                           |                 1 |

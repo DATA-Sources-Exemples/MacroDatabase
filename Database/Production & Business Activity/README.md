@@ -1,16 +1,16 @@
 | Folder                                             |   Files / Folders |
 |----------------------------------------------------|-------------------|
-| Expenditures                                       |                 0 |
-| Retail Trade                                       |               217 |
+| Retail Trade                                       |                 2 |
+| Finance Companies                                  |                 2 |
 | Technology                                         |                 2 |
 | Institute for Supply Management Report on Business |                 1 |
 | Transportation                                     |                 0 |
-| Emissions                                          |                38 |
-| Finance Companies                                  |               207 |
-| Industrial Production & Capacity Utilization       |                 0 |
-| Housing                                            |                 7 |
-| Manufacturing                                      |                 5 |
-| Business Surveys                                   |                 6 |
-| Patents                                            |               997 |
-| Business Cycle Expansions & Contractions           |               296 |
+| Expenditures                                       |                 0 |
+| Emissions                                          |                 2 |
 | Health Insurance                                   |                 2 |
+| Industrial Production & Capacity Utilization       |                 0 |
+| Manufacturing                                      |                 5 |
+| Patents                                            |                 2 |
+| Housing                                            |                 7 |
+| Business Surveys                                   |                 2 |
+| Business Cycle Expansions & Contractions           |                 1 |

@@ -1,7 +1,7 @@
 | Folder                             |   Files / Folders |
 |------------------------------------|-------------------|
-| MSAs                               |                25 |
-| Metropolitan Divisions             |                 2 |
-| Combined Statistical Areas         |                 0 |
-| CPI for MSAs and Consolidated MSAs |                 2 |
 | Counties                           |               254 |
+| CPI for MSAs and Consolidated MSAs |                 2 |
+| MSAs                               |                25 |
+| Combined Statistical Areas         |                 0 |
+| Metropolitan Divisions             |                 2 |

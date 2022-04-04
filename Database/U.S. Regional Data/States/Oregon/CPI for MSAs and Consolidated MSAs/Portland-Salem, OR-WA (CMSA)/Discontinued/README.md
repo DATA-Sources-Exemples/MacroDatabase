@@ -1,7 +1,2 @@
-| id              | title                                                                                                                       | observation_start   | observation_end   |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CUUSA425SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Portland-Salem, OR-WA (CMSA) (DISCONTINUED) | 1984-01-01          | 2017-07-01        |
-| CUUSA425SA0S    | Consumer Price Index for All Urban Consumers: All Items in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)                      | 1984-01-01          | 2017-07-01        |
-| CUUSA425SAC     | Consumer Price Index for All Urban Consumers: Commodities in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)                    | 1984-01-01          | 2017-01-01        |
-| CUUSA425SACS    | Consumer Price Index for All Urban Consumers: Commodities in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)                    | 1984-01-01          | 2017-07-01        |
-| CUUSA425SASS    | Consumer Price Index for All Urban Consumers: Services in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)                       | 1984-01-01          | 2017-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

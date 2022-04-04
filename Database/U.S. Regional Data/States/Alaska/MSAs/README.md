@@ -1,4 +1,4 @@
 | Folder        |   Files / Folders |
 |---------------|-------------------|
-| Fairbanks, AK |               157 |
-| Anchorage, AK |               200 |
+| Anchorage, AK |                 2 |
+| Fairbanks, AK |                 2 |

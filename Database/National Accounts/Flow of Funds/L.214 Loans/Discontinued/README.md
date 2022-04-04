@@ -1,7 +1,2 @@
-| id           | title                                                                                                             | observation_start   | observation_end   |
-|--------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| FGMRML       | Federal Government; Multifamily Residential Mortgages; Liability (DISCONTINUED)                                   | 1945-10-01          | 2017-10-01        |
-| HNOCCL       | Households and Nonprofit Organizations; Consumer Credit; Liability (DISCONTINUED)                                 | 1945-10-01          | 2017-10-01        |
-| RWUSNBLA     | Rest of the World; U.S. Nonfinancial Business Loans; Asset (DISCONTINUED)                                         | 1945-10-01          | 2017-10-01        |
-| SLGEERFTMA   | State and Local Governments, Excluding Employee Retirement Funds; Total Mortgages; Asset (DISCONTINUED)           | 1945-10-01          | 2017-10-01        |
-| SLGEERFUSGLL | State and Local Governments, Excluding Employee Retirement Funds; U.S. Government Loans; Liability (DISCONTINUED) | 1945-10-01          | 2017-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

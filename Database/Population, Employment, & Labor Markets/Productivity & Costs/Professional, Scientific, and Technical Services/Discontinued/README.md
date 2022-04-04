@@ -1,3 +1,2 @@
-| id                | title                                                                                                                | observation_start   | observation_end   |
-|-------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCU54161054161022 | Producer Price Index by Industry: Management Consulting Services: Human Resources Consulting Services (DISCONTINUED) | 2006-06-01          | 2017-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

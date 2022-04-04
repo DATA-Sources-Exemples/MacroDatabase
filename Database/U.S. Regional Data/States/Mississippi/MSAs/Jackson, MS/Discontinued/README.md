@@ -1,3 +1,2 @@
-| id          | title                                                                             | observation_start   | observation_end   |
-|-------------|-----------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP27140 | Total Per Capita Real Gross Domestic Product for Jackson, MS (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

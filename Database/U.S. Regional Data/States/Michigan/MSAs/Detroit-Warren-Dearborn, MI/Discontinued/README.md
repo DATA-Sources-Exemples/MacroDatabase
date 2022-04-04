@@ -1,13 +1,2 @@
-| id               | title                                                                                                                              | observation_start   | observation_end   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA19820Q156N | CredAbility Consumer Distress Index for Detroit-Warren-Livonia, MI (MSA) (DISCONTINUED)                                            | 2005-01-01          | 2013-01-01        |
-| DWLAGRIDX        | Economic Conditions Index for Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| INTINCOMEDWL     | Net Interest Income for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSDWL           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRDWL          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIDWL            | Net Income for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMDWL           | Net Interest Margin for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP19820      | Total Per Capita Real Gross Domestic Product for Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROADWL           | Return on Average Assets for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETDWL      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANDWL       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

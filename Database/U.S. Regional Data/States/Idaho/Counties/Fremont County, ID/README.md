@@ -1,3 +1,3 @@
 | Folder                                         |   Files / Folders |
 |------------------------------------------------|-------------------|
-| Fremont (Includes Yellowstone Park) County, ID |                 9 |
+| Fremont (Includes Yellowstone Park) County, ID |                 1 |

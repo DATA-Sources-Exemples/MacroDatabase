@@ -1,5 +1,5 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Omaha-Council Bluffs, NE-IA |               248 |
-| Grand Island, NE            |                62 |
-| Lincoln, NE                 |               208 |
+| Lincoln, NE                 |                 2 |
+| Grand Island, NE            |                 2 |
+| Omaha-Council Bluffs, NE-IA |                 2 |

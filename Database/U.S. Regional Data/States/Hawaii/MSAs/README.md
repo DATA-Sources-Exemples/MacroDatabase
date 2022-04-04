@@ -1,3 +1,3 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Kahului-Wailuku-Lahaina, HI |               163 |
+| Kahului-Wailuku-Lahaina, HI |                 2 |

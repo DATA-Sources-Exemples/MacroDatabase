@@ -1,3 +1,2 @@
-| id     | title                                              | observation_start   | observation_end   |
-|--------|----------------------------------------------------|---------------------|-------------------|
-| EXFRUS | France / U.S. Foreign Exchange Rate (DISCONTINUED) | 1971-01-01          | 2001-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

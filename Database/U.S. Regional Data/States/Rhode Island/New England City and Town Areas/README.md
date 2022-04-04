@@ -1,3 +1,3 @@
 | Folder                    |   Files / Folders |
 |---------------------------|-------------------|
-| Norwich-New London, CT-RI |                94 |
+| Norwich-New London, CT-RI |                 1 |

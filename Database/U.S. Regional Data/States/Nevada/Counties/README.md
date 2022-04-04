@@ -1,18 +1,18 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Elko County, NV       |               144 |
-| Douglas County, NV    |               145 |
-| Churchill County, NV  |                89 |
-| Storey County, NV     |                88 |
-| Clark County, NV      |               145 |
-| Humboldt County, NV   |                89 |
-| Lincoln County, NV    |                87 |
-| Eureka County, NV     |                84 |
-| Pershing County, NV   |                88 |
-| Washoe County, NV     |               146 |
-| Nye County, NV        |                88 |
-| White Pine County, NV |                88 |
-| Esmeralda County, NV  |                84 |
-| Mineral County, NV    |                87 |
-| Lyon County, NV       |               145 |
-| Lander County, NV     |                88 |
+| Washoe County, NV     |                 1 |
+| Mineral County, NV    |                 1 |
+| Lyon County, NV       |                 1 |
+| Nye County, NV        |                 1 |
+| Churchill County, NV  |                 1 |
+| Eureka County, NV     |                 1 |
+| White Pine County, NV |                 1 |
+| Douglas County, NV    |                 1 |
+| Storey County, NV     |                 1 |
+| Humboldt County, NV   |                 1 |
+| Lander County, NV     |                 1 |
+| Elko County, NV       |                 1 |
+| Lincoln County, NV    |                 1 |
+| Clark County, NV      |                 1 |
+| Pershing County, NV   |                 1 |
+| Esmeralda County, NV  |                 1 |

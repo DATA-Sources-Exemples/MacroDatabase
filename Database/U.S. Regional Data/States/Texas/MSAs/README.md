@@ -1,27 +1,27 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Odessa, TX                           |               169 |
-| Lubbock, TX                          |               165 |
-| Texarkana, TX-AR                     |               168 |
-| El Paso, TX                          |               227 |
-| Midland, TX                          |               169 |
-| Beaumont-Port Arthur, TX             |               174 |
-| Austin-Round Rock-Georgetown, TX     |               308 |
-| Killeen-Temple, TX                   |               171 |
-| Sherman-Denison, TX                  |               140 |
-| San Angelo, TX                       |               145 |
-| McAllen-Edinburg-Mission, TX         |               225 |
-| Brownsville-Harlingen, TX            |               220 |
-| Tyler, TX                            |               164 |
-| Amarillo, TX                         |               168 |
-| Corpus Christi, TX                   |               183 |
-| San Antonio, TX                      |               318 |
-| Waco, TX                             |               165 |
-| Victoria, TX                         |               142 |
-| Laredo, TX                           |               221 |
-| Wichita Falls, TX                    |               165 |
-| College Station-Bryan, TX            |               165 |
-| Longview, TX                         |               175 |
-| Dallas-Fort Worth-Arlington, TX      |               251 |
-| Abilene, TX                          |               165 |
-| Houston-The Woodlands-Sugar Land, TX |               475 |
+| Abilene, TX                          |                 2 |
+| Odessa, TX                           |                 2 |
+| Dallas-Fort Worth-Arlington, TX      |                 2 |
+| San Antonio, TX                      |                 2 |
+| Waco, TX                             |                 2 |
+| Austin-Round Rock-Georgetown, TX     |                 2 |
+| Victoria, TX                         |                 2 |
+| Longview, TX                         |                 2 |
+| Killeen-Temple, TX                   |                 2 |
+| El Paso, TX                          |                 2 |
+| Amarillo, TX                         |                 2 |
+| Tyler, TX                            |                 2 |
+| Wichita Falls, TX                    |                 2 |
+| Corpus Christi, TX                   |                 2 |
+| Lubbock, TX                          |                 2 |
+| Midland, TX                          |                 2 |
+| Sherman-Denison, TX                  |                 2 |
+| McAllen-Edinburg-Mission, TX         |                 2 |
+| Brownsville-Harlingen, TX            |                 2 |
+| San Angelo, TX                       |                 2 |
+| Texarkana, TX-AR                     |                 2 |
+| Laredo, TX                           |                 2 |
+| College Station-Bryan, TX            |                 2 |
+| Houston-The Woodlands-Sugar Land, TX |                 2 |
+| Beaumont-Port Arthur, TX             |                 2 |

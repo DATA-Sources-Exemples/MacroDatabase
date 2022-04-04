@@ -1,13 +1,13 @@
 | Folder                           |   Files / Folders |
 |----------------------------------|-------------------|
-| Health                           |               313 |
-| Alcoholic Beverages and Tobacco  |               237 |
-| Recreation and Culture           |               874 |
-| Communications                   |               158 |
-| Transport                        |               605 |
-| Household Equipment              |               537 |
-| Miscellaneous Goods and Services |               607 |
-| Food and Non-Alcoholic Beverages |               770 |
-| All Items                        |               778 |
-| Clothing and Footwear            |               275 |
-| Hotels and Restaurants           |               197 |
+| Hotels and Restaurants           |                 2 |
+| All Items                        |                 2 |
+| Health                           |                 2 |
+| Communications                   |                 2 |
+| Household Equipment              |                 2 |
+| Clothing and Footwear            |                 2 |
+| Recreation and Culture           |                 2 |
+| Miscellaneous Goods and Services |                 2 |
+| Transport                        |                 2 |
+| Food and Non-Alcoholic Beverages |                 2 |
+| Alcoholic Beverages and Tobacco  |                 2 |

@@ -1,3 +1,2 @@
-| id        | title                                                                                               | observation_start   | observation_end   |
-|-----------|-----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| RWNITBFCA | Rest of the World; Net Interbank Transactions with Banks in Foreign Countries; Asset (DISCONTINUED) | 1945-10-01          | 2017-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

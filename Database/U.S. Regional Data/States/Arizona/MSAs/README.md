@@ -1,9 +1,9 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Prescott Valley-Prescott, AZ |               149 |
-| Lake Havasu City-Kingman, AZ |               147 |
-| Tucson, AZ                   |               238 |
-| Sierra Vista-Douglas, AZ     |                95 |
-| Phoenix-Mesa-Chandler, AZ    |               342 |
-| Flagstaff, AZ                |               129 |
-| Yuma, AZ                     |               149 |
+| Flagstaff, AZ                |                 2 |
+| Phoenix-Mesa-Chandler, AZ    |                 2 |
+| Prescott Valley-Prescott, AZ |                 2 |
+| Lake Havasu City-Kingman, AZ |                 2 |
+| Yuma, AZ                     |                 2 |
+| Sierra Vista-Douglas, AZ     |                 2 |
+| Tucson, AZ                   |                 2 |

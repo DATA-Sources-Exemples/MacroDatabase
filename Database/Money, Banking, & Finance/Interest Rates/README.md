@@ -1,26 +1,26 @@
 | Folder                                          |   Files / Folders |
 |-------------------------------------------------|-------------------|
-| LIBOR Rates                                     |                 1 |
-| Saving Accounts                                 |                55 |
-| FRB Rates - discount, fed funds, primary credit |                49 |
-| Prime Bank Loan Rate                            |                 5 |
-| Mortgage Rates                                  |                26 |
-| AMERIBOR Benchmark Rates                        |                10 |
-| Personal Loan Rates                             |                 2 |
-| EONIA Rates                                     |                 2 |
-| Eurodollar Deposits                             |                 2 |
-| Corporate Bonds                                 |               355 |
-| Treasury Inflation-Indexed Securities           |                60 |
-| Credit Card Loan Rates                          |                 3 |
-| Bankers Acceptance Rate                         |                 2 |
-| Interest Rate Swaps                             |                 2 |
-| Interest Rate Spreads                           |                37 |
-| Euro Short-Term Rate                            |                 8 |
-| Treasury Bills                                  |                14 |
-| Long-Term Securities                            |                 2 |
-| Certificates of Deposit                         |                 2 |
-| Interest Checking Accounts                      |                 2 |
-| Automobile Loan Rates                           |                 4 |
-| Treasury Constant Maturity                      |                49 |
-| SONIA Rates                                     |                 8 |
 | Money Market Accounts                           |                 2 |
+| AMERIBOR Benchmark Rates                        |                 1 |
+| Mortgage Rates                                  |                 2 |
+| Euro Short-Term Rate                            |                 1 |
+| Certificates of Deposit                         |                 2 |
+| Long-Term Securities                            |                 2 |
+| SONIA Rates                                     |                 1 |
+| Interest Rate Spreads                           |                 2 |
+| Bankers Acceptance Rate                         |                 2 |
+| Treasury Bills                                  |                 2 |
+| Saving Accounts                                 |                 2 |
+| Prime Bank Loan Rate                            |                 1 |
+| Eurodollar Deposits                             |                 2 |
+| Credit Card Loan Rates                          |                 1 |
+| LIBOR Rates                                     |                 1 |
+| Treasury Inflation-Indexed Securities           |                 2 |
+| Corporate Bonds                                 |                 1 |
+| EONIA Rates                                     |                 2 |
+| Treasury Constant Maturity                      |                 1 |
+| Personal Loan Rates                             |                 1 |
+| Interest Checking Accounts                      |                 2 |
+| Interest Rate Swaps                             |                 2 |
+| FRB Rates - discount, fed funds, primary credit |                 2 |
+| Automobile Loan Rates                           |                 2 |

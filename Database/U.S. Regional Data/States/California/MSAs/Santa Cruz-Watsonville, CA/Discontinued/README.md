@@ -1,6 +1,2 @@
-| id                     | title                                                                                               | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP42100            | Total Per Capita Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)    | 2001-01-01          | 2017-01-01        |
-| SMU06421007072200001   | All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
-| SMU06421007072200001A  | All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2012-01-01        |
-| SMU06421007072200001SA | All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

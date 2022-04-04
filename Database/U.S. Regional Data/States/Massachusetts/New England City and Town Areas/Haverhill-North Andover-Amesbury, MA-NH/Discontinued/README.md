@@ -1,3 +1,2 @@
-| id                     | title                                                                                                      | observation_start   | observation_end   |
-|------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU25736040000000001SA | All Employees: Total Nonfarm in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division) (DISCONTINUED) | 1990-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

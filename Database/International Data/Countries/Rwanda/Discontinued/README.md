@@ -1,3 +1,2 @@
-| id               | title                                                                    | observation_start   | observation_end   |
-|------------------|--------------------------------------------------------------------------|---------------------|-------------------|
-| DDDI03RWA156NWDB | Non-Bank Financial Institutions' Assets to GDP for Rwanda (DISCONTINUED) | 1969-01-01          | 2003-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

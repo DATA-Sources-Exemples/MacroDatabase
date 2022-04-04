@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                  | observation_start   | observation_end   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA14860Q156N | CredAbility Consumer Distress Index for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMENHR     | Net Interest Income for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSNHR           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRNHR          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NHRAGRIDX        | Economic Conditions Index for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| NIMNHR           | Net Interest Margin for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NINHR            | Net Income for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP14860      | Total Per Capita Real Gross Domestic Product for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROANHR           | Return on Average Assets for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| TOTASSETNHR      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANNHR       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

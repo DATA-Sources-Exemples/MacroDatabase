@@ -1,3 +1,3 @@
 | Folder                             |   Files / Folders |
 |------------------------------------|-------------------|
-| Detroit-Ann Arbor-Flint, MI (CMSA) |               101 |
+| Detroit-Ann Arbor-Flint, MI (CMSA) |                 1 |

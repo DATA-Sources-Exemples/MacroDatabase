@@ -1,28 +1,28 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Santa Maria-Santa Barbara, CA        |               178 |
-| San Luis Obispo-Paso Robles, CA      |               194 |
-| Santa Rosa-Petaluma, CA              |               224 |
-| Riverside-San Bernardino-Ontario, CA |               367 |
-| Fresno, CA                           |               249 |
-| Redding, CA                          |               170 |
-| Chico, CA                            |               176 |
-| Salinas, CA                          |               199 |
-| San Diego-Chula Vista-Carlsbad, CA   |               395 |
-| San Jose-Sunnyvale-Santa Clara, CA   |               334 |
-| Vallejo, CA                          |               215 |
-| Yuba City, CA                        |               167 |
-| Hanford-Corcoran, CA                 |               147 |
-| Madera, CA                           |               153 |
-| Modesto, CA                          |               204 |
-| Merced, CA                           |               176 |
-| Stockton, CA                         |               243 |
-| Los Angeles-Long Beach-Anaheim, CA   |               335 |
-| Oxnard-Thousand Oaks-Ventura, CA     |               242 |
-| El Centro, CA                        |               153 |
-| Bakersfield, CA                      |               249 |
-| Napa, CA                             |               168 |
-| Visalia, CA                          |               194 |
-| Sacramento-Roseville-Folsom, CA      |               328 |
-| San Francisco-Oakland-Berkeley, CA   |               198 |
-| Santa Cruz-Watsonville, CA           |               191 |
+| Madera, CA                           |                 2 |
+| Riverside-San Bernardino-Ontario, CA |                 2 |
+| El Centro, CA                        |                 2 |
+| Fresno, CA                           |                 2 |
+| Merced, CA                           |                 2 |
+| San Francisco-Oakland-Berkeley, CA   |                 2 |
+| Santa Cruz-Watsonville, CA           |                 2 |
+| San Diego-Chula Vista-Carlsbad, CA   |                 2 |
+| Santa Maria-Santa Barbara, CA        |                 2 |
+| Oxnard-Thousand Oaks-Ventura, CA     |                 2 |
+| San Jose-Sunnyvale-Santa Clara, CA   |                 2 |
+| Bakersfield, CA                      |                 2 |
+| Hanford-Corcoran, CA                 |                 2 |
+| Sacramento-Roseville-Folsom, CA      |                 2 |
+| Napa, CA                             |                 2 |
+| Santa Rosa-Petaluma, CA              |                 2 |
+| Los Angeles-Long Beach-Anaheim, CA   |                 2 |
+| Chico, CA                            |                 2 |
+| Visalia, CA                          |                 2 |
+| Salinas, CA                          |                 2 |
+| Redding, CA                          |                 2 |
+| Vallejo, CA                          |                 2 |
+| Modesto, CA                          |                 2 |
+| San Luis Obispo-Paso Robles, CA      |                 2 |
+| Yuba City, CA                        |                 2 |
+| Stockton, CA                         |                 2 |

@@ -1,8 +1,8 @@
 | Folder         |   Files / Folders |
 |----------------|-------------------|
-| Mideast        |               393 |
+| Plains         |                 2 |
+| Great Lakes    |                 2 |
+| Rocky Mountain |                 2 |
+| Far West       |                 2 |
+| Mideast        |                 2 |
 | Southeast      |                 2 |
-| Far West       |               393 |
-| Plains         |               393 |
-| Great Lakes    |               393 |
-| Rocky Mountain |               393 |

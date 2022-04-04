@@ -1,13 +1,2 @@
-| id               | title                                                                                                                                          | observation_start   | observation_end   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA40900Q156N | CredAbility Consumer Distress Index for Sacramento--Arden-Arcade--Roseville, CA (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMESYO     | Net Interest Income for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSRSYO          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| LLSSYO           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| NIMSYO           | Net Interest Margin for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NISYO            | Net Income for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP40900      | Total Per Capita Real Gross Domestic Product for Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROASYO           | Return on Average Assets for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| SYOAGRIDX        | Economic Conditions Index for Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| TOTASSETSYO      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANSYO       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

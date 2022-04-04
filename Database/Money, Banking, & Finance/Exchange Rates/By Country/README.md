@@ -1,22 +1,22 @@
 | Folder         |   Files / Folders |
 |----------------|-------------------|
-| Taiwan         |                 5 |
-| Germany        |                 2 |
-| Brazil         |                 5 |
-| Switzerland    |               821 |
-| Netherlands    |                 2 |
-| Sri Lanka      |               221 |
-| Greece         |               847 |
-| South Korea    |                 4 |
-| Venezuela      |                 4 |
-| Italy          |               795 |
-| Ireland        |               819 |
-| United Kingdom |               828 |
-| Euro           |                 5 |
-| Sweden         |                 5 |
-| Japan          |               737 |
+| South Korea    |                 1 |
+| Sweden         |                 2 |
+| Taiwan         |                 2 |
+| Ireland        |                 2 |
 | Belgium        |                 2 |
-| New Zealand    |                 5 |
-| Malaysia       |               338 |
-| Canada         |               723 |
-| Thailand       |                 5 |
+| Sri Lanka      |                 2 |
+| Brazil         |                 2 |
+| Netherlands    |                 2 |
+| Venezuela      |                 1 |
+| New Zealand    |                 2 |
+| Thailand       |                 2 |
+| Switzerland    |                 2 |
+| Euro           |                 2 |
+| Malaysia       |                 2 |
+| Germany        |                 2 |
+| Japan          |                 2 |
+| Canada         |                 2 |
+| Italy          |                 2 |
+| United Kingdom |                 2 |
+| Greece         |                 2 |

@@ -1,4 +1,2 @@
-| id     | title                                                                                                      | observation_start   | observation_end   |
-|--------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACNGNO | Value of Manufacturers' New Orders for Consumer Goods: Consumer Nondurable Goods Industries (DISCONTINUED) | 1992-01-01          | 2018-04-01        |
-| UCNGNO | Value of Manufacturers' New Orders for Consumer Goods: Consumer Nondurable Goods Industries (DISCONTINUED) | 1992-01-01          | 2018-04-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

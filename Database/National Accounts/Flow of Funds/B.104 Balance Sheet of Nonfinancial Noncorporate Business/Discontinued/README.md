@@ -1,16 +1,2 @@
-| id          | title                                                                                                                                                        | observation_start   | observation_end   |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BLNECLBSNNB | Nonfinancial Noncorporate Business; Depository Institution Loans Not Elsewhere Classified, Excluding Noncorporate Farms; Liability, Level (DISCONTINUED)     | 1949-10-01          | 2015-01-01        |
-| CDCABSNNB   | Nonfinancial Noncorporate Business; Checkable Deposits and Currency, Excluding Noncorporate Farms; Asset, Level (DISCONTINUED)                               | 1949-10-01          | 2015-01-01        |
-| EIGSEABSNNB | Nonfinancial Noncorporate Business; Equity in Farm Credit System, Excluding Noncorporate Farms; Asset, Level (DISCONTINUED)                                  | 1949-10-01          | 2015-01-01        |
-| ESABSNNB    | Nonfinancial Noncorporate Business; Equipment, Current Cost Basis, Level (DISCONTINUED)                                                                      | 1945-10-01          | 2017-10-01        |
-| IABSNNB     | Nonfinancial Noncorporate Business; Inventories, Excluding Noncorporate Farms, Level (DISCONTINUED)                                                          | 1949-10-01          | 2015-01-01        |
-| IRABSNNB    | Nonfinancial Noncorporate Business; Insurance Receivables due from Property-Casualty Insurance Companies, Excluding Noncorporate Farms; Asset (DISCONTINUED) | 1949-10-01          | 2015-01-01        |
-| MAABSNNB    | Nonfinancial Noncorporate Business; Total Miscellaneous Assets, Excluding Noncorporate Farms, Level (DISCONTINUED)                                           | 1949-10-01          | 2015-01-01        |
-| MLBSNNB     | Nonfinancial Noncorporate Business; Total Mortgages, Excluding Noncorporate Farms; Liability (DISCONTINUED)                                                  | 1949-10-01          | 2015-01-01        |
-| MLLBSNNB    | Nonfinancial Noncorporate Business; Unidentified Miscellaneous Liabilities (DISCONTINUED)                                                                    | 1945-10-01          | 2017-10-01        |
-| NNBUSREOFL  | Nonfinancial Noncorporate Business; U.S. Real Estate Owned by Foreigners; Liability (DISCONTINUED)                                                           | 1945-10-01          | 2017-10-01        |
-| NREABSNNB   | Nonfinancial Noncorporate Business; Nonresidential Real Estate, Excluding Noncorporate Farms at Market Value, Level (DISCONTINUED)                           | 1949-10-01          | 2015-01-01        |
-| REABSNNB    | Nonfinancial Noncorporate Business; Real Estate at Market Value, Level (DISCONTINUED)                                                                        | 1949-10-01          | 2015-01-01        |
-| RREABSNNB   | Nonfinancial Noncorporate Business; Residential Real Estate at Market Value, Level (DISCONTINUED)                                                            | 1949-10-01          | 2015-01-01        |
-| TPLBSNNB    | Nonfinancial Noncorporate Business; Trade Payables, Excluding Noncorporate Farms; Liability, Level (DISCONTINUED)                                            | 1949-10-01          | 2015-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

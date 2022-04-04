@@ -1,15 +1,2 @@
-| id             | title                                                                                                                                                          | observation_start   | observation_end   |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANAINIAIGH   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Ghana (DISCONTINUED)                                               | 1996-01-01          | 2014-07-01        |
-| IBANAINIAOGH   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Ghana (DISCONTINUED)                                             | 1996-01-01          | 2015-04-01        |
-| IBANAININIGH   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Ghana (DISCONTINUED)                                                     | 1996-01-01          | 2014-07-01        |
-| IBANRIAIGH     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Ghana (DISCONTINUED)                                                 | 2007-07-01          | 2014-07-01        |
-| IBANRIAOGH     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Ghana (DISCONTINUED)                                               | 2007-10-01          | 2015-04-01        |
-| IBANRINIGH     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Ghana (DISCONTINUED)                                                       | 2007-10-01          | 2014-07-01        |
-| IDS1MNIAOFCGH  | Amount Outstanding Due within One Year of International Debt Securities for Financial Corporations Sector, Nationality of Issuer in Ghana (DISCONTINUED)       | 2001-07-01          | 2002-04-01        |
-| IDS1MNIAOGGGH  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Ghana (DISCONTINUED)           | 1993-07-01          | 2014-10-01        |
-| IDS1YMAORIGGGH | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Ghana (DISCONTINUED)             | 1993-07-01          | 2014-10-01        |
-| IDSGFCAMNIAOGH | Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Ghana (DISCONTINUED) | 1996-01-01          | 2002-04-01        |
-| IDSGFCAMNINIGH | Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in Ghana (DISCONTINUED)         | 1996-01-01          | 2002-07-01        |
-| IDSGGGAMNIAOGH | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Ghana (DISCONTINUED)    | 2007-10-01          | 2015-04-01        |
-| IDSGGGAMNINIGH | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Ghana (DISCONTINUED)            | 2007-10-01          | 2014-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

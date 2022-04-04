@@ -1,3 +1,2 @@
-| id          | title                                                                          | observation_start   | observation_end   |
-|-------------|--------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP34900 | Total Per Capita Real Gross Domestic Product for Napa, CA (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

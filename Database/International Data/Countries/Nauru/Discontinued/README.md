@@ -1,11 +1,2 @@
-| id             | title                                                                                                                                                       | observation_start   | observation_end   |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANAINIAINR   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Nauru (DISCONTINUED)                                            | 1986-01-01          | 1989-07-01        |
-| IBANAINIAONR   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Nauru (DISCONTINUED)                                          | 1986-01-01          | 1995-01-01        |
-| IBANAINININR   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Nauru (DISCONTINUED)                                                  | 1986-01-01          | 1995-04-01        |
-| IBANRIAINR     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Nauru (DISCONTINUED)                                              | 1986-01-01          | 1989-07-01        |
-| IBANRIAONR     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Nauru (DISCONTINUED)                                            | 1986-01-01          | 1995-01-01        |
-| IBANRININR     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Nauru (DISCONTINUED)                                                    | 1986-01-01          | 1995-04-01        |
-| IDS1MNIAOGGNR  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Nauru (DISCONTINUED)        | 1993-07-01          | 1995-01-01        |
-| IDSGGGAMNIAONR | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Nauru (DISCONTINUED) | 1993-07-01          | 1995-01-01        |
-| IDSGGGAMNININR | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Nauru (DISCONTINUED)         | 1994-07-01          | 1995-04-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,11 +1,2 @@
-| id             | title                                                                                                                                                                  | observation_start   | observation_end   |
-|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| IBANAINIAIPF   | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in French Polynesia (DISCONTINUED)                                            | 2001-01-01          | 2001-01-01        |
-| IBANAINIAOPF   | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in French Polynesia (DISCONTINUED)                                          | 2001-01-01          | 2010-10-01        |
-| IBANAININIPF   | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in French Polynesia (DISCONTINUED)                                                  | 2001-01-01          | 2011-01-01        |
-| IBANRIAIPF     | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in French Polynesia (DISCONTINUED)                                              | 2001-01-01          | 2001-01-01        |
-| IBANRIAOPF     | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in French Polynesia (DISCONTINUED)                                            | 2001-01-01          | 2010-10-01        |
-| IBANRINIPF     | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in French Polynesia (DISCONTINUED)                                                    | 2001-01-01          | 2011-01-01        |
-| IDS1MNIAOGGPF  | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in French Polynesia (DISCONTINUED)        | 2010-01-01          | 2010-10-01        |
-| IDSGGGAMNIAOPF | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in French Polynesia (DISCONTINUED) | 2001-01-01          | 2010-10-01        |
-| IDSGGGAMNINIPF | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in French Polynesia (DISCONTINUED)         | 2001-01-01          | 2011-01-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

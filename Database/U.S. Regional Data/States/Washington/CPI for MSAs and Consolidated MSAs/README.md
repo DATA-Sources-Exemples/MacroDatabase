@@ -1,3 +1,3 @@
 | Folder                              |   Files / Folders |
 |-------------------------------------|-------------------|
-| Seattle-Tacoma-Bremerton, WA (CMSA) |               101 |
+| Seattle-Tacoma-Bremerton, WA (CMSA) |                 1 |

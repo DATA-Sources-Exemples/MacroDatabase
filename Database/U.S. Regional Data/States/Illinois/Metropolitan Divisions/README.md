@@ -1,4 +1,4 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Chicago-Naperville-Arlington Heights, IL |               413 |
-| Elgin, IL                                |                92 |
+| Chicago-Naperville-Arlington Heights, IL |                 2 |
+| Elgin, IL                                |                 1 |

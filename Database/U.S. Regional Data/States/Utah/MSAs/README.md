@@ -1,7 +1,7 @@
 | Folder               |   Files / Folders |
 |----------------------|-------------------|
-| Logan, UT-ID         |               141 |
-| Salt Lake City, UT   |               244 |
-| St. George, UT       |               198 |
-| Provo-Orem, UT       |               198 |
-| Ogden-Clearfield, UT |               196 |
+| Ogden-Clearfield, UT |                 2 |
+| St. George, UT       |                 2 |
+| Salt Lake City, UT   |                 2 |
+| Provo-Orem, UT       |                 2 |
+| Logan, UT-ID         |                 2 |

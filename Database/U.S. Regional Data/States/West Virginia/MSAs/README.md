@@ -1,9 +1,9 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Parkersburg-Vienna, WV       |               109 |
-| Winchester, VA-WV            |               108 |
-| Huntington-Ashland, WV-KY-OH |               162 |
-| Charleston, WV               |               174 |
-| Beckley, WV                  |                62 |
-| Cumberland, MD-WV            |                96 |
-| Morgantown, WV               |               140 |
+| Parkersburg-Vienna, WV       |                 2 |
+| Winchester, VA-WV            |                 2 |
+| Charleston, WV               |                 2 |
+| Morgantown, WV               |                 2 |
+| Beckley, WV                  |                 2 |
+| Cumberland, MD-WV            |                 2 |
+| Huntington-Ashland, WV-KY-OH |                 2 |

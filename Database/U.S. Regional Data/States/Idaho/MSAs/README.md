@@ -1,7 +1,7 @@
 | Folder            |   Files / Folders |
 |-------------------|-------------------|
-| Coeur d'Alene, ID |               167 |
-| Pocatello, ID     |               142 |
-| Boise City, ID    |               274 |
-| Idaho Falls, ID   |               140 |
-| Twin Falls, ID    |                10 |
+| Pocatello, ID     |                 2 |
+| Twin Falls, ID    |                 1 |
+| Idaho Falls, ID   |                 2 |
+| Boise City, ID    |                 2 |
+| Coeur d'Alene, ID |                 2 |

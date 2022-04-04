@@ -1,13 +1,13 @@
 | Folder        |   Files / Folders |
 |---------------|-------------------|
-| Richmond      |                36 |
-| Philadelphia  |               159 |
-| Chicago       |                 0 |
-| Dallas        |                36 |
+| Cleveland     |                 2 |
+| Kansas City   |                 2 |
+| St. Louis     |                 2 |
 | Boston        |                 0 |
-| Cleveland     |                36 |
-| Atlanta       |                36 |
-| St. Louis     |                42 |
-| San Francisco |                36 |
-| Kansas City   |                36 |
+| Chicago       |                 0 |
 | Minneapolis   |                 0 |
+| Atlanta       |                 2 |
+| San Francisco |                 2 |
+| Dallas        |                 2 |
+| Philadelphia  |                 2 |
+| Richmond      |                 2 |

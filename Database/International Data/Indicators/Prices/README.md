@@ -1,7 +1,7 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
-| Producer Price Indexes |               972 |
-| Wholesale Prices       |                 1 |
-| House Prices           |               225 |
+| Wholesale              |                 2 |
 | Consumer Price Indexes |                11 |
-| Wholesale              |                20 |
+| House Prices           |                 1 |
+| Producer Price Indexes |                 2 |
+| Wholesale Prices       |                 1 |
