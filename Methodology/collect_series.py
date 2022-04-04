@@ -13,7 +13,11 @@ DELETE_JSON = True
 def obtain_series_data(dictionary):
     name = dictionary[0]
     data = dictionary[1]
-    print(f"Attempting {name} ({data['id']})")
+
+    try:
+        print(f"Attempting {name} ({data['id']})")
+    except KeyError:
+        return print(f"Not able to get data for {name}")
 
     fred_id = data['id']
 
