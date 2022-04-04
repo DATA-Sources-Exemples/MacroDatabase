@@ -17,12 +17,12 @@
     "group_popularity": 48,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
-  "IR00": {
-    "id": "IR00",
+  "IR000": {
+    "id": "IR000",
     "realtime_start": "2022-03-23",
     "realtime_end": "2022-03-23",
-    "title": "Import Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages",
-    "observation_start": "1984-12-01",
+    "title": "Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar",
+    "observation_start": "1982-03-01",
     "observation_end": "2022-02-01",
     "frequency": "Monthly",
     "frequency_short": "M",
@@ -30,27 +30,9 @@
     "units_short": "Index 2000=100",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-16 07:36:48-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
-  },
-  "IR0": {
-    "id": "IR0",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
-    "title": "Import Price Index (End Use): Foods, Feeds, and Beverages",
-    "observation_start": "1977-09-01",
-    "observation_end": "2022-02-01",
-    "frequency": "Monthly",
-    "frequency_short": "M",
-    "units": "Index 2000=100",
-    "units_short": "Index 2000=100",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-16 07:36:23-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "last_updated": "2022-03-16 07:36:32-05",
+    "popularity": 11,
+    "group_popularity": 11,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
   "IR00000": {
@@ -71,12 +53,12 @@
     "group_popularity": 6,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
-  "IR000": {
-    "id": "IR000",
+  "IR0": {
+    "id": "IR0",
     "realtime_start": "2022-03-23",
     "realtime_end": "2022-03-23",
-    "title": "Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar",
-    "observation_start": "1982-03-01",
+    "title": "Import Price Index (End Use): Foods, Feeds, and Beverages",
+    "observation_start": "1977-09-01",
     "observation_end": "2022-02-01",
     "frequency": "Monthly",
     "frequency_short": "M",
@@ -84,16 +66,16 @@
     "units_short": "Index 2000=100",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-16 07:36:32-05",
-    "popularity": 11,
-    "group_popularity": 11,
+    "last_updated": "2022-03-16 07:36:23-05",
+    "popularity": 4,
+    "group_popularity": 4,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
-  "IR01": {
-    "id": "IR01",
+  "IR00": {
+    "id": "IR00",
     "realtime_start": "2022-03-23",
     "realtime_end": "2022-03-23",
-    "title": "Import Price Index (End Use): Nonagricultural Products",
+    "title": "Import Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
     "frequency": "Monthly",
@@ -102,7 +84,7 @@
     "units_short": "Index 2000=100",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-16 07:38:03-05",
+    "last_updated": "2022-03-16 07:36:48-05",
     "popularity": 1,
     "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
@@ -141,6 +123,24 @@
     "last_updated": "2022-03-16 07:36:41-05",
     "popularity": 2,
     "group_popularity": 2,
+    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+  },
+  "IR01": {
+    "id": "IR01",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Import Price Index (End Use): Nonagricultural Products",
+    "observation_start": "1984-12-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 2000=100",
+    "units_short": "Index 2000=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-16 07:38:03-05",
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
   "IR1DUR": {
@@ -647,24 +647,6 @@
     "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
-  "IR00120": {
-    "id": "IR00120",
-    "realtime_start": "2022-03-23",
-    "realtime_end": "2022-03-23",
-    "title": "Import Price Index (End Use): Fruits and Frozen Juices",
-    "observation_start": "1980-12-01",
-    "observation_end": "2022-02-01",
-    "frequency": "Monthly",
-    "frequency_short": "M",
-    "units": "Index 2000=100",
-    "units_short": "Index 2000=100",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-03-16 07:38:04-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
-  },
   "IR120": {
     "id": "IR120",
     "realtime_start": "2022-03-23",
@@ -681,6 +663,24 @@
     "last_updated": "2022-03-16 07:38:02-05",
     "popularity": 6,
     "group_popularity": 6,
+    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+  },
+  "IR00120": {
+    "id": "IR00120",
+    "realtime_start": "2022-03-23",
+    "realtime_end": "2022-03-23",
+    "title": "Import Price Index (End Use): Fruits and Frozen Juices",
+    "observation_start": "1980-12-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 2000=100",
+    "units_short": "Index 2000=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-16 07:38:04-05",
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
   },
   "IR121": {
