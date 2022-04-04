@@ -1,4 +1,5 @@
 name: Collect Series
+on:
   schedule:
   - cron: 00 12 * * 0
 
