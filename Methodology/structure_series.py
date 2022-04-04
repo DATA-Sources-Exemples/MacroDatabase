@@ -11,6 +11,7 @@ except FileNotFoundError:
 
 children_directories = {}
 
+
 for directory_path, directory_names, _ in os.walk(path_str):
     if len(directory_names) == 0:
         if directory_path.split("/")[-1] == "Discontinued":
@@ -50,11 +51,13 @@ for directory_path, directory_names, _ in os.walk(path_str):
                         file_name = discontinued_file.strip('.json')
                         all_json_files_including_discontinued[file_name] = json.load(open(
                             f"{discontinued_path}/{discontinued_file}", "r"))
+                        all_json_files_including_discontinued[file_name]['path'] = directory_path
                         all_discontinued_json_files[file_name] = all_json_files_including_discontinued[file_name]
             if ".json" in file:
                 file_name = file.strip('.json')
                 all_json_files[file_name] = json.load(open(
                     f"{directory_path}/{file}", "r"))
+                all_json_files[file_name]['path'] = directory_path
                 all_json_files_including_discontinued[file_name] = all_json_files[file_name]
 
         natural_sort = natsorted(all_json_files)
