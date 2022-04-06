@@ -1,0 +1,18 @@
+{
+  "id": "M09104USM350NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Ratio: Wholesale Prices of Manufactured Goods to Total Labor Cost Per Unit of Output for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1966-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:03:37-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Labor Cost Per Unit Of Output Equals The Total Manufacturing Payroll (The Component Of National Income) Divided By Manufacturing Production. Source: For 1946-1947, Index Of Wholesale Prices Of Manufactured Goods, Total Employee Compensation In Manufacturing (Unpublished Data In Bc Files), Index Of Production Manufacturing (; For 1948-1966, \"Business Cycle Developments, \" February 1967 And Subsequent Issues.\n\nThis NBER data series m09104 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09104"
+}

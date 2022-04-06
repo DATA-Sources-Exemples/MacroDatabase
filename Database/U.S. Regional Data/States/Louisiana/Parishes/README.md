@@ -1,66 +1,66 @@
 | Folder                          |   Files / Folders |
 |---------------------------------|-------------------|
-| St. John the Baptist Parish, LA |                 1 |
-| St. Landry Parish, LA           |                 1 |
-| Jackson Parish, LA              |                 1 |
-| Beauregard Parish, LA           |                 1 |
-| De Soto Parish, LA              |                 1 |
-| West Baton Rouge Parish, LA     |                 1 |
-| Iberville Parish, LA            |                 1 |
-| West Feliciana Parish, LA       |                 1 |
-| Cameron Parish, LA              |                 1 |
-| Red River Parish, LA            |                 1 |
-| Ascension Parish, LA            |                 1 |
-| Bienville Parish, LA            |                 1 |
-| Winn Parish, LA                 |                 1 |
-| St. James Parish, LA            |                 1 |
-| Ouachita Parish, LA             |                 1 |
-| Vermilion Parish, LA            |                 1 |
-| Vernon Parish, LA               |                 1 |
-| Grant Parish, LA                |                 1 |
-| Washington Parish, LA           |                 1 |
-| East Carroll Parish, LA         |                 1 |
-| East Baton Rouge Parish, LA     |                 1 |
-| St. Martin Parish, LA           |                 1 |
-| Plaquemines Parish, LA          |                 1 |
-| Claiborne Parish, LA            |                 1 |
-| St. Tammany Parish, LA          |                 1 |
-| St. Bernard Parish, LA          |                 1 |
-| Concordia Parish, LA            |                 1 |
-| Caddo Parish, LA                |                 1 |
-| Assumption Parish, LA           |                 1 |
-| Jefferson Davis Parish, LA      |                 1 |
-| LaFourche Parish, LA            |                 1 |
-| Caldwell Parish, LA             |                 1 |
-| Catahoula Parish, LA            |                 1 |
-| Webster Parish, LA              |                 1 |
-| Rapides Parish, LA              |                 1 |
-| Tangipahoa Parish, LA           |                 1 |
-| Pointe Coupee Parish, LA        |                 1 |
-| Lincoln Parish, LA              |                 1 |
-| Iberia Parish, LA               |                 1 |
-| Allen Parish, LA                |                 1 |
-| La Salle Parish, LA             |                 1 |
-| Franklin Parish, LA             |                 1 |
-| St. Mary Parish, LA             |                 1 |
-| Tensas Parish, LA               |                 1 |
-| Natchitoches Parish, LA         |                 1 |
-| Jefferson Parish, LA            |                 1 |
-| St. Charles Parish, LA          |                 1 |
-| Lafayette Parish, LA            |                 1 |
-| East Feliciana Parish, LA       |                 1 |
-| Evangeline Parish, LA           |                 1 |
-| St. Helena Parish, LA           |                 1 |
-| Union Parish, LA                |                 1 |
-| Morehouse Parish, LA            |                 1 |
-| Bossier Parish, LA              |                 1 |
-| Acadia Parish, LA               |                 1 |
-| Madison Parish, LA              |                 1 |
-| West Carroll Parish, LA         |                 1 |
-| Sabine Parish, LA               |                 1 |
-| Richland Parish, LA             |                 1 |
-| Calcasieu Parish, LA            |                 1 |
-| Livingston Parish, LA           |                 1 |
-| Avoyelles Parish, LA            |                 1 |
-| Terrebonne Parish, LA           |                 1 |
-| Orleans Parish, LA              |                 1 |
+| St. Tammany Parish, LA          |               147 |
+| St. Mary Parish, LA             |               144 |
+| Claiborne Parish, LA            |                90 |
+| Beauregard Parish, LA           |                89 |
+| Rapides Parish, LA              |               146 |
+| Washington Parish, LA           |                90 |
+| St. Bernard Parish, LA          |                90 |
+| Bienville Parish, LA            |                88 |
+| Lincoln Parish, LA              |                90 |
+| West Carroll Parish, LA         |                88 |
+| Terrebonne Parish, LA           |               147 |
+| Iberia Parish, LA               |               147 |
+| Richland Parish, LA             |                89 |
+| Cameron Parish, LA              |                89 |
+| Allen Parish, LA                |                90 |
+| LaFourche Parish, LA            |               147 |
+| St. Helena Parish, LA           |                88 |
+| Jefferson Parish, LA            |               147 |
+| Lafayette Parish, LA            |               147 |
+| Bossier Parish, LA              |               147 |
+| St. Charles Parish, LA          |               145 |
+| Evangeline Parish, LA           |                90 |
+| Red River Parish, LA            |                89 |
+| Winn Parish, LA                 |                89 |
+| Caldwell Parish, LA             |                88 |
+| St. Martin Parish, LA           |               146 |
+| Plaquemines Parish, LA          |                89 |
+| Ascension Parish, LA            |               147 |
+| Calcasieu Parish, LA            |               147 |
+| West Baton Rouge Parish, LA     |                89 |
+| Vermilion Parish, LA            |               146 |
+| Catahoula Parish, LA            |                89 |
+| Ouachita Parish, LA             |               146 |
+| Avoyelles Parish, LA            |                90 |
+| East Baton Rouge Parish, LA     |               148 |
+| Tangipahoa Parish, LA           |               147 |
+| East Feliciana Parish, LA       |                90 |
+| Webster Parish, LA              |                90 |
+| Acadia Parish, LA               |               146 |
+| Pointe Coupee Parish, LA        |                89 |
+| Iberville Parish, LA            |                89 |
+| St. James Parish, LA            |                90 |
+| Morehouse Parish, LA            |                89 |
+| Orleans Parish, LA              |               145 |
+| Concordia Parish, LA            |                90 |
+| Franklin Parish, LA             |                89 |
+| Livingston Parish, LA           |               147 |
+| Tensas Parish, LA               |                88 |
+| Natchitoches Parish, LA         |                89 |
+| St. Landry Parish, LA           |               146 |
+| Jefferson Davis Parish, LA      |                90 |
+| Jackson Parish, LA              |                90 |
+| East Carroll Parish, LA         |                88 |
+| Assumption Parish, LA           |                90 |
+| St. John the Baptist Parish, LA |                90 |
+| La Salle Parish, LA             |                89 |
+| West Feliciana Parish, LA       |                89 |
+| Vernon Parish, LA               |               145 |
+| De Soto Parish, LA              |                90 |
+| Grant Parish, LA                |                90 |
+| Madison Parish, LA              |                88 |
+| Union Parish, LA                |                90 |
+| Sabine Parish, LA               |                90 |
+| Caddo Parish, LA                |               147 |

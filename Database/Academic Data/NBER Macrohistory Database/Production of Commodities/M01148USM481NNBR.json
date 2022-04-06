@@ -1,0 +1,18 @@
+{
+  "id": "M01148USM481NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railroad Locomotive Shipments, Domestic, by Car Builders for United States",
+  "observation_start": "1918-08-01",
+  "observation_end": "1941-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Locomotives",
+  "units_short": "Number of Locomotives",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Refer To \"Steam\" Only For 08/1918-12/1919, But From 1920-1924 \"Electric\" Amounted To Less Than 1% Of The Total Steam And Electric. From 1920 On, Data Are Computed By NBER By Adding \"Steam\" And \"Electric\". Source: 1918-1919 Data Are From Federal Reserve Bulletins Of February 1919, P. 162 And February 1920, P. 183; 1920-1930 Data Are From U.S. Bureau Of The Census, \"Railroad Locomotives\" (Mimeograph Release), December 1931; 1931-1934 Data Are From Ibid, December Issues; Following Years Are From Other Issues Of \"Railroad Locomotives\" And Survey Of Current Business, Annual Supplements.\n\nThis NBER data series m01148 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01148"
+}

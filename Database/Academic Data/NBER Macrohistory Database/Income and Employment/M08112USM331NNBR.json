@@ -1,0 +1,18 @@
+{
+  "id": "M08112USM331NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Payrolls, Baking for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:31:31-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: For 1919-1930 Data, Bureau Of Labor Statistics Bulletin 623, \"Wages, Hours, And Working Conditions In The Bread-Baking Industry, \" P.16; For 1931-1934 Data, Bureau Of Labor Statistics Mimeographed Release, September, 1938, \"Revised Index Numbers Of Factory Employment And Payrolls.\" P.31-32; For 1935-1939 Data, Bureau Of Labor Statistics Mimeographed Release, May, 1940; For 1940-1941 Data, Bureau Of Labor Statistics \"Employment And Payrolls\"; Thereafter, Monthly Labor Review\n\nThis NBER data series m08112 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08112"
+}

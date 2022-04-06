@@ -1,0 +1,18 @@
+{
+  "id": "AMTXCT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Individual Income Tax Filing: Total Income Tax: Alternative Minimum Tax",
+  "observation_start": "1999-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Returns",
+  "units_short": "Number of Returns",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-12-19 13:31:02-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Under \"alternative minimum tax\" (AMT), generally high-income taxpayers to whom the tax applied were required to pay the larger of the regular income tax or the AMT. As of 2013, examples of preferences or adjustments subject to recapture through the AMT were accelerated depreciation, incentive stock options, certain itemized deductions, personal exemptions, certain tax-exempt interest, and income loss from tax-shelter farm or \"passive\" investment activities. AMT is shown separately in the statistics for all years. However, starting with 2000, AMT is also included in \"income tax before credits,\" as well as in \"income tax after credits\" and \"total income tax.\" Previously, AMT was only included in \"total income tax.\" \n\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
+}

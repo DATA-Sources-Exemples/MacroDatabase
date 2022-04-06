@@ -1,0 +1,18 @@
+{
+  "id": "WLCFCPFFL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factors Supplying Reserve Balances: Net Portfolio Holdings of Commercial Paper Funding Facility LLC (DISCONTINUED)",
+  "observation_start": "2008-10-29",
+  "observation_end": "2010-08-25",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2011-07-14 10:31:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Commercial Paper Funding Facility (CPFF) provides a liquidity backstop to U.S. issuers of commercial paper through a special purpose vehicle (SPV), the CPFF LLC. This LLC purchases three-month unsecured and asset-backed commercial paper directly from eligible issuers. The Federal Reserve provides financing to the LLC through the CPFF, and all lending is secured by all of the assets of the LLC and, in the case of commercial paper that is not asset-backed commercial paper, by the retention of up front fees paid by the issuers or by other forms of security acceptable to the Federal Reserve in consultation with market participants. This line reports the book value of the commercial paper and other investments held by the LLC.Because the FRBNY is the sole beneficiary of the CPFF LLC, the assets and liabilities of the LLC are consolidated onto the books of the FRBNY."
+}

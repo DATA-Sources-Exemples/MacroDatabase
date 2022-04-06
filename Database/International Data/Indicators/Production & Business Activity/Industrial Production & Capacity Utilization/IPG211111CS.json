@@ -1,0 +1,18 @@
+{
+  "id": "IPG211111CS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Industrial Production: Mining, Quarrying, and Oil and Gas Extraction: Crude Oil (NAICS = 211111pt.)",
+  "observation_start": "1972-01-01",
+  "observation_end": "2021-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-05-14 08:19:23-05",
+  "popularity": 46,
+  "group_popularity": 48,
+  "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 211111pt.\n\nSource Code: IP.G211111C.S"
+}

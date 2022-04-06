@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                               | observation_start   | observation_end   |
+|------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP49660            | Total Per Capita Real Gross Domestic Product for Youngstown-Warren-Boardman, OH-PA (MSA) (DISCONTINUED)             | 2001-01-01          | 2017-01-01        |
+| SMU39496603133100001   | All Employees: Durable Goods: Primary Metal Manufacturing in Youngstown-Warren-Boardman, OH-PA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |
+| SMU39496603133100001A  | All Employees: Durable Goods: Primary Metal Manufacturing in Youngstown-Warren-Boardman, OH-PA (MSA) (DISCONTINUED) | 1990-01-01          | 2012-01-01        |
+| SMU39496603133100001SA | All Employees: Durable Goods: Primary Metal Manufacturing in Youngstown-Warren-Boardman, OH-PA (MSA) (DISCONTINUED) | 1990-01-01          | 2013-12-01        |

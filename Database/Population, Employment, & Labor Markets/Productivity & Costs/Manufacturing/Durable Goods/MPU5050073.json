@@ -1,0 +1,18 @@
+{
+  "id": "MPU5050073",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonmetallic Mineral Products: Output per Unit Capital Services",
+  "observation_start": "1988-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-25 12:25:01-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Capital services are the services derived from the stock of physical assets and intellectual property assets. This data used Tornqvist aggregate K inputs. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU5050073"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "FLREVOLNDI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revolving Consumer Credit Owned by Depository Institutions, Flow",
+  "observation_start": "1968-02-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars, Monthly Rate",
+  "units_short": "Bil. of $, Monthly Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-07 14:07:35-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Savings institutions now file the same regulatory report as U.S.-chartered commercial banks. The U.S.-chartered commercial banks sector and the savings institution sector, which were previously shown separately, have been combined into a new sector called depository institutions.\n\nFor further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
+}

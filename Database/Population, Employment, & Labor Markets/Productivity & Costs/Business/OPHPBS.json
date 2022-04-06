@@ -1,0 +1,18 @@
+{
+  "id": "OPHPBS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Business Sector: Labor Productivity (Output per Hour) for All Employed Persons",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-03 07:36:13-06",
+  "popularity": 25,
+  "group_popularity": 37,
+  "notes": "The Productivity and Costs release on August 7, 2003, will reflect the June 2003 benchmark revision to payroll employment. Since employment is now reported on a North American Industry Classification System (NAICS) basis, all of the historical data will be revised. Changes as a consequence of the move to NAICS should not be significant since this release carries data at high levels of aggregation."
+}

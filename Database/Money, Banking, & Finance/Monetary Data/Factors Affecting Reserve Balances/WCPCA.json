@@ -1,0 +1,18 @@
+{
+  "id": "WCPCA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities and Capital: Capital: Other Capital Accounts: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:34:34-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "These accounts used to consist of the unallocated net earnings since the last payment of dividends to stockholders, the amount necessary to equate surplus to paid in capital at year-end, and the accumulated interest to be paid to the Treasury on outstanding Federal Reserve notes. Effective January 1, 2011, the amounts described in the latter sentence will be recorded as a liability, and will be included in Other liabilities and capital accounts on table 1, Other liabilities and accrued dividends on table 9, and Interest on Federal Reserve notes due to U.S. Treasury on table 10."
+}

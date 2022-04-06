@@ -1,0 +1,18 @@
+{
+  "id": "Y023RW2A224NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to Percent Change in Private Fixed Investment in Intellectual Property Products: Entertainment, literary, and artistic originals: Books",
+  "observation_start": "1930-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:35:27-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: Y023RW\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M1439AUS35620M144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Interbank Deposits, Weekly Reporting Member Banks, Federal Reserve System, New York City",
+  "observation_start": "1920-04-01",
+  "observation_end": "1935-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:31:54-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1920-1935 (2)--Original Data, 1934-1942 (3)--Original Data, 1942-1947 (4)--Original Data, 1946-1949. Data For 1920-1921 Were Net Figures Reported By National Banks; From 1922 On Gross Figures Were Reported By All Banks. Data Are Only For Domestic Interbank Demand Deposits. Source: Federal Reserve Board, Banking And Monetary Statistics.\n\nThis NBER data series m14139a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14139a"
+}

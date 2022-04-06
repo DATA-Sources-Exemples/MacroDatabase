@@ -1,7 +1,7 @@
 {
   "id": "COMPHAI",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Housing Affordability Index (Composite) (DISCONTINUED)",
   "observation_start": "2018-04-01",
   "observation_end": "2019-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-06-14 12:54:04-05",
-  "popularity": 31,
-  "group_popularity": 31,
+  "popularity": 30,
+  "group_popularity": 30,
   "notes": "Copyright, 2016, National Association of Realtors. Reprinted with permission.\r\nPer the agreement with the source, data in FRED are available for the prior 13 months.\r\n\r\nMeasures the degree to which a typical family can afford the monthly mortgage payments on a typical home.\r\n\r\nValue of 100 means that a family with the median income has exactly enough income to qualify for a mortgage on a median-priced home. An index above 100 signifies that family earning the median income has more than enough income to qualify for a mortgage loan on a median-priced home, assuming a 20 percent down payment. For example, a composite housing affordability index (COMPHAI) of 120.0 means a family earning the median family income has 120% of the income necessary to qualify for a conventional loan covering 80 percent of a median-priced existing single-family home. An increase in the COMPHAI then shows that this family is more able to afford the median priced home.\r\n\r\nThis index is calculated as composite of the fixed and adjustable rate mortgages."
 }

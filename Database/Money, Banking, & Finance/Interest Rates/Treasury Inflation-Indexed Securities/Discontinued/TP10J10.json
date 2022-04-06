@@ -1,0 +1,18 @@
+{
+  "id": "TP10J10",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)",
+  "observation_start": "2000-02-01",
+  "observation_end": "2009-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2010-01-04 11:16:16-06",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Averages of business days. Copyright, 2016, Haver Analytics. Reprinted with permission. Calculated from data provided by the Wall Street Journal."
+}

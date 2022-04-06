@@ -1,2 +1,11 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                            | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU72419803232540001   | All Employees: Non-Durable Goods: Pharmaceutical and Medicine Manufacturing in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED) | 2003-01-01          | 2013-12-01        |
+| SMU72419803232540001A  | All Employees: Non-Durable Goods: Pharmaceutical and Medicine Manufacturing in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED) | 2003-01-01          | 2012-01-01        |
+| SMU72419803232540001SA | All Employees: Non-Durable Goods: Pharmaceutical and Medicine Manufacturing in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED) | 2003-01-01          | 2013-12-01        |
+| SMU72419804244510001   | All Employees: Retail Trade: Grocery Stores in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED)                                 | 2003-01-01          | 2013-12-01        |
+| SMU72419804244510001A  | All Employees: Retail Trade: Grocery Stores in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED)                                 | 2003-01-01          | 2012-01-01        |
+| SMU72419804244510001SA | All Employees: Retail Trade: Grocery Stores in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED)                                 | 2003-01-01          | 2013-12-01        |
+| SMU72419804244810001   | All Employees: Retail Trade: Clothing Stores in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED)                                | 2003-01-01          | 2013-12-01        |
+| SMU72419804244810001A  | All Employees: Retail Trade: Clothing Stores in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED)                                | 2003-01-01          | 2012-01-01        |
+| SMU72419804244810001SA | All Employees: Retail Trade: Clothing Stores in San Juan-Caguas-Guaynabo, PR (MSA) (DISCONTINUED)                                | 2003-01-01          | 2013-12-01        |

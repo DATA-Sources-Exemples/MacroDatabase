@@ -1,3 +1,4 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Nondurable Goods |                 2 |
+| Durable Goods    |               608 |
+| Nondurable Goods |                53 |

@@ -1,0 +1,18 @@
+{
+  "id": "M13056USM193NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "United States Government Securities, Nine to Twelve Month Issues for United States",
+  "observation_start": "1943-01-01",
+  "observation_end": "1970-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent per Annum",
+  "units_short": "% Per Annum",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:24-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are For Certificates Of Indebtedness, Selected Notes And Bonds. The Raw Figure For December 1953 (1.61) Is Given Erroneously As 1.53 In The Bulletin Of January 1954, But Has Been Corrected In All Later Sources. Source: Federal Reserve Board, Federal Reserve Bulletins; For 1943-1963 Data Also See The Supplement To Banking And Monetary Statistics, Section 12; And Money Rates And Security Markets, January 1966.\n\nThis NBER data series m13056 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13056"
+}

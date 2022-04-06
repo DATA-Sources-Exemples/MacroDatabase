@@ -1,0 +1,18 @@
+{
+  "id": "A0137BGB38000A531NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Oat Crop Acreage for England, Wales, Scotland, Great Britain",
+  "observation_start": "1866-01-01",
+  "observation_end": "1939-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Acres",
+  "units_short": "Thous. Of Acres",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1866 Is Not Strictly Comparable With Later Data Because Of Changes In The Method Of Reporting. Source: Great Britain Agriculture And Fisheries Board, Agricultural Statistics (Prior To 1901 Called Agricultural Returns), 1866-1885 Annual Issues (Bound With Parliamentary Papers); 1894, P. 95; 1904, P. 89; 1914, P. 171; 1924, P. 85; 1932, P. 89; 1934, P. 89; 1937, P. 42. Also See The U.S. Department Of Agriculture, Agricultural Statistics, 1936, P. 46; 1939, P. 62; And The Oxford Economic Research Institute, The Agricultural Register, 1938/1939, P. 243.\n\nThis NBER data series a01037b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01037b"
+}

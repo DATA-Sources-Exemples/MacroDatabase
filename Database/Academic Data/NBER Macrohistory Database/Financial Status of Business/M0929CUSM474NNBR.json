@@ -1,0 +1,18 @@
+{
+  "id": "M0929CUSM474NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Business Failures, All Commercial for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1965-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Concerns",
+  "units_short": "Number Of Concerns",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:02:15-05",
+  "popularity": 10,
+  "group_popularity": 17,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1857-1938 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1965. This Series Represents A More Complete Coverage Of Voluntary Discontinuaunces With Losses To Creditors And Of Small Failures, Not Previously Covered (See Source, March 1940). Source: Dun'S Review And Dun'S Statistical Review; Also Survey Of Current Business, 1942 Supplement And Following Monthly Issues.\n\nThis NBER data series m09029c appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09029c"
+}

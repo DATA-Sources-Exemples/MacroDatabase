@@ -1,8 +1,8 @@
 {
   "WPS601103": {
     "id": "WPS601103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
     "observation_start": "1990-01-01",
     "observation_end": "2016-12-01",
@@ -14,13 +14,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-11 11:25:26-06",
     "popularity": 3,
-    "group_popularity": 14,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "group_popularity": 15,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPS601105": {
     "id": "WPS601105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Nonmetallic Minerals Mining Services",
     "observation_start": "2002-01-01",
     "observation_end": "2010-12-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2016-02-17 11:47:05-06",
-    "popularity": 4,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "popularity": 2,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU60": {
     "id": "WPU60",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -49,14 +49,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:24-05",
-    "popularity": 6,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "popularity": 5,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU601": {
     "id": "WPU601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -68,13 +68,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:48-05",
     "popularity": 1,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU6011": {
     "id": "WPU6011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -86,13 +86,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:48-05",
     "popularity": 1,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU601101": {
     "id": "WPU601101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Metal Mining Services",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -103,14 +103,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:47-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU601102": {
     "id": "WPU601102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Coal Mining",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -123,12 +123,12 @@
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU601103": {
     "id": "WPU601103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -140,13 +140,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:16-05",
     "popularity": 2,
-    "group_popularity": 14,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "group_popularity": 15,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU601104": {
     "id": "WPU601104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Oil and Gas Operations",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU601105": {
     "id": "WPU601105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Nonmetallic Minerals Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -175,14 +175,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:47-05",
-    "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "popularity": 2,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU60110101": {
     "id": "WPU60110101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Metal Mining Services",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -195,12 +195,12 @@
     "last_updated": "2022-03-15 07:50:51-05",
     "popularity": 10,
     "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU60110201": {
     "id": "WPU60110201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Coal Mining",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -213,12 +213,12 @@
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU60110301": {
     "id": "WPU60110301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -229,14 +229,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:51-05",
-    "popularity": 12,
-    "group_popularity": 14,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "popularity": 14,
+    "group_popularity": 15,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU60110401": {
     "id": "WPU60110401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Support Activities for Oil and Gas Operations",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -249,12 +249,12 @@
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPU60110501": {
     "id": "WPU60110501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services: Nonmetallic Minerals Mining Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -266,7 +266,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:47-05",
     "popularity": 1,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   }
 }

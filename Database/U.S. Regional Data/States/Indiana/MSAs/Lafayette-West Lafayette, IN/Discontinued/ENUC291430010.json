@@ -1,0 +1,18 @@
+{
+  "id": "ENUC291430010",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Quarterly Wages in Lafayette, IN (MSA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2012-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-09-04 06:27:49-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Total wages are the wages paid by Unemployment Insurance covered employers during the calendar quarter, regardless of when the services were performed."
+}

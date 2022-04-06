@@ -1,0 +1,18 @@
+{
+  "id": "M08038GBM051NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Iron Mining, Average Number of Days Per Week Worked for Each Month for United Kingdom",
+  "observation_start": "1895-01-01",
+  "observation_end": "1939-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Days",
+  "units_short": "Days",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:27:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data From 1895-1909 Refer To The Average Number Of Days Worked Per Week During The Month, Based On 4 Weeks. Data Beginning In 1910 Refer To The Average Number Of Days Worked Per Week For One Fortnight Per Month -- Sometimes The First Two Weeks Of The Month, Sometimes The Last Two Weeks. Data Include Iron Ore And Ironstone Mines And Openworks. Data For May-November, 1898 Are Affected By Employment In Scotland. The Drop In March, 1912 Is The Result Of A General Coal Mining Stoppage. Beginning In 1920 It Is Assumed That Data Refer Only To Mines In Great Britain. A General Coal Mining Stoppage Occured In October, 1920. Employment Is Low In May-December, 1926 Primarily As The Result Of The Decreased Demand For Iron Ore At Iron Ore And Steel Works Due To A Shortage Of Fuel. Most Of The Mines Were Closed Down During May And By The End Of The Month The Industry Was Almost At A Total Standstill. Coal Mining Disputes Affected Mining During Subsequent Months. Source: Ministry Of Labour (Labour Department,Board Of Trade Until 1925), Abstract Of Labour Statistics, 1897-1898, P. 80; And Following Abstracts; Data For 1934 Only Is From Ministry Of Labour Gazette.\n\nThis NBER data series m08038 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08038"
+}

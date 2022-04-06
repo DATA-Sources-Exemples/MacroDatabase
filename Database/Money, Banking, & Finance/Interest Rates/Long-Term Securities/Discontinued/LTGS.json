@@ -1,0 +1,18 @@
+{
+  "id": "LTGS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Long-Term U.S. Treasury Securities - Market Yield (DISCONTINUED)",
+  "observation_start": "1972-08-04",
+  "observation_end": "1996-10-11",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2006-07-27 09:08:55-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "Averages of daily figures."
+}

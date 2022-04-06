@@ -1,0 +1,18 @@
+{
+  "id": "M0312CUSM429NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railroad Revenue Passenger-Miles, Commutation, Class I Railroads for United States",
+  "observation_start": "1921-07-01",
+  "observation_end": "1956-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Passenger-Miles",
+  "units_short": "Mil. Of Passenger-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Beginning June 1955 Are Preliminary. Source: Interstate Commerce Commission, Revenue Traffic Statistics Of Class I Steam Railways.\n\nThis NBER data series m03012c appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03012c"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ITNETUSERP2DZA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Internet users for Algeria",
+  "observation_start": "1990-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Per 100 People",
+  "units_short": "Per 100 People",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-22 10:32:45-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Internet users are people with access to the worldwide network.\n\nWorld Bank Source: International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.\n\nSource Indicator: IT.NET.USER.P2"
+}

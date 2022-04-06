@@ -1,0 +1,18 @@
+{
+  "id": "A649RZ2A224NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in real imports of goods: Industrial supplies and materials, except petroleum and products (DISCONTINUED)",
+  "observation_start": "1968-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-03-27 11:02:33-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: A649RZ2\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

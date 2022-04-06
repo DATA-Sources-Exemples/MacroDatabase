@@ -1,0 +1,18 @@
+{
+  "id": "M08041USM052NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Earnings in Twelve Manufacturing Industries for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1934-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:19:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Twelve Industries Are: Automobiles; Boots And Shoes; Car Building And Repairing For Steam Railroad; Cigars And Cigarettes; Men'S Clothing; Cotton Goods; Hoisery And Underwear; Iron And Steel; Leather; Paper And Pulp; Silk Goods; Woolens. The Figures For The Amount Of Payroll And The Number On The Payroll Of Each Industry Were Taken From Monthly Labor Review. The Total Payroll For All Twelve Industries Was Then Divided By The Total Number On The Payroll To Get The Average Weekly Earnings Per Month. The Average Week Was Taken To Be The Week Including The 15Th Of The Month. As Some Figures Were Originally Given For Two Weeks Or Half A Month, Such As Payroll Data, They Have Been Adjusted By Multiplying By 1/2 Or 7/15 Or 7/15.5. Data For March-July 1922 Are For Eleven Industries; Woolen Reports Are Not Included. Source: Computed By NBER From Data In The Monthly Labor Review.\n\nThis NBER data series m08041 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08041"
+}

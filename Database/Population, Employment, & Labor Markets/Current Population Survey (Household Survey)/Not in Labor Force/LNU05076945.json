@@ -1,0 +1,18 @@
+{
+  "id": "LNU05076945",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Not in Labor Force - With No Disability, 16 to 64 Years, Women",
+  "observation_start": "2008-06-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:43:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU05076945"
+}

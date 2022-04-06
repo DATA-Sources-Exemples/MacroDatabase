@@ -1,0 +1,18 @@
+{
+  "id": "M01132USM576NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Merchant Pig Iron Shipments for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1926-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Long Tons",
+  "units_short": "Thous. Of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:46-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are For 94 To 131 Stocks Each Month Representing About 90 Percent Of The Production In Strictly Merchant Furnaces. Source: U.S. Department Of Commerce, Record Book Of Business Statistics, Pt. Ii, P. 18.\n\nThis NBER data series m01132 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01132"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PCAGDPCFA646NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Domestic Product Per Capita for Central African Republic",
+  "observation_start": "1960-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Current U.S. Dollars",
+  "units_short": "Current $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-21 14:49:35-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars.\n\nSource Code: NY.GDP.PCAP.CD"
+}

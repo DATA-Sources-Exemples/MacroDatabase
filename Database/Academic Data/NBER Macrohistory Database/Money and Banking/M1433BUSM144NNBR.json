@@ -1,0 +1,18 @@
+{
+  "id": "M1433BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Silver Held in the Treasury, Treasury and Federal Reserve Banks for United States",
+  "observation_start": "1914-01-01",
+  "observation_end": "1949-05-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:33:41-05",
+  "popularity": 2,
+  "group_popularity": 6,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1949. Data Are For Total Stock Of Silver Including Coverage Of Treasury Notes For 1890, Which, Prior To March 1915 Were Included In \"Other Currency\". Source: Computed By NBER From Annual Reports Of The Secretary Of The Treasury; And Circulation Statements Of U.S. Money.\n\nThis NBER data series m14133b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14133b"
+}

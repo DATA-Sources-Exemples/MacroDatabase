@@ -1,0 +1,17 @@
+{
+  "id": "SMU26198040500000002A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Hours of All Employees: Total Private in Detroit-Dearborn-Livonia, MI (MD)",
+  "observation_start": "2007-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Hours per Week",
+  "units_short": "Hours per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 05:35:20-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0127BUSM386NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gasoline, Total Domestic Demand for United States",
+  "observation_start": "1917-08-01",
+  "observation_end": "1965-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Barrels",
+  "units_short": "Mil. Of Barrels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:47-05",
+  "popularity": 2,
+  "group_popularity": 11,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1917-1930 (2)--Original Data, 1926-1962. At First Of Month, Plus Production, Plus Imports, Minus Exports, Minus Stocks At End Of Month. The Bureau Of Mines Prefers To Call These Estimates \"Demand\" Rather Than Consumption, Since There Are Substantial Unreported Stocks. Source: Bureau Of Mines, Petroleum Refinery Statistics, Various Issues Of Minerals Yearbook, Monthly Petroleum Statements, Mineral Industry Surveys, And Survey Of Current Business.\n\nThis NBER data series m01127b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01127b"
+}

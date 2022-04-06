@@ -1,2 +1,11 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                | title                                                                                                                                                               | observation_start   | observation_end   |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCU81138113       | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance                                                                                       | 2006-06-01          | 2022-02-01        |
+| PCU8113181131     | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance                                                                                       | 2006-06-01          | 2022-02-01        |
+| PCU811310811310   | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance                                                                                       | 2006-06-01          | 2022-02-01        |
+| PCU811310811310P  | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Primary Services                                                                     | 2006-06-01          | 2022-02-01        |
+| PCU811310811310SM | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Other Receipts                                                                       | 2006-06-01          | 2022-02-01        |
+| PCU8113108113105  | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Maintenance and Repair Services for Agricultural, Construction, and Mining Machinery | 2013-12-01          | 2022-02-01        |
+| PCU8113108113106  | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Maintenance and Repair Services for Commercial and Service Industry Machinery        | 2013-12-01          | 2022-02-01        |
+| PCU8113108113107  | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Maintenance and Repair Services for Industrial Machinery                             | 2013-12-01          | 2022-02-01        |
+| PCU8113108113108  | Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Maintenance and Repair Services for General Purpose Machinery                        | 2013-12-01          | 2022-02-01        |

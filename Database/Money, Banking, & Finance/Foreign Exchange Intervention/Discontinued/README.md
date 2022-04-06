@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                                                   | observation_start   | observation_end   |
+|-------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DEINTDEMS   | German Intervention: Bundesbank Purchases in EMS Markets (Millions of DEM) (DISCONTINUED)                               | 1976-01-02          | 1995-12-29        |
+| DEINTDUSDDM | German Intervention: Bundesbank Purchases on the Dollar/D-Mark (Millions of DEM) (DISCONTINUED)                         | 1976-01-02          | 1995-12-29        |
+| ITINTDRES   | Italian Intervention: Banca d'Italia Purchases of Foreign Exchange (Millions of ECU's, Euros after 1999) (DISCONTINUED) | 1988-01-01          | 1998-12-31        |

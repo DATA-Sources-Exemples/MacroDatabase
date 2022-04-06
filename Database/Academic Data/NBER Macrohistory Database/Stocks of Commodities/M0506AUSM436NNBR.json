@@ -1,0 +1,18 @@
+{
+  "id": "M0506AUSM436NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cold-Storage Holdings of Beef for United States",
+  "observation_start": "1915-12-01",
+  "observation_end": "1955-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Pounds of Meat",
+  "units_short": "Mil. Of Pounds Of Meat",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:51:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1915-1955 (2)--Seasonally Adjusted Data, 1916-1930. The \"End Of Month\" Data In The Statistical Bulletin Was Given As The First Of The Month, So The Figures Have Been Pushed Back, So That February 1 Became January 31, Etc. Data In The Survey Was Given At The End Of The Month Directly. Beef And Veal Holdings Include \"Frozen, Cured, And In The Process Of Cure In Cold-Storage Houses And Meat Packing Establishments.\" Data Also Appear In The Agricultural Yearbook (To 1928) And Agricultural Statistics (To 1938), But \"Frozen,\" And \"Cured\" Beef Must Be Added. Stocks Of Meat Purchased In The Federal Surplus Relief Corporation From \"Drought Stricken Livestock\" In 1934-1935 Are Not Included In These Figures. From June 1944 On, These Figures Include Trimmings Previously Included With Edible Offal In The Group \"Miscellaneous Meats.\" Source: U.S. Department Of Agriculture, Bureau Of Agricultural Economics, The Agricultural Marketing Service, For 1916-1942 Data: Statistical Bulletin No. 39, \"Cold Storage Holdings, \" P. 18; Thereafter: \"Livestock Market News Statistics And Related Data, \" Annual Issues; And Monthly Issues Of\"Cold Storage Report.\"\n\nThis NBER data series m05006a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05006a"
+}

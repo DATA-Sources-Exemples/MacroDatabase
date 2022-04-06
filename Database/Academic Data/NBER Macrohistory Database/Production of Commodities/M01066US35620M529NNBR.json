@@ -1,0 +1,18 @@
+{
+  "id": "M01066US35620M529NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cream and Condensed Milk Receipts for New York, NY",
+  "observation_start": "1895-01-01",
+  "observation_end": "1944-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of 40 Quart Cans",
+  "units_short": "Thous. Of 40 Quart Cans",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Represent Rail Receipts Through 1929, Rail And Truck Receipts Thereafter. Milk Reporter Data Cover Receipts Fresh Cream And Condensed Milk, Given In One Figure. Beginning In 1930 Data Are Collected By The Bureau Of Agricultural Economics, And Are Computed By Adding Receipts Of Fresh Cream And Receipts Of Condensed Milk. Receipts Of Frozen Cream Are Added Beginning In 1932. The Frozen Cream Data Are Not In The Original Source And Are Taken From H.R. Varney, Transportation Of Cream And Milk To The New York Market (Cornell University Agricultural Experimental Station, Ithaca, New York, Bulletin No.655), 1936 P. 64. For Lack Of Frozen Cream Data In The Source Used, July And November 1938 Figures Were Computed From\"Receipts Of Milk And Cream At The New York Market, Pollard And Champlin, July 1939 (Bae Mimeographed Release, In Cooperation With The New York State College Of Agriculture). Source: 1895-1929 Data Are From The Milk Reporter; 1930-1939 Data Are From American Creamery And Poultry Produce Review; 1940-1944 Data Are From American Milk Review.\n\nThis NBER data series m01066 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01066"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "G7LREM55FESTSAQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labour Force Survey - quarterly rates: Employment rate: Aged 55-64: Females for G7",
+  "observation_start": "2005-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2018-07-23 12:41:12-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "OECD descriptor ID: LREM55FE OECD unit ID: STSA OECD country ID: G-7 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

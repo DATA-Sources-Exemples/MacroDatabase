@@ -1,0 +1,18 @@
+{
+  "id": "IDSGFCAMNIAOCN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Nationality of Issuer in China (DISCONTINUED)",
+  "observation_start": "1987-01-01",
+  "observation_end": "2015-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of US Dollars",
+  "units_short": "Bil. of US $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-09-14 13:45:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series appears in Table 12c.\n\nNationality refers to the ultimate obligor, as opposed to the immediate borrower on a residence basis, and is linked to the consolidation of assets and liabilities for related entities. Information on a nationality basis is useful to analyse potential support that might be available from the parent company and to understand links between borrowers in different countries and sectors.\nFor example, the debts of a Cayman Islands subsidiary of a Brazilian bank may be guaranteed by the parent bank. Consistent with the approach taken in the international banking statistics, the BIS bases the nationality of an issuer on the residency of its controlling parent, regardless of any intermediate owners. (December 2012, BIS Quarterly Review, https://www.bis.org/publ/qtrpdf/r_qt1212h.pdf)\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
+}

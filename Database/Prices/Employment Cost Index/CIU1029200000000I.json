@@ -1,7 +1,7 @@
 {
   "id": "CIU1029200000000I",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Employment Cost Index: Wages and salaries for All Civilian workers in Public administration",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:52:46-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "See Footnote 3 on https://www.bls.gov/ect/cimapnote.htm"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M13061USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yields on Railroad Bonds, Highest Rating for United States",
+  "observation_start": "1945-01-01",
+  "observation_end": "1966-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Refer To Aaa Grade Bonds. Source: Moody'S Transportation Manual, 1965; Moody'S Bond Survey, Weekly Issues Thereafter.\n\nThis NBER data series m13061 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13061"
+}

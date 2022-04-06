@@ -1,0 +1,18 @@
+{
+  "id": "SAVINGSL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Savings Deposits: Total (DISCONTINUED)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-22 15:03:19-06",
+  "popularity": 24,
+  "group_popularity": 52,
+  "notes": "This series has been discontinued and will no longer be updated. It has been consolidated under the following series, which will continue to be updated: MDLM (https://fred.stlouisfed.org/series/MDLM).\n\nStarting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Components of the monetary aggregates are reported at a total industry level without a breakdown by banks and thrifts. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nThe savings deposits component of M2 consists of passbook-type savings deposits as well as MMDAs at banks and thrifts. This item is reported on the FR 2900 and, for institutions that do not file the FR 2900, is estimated using data reported on the Call Reports."
+}

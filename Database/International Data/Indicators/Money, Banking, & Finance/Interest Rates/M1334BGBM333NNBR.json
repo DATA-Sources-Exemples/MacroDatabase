@@ -1,0 +1,18 @@
+{
+  "id": "M1334BGBM333NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Yield of Fixed Interest Stocks for Great Britain",
+  "observation_start": "1925-01-01",
+  "observation_end": "1934-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1924=100",
+  "units_short": "Index 1924=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:19:01-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1930 (2)--Original Data, 1925-1934. Data Were Computed At The Middle Of The Month. Source: London And Cambridge Economic Service, Special Memorandum No. 33, January 1931, P. 13, And Following Monthly Bulletins.\n\nThis NBER data series m13034b appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13034b"
+}

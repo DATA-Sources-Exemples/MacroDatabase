@@ -1,0 +1,18 @@
+{
+  "id": "WILL2500PR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wilshire 2500 Price Index",
+  "observation_start": "1991-12-31",
+  "observation_end": "2022-03-02",
+  "frequency": "Daily, Close",
+  "frequency_short": "D",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-03 07:04:03-06",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "The observations for the Wilshire 2500 Price Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.\n\nThe price indexes are price returns, which do not reinvest dividends. Copyright, 2016, Wilshire Associates Incorporated. Reprinted with permission. For more information about the various indexes, visit Wilshire Associates (http://www.wilshire.com/Indexes)."
+}

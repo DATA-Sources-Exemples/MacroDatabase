@@ -1,0 +1,18 @@
+{
+  "id": "SLGNWIA027N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "State and local governments, excluding employee retirement funds; net worth (IMA), change in unadjusted level (DISCONTINUED)",
+  "observation_start": "1946-01-01",
+  "observation_end": "2010-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-06-12 10:16:01-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source ID: FR212090095.A\n\nFor more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).\n\nWith each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).\n\nIn the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FR212090095&t=) provided by the source.\n\nThis data appear in Table S.8.a of the 'Integrated Macroeconomic Accounts for the United States.'\n\nThese tables present a sequence of accounts that relate production, income and spending, capital formation, financial transactions, and asset revaluations to changes in net worth between balance sheets for the major sectors of the U.S. economy. They are part of an interagency effort to further harmonize the BEA National Income and Product Accounts (NIPAs) and the Federal Reserve Board Flow of Funds Accounts (FFAs). The structure of these tables is based on the internationally accepted set of guidelines for the compilation of national accounts that are offered in the System of National Accounts 1993 (SNA).\n\nCautionary note on the use of the integrated macroeconomic accounts (IMA) - The estimates that are provided on this page are based on a unique set of accounting standards that are founded on the SNA. Accordingly, some of the estimates in in the IMA tables will differ from the official estimates that are published in the NIPAs and FFAs due to conceptual differences. There will also be some statistical differences between the estimates in these tables and those in the related accounts. For further information on the conceptual differences, see the reference paper (https://www.bea.gov/data/special-topics/integrated-macroeconomic-accounts)."
+}

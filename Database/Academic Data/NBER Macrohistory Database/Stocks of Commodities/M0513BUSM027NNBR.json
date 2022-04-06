@@ -1,0 +1,18 @@
+{
+  "id": "M0513BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Change in Manufacturers' Inventories, Purchased Materials for United States",
+  "observation_start": "1953-02-01",
+  "observation_end": "1969-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1939-1953 (2)--Original Data, 1953-1969. Source: U.S. Bureau Of The Census, Data For 1947-1960: \"Manufacturers' Shipments, Inventories And Orders: 1947-1963, Revised, \" Series M3-1; Data For 1961-June 1968: \"Manufacturers' Shipments, Inventories, And Orders: 1961-1968, \" Series M3-1.1; Data For July-September 1968: Current Industrial Reports, Series M3-1, Monthly,Same Title\n\nThis NBER data series m05113b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05113b"
+}

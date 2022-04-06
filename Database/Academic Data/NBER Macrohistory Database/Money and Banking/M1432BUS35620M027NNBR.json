@@ -1,0 +1,18 @@
+{
+  "id": "M1432BUS35620M027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Demand Deposits, Individual, Corporations, and Others, Weekly Reporting Member Banks for New York, NY",
+  "observation_start": "1934-09-01",
+  "observation_end": "1939-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Orignal Data, 1919-1934 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1947 (4)--Original Data, 1946-1949. The Banking Act Of 1935 Substantially Changed The Method Used To Compute Net Demand Deposits, But Coverage Remained Substantially The Same. Source: Federal Reserve Board, Banking And Monetary Statistics, 1943.\n\nThis NBER data series m14132b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14132b"
+}

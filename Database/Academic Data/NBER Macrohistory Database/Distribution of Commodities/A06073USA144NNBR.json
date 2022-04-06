@@ -1,0 +1,18 @@
+{
+  "id": "A06073USA144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Outlay, Total, in Current Prices for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1943-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:49:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Simon Kuznets, National Product Since 1869 (NBER), 1946, Table I-5, P. 35 And Pp. 3-13 For Contents Of Data.\n\nThis NBER data series a06073 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: a06073"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DPCMRG3A086NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Personal consumption expenditures: Market-based (chain-type price index)",
+  "observation_start": "1987-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:59:48-05",
+  "popularity": 1,
+  "group_popularity": 5,
+  "notes": "BEA Account Code: DPCMRG\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

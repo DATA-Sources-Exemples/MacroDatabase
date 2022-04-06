@@ -1,0 +1,18 @@
+{
+  "id": "A0173AUSA481NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Locomotives Assigned to Freight and Passenger Service, Class I Railroads for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1942-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Locomotives",
+  "units_short": "Number Of Locomotives",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Switching And Terminal Companies Are Excluded Through 1936. They Were Included Beginning In 1937. Data Are As Of December 31. Source: Computed By NBER By Adding Series (Locomotives Assigned To Freight And Passenger Service, Respectively).\n\nThis NBER data series a01273a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01273a"
+}

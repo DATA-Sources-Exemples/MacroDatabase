@@ -1,0 +1,17 @@
+{
+  "id": "EXPAOOEF5111ALLEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Other Operating Expenses for Newspaper, Periodical, Book, and Directory Publishers , All Establishments , Employer Firms",
+  "observation_start": "2012-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-12-11 15:29:44-06",
+  "popularity": 2,
+  "group_popularity": 2
+}

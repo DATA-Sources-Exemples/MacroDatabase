@@ -1,0 +1,18 @@
+{
+  "id": "A01243USA396NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Canned Corn Pack for United States",
+  "observation_start": "1885-01-01",
+  "observation_end": "1951-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Cases of 24 Number 2 Cans",
+  "units_short": "Mil. Of Cases Of 24 Number 2 Cans",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "NBER Resolved Some Differences Among The Various Sources. Source: United States Department Of Agriculture, Statistical Bulletin, No. 22, P.67; Canning Trade, 1940, P.190; Agricultural Statistics; National Canners' Association Canned Food Pack Statistics, 1951, Vol. 1.\n\nThis NBER data series a01243 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01243"
+}

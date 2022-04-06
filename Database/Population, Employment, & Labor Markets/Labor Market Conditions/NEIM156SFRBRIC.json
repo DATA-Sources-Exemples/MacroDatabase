@@ -1,0 +1,18 @@
+{
+  "id": "NEIM156SFRBRIC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hornstein-Kudlyak-Lange Non-Employment Index",
+  "observation_start": "1994-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-16 16:14:01-05",
+  "popularity": 17,
+  "group_popularity": 17,
+  "notes": "The Hornstein-Kudlyak-Lange Non-Employment Index (NEI) is a weighted average of all non-employed people expressed as the share of the civilian non-institutionalized population 16 years and older. The weights take into account persistent differences in each group's likelihood of transitioning back into employment. Because the NEI is more comprehensive and includes tailored weights of non-employed individuals, it arguably provides a more accurate reading of labor market conditions than the standard unemployment rate. For further information about this series, go to https://www.richmondfed.org/research/national_economy/non_employment_index."
+}

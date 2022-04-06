@@ -1,19 +1,22 @@
-| Folder                            |   Files / Folders |
-|-----------------------------------|-------------------|
-| Chambersburg-Waynesboro, PA       |                 2 |
-| Harrisburg-Carlisle, PA           |                 2 |
-| Williamsport, PA                  |                 2 |
-| Pittsburgh, PA                    |                 2 |
-| Altoona, PA                       |                 2 |
-| Lancaster, PA                     |                 2 |
-| Scranton--Wilkes-Barre, PA        |                 2 |
-| Gettysburg, PA                    |                 2 |
-| State College, PA                 |                 2 |
-| Lebanon, PA                       |                 2 |
-| Bloomsburg-Berwick, PA            |                 2 |
-| Johnstown, PA                     |                 2 |
-| East Stroudsburg, PA              |                 2 |
-| Reading, PA                       |                 2 |
-| Youngstown-Warren-Boardman, OH-PA |                 2 |
-| Erie, PA                          |                 2 |
-| York-Hanover, PA                  |                 2 |
+| Folder                                      |   Files / Folders |
+|---------------------------------------------|-------------------|
+| Chambersburg-Waynesboro, PA                 |                97 |
+| Williamsport, PA                            |               120 |
+| Johnstown, PA                               |               155 |
+| Erie, PA                                    |               170 |
+| Lancaster, PA                               |               186 |
+| Bloomsburg-Berwick, PA                      |                83 |
+| York-Hanover, PA                            |               170 |
+| Allentown-Bethlehem-Easton, PA-NJ           |               223 |
+| Harrisburg-Carlisle, PA                     |               216 |
+| Youngstown-Warren-Boardman, OH-PA           |               183 |
+| Lebanon, PA                                 |               137 |
+| New York-Newark-Jersey City, NY-NJ-PA       |               167 |
+| Gettysburg, PA                              |                80 |
+| Reading, PA                                 |               179 |
+| East Stroudsburg, PA                        |                92 |
+| State College, PA                           |               143 |
+| Pittsburgh, PA                              |               291 |
+| Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |               186 |
+| Altoona, PA                                 |               138 |
+| Scranton--Wilkes-Barre, PA                  |               195 |

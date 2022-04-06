@@ -1,0 +1,18 @@
+{
+  "id": "INVCMRMTSPL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Manufacturing and Trade Inventories",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Chained 2012 Dollars",
+  "units_short": "Mil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-31 07:49:08-05",
+  "popularity": 4,
+  "group_popularity": 28,
+  "notes": "Real Manufacturing and Trade Inventories (INVCMRMTSPL) was first constructed by the Federal Reserve Bank of St. Louis in June 2013. It is calculated using Real Manufacturing and Trade Inventories (INVHMRMT) (https://fred.stlouisfed.org/series/INVHMRMT) and Real Manufacturing and Trade Inventories (INVCMRMT) (https://fred.stlouisfed.org/series/INVCMRMT).\n\nBefore January 1997\nlag1(INVHMRMT) = one observation earlier than current time period observation\nINVHMRMT _PC = the growth rate of INVHMRMT\nlead1(INVCMRMTSPL) = one observation later than current time period observation\nINVHMRMT _PC = [INVHMRMT /lag1(INVHMRMT) \u20131]\nINVCMRMTSPL= lead1(INVCMRMTSPL)/(1+ INVHMRMT _PC)\n\nAfter December 1996\nINVCMRMTSPL= INVCMRMT"
+}

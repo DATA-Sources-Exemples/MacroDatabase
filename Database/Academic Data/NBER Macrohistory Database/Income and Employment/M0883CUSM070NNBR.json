@@ -1,0 +1,18 @@
+{
+  "id": "M0883CUSM070NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Production Worker Wage Cost Per Unit of Output, Total Manufactures for United States",
+  "observation_start": "1957-01-01",
+  "observation_end": "1962-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957=100",
+  "units_short": "Index 1957=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:29:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1950 (2)--Original Data, 1947-1958 (3)--Original Data, 1957-1962. The Data Have Been Computed Using Revised Manhours And Earning Data As Shown In Bureau Of Labor Statistics Bulletin 1312 Issued In 1961. Source: Bureau Of Labor Statistics, Production Worker Payroll, Total Manufacturing (Unpublished Tabulation) Converted To Relatives On The Base 1957, Divided By The Federal Reserve Board Index Of Manufacturing Production (Unpublished Tabulation Of Unadjusted Series, Revised In December, 1959).\n\nThis NBER data series m08283c appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08283c"
+}

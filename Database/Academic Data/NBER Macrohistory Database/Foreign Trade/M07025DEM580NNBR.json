@@ -1,0 +1,18 @@
+{
+  "id": "M07025DEM580NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Exports, Total, Weight for Germany",
+  "observation_start": "1891-03-01",
+  "observation_end": "1935-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Metric Tons",
+  "units_short": "Thous. Of Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:03:57-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "1919 Figures Taken From Valkswirtschaftliche Chronik, 1924, P. 53. Revised Figures Taken In Each Case. Computed Here From Cumulative Monthly Figures As Published The Second Time, I.E., One Year Later. Original Units In Doppelgentner (100 Kg.) Converted Here To Metric Tons (1000 Kg). Beginning 1894, Bullion And Precious Metals Excluded, But For 1891-3 Their Weight Is Negligible. For The Period 1927-June 1932, Figures Are Here Given For Both \"Excluding Reparation Payments\" And \"Including Reparation Payments\". \"Reparation Payments\" Data Were Not Paid Beginning July 1932. A New Tariff Law Was Passed In March, 1906. Figures For January, 1920-June, 1920 And January, 1921-April, 1921 Are Not Available. From November, 1924 Figures From The Occupied Territories Are Included; I.E., All Customs Union Reporting Hereon. Figures From December 1934 Are Unrevised. Source: Monatliche Nachweise Uber Den Auswartigen Handel\n\nThis NBER data series m07025 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07025"
+}

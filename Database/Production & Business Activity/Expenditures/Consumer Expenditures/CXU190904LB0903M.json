@@ -1,0 +1,18 @@
+{
+  "id": "CXU190904LB0903M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Expenditures: Food Prepared on Out-of-Town Trips by Race: White and All Others",
+  "observation_start": "2003-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-09 12:08:19-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Race refers to the reference person's race, where the reference person is the first member mentioned by the respondent when asked to \"Start with the name of the person or one of the persons who owns or rents the home.\" It is with respect to this person that the relationship of the other consumer unit members is determined.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
+}

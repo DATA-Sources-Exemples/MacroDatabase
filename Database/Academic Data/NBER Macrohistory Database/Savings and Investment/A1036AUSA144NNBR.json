@@ -1,0 +1,18 @@
+{
+  "id": "A1036AUSA144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Savings of Life Insurance Policy Holders for United States",
+  "observation_start": "1866-01-01",
+  "observation_end": "1894-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:21:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1866-1894 (2)--Original Data, 1888-1944. Data For This Period Refer To Companies Reporting To The New York Insurance Department; Data For The Period 1888-1944 Refer To All Companies. Source: Computed By NBER From The Insurance Yearbook, Life Insurance Volume, Tables On \"Aggregates, \" 1895/1896\n\nThis NBER data series a10036a appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: a10036a"
+}

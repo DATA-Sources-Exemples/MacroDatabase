@@ -1,0 +1,18 @@
+{
+  "id": "B3377C0A144NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net corporate dividends: Domestic industries: Anthracite mining",
+  "observation_start": "1929-01-01",
+  "observation_end": "1947-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-03-31 19:22:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B3377C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

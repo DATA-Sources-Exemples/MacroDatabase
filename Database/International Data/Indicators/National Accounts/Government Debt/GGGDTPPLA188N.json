@@ -1,0 +1,18 @@
+{
+  "id": "GGGDTPPLA188N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Projection of General government gross debt for Poland",
+  "observation_start": "2021-01-01",
+  "observation_end": "2026-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of GDP",
+  "units_short": "% of GDP",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-16 13:55:25-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This is a projection of the series General Government Gross Debt for Poland (https://fred.stlouisfed.org/series/GGGDTAPLA188N). Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the Government Finance Statistics Manual 2001 (GFSM 2001) system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

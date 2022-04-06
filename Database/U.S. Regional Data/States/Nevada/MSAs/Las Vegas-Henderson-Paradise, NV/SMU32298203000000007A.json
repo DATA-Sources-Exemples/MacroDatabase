@@ -1,0 +1,17 @@
+{
+  "id": "SMU32298203000000007A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Hours of Production Employees: Manufacturing in Las Vegas-Henderson-Paradise, NV (MSA)",
+  "observation_start": "2003-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Hours per Week",
+  "units_short": "Hours per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-03-12 15:15:12-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

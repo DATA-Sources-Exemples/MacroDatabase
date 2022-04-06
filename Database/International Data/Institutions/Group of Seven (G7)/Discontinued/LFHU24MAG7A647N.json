@@ -1,0 +1,18 @@
+{
+  "id": "LFHU24MAG7A647N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Unemployment: Aged 15-24: Males for the Group of Seven (DISCONTINUED)",
+  "observation_start": "2004-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-10-17 14:23:37-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: LFHU24MA\nOECD unit ID: ST\nOECD country ID: G7M\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

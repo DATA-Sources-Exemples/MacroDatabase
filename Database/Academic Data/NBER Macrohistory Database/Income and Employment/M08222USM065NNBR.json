@@ -1,0 +1,18 @@
+{
+  "id": "M08222USM065NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Actual Hours of Work Per Week, Machine and Machine Tools Manufacturing for United States",
+  "observation_start": "1924-07-01",
+  "observation_end": "1942-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:45-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source: National Industrial Conference Board: For 1924-1936, \"Wages, Hours, And Employment On The United States, 1914-1936\" (Nicb Studies No. 229, 1936); For 1937, Supplement To Nicb Service Letter, June 1938; For 1938-1941, Nicb Economic Record, March 28, 1940 And Following Issues; For 1942, Nicb Management Records.\n\nThis NBER data series m08222 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08222"
+}

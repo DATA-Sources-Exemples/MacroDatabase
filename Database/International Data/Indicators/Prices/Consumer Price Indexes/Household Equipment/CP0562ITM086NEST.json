@@ -1,0 +1,18 @@
+{
+  "id": "CP0562ITM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Domestic Services and Household Services for Italy",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:19:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Domestic Services and Household Services (05.6.2)\" is a classification of services that includes domestic services supplied by paid staff employed in private service such as butlers, cooks, maids, drivers, gardeners, governesses, secretaries, tutors, and au pairs; similar services, including baby-sitting and housework, supplied by enterprises or self-employed persons; household services such as window cleaning, disinfecting, fumigation, and pest extermination; and dry-cleaning, laundering, and dyeing of household linen, household textiles, and carpets; hire of furniture, furnishings, carpets, household equipment, and household linen.\n\nThis category excludes dry-cleaning, laundering, and dyeing of garments (03.1.4), refuse collection (04.4.2), sewerage collection (04.4.3), co-proprietor charges for caretaking, gardening, stairwell cleaning, heating and lighting, maintenance of lifts, and refuse disposal chutes, etc. in multi-occupied buildings (04.4.4), security services (04.4.4), snow removal and chimney sweeping (04.4.4), removal and storage services (07.3.6), services of wet nurses, cr\u00e9ches, day-care centers, and other child-minding facilities (12.4.0), and bodyguards (12.7.0).\n\nThis category is a subcategory of the Furnishings, Household Equipment, and Routine Maintenance of the House (05) and of Goods and Services for Routine Household Maintenance (05.6) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

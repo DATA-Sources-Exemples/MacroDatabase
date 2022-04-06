@@ -1,0 +1,18 @@
+{
+  "id": "WLSFAL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, Supplementary Financing Account (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2012-11-07",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-11-08 15:46:41-06",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "With the dramatic expansion of the Federal Reserve's liquidity facilities, the Treasury agreed to establish the Supplementary Financing Program with the Federal Reserve. Under the Supplementary Financing Program, the Treasury issues debt and places the proceeds in the Supplementary Financing Account. The effect of the account is to drain balances from the deposits of depository institutions, helping to offset, somewhat, the rapid rise in balances that resulted from the various Federal Reserve liquidity facilities."
+}

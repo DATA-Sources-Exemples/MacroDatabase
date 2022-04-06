@@ -1,0 +1,18 @@
+{
+  "id": "B020RX1Q020SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real exports of goods and services (DISCONTINUED)",
+  "observation_start": "1947-01-01",
+  "observation_end": "2015-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2009 Dollars",
+  "units_short": "Bil. of Chn. 2009 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2015-08-05 13:31:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B020RX1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

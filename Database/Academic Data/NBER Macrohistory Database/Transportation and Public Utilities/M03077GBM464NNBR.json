@@ -1,0 +1,18 @@
+{
+  "id": "M03077GBM464NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Wagon Load for Great Britain",
+  "observation_start": "1920-01-01",
+  "observation_end": "1931-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Net Ton-Miles per Loaded Wagon Mile",
+  "units_short": "Net Ton-Miles Per Loaded Wagon Mile",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:02:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Data For 1920-1931: Ministry Of Transport, \"Railway Statistics\", Succesive Issues Of 1920-1931. Data For 1931-1939: Computed By NBER By Dividing Series (Net Ton-Miles) By Series (Loaded Wagon-Miles).\n\nThis NBER data series m03077 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03077"
+}

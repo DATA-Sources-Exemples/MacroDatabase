@@ -1,0 +1,18 @@
+{
+  "id": "Q1026AUSQ027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Private Domestic Investment, Total for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1946-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1939-1946 (2)--Original Data, 1946-1967. Unadjusted Figures Were Multiplied By Four To Derive Totals At Annual Rates. Source: U.S. Department Of Commerce, Data For 1939-1945: National Income, 1954 Edition, A Supplement To The Survey Of Current Business; Data For 1946: Scb, Issue Of July 1958\n\nThis NBER data series q10026a appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10026a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CANCPALTT01IXOBSAQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: All items: Total: Total for Canada",
+  "observation_start": "1992-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 10:38:10-06",
+  "popularity": 3,
+  "group_popularity": 10,
+  "notes": "OECD descriptor ID: CPALTT01 OECD unit ID: IXOBSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

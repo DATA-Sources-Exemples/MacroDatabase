@@ -1,0 +1,18 @@
+{
+  "id": "M08H4BUSM592NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Employment, Paper and Printing for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1956-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Production Workers",
+  "units_short": "Thous. Of Production Workers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:19:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1919-1942 (2)--Original Data, 1939-1956. NBER Computed Data By Adding \"Paper And Allied Products\" And \"Printing, Publishing And Allied Industries\" (The Latter Starting In January 1947). This Segment Is Roughly Comparable To The Industry Coverage Of The Previous One. Source: Data Were Computed By NBER From Bureau Of Labor Statistics Figures, For 1939-1955 Data:\"Employment, Hours, And Earnings\", Manufacturing Division, Nondurable Goods Subdivision, Paper And Allied Products, Releases Ls53-1906, February 1953 And June 1956, Pp. 130A-B, And Printing, Publishing And Allied Industries, Unnumbered Releases, February 1953 And June 1956, Pp. 136A-B; For 1956: Monthly Labor Review.\n\nThis NBER data series m08014b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08014b"
+}

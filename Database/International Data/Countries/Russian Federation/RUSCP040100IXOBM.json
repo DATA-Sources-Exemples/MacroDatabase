@@ -1,0 +1,18 @@
+{
+  "id": "RUSCP040100IXOBM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index : Housing, water, electricity, gas and other fuels (COICOP 04) : Actual rentals for housing : Total for Russia",
+  "observation_start": "2004-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-10 10:41:14-06",
+  "popularity": 3,
+  "group_popularity": 5,
+  "notes": "OECD descriptor ID: RUS.CP040100.IXOB.M OECD unit ID: OECD country ID: CP040100 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

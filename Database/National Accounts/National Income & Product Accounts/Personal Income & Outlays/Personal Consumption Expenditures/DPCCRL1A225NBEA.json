@@ -1,0 +1,18 @@
+{
+  "id": "DPCCRL1A225NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Personal Consumption Expenditures (PCE) Excluding Food and Energy",
+  "observation_start": "1930-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-27 07:52:14-06",
+  "popularity": 3,
+  "group_popularity": 9,
+  "notes": "BEA Account Code: DPCCRL\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

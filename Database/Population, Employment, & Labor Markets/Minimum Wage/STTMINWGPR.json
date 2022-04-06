@@ -1,0 +1,18 @@
+{
+  "id": "STTMINWGPR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "State Minimum Wage Rate for Puerto Rico",
+  "observation_start": "1968-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-01 13:33:29-06",
+  "popularity": 19,
+  "group_popularity": 19,
+  "notes": "Those who do not qualify for the Federal minimum wage receive a wage at .7 the Federal rate.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
+}

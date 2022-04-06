@@ -1,0 +1,18 @@
+{
+  "id": "CXU800721LB0404M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Other Financial Information: Estimated Market Value of Owned Home by Age: from Age 35 to 44",
+  "observation_start": "1984-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-09 11:39:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Age refers to the reference person's age, where the reference person is the first member mentioned by the respondent when asked to \"Start with the name of the person or one of the persons who owns or rents the home.\" It is with respect to this person that the relationship of the other consumer unit members is determined.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
+}

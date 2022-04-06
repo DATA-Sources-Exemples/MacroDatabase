@@ -1,0 +1,18 @@
+{
+  "id": "DDOI03SVA066NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "H-Statistic in Banking Market for El Salvador",
+  "observation_start": "2010-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-21 13:51:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "A measure of the degree of competition in the banking market. It measures the elasticity of banks revenues relative to input prices. Under perfect competition, an increase in input prices raises both marginal costs and total revenues by the same amount, and hence the H-statistic equals 1. Under a monopoly, an increase in input prices results in a rise in marginal costs, a fall in output, and a decline in revenues, leading to an H-statistic less than or equal to 0. When H is between 0 and 1, the system operates under monopolistic competition.\n\nA measure of the degree of competition in the banking market. It measures the elasticity of banks revenues relative to input prices. Under perfect competition, an increase in input prices raises both marginal costs and total revenues by the same amount, and hence the H-statistic equals 1. Under a monopoly, an increase in input prices results in a rise in marginal costs, a fall in output, and a decline in revenues, leading to an H-statistic less than or equal to 0. When H is between 0 and 1, the system operates under monopolistic competition. (For more information, see Panzar and Rosse 1982, 1987). (Calculated from underlying bank-by-bank data from Bankscope)\n\nSource Code: GFDD.OI.03"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M01039USM566NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hogs Slaughtered for United States",
+  "observation_start": "1879-03-01",
+  "observation_end": "1957-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Hogs",
+  "units_short": "Thous. Of Hogs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:07:02-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Data For 1879-1906 Are For Commericial Hogs; Data For 1907-1957 Are For Federally Inspected Hogs. Data Prior To 1907 Are Estimated On The Basis Of Total Eastern And Western Slaughter As Reported By The Price Current Yearbook And Monthly Slaughter Computed On The Basis Of Monthly Western Slaughter And Monthly Receipts At Markets. Data For September 1933 Include 6,411,000 Pigs And Sows Purchased For Government Account Under The Emergency Hog Production Control During The Weeks Ended August 25 And October 6, 1933. Beginning January 1947, Slaughter In Hawaii And The Virgin Islands Has Been Excluded. Source: U.S. Department Of Agriculture, Bureau Of Agricultural Economics, And Production And Marketing Administration, Data For 1879-1940: B.A.E., Livestock, Meats, And Wool, Market Statistics And Related Data, 1940, P. 34. Data For 1941-1957: Pma, Livestock Market News, Statistics And Related Data, 1949; The Livestock And Meat Situation, 1951 And Following Issues.\n\nThis NBER data series m01039 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01039"
+}

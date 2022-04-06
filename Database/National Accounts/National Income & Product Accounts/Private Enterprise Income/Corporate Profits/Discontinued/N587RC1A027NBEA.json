@@ -1,0 +1,18 @@
+{
+  "id": "N587RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate profits with inventory valuation and capital consumption adjustments: Domestic industries: Financial (DISCONTINUED)",
+  "observation_start": "1929-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-08-05 13:41:08-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: N587RC1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

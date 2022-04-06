@@ -1,8 +1,8 @@
 {
   "WPU511102022": {
     "id": "WPU511102022",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Health Care Services: Private Insurance Patients: Diagnostic Imaging Center Care (DISCONTINUED)",
     "observation_start": "2014-06-01",
     "observation_end": "2017-01-01",
@@ -15,12 +15,12 @@
     "last_updated": "2017-02-14 08:23:18-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102023": {
     "id": "WPU511102023",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Health Care Services: All Other Patients: Diagnostic Imaging Center Care (DISCONTINUED)",
     "observation_start": "2014-06-01",
     "observation_end": "2017-01-01",
@@ -33,6 +33,6 @@
     "last_updated": "2017-02-14 08:23:18-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   }
 }

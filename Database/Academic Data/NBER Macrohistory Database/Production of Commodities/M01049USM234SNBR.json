@@ -1,0 +1,18 @@
+{
+  "id": "M01049USM234SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Average Animals Slaughtered Under Federal Inspection for United States",
+  "observation_start": "1907-01-01",
+  "observation_end": "1952-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Average Number per Week",
+  "units_short": "Average Number Per Week",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 11:06:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "These Data Were Computed By NBER As Weighted Sums Of Seasonally Adjusted Values Of 4 NBER Series Reduced To Relatives On 1919-1921=100. Weights Used For 1907-1941 Are Cattle, 0.52; Calves, 0.06; Hogs, 0.33; Sheep And Lambs, 0.09. Weights Used For 1942-1952 Are Cattle, 0.583; Calves, 0.073; Hogs, 0.260; Sheep And Lambs, 0.084. Source: Agricultural Yearbook And Crops And Markets\n\nThis NBER data series m01049 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01049"
+}

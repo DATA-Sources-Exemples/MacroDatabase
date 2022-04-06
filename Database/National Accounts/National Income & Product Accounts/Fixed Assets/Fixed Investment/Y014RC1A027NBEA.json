@@ -1,0 +1,18 @@
+{
+  "id": "Y014RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Private Fixed Investment in Intellectual Property Products: Research and development: Business: Manufacturing: Motor vehicles, bodies and trailers, and parts manufacturing",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:35:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: Y014RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

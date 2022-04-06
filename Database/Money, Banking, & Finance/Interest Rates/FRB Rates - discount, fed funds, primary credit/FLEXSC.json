@@ -1,0 +1,18 @@
+{
+  "id": "FLEXSC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis",
+  "observation_start": "1992-01-09",
+  "observation_end": "2022-03-24",
+  "frequency": "Biweekly, Beg. of Period",
+  "frequency_short": "BW",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-24 09:52:01-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "Beginning of Period\n\nSeasonal credit is available to help relatively small depository institutions meet regular seasonal needs for funds that arise from a clear pattern of intrayearly movements in their deposits and loans and that cannot be met through special industry lenders. The discount rate on seasonal credit takes into account rates charged by market sources of funds and ordinarily is re-established on the first business day of each two-week reserve maintenance period."
+}

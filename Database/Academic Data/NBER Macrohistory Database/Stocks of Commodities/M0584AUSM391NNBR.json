@@ -1,0 +1,18 @@
+{
+  "id": "M0584AUSM391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Visible Supply of Oats for United States",
+  "observation_start": "1873-12-01",
+  "observation_end": "1885-12-01",
+  "frequency": "Monthly, Saturday Nearest Month's End",
+  "frequency_short": "M",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1873-1885 (2)--Original Data, 1884-1889 (3)--Original, 1888-1927 (4)--Original, 1926-1954. Data For Canada Are Included, As Well As In Transit By Rail Data. Reports Of The N.Y. Produce Exchange For 1885 Were Missing At The New York Public Library. Figures Were Taken From Bradstreet'S, December 1884-December 1885 Inclusive, Which Quotes N.Y. Produce Exchange Data. Source: New York Produce Exchange, Annual Reports\n\nThis NBER data series m05084a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05084a"
+}

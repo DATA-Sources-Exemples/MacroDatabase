@@ -1,0 +1,18 @@
+{
+  "id": "CUUSA104SEHF",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index for All Urban Consumers: Energy Services in Pittsburgh, PA (CMSA) (DISCONTINUED)",
+  "observation_start": "1984-01-01",
+  "observation_end": "2017-07-01",
+  "frequency": "Semiannual",
+  "frequency_short": "SA",
+  "units": "Index 1982-1984=100",
+  "units_short": "Index 1982-1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-12 09:14:51-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series was discontinued as a result of the introduction of a new geographic area sample for the Consumer Price Index. Information on the geographic revision is available at https://www.bls.gov/cpi/additional-resources/geographic-revision-2018.htm."
+}

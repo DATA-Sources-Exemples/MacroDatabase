@@ -1,0 +1,18 @@
+{
+  "id": "A0161AUSA155NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Coke Ovens Under Construction for United States",
+  "observation_start": "1880-01-01",
+  "observation_end": "1960-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:49:47-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Covers The Total Of Construction Of Beehive And By-Product Coke Ovens. Beehive Coke Ovens Should Probable Be Subracted From 1940 On Because These Are Probably Old Ovens Rebuilt For Temporary Use To Meet Peak Demands. Source: Data Derived From Minerals Yearbook, Successive Issues.\n\nThis NBER data series a01161a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01161a"
+}

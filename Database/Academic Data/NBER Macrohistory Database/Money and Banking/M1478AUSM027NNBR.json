@@ -1,0 +1,18 @@
+{
+  "id": "M1478AUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Demand Deposits, Reporting Member Banks, Federal Reserve System for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1934-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:02-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1919-1934 (2)--Original Data, 1934-1947 (3)--Original Data, 1946-1953 (4)--Original Data, 1952-1956. Data Reflect Monthly Averages Of Weekly Figures. Data Are For 101 Cities. Source: Annual Reports Of The Federal Reserve Board, 1930, P.99; 1933, P. 185; Banking And Monetary Statistics.\n\nThis NBER data series m14078a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14078a"
+}

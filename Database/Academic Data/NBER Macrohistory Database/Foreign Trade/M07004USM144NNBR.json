@@ -1,0 +1,18 @@
+{
+  "id": "M07004USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Domestic Exports of Semi-Manufactures for United States",
+  "observation_start": "1905-07-01",
+  "observation_end": "1956-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:02:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Certain Latest Revisions Taken From Survey Of Current Business. \"Minor Revisions\" In 1946 Figures Have Been Disregarded. Figures For 1947 Have Been Derived By Adding Army Civilian Supply Exports (From 1948 Ft930 Summary Reports, Monthly) To U.S. Commercial Exports For 1947, Obtained Directly From The Foreign Trade Division, Bureau Of The Census. From 1948 Such Exports Are Included By Source. From July 1950, Data For Semi-Manufactures Do Not Cover Certain Commodities Reported Under Special Category Type I Classifications Which Cover Commodities For Which Data Are Not Shown Separately On Account Of Security Restrictions. No Information Pertaining To The Extent Of Such Exclusions Is Available (Letter Of March 11, 1954 By The Foreign Trade Divisions Of The U.S. Bureau Of The Census). Figures For Semi-Manufactures That Are Excluded From This Group Have Been Included In Those For Finished Manufactures. Source: Monthly Summary Of Commerce And Finance, July 1906-June 1914; Monthly Summary Of Foreign Commerce Of The U.S., July 1914-1941; Survey Of Current Business, Statistical Supplements And Current Issues, Thereafter.\n\nThis NBER data series m07004 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07004"
+}

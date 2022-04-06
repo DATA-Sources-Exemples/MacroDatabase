@@ -1,0 +1,18 @@
+{
+  "id": "IPG327NQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Industrial Production: Manufacturing: Durable Goods: Nonmetallic Mineral Product (NAICS = 327)",
+  "observation_start": "1972-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2017=100",
+  "units_short": "Index 2017=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 08:21:46-05",
+  "popularity": 1,
+  "group_popularity": 13,
+  "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 327\n\nSource Code: IP.G327.N"
+}

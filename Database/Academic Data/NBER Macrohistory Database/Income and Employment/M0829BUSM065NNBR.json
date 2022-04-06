@@ -1,0 +1,18 @@
+{
+  "id": "M0829BUSM065NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hours of Work Per Week, Production Workers, Manufacturing, Total for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1969-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:18:32-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1932-1969. Beginning With 1959, Alaska And Hawaii Are Included. Source: Bureau Of Labor Statistics, Bulletins No. 1312, 1312-1 And Subsequent Bulletins\n\nThis NBER data series m08029b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08029b"
+}

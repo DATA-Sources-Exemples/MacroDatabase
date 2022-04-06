@@ -1,0 +1,17 @@
+{
+  "id": "SOUT718URN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 17:25:05-05",
+  "popularity": 8,
+  "group_popularity": 9
+}

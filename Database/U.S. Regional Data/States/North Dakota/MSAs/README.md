@@ -1,5 +1,5 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
-| Grand Forks, ND-MN |                 2 |
-| Bismarck, ND       |                 2 |
-| Fargo, ND-MN       |                 2 |
+| Grand Forks, ND-MN |               150 |
+| Bismarck, ND       |               170 |
+| Fargo, ND-MN       |               179 |

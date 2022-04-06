@@ -1,0 +1,17 @@
+{
+  "id": "SMU06420609093161101",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Local Government Educational Services in Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-01-28 14:01:51-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

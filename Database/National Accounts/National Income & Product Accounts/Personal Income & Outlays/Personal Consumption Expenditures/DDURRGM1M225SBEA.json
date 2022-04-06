@@ -1,0 +1,18 @@
+{
+  "id": "DDURRGM1M225SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Prices for Personal Consumption Expenditures: Chained Price Index: Goods: Durable goods",
+  "observation_start": "1959-02-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-31 07:44:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: DDURRGM\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CANEPUINDXM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Economic Policy Uncertainty Index for Canada",
+  "observation_start": "1985-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 08:02:19-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "For additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
+}

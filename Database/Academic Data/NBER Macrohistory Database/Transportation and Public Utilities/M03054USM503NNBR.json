@@ -1,0 +1,18 @@
+{
+  "id": "M03054USM503NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Passenger-Miles Per Ton of Coal Consumed in Passenger Service, Class I Railroads for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1942-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Passenger-Miles",
+  "units_short": "Passenger-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:05:08-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For Passenger-Miles Exclude Switching And Terminal Companies Throughout; Data For Coal Consumed Exclude These Companies For 1920-1936, But Include Them Thereafter. Source: Interstate Commerce Commission, Data For 1920-1935: Derived By NBER From \"Revenue Traffic Statistics Of Class I Steam Railways In The United States\" (For Revenue Passenger-Miles) And \"Freight And Passenger Service Operating Statistics Of Class I Steam Railways In The United States\" (For Coal Consumed). Data For 1936-1942: \"Fuel And Power For Locomotives And Rail Motor Carriers Of Class I Steam Railways In The United States.\"\n\nThis NBER data series m03054 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03054"
+}

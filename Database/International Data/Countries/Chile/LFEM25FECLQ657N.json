@@ -1,0 +1,18 @@
+{
+  "id": "LFEM25FECLQ657N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed Population: Aged 25-54: Females for Chile",
+  "observation_start": "2005-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Growth Rate Previous Period",
+  "units_short": "Growth Rate Previous Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-15 10:37:27-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: LFEM25FE\nOECD unit ID: GP\nOECD country ID: CHL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

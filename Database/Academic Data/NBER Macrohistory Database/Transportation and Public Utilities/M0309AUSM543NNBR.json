@@ -1,0 +1,18 @@
+{
+  "id": "M0309AUSM543NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Freight Car Surplus for United States",
+  "observation_start": "1907-05-01",
+  "observation_end": "1917-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Cars",
+  "units_short": "Thous. Of Cars",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Preseted Here As Two Variables--(1)--Original Data, 1907-1917, (2)--Original Data, 1915-1944. The Railroads Included In These Data Are The Same Throughout, Except That The Actual Number Of Roads Decreased Due To Consolidations, From About 175 To 118. The Figures Throughout, However, Are Comparable. Data Are The Average Of Bi-Weekly Statistics. Source: American Railway Association, \"Unfilled Car Requisitions\", Bulletin No. 6, August 17, 1917; Quarterly Journal Of Economics, Vol. 33, P. 179.\n\nThis NBER data series m03009a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03009a"
+}

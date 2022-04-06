@@ -1,7 +1,7 @@
 {
   "id": "CIS2020000120000I",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Professional and related",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:52:39-06",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "See Footnote T on https://www.bls.gov/ect/cimapnote.htm"
 }

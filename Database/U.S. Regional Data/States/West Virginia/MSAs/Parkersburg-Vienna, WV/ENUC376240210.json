@@ -1,0 +1,18 @@
+{
+  "id": "ENUC376240210",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Wages for Employees in State Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Dollars per Week",
+  "units_short": "$ per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-01 11:08:33-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Average weekly wages are the wages paid by unemployment insurance covered employers during the calendar quarter, regardless of when the services were performed. Included in wages are pay for vacation and other paid leave, bonuses, stock options, tips, the cash value of meals and lodging, and in some States, contributions to deferred compensation plans (such as 401(k) plans)."
+}

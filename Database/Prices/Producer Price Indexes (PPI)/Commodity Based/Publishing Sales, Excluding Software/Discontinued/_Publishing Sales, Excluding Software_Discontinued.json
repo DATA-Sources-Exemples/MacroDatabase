@@ -1,8 +1,8 @@
 {
   "WPS3311": {
     "id": "WPS3311",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Books (DISCONTINUED)",
     "observation_start": "1983-01-01",
     "observation_end": "2008-12-01",
@@ -15,12 +15,12 @@
     "last_updated": "2015-05-14 10:41:37-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33120201": {
     "id": "WPU33120201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Publishing Sales, Excluding Software: Sales and Subscriptions of Newspapers, Daily and Sunday Papers (DISCONTINUED)",
     "observation_start": "1999-06-01",
     "observation_end": "2015-09-01",
@@ -34,12 +34,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33120202": {
     "id": "WPU33120202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Publishing Sales, Excluding Software: Sales and Subscriptions of Newspapers, Weekly and Other Papers (DISCONTINUED)",
     "observation_start": "1999-06-01",
     "observation_end": "2014-04-01",
@@ -53,6 +53,6 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   }
 }

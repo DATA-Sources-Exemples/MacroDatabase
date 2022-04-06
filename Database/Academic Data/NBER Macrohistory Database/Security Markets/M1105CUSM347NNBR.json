@@ -1,0 +1,18 @@
+{
+  "id": "M1105CUSM347NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "American Railroad Stock Prices, 25 Railroad Stocks for United States",
+  "observation_start": "1949-01-01",
+  "observation_end": "1964-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1941-1943=10",
+  "units_short": "Index 1941-1943=10",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:01:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1855-1937 (2)--Original Data, 1918-1957 (3)--Original Data, 1949-1964. Notice That The Index For This Particular Variable Is Based On 10, Not 100. Source: Standard And Poor'S Corporation, Security Price Index Record, 1957 Edition, For 1949-1956 Data; The 1959 Supplement, For 1957-1958 Data; Current Statistics Thereafter.\n\nThis NBER data series m11005c appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11005c"
+}

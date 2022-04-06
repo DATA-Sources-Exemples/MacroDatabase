@@ -1,0 +1,18 @@
+{
+  "id": "M14170USM144SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "United States Government Deposits at All Commercial and Savings Banks for United States",
+  "observation_start": "1907-05-01",
+  "observation_end": "1960-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 08:32:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1867-1906 (2)--Seasonally Adjusted Data, 1907-1960. Source: Friedman And Schwartz, A Monetary History Of The United States, 1867-1960 (NBER, 1963), Table A-3, Column 2, Pp. 749-765.\n\nThis NBER data series m14170 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14170"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M01096USM532NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Raw Silk Deliveries to Mills for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1941-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Bales (Of 132 1/4 Pounds Each)",
+  "units_short": "Thous. Of Bales (Of 132 1/4 Pounds Each)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:07:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include Re-Exports. \"Deliveries Are Calculated Monthly, Based On Raw Silk Imports Into The U.S., Adjusted For New York Warehouse Stocks\". Data Also Checked With Survey Of Current Business. The Figure For January 1920 Was Estimated By Rayon Organon. Source: Data For 1920-June 1929: Textile Economics Bureau, Inc., Rayon Organon, January 1940, Special Supplement, P. 26. Data For July 1929-1941: Commodity Exchange Inc., Monthly Statistical Supplement: Raw Silk.\n\nThis NBER data series m01096 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01096"
+}

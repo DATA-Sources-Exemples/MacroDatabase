@@ -1,0 +1,18 @@
+{
+  "id": "A01167USA601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Published Capacity of Electrolytic Copper Refineries for United States",
+  "observation_start": "1906-01-01",
+  "observation_end": "1959-01-01",
+  "frequency": "Annual, End of Year",
+  "frequency_short": "A",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. Of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Primary Data (From The Yearbook Of The American Bureau Of Metal Statistics) Exclude Canadian Plants; Add Allowances For Two Plants At Ajo And Inspiration, Arizona For Years Prior To 1928; Deduct The New El Paso Plant From The Published Total For 1929 As It Did Not Begin Operation Until May 1930. For The Year 1906-1911 The Data Were Compiled From \"Engineering And Mining Journal.\" The Changes In Reported Plant Capacities As Of The End Of 1940 Reflect Recalculations Rather Than Any Changes In Physical Plant. This May Also Hold True In Respect To Prior Years (See Yearbook Of The American Bureau Of Business Statistics, 1941-1944 Issues). Data For 1943-1946 Include Electrolyc Refining Capacity Plus Lake Superior And Fire-Refined. The Year Ends On December 31. Source: U.S. Bureau Of The Census, \"Historical Statistics Of The United States, To 1970\", Pp. 697-698 (Also See \"America'S Capacity To Produce (Brookings), P. 557; Yearbook Of The American Bureau Of Metal Statistics).\n\nThis NBER data series a01167 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01167"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DODFFSWCMI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Rest of the World; Debt Securities and Loans; Liability, Level",
+  "observation_start": "1945-10-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 11:32:04-06",
+  "popularity": 23,
+  "group_popularity": 25,
+  "notes": "Source ID: LA264104005.Q\n\nFor more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).\n\nWith each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).\n\nIn the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=LA264104005&t=) provided by the source."
+}

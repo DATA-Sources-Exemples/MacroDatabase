@@ -1,3 +1,29 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id                    | title                                                                                                                            | observation_start   | observation_end   |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CENCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East North Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CENCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East North Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CENCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East North Central Census Division                              | 1988-01-01          | 2022-02-01        |
+| CENCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East North Central Census Division                              | 1988-01-01          | 2022-02-01        |
+| CENCLF                | Civilian Labor Force in East North Central Census Division                                                                       | 1976-01-01          | 2022-02-01        |
+| CENCLFN               | Civilian Labor Force in East North Central Census Division                                                                       | 1976-01-01          | 2022-02-01        |
+| CENCPOP               | Resident Population in the East North Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
+| CENCSTHPI             | All-Transactions House Price Index for the East North Central Census Division                                                    | 1975-01-01          | 2021-10-01        |
+| CENCUR                | Unemployment Rate in East North Central Census Division                                                                          | 1976-01-01          | 2022-02-01        |
+| CENCURN               | Unemployment Rate in East North Central Census Division                                                                          | 1976-01-01          | 2022-02-01        |
+| CIU2010000000233I     | Employment Cost Index: Total compensation for Private industry workers in the East North Central Census Division                 | 2006-01-01          | 2021-10-01        |
+| CIU2020000000233I     | Employment Cost Index: Wages and salaries for Private industry workers in the East North Central Census Division                 | 2006-01-01          | 2021-10-01        |
+| LASRD830000000000004  | Unemployed Persons in East North Central Census Division                                                                         | 1976-01-01          | 2022-01-01        |
+| LASRD830000000000005  | Employed Persons in East North Central Census Division                                                                           | 1976-01-01          | 2022-01-01        |
+| LAURD830000000000003A | Unemployment Rate in East North Central Census Division                                                                          | 1976-01-01          | 2021-01-01        |
+| LAURD830000000000004  | Unemployed Persons in East North Central Census Division                                                                         | 1976-01-01          | 2022-01-01        |
+| LAURD830000000000004A | Unemployed Persons in East North Central Census Division                                                                         | 1976-01-01          | 2021-01-01        |
+| LAURD830000000000005  | Employed Persons in East North Central Census Division                                                                           | 1976-01-01          | 2022-01-01        |
+| LAURD830000000000005A | Employed Persons in East North Central Census Division                                                                           | 1976-01-01          | 2021-01-01        |
+| LAURD830000000000006A | Civilian Labor Force in East North Central Census Division                                                                       | 1976-01-01          | 2021-01-01        |
+| PCU221122221122413    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East North Central Census Division | 1990-12-01          | 2022-02-01        |
+| PCU221122221122423    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for East North Central Census Division  | 1971-01-01          | 2022-02-01        |
+| PCU221122221122433    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for East North Central Census Division  | 1971-01-01          | 2022-02-01        |
+| PONHPI00106M226N      | Purchase Only House Price Index for the East North Central Census Division                                                       | 1991-01-01          | 2022-01-01        |
+| PONHPI00106M226S      | Purchase Only House Price Index for the East North Central Census Division                                                       | 1991-01-01          | 2022-01-01        |
+| PONHPI10600Q226N      | Purchase Only House Price Index for the East North Central Census Division                                                       | 1991-01-01          | 2021-10-01        |
+| PONHPI10600Q226S      | Purchase Only House Price Index for the East North Central Census Division                                                       | 1991-01-01          | 2021-10-01        |

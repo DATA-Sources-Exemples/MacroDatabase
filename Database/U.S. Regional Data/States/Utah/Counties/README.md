@@ -1,31 +1,31 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| San Juan County, UT   |                 1 |
-| Morgan County, UT     |                 1 |
-| Piute County, UT      |                 1 |
-| Rich County, UT       |                 1 |
-| Davis County, UT      |                 1 |
-| Daggett County, UT    |                 1 |
-| Uintah County, UT     |                 1 |
-| Carbon County, UT     |                 1 |
-| Box Elder County, UT  |                 1 |
-| Wasatch County, UT    |                 1 |
-| Summit County, UT     |                 1 |
-| Beaver County, UT     |                 1 |
-| Wayne County, UT      |                 1 |
-| Iron County, UT       |                 1 |
-| Cache County, UT      |                 1 |
-| Grand County, UT      |                 1 |
-| Kane County, UT       |                 1 |
-| Tooele County, UT     |                 1 |
-| Utah County, UT       |                 1 |
-| Sanpete County, UT    |                 1 |
-| Millard County, UT    |                 1 |
-| Weber County, UT      |                 1 |
-| Duchesne County, UT   |                 1 |
-| Emery County, UT      |                 1 |
-| Salt Lake County, UT  |                 1 |
-| Washington County, UT |                 1 |
-| Garfield County, UT   |                 1 |
-| Sevier County, UT     |                 1 |
-| Juab County, UT       |                 1 |
+| Summit County, UT     |                90 |
+| Salt Lake County, UT  |               147 |
+| Wayne County, UT      |                88 |
+| Juab County, UT       |                89 |
+| Daggett County, UT    |                86 |
+| Millard County, UT    |                89 |
+| Rich County, UT       |                89 |
+| Carbon County, UT     |                90 |
+| Utah County, UT       |               147 |
+| Uintah County, UT     |                90 |
+| Cache County, UT      |               147 |
+| San Juan County, UT   |                90 |
+| Duchesne County, UT   |                90 |
+| Box Elder County, UT  |                90 |
+| Sanpete County, UT    |                89 |
+| Iron County, UT       |                90 |
+| Morgan County, UT     |                90 |
+| Kane County, UT       |                89 |
+| Weber County, UT      |               147 |
+| Emery County, UT      |                89 |
+| Wasatch County, UT    |                90 |
+| Davis County, UT      |               147 |
+| Beaver County, UT     |                89 |
+| Tooele County, UT     |               146 |
+| Piute County, UT      |                88 |
+| Grand County, UT      |                90 |
+| Washington County, UT |               147 |
+| Garfield County, UT   |                87 |
+| Sevier County, UT     |                89 |

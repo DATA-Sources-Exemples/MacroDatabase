@@ -1,0 +1,18 @@
+{
+  "id": "CPNENASHUA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cotton Production by Nashua Mill",
+  "observation_start": "1826-01-01",
+  "observation_end": "1860-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Yards",
+  "units_short": "Thous. of Yards",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-11-01 13:43:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data were gathered by the authors from various textile collections deposited at various museums and libraries on the East Coast, and collected from the original business records of textile mills in New England wherever possible. Preference was given to records that were complete and continuous for long periods, and reasonably intelligible.\n\nReporting techniques differed greatly from mill to mill. To make the data comparable, each mill's output was allocated uniformly over the months covered by the accounting period. The monthly figures were then summed to calendar years.\n\nMore details about the data are available in the book chapter \"The New England Textile Industry, 1825-60: Trends and Fluctuations\" (https://www.nber.org/chapters/c1569.pdf)."
+}

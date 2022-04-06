@@ -1,0 +1,18 @@
+{
+  "id": "M05054USM457NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Tire, Inner Tubes, Stocks for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1955-07-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Tubes",
+  "units_short": "Mil. Of Tubes",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:51:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1929-1954 Have Been Checked The Rubber Manufacturers' Table And Rounding Errors Have Been Corrected. Data Were Adjusted To Industry Totals On The Basis Of The Biennial Census Of Manufacturers. Data Represent Tubes \"Forwarded To Warehouses Branches Or On A Consignment Basis, Together With Stocks In The Hands Of Manufacturers' -- I.E. All Tubes Owned By The Manufacturers Held In The Domestic Market Are Considered As Manufacturers Stocks\" (See Scb, 1938 Annual Supplement, P. 201.) Data For 1936-1938 Reflect An Extra Revision As Of April 1939. Industry Coverage Was Raised From 93.9 % In November 1939 To 97.8 % In December 1939 Through The Inclusion Of Data For The Ford Company. Ford Data For January-November 1939, Were Estimated For 1938, The Year Ford Started Production, But No Data Are Included. Therefore The 1938 Data Are Incomplete. The Series Was Adjusted On The Base Of The Census Of Manufacturers Through 1939. The Scb Discontinued Publication After April 1942 (See Scb, October 1942, Pp. 5-35). It Is Stated In The Source That 1942 \"Was A Year Of Considerable Confusion.\" Stocks Increased Out Of Proportion To Production, Because Due To Certain Government Restrictions, Vehicle Manufacturers And Exporters Were Required To Return Excess Stocks And Stocks Intended For Export, Respectively. Consequently Dealers Made Large Returns Of Stocks To Manufacturers. The Figures \"Must Not Be Used To Indicate Trends,\" And Were Only Issued \"So That There Will Not Be A Break In The Continuity Of Statistics.\" Data For 1955 Are Subject To Revision. Source: Data For 1921-1941 Were Furnished Directly From The Rubber Manufacturers' Association In February 1939 And July 1950; Data For 1942-1955 Are From The U.S. Department Of Commerce, Survey Of Current Business, May 1939, P. 18 And Subsequent Supplements; And From The Rubber Manufacturers' Associaton Mimeographed Summary Table, \"Total U.S.A. Automotive Inner Tubes: Shipments, Production And Inventory\"\n\nThis NBER data series m05054 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05054"
+}

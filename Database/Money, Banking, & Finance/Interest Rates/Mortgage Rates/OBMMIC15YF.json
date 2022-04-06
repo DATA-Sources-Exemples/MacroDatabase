@@ -1,0 +1,18 @@
+{
+  "id": "OBMMIC15YF",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "15-Year Fixed Rate Conforming Mortgage Index",
+  "observation_start": "2017-01-03",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 07:02:11-05",
+  "popularity": 21,
+  "group_popularity": 21,
+  "notes": "Optimal Blue Mortgage Market Indices (https://www2.optimalblue.com/obmmi/)\u2122 (OBMMI\u2122) is calculated from actual locked rates with consumers across over one-third of all mortgage transactions nationwide. OBMMI includes multiple mortgage pricing indices developed around the most popular products and specific borrower and loan level attributes.\n\nEach index is calculated as the average of all appropriate rate locks locked through the Optimal Blue product eligibility and pricing engine on a given day. More details about methodology and definitions are available here (https://www2.optimalblue.com/obmmi/)."
+}

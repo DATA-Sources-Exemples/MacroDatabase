@@ -1,0 +1,18 @@
+{
+  "id": "IR00120",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Import Price Index (End Use): Fruits and Frozen Juices",
+  "observation_start": "1980-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2000=100",
+  "units_short": "Index 2000=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-16 07:38:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+}

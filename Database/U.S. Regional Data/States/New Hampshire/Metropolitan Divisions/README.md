@@ -1,3 +1,3 @@
 | Folder                                 |   Files / Folders |
 |----------------------------------------|-------------------|
-| Rockingham County-Strafford County, NH |                 1 |
+| Rockingham County-Strafford County, NH |                 3 |

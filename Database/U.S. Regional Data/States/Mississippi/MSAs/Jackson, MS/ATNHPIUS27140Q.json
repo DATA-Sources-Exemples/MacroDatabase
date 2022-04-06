@@ -1,0 +1,18 @@
+{
+  "id": "ATNHPIUS27140Q",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All-Transactions House Price Index for Jackson, MS (MSA)",
+  "observation_start": "1980-07-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1995:Q1=100",
+  "units_short": "Index 1995 Q1=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-22 09:04:02-06",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "Estimated using sales prices and appraisal data."
+}

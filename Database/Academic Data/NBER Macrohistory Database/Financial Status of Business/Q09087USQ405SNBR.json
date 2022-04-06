@@ -1,0 +1,18 @@
+{
+  "id": "Q09087USQ405SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Retained Earnings of Nonfinancial Corporations, Flow of Funds Accounts for United States",
+  "observation_start": "1952-01-01",
+  "observation_end": "1965-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars, Annual Rate",
+  "units_short": "Mil. Of $, Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 15:04:43-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "Source: Bureau Of The Census, \"Business Cycle Developments, \" November 1965 And Subsequent Issues.\n\nThis NBER data series q09087 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09087"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A010AADEA391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Barley Crop, Spring Barley Only for Germany",
+  "observation_start": "1878-01-01",
+  "observation_end": "1898-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:54-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1898 (2)--Original Data, 1893-1917 (3)--Original Data, 1911-1936. Source: Statistiches Handbuch, I, 1907, P. 148; Statistisches Jahrbuch.\n\nThis NBER data series a01020aa appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01020aa"
+}

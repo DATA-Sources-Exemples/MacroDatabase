@@ -1,0 +1,18 @@
+{
+  "id": "ITINTDRES",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Italian Intervention: Banca d'Italia Purchases of Foreign Exchange (Millions of ECU's, Euros after 1999) (DISCONTINUED)",
+  "observation_start": "1988-01-01",
+  "observation_end": "1998-12-31",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Millions of ECU's, Euros after 1999",
+  "units_short": "Mil. of ECU's, Euros after 1999",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2008-03-12 12:46:13-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Copyright, 2016, Banca D'Italia.\n\n(+) numbers mean purchases of the foreign (non-ITL) currency while (-) numbers indicate sales of the foreign currency (purchases of ITL). Unpublished data."
+}

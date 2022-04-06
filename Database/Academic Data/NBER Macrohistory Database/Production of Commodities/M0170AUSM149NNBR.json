@@ -1,0 +1,18 @@
+{
+  "id": "M0170AUSM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Receipts of Butter, Gross Weight for Boston, MA; Chicago, IL; San Francisco, CA; Milwaukee, WI; and St. Louis, MO",
+  "observation_start": "1912-01-01",
+  "observation_end": "1920-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:01:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1912-1920 (2)--Original Data, 1918-1941. The Five Markets Covered By These Data Are Boston, Chicago, San Francisco, Milwaukee, And St. Louis. The Gross Weight Includes Containers And Wrappers. Source: United States Department Of Agriculture, Annual Yearbooks Of Agriculture And Agricultural Statistics.\n\nThis NBER data series m01070a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01070a"
+}

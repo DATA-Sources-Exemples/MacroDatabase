@@ -1,0 +1,18 @@
+{
+  "id": "LVACP120000IXOBM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: Miscellaneous goods and services (COICOP 12): Total: Total for Latvia",
+  "observation_start": "1995-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-10 11:08:59-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: CP120000 OECD unit ID: IXOB OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

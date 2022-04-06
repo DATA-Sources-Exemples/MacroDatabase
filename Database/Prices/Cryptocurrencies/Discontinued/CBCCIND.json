@@ -1,7 +1,7 @@
 {
   "id": "CBCCIND",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Coinbase Index (DISCONTINUED)",
   "observation_start": "2015-01-01",
   "observation_end": "2020-05-26",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-05-26 19:26:02-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 18,
+  "group_popularity": 18,
   "notes": "All data is as of 5 PM PST. \r\nGiven the volatility in the cryptocurrency markets, users may wish to view the large variation in values in a log scale. Changes in the data can be analyzed by turning on a log scale functionality that can be applied in the Format tab under Edit Graph button. \r\nFor more information to the Coinbase index, see https://am.coinbase.com/index\r\n\r\nCopyright, 2018, Coinbase.\r\n\r\nReproduction of Coinbase data in any form is prohibited except with the prior written permission of Coinbase."
 }

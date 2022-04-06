@@ -1,3 +1,72 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id                     | title                                                                                                                               | observation_start   | observation_end   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMS25721040000000001   | All Employees: Total Nonfarm in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2022-02-01        |
+| SMS25721040000000026   | All Employees: Total Nonfarm in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-04-01          | 2022-02-01        |
+| SMU25721040000000001   | All Employees: Total Nonfarm in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721040000000001A  | All Employees: Total Nonfarm in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2021-01-01        |
+| SMU25721040500000001   | All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721040500000001A  | All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2021-01-01        |
+| SMU25721040500000001SA | All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721040500000002   | Average Weekly Hours of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                            | 2007-01-01          | 2022-02-01        |
+| SMU25721040500000002A  | Average Weekly Hours of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                            | 2007-01-01          | 2021-01-01        |
+| SMU25721040500000002SA | Average Weekly Hours of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                            | 2007-01-01          | 2022-02-01        |
+| SMU25721040500000003   | Average Hourly Earnings of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                         | 2007-01-01          | 2022-02-01        |
+| SMU25721040500000003A  | Average Hourly Earnings of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                         | 2007-01-01          | 2021-01-01        |
+| SMU25721040500000003SA | Average Hourly Earnings of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                         | 2007-01-01          | 2022-02-01        |
+| SMU25721040500000011   | Average Weekly Earnings of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                         | 2007-01-01          | 2022-02-01        |
+| SMU25721040500000011A  | Average Weekly Earnings of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                         | 2007-01-01          | 2021-01-01        |
+| SMU25721040500000011SA | Average Weekly Earnings of All Employees: Total Private in Brockton-Bridgewater-Easton, MA (NECTA Division)                         | 2007-01-01          | 2022-02-01        |
+| SMU25721040600000001   | All Employees: Goods Producing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU25721040600000001A  | All Employees: Goods Producing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                  | 1990-01-01          | 2021-01-01        |
+| SMU25721040600000001SA | All Employees: Goods Producing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU25721040700000001   | All Employees: Service-Providing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                | 1990-01-01          | 2022-02-01        |
+| SMU25721040700000001A  | All Employees: Service-Providing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                | 1990-01-01          | 2021-01-01        |
+| SMU25721040700000001SA | All Employees: Service-Providing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                | 1990-01-01          | 2022-02-01        |
+| SMU25721040800000001   | All Employees: Private Service Providing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                        | 1990-01-01          | 2022-02-01        |
+| SMU25721040800000001A  | All Employees: Private Service Providing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                        | 1990-01-01          | 2021-01-01        |
+| SMU25721040800000001SA | All Employees: Private Service Providing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                        | 1990-01-01          | 2022-02-01        |
+| SMU25721041500000001   | All Employees: Mining, Logging, and Construction in Brockton-Bridgewater-Easton, MA (NECTA Division)                                | 1990-01-01          | 2022-02-01        |
+| SMU25721041500000001A  | All Employees: Mining, Logging, and Construction in Brockton-Bridgewater-Easton, MA (NECTA Division)                                | 1990-01-01          | 2021-01-01        |
+| SMU25721041500000001SA | All Employees: Mining, Logging, and Construction in Brockton-Bridgewater-Easton, MA (NECTA Division)                                | 1990-01-01          | 2022-02-01        |
+| SMU25721043000000001   | All Employees: Manufacturing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721043000000001A  | All Employees: Manufacturing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2021-01-01        |
+| SMU25721043000000001SA | All Employees: Manufacturing in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721044000000001   | All Employees: Trade, Transportation, and Utilities in Brockton-Bridgewater-Easton, MA (NECTA Division)                             | 1990-01-01          | 2022-02-01        |
+| SMU25721044000000001A  | All Employees: Trade, Transportation, and Utilities in Brockton-Bridgewater-Easton, MA (NECTA Division)                             | 1990-01-01          | 2021-01-01        |
+| SMU25721044000000001SA | All Employees: Trade, Transportation, and Utilities in Brockton-Bridgewater-Easton, MA (NECTA Division)                             | 1990-01-01          | 2022-02-01        |
+| SMU25721044200000001   | All Employees: Retail Trade in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU25721044200000001A  | All Employees: Retail Trade in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                     | 1990-01-01          | 2021-01-01        |
+| SMU25721044200000001SA | All Employees: Retail Trade in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU25721045000000001   | All Employees: Information in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                      | 1990-01-01          | 2022-02-01        |
+| SMU25721045000000001A  | All Employees: Information in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                      | 1990-01-01          | 2021-01-01        |
+| SMU25721045000000001SA | All Employees: Information in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                      | 1990-01-01          | 2022-02-01        |
+| SMU25721045500000001   | All Employees: Financial Activities in Brockton-Bridgewater-Easton, MA (NECTA Division)                                             | 1990-01-01          | 2022-02-01        |
+| SMU25721045500000001A  | All Employees: Financial Activities in Brockton-Bridgewater-Easton, MA (NECTA Division)                                             | 1990-01-01          | 2021-01-01        |
+| SMU25721045500000001SA | All Employees: Financial Activities in Brockton-Bridgewater-Easton, MA (NECTA Division)                                             | 1990-01-01          | 2022-02-01        |
+| SMU25721046000000001   | All Employees: Professional and Business Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                               | 1990-01-01          | 2022-02-01        |
+| SMU25721046000000001A  | All Employees: Professional and Business Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                               | 1990-01-01          | 2021-01-01        |
+| SMU25721046000000001SA | All Employees: Professional and Business Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                               | 1990-01-01          | 2022-02-01        |
+| SMU25721046500000001   | All Employees: Education and Health Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721046500000001A  | All Employees: Education and Health Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                                    | 1990-01-01          | 2021-01-01        |
+| SMU25721046500000001SA | All Employees: Education and Health Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                                    | 1990-01-01          | 2022-02-01        |
+| SMU25721046562000001   | All Employees: Education and Health Services: Health Care and Social Assistance in Brockton-Bridgewater-Easton, MA (NECTA Division) | 1990-01-01          | 2022-02-01        |
+| SMU25721046562000001A  | All Employees: Health Care and Social Assistance in Brockton-Bridgewater-Easton, MA (NECTA Division)                                | 1990-01-01          | 2021-01-01        |
+| SMU25721046562000001SA | All Employees: Education and Health Services: Health Care and Social Assistance in Brockton-Bridgewater-Easton, MA (NECTA Division) | 1990-01-01          | 2022-02-01        |
+| SMU25721047000000001   | All Employees: Leisure and Hospitality in Brockton-Bridgewater-Easton, MA (NECTA Division)                                          | 1990-01-01          | 2022-02-01        |
+| SMU25721047000000001A  | All Employees: Leisure and Hospitality in Brockton-Bridgewater-Easton, MA (NECTA Division)                                          | 1990-01-01          | 2021-01-01        |
+| SMU25721047000000001SA | All Employees: Leisure and Hospitality in Brockton-Bridgewater-Easton, MA (NECTA Division)                                          | 1990-01-01          | 2022-02-01        |
+| SMU25721048000000001   | All Employees: Other Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                   | 1990-01-01          | 2022-02-01        |
+| SMU25721048000000001A  | All Employees: Other Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                   | 1990-01-01          | 2021-01-01        |
+| SMU25721048000000001SA | All Employees: Other Services in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                   | 1990-01-01          | 2022-02-01        |
+| SMU25721049000000001   | All Employees: Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU25721049000000001A  | All Employees: Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                       | 1990-01-01          | 2021-01-01        |
+| SMU25721049000000001SA | All Employees: Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                       | 1990-01-01          | 2022-02-01        |
+| SMU25721049091000001   | All Employees: Government: Federal Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                   | 1990-01-01          | 2022-02-01        |
+| SMU25721049091000001A  | All Employees: Federal Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                               | 1990-01-01          | 2021-01-01        |
+| SMU25721049091000001SA | All Employees: Government: Federal Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                   | 1990-01-01          | 2022-02-01        |
+| SMU25721049092000001   | All Employees: Government: State Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                     | 1990-01-01          | 2022-02-01        |
+| SMU25721049092000001A  | All Employees: State Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                 | 1990-01-01          | 2021-01-01        |
+| SMU25721049092000001SA | All Employees: Government: State Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                     | 1990-01-01          | 2022-02-01        |
+| SMU25721049093000001   | All Employees: Government: Local Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                     | 1990-01-01          | 2022-02-01        |
+| SMU25721049093000001A  | All Employees: Local Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                                 | 1990-01-01          | 2021-01-01        |
+| SMU25721049093000001SA | All Employees: Government: Local Government in Brockton-Bridgewater-Easton, MA (NECTA Division)                                     | 1990-01-01          | 2022-02-01        |

@@ -1,7 +1,7 @@
 {
   "id": "AIRRPMTSI",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Air Revenue Passenger Miles",
   "observation_start": "2000-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-09 13:07:19-06",
-  "popularity": 15,
-  "group_popularity": 33,
+  "popularity": 22,
+  "group_popularity": 38,
   "notes": "Data from all U.S. air carrier domestic and international flights, scheduled and unscheduled service (all service).\n\nThis data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS), Office of Airline Information, T-1: U.S. Air Carrier Traffic And Capacity Summary by Service Class (REV_PAX_MILES_140) available here (https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FJH&QO_fu146_anzr=Nv4%20Pn44vr4%20f7zzn4B)."
 }

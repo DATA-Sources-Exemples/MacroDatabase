@@ -1,6 +1,8 @@
 | Folder                             |   Files / Folders |
 |------------------------------------|-------------------|
-| CPI for MSAs and Consolidated MSAs |                 0 |
 | MSAs                               |                 2 |
-| Census Areas and Boroughs          |                30 |
+| BEA Economic Areas                 |                 1 |
+| CPI for MSAs and Consolidated MSAs |                 1 |
+| Basic Trading Areas                |                 1 |
 | Metropolitan Divisions             |                19 |
+| Census Areas and Boroughs          |                33 |

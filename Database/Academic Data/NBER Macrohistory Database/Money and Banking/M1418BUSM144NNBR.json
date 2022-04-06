@@ -1,0 +1,18 @@
+{
+  "id": "M1418BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Member Banks Outside of New York City for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1949-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:34:08-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Data Computed By Subtracting Reserves Held In New York City From Total Reserves, All Member Banks. Monthly Averages Of Daily Figures. Source: For 1929-1941: Banking And Monetary Statistics, Pp.396-97; Federal Reserve Bulletin Thereafter.\n\nThis NBER data series m14118b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14118b"
+}

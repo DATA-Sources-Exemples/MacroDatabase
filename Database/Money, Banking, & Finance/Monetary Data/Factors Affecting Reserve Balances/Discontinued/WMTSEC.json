@@ -1,0 +1,18 @@
+{
+  "id": "WMTSEC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Memorandum Item: Marketable Securities Held in Custody for Foreign Official and International Accounts: U.S. Treasury Securities (DISCONTINUED)",
+  "observation_start": "1989-06-07",
+  "observation_end": "2012-11-07",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-11-09 08:19:28-06",
+  "popularity": 1,
+  "group_popularity": 4,
+  "notes": "This data series has been discontinued, please see series ID: https://fred.stlouisfed.org/series/WMTSEC1\nMemorandum item: Securities Held in Custody for Foreign Official and International Accounts - Marketable U.S. Treasury Securities. For further information\non the changes to the H.4.1 Statistical Release please visit the following: http://www.federalreserve.gov/releases/h41/"
+}

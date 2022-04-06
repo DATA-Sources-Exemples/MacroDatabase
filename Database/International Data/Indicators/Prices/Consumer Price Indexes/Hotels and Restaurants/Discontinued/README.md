@@ -1,2 +1,12 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                                 | observation_start   | observation_end   |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CP1100EU27M086NEST | Harmonized Index of Consumer Prices: Restaurants and Hotels for European Union (27 countries) (DISCONTINUED)                          | 1996-01-01          | 2015-12-01        |
+| CP1100EZ17M086NEST | Harmonized Index of Consumer Prices: Restaurants and Hotels for Euro area (17 countries) (DISCONTINUED)                               | 1996-01-01          | 2015-12-01        |
+| CP1110EU27M086NEST | Harmonized Index of Consumer Prices: Catering Services for European Union (27 countries) (DISCONTINUED)                               | 1996-01-01          | 2015-12-01        |
+| CP1110EZ17M086NEST | Harmonized Index of Consumer Prices: Catering Services for Euro area (17 countries) (DISCONTINUED)                                    | 1996-01-01          | 2015-12-01        |
+| CP1111EU27M086NEST | Harmonized Index of Consumer Prices: Restaurants, cafÃ (DISCONTINUED)s, and the Like for European Union (27 countries) (DISCONTINUED) | 1996-01-01          | 2015-12-01        |
+| CP1111EZ17M086NEST | Harmonized Index of Consumer Prices: Restaurants, cafÃ (DISCONTINUED)s, and the Like for Euro area (17 countries) (DISCONTINUED)      | 1996-01-01          | 2015-12-01        |
+| CP1112EU27M086NEST | Harmonized Index of Consumer Prices: Canteens for European Union (27 countries) (DISCONTINUED)                                        | 1996-01-01          | 2015-12-01        |
+| CP1112EZ17M086NEST | Harmonized Index of Consumer Prices: Canteens for Euro area (17 countries) (DISCONTINUED)                                             | 1996-01-01          | 2015-12-01        |
+| CP1120EU27M086NEST | Harmonized Index of Consumer Prices: Accommodation Services for European Union (27 countries) (DISCONTINUED)                          | 1996-01-01          | 2015-12-01        |
+| CP1120EZ17M086NEST | Harmonized Index of Consumer Prices: Accommodation Services for Euro area (17 countries) (DISCONTINUED)                               | 1996-01-01          | 2015-12-01        |

@@ -1,0 +1,18 @@
+{
+  "id": "USPCEPCOSRV",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Per Capita Personal Consumption Expenditures: Services: Other Services for United States",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:11:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Personal consumption expenditures of a given area divided by the resident population of the area.\n\nSpending on communication, education services, professional and other services, personal care and clothing services, social services and religious activities, household maintenance, and net foreign travel.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

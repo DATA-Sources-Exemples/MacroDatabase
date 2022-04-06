@@ -1,0 +1,18 @@
+{
+  "id": "WDTGAL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:34:05-05",
+  "popularity": 51,
+  "group_popularity": 51,
+  "notes": "This account is the primary operational account of the U.S. Treasury at the Federal Reserve. Virtually all U.S. government disbursements are made from this account. Some tax receipts, primarily individual and other tax payments made directly to the Treasury, are deposited in this account, and it is also used to collect funds from sales of Treasury debt."
+}

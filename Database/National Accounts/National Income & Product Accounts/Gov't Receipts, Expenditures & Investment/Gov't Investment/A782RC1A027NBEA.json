@@ -1,0 +1,18 @@
+{
+  "id": "A782RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross government investment",
+  "observation_start": "1929-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:55:29-05",
+  "popularity": 4,
+  "group_popularity": 20,
+  "notes": "BEA Account Code: A782RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

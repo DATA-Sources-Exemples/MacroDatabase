@@ -1,0 +1,18 @@
+{
+  "id": "W033RW2A224NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in real private fixed investment in structures: Nonresidential: Hospitals",
+  "observation_start": "1930-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:36:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: W033RW\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

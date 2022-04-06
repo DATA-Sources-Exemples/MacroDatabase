@@ -1,0 +1,18 @@
+{
+  "id": "LMJVTTNVJPM647N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total New Job Vacancies, Flow for Japan",
+  "observation_start": "1960-01-01",
+  "observation_end": "2012-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-04-13 00:41:09-05",
+  "popularity": 1,
+  "group_popularity": 10,
+  "notes": "OECD descriptor ID: LMJVTTNV\nOECD unit ID: ST\nOECD country ID: JPN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

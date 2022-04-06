@@ -1,0 +1,17 @@
+{
+  "id": "SPSNSAMW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Sales Price of New Manufactured Homes: Single Homes in Midwest Census Region",
+  "observation_start": "2014-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-08 11:03:05-06",
+  "popularity": 3,
+  "group_popularity": 3
+}

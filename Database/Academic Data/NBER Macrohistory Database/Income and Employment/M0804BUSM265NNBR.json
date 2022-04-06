@@ -1,0 +1,18 @@
+{
+  "id": "M0804BUSM265NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Leather Tanning and Finishing for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1959-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Hour",
+  "units_short": "Cents Per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:28:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1932-1959. The Discontinued National Industrial Conference Board Series (1920- 1948) Is Assumed To Be Comparable In Industry Coverage To The Bureau Of Labor Statistics One Called In The Source \"Leather: Tanned, Curried, And Finished.\" According To The Nicb Research Report No. 69, The Earlier Series Covered \"Establishments Engaged In The Tanning And Finishing Of Leather Hides But Did Not Include Manufacturers Of Leather\" (Wages, Hours, And Employment In American Manufacturing Industries, 1924, P. 69). From 1951 On, The Figures Have Been Rounded And No Fractions Of Cents Are Available In The Source. Source: For 1932-1952, Bureau Of Labor Statistics, Employment, Hours, And Earnings, Manufacturing Division, Leather And Leather Products Group, \"Leather\" And \"Leather: Tanned, Curried, And Finished, \" Releases Ls 53-1911 (February, 1953), And (May, 1955); For 1953-1959, June, 1956 And July, 1958 Releases, Monthly Labor Review And \"Employment And Earnings.\"\n\nThis NBER data series m08204b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08204b"
+}

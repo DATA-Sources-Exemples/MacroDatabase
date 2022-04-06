@@ -1,0 +1,18 @@
+{
+  "id": "EXP7740",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "U.S. Exports of Goods by F.A.S. Basis to Ethiopia",
+  "observation_start": "1992-01-01",
+  "observation_end": "2003-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-11-13 13:01:59-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Further information related to the international trade data can be found at\u00a0https://www.census.gov/foreign-trade/data/index.html\nMethodology details can be found at\u00a0https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf"
+}

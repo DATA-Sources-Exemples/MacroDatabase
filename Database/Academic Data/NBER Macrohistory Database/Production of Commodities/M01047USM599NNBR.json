@@ -1,0 +1,18 @@
+{
+  "id": "M01047USM599NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Sheep and Lambs, Slaughtered Under Federal Inspection for United States",
+  "observation_start": "1907-01-01",
+  "observation_end": "1956-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Sheep And Lambs",
+  "units_short": "Thous. Of Sheep And Lambs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1934 Include Government Relief Slaughter. Beginning January 1947, Slaughter In Hawaii And Virgin Islands Has Been Excluded. Source: Usda, Livestock Market News, The Livestock And Meat Situation (Monthly Release), Livestock, Meats, And Wool Market Statistics.\n\nThis NBER data series m01047 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01047"
+}

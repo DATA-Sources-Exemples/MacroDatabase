@@ -1,0 +1,18 @@
+{
+  "id": "TULPOP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Resident Population in Tulsa, OK (MSA)",
+  "observation_start": "2000-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-25 12:46:14-05",
+  "popularity": 12,
+  "group_popularity": 12,
+  "notes": "All observations are July 1 estimates of each year."
+}

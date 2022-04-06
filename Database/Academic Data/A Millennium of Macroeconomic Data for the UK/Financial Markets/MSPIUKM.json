@@ -1,0 +1,18 @@
+{
+  "id": "MSPIUKM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Share Price Index (Weighted by Market Capitalisation) in the United Kingdom",
+  "observation_start": "1709-04-01",
+  "observation_end": "2017-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Apr 1962=100",
+  "units_short": "Index Apr 1962=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-06-09 08:52:53-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "This series was constructed by the Bank of England as part of the Three Centuries of Macroeconomic Data project by combining data from a number of academic and official sources. For more information, please refer to the Three Centuries spreadsheet at https://www.bankofengland.co.uk/statistics/research-datasets. Users are advised to check the underlying assumptions behind this series in the relevant worksheets of the spreadsheet. In many cases alternative assumptions might be appropriate. Users are permitted to reproduce this series in their own work as it represents Bank calculations and manipulations of underlying series that are the copyright of the Bank of England provided that underlying sources are cited appropriately. For appropriate citation please see the Three Centuries spreadsheet for guidance and a list of the underlying sources."
+}

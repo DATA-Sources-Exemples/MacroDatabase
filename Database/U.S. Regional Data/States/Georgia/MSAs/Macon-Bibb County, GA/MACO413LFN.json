@@ -1,0 +1,17 @@
+{
+  "id": "MACO413LFN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Civilian Labor Force in Macon, GA (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 12:39:48-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

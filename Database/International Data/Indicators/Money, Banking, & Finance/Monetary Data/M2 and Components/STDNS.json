@@ -1,0 +1,18 @@
+{
+  "id": "STDNS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Small-Denomination Time Deposits: Total",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-22 12:02:06-05",
+  "popularity": 7,
+  "group_popularity": 44,
+  "notes": "The small-denomination time deposits component of M2 includes time deposits at banks and thrifts with balances less than $100,000. The small-denomination time deposit component of M2 excludes individual retirement account (IRA) and Keogh balances at depository institutions because heavy penalties for pre-retirement withdrawals make them too illiquid to be included in the monetary aggregates. Gross small-denomination time deposits, derived as the difference between total time deposits and time deposits with balances of $100,000 or more, are reported on the FR 2900 and, for institutions that do not file an FR 2900, are estimated using data reported on the Call Reports. IRA and Keogh account balances at depository institutions are estimated using data reported on the Call Reports."
+}

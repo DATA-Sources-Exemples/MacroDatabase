@@ -1,3 +1,40 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id               | title                                                                                                                                               | observation_start   | observation_end   |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ASTNITA          | All Sectors; Total Net Interbank Transactions; Asset, Level                                                                                         | 1945-10-01          | 2021-10-01        |
+| BUSAACDCA        | Banks in U.S.-Affiliated Areas; Checkable Deposits and Currency and Reserves at the Federal Reserve; Asset, Level                                   | 1945-10-01          | 2021-10-01        |
+| BUSAANITL        | Banks in U.S.-Affiliated Areas; Net Interbank Transactions; Liability, Level                                                                        | 1945-10-01          | 2021-10-01        |
+| CUDIRA           | Credit Unions; Depository Institution Reserves, Excluding Corporate Credit Unions; Asset, Level                                                     | 1945-10-01          | 2021-10-01        |
+| CUITUSDIA        | Credit Unions; Interbank Transactions Due from U.S. Depository Institutions; Asset, Level                                                           | 1945-10-01          | 2021-10-01        |
+| CUNITL           | Credit Unions; Total Net Interbank Transactions; Liability, Level                                                                                   | 1945-10-01          | 2021-10-01        |
+| FBNITL           | Domestic Financial Sectors; Net Interbank Transactions; Liability, Level                                                                            | 1945-10-01          | 2021-10-01        |
+| FBOUSDIRA        | Foreign Banking Offices in the U.S.; Depository Institution Reserves; Asset, Level                                                                  | 1945-10-01          | 2021-10-01        |
+| FBOUSIBFDFBA     | Foreign Banking Offices in the U.S., Including IBFs; Deposits at Foreign Banks; Asset, Level                                                        | 1945-10-01          | 2021-10-01        |
+| FBOUSIBFITFAA    | Foreign Banking Offices in the U.S., Including IBFs; Interbank Transactions Due from Foreign Affiliates; Asset, Level                               | 1945-10-01          | 2021-10-01        |
+| FBOUSIBFITFAL    | Foreign Banking Offices in the U.S., Including IBFs; Interbank Transactions Due to Foreign Affiliates; Liability, Level                             | 1945-10-01          | 2021-10-01        |
+| FBOUSIBFITUSDIA  | Foreign Banking Offices in the U.S., Including IBFs; Interbank Transactions Due from U.S. Depository Institutions; Asset, Level                     | 1945-10-01          | 2021-10-01        |
+| FBOUSITUSBL      | Foreign Banking Offices in the U.S.; Interbank Transactions Due to U.S. Banks; Liability, Level                                                     | 1945-10-01          | 2021-10-01        |
+| FBOUSNITFADFBL   | Foreign Banking Offices in the U.S.; Net Interbank Transactions with Foreign Affiliates Including Deposits at Foreign Banks; Liability, Level       | 1945-10-01          | 2021-10-01        |
+| FBOUSNITL        | Foreign Banking Offices in the U.S.; Net Interbank Transactions; Liability, Level                                                                   | 1945-10-01          | 2021-10-01        |
+| FBOUSVCA         | Foreign Banking Offices in the U.S.; Vault Cash; Asset, Level                                                                                       | 1945-10-01          | 2021-10-01        |
+| FBOUSVCRFRA      | Foreign Banking Offices in the U.S.; Vault Cash and Reserves at the Federal Reserve; Asset, Level                                                   | 1945-10-01          | 2021-10-01        |
+| IBFFBOUSOBMONFBL | International Banking Facilities of Foreign Banking Offices in U.S.; Other Borrowed Money Owed to Nonrelated Foreign Banks; Liability, Level        | 1945-10-01          | 2021-10-01        |
+| IBFUSCDIOBMONFBL | International Banking Facilities of U.S.-Chartered Depository Institutions; Other Borrowed Money Owed to Nonrelated Foreign Banks; Liability, Level | 1945-10-01          | 2021-10-01        |
+| IDNIT            | Instrument Discrepancies; Net Interbank Transactions, Level                                                                                         | 1945-10-01          | 2021-10-01        |
+| MADIRL           | Monetary Authority; Depository Institution Reserves, Excluding FHLB Deposits; Liability, Level                                                      | 1945-10-01          | 2021-10-01        |
+| MAFRFA           | Monetary Authority; Federal Reserve Float; Asset, Level                                                                                             | 1945-10-01          | 2021-10-01        |
+| MALDBAMLFA       | Monetary Authority; Loans to Depository Institutions, Including AMLF, MMLF, and PPPLF; Asset, Level                                                 | 1945-10-01          | 2021-10-01        |
+| MANITA           | Monetary Authority; Net Interbank Transactions with All Depository Institutions; Asset, Level                                                       | 1945-10-01          | 2021-10-01        |
+| MANITL           | Monetary Authority; Net Interbank Transactions; Liability, Level                                                                                    | 1945-10-01          | 2021-10-01        |
+| PDIVCA           | Private Depository Institutions; Vault Cash; Asset, Level                                                                                           | 1945-10-01          | 2021-10-01        |
+| RWLUSPDIA        | Rest of the World; Loans to U.S. Private Depository Institutions (IBFs); Asset, Level                                                               | 1945-10-01          | 2021-10-01        |
+| RWUSDFBL         | Rest of the World; U.S. Deposits at Foreign Banks; Liability, Level                                                                                 | 1945-10-01          | 2021-10-01        |
+| USCDIDIRA        | U.S.-Chartered Depository Institutions; Depository Institution Reserves; Asset, Level                                                               | 1945-10-01          | 2021-10-01        |
+| USCDIIBFDFBA     | U.S.-Chartered Depository Institutions, Including IBFs; Deposits at Foreign Banks; Asset, Level                                                     | 1945-10-01          | 2021-10-01        |
+| USCDIIBFITFAA    | U.S.-Chartered Depository Institutions, Including IBFs; Interbank Transactions Due from Foreign Affiliates; Asset, Level                            | 1945-10-01          | 2021-10-01        |
+| USCDIIBFITFAL    | U.S.-Chartered Depository Institutions, Including IBFs; Interbank Transactions Due to Foreign Affiliates; Liability, Level                          | 1945-10-01          | 2021-10-01        |
+| USCDIITDUSBL     | U.S.-Chartered Depository Institutions; Interbank Transactions Due to U.S. Banks; Liability, Level                                                  | 1945-10-01          | 2021-10-01        |
+| USCDINITFADFBL   | U.S.-Chartered Depository Institutions; Net Interbank Transactions with Foreign Affiliates Including Deposits at Foreign Banks; Liability, Level    | 1945-10-01          | 2021-10-01        |
+| USCDINITL        | U.S.-Chartered Depository Institutions; Net Interbank Transactions; Liability, Level                                                                | 1945-10-01          | 2021-10-01        |
+| USCDINITUSBL     | U.S.-Chartered Depository Institutions; Net Interbank Transactions with U.S. Banking; Liability, Level                                              | 1945-10-01          | 2021-10-01        |
+| USCDIVCRFRA      | U.S.-Chartered Depository Institutions; Vault Cash and Reserves at the Federal Reserve; Asset, Level                                                | 1945-10-01          | 2021-10-01        |
+| USDIVCA          | U.S.-Chartered Depository Institutions; Vault Cash; Asset, Level                                                                                    | 1945-10-01          | 2021-10-01        |

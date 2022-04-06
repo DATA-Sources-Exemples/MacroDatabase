@@ -1,0 +1,18 @@
+{
+  "id": "M16011USM509SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Comprehensive Diffusion Index, Eighty Leading Series, One Month Span for United States",
+  "observation_start": "1948-02-01",
+  "observation_end": "1964-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Expanding",
+  "units_short": "% Expanding",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 09:32:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: NBER\n\nThis NBER data series m16011 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16011"
+}

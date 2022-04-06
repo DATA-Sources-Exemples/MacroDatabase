@@ -1,0 +1,18 @@
+{
+  "id": "M03005GBM591NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Freight Receipts, Selected Railways for Great Britain",
+  "observation_start": "1878-03-01",
+  "observation_end": "1914-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Pounds Sterling per Week",
+  "units_short": "Thous. Of Pounds Sterling Per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:01:29-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Coverage Is Of Eleven Railroads For 1878-February 1879; Fifteen For March-June 1879; Sixteen For July 1879-December 1880; Seventeen For 1831-December 1898. In January 1899 Two Companies Combined Leaving Sixteen Companies, But Consistency Is Unaffected. For May And June Data Of 1878: A Sum Was Given Only For The Last Week In May And The First Two In June. Data Were Derived In Proportions Of One-Third And Two-Thirds. For August And September Of 1878: A Sum Was Given Only For The Last Week In August And First Two In September And Data Were Again Derived On Similar Proportions. A Coal Strike From July-November Of 1893 Affected Data For August-October Of The Year. A National Coal Strike Is Assumed To Have Affected The Data For March And April Of 1912. Source: Computed By NBER From Cumulative Weekly Totals, Dividing By Four Or Five, Depending On The Number Of Weeks Having A Majority Of Days In A Given Month.\n\nThis NBER data series m03005 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03005"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "EXPORTSGOODSCONTRIBNOW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in GDPNow: Real Exports of Goods",
+  "observation_start": "2014-04-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percentage Points",
+  "units_short": "Percentage Points",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 12:11:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Contributions to percent change in GDPNow: Real Exports of Goods represents the contribution in percentage points that the nowcast for Exports of Goods provides to real GDP growth. For further information visit the source at https://www.frbatlanta.org/cqer/research/gdpnow.aspx?panel=1."
+}

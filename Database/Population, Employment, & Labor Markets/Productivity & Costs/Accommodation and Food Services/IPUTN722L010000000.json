@@ -1,0 +1,18 @@
+{
+  "id": "IPUTN722L010000000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hours Worked for Accommodation and Food Services: Food Services and Drinking Places (NAICS 722) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-01 10:27:23-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry."
+}

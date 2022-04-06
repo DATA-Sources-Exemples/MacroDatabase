@@ -1,0 +1,18 @@
+{
+  "id": "M01205GBM534NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cotton Forwarded from Liverpool for Great Britain",
+  "observation_start": "1875-03-01",
+  "observation_end": "1939-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Bales per Week",
+  "units_short": "Thous. of Bales per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:02:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Weekly Averages Were Computed From Data Given For Weeks Ending On A Friday. Data For Weeks Ending On The First, Second, Or Third Of The Month Considered As Part Of The Previous Month. The Sum Of Data For The Month Was Divided By Four Of Five, Depending On The Number Of Weeks Given For The Month. Data For August 1911 Reflect Labor Disputes And A Railroad Strike. Data For September 1939 Cover Only One Week. Source: Commercial And Financial Chronicle, March 20, 1875, And Following Weekly Issues; London Economist.\n\nThis NBER data series m01205 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01205"
+}

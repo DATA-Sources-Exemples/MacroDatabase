@@ -1,0 +1,18 @@
+{
+  "id": "M1030BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Mortgage Debt Held by Financial Institutions and Life Insurance Companies for United States",
+  "observation_start": "1959-01-01",
+  "observation_end": "1966-06-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:19:56-05",
+  "popularity": 5,
+  "group_popularity": 6,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1955-1959 (2)--Original Data, 1959-1966 (3)--Original Data, 1965-1968. The Figures For January-June, 1959 Include Member Bank Holdings Adjusted To Reflect New Coverage; From July 1959 On, Member Bank Holdings Represent Revised Figures. Source: Data Derived By NBER From The Following Sources: Federal Reserve Bulletins; Fhlb\"Selected Balance Sheet Data, All Operating Savings And Loan Associations\"; Savings Bank Journal; Statistical Bulletin, National Association Of Mutual Savings Banks;\"Trends In Savings And Lending At Savings And Load Associations\";\"The Life Insurance Tally\"\n\nThis NBER data series m10130b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10130b"
+}

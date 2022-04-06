@@ -1,7 +1,7 @@
 {
   "id": "WPU12430114",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)",
   "observation_start": "2007-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:02:13-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 4
 }

@@ -1,0 +1,18 @@
+{
+  "id": "A0112AFRA393NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wheat Crop for France",
+  "observation_start": "1815-01-01",
+  "observation_end": "1919-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Bushels (60 Pounds)",
+  "units_short": "Mil. Of Bushels (60 Pounds)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:02:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1815-1919 (2)--Original Data, 1919-1938. Original Data Given In Quintals, Converted To Bushels By Using The Equivalent--One Quintal=3.67437 Bushels. Source: Statistique Agricole Annuelle, 1929, Pp. 180-184.\n\nThis NBER data series a01012a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01012a"
+}

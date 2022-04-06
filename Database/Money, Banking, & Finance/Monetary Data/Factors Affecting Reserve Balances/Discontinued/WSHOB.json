@@ -1,0 +1,18 @@
+{
+  "id": "WSHOB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Bills (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2018-06-13",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-06-14 15:41:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/WSHOBL\n\n\nThe current face value of the Federal Reserve's outright holdings of Treasury bills."
+}

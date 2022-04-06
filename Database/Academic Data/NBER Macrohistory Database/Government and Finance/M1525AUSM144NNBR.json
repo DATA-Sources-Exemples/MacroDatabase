@@ -1,0 +1,18 @@
+{
+  "id": "M1525AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Federal Budget Surplus or Deficit for the United States",
+  "observation_start": "1879-01-01",
+  "observation_end": "1915-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:46:40-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "Series Is Presented Here As Five Variables--(1)--Original Data, 1879-1915 (2)--Original Data, 1914-1932 (3)--Original, 1930-1940 (4)--Original, 1939-1947 (5)--Original, 1945-1962. NBER Derived Data By Subtracting Series (Total Federal Budget Expenditures) From Series (Total Federal Budget Receipts). Source: Data Were Derived By NBER From U.S. Treasury Department Figures\n\nThis NBER data series m15025a appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15025a"
+}

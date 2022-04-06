@@ -1,0 +1,18 @@
+{
+  "id": "WMTSEC1",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Memorandum Items: Custody Holdings: Marketable U.S. Treasury Securities: Week Average",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:06-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "The line item for U.S. Treasury securities held in custody now excludes securities pledged by the Federal Reserve as collateral in reverse repurchase agreements conducted with foreign official and international\naccounts and includes inflation compensation on Treasury Inflation-Protected Securities (TIPS), which captures the inflation adjustment to original face value of TIPS over time. Prior data included securities pledged as\ncollateral against reverse repurchase agreements with the Federal Reserve and excluded inflation compensation on TIPS. Information on the amount of foreign official and international reverse repurchase agreements is still\npresented in table 1 and included in total reverse repurchase agreements in table 8 and table 9. For further information\non the changes to the H.4.1 Statistical Release please visit the following: http://www.federalreserve.gov/releases/h41/20121115/"
+}

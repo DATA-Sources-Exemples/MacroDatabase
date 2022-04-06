@@ -1,0 +1,18 @@
+{
+  "id": "M1033BFRM410NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bond and Stock Flotations of French Companies for France",
+  "observation_start": "1925-01-01",
+  "observation_end": "1939-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Francs",
+  "units_short": "Mil. Of Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:21:46-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1927 (2)--Original Data, 1925-1939. Figures For April 1931 And May 1938 Were Computed By Summing \"Bonds\" And \"Stocks.\" The Published Original Data Figures Were 1067.3 And 430.9 Respectively. Through Computation, NBER Determined That The 430.9 Figure For May 1938 Was A Misprint And Ought To Have Been 450.9. Source: For 1925-1928 Data: Revue D'Economie Politique; For 1929-1939 Data: Bulletin De La Statistique Generale\n\nThis NBER data series m10033b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10033b"
+}

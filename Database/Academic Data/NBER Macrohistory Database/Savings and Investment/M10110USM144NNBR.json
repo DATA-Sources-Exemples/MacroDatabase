@@ -1,0 +1,18 @@
+{
+  "id": "M10110USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Securities Offered for Cash, Estimated Gross Proceeds, Total Corporate and Noncorporate for United States",
+  "observation_start": "1934-01-01",
+  "observation_end": "1964-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Statistical Bulletin Does Not Show Monthly Revisions For Back Data. Data Include All Government Securities And Some Foreign. Source: For 1934-1940 Data: Survey Of Current Business Table (Obe-53, August 19, 1958); For 1941-1964 Data: 1947 And Subsequent Statistical Supplements To The Scb (Business Statistics); For Most Recent Data See Monthly Issues Of The Scbusiness And The Securities And Exchange Commission Statistical Bulletin\n\nThis NBER data series m10110 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10110"
+}

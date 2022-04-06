@@ -1,0 +1,18 @@
+{
+  "id": "M0971BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities of Business Failures, Manufacturing Companies with Liabilities of One Hundred Thousand Dollars and Over for the United States",
+  "observation_start": "1934-06-01",
+  "observation_end": "1961-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:01:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1894-1938 (2)--Original Data, 1934-1961. In September, 1938, The Separate Classifications Of Reorganization Cases Was Discontinued Subsequent To Elimination Of Paragraph 77-B From The National Bankruptcy Act. These Data Were Revised Accordingly, Beginning In June, 1934. Beginning In 1939, A More Complete Coverage Of Voluntary Discontinuances With Losses To Creditors And Of Small Failures Not Previously Covered By Dun And Bradstreet Is Presented (See Source, March, 1940). Beginning In 1940, There Occurred A Reclassification Of Subgroups In Accordance With The Standard Industrial Classification Of Government Statistics, Bakeries With Retail Outlets Were Transferred From Manufacturing To Trading. The Continuity Within This Variable Is Not Affected By The Revisions Of 1939 And 1940. Source: Dun And Bradstreet, Inc., Data For 1934-August, 1937: Unpublished Data Obtained Directly From Dun And Bradstreet; Data For September, 1937-1961: Dun'S Statistical Review.\n\nThis NBER data series m09071b appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09071b"
+}

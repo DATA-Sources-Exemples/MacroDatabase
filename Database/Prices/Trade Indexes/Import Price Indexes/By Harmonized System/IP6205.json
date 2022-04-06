@@ -1,0 +1,18 @@
+{
+  "id": "IP6205",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Import Price Index (Harmonized System): Men's or boys' shirts, not knitted or crocheted",
+  "observation_start": "2012-12-01",
+  "observation_end": "2018-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2012=100",
+  "units_short": "Index Dec 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-01-16 07:51:40-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+}

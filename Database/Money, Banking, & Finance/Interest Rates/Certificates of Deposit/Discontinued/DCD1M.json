@@ -1,0 +1,18 @@
+{
+  "id": "DCD1M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "1-Month Certificate of Deposit: Secondary Market Rate (DISCONTINUED)",
+  "observation_start": "1965-12-22",
+  "observation_end": "2013-06-28",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-07-01 15:01:30-05",
+  "popularity": 5,
+  "group_popularity": 14,
+  "notes": "The Federal Reserve Board of Governors does not report responses to CD Bids when the number of respondents is too few to be representative."
+}

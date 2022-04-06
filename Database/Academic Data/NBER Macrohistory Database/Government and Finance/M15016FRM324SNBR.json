@@ -1,0 +1,18 @@
+{
+  "id": "M15016FRM324SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Sales Tax Receipts for France",
+  "observation_start": "1920-09-01",
+  "observation_end": "1937-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 08:46:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Adjusted For Changes In Rates, For Exemptions, For Seasonal Variations, And Three Months Moving Average. The Figure For April 1923 (76) Was Printed As 16, But Was Corrected. The Figure Of 76 Agrees With The Seasonal Average. Coverage Ends In March 1937 Due To Fiscal Legislation Which Rendered Any Further Data Incomparable. Source: Statistique Generale, Bulletin De Statistique Generale, \"Indices Generaux Du Mouvement Economique En France, 1901-1931\", Pp. 137-139.\n\nThis NBER data series m15016 appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15016"
+}

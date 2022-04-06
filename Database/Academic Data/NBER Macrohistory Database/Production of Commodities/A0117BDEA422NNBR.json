@@ -1,0 +1,18 @@
+{
+  "id": "A0117BDEA422NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Coal Production for Germany",
+  "observation_start": "1908-01-01",
+  "observation_end": "1916-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Metric Tons",
+  "units_short": "Mil. Of Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1870-1911 (2)--Original Data, 1908-1916. Data For 1871 On Include Alsace-Lorraine. Source: Statistisches Jahrbuch Fur Das Deutsche Reich, Successive Annual Issues. For Overlap See Viertelsjahrhefte Zur Statistische Erganzungsht, 1913, P. 2.\n\nThis NBER data series a01217b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01217b"
+}

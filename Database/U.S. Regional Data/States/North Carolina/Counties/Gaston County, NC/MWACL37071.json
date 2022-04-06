@@ -1,0 +1,18 @@
+{
+  "id": "MWACL37071",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Estimated Mean Real Household Wages Adjusted by Cost of Living for Gaston County, NC",
+  "observation_start": "2009-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "1999 U.S. Dollars",
+  "units_short": "1999 U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-12-15 15:31:13-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Mean household income, American Community Survey (ACS) 1-year variable S1901_C01_013E, is adjusted by CPI (https://fred.stlouisfed.org/series/CPIAUCSL) where the price index is re-based to 1999 dollars. Then the series is adjusted for cost of living using regional price parities (RPP) from the U.S. Bureau of Economic Analysis' Real Personal Income for States and Metropolitan Areas (https://fred.stlouisfed.org/release?rid=403&soid=18). Finally to approximate the wage, the series is divided by (52 * 40), which assumes there are 52 weeks in a year and 40 work hours in a week. Note that household income can include additional sources of income beyond wages. See page 83 in the ACS's Subject Definitions (https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2019_ACSSubjectDefinitions.pdf) for more information.\n\nACS 1-year estimates are not available for all geographic areas. If a county is not included in the 1-year estimates for a given year, the series will not revise or there will be a missing observation. See the Areas Published (https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) for more details about the geographies included in the ACS 1-year estimates.\n\nThe RPP used to calculate this series is NCNMPRPPALL (https://fred.stlouisfed.org/series/NCNMPRPPALL). If the RPP for the region is zero or missing for a given year, the series will not revise or there will be a missing observation."
+}

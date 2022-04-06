@@ -1,0 +1,18 @@
+{
+  "id": "M13014FRM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank of France Discount Rate for France",
+  "observation_start": "1852-01-01",
+  "observation_end": "1940-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:18:39-05",
+  "popularity": 14,
+  "group_popularity": 14,
+  "notes": "When Rates Changed During A Month NBER Weighted Each Rate By The Number Of Days It Was In Effect. Source: Data For 1852-1920: Bulletin De Statistique Et De Legislation Comparee, Vol. 91, 1921, Pp. 524-525. Data For 1921-1933: Annuaire Statistique. Data For 1934-1940: The Economist (London).\n\nThis NBER data series m13014 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13014"
+}

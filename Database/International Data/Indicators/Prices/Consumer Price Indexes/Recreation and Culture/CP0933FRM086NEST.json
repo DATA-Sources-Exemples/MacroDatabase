@@ -1,0 +1,18 @@
+{
+  "id": "CP0933FRM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Gardens, Plants, and Flowers for France",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:22:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Gardens, Plants, and Flowers (09.3.3)\" is a classification of nondurable goods that includes natural or artificial flowers and foliage, plants, shrubs, bulbs, tubers, seeds, fertilizers, composts, garden peat, turf for lawns, specially treated soils for ornamental gardens, horticultural preparations, pots and pot holders; natural and artificial Christmas trees; and delivery charges for flowers and plants.\n\nThis category excludes gardening gloves (03.1.3), gardening services (04.4.4) or (05.6.2), gardening equipment (05.5.1), and gardening tools (05.5.2).\n\nThis category is a subcategory of the Recreation and Culture (09) and of Other Recreational Items and Equipment, Gardens and Pets (09.3) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

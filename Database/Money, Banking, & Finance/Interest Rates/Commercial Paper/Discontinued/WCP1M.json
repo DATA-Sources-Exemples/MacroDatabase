@@ -1,0 +1,18 @@
+{
+  "id": "WCP1M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
+  "observation_start": "1971-04-09",
+  "observation_end": "1997-08-29",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2006-07-27 09:46:44-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "Average of offering rates on commercial paper placed by several leading dealers for firms whose bond rating is AA or equivalent, quoted on a discount basis. Averages of daily figures."
+}

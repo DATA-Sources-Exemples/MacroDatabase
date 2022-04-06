@@ -1,7 +1,7 @@
 {
   "id": "WPU01130236",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Farm Products: Pumpkins",
   "observation_start": "2011-12-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-14 10:24:08-06",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 8,
+  "group_popularity": 8
 }

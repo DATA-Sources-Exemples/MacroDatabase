@@ -1,0 +1,18 @@
+{
+  "id": "CP0931ATM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Games, Toys, and Hobbies for Austria",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:17:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Games, Toys, and Hobbies (09.3.1)\" is a classification of semi-durable goods that includes card games, parlor games, chess sets and the like; toys of all kinds including dolls, soft toys, toy cars and trains, toy bicycles and tricycles, toy construction sets, puzzles, plasticine, electronic games, masks, disguises, jokes, novelties, fireworks and rockets, and festoons and Christmas tree decorations; stamp-collecting requisites (used or cancelled postage stamps, stamp albums, etc.), other items for collections (coins, medals, minerals, zoological and botanical specimens, etc.), other tools and articles not elsewhere classified for hobbies; video-game software; video-game computers that plug into a television set; video-game cassettes; and video-game CD-ROMs.\n\nThis category excludes collectors' items falling into the category of works of art or antiques (05.1.1), unused postage stamps (08.1.0), Christmas trees (09.3.3), and children's scrapbooks (09.5.1).\n\nThis category is a subcategory of the Recreation and Culture (09) and of Other Recreational Items and Equipment, Gardens and Pets (09.3) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

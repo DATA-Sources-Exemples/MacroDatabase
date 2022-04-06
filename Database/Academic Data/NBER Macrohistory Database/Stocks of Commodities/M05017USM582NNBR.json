@@ -1,0 +1,18 @@
+{
+  "id": "M05017USM582NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Steel Sheet Stocks for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1936-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Net Short Tons",
+  "units_short": "Thous. Of Net Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:46:23-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source: U.S. Department Of Commerce, The Record Book Of Business Statistics, Part 2; And The Survey Of Current Business\n\nThis NBER data series m05017 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05017"
+}

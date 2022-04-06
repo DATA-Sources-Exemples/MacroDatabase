@@ -1,0 +1,18 @@
+{
+  "id": "CURRSL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Currency Component of M1",
+  "observation_start": "1947-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-22 12:03:12-05",
+  "popularity": 55,
+  "group_popularity": 61,
+  "notes": "The currency component of M1, sometimes called \"money stock currency,\" is defined as currency in circulation outside the U.S. Treasury and Federal Reserve Banks. Data on total currency in circulation are obtained weekly from balance sheets of the Federal Reserve Banks and from the U.S. Treasury. Weekly currency in circulation data are published each week on the Federal Reserve Board's H.4.1 statistical release \"Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks.\" Vault cash is reported on the FR 2900 and subtracted from total currency in circulation. For institutions that do not file the FR 2900, vault cash is estimated using data reported on the Call Reports."
+}

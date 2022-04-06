@@ -1,0 +1,18 @@
+{
+  "id": "CP1120ISM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Accommodation Services for Iceland",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:16:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Accommodation Services (11.2)\" is a classification of services that includes hotels, boarding houses, motels, inns, and establishments offering \"bed and breakfast\"; holiday villages and holiday centers, camping and caravan sites, youth hostels and mountain chalets; boarding schools, universities, and other educational establishments; public transport (trains, boats, etc.) when priced separately; hostels for young workers or immigrants; tips; and porters.\n\nAccommodation Services (11.2) excludes payments of households occupying a room in a hotel or boarding house as their main residence (04.1.1), rentals paid by households for a secondary residence for the duration of a holiday (04.1.2), telephone calls (08.3.0), catering services in such establishments except for breakfast or other meals included in the price of the accommodation (11.1.1), and housing in orphanages, homes for disabled or maladjusted persons (12.4.0).\n\nThe category, Accommodation Services (11.2), is a subcategory of the Restaurants and Hotels (11) classification.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

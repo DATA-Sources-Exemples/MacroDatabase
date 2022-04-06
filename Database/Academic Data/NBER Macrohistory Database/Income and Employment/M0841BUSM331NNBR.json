@@ -1,0 +1,18 @@
+{
+  "id": "M0841BUSM331NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Payrolls, Nondurable Goods for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:30:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1942 (2)--Original Data, 1939-1949. Source: NBER Computed The Data For 1919-1922. See Memorandum Worksheets From The Following Sources:\"Revised Indexes Of Factory Employment And Payrolls 1919 To 1933, \" Bureau Of Labor Statistics Bulletin No.610 (1935); And Bureau Of Labor Statistics Mimeographed Release\"Revised Index Numbers Of Factory Employment And Payrolls, \" (Sept.1938); For 1923-Oct.1941: \"Employment And Payrolls, \" Bureau Of Labor Statistics, December, 1940 And Following Issues; For November, 1941-August, 1942: Bureau Of Labor Statistics Monthly Labor Review; For September, 1942: Federal Reserve Bulletin, January, 1943. National Bureau Of Economic Research, 1919-1922, Bureau Of Labor Statistics, 1923-1941.\n\nThis NBER data series m08241b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08241b"
+}

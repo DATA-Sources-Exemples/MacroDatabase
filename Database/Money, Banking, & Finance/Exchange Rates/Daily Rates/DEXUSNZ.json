@@ -1,0 +1,18 @@
+{
+  "id": "DEXUSNZ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "U.S. Dollars to New Zealand Dollar Spot Exchange Rate",
+  "observation_start": "1971-01-04",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "U.S. Dollars to One New Zealand Dollar",
+  "units_short": "U.S. $ to  1 New Zealand $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:20:21-05",
+  "popularity": 27,
+  "group_popularity": 30,
+  "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
+}

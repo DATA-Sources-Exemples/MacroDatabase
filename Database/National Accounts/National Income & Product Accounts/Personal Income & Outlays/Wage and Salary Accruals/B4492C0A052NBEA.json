@@ -1,0 +1,18 @@
+{
+  "id": "B4492C0A052NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wage and salary accruals per full-time equivalent employee: Domestic private industries: Anthracite mining",
+  "observation_start": "1929-01-01",
+  "observation_end": "1948-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-03-31 22:15:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B4492C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

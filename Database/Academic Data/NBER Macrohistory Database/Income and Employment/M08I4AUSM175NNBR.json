@@ -1,0 +1,18 @@
+{
+  "id": "M08I4AUSM175NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1944-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. Of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:05-05",
+  "popularity": 8,
+  "group_popularity": 9,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1929-1944 (2)--Original Data, 1940-1957 (3)--Original Data, 1947-1966. Unemployment Means The Difference Between The Number Of Persons In The Labor Force And The Number Of Persons Working. Negative Unemployment Arises During Periods Of High Industrial Activity When There Are Persons At Work Who Are Not Ordinarily Counted As Members Of The Labor Force (Economic Almanic, 1946-1947, P. 269). \" Source: National Industrial Conference Board, Data For 1929: The Conference Board Economic Record, March 20, 1940; Data For 1930-1944: The Economic Almanac For 1945-1946.\n\nThis NBER data series m08084a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08084a"
+}

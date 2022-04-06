@@ -1,8 +1,12 @@
-| Folder                             |   Files / Folders |
-|------------------------------------|-------------------|
-| Taunton-Middleborough-Norton, MA   |                 1 |
-| Peabody-Salem-Beverly, MA          |                 1 |
-| Lawrence-Methuen Town-Salem, MA-NH |                 1 |
-| Lynn-Saugus-Marblehead, MA         |                 1 |
-| Boston-Cambridge-Newton, MA        |                 2 |
-| Brockton-Bridgewater-Easton, MA    |                 2 |
+| Folder                                     |   Files / Folders |
+|--------------------------------------------|-------------------|
+| Boston-Cambridge-Newton, MA                |               273 |
+| Nashua, NH-MA                              |                 2 |
+| Haverhill-Newburyport-Amesbury Town, MA-NH |                 8 |
+| Taunton-Middleborough-Norton, MA           |                63 |
+| Lawrence-Methuen Town-Salem, MA-NH         |                65 |
+| Brockton-Bridgewater-Easton, MA            |                72 |
+| Lowell-Billerica-Chelmsford, MA-NH         |                 8 |
+| Peabody-Salem-Beverly, MA                  |                 5 |
+| Framingham, MA                             |                 2 |
+| Lynn-Saugus-Marblehead, MA                 |                73 |

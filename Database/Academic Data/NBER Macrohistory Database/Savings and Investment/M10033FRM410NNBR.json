@@ -1,0 +1,18 @@
+{
+  "id": "M10033FRM410NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Corporate Issues, Bonds and Stocks for France",
+  "observation_start": "1921-01-01",
+  "observation_end": "1927-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Francs",
+  "units_short": "Mil. Of Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:18:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1927 (2)--Original Data, 25-1939. Data Include \"Actions D'Appont\" (Founders Shares). Source: Bureau De La Statistique Generale De La France, Bulletin De La Statistique Generale And Revue D'Economie Politique.\n\nThis NBER data series m10033 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10033"
+}

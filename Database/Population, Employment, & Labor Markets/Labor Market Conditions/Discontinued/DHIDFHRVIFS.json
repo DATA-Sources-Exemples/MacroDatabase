@@ -1,0 +1,18 @@
+{
+  "id": "DHIDFHRVIFS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Financial Services (DISCONTINUED)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2018-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-06-11 09:21:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Monthly updates of the DHI Hiring Indicators have been discontinue by the source.\n\nThe index is normalized to an average value of 1.0 for the period from January 2001 to December 2012. The BLS Job Openings Rate captures the availability of job vacancies in the economy, while the DHI-DFH Recruiting Intensity Index captures the intensity of employer efforts to fill those vacancies. \n\n The DHI-DFH Recruiting Intensity Index quantifies the effective intensity of recruiting efforts per vacancy by employers with vacant job positions. The index complements the monthly Job Openings Rate produced by the U.S. Bureau of Labor Statistics (BLS) from the Job Openings and Labor Turnover Survey. The index construction follows the method developed by Steven J. Davis, R. Jason Faberman and John Haltiwanger (DFH) in \"The Establishment-Level Behavior of Vacancies and Hiring,\" published in the May 2013 issue of the Quarterly Journal of Economics, and extended to industry and regional indices in \"Recruiting Intensity during and after the Great Recession: National and Industry Evidence,\" published in the May 2012 issue of the American Economic Review.\n\n Reproduced with permisson of DHI Group, Inc. and Dr. Steven J. Davis. Copyright, 2017 DHI Group, Inc. All rights reserved."
+}

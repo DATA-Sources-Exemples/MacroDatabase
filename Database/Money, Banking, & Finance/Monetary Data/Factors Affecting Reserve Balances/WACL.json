@@ -1,0 +1,18 @@
+{
+  "id": "WACL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Other: Coin: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:10-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "This item indicates the value of coin on hand at Federal Reserve Banks. The Reserve Banks buy coin at face value from the U.S. Treasury's Bureau of the Mint in order to fill orders from depository institutions."
+}

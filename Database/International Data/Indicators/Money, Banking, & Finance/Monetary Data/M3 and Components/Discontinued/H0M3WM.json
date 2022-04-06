@@ -1,0 +1,18 @@
+{
+  "id": "H0M3WM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "M3 (DISCONTINUED)",
+  "observation_start": "1981-01-05",
+  "observation_end": "2006-03-13",
+  "frequency": "Weekly, Ending Monday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-07 13:45:05-06",
+  "popularity": 3,
+  "group_popularity": 24,
+  "notes": "On March 23, 2006, the Board of Governors of the Federal Reserve System ceased publication of the M3 monetary aggregate and its components. For more information, please refer to the announcement (https://www.federalreserve.gov/releases/h6/discm3.htm) provided by the source."
+}

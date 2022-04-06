@@ -1,0 +1,18 @@
+{
+  "id": "M0831BUSM265NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Woolen and Worsted Manufacturing for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1959-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Hour",
+  "units_short": "Cents Per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:01-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1947-1959. The Bls Series Is Believed Not To Be Comparable To The Nicb Data, Since It Covers Only The Weaving Of Woolen And Worsted Fabrics Over 12 Inches Wide, While The Nicb Series Covers The Spinning Of Woolen And Worsted Yarns As Well As The Weaving And Finishing Of Woolen And Worsted Fabrics (See Nicb, Research Report, No. 69,\"Wages, Hours, And Employment In American Manufacturing Industries, 1924, P. 57). In The Current Bls Classification, Woolen Yarn Mills Are Not Segregated From Those Spinning Yarn From Cotton, Silk, Rayon Or Other Fibers; And The Weaving Of Woolen And Worsted Fabrics Of Narrower Than 12\" Widths Is Not Treated Separately, But Combined With That Of Other Materials. For 1951 On, The Figures Have Been Rounded And No Fractions Of Cents Are Available In The Source. Source: For 1947-1952, Bureau Of Labor Statistics, \"Employment, Hours, And Earnings, Manufacturing Division, Textile-Mill Products Group: Woolen And Worsted\", Releases Ls 53-1609 (February, 1953) And (May, 1955); For 1953-1957, June, 1956 And July, 1958 Releases; For 1958, Monthly Labor Review, \"Employment And Earnings\".\n\nThis NBER data series m08231b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08231b"
+}

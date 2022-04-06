@@ -1,0 +1,18 @@
+{
+  "id": "DDDI07FRA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Mutual Fund Assets to GDP for France",
+  "observation_start": "1996-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-10-21 14:50:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Ratio of assets of mutual funds to GDP. A mutual fund is a type of managed collective investment scheme that pools money from many investors to purchase securities.\n\nData taken from a variety of sources such as Investment Company Institute and national sources. (World Bank - Non banking financial database)\n\nSource Code: GFDD.DI.07"
+}

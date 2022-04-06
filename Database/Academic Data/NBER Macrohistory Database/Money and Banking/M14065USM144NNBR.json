@@ -1,0 +1,18 @@
+{
+  "id": "M14065USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Notes in Circulation, Federal Reserve Banks for United States",
+  "observation_start": "1914-11-01",
+  "observation_end": "1949-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:37:11-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Data For 1914-1941 Represent Monthly Averages Of Daily Figures; Data For 1942-1949 Are Averages Of Wednesday Figures, For Weeks Ending On The First, Second, Or Third Of The Month Data Were Added To The Preceeding Month. An Act Of May 12, 1933 Made All Coins And Currencies Of The United States Legal Tender And Eligible For Use As Reserve Against Such Deposits. Since That Date, Therefore, Cash Reserves Include Coins And Currency Not Previously Eligible For Such Use. For Comparative Purposes, Revised Figures Are Given In The 1933 Annual Report, Table 10, P. 94. Source: Federal Reserve Board, Data For 1914-1933: Annual Report Of The Frb, 1928, Pp. 50-52; 1932, P. 52; 1933, P. 94, Table 9410. Data For 1934: Federal Reserve Bulletin, Successive Monthly Issues. Data For 1935-1941: Banking And Monetary Statistics. Data For 1942-1949: Frb Bulletin.\n\nThis NBER data series m14065 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14065"
+}

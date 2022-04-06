@@ -1,0 +1,18 @@
+{
+  "id": "M0521CUSM391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Visible Supply of Corn for United States",
+  "observation_start": "1888-01-01",
+  "observation_end": "1927-12-01",
+  "frequency": "Monthly, Saturday Nearest Month's End",
+  "frequency_short": "M",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:46:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1873-1889 (2)--Original Data, 1884-1889 (3)--Original, 1888-1927 (4)--Original, 1926-1940. Data For 1888-September 1906 Were Computed By Deducting Stocks At Canadian Points From Figures Given For\"U.S. And Canada, East Of The Rockies.\" Coverage Of \"In Transit By Rail\", Covered In Earlier Segments Is Excluded From 1888 On -- It Is Deducted By Computation For 1888-May 1891. For The Years 1888-1889, The Last Day Of The Month Is Sometimes Given Instead Of The Saturday Nearest The End Of The Month. The Figure For March 1890 Is From March 22; Data From March 29 And April 5 Are Not Available. Beginning In October 1906, No Computation Is Necessary, As Data Are Given Directly In The Source. Source: Bradstreet'S\n\nThis NBER data series m05021c appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05021c"
+}

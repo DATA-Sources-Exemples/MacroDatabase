@@ -1,0 +1,18 @@
+{
+  "id": "M01069USM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Butter Production in Factories for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1943-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Published Monthly Figures For 1917 And 1918 Were Incomplete. Here They Are Raised By The Ratio Of Complete Annual Totals To Incomplete Annual Totals: 1.103 For 1917 And 1.017 For 1918. Source: 1917-1918 Data Are From The United States Department Of Agriculture, \"Summary Of Dairy Situation Statistics, \" Supplement To The Dairy Situation, April 1934, P.30; 1919-1937 Data Are From U.S.D.A., \"Production And Consumption Of Manufactured Dairy Products, \" (Technical Bulletin No.722) P.63; 1938-1942 Data Are From Survey Of Current Business, 1942 Supplement And Following Issues, Particularly March 1943.\n\nThis NBER data series m01069 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01069"
+}

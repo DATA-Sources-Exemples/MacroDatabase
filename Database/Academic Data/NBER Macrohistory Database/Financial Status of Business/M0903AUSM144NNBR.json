@@ -1,0 +1,18 @@
+{
+  "id": "M0903AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Operating Income, Class a Telephone Companies for United States",
+  "observation_start": "1915-10-01",
+  "observation_end": "1933-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:03:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1915-1933 (2)--Original Data, 1933-1948 (3)--Original Data, 1948-1961. These Data Were Taken From Reports Of About 102 Companies. Letter And Data Received By NBER From The Survey Of Current Business, Letter Of May, 1935. Class A Companies Are Those Having Annual Operating Revenues Of Over $250,000. Source: 1931 Office Records Of The Survey Of Current Business For 1915-1922 Data; 1932 Annual Supplement Of The Survey Of Current Business, Pp.122-123, For 1923-1930 Data; Survey Of Current Business, March 1933, For 1932; January, 1933 Through March, 1933 Data Were Computed.\n\nThis NBER data series m09003a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09003a"
+}

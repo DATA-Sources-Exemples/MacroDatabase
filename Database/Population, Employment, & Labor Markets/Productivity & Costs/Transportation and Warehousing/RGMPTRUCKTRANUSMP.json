@@ -1,0 +1,18 @@
+{
+  "id": "RGMPTRUCKTRANUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Gross Domestic Product: Private Industries: Transportation and Warehousing: Truck Transportation for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Truck Transportation NAICS subsector provide over-the-road transportation of cargo using motor vehicles, such as trucks and tractor trailers. The subsector is subdivided into general freight trucking and specialized freight trucking. This distinction reflects differences in equipment used, type of load carried, scheduling, terminal, and other networking services. General freight transportation establishments handle a wide variety of general commodities, generally palletized, and transported in a container or van trailer. Specialized freight transportation is the transportation of cargo that, because of size, weight, shape, or other inherent characteristics require specialized equipment for transportation.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

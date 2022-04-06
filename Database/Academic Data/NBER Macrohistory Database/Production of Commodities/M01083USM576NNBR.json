@@ -1,0 +1,18 @@
+{
+  "id": "M01083USM576NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Sugar Meltings at Eight Ports for United States",
+  "observation_start": "1938-01-01",
+  "observation_end": "1956-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Long Tons",
+  "units_short": "Thous. of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:07:12-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Series Is Pesented Here As Three Variables--(1)--Original Data, 1890-1921 (2)--Orignal Data, 1920-1938 (3)--Original Data, 1938-1956. Ports Covered Are New York, Boston, Philadelphia, Baltimore, New Orleans, Savannah,Galveston, And San Francisco. NBER Derived Monthly Figures From 4 Or 5 Weekly Figures With Overlapping Weeks Being Prorated To The Proper Month. Source: Weekly Statistical Sugar Trade Journal. NBER Converted Weekly Data To Monthly Data.\n\nThis NBER data series m01083 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01083"
+}

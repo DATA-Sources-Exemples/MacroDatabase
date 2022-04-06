@@ -1,0 +1,18 @@
+{
+  "id": "M0811BUSM259NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Electrical Manufacturing for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1960-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents",
+  "units_short": "Cents",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1947-1960. This Bureau Of Labor Statistics Variable Is Roughly Comparable To The Preceeding Data From The National Industrial Conference Board. Beginning In 1951 The Figures Have Been Rounded And No Fractions Of Cents Are Available. Source: Bureau Of Labor Statistics, For 1947-1952 Data: \"Employment, Hours, And Earnings\", Durable Goods Subdivision, Electrical Machinery, Releases Ls 53-2836, February 1953 And May 1955; Thereafter: Bls Releases Of June 1956 And July 1958, Pp. 283-284A Of Summary Table In Index; Monthly Labor Review, \"Employment And Earnings\"; Mimeographed Releases For Most Recent Data.\n\nThis NBER data series m08211b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08211b"
+}

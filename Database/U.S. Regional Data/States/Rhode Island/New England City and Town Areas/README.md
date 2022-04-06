@@ -1,3 +1,4 @@
-| Folder                    |   Files / Folders |
-|---------------------------|-------------------|
-| Norwich-New London, CT-RI |                 1 |
+| Folder                               |   Files / Folders |
+|--------------------------------------|-------------------|
+| Providence-Fall River-Warwick, RI-MA |               197 |
+| Norwich-New London, CT-RI            |               101 |

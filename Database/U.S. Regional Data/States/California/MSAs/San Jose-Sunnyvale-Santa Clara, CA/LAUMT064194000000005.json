@@ -1,0 +1,18 @@
+{
+  "id": "LAUMT064194000000005",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed Persons in San Jose-Sunnyvale-Santa Clara, CA (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 17:21:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "These data come from the Current Population Survey (CPS), also known as the household survey.\n\nEmployed persons are all persons who, during the reference week (the week including the 12th day of the month), (a) did any work as paid employees, worked in their own business or profession or on their own farm, or worked 15 hours or more as unpaid workers in an enterprise operated by a member of their family, or (b) were not working but who had jobs from which they were temporarily absent because of vacation, illness, bad weather, childcare problems, maternity or paternity leave, labor-management dispute, job training, or other family or personal reasons, whether or not they were paid for the time off or were seeking other jobs. Each employed person is counted only once, even if he or she holds more than one job.\n\nFor more details, see the release's frequently asked questions (https://www.bls.gov/lau/laufaq.htm)."
+}

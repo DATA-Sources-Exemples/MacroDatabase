@@ -1,0 +1,18 @@
+{
+  "id": "M01040DEM566NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hog Slaughter, Under Federal Inspection for Germany",
+  "observation_start": "1904-10-01",
+  "observation_end": "1935-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Hogs",
+  "units_short": "Thous. Of Hogs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:07:19-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For October 1918 On Exclude Alsace-Lorraine; Data For July 1922 On Exclude The Saarland And Other Surrendered Territories. Source: Statistisches Reichsamt, Vierteljahreshefte Zur Statistik Des Reichs, 1906, Pp. 44-45; 1907, Ii, P. 244; 1908, Ii, P. 209; Successive Issues.\n\nThis NBER data series m01040 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01040"
+}

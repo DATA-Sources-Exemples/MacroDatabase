@@ -1,0 +1,18 @@
+{
+  "id": "WLTIIT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Treasury Long-Term Average (Over 10 Years), Inflation-Indexed",
+  "observation_start": "2000-01-07",
+  "observation_end": "2022-04-01",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:17:25-05",
+  "popularity": 8,
+  "group_popularity": 54,
+  "notes": "Averages of business days. Based on the unweighted average bid yields for all TIPS with remaining terms to maturity of more than 10 years."
+}

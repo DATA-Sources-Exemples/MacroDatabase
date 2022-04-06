@@ -1,0 +1,18 @@
+{
+  "id": "MORTG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "30-Year Conventional Mortgage Rate (DISCONTINUED)",
+  "observation_start": "1971-04-01",
+  "observation_end": "2016-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-10-03 15:47:08-05",
+  "popularity": 39,
+  "group_popularity": 41,
+  "notes": "The Federal Reserve Board has discontinued this series as of October 11, 2016. More information, including possible alternative series, can be found at http://www.federalreserve.gov/feeds/h15.html.\n\nContract interest rates on commitments for fixed-rate first mortgages. Source: Primary Mortgage Market Survey data provided by Freddie Mac.\n\nCopyright, 2016, Freddie Mac. Reprinted with permission."
+}

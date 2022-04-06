@@ -1,0 +1,18 @@
+{
+  "id": "M13031USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Rates on Customer Loans, Leading Cities for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1939-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:28-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1939 (2)--Original Data, 1939-1968. Source: Data For 1919-1928: W.W. Riefles, Money Rates And Money Markets In The United States, 1930. Data For 1928-1939: Direct From The Federal Reserve Board. Data For 1919-1929 Are Also Available From The Frb, Banking And Monetary Statistics, 1943, P. 463."
+}

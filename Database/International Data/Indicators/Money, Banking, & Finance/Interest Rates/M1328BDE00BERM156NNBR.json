@@ -1,0 +1,18 @@
+{
+  "id": "M1328BDE00BERM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bond Yields for Berlin, Germany",
+  "observation_start": "1924-08-01",
+  "observation_end": "1931-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:45-05",
+  "popularity": 2,
+  "group_popularity": 6,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1870-1813 (2)--Original Data, 1924-1931 (3)--Original Data, 1926-1935. Data Refer To Simple Average Yield Of Gold Mortgage Bonds With Nominal Interest Rates Of 5, 6, 7, 8, And 10%. Each Group Is An Average Of Ten Bonds (Except In 1926, When The 6% Group Is An Average Of Four Bonds, And In 1927, When The 10% Group Is An Average Of Eight Bonds). Sometimes Figures Are Published Without Indicating The Number Of Bonds. Source: Wirtschaft Und Statistik, 1925, P. 207, And Following Issues.\n\nThis NBER data series m13028b appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13028b"
+}

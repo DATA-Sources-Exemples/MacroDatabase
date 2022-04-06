@@ -1,0 +1,17 @@
+{
+  "id": "SMU78000007071000001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Leisure and Hospitality: Arts, Entertainment, and Recreation in the U.S. Virgin Islands",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-26 03:12:11-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

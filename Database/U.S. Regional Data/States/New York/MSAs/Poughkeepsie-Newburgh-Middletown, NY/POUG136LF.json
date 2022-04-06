@@ -1,0 +1,17 @@
+{
+  "id": "POUG136LF",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Civilian Labor Force in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
+  "observation_start": "2000-01-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Smoothed Seasonally Adjusted",
+  "seasonal_adjustment_short": "SSA",
+  "last_updated": "2015-02-04 11:12:18-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

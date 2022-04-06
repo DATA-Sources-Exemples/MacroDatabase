@@ -1,0 +1,18 @@
+{
+  "id": "Q0974BUSQ027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate Profits Tax Liability for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1965-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:01:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As 2 Variables-- (1)--Original Data, 1939-1946 (2)--Original Data, 1946-1965. Data Are At Annual Rate. Source: Department Of Commerce, Survey Of Current Business, August, 1965 For Data Through 1962. Thereafter, Data Furnished By Survey Of Current Business, July, 1966 And Following Monthly Issues. Alternate Sources Include The National Income And Product Accounts Of The United States, 1929-1965; A Supplement To The Survey Of Current Business (August, 1966).\n\nThis NBER data series q09074b appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09074b"
+}

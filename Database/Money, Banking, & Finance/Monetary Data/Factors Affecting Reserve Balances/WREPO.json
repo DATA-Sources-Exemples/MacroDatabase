@@ -1,0 +1,18 @@
+{
+  "id": "WREPO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Other: Repurchase Agreements: Week Average",
+  "observation_start": "1999-10-13",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:34:07-05",
+  "popularity": 36,
+  "group_popularity": 36,
+  "notes": "Repurchase agreements reflect some of the Federal Reserve's temporary open market operations. Repurchase agreements are transactions in which securities are purchased from a primary dealer under an agreement to sell them back to the dealer on a specified date in the future. The difference between the purchase price and the repurchase price reflects an interest payment. The Federal Reserve may enter into repurchase agreements for up to 65 business days, but the typical maturity is between one and 14 days. Federal Reserve repurchase agreements supply reserve balances to the banking system for the length of the agreement. The Federal Reserve employs a naming convention for these transactions based on the perspective of the primary dealers: the dealers receive cash while the Federal Reserve receives the collateral."
+}

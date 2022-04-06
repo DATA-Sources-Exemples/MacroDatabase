@@ -1,0 +1,18 @@
+{
+  "id": "M11007USM322NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Common Stock Prices, New York Stock Exchange for United States",
+  "observation_start": "1902-01-01",
+  "observation_end": "1923-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1909-1913=100",
+  "units_short": "Index 1909-1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:01:16-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "The Stock Exchange Was Closed August-November, 1914. There Are No Data For August And September And Only Unofficial Data For October And November. The December, 1919 Entry Was Misprinted As 224.6 In The June, 1923 Supplement To The Review Of Economic Statistics, P.169. Here It Is Given As 229.6. The Total For 1923 Is Of Data For 5 Months. Source: Frickey, Review Of Economic Statistics, August, 1921, Pp.275-277; June, 1923 Supplement (Statistical Record) P.169\n\nThis NBER data series m11007 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11007"
+}

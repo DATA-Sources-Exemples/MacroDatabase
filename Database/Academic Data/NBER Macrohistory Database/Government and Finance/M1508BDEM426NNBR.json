@@ -1,0 +1,18 @@
+{
+  "id": "M1508BDEM426NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Postal Receipts for Germany",
+  "observation_start": "1919-04-01",
+  "observation_end": "1923-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Paper Deutsche Marks",
+  "units_short": "Mil. Of Paper Deutsche Marks",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:46:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1875-1914 (2)--Original Data, 1919-1923. Figures For April-May, 1919 And April, 1920 Do Not Include Wurtenburg And Bavaria. Source: Reichsministerium Des Innern, Monthly Issues Of Zentralblatt Fur Das Deutsche Reich.\n\nThis NBER data series m15008b appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15008b"
+}

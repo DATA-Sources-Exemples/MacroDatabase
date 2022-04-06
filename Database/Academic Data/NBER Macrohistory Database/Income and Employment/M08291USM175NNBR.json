@@ -1,0 +1,18 @@
+{
+  "id": "M08291USM175NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Persons on Temporary Layoff, 14 Years and Older for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1966-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:25:55-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Data Represent Persons Temporarily Laid Off From Their Jobs With Definite Instructions To Return To Work Within 30 Days Of Layoff. Figures Relate To The Survey Week Containing The 8Th Of The Month Through June 1955; The 12Th Of The Month Thereafter. According To The Letter Of August 4, 1961, From H. Goldstein, Chief Of The Division Of Manpower And Employment Statistics, Bls, No Monthly Data Prior To 1947 Are Available. The Average For The Year 1946 Was Estimated To Have Been 97,000 (See G. Moore For A More Detailed Explanation). Beginning In 1953 The Information Obtained From The Bureau Of The Census Is Based On A 230-Area Sample, Replacing The Previously Used 68-Area Sample. Data Based On The First Sample Basis Are Available Through February 1954, But Have Been Superseded And The Series Is Considered Continuous. In 1956 Another Change Was Made, The New Sample Covers 330 Areas And Again The Series Is Continuous. For The 1953 Change See The Annual Report On The Labor Force, 1954, Series P-50, No. 59; For 1956 See No. 72. The Figure For February 1957 Is From The Council Of Economic Advisors And Was Unpublished. Beginning In March Of 1957 These Figures Were Shown In Footnotes To Tables Giving Persons Unemployed But Not At Work -- Temporary Layoffs Are No Longer Considered Employed, But Are Included In Unemployment Estimates. Beginning In April 1962, Data Are Based On The 1960 Census Benchmarks; Earlier Figures Are Based On The 1950 Census. The Figures For April 1962, Based On The Earlier Census Are -- Original, 95; Adjusted, 109. Source: Data For 1947-1956: Bureau Of The Census, Current Population Reports--Labor Force, Series P-50, Annual Report, Nos. 13, 19, 31, 40, 45, 59, 67, 72; Data For 1957-June 1959: Bureau Of The Census, Series P-57, Monthly Report; Data For July 1959-1966: Bureau Of Labor Statistics,, Monthly Report On The Labor Force, And\"Employment And Earnings\"; Also See: G.H. Moore, Business Cycle Indicators, Vol. Ii, P. 7.\n\nThis NBER data series m08291 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08291"
+}

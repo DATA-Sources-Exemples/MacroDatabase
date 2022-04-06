@@ -1,0 +1,18 @@
+{
+  "id": "FYFSGDA188S",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal Surplus or Deficit [-] as Percent of Gross Domestic Product",
+  "observation_start": "1929-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of GDP",
+  "units_short": "% of GDP",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 11:03:03-05",
+  "popularity": 66,
+  "group_popularity": 66,
+  "notes": "Federal Surplus or Deficit [-] as Percent of Gross Domestic Product (FYFSGDA188S) (https://fred.stlouisfed.org/series/FYFSGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Surplus or Deficit [-] (FYFSD) (https://fred.stlouisfed.org/series/FYFSD) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):\nFYFSGDA188S = ((FYFSD/1000)/GDPA)*100\nFYFSD/1000 transforms FYFSD from millions of dollars to billions of dollars."
+}

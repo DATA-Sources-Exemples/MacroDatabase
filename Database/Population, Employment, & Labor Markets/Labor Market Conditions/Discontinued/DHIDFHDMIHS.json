@@ -1,0 +1,18 @@
+{
+  "id": "DHIDFHDMIHS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "DHI-DFH Mean Vacancy Duration Measure by Industry: Health Services (DISCONTINUED)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2018-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Working Days",
+  "units_short": "Working Days",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-06-11 09:21:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Monthly updates of the DHI Hiring Indicators have been discontinue by the source.\n\nThe DHI-DFH Vacancy Duration Measure quantifies the average number of working days taken to fill vacant job positions. It supplements other measures often used to assess the tightness of labor market conditions such as the ratio of vacant jobs to unemployed workers. The construction of the measure follows the method developed by Steven J. Davis, R. Jason Faberman and John Haltiwanger (DFH) in The Establishment-Level Behavior of Vacancies and Hiring, published in the May 2013 issue of the Quarterly Journal of Economics.\n\n Working days are defined as Mondays through Saturdays, excluding major national holidays.\n\n Reproduced with permisson of DHI Group, Inc. and Dr. Steven J. Davis. Copyright, 2017 DHI Group, Inc. All rights reserved."
+}

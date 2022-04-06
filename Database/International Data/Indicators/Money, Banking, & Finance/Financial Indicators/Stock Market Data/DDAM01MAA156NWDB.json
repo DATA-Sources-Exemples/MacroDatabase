@@ -1,0 +1,18 @@
+{
+  "id": "DDAM01MAA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Value Traded of Top 10 Traded Companies to Total Value Traded for Morocco",
+  "observation_start": "2009-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:35:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Value of all traded shares of the top ten traded companies as a share of total value of all traded shares in a stock market exchange. (World Federation of Exchanges)\n\nSource Code: GFDD.AM.01"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "SMU39496603133100001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Durable Goods: Primary Metal Manufacturing in Youngstown-Warren-Boardman, OH-PA (MSA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2013-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-02-01 23:35:40-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

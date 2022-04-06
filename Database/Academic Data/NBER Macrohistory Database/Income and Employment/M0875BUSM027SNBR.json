@@ -1,0 +1,18 @@
+{
+  "id": "M0875BUSM027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Proprietors' and Rental Income for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1966-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:17:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Varibbles--(1)--Seasonally Adjusted Data, 1929-1946 (2)--Seasonally Adjusted Data, 1945-1966. Data For 1945 Of The Preceding Segment Were Raised To The Level Of This Segment (August, 1965 Revision) By The Ratio Of The 1945 Annual Total. That Is, August 1965 Survey Of Current Business Figure Of 37056 Was Divided By The Figure Of 36469, Found In United States Income And Output, 1958, With The Quotient Being 1.01610. Source: Survey Of Current Business, August 1965 And Subsequent July Issues.\n\nThis NBER data series m08275b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08275b"
+}

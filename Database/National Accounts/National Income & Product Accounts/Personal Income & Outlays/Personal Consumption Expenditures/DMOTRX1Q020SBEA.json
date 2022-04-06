@@ -1,0 +1,18 @@
+{
+  "id": "DMOTRX1Q020SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real personal consumption expenditures: Durable goods: Motor vehicles and parts",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:56:47-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "BEA Account Code: DMOTRX\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

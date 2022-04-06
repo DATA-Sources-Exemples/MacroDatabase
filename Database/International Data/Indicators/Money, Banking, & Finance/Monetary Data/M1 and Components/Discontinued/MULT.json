@@ -1,0 +1,18 @@
+{
+  "id": "MULT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "M1 Money Multiplier (DISCONTINUED)",
+  "observation_start": "1984-02-15",
+  "observation_end": "2019-12-04",
+  "frequency": "Biweekly, Ending Wednesday",
+  "frequency_short": "BW",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2019-12-12 16:05:06-06",
+  "popularity": 60,
+  "group_popularity": 60,
+  "notes": "Updates of this series will be ceased on December 19, 2019. There is no direct replacement to this seasonally adjusted series. Interested users can construct a proxy of the series as the ratio of M1 from the H.6 release and the monetary base from the H.3 release. The discontinued series plotted on the same graph with the calculated data can be accessed for comparison here (https://fred.stlouisfed.org/graph/?g=wroO).\r\nFor more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/)."
+}

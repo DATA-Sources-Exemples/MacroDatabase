@@ -1,0 +1,18 @@
+{
+  "id": "A187RL1Q225SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Imports of Nonpetroleum Goods",
+  "observation_start": "1967-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 08:06:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: A187RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,9 +1,13 @@
-| Folder                       |   Files / Folders |
-|------------------------------|-------------------|
-| Parkersburg-Vienna, WV       |                 2 |
-| Winchester, VA-WV            |                 2 |
-| Charleston, WV               |                 2 |
-| Morgantown, WV               |                 2 |
-| Beckley, WV                  |                 2 |
-| Cumberland, MD-WV            |                 2 |
-| Huntington-Ashland, WV-KY-OH |                 2 |
+| Folder                                       |   Files / Folders |
+|----------------------------------------------|-------------------|
+| Cumberland, MD-WV                            |                 1 |
+| Parkersburg-Vienna, WV                       |               109 |
+| Wheeling, WV-OH                              |               130 |
+| Charleston, WV                               |               174 |
+| Winchester, VA-WV                            |               108 |
+| Weirton-Steubenville, WV-OH                  |                37 |
+| Beckley, WV                                  |                62 |
+| Washington-Arlington-Alexandria, DC-VA-MD-WV |                 1 |
+| Huntington-Ashland, WV-KY-OH                 |                 1 |
+| Hagerstown-Martinsburg, MD-WV                |                 1 |
+| Morgantown, WV                               |               140 |

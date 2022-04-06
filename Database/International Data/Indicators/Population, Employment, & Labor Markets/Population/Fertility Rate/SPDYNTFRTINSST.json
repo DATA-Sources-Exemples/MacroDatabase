@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNTFRTINSST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Fertility Rate, Total for Small States",
+  "observation_start": "1960-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Births per Woman",
+  "units_short": "Births per Woman",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-16 16:25:28-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates.\n\nNations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: SP.DYN.TFRT.IN"
+}

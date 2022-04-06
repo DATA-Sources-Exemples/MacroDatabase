@@ -1,4 +1,6 @@
-| Folder   |   Files / Folders |
-|----------|-------------------|
-| Counties |                99 |
-| MSAs     |                 7 |
+| Folder              |   Files / Folders |
+|---------------------|-------------------|
+| MSAs                |                 9 |
+| BEA Economic Areas  |                 1 |
+| Basic Trading Areas |                 1 |
+| Counties            |                98 |

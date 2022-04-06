@@ -1,0 +1,18 @@
+{
+  "id": "M01276USM546NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Tire Pneumatic Casings, Shipments, Original Equipment for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1953-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Casings",
+  "units_short": "Thous. Of Casings",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:05:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: 1921-1949 Data Are Direct From Rubber Manufacturers' Association; 1950-1953 Data Are From Survey Of Current Business\n\nThis NBER data series m01276 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01276"
+}

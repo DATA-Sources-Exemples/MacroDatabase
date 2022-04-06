@@ -1,0 +1,18 @@
+{
+  "id": "SUBLPDCLOTRNQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Percentage of Domestic Banks Increasing the Minimum Required Credit Score for Consumer Loans Excluding Credit Card Loans (DISCONTINUED)",
+  "observation_start": "2001-04-01",
+  "observation_end": "2011-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-10-15 13:56:28-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "This series no longer appears on the Senior Loan Officer Opinion Survey on Bank Lending practices. For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DDDI12SRA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Suriname",
+  "observation_start": "1967-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:36:57-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Private credit by deposit money banks and other financial institutions to GDP.\n\nPrivate credit by deposit money banks and other financial institutions to GDP, calculated using the following deflation method: {(0.5)*[Ft/P_et + Ft-1/P_et-1]}/[GDPt/P_at] where F is credit to the private sector, P_e is end-of period CPI, and P_a is average annual CPI. Raw data are from the electronic version of the IMF's International Financial Statistics. Private credit by deposit money banks and other financial institutions (IFS lines 22d and 42d); GDP in local currency (IFS line 99B..ZF or, if not available, line 99B.CZF); end-of period CPI (IFS line 64M..ZF or, if not available, 64Q..ZF); and annual CPI (IFS line 64..ZF). (International Monetary Fund, International Financial Statistics)\n\nSource Code: GFDD.DI.12"
+}

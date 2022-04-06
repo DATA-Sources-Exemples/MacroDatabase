@@ -1,0 +1,18 @@
+{
+  "id": "M0546AUSM408NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cattle Hide Leather in Process, Stocks in All Hands for United States",
+  "observation_start": "1920-12-01",
+  "observation_end": "1938-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Equivalent Hides",
+  "units_short": "Mil. of Equivalent Hides",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:49:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1938 (2)--Original Data, 1939-1943. Data Include Kip Sides Corrected To Equivalent Hides. Data For 1932-1934 Were Been Checked With The Commodities Exchange Monthly Statistical Supplement. The Unadjusted Figure For January 1934 Was Given As 4.96 (4.958) By The Commidity Exchange. When Checked With Total Stocks Plus General Movement, The Correct Figure Is 4.598, Thus 4.60 As Presented Here. Although Data Are Presented As Two Original And Two Seasonally Adjusted Variables, Data Are Comparable Throughout The Entire Time Span Of The Series. Source: Data For 1920-1933: Furnished Directly From The Tanners' Council Of America; Data For 1934-1938: Commodity Exchange Inc., Monthly Statistical Supplements To \"The Daily Market Report, Hides, \" 1939 Issues\n\nThis NBER data series m05046a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05046a"
+}

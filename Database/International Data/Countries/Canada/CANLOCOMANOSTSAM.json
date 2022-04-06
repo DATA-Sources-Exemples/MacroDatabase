@@ -1,0 +1,18 @@
+{
+  "id": "CANLOCOMANOSTSAM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Leading Indicators OECD: Component series: Monetary Aggregates: Normalised for Canada",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 11:31:30-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: LOCOMANO OECD unit ID: STSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

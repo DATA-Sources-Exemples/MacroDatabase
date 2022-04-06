@@ -1,0 +1,18 @@
+{
+  "id": "CATRBUQ027SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Capital Transfer Payments: Capital Transfers to Business (DISCONTINUED)",
+  "observation_start": "2009-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2013-08-12 11:16:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The estimated effect of ARRA on selected NIPA estimates of federal receipts and expenditures.\nIncludes home buyer tax credits and grants for specified energy properties.\n\nEstimates of the ARRA\u2019s effects on the NIPAs will not be available for periods after the first quarter of 2013 due to the lack of availability of source data and the declining impact of the ARRA on the NIPAs. For more information about the ARRA, visit http://www.ed.gov/open/plan/recovery-gov."
+}

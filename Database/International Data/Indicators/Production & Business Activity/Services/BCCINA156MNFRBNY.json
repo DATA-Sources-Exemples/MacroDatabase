@@ -1,0 +1,18 @@
+{
+  "id": "BCCINA156MNFRBNY",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Current Business Climate; Percent Reporting Better than Normal for FRB - New York District",
+  "observation_start": "2004-09-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-16 07:31:05-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Current Business Climate reports the level of the business climate for this time of year in the service sector for the state of New York, Northern New Jersey, and Fairfield County, Connecticut. For more information regarding the Business Leaders Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/business_leaders/bls_overview.html."
+}

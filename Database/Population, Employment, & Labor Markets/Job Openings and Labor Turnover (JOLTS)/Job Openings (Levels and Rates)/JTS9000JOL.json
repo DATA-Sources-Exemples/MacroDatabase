@@ -1,0 +1,17 @@
+{
+  "id": "JTS9000JOL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Job Openings: Government",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Level in Thousands",
+  "units_short": "Level in Thous.",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-29 09:05:13-05",
+  "popularity": 6,
+  "group_popularity": 8
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A030DBUSA251NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railroad Passengers Carried One Mile for United States",
+  "observation_start": "1916-01-01",
+  "observation_end": "1935-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Passenger-Miles",
+  "units_short": "Bil. Of Passenger-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:03:10-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1889-1916 (2)--Original Data, 1916-1935. Beginning In 1916, The Year Ended On December 31. Data Cover Figures For Railroad Classes I, Ii, And Iii, Excluding Switching And Terminal Companies. Data Were Checked With \"Production Trends.\" Source: Interstate Commerce Commission, Statistics Of Railways, 1935, Statements No. 53\n\nThis NBER data series a03010db appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03010db"
+}

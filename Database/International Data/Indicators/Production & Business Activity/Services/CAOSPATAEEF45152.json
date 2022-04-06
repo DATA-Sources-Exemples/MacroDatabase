@@ -1,0 +1,17 @@
+{
+  "id": "CAOSPATAEEF45152",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Air Time for Cable and Other Subscription Programming, All Establishments, Employer Firms",
+  "observation_start": "2013-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-24 10:26:55-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

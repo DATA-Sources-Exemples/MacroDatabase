@@ -1,0 +1,18 @@
+{
+  "id": "BKCCSMA641N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Failures and Assistance Transactions of State Charter Fed Member Commercial Banks Supervised by the Federal Reserve (SM) for the United States and Other Areas",
+  "observation_start": "1934-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Institutions",
+  "units_short": "Number of Institutions",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-05-05 12:04:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Charter Class\nThe FDIC assigns classification codes indicating an institution's charter type (commercial bank, savings bank, or savings association), its chartering agent (state or federal government), its Federal Reserve membership status (member or nonmember), and its primary federal regulator (state-chartered institutions are subject to both federal and state supervision). These codes are:\n\n\nN National chartered commercial bank supervised by the Office of the Comptroller of the Currency\nSM State charter Fed member commercial bank supervised by the Federal Reserve\nNM State charter Fed nonmember commercial bank supervised by the FDIC\nSA State or federal charter savings association supervised by the Office of Thrift Supervision or Office of the Comptroller of the Currency\nSB State charter savings bank supervised by the FDIC\n\nFor additional notes, see https://www5.fdic.gov/hsob/HSOBNotes.asp#BF1."
+}

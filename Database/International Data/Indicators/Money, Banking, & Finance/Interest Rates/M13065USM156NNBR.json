@@ -1,0 +1,18 @@
+{
+  "id": "M13065USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yields on Municipal Bonds, Lowest Rating for United States",
+  "observation_start": "1945-01-01",
+  "observation_end": "1966-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:52-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Data Refer To Baa Grade Bonds. Data Are Monthly Averages Of Published Weekly Figures. Data Beginning In 1962 Are Not Comparable With Previous Years. Source: Computed By NBER From Figures In Moody'S Bond Survey; Also See Federal Reserve Bulletins.\n\nThis NBER data series m13065 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13065"
+}

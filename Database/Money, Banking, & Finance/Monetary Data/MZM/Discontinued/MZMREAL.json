@@ -1,0 +1,18 @@
+{
+  "id": "MZMREAL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real MZM Money Stock (DISCONTINUED)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of 1982-84 Dollars",
+  "units_short": "Bil. of 1982-84 $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-12-10 10:33:02-06",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "This series has been discontinued and will no longer be updated. The institutional money market funds component (IMFSL (https://fred.stlouisfed.org/series/IMFSL)) used to calculate MZM has been discontinued by the Board of Governors and is no longer available in the H.6 statistical release, Money Stock Measures.\n\nFor further information about the changes to the H.6 statistical release, please see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nThis series deflates MZM money stock (MZMSL (https://fred.stlouisfed.org/series/MZMSL)) with CPI (CPIAUCSL (https://fred.stlouisfed.org/series/CPIAUCSL))."
+}

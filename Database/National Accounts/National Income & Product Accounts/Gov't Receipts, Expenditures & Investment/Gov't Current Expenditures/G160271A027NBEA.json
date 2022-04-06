@@ -1,0 +1,18 @@
+{
+  "id": "G160271A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Government current expenditures: Health",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-02 11:22:14-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "BEA Account Code: G16027\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

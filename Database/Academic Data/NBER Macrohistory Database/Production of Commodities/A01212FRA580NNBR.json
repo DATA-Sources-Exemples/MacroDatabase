@@ -1,0 +1,18 @@
+{
+  "id": "A01212FRA580NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Pig Iron Production for France",
+  "observation_start": "1868-01-01",
+  "observation_end": "1919-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Metric Tons",
+  "units_short": "Thous. Of Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Alsace-Lorraine Is Covered From 1871-1918. Source: Ministre Des Travaux Publics, Direction Des Mines, \"Statistique De L'Industrie Minerale\", 1870 And Following Issues (Checked With Annuaire Statistique, 1935, Pp. 80-81).\n\nThis NBER data series a01212 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01212"
+}

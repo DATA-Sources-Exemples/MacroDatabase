@@ -1,0 +1,18 @@
+{
+  "id": "M1499BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Commercial and Industrial Loans, Weekly Reporting Member Banks, Federal Reserve System for United States",
+  "observation_start": "1946-07-01",
+  "observation_end": "1953-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:33:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Twelve Variables--(1)--Original Data, 1937-1947 (2)--Seasonally Adjusted Data, 1937-1947 (3)--Original Data, 1946-1953 (4)--Seasonally Adjusted, 1946-1952 (5)--Original Data, 1952-1956 (6)--Seasonally Adjusted, 1952-1956 (7)--Original Data, 1955-1959 (8)--Seasonally Adjusted, 1955-1959 (9)--Original Data, 1959-1966 (10)--Seasonally Adjusted, 1959-1966 (11)--Original Data, 1965-1969 (12)--Seasonally Adjusted, 1965-1969. Data Are Revised To Increase And Improve Coverage, Particularly Through The Inclusion Of Consolidated Figures For All Branches Of All Reporting Member Banks, Regardless Of Location. Data Are For The Last Wednesday Of The Month. Coverage Includes Agricultural Loans. Source: Federal Reserve Board, Federal Reserve Bulletin, Successive Issues.\n\nThis NBER data series m14199b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14199b"
+}

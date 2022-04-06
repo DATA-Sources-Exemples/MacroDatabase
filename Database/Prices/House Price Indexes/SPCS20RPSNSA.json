@@ -1,7 +1,7 @@
 {
   "id": "SPCS20RPSNSA",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "S&P/Case-Shiller 20-City Home Price Sales Pair Counts",
   "observation_start": "2000-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-29 08:02:53-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "For more information regarding the index, please visit Standard & Poor's (https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-corelogic-cs-home-price-indices.pdf). There is more information about home price sales pairs in the Methodology section. Copyright, 2016, Standard & Poor's Financial Services LLC. Reprinted with permission."
 }

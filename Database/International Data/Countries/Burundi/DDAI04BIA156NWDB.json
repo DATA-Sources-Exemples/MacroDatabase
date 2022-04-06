@@ -1,0 +1,18 @@
+{
+  "id": "DDAI04BIA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Small Firms with a Bank Loan or Line of Credit to Total Small Firms for Burundi",
+  "observation_start": "2006-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-08-29 11:16:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Percentage of small firms (5-19 workers) in the formal sector with a line of credit or a loan from a (formal) financial institution, such as a bank, credit union, microfinance institution, or cooperative.\n\nSource Code: GFDD.AI.04"
+}

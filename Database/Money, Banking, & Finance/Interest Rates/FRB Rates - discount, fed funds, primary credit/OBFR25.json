@@ -1,0 +1,18 @@
+{
+  "id": "OBFR25",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Overnight Bank Funding Rate: 25th Percentile",
+  "observation_start": "2016-03-01",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 08:01:16-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "The overnight bank funding rate is calculated using federal funds transactions and certain Eurodollar transactions. The federal funds market consists of domestic unsecured borrowings in U.S. dollars by depository institutions from other depository institutions and certain other entities, primarily government-sponsored enterprises, while the Eurodollar market consists of unsecured U.S. dollar deposits held at banks or bank branches outside of the United States. U.S.-based banks can also take Eurodollar deposits domestically through international banking facilities (IBFs). The overnight bank funding rate (OBFR) is calculated as a volume-weighted median of overnight federal funds transactions and Eurodollar transactions reported in the FR 2420 Report of Selected Money Market Rates. For more information, see https://www.newyorkfed.org/markets/obfrinfo"
+}

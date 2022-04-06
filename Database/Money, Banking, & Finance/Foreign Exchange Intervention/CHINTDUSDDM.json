@@ -1,0 +1,18 @@
+{
+  "id": "CHINTDUSDDM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Swiss Intervention: Swiss National Bank Purchases of USD against DEM (Millions of USD)",
+  "observation_start": "1975-01-01",
+  "observation_end": "1998-12-31",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Millions of USD",
+  "units_short": "Mil. of USD",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2009-06-30 10:16:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright, 2016, Swiss National Bank.\n\n(+) numbers mean purchases of USD, (-) numbers mean sales of USD. Unpublished data."
+}

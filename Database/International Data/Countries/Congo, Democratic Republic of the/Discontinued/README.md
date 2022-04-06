@@ -1,2 +1,43 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                                    | observation_start   | observation_end   |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDAI01CDA642NWDB | Number of Bank Accounts for the Democratic Republic of the Congo (DISCONTINUED)                                                          | 2004-01-01          | 2014-01-01        |
+| DDAI02CDA643NWDB | Number of Bank Branches for the Democratic Republic of the Congo (DISCONTINUED)                                                          | 2004-01-01          | 2013-01-01        |
+| DDAI03CDA156NWDB | Firms with a Bank Loan or Line of Credit to Total Firms for the Democratic Republic of the Congo (DISCONTINUED)                          | 2006-01-01          | 2013-01-01        |
+| DDAI04CDA156NWDB | Small Firms with a Bank Loan or Line of Credit to Total Small Firms for the Democratic Republic of the Congo (DISCONTINUED)              | 2006-01-01          | 2013-01-01        |
+| DDAI05CDA156NWDB | People 15 Years and Over with Account at a Formal Financial Institution for the Democratic Republic of the Congo (DISCONTINUED)          | 2011-01-01          | 2014-01-01        |
+| DDAI06CDA156NWDB | People 15 Years and Over Saving at a Financial Institution in the Past Year for the Democratic Republic of the Congo (DISCONTINUED)      | 2011-01-01          | 2014-01-01        |
+| DDAI07CDA156NWDB | People 15 Years and Over Borrowing from a Financial Institution in the Past Year for the Democratic Republic of the Congo (DISCONTINUED) | 2011-01-01          | 2014-01-01        |
+| DDDI01CDA156NWDB | Private Credit by Deposit Money Banks to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                     | 1963-01-01          | 2014-01-01        |
+| DDDI02CDA156NWDB | Deposit Money Bank Assets to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                 | 1963-01-01          | 2014-01-01        |
+| DDDI03CDA156NWDB | Non-Bank Financial Institutions' Assets to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                   | 1973-01-01          | 1980-01-01        |
+| DDDI04CDA156NWDB | Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for the Democratic Republic of the Congo (DISCONTINUED)   | 1963-01-01          | 2014-01-01        |
+| DDDI05CDA156NWDB | Liquid Liabilities to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                        | 1963-01-01          | 2014-01-01        |
+| DDDI06CDA156NWDB | Central Bank Assets to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                       | 1963-01-01          | 2014-01-01        |
+| DDDI08CDA156NWDB | Financial System Deposits to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                 | 1963-01-01          | 2014-01-01        |
+| DDDI09CDA156NWDB | Life Insurance Premium Volume to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                             | 2000-01-01          | 2005-01-01        |
+| DDDI10CDA156NWDB | Non-Life Insurance Premium Volume to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                         | 2000-01-01          | 2009-01-01        |
+| DDDI11CDA156NWDB | Insurance Company Assets to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                  | 2005-01-01          | 2008-01-01        |
+| DDDI12CDA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for the Democratic Republic of the Congo (DISCONTINUED)    | 1963-01-01          | 2014-01-01        |
+| DDEI01CDA156NWDB | Bank's Net Interest Margin for the Democratic Republic of the Congo (DISCONTINUED)                                                       | 1999-01-01          | 2013-01-01        |
+| DDEI02CDA156NWDB | Bank Lending Deposit Spread for the Democratic Republic of the Congo (DISCONTINUED)                                                      | 2007-01-01          | 2013-01-01        |
+| DDEI03CDA156NWDB | Bank's Non-Interest Income to Total Income for the Democratic Republic of the Congo (DISCONTINUED)                                       | 1998-01-01          | 2013-01-01        |
+| DDEI04CDA156NWDB | Bank's Overhead Costs to Total Assets for the Democratic Republic of the Congo (DISCONTINUED)                                            | 1999-01-01          | 2013-01-01        |
+| DDEI05CDA156NWDB | Bank's Return on Assets for the Democratic Republic of the Congo (DISCONTINUED)                                                          | 1999-01-01          | 2013-01-01        |
+| DDEI06CDA156NWDB | Bank's Return on Equity for the Democratic Republic of the Congo (DISCONTINUED)                                                          | 1999-01-01          | 2013-01-01        |
+| DDEI07CDA156NWDB | Bank's Cost to Income Ratio for the Democratic Republic of the Congo (DISCONTINUED)                                                      | 1998-01-01          | 2013-01-01        |
+| DDEI08CDA156NWDB | Credit to Government and State-Owned Enterprises to GDP for the Democratic Republic of the Congo (DISCONTINUED)                          | 1987-01-01          | 2014-01-01        |
+| DDOE01CDA086NWDB | Consumer Price Index for the Democratic Republic of the Congo (DISCONTINUED)                                                             | 1963-01-01          | 2013-01-01        |
+| DDOE02CDA086NWDB | Consumer Price Index for the Democratic Republic of the Congo (DISCONTINUED)                                                             | 1963-01-01          | 2013-01-01        |
+| DDOI01CDA156NWDB | Bank Concentration for the Democratic Republic of the Congo (DISCONTINUED)                                                               | 2000-01-01          | 2013-01-01        |
+| DDOI02CDA156NWDB | Bank Deposits to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                             | 1963-01-01          | 2014-01-01        |
+| DDOI04CDA066NWDB | Lerner Index in Banking Market for the Democratic Republic of the Congo (DISCONTINUED)                                                   | 1996-01-01          | 2013-01-01        |
+| DDOI05CDA156NWDB | Boone Indicator in Banking Market for the Democratic Republic of the Congo (DISCONTINUED)                                                | 2000-01-01          | 2013-01-01        |
+| DDOI06CDA156NWDB | 5-Bank Asset Concentration for the Democratic Republic of the Congo (DISCONTINUED)                                                       | 2004-01-01          | 2013-01-01        |
+| DDOI07CDA648NWDB | Liquid Liabilities (Broad Money) for the Democratic Republic of the Congo (DISCONTINUED)                                                 | 1963-01-01          | 2014-01-01        |
+| DDOI09CDA156NWDB | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for the Democratic Republic of the Congo (DISCONTINUED)                       | 1995-01-01          | 2013-01-01        |
+| DDOI10CDA156NWDB | External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for the Democratic Republic of the Congo (DISCONTINUED) | 1995-01-01          | 2014-01-01        |
+| DDOI11CDA156NWDB | Remittance Inflows to GDP for the Democratic Republic of the Congo (DISCONTINUED)                                                        | 2005-01-01          | 2014-01-01        |
+| DDOI12CDA156NWDB | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for the Democratic Republic of the Congo (DISCONTINUED)                        | 1983-01-01          | 2014-01-01        |
+| DDSI01CDA645NWDB | Bank Z-Score for the Democratic Republic of the Congo (DISCONTINUED)                                                                     | 1999-01-01          | 2013-01-01        |
+| DDSI04CDA156NWDB | Bank Credit to Bank Deposits for the Democratic Republic of the Congo (DISCONTINUED)                                                     | 1963-01-01          | 2014-01-01        |
+| DDSI06CDA156NWDB | Liquid Assets to Deposits and Short Term Funding for the Democratic Republic of the Congo (DISCONTINUED)                                 | 1996-01-01          | 2013-01-01        |

@@ -1,0 +1,18 @@
+{
+  "id": "ANFCI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Chicago Fed Adjusted National Financial Conditions Index",
+  "observation_start": "1971-01-08",
+  "observation_end": "2022-03-25",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:33:24-05",
+  "popularity": 43,
+  "group_popularity": 43,
+  "notes": "The Chicago Fed\u2019s National Financial Conditions Index (NFCI) provides a comprehensive weekly update on U.S. financial conditions in money markets, debt and equity markets and the traditional and \u201cshadow\u201d banking systems. Positive values of the NFCI indicate financial conditions that are tighter than average, while negative values indicate financial conditions that are looser than average.\n\nThe adjusted NFCI (ANFCI). This index isolates a component of financial conditions uncorrelated with economic conditions to provide an update on how financial conditions compare with current economic conditions.\n\nFor further information, please visit the Federal Reserve Bank of Chicago's web site: http://www.chicagofed.org/webpages/publications/nfci/index.cfm"
+}

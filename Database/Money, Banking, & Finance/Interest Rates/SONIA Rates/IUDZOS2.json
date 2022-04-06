@@ -1,0 +1,18 @@
+{
+  "id": "IUDZOS2",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "SONIA Compounded Index",
+  "observation_start": "2018-04-23",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 05:01:03-05",
+  "popularity": 33,
+  "group_popularity": 33,
+  "notes": "The Sterling Overnight Index Average (SONIA) is the interest rate applied to bank transactions in the British Sterling Market during off hours.\n\nFor more information, please visit the Bank of England's explication on the key features and policies of SONIA. (https://www.bankofengland.co.uk/statistics/details/further-details-about-wholesale-interbank-sterling-market-data/)"
+}

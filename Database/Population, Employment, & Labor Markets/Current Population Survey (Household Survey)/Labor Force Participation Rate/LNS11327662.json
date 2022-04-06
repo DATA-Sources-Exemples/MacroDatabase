@@ -1,0 +1,18 @@
+{
+  "id": "LNS11327662",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Force Participation Rate - Bachelor's Degree and Higher, 25 Yrs. & over",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:44:35-05",
+  "popularity": 36,
+  "group_popularity": 38,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS11327662"
+}

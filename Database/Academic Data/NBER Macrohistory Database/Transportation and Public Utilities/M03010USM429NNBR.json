@@ -1,0 +1,18 @@
+{
+  "id": "M03010USM429NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railroad Revenue, Passenger-Miles, Total for United States",
+  "observation_start": "1919-03-01",
+  "observation_end": "1956-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Passenger-Miles",
+  "units_short": "Mil. Of Passenger-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:05:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Since Original Data Beginning July 1921 Were Obtained By Adding Commutation And Other Than Commutation, Rounded To Millions, The Final Digits Of Figures Presented Sometimes Differ From And Are Less Accurate Than Those Which Would Be Obtained By Rounding The Total Directly. Data For 1955-1956 Are Subject To Revision. Source: Interstate Commerce Commission, Data For 1920-June 1921: Statistics Of Railways In The U.S., 1922, P. Xcv; Data For July 1921-1956: Computed By NBER From Revenue Traffic Statistics Of Class I Steam Railroads -- Series 03012C (Railroad Revenue, Passenger-Miles, Commutation) And Series 03012D (Railroad Revenue Passenger-Miles, Other Than Commutation).\n\nThis NBER data series m03010 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03010"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DEUCPIBLS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index in Germany (DISCONTINUED)",
+  "observation_start": "1950-01-01",
+  "observation_end": "2012-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 1982-1984=100",
+  "units_short": "Index 1982-84=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-03-11 08:31:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Bureau of Labor Statistics (BLS) has eliminated the International Labor Comparisons (ILC) program. This is the last BLS release of international indexes of consumer prices."
+}

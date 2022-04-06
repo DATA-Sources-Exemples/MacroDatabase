@@ -1,0 +1,18 @@
+{
+  "id": "M1491BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Change in Commercial and Industrial Loans, Weekly Reporting Large Commercial Banks for United States",
+  "observation_start": "1965-07-01",
+  "observation_end": "1969-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:35:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data,1937-1965 (2)--Seasonally Adjusted Data, 1937-1965 (3)--Original Data, 1965-1969 (4)--Seasonally Adjusted Data, 1965-1969. Source: Federal Reserve Board, Federal Reserve Bulletins, Successive Issues.\n\nThis NBER data series m14191b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14191b"
+}

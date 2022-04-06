@@ -1,2 +1,29 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                                         | observation_start   | observation_end   |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DALEDUHA175AFRBDAL | Education and Health Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                            | 1990-01-01          | 2016-01-01        |
+| DALFIREA175AFRBDAL | Financial Activities Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                     | 1990-01-01          | 2016-01-01        |
+| DALGOODA175AFRBDAL | Goods Producing Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                          | 1990-01-01          | 2016-01-01        |
+| DALGOVTA175AFRBDAL | Government Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                               | 1990-01-01          | 2016-01-01        |
+| DALINFOA175AFRBDAL | Information Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                              | 1990-01-01          | 2016-01-01        |
+| DALK4A175AFRBDAL   | Truck Transportation Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                     | 1990-01-01          | 2016-01-01        |
+| DALLEIHA175AFRBDAL | Leisure and Hospitality Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                  | 1990-01-01          | 2016-01-01        |
+| DALM7A175AFRBDAL   | Telecommunications Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                       | 1990-01-01          | 2016-01-01        |
+| DALM8A175AFRBDAL   | Internet Service Providers, Search Portals and Data Processing Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)  | 1990-01-01          | 2016-01-01        |
+| DALMANUA175AFRBDAL | Manufacturing Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                            | 1990-01-01          | 2016-01-01        |
+| DALN0A175AFRBDAL   | Finance and Insurance Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                    | 1990-01-01          | 2016-01-01        |
+| DALNRMCA175AFRBDAL | Construction, Mining and Natural Resources Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                               | 1990-01-01          | 2016-01-01        |
+| DALO0A175AFRBDAL   | Real Estate and Rental and Leasing Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                       | 1990-01-01          | 2016-01-01        |
+| DALP11A175AFRBDAL  | Legal Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                           | 1990-01-01          | 2016-01-01        |
+| DALP13A175AFRBDAL  | Architectural, Engineering, and Related Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                         | 1990-01-01          | 2016-01-01        |
+| DALP15A175AFRBDAL  | Computer Systems Design and Related Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                             | 1990-01-01          | 2016-01-01        |
+| DALPBSVA175AFRBDAL | Professional and Business Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                       | 1990-01-01          | 2016-01-01        |
+| DALPRIVA175AFRBDAL | Private Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                                  | 1990-01-01          | 2016-01-01        |
+| DALR0A175AFRBDAL   | Administrative and Support and Waste Management and Remediation Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED) | 1990-01-01          | 2016-01-01        |
+| DALR1A175AFRBDAL   | Administrative and Support Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                      | 1990-01-01          | 2016-01-01        |
+| DALR13A175AFRBDAL  | Employment Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                      | 1990-01-01          | 2016-01-01        |
+| DALSA175AFRBDAL    | Total Nonfarm Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                            | 1990-01-01          | 2016-01-01        |
+| DALSERPA175AFRBDAL | Service-Providing Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                        | 1990-01-01          | 2016-01-01        |
+| DALSRVOA175AFRBDAL | Other Services Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                           | 1990-01-01          | 2016-01-01        |
+| DALTPUTA175AFRBDAL | Transportation, Warehousing and Utilities Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                | 1990-01-01          | 2016-01-01        |
+| DALTTULA175AFRBDAL | Trade, Transportation, and Utilities Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                     | 1990-01-01          | 2016-01-01        |
+| DALWTRDA175AFRBDAL | Wholesale Trade Payroll Employment for Dallas-Plano-Irving, TX (MSAD) (DISCONTINUED)                                                          | 1990-01-01          | 2016-01-01        |

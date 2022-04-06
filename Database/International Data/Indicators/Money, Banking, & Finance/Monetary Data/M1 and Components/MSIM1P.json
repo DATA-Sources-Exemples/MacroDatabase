@@ -1,0 +1,18 @@
+{
+  "id": "MSIM1P",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Monetary Services Index: M1 (preferred)",
+  "observation_start": "1967-01-01",
+  "observation_end": "2013-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2014-01-17 07:16:45-06",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "The MSI measure the flow of monetary services received each period by households and firms from their holdings of monetary assets (levels of the indexes are sometimes referred to as Divisia monetary aggregates)."
+}

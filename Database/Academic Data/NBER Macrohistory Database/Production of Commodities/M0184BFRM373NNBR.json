@@ -1,0 +1,18 @@
+{
+  "id": "M0184BFRM373NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Conditioned Wool Output for France",
+  "observation_start": "1922-01-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Metric Tons",
+  "units_short": "Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1925 (2)--Original Data, 1922-1939 Data Refer To Three Of The Principal French Centers For Conditioning, Rouboix, Tourcoing And Mazamet. Conditioning Refers To The Determination And Adjusting Of The Moisture Content. Beginning October 1924, Data Were Computed By NBER By Adding Rouboix And Tourcoing To Mazamet. Source: Bulletin De La Statistique, October 1924, P. 102 And Successive Issues."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DDDI04KMA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets for Comoros",
+  "observation_start": "1982-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:36:58-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Total assets held by deposit money banks as a share of sum of deposit money bank and Central Bank claims on domestic nonfinancial real sector. Assets include claims on domestic real nonfinancial sector which includes central, state and local governments, nonfinancial public enterprises and private sector. Deposit money banks comprise commercial banks and other financial institutions that accept transferable deposits, such as demand deposits.\n\nRaw data are from the electronic version of the IMF's International Financial Statistics. IFS lines 12 and 22, a-d). (International Monetary Fund, International Financial Statistics)\n\nSource Code: GFDD.DI.04"
+}

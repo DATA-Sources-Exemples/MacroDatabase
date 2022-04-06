@@ -1,0 +1,18 @@
+{
+  "id": "M13021USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Yields of High Grade Corporate and Municipal Bonds for United States",
+  "observation_start": "1900-01-01",
+  "observation_end": "1967-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:18:03-05",
+  "popularity": 14,
+  "group_popularity": 14,
+  "notes": "Source: Standard And Poor'S Corporation, Data For 1900-1928: Standard Statistics Co., Base Book; Standard Statistical Bulletin, January 1932, P. 125. Data For 1929-1967: Computed By NBER By Taking A Simple Average Of Four Series, All Based On Standard And Poor'S Data -- Series 13023 (Municipal Bonds); Series 13024 (Railroad Bonds); Series 13025 (Public Utilities); Series 13026 (Industrial Bonds).\n\nThis NBER data series m13021 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13021"
+}

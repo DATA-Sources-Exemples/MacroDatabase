@@ -1,0 +1,17 @@
+{
+  "id": "SMU15261804100000008A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings of Production Employees: Wholesale Trade in Honolulu, HI (MSA) (DISCONTINUED)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-24 19:55:10-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

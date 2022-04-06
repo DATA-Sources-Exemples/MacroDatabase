@@ -1,0 +1,18 @@
+{
+  "id": "BPPRIV037185",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Private Housing Structures Authorized by Building Permits for Warren County, NC",
+  "observation_start": "1990-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Units",
+  "units_short": "Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-05-04 14:16:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more."
+}

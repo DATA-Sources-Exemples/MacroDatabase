@@ -1,0 +1,18 @@
+{
+  "id": "CP0921ATM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Major Durables for Indoor and Outdoor Recreation Including Musical Instruments for Austria",
+  "observation_start": "1999-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:22:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Major Durables for Indoor and Outdoor Recreation Including Musical Instruments (09.2.1/2)\" is a classification of durable goods that includes camper vans, caravans, and trailers; airplanes, microlight aircraft, gliders, hang-gliders, and hot-air balloons; boats, outboard motors, sails, rigging, and superstructures; horses and ponies, horse or pony drawn vehicles and related equipment (harnesses, bridles, reins, saddles, etc.), major items for games and sport such as canoes, kayaks, wind-surfing boards, sea-diving equipment, and golf carts; musical instruments of all sizes, including electronic musical instruments, such as pianos, organs, violins, guitars, drums, trumpets, clarinets, flutes, recorders, harmonicas, etc.; billiard tables, ping-pong tables, pin-ball machines, gaming machines, etc.; and fitting out of boats, camper vans, caravans, etc.\nThis category excludes horses and ponies, horse or pony drawn vehicles and related equipment purchased for personal transport (07.1.4), toys (09.3.1), and inflatable boats, rafts, and swimming pools (09.3.2).\n\nThis category is a subcategory of the Recreation and Culture (09) and of Other Major Durables Recreation and Culture (09.2) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

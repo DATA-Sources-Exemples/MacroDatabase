@@ -1,0 +1,18 @@
+{
+  "id": "AUINTDGT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Government and other Counterparties (AUD Millions)",
+  "observation_start": "1983-12-12",
+  "observation_end": "2006-12-29",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Millions of AUD",
+  "units_short": "Mil. of AUD",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2008-03-03 14:31:27-06",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Copyright, 2016, Reserve Bank of Australia.\n\n(+) numbers mean purchases of USD, (-) numbers mean sales of USD. Unpublished data.\n\n\"How-to-use\" the Australian data, from the Reserve Bank of Australia.\nThe two series are:\n(1) The RBA's spot and forward transactions with dealers in the foreign\nexchange market.\n(2) The RBA's spot and forward transactions with the Australian Government\nand with 'other' counterparties.\nSome researchers have been using the first series as a proxy for foreign exchange market intervention, but this is not appropriate.\n\nThe RBA engages in spot or forward transactions with dealers in the market virtually every day. Most of these transactions are never intended to influence the exchange rate. Rather, they are intended to cover orders for foreign exchange from clients such as the Australian Government. When the RBA sells foreign exchange to a client, it has the choice of meeting this out of its holdings of foreign exchange (official reserves) or buying the equivalent amount of foreign exchange in the market. Most of the time it does the latter, though even then the timing of the sale and purchase may not coincide precisely as the RBA seeks to time its transactions in the market to achieve the most favourable exchange rate possible. The RBA can also engage in foreign exchange transactions with counterparties other than dealers as a means of covering client orders.\n\nIn isolation, therefore, RBA transactions with dealers should not be interpreted as a time series on intervention. A closer approximation of an \"intervention\" series would be provided by the net of the two series - i.e. the net of transactions with dealers and transactions with the Australian Government and other counterparties. But even this has shortcomings because, as noted above, the RBA does not always match market purchases against sales originating from client transactions on a daily basis. The net series, therefore, should be filtered to exclude small transactions to provide an indication of intervention.\"\n\nFurther information on these series are available from the following sites:\n\nhttp://www.rba.gov.au/publications/rdp/2004/2004-06.html\nhttp://www.rba.gov.au/publications/annual-reports/rba/2006/html/oper-fin-mkts.html\n\nThese series are made available only for research purposes.\n\nTable A4 of the Reserve Bank Bulletin also details transactions with the market, as well as transactions with the Government and 'other' parties, on a monthly basis. These data are available electronically from the RBA website. Note that the data published in the Bulletin are on a settlement (value date) basis. The series of transactions with 'other' counterparties also includes additional items not in the above daily series, notably interest earnings on reserves.\n\nhttp://www.rba.gov.au/statistics/tables/index.html#rba"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "INDPRO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Industrial Production: Total Index",
+  "observation_start": "1919-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2017=100",
+  "units_short": "Index 2017=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-17 08:19:02-05",
+  "popularity": 76,
+  "group_popularity": 76,
+  "notes": "The Industrial Production Index (INDPRO) is an economic indicator that measures real output for all facilities located in the United States manufacturing, mining, and electric, and gas utilities (excluding those in U.S. territories).(1)\nSince 1997, the Industrial Production Index has been determined from 312 individual series based on the 2007 North American Industrial Classification System (NAICS) codes. These individual series are classified in two ways (1) market groups and (2) industry groups. (1) The Board of Governors defines markets groups as products (aggregates of final products) and materials (inputs used in the manufacture of products). Consumer goods and business equipment can be examples of market groups. \"Industry groups are defined as three digit NAICS industries and aggregates of these industries such as durable and nondurable manufacturing, mining, and utilities.\"(1)(2)\nThe index is compiled on a monthly basis to bring attention to short- term changes in industrial production,. It measures movements in production output and highlights structural developments in the economy. (1) Growth in the production index from month to month is an indicator of growth in the industry.\nFor more information regarding the Industrial Production and Capacity Utilization index, see the explanatory notes (http://www.federalreserve.gov/releases/g17/IpNotes.htm) issued by the Board of Governors.\n\nReferences\n(1) Board of Governors of the Federal Reserve System. \"Industrial Production and Capacity Utilization.\" Statistical release G.17; May 2013.\n(1) For recent reports on market and industry groups, please visit the Board of Governors. (http://www.federalreserve.gov/releases/g17/Current/default.htm)"
+}

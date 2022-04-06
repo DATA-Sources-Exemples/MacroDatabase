@@ -1,0 +1,18 @@
+{
+  "id": "INTGSBKRM193N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Interest Rates, Government Securities, Government Bonds for Republic of Korea",
+  "observation_start": "1973-05-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent per Annum",
+  "units_short": "% per Annum",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-14 07:10:03-05",
+  "popularity": 15,
+  "group_popularity": 15,
+  "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

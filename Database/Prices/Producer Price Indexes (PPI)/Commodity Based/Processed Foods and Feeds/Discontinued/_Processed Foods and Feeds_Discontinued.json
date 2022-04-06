@@ -1,8 +1,8 @@
 {
   "WPS01PLUS02": {
     "id": "WPS01PLUS02",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Farm Products, Processed Foods and Feeds (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1974-12-01",
@@ -15,12 +15,12 @@
     "last_updated": "2015-05-14 10:44:45-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS02": {
     "id": "WPS02",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1974-12-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2015-05-14 10:44:44-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS024": {
     "id": "WPS024",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Processed Fruits and Vegetables (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "2008-12-01",
@@ -51,12 +51,12 @@
     "last_updated": "2015-05-14 10:44:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS025": {
     "id": "WPS025",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Sugar and Confectionery (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "2009-12-01",
@@ -69,12 +69,12 @@
     "last_updated": "2015-05-14 10:44:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS027": {
     "id": "WPS027",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Fats and Oils (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -87,12 +87,12 @@
     "last_updated": "2015-05-14 10:44:18-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS028": {
     "id": "WPS028",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Miscellaneous Processed Foods (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1972-12-01",
@@ -105,12 +105,12 @@
     "last_updated": "2015-05-14 10:44:15-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0212": {
     "id": "WPS0212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Flour and Flour Base Mixes and Doughs (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -123,12 +123,12 @@
     "last_updated": "2015-05-14 10:44:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0213": {
     "id": "WPS0213",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Milled Rice and Byproducts (DISCONTINUED)",
     "observation_start": "1973-01-01",
     "observation_end": "1989-12-01",
@@ -141,12 +141,12 @@
     "last_updated": "2015-05-14 10:44:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0234": {
     "id": "WPS0234",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Ice Cream and Frozen Desserts (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -159,12 +159,12 @@
     "last_updated": "2015-05-14 10:44:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0235": {
     "id": "WPS0235",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Dry, Condensed, and Evaporated Milk Products (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1991-12-01",
@@ -177,12 +177,12 @@
     "last_updated": "2015-05-14 10:44:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0241": {
     "id": "WPS0241",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Fruits and Juices (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2002-12-01",
@@ -195,12 +195,12 @@
     "last_updated": "2015-05-14 10:44:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0244": {
     "id": "WPS0244",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Vegetables and Juices (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2004-12-01",
@@ -213,12 +213,12 @@
     "last_updated": "2015-05-14 10:44:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0245": {
     "id": "WPS0245",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Frozen Vegetables (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2004-12-01",
@@ -231,12 +231,12 @@
     "last_updated": "2015-05-14 10:44:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0255": {
     "id": "WPS0255",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Confectionery End Products (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "1989-12-01",
@@ -249,12 +249,12 @@
     "last_updated": "2015-05-14 10:44:22-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0262": {
     "id": "WPS0262",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Soft Drinks (DISCONTINUED)",
     "observation_start": "1986-01-01",
     "observation_end": "2002-12-01",
@@ -267,12 +267,12 @@
     "last_updated": "2015-05-14 10:44:20-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0263": {
     "id": "WPS0263",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Packaged Beverage Materials (DISCONTINUED)",
     "observation_start": "1973-01-01",
     "observation_end": "1991-12-01",
@@ -285,12 +285,12 @@
     "last_updated": "2015-05-14 10:44:19-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0271": {
     "id": "WPS0271",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Animal Fats and Oils, Made in Slaughtering Plants (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "2009-12-01",
@@ -303,12 +303,12 @@
     "last_updated": "2015-05-14 10:44:18-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0281": {
     "id": "WPS0281",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Jams, Jellies, and Preserves (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "1989-12-01",
@@ -321,12 +321,12 @@
     "last_updated": "2015-05-14 10:44:14-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0282": {
     "id": "WPS0282",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Pickles and Other Pickled Products, Including Horseradish (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1994-12-01",
@@ -339,12 +339,12 @@
     "last_updated": "2015-05-14 10:44:14-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0284": {
     "id": "WPS0284",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Specialty Canning (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1998-12-01",
@@ -357,12 +357,12 @@
     "last_updated": "2015-05-14 10:44:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS0285": {
     "id": "WPS0285",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Frozen Specialty Food (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "2003-12-01",
@@ -375,12 +375,12 @@
     "last_updated": "2015-05-14 10:44:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS021108": {
     "id": "WPS021108",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Soft Cakes, Excluding Frozen (DISCONTINUED)",
     "observation_start": "2003-01-01",
     "observation_end": "2005-12-01",
@@ -393,12 +393,12 @@
     "last_updated": "2015-05-14 10:44:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS021121": {
     "id": "WPS021121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Cookies, Crackers, and Related Products (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2007-12-01",
@@ -411,12 +411,12 @@
     "last_updated": "2015-05-14 10:44:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS021203": {
     "id": "WPS021203",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Wheat Flour (DISCONTINUED)",
     "observation_start": "1973-01-01",
     "observation_end": "1989-12-01",
@@ -429,12 +429,12 @@
     "last_updated": "2015-05-14 10:44:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS021204": {
     "id": "WPS021204",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Flour Base Mixes and Doughs (DISCONTINUED)",
     "observation_start": "1973-01-01",
     "observation_end": "1989-12-01",
@@ -447,12 +447,12 @@
     "last_updated": "2015-05-14 10:44:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS021301": {
     "id": "WPS021301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Head Rice (DISCONTINUED)",
     "observation_start": "1984-07-01",
     "observation_end": "1989-12-01",
@@ -465,12 +465,12 @@
     "last_updated": "2015-05-14 10:44:41-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS021302": {
     "id": "WPS021302",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Milled Rice (Including Second Heads, Screenings, Brewers, Bran, Sharps, Rice Flour, and Byproducts) (DISCONTINUED)",
     "observation_start": "1995-01-01",
     "observation_end": "2003-12-01",
@@ -483,12 +483,12 @@
     "last_updated": "2015-05-14 10:44:41-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS022103": {
     "id": "WPS022103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Lamb/Mutton, Fresh or Frozen, Not Canned or Made Into Sausage, Made in Slaughtering Plants (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2004-12-01",
@@ -501,12 +501,12 @@
     "last_updated": "2015-05-14 10:44:37-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS022208": {
     "id": "WPS022208",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned, Cooked, Smoked or Prepared Poultry (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "1996-12-01",
@@ -519,12 +519,12 @@
     "last_updated": "2015-05-14 10:44:36-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS022301": {
     "id": "WPS022301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Unprocessed Finfish (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1992-12-01",
@@ -537,12 +537,12 @@
     "last_updated": "2015-05-14 10:44:34-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS023104": {
     "id": "WPS023104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Cottage Cheese (DISCONTINUED)",
     "observation_start": "1986-01-01",
     "observation_end": "1989-12-01",
@@ -555,12 +555,12 @@
     "last_updated": "2015-05-14 10:44:33-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS023502": {
     "id": "WPS023502",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Dry Milk Products, Including Feed Grade (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1990-12-01",
@@ -573,12 +573,12 @@
     "last_updated": "2015-05-14 10:44:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS024101": {
     "id": "WPS024101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Fruits, Excluding Baby Foods (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -591,12 +591,12 @@
     "last_updated": "2015-05-14 10:44:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS024102": {
     "id": "WPS024102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned and Fresh Fruit Juices, Nectars, and Concentrates (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2002-12-01",
@@ -609,12 +609,12 @@
     "last_updated": "2015-05-14 10:44:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS024401": {
     "id": "WPS024401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Vegetables and Juices (DISCONTINUED)",
     "observation_start": "2002-01-01",
     "observation_end": "2004-12-01",
@@ -627,12 +627,12 @@
     "last_updated": "2015-05-14 10:44:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS024505": {
     "id": "WPS024505",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Frozen Vegetables, Other Than Potato Products (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "2004-12-01",
@@ -645,12 +645,12 @@
     "last_updated": "2015-05-14 10:44:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS025201": {
     "id": "WPS025201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Raw Cane Sugar and Sugarcane Mill Products and Byproducts (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "1989-12-01",
@@ -663,12 +663,12 @@
     "last_updated": "2015-05-14 10:44:23-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS025502": {
     "id": "WPS025502",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Chewing Gum, Bubble Gum, and Chewing Gum Base (DISCONTINUED)",
     "observation_start": "1980-01-01",
     "observation_end": "1989-12-01",
@@ -681,12 +681,12 @@
     "last_updated": "2015-05-14 10:44:22-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS025504": {
     "id": "WPS025504",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Sweetening Syrups and Molasses (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1991-06-01",
@@ -698,13 +698,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2015-05-14 10:44:22-05",
     "popularity": 1,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS026301": {
     "id": "WPS026301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Coffee (Whole Bean, Ground, and Instant) (DISCONTINUED)",
     "observation_start": "1974-01-01",
     "observation_end": "1991-12-01",
@@ -717,12 +717,12 @@
     "last_updated": "2015-05-14 10:44:18-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS026303": {
     "id": "WPS026303",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Tea in Consumer Packages, Excluding Canned Ice Tea (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -735,12 +735,12 @@
     "last_updated": "2015-05-14 10:44:18-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS027101": {
     "id": "WPS027101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Lard, Made in Slaughtering Plants (DISCONTINUED)",
     "observation_start": "2006-01-01",
     "observation_end": "2009-12-01",
@@ -753,12 +753,12 @@
     "last_updated": "2015-05-14 10:44:17-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS028201": {
     "id": "WPS028201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Pickles and Other Pickled Products (DISCONTINUED)",
     "observation_start": "1991-07-01",
     "observation_end": "1994-12-01",
@@ -771,12 +771,12 @@
     "last_updated": "2015-05-14 10:44:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS028401": {
     "id": "WPS028401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Specialty Canning (DISCONTINUED)",
     "observation_start": "1993-01-01",
     "observation_end": "1998-12-01",
@@ -789,12 +789,12 @@
     "last_updated": "2015-05-14 10:44:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS028501": {
     "id": "WPS028501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Frozen Specialty Food (DISCONTINUED)",
     "observation_start": "2000-01-01",
     "observation_end": "2003-12-01",
@@ -807,12 +807,12 @@
     "last_updated": "2015-05-14 10:44:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPS029402": {
     "id": "WPS029402",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Pet Food (DISCONTINUED)",
     "observation_start": "1988-01-01",
     "observation_end": "2008-12-01",
@@ -825,12 +825,12 @@
     "last_updated": "2015-05-14 10:44:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU025504": {
     "id": "WPU025504",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Sweetening Syrups and Molasses (DISCONTINUED)",
     "observation_start": "1985-12-01",
     "observation_end": "2013-11-01",
@@ -842,13 +842,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-05-14 10:33:41-05",
     "popularity": 1,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU02230134": {
     "id": "WPU02230134",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Sablefish (DISCONTINUED)",
     "observation_start": "1991-12-01",
     "observation_end": "2001-10-01",
@@ -861,12 +861,12 @@
     "last_updated": "2015-05-14 10:34:49-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU02230599": {
     "id": "WPU02230599",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Other Shellfish (DISCONTINUED)",
     "observation_start": "1991-12-01",
     "observation_end": "2016-01-01",
@@ -879,12 +879,12 @@
     "last_updated": "2016-02-17 10:34:35-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU02550401": {
     "id": "WPU02550401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Sweetening Syrups and Molasses (DISCONTINUED)",
     "observation_start": "2002-06-01",
     "observation_end": "2013-11-01",
@@ -895,14 +895,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-05-14 10:33:40-05",
-    "popularity": 2,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "popularity": 4,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU02890171": {
     "id": "WPU02890171",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Desserts, Ready-to-Mix (DISCONTINUED)",
     "observation_start": "1998-07-01",
     "observation_end": "2008-12-01",
@@ -915,12 +915,12 @@
     "last_updated": "2015-05-14 10:33:30-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU022105863": {
     "id": "WPU022105863",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Frozen Ground Meat Patties, made from Purchased Carcasses (DISCONTINUED)",
     "observation_start": "2008-06-01",
     "observation_end": "2016-09-01",
@@ -933,12 +933,12 @@
     "last_updated": "2016-10-14 10:03:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   },
   "WPU0248010103": {
     "id": "WPU0248010103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Macaroni/Noodle Products, Purchased, Packaged with Other Ingredient, Excluding Canned/Frozen (DISCONTINUED)",
     "observation_start": "2011-12-01",
     "observation_end": "2012-03-01",
@@ -951,6 +951,6 @@
     "last_updated": "2015-05-14 10:33:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Processed Foods and Feeds"
   }
 }

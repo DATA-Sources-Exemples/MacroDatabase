@@ -1,0 +1,18 @@
+{
+  "id": "M0140AUS27900M526NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Lead Ore Shipments for Joplin, MO",
+  "observation_start": "1895-01-01",
+  "observation_end": "1928-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Short Tons per Week",
+  "units_short": "Short Tons Per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:49:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1895-1928 (2)--Original Data, 1923-1941. The Joplin District, Sometimes Called The Tri-State District, Includes Parts Of Missouri, Kansas, And Oklahoma. Data For 1895 (From The February 1, 1896 Engineering And Mining Journal) Are Weekly Averages Derived By NBER By Dividing Monthly Figures By Four Or Five Depending On The Number Of Weeks Ending On Saturday Having A Majority Of Days In A Given Month. Data For 1896-1903 Represent The Average Of Turn-Outs In Mining Camps Given For Previous Weeks In Successive Weekly Issues Of The Source. Where A Figure Was Omitted, Cumulative Totals Were Used To Obtain The Missing Week. Figures Given Originally In Pounds Have Been Converted To Short Tons By NBER By Dividing By 2000. Weekly Averages Were Computed From Weeks Ending On Saturday, Having A Majority Of Days In A Given Month. Data For 1904-1928 Were Given In Successive Issues Of The Source For Current Week, Similar Week In Previous Year, And Previous Week. The Previous Year Figure Was Used Whenever Possible, But Where Its Accuracy Was Questioned, Cumulative Totals Were Used To Determine The Most Reasonable Figure. Area Covered Is U.S.-- Joplin District. Source: Data For 1895-1903: Engineering And Mining Journal, February 1, 1896, P. 118, And Following Issues. Data For 1904-1928: New York Metal Exchange, Official Daily Market Reports.\n\nThis NBER data series m01140a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01140a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M14024USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Individual Deposits, National Banks, Reserve Cities Other Than Central for United States",
+  "observation_start": "1882-10-01",
+  "observation_end": "1914-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:29-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Monthly Coverage Varies From Year To Year. All Years Have Scattered Five Month Coverage, Except For 1882, Which Has Coverage Only For October And December, And 1914 Which Has Coverage For Six Months. Data Exclude Chicago And St. Louis. For October And December Of 1914 Unpaid Dividends Were Obtained By Summing Data For Individual Cities As No Composite Figures Were Given. Source: Annual Reports Of The Comptroller Of The Currency.\n\nThis NBER data series m14024 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14024"
+}

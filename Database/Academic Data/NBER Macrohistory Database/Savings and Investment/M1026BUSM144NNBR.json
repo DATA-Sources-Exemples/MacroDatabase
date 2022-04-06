@@ -1,0 +1,18 @@
+{
+  "id": "M1026BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Securities Offered for Cash, Estimated Gross Proceeds, Public Utility Industry, Total Securities for United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1964-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:17:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1934-1948 (2)--Original Data, 1948-1964. Coverage Includes Issues For Electric, Gas, And Water Companies. The New Groups \"Communication\" And \"Transportation Other Than Railroad\", If Added To The Figures Would Not Result In Estimates Comparable To The Variable Covering 1934-1948, Because Certain Companies Such As Aviation And Radio, Now Covered By These Two Groups Were Classified Under\"Industrial And Miscellaneous\" Under The Old Classification System. Source: Survey Of Current Business, Monthly Issues And Securities And Exchange Commission, Statistical Bulletin, Monthly Issues\n\nThis NBER data series m10126b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10126b"
+}

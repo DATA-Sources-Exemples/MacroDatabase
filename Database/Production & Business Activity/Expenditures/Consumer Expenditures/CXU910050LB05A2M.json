@@ -1,0 +1,18 @@
+{
+  "id": "CXU910050LB05A2M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Other Financial Information: Estimated Monthly Rental Value of Owned Home by Size of Consumer Unit: Six or More People in Consumer Unit",
+  "observation_start": "1984-01-01",
+  "observation_end": "1987-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-01-15 11:14:37-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Size refers to the number of persons whose usual place of residence at the time of the interview is in the sample unit.\n\nA consumer unit comprises either: (1) all members of a particular household who are related by blood, marriage, adoption, or other legal arrangements; (2) a person living alone or sharing a household with others or living as a roomer in a private home or lodging house or in permanent living quarters in a hotel or motel, but who is financially independent; or (3) two or more persons living together who use their income to make joint expenditure decisions. Financial independence is determined by the three major expense categories: Housing, food, and other living expenses. To be considered financially independent, at least two of the three major expense categories have to be provided entirely, or in part, by the respondent.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
+}

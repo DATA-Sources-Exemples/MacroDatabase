@@ -1,8 +1,8 @@
 {
   "CEORPEPIBLEND": {
     "id": "CEORPEPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -16,12 +16,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "CEORPEPIMEPS": {
     "id": "CEORPEPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -35,12 +35,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "COEYEQPIHCSA": {
     "id": "COEYEQPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Corrective Eyeglasses and Contact Lenses Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -54,12 +54,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "COGANOPIBLEND": {
     "id": "COGANOPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Congenital Anomalies Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -73,12 +73,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "COGANOPIMEPS": {
     "id": "COGANOPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Congenital Anomalies Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -92,12 +92,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "COPRCHPIBLEND": {
     "id": "COPRCHPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -111,12 +111,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "COPRCHPIMEPS": {
     "id": "COPRCHPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -130,12 +130,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DENSERPIHCSA": {
     "id": "DENSERPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Provider: Dental Services Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -146,15 +146,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:46-06",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIBLBOPIBLEND": {
     "id": "DIBLBOPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -168,12 +168,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIBLBOPIMEPS": {
     "id": "DIBLBOPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -187,12 +187,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DICISYPIBLEND": {
     "id": "DICISYPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Circulatory System Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -206,12 +206,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DICISYPIMEPS": {
     "id": "DICISYPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Circulatory System Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -225,12 +225,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIDISYPIBLEND": {
     "id": "DIDISYPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Digestive System Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -244,12 +244,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIDISYPIMEPS": {
     "id": "DIDISYPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Digestive System Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -263,12 +263,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIGESYPIBLEND": {
     "id": "DIGESYPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Genitourinary System Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -282,12 +282,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIGESYPIMEPS": {
     "id": "DIGESYPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Genitourinary System Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -301,12 +301,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIMSCTPIBLEND": {
     "id": "DIMSCTPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -320,12 +320,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIMSCTPIMEPS": {
     "id": "DIMSCTPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -339,12 +339,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIRESYPIBLEND": {
     "id": "DIRESYPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Respiratory System Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -358,12 +358,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DIRESYPIMEPS": {
     "id": "DIRESYPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Respiratory System Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -377,12 +377,12 @@
     "popularity": 2,
     "group_popularity": 2,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DISKSOPIBLEND": {
     "id": "DISKSOPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -396,12 +396,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DISKSOPIMEPS": {
     "id": "DISKSOPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -415,12 +415,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DISOTHPIBLEND": {
     "id": "DISOTHPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -434,12 +434,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DISOTHPIMEPS": {
     "id": "DISOTHPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -453,12 +453,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DONSSOPIBLEND": {
     "id": "DONSSOPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -472,12 +472,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "DONSSOPIMEPS": {
     "id": "DONSSOPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -491,12 +491,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "EDCNMIPIBLEND": {
     "id": "EDCNMIPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -510,12 +510,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "EDCNMIPIMEPS": {
     "id": "EDCNMIPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -529,12 +529,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "HLTHSCPIBLEND": {
     "id": "HLTHSCPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Health Expenditures Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -548,12 +548,12 @@
     "popularity": 4,
     "group_popularity": 4,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "HLTHSCPIMEPS": {
     "id": "HLTHSCPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Health Expenditures Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -564,15 +564,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:05-06",
-    "popularity": 13,
-    "group_popularity": 13,
+    "popularity": 17,
+    "group_popularity": 17,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "HLTHSEPIBLEND": {
     "id": "HLTHSEPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Health Services Expenditures Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -586,12 +586,12 @@
     "popularity": 2,
     "group_popularity": 2,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "HLTHSEPIMEPS": {
     "id": "HLTHSEPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Health Services Expenditures Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -602,15 +602,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:11-06",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "INFAPSPIBLEND": {
     "id": "INFAPSPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -624,12 +624,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "INFAPSPIMEPS": {
     "id": "INFAPSPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -643,12 +643,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "INJPOIPIBLEND": {
     "id": "INJPOIPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Injury and Poisoning Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -662,12 +662,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "INJPOIPIMEPS": {
     "id": "INJPOIPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Injury and Poisoning Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -681,12 +681,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "MDSBDSPIBLEND": {
     "id": "MDSBDSPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -700,12 +700,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "MDSBDSPIMEPS": {
     "id": "MDSBDSPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -719,12 +719,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "MEAPEQPIHCSA": {
     "id": "MEAPEQPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Products, Appliances and Equipment Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -738,12 +738,12 @@
     "popularity": 9,
     "group_popularity": 9,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "MESEPRPIHCSA": {
     "id": "MESEPRPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Provider Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -754,15 +754,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:22-06",
-    "popularity": 6,
-    "group_popularity": 6,
+    "popularity": 5,
+    "group_popularity": 5,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "MNINEIPIBLEND": {
     "id": "MNINEIPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Mental Illness Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -776,12 +776,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "MNINEIPIMEPS": {
     "id": "MNINEIPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Mental Illness Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -792,15 +792,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:05-06",
-    "popularity": 9,
-    "group_popularity": 9,
+    "popularity": 12,
+    "group_popularity": 12,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "NONDRGPIHCSA": {
     "id": "NONDRGPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Nonprescription Drugs Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -811,15 +811,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:23-06",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "NONUHOPIHCSA": {
     "id": "NONUHOPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -833,12 +833,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "NPSMSMPIBLEND": {
     "id": "NPSMSMPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Neoplasms Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -852,12 +852,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "NPSMSMPIMEPS": {
     "id": "NPSMSMPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Neoplasms Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -871,12 +871,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "NURHOMPIHCSA": {
     "id": "NURHOMPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Provider: Nursing Homes Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -890,12 +890,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "OTMEPRPIHCSA": {
     "id": "OTMEPRPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Other Medical Products Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -909,12 +909,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "PHMEPRPIHCSA": {
     "id": "PHMEPRPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Pharmaceutical and Other Medical Products Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -925,15 +925,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:03-06",
-    "popularity": 24,
-    "group_popularity": 24,
+    "popularity": 25,
+    "group_popularity": 25,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "PHPRDRPIHCSA": {
     "id": "PHPRDRPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Pharmaceutical Products (Without Prescription Drugs) Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -947,12 +947,12 @@
     "popularity": 2,
     "group_popularity": 2,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "PRGONUPIHCSA": {
     "id": "PRGONUPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -966,12 +966,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "RECOUNPIBLEND": {
     "id": "RECOUNPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -982,15 +982,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:28:46-06",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "RECOUNPIMEPS": {
     "id": "RECOUNPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -1004,12 +1004,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "SYSIILPIBLEND": {
     "id": "SYSIILPIBLEND",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions Price Index, Blended Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -1023,12 +1023,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "SYSIILPIMEPS": {
     "id": "SYSIILPIMEPS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions Price Index, MEPS Account Basis",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -1039,15 +1039,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:27:25-06",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "THAPEQPIHCSA": {
     "id": "THAPEQPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Therapeutic Appliances and Equipment Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -1058,15 +1058,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-19 15:28:51-06",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   },
   "THMEEQPIHCSA": {
     "id": "THMEEQPIHCSA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Therapeutic Medical Equipment Expenditures Price Index",
     "observation_start": "2000-01-01",
     "observation_end": "2019-01-01",
@@ -1080,6 +1080,6 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "As stated by the source, the Health Care Satellite Account presents two versions of the accounts. One version uses data from the Medical Expenditure Panel Survey (MEPS) - referred to as the \"MEPS Account\" - which is the only nationally representative survey that contains detailed expenditure information by disease. Due to the relatively small sample size the MEPS Account produces more volatile estimates across years. To address this issue, BEA presents a second version of the satellite account - referred to as the \"Blended Account\" - which blends together data from multiple sources, including large claims databases that cover millions of enrollees and billions of claims. The key difference is that the MEPS Account and Blended Account use different methodologies and data sources to allocate expenditures across different diseases within the medical services by disease category.\n\nFor more information see http://www.bea.gov/national/health_care_satellite_account.htm",
-    "path": "Database/Prices/Health Care Indexes"
+    "path": "../Database/Prices/Health Care Indexes"
   }
 }

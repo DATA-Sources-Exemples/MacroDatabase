@@ -1,0 +1,18 @@
+{
+  "id": "M03021DEM584NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Kiel Canal Traffic for Germany",
+  "observation_start": "1895-07-01",
+  "observation_end": "1935-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Net Tons (Registered)",
+  "units_short": "Thous. Of Net Tons (Registered)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:05:06-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Coverage Excludes Warships, Official Boats And Canal Working Boats Throughout; After March 1921, Sport Ships Are Also Excluded. The Kiel Canal Was At One Point Known As The Kaiser Wilhelm Canal. Source: Statistiches Reichsamt, \"Vierteljahreshefte Zur Statistik Des Deutchen Reiches\", 1896 And Following Years.\n\nThis NBER data series m03021 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03021"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "G7LRHUADFESTQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labour Force Survey - quarterly rates: Harmonised unemployment - monthly rates: Aged 25 and over: Females for G7",
+  "observation_start": "2004-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-07-23 12:39:46-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: LRHUADFE OECD unit ID: ST OECD country ID: G-7 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

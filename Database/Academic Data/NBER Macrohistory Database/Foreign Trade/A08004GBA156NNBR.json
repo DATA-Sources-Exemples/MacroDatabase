@@ -1,0 +1,18 @@
+{
+  "id": "A08004GBA156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employment in the Amalgamated Society of Carpenters and Joiners for Great Britain",
+  "observation_start": "1860-01-01",
+  "observation_end": "1914-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage",
+  "units_short": "Percentage",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:31:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Computed By NBER By Taking Complement Of Unemployment Percentage. These Figures Are Available To Date. Source: N.H.Beveridge, Unemployment (1930, Pp.451-2 For 1860-1913), And Great Britain, 13Th And 17Th Abstract Of Labor Statistics 1907-8, P.4.\n\nThis NBER data series a08004 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08004"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0133CGBM418NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Coal Production for Great Britain",
+  "observation_start": "1917-01-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Long Tons",
+  "units_short": "Mil. Of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:55-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1917-May 1919 Were Computed From Figures Given For Four Week Periods Ending On Given Dates. These Figures Were Aggregated On A Basis Of Four And Five Week Months Applying The Principle That Weeks Ending Up To The Third Of The Month Belong To The Preceeding Month. Data For June 1919 On Were Computed From Weekly Figures. Data For April-June 1921 Are Averages Of Total Three Month Production Of .18 Million Long Tons. Coal Strike During This Period Limited Production And Reporting. Data For May-November 1926 Reflect Impact Of Coal Strike; Data For This Period Are From The Annual Report Of The Secretary For Mines, 1926, P. 82, In Footnote. Source: Computed By NBER From Data Found In Board Of Trade Journal, February 27, 1919, P. 269; June 12, 1919, P. 744; And Later Issues.\n\nThis NBER data series m01133c appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01133c"
+}

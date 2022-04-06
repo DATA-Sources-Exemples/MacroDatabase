@@ -1,0 +1,18 @@
+{
+  "id": "M08063USM506NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Wages, Steel Workers, Youngstown District for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1938-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Base Scale",
+  "units_short": "% Base Scale",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:21:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Series Is Compiled From Data Furnished By The Western Sheet And Tin Plate Manufacturers' Association And The Amalgamated Association Of Iron And Steel And Tin Workers. The Wage Scales Are Based On The Price Of Steel Sheets In The Previous 2 Month Period As Ascertained By Actual Prices Received By Mills, And The Wages Increase Or Decrease Of 1.5 % For Each 5 Cents Per 100 Pounds Increase Or Decrease In The Price Base Of $2.15 Per 100 Pounds. Then The Base Was Raised To $2.50 As Of June, 1932 (According To A Letter In Dr. Wolman'S File, The Date Is July, 1932) In Order To Affect A Wage Reduction Independently From Price Changes; The Original Base Of $2.15 Was Again Adopted In July, 1934. Source: Survey Of Current Business, May, 1926 (No. 57, P. 13), 1932 Supplement, P. 70-71, And 1936 Supplement, Pp. 42, Monthly Issues Through October, 1938.\n\nThis NBER data series m08063 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08063"
+}

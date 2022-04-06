@@ -1,0 +1,18 @@
+{
+  "id": "M13009USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Discount Rates, Federal Reserve Bank of New York for United States",
+  "observation_start": "1914-11-01",
+  "observation_end": "1969-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:07-05",
+  "popularity": 31,
+  "group_popularity": 31,
+  "notes": "Data Are Computed By NBER By Taking Simple Averages Of Rates For Commercial, Agricultural, And Livestock Paper, And Weighting Them By The Number Of Days Each Rate Was In Force. Data Are For All Classes And Maturities Of Discount Bills. Source: Federal Reserve Board, Data For 1914-1922: \"Discount Rates Of Federal Reserve Banks, 1914-1921\", 1922. Data For 1922-1969: Annual Reports For 1931-1942; Federal Reserve Bulletin, Successive Issues.\n\nThis NBER data series m13009 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13009"
+}

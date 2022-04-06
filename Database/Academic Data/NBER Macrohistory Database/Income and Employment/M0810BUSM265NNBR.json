@@ -1,0 +1,18 @@
+{
+  "id": "M0810BUSM265NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Iron and Steel Manufacturing for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1959-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Hour",
+  "units_short": "Cents Per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:21:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1932-1959. Source: For 1932-1952, Bureau Of Labor Statistics, Employment, Hours, And Earnings, Manufacturing Division, Primary Metal Industries (Sic Group 331):\"Blast, Furnaces, Steel Work, And Rolling Mills\", Releases (February, 1953) And (May, 1955), Not Numbered; For 1953-1959, June, 1956 And July, 1958 Releases (Pp. 202-203A In Summary Tabulation), Monthly Labor Review, And\"Employment And Earnings\",\n\nThis NBER data series m08210b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08210b"
+}

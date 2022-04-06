@@ -1,0 +1,18 @@
+{
+  "id": "INTRESEXCW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Interest Rate Paid on Balances Maintained That Exceed the Top of the Penalty-Free Band (DISCONTINUED)",
+  "observation_start": "2013-07-03",
+  "observation_end": "2015-07-22",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-07-23 15:41:44-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Balances maintained that exceed the top of the penalty-free band are remunerated at the interest rate to be paid on excess balances.\n\nEffective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks.\nEffective July 23, 2015, the Federal Reserve Board changed the formula for calculating interest for depository institutions with excess balances. The new formula is based on the daily interest rate on excess reserves (IOER rate) and the daily balance maintained, rather than the maintenance period IOER rate and the average balance maintained over the maintenance period. The IOER and IORR rates effective for a given day are now published on the \"Interest on Required Balances and Excess Balances\" page on the Federal Reserve Board's website at http://www.federalreserve.gov/monetarypolicy/reqresbalances.htm"
+}

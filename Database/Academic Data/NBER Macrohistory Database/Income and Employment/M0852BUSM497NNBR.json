@@ -1,0 +1,18 @@
+{
+  "id": "M0852BUSM497NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Turnover, Layoff Rate, Manufacturing for United States",
+  "observation_start": "1930-01-01",
+  "observation_end": "1968-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number per 100 Employees",
+  "units_short": "Number Per 100 Employees",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:28:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1930 (2)--Original Data, 1930-1968. Data Were Revised On The Basis Of The 1957 Standard Industrial Classification. Beginning In 1943, Labor Turnover Rates Refer To All Employees; Previously Only Production Workers Were Covered. Source: Bureau Of Labor Statistics, For 1930-June, 1961 Data: Employment And Earnings Statistics For The United States, 1909-1960, Bls Bulletins No. 1312 (1312-1, 1961 Etc.); For July, 1961-1968 Data: Factory Labor Turnover, Monthly Bls Release.\n\nThis NBER data series m08252b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08252b"
+}

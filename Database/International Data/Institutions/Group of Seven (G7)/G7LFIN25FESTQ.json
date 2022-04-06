@@ -1,0 +1,18 @@
+{
+  "id": "G7LFIN25FESTQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labour Force Survey - quarterly levels: Inactive population: Aged 25-54: Females for G7",
+  "observation_start": "2003-04-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-07-23 12:41:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: LFIN25FE OECD unit ID: ST OECD country ID: G-7 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

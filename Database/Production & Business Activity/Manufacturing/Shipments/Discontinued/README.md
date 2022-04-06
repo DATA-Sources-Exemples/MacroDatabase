@@ -1,2 +1,4 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id     | title                                                                                                                                                | observation_start   | observation_end   |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| A34GVS | Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Semiconductors and Related Devices (DISCONTINUED) | 1992-01-01          | 2010-03-01        |
+| U34GVS | Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Semiconductors and Related Devices (DISCONTINUED) | 1992-01-01          | 2010-03-01        |

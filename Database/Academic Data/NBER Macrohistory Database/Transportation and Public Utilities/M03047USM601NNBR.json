@@ -1,0 +1,18 @@
+{
+  "id": "M03047USM601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Tons of Coal or Equivalent Consumed in Road Freight Services, Class I Railroads for the United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1943-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:01:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include Allowances For Fuel Oil Consumed By Steam Locomotives But, Prior To 1935 (Or 1936) Not For Fuel Or Power Consumed By Other Types Of Locomotives. In 1941 Less Than Three Percent Of The Total Locomotive Mileage Was Performed By These Types. Data For 1920-1936 Exclude Switching And Terminal Companies; Data For 1937-1942 Include Terminal And Switching Companies. 1937 Figures Excluding These Companies Show The Difference To Be Negligible. Data For January 1920 Were Derived By Subtracting The Known February Figure From A Two Month Cumulative Total. Data For 1935 Are As First Published; They Were Not Published With Revisions In The Following Year As Was The Case With All Other Years. Source: Interstate Commerce Commission, Data For 1920-1935: \"Freight And Passenger Service Operating Statistics Of Class I Steam Railways In The United States\". Data For 1936-1942: \"Fuel And Power For Locomotives And Railmotor Carriers Of Class I Steam Railways In The United States\".\n\nThis NBER data series m03047 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03047"
+}

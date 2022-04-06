@@ -1,0 +1,18 @@
+{
+  "id": "M03017FRM324SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Receipts from Railways for France",
+  "observation_start": "1898-01-01",
+  "observation_end": "1937-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 14:02:19-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1898-1914 Are Based On Weekly Receipts Published In\"L'Official\" And The Mean Of Weekly Receipts Of Six Large Systems Computed By Jean Dessicier. Data For This Period Are Not Smoothed By A Three Month Moving Average, Although The Author Does Present Such A Set Of Figures In His Article. Data For 1921-1937 Are Based On The Average Weekly Figures Of Gross Receipts And Are Adjusted For Varying Traffic Rates. Data Cover Seven Railroads: Etat, Alsace-Lorraine, Nord, Est, Midi, Orleans, And P-L-M. Source: Data For 1898-1914: Jean Dessicier, \"Journal De La Societe De Statistique De Paris\", 1929, P. 80-83. Data For 1921-1931: \"Indices Generaux Du Movement Economique En France, 1901-1931\", Pp. 105, 156. Data For 1931-35: Furnished Directly By Statistique Generale.\n\nThis NBER data series m03017 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03017"
+}

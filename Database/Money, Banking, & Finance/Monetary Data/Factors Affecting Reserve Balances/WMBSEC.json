@@ -1,0 +1,18 @@
+{
+  "id": "WMBSEC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Securities Held Outright: Mortgage-Backed Securities: Week Average",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:34:07-05",
+  "popularity": 33,
+  "group_popularity": 33,
+  "notes": "On November 25, 2008, the Federal Reserve announced a program to purchase mortgage-backed securities guaranteed by Fannie Mae, Freddie Mac, and Ginnie Mae. The goal of the program is to provide support to mortgage and housing markets and to foster improved conditions in financial markets. Purchases of these securities began on January 5, 2009.\nAdditional information on System transactions in mortgage-backed securities is available at www.newyorkfed.org/markets/mbs/."
+}

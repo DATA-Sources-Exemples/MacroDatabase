@@ -1,0 +1,18 @@
+{
+  "id": "KOREAEPUINDXM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Economic Policy Uncertainty Index for South Korea",
+  "observation_start": "1990-01-01",
+  "observation_end": "2020-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-02-18 08:01:02-06",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "Effective September 2016, the Donga Ilbo newspaper was dropped from the set of newspapers used to construct this index. The new version of the index is spliced to the old version based on their overlap from January to August 2016. For further explanation, please see the source's page on the South Korea Monthly Index (https://www.policyuncertainty.com/korea_monthly.html).\r\n\r\nFor additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
+}

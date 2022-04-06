@@ -1,0 +1,18 @@
+{
+  "id": "M0934BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities of Business Failures, Manufacturing Companies for United States",
+  "observation_start": "1934-06-01",
+  "observation_end": "1939-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:04:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1984-1938 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1948. In September, 1938 The Separate Classification Of Reorganization Cases Was Discontinued, Subsequent To Elimination Of Paragraph 77-B From The National Bankruptcy Act, And The Data Were Revised Accordingly Back To June, 1934 (See Dun'S Statistical Review, February, 1939). This Segment Ends Due To A Revision Of March 1940, Effected By Change To A More Complete Coverage Of Voluntary Discontinuances With Losses To Creditors And Of Small Failures Not Previously Covered By Dun And Bradstreet (See Source, March, 1940). Source: Data For 1934-August, 1937: Survey Of Current Business, December 1938; Data For September, 1937-1939: Dun And Bradstreet, Inc., Dun'S Statistical Review.\n\nThis NBER data series m09034b appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09034b"
+}

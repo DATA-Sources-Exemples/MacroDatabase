@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id         | title                                                                                                            | observation_start   | observation_end   |
+|------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| IBANRIAIHT | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Haiti (DISCONTINUED)   | 1979-10-01          | 1979-10-01        |
+| IBANRIAOHT | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Haiti (DISCONTINUED) | 1979-10-01          | 1995-07-01        |
+| IBANRINIHT | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Haiti (DISCONTINUED)         | 1979-10-01          | 1995-10-01        |

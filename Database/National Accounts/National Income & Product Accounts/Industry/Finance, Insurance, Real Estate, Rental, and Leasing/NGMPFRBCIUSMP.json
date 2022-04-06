@@ -1,0 +1,18 @@
+{
+  "id": "NGMPFRBCIUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Domestic Product: Private Industries: Finance, Insurance, Real Estate, Rental, and Leasing: Finance and Insurance: Federal Reserve Banks, Credit Intermediation, and Related Services for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Federal Reserve banks, credit intermediation, and related services includes monetary authorities, central bank and credit intermediation and related activities.\n\nThe Monetary Authorities-Central Bank subsector groups establishments that engage in performing central banking functions, such as issuing currency, managing the Nation's money supply and international reserves, holding deposits that represent the reserves of other banks and other central banks, and acting as fiscal agent for the central government.\n\nThe Credit Intermediation and Related Activities subsector group establishments that (1) lend funds raised from depositors; (2) lend funds raised from credit market borrowing; or (3) facilitate the lending of funds or issuance of credit by engaging in such activities as mortgage and loan brokerage, clearinghouse and reserve services, and cash checking services.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

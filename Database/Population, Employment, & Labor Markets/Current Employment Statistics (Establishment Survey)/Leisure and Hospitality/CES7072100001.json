@@ -1,0 +1,18 @@
+{
+  "id": "CES7072100001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees, Accommodation",
+  "observation_start": "1972-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:46:48-05",
+  "popularity": 9,
+  "group_popularity": 10,
+  "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES7072100001"
+}

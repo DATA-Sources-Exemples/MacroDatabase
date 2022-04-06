@@ -1,0 +1,18 @@
+{
+  "id": "M10071USM311NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bond Offerings, Par Value, All Industries for United States",
+  "observation_start": "1900-01-01",
+  "observation_end": "1943-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hundred Thousands of Dollars",
+  "units_short": "Hundred Thous. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Two Out Of Three Months Used In Computing Trough. Source: The Volume Of Corporate Bond Financing Since 1900, W. Braddock Hickman, A Study By The National Bureau Of Economic Research, Princeton University Press, 1953, Pp. 324-325, Appendix A, Table A-15.\n\nThis NBER data series m10071 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10071"
+}

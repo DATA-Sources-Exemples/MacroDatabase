@@ -1,0 +1,17 @@
+{
+  "id": "PCU6211116211114152",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Offices of Physicians, Except Mental Health: Medicaid Patients: Obstetrics/Gynecology",
+  "observation_start": "2014-06-01",
+  "observation_end": "2018-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2014=100",
+  "units_short": "Index Jun 2014=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-05-15 10:31:02-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

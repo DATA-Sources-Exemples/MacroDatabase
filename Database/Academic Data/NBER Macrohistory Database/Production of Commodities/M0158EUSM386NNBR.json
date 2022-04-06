@@ -1,0 +1,18 @@
+{
+  "id": "M0158EUSM386NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wheat Flour Production for United States",
+  "observation_start": "1923-07-01",
+  "observation_end": "1946-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Barrels",
+  "units_short": "Mil. Of Barrels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:23-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Series Is Present Here As Three Variables--(1)--Original Data, 1914-1926 (2)--Original Data, 1923-1946 (3)--Original Data, 1945-1952. A Revised Series Began In 1932 Based On Estimations Of Flour Production In 1935, Made By The Bureau Of The Census. Figures For July 1943 On Were Reported To The Bureau Of The Census, But Raised To The Level Of Estimated Totals Shown By The Food Research Institute. Source: Wheat Studies Of The Food Research Institute, Volumes Ix-Xviii.\n\nThis NBER data series m01058b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01058b"
+}

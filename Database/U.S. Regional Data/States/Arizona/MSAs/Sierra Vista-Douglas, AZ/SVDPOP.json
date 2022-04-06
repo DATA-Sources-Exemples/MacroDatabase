@@ -1,0 +1,18 @@
+{
+  "id": "SVDPOP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Resident Population in Sierra Vista-Douglas, AZ (MSA)",
+  "observation_start": "2010-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-25 12:47:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "All observations are July 1 estimates of each year."
+}

@@ -1,7 +1,7 @@
 {
   "id": "WPU152402084",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Miscellaneous Products: Tobacco, Stemmed",
   "observation_start": "2011-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:50:31-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 15,
+  "group_popularity": 15
 }

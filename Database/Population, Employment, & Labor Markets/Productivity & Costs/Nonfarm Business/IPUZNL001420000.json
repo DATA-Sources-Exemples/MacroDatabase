@@ -1,0 +1,18 @@
+{
+  "id": "IPUZNL001420000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Productivity for Private Nonfarm in Pennsylvania",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 21:52:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Labor productivity describes the efficiency at which labor hours are utilized in producing output of goods and services, measured as output per hour of labor."
+}

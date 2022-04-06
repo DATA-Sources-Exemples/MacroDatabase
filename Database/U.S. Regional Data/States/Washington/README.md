@@ -1,6 +1,8 @@
 | Folder                             |   Files / Folders |
 |------------------------------------|-------------------|
-| Counties                           |                39 |
-| CPI for MSAs and Consolidated MSAs |                 0 |
 | MSAs                               |                13 |
+| BEA Economic Areas                 |                 1 |
+| CPI for MSAs and Consolidated MSAs |                 2 |
+| Basic Trading Areas                |                 1 |
 | Metropolitan Divisions             |                 2 |
+| Counties                           |                39 |

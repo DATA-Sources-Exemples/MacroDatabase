@@ -1,0 +1,18 @@
+{
+  "id": "LFPOTTMASIA647N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Population, Labor Force Survey Basis: All Ages: Males for Slovenia",
+  "observation_start": "1999-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-02-26 13:55:55-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "OECD descriptor ID: LFPOTTMA\nOECD unit ID: ST\nOECD country ID: SVN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

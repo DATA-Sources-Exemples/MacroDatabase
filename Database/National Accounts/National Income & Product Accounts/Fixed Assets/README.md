@@ -1,5 +1,5 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Net Stocks       |                 1 |
-| Depreciation     |                 1 |
-| Fixed Investment |                 2 |
+| Depreciation     |                24 |
+| Net Stocks       |                24 |
+| Fixed Investment |               250 |

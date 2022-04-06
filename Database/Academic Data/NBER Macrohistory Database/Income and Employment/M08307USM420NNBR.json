@@ -1,0 +1,18 @@
+{
+  "id": "M08307USM420NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manhours in Nonfarm Establishments, All Employees on Payrolls for United States",
+  "observation_start": "1941-06-01",
+  "observation_end": "1969-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Manhours",
+  "units_short": "Mil. of Manhours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:19:56-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "The Survey Week In Which Hours Worked Per Week Are Determined Is The Week Including The 8Th Of The Month Until July, 1955. In Many Cases This Week Contains A Holiday, The Effect Of Which Has Been Eliminated By Interpolation Beginning In July The Survey Week Is That Including The 12Th Of The Month. Beginning In 1955 The Effect Of Holidays During The Survey Has Been Eliminated On The Basis Of A Formula Derived By A. Pitts Which Makes Use Of The Increased Number Of Part-Time Workers In Such Weeks. Beginning In 1965 A Benchmark Revision Of September, 1967 Has Been Incorporated Into The Data. See Factors Taken From The January, 1967 Printout (NBER). A Projected Seasonal Index Is Available For December, 1966-November, 1967. See The NBER Printout. Source: NBER Derived Data By Multiplying Series (Average Hours Of Work Per Week, Nonagricultural) By Series (Employees In Nonagricultural Establishments).\n\nThis NBER data series m08307 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08307"
+}

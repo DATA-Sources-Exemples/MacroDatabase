@@ -1,0 +1,18 @@
+{
+  "id": "N3218C0A144NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate profits after tax: Domestic industries: Manufacturing: Durable goods: Machinery",
+  "observation_start": "1998-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:37:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: N3218C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

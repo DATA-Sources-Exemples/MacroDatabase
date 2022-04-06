@@ -1,0 +1,18 @@
+{
+  "id": "M0503FUSM596NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Visible Supply of Cotton for United States",
+  "observation_start": "1927-07-01",
+  "observation_end": "1941-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Running Bales",
+  "units_short": "Thous. Of Running Bales",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:47:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Seven Variables--(1)--Original Data, 1869-1881 (2)--Original Data, 1880-1890 (3)--Original Data, 1889-1903 (4)--Original Data, 1902-1916 (5)--Original Data, 1915-1928 (6)--Original Data, 1927-1941 (7)--Original Data, 1946-1957. Data Refer To The Friday Nearest The End Of The Month. Data Were Computed By Summing Stocks At U.S. Ports And Stocks At Fifty-Six Interior Towns. Data For August 1927-March 1928 Were Originally Given For Fifty-Seven Towns. In April 1928, Raleigh Was Discontinued So The Series Was Made Comparable For Fifty-Six Towns By Deducting Raleigh Entirely. Source: The Commercial And Financial Chronicle\n\nThis NBER data series m05003f appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05003f"
+}

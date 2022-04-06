@@ -1,0 +1,18 @@
+{
+  "id": "M13006USM616NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Rates on Customers' Loans, Southern and Western Cities for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1939-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Weighted Average of Prevailing Rates",
+  "units_short": "Weighted Average of Prevailing Rates",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1939 (2)--Original Data, 1948-1959. Figures Relate To Rates Charged By Reporting Banks To Their Own Customers, As Distinguished From Open Market Rates. All Averages Are Based On Rates Reported For Three Types Of Customers Loans, Commercial, Demand, And Time Loans On Securities. The Method Of Computing The Averages Takes Into Account Relative Importance Of Each Of These Three Types Of Loans And The Relative Importance Of Each Reporting Bank As Measured By Total Loans. In The Two Group Averages The Average Rate For Each City Included Is Weighed According To The Importance Of That City In The Group, As Measured By The Loans Of All Banks. Source: Annual Report Of The Federal Reserve Board, 1931, P. 82, And Following Reports; Federal Reserve Bulletin, November 1934, P. 728, And October 1939, P. 908.\n\nThis NBER data series m13006 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13006"
+}

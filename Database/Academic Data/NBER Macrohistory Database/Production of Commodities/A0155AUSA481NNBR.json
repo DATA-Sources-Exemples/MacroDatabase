@@ -1,0 +1,18 @@
+{
+  "id": "A0155AUSA481NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Steam Locomotives Available for United States",
+  "observation_start": "1889-01-01",
+  "observation_end": "1916-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Locomotives",
+  "units_short": "Number Of Locomotives",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:51:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1889-1916 (2)--Original Data, 1911-1945 Data Are As Of June 1. Source: Interstate Commerce Commission, Annual Reports Of Statistics Of Railways In The United States\n\nThis NBER data series a01155a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01155a"
+}

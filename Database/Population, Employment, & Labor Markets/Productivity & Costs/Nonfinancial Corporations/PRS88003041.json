@@ -1,0 +1,18 @@
+{
+  "id": "PRS88003041",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonfinancial Corporations Sector: Output for Employees",
+  "observation_start": "1948-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Quarter One Year Ago",
+  "units_short": "% Chg. from Qtr.  1 Yr. Ago",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-03 07:37:20-06",
+  "popularity": 2,
+  "group_popularity": 3,
+  "notes": "Nonfinancial corporations sector output is an annual-weighted (Fisher-Ideal) index. It is constructed from the gross domestic product (GDP) excluding the following outputs: general government, nonprofit institutions, paid employees of private households, and the rental value of owner-occupied dwellings. Output for nonfinancial corporations also excludes the output of unincorporated businesses and those corporations classified as offices of bank holding companies, \n\n For more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS88003041"
+}

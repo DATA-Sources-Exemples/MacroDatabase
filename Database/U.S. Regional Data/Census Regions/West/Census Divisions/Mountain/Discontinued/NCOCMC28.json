@@ -1,0 +1,18 @@
+{
+  "id": "NCOCMC28",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Commercial Loan Charge-offs to Total Commercial Loans, Banks with Total Assets from $300M to $1B, Mountain Census Division (DISCONTINUED)",
+  "observation_start": "1988-01-01",
+  "observation_end": "2020-07-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-12-10 14:51:01-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series is discontinued and will no longer be updated. Additional consolidated data is available on the FDIC's Bank Data and Statistics (https://www.fdic.gov/bank/statistical/).\n\nCharge-offs are measured on a net basis-loans charged off as losses minus recoveries on loans previously charged off. The percentage of loans charged off as losses each quarter (net of recoveries on loans previously charged off as losses) is calculated by summing net commercial loan charge-off for all banks in the size group and dividing by the sum of their total commercial loans. Data are annualized.\nFor institutions before March 2001 that did not file FFIEC 033 and FFIEC 034 or for all filers after December 2000, the net commercial charge offs is the difference between Charge-offs on Commercial and Industrial Loans call item RIAD4638 and Recoveries on Commercial and Industrial Loans call item RIAD4608. For institutions that did file FFIEC 033 and FFIEC 034 before March 2001 the net commercial charge offs is the difference between Charge-offs on Commercial (Time and Demand) and All Other Loans call item RIAD4264 and Recoveries on Commercial (Time and Demand) and All Other Loans call itemRIAD4265. Total commercial loans is the Commercial and Industrial Loans call item RCFD1766.\nThe asset classes are determined by using Average Total Assets call item RCFD2170 greater than $300M and less than $1B.\nGeographic location for Mountain Census Division is determined by the Physical State Code call item RSSD9210 IN (4,8,16,30,32,35,49,56), where the number codes represent Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming respectively.\n\nUsers are advised to use the Federal Reserve Board of Governors' data dictionary (https://www.federalreserve.gov/apps/mdrm/data-dictionary) to retrieve detailed information for specific call items.\n\nThis series is calculated by the Federal Reserve Bank of St. Louis using raw data that are collected by the FFIEC. Raw data can be found at https://cdr.ffiec.gov/public/."
+}

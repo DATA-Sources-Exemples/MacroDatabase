@@ -1,0 +1,18 @@
+{
+  "id": "M0142AUSM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Production from Federally Inspected Slaughter for United States",
+  "observation_start": "1923-01-01",
+  "observation_end": "1940-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:52:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1923-1940 (2)-Original Data, 1939-1955. Data Represent Estimated Production Of Lard Obtained By Applying The Average Yield Per Hog At A Number Of Plants That Regularly Report Their Production Of Lard To The Agricultural Marketing Service To The Number Of Animals Passed For Food. Source: Agricultual Marketing Service, \"Livestock, Meats, And Wool Market Statistics And Related Data, \" 1929, P.95 And Later Issues; Survey Of Current Business.\n\nThis NBER data series m01142a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01142a"
+}

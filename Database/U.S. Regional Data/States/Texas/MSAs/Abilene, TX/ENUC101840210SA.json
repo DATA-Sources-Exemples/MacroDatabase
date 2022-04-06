@@ -1,0 +1,18 @@
+{
+  "id": "ENUC101840210SA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Wages for Employees in State Government Establishments in Abilene, TX (MSA)",
+  "observation_start": "2005-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Dollars per Week",
+  "units_short": "$ per Week",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-09 11:26:37-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Average weekly wages are the wages paid by unemployment insurance covered employers during the calendar quarter, regardless of when the services were performed. Included in wages are pay for vacation and other paid leave, bonuses, stock options, tips, the cash value of meals and lodging, and in some States, contributions to deferred compensation plans (such as 401(k) plans). \n\nThe Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. In some cases, the NSA data will be updated but the SA data will not be updated. The reason is usually that the data series has not accumulated enough new seasonal factors to trigger an adjustment.The NSA series can be located here (https://fred.stlouisfed.org/series/ENUC101840210) The FRED team is currently working on a new procedure to replace SA data that has not yet be updated with NSA data that has been updated.\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CFSBCACTIVITYNMFG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago",
+  "observation_start": "2013-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-10 09:09:04-06",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "What is the Survey of Business Conditions?\nBusiness contacts in the Seventh Federal Reserve District are asked to rate how various business indicators changed from a month ago along a seven-point scale ranging from \"large increase\" to \"large decrease.\" A series of diffusion indexes summarizing the distribution of responses is then calculated.\n\nHow are the indexes constructed?\nRespondents' answers on the seven-point scale are assigned a numeric value ranging from +3 to \u20133. Each diffusion index is calculated as the difference between the number of respondents with answers above their respective average responses and the number of respondents with answers below their respective average responses, divided by the total number of respondents. The index is then multiplied by 100 so that it ranges from +100 to \u2212100 and will be +100 if every respondent provides an above-average answer and \u2013100 if every respondent provides a below average answer. Respondents with no prior history of responses are excluded from the calculation.\n\nWhat do the numbers mean?\nRespondents' respective average answers to a question can be interpreted as representing their historical trends, or long-run averages. Thus, zero index values indicate that, on balance, activity, hiring, capital spending, and cost pressures are growing at their trend rates or that outlooks are neutral. Positive index values indicate above-average growth (or optimistic outlooks) on balance, and negative values indicate below-average growth (or pessimistic outlooks) on balance.\n\nBeginning with the May 12, 2020, release, the CFSBC moved to a monthly release schedule. This release, with data for April 2020, now contains estimated monthly historical values for the CFSBC indexes, as will all future releases. For additional information on how the survey and indexes changed, see the CFSBC FAQs available here (https://www.chicagofed.org/publications/cfsbc/index)."
+}

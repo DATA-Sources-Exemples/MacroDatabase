@@ -1,0 +1,17 @@
+{
+  "id": "I3GTOTL1SB000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Investment in Government Fixed Assets: Structures: Buildings (DISCONTINUED)",
+  "observation_start": "1901-01-01",
+  "observation_end": "1996-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-07-06 13:06:32-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

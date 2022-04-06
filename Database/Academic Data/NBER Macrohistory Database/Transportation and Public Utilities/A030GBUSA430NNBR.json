@@ -1,0 +1,18 @@
+{
+  "id": "A030GBUSA430NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue Passengers Carried for United States",
+  "observation_start": "1911-01-01",
+  "observation_end": "1937-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Passengers",
+  "units_short": "Mil. Of Passengers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:06:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1875-1916 (2)--Original Data, 1911-1937. Data For 1911-1937 Are Based On The Calendar Year. Source: Data For 1875-1910: Letter From The Pullman Company. Data For 1911-1916: The Statistical Abstract Of The United States, 1924, P. 381.\n\nThis NBER data series a03010gb appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03010gb"
+}

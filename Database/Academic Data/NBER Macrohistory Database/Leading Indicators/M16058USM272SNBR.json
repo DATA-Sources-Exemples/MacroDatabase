@@ -1,0 +1,18 @@
+{
+  "id": "M16058USM272SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cumulated Net Diffusion Index, Sales of Retail Stores, Twenty-Four Types of Stores, Nine Month Span for United States",
+  "observation_start": "1953-06-01",
+  "observation_end": "1963-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cumulated Net Percent Expanding",
+  "units_short": "Cumulated Net % Expanding",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 09:31:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: NBER\n\nThis NBER data series m16058 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16058"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "B787RA3Q086SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real government consumption expenditures and gross investment: Federal: Gross investment (chain-type quantity index)",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-30 08:04:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B787RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

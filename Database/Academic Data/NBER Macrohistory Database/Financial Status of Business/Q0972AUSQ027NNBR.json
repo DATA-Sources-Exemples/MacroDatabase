@@ -1,0 +1,18 @@
+{
+  "id": "Q0972AUSQ027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate Profits Before Taxes for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1946-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:04:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1939-1946 (2)--Original Data, 1946-1969. Data Reflect Quarterly Totals At Annual Rates. Unadjusted Figures Were Multiplied By Four To Derive Quarterly Totals At Annual Rates. Source: Department Of Commerce, National Income, 1954 Edition, A Supplement To The Survey Of Current Business For Data Through 1945; Survey Of Current Business, Quarterly Tables For 1945.\n\nThis NBER data series q09072a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09072a"
+}

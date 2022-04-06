@@ -1,0 +1,18 @@
+{
+  "id": "M13001USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Call Money Rates, Mixed Collateral for United States",
+  "observation_start": "1857-01-01",
+  "observation_end": "1970-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:49-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Beginning In April Of 1956 The So-Called \"Renewal\" Rate Was Replaced By The \"Going\" Rate. For Years Published Sources Presented A \"Renewal\" Rate And A \"New\" Rate Which Were Practically Identical Except For April 1956, August- December 1956, And January-February 1957. The\"Going\" Rate Is Considered Identical To The\"New\" Rate By Most Sources. Source: Data For 1857-1936: F.R. Macaulay, The Movement Of Interest Rates, Bond Yields, And Stock Prices In The United States Since 1856 (NBER No. 33, 1938). Data For 1937-April 1952: Federal Reserve Bulletin; Also In \"Open-Market Money Rates In New York City\", Mimeographed Release Of The Board Of Governors, Finance Section. Data For May 1952-1970: U.S. Department Of Commerce, Survey Of Current Business.\n\nThis NBER data series m13001 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13001"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "NGDPDIXRUA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Domestic Product Deflator for Russia",
+  "observation_start": "2003-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-07 15:22:04-06",
+  "popularity": 4,
+  "group_popularity": 4
+}

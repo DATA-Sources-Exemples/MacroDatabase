@@ -1,0 +1,18 @@
+{
+  "id": "H4021C0A144NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Compensation of employees: Domestic private industries: Manufacturing: Durable goods: Electric and electronic equipment",
+  "observation_start": "1929-01-01",
+  "observation_end": "1948-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-08-26 17:02:40-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: H4021C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

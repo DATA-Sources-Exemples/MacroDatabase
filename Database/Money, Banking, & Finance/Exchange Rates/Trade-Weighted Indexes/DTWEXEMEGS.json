@@ -1,0 +1,17 @@
+{
+  "id": "DTWEXEMEGS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nominal Emerging Market Economies U.S. Dollar Index",
+  "observation_start": "2006-01-02",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Index Jan 2006=100",
+  "units_short": "Index Jan 2006=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:20:10-05",
+  "popularity": 48,
+  "group_popularity": 51
+}

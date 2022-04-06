@@ -1,0 +1,18 @@
+{
+  "id": "M14162USM144SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Demand Deposits Less Duplications, Federal Reserve Member Banks Outside New York State",
+  "observation_start": "1919-07-01",
+  "observation_end": "1946-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 08:32:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Represent Adjusted Demand Deposits, Member Banks, Total U.S. (Column 10) Minus Demand Deposits Less Duplications, Member Banks In New York State (Column 1). Monthly Coverage Is For Either Three Or Four Months Per Year, Except For 1946 Which Only Has A June Figure. Source: Friedman And Schwartz, Monetary Statistics Of The United States (NBER, 1970), Table 33, Pp. 454-461.\n\nThis NBER data series m14162 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14162"
+}

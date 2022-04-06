@@ -1,0 +1,18 @@
+{
+  "id": "MFSABSHNO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Households and Nonprofit Organizations; Mutual Fund Shares; Asset (DISCONTINUED)",
+  "observation_start": "1949-10-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-06-11 14:01:20-05",
+  "popularity": 11,
+  "group_popularity": 11,
+  "notes": "Source ID: FL153064205.Q\n\nFor more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).\n\nWith each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).\n\nIn the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL153064205&t=) provided by the source.\n\nThe FRED series Mutual Fund Shares - Assets - Balance Sheet of Households and Nonprofit Organizations is now known as Households and Nonprofit Organizations; Mutual Fund Shares; Asset.\n\nThis series no longer appears in Table B.101.\n\nThis data still updates, to see data for this series, go to FRED series HNOMFAQ027S (https://fred.stlouisfed.org/series/HNOMFAQ027S)."
+}

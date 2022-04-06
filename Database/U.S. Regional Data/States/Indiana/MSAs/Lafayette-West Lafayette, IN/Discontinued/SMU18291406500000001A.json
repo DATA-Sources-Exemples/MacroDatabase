@@ -1,0 +1,17 @@
+{
+  "id": "SMU18291406500000001A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Education and Health Services in Lafayette, IN (MSA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-24 19:50:45-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

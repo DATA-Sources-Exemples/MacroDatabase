@@ -1,0 +1,18 @@
+{
+  "id": "FEDD1690",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Securities Held Outright: Federal Agency Debt Securities: Maturing in 16 Days to 90 Days: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:21-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "The current face value of federal agency obligations held by Federal Reserve Banks. These securities are direct obligations of Fannie Mae, Freddie Mac, and the Federal Home Loan Banks."
+}

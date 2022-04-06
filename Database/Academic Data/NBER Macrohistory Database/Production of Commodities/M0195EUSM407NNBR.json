@@ -1,0 +1,18 @@
+{
+  "id": "M0195EUSM407NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Knit Underwear Production for United States",
+  "observation_start": "1930-01-01",
+  "observation_end": "1933-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dozens",
+  "units_short": "Mil. Of Dozens",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1930 (2)--Original Data, 1930-1933. Data Include About 125 Establishments. Source: U.S. Department Of Commerce, Bureau Of The Census, Press Releases.\n\nThis NBER data series m01095b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01095b"
+}

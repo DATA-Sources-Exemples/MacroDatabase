@@ -1,0 +1,18 @@
+{
+  "id": "LEU0254481900A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed full time: Wage and salary workers: Miscellaneous social scientists and related workers occupations: 16 years and over",
+  "observation_start": "2000-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-04-16 09:20:54-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses. For more information see https://www.bls.gov/cps/earnings.htm\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LEU0254481900"
+}

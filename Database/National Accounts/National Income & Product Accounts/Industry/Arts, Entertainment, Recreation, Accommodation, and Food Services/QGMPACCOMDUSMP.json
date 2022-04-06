@@ -1,0 +1,18 @@
+{
+  "id": "QGMPACCOMDUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Arts, Entertainment, Recreation, Accommodation, and Food Services: Accommodation and Food Services: Accommodation for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Accommodation NAICS subsector provide lodging or short-term accommodations for travelers, vacationers, and others. There is a wide range of establishments in these industries. Some provide lodging only; while others provide meals, laundry services, and recreational facilities, as well as lodging. Lodging establishments are classified in this subsector even if the provision of complementary services generates more revenue. The types of complementary services provided vary from establishment to establishment.\n\nThe subsector is organized into three industry groups: (1) traveler accommodation, (2) recreational accommodation, and (3) rooming and boarding houses. The Traveler Accommodation industry group includes establishments that primarily provide traditional types of lodging services. This group includes hotels, motels, and bed and breakfast inns. In addition to lodging, these establishments may provide a range of other services to their guests. The RV (Recreational Vehicle) Parks and Recreational Camps industry group includes establishments that operate lodging facilities primarily designed to accommodate outdoor enthusiasts. Included are travel trailer campsites, recreation vehicle parks, and outdoor adventure retreats. The Rooming and Boarding Houses industry group includes establishments providing temporary or longer-term accommodations that for the period of occupancy may serve as a principal residence. Board (i.e., meals) may be provided but is not essential.\n\nEstablishments that manage short-stay accommodation establishments (e.g., hotels and motels) on a contractual basis are classified in this subsector if they both manage the operation and provide the operating staff. Such establishments are classified based on the type of facility managed and operated.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

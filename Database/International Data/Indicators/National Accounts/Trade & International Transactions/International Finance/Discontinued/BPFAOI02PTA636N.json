@@ -1,0 +1,18 @@
+{
+  "id": "BPFAOI02PTA636N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Financial Account: Other Investment Assets for Portugal (DISCONTINUED)",
+  "observation_start": "1996-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "National currency, Sum Over Component Sub-periods",
+  "units_short": "National currency, Sum Over Component Sub-periods",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-04-13 02:09:32-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "OECD descriptor ID: BPFAOI02\nOECD unit ID: NCCU\nOECD country ID: PRT\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

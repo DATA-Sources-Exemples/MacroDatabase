@@ -1,0 +1,18 @@
+{
+  "id": "TVCKSSL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Travelers Checks",
+  "observation_start": "1959-01-01",
+  "observation_end": "2018-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2020-09-24 15:38:33-05",
+  "popularity": 30,
+  "group_popularity": 31,
+  "notes": "Data for the nonbank traveler's checks component of M1 are reported by the six largest nonbank issuers of traveler's checks, as of the last business day of each month. Traveler's checks issued by banks are included in the demand deposit component of M1. The respondents provide the information on nonbank traveler's checks by e-mail, fax, or phone."
+}

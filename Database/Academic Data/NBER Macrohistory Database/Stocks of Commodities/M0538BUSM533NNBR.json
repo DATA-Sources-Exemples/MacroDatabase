@@ -1,0 +1,18 @@
+{
+  "id": "M0538BUSM533NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Raw Silk, Total Visible Stocks for United States",
+  "observation_start": "1930-07-01",
+  "observation_end": "1941-06-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Bales (Of 132.25 Lbs. Approximately)",
+  "units_short": "Thous. Of Bales (Of 132.25 Lbs. Approximately)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:49:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1923-1931 (2)--Original, 1930-1941. Data Were Compiled By The Commodity Exchange, Inc., And Represent The Total Stocks Of Raw Silk Held In New York Warehouses, In Japanese Ports, And The Estimated Amount In Transit Between Japan And The U.S. At The End Of The Month. Although This Series Has Been Subdivided Into Two Time Segments, Both Raw Variables And Both Seasonally Adjusted Variables May Be Considered Comparable And Run As One Variable. Data Have Been Checked With The Files Of Commodity Exchange And Their Figures Agree Exactly With The Scb. Data Beginning July 1933 Are Available In The Commodity Exchange, Inc. Monthly Statistical Supplement To The Daily Market Report On Raw Silk. Data Reflect A Revision Of Data, Occasioned By The Inclusion In Total Stocks Of Raw Silk Weighed And Awaiting Shipment In The Ports Of Yokohama And Kobe, Japan (See Scb, February 1937). Source: U.S. Department Of Commerce, Survey Of Current Business, July 1936, P. 20; December 1936, P. 57; February 1937, P. 20, November 1936, P. 54; 1938 Supplement, P. 156\n\nThis NBER data series m05038b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05038b"
+}

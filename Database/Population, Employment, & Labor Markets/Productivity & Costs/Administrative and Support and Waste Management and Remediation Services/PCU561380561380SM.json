@@ -1,0 +1,17 @@
+{
+  "id": "PCU561380561380SM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Staffing Services (Except Professional Employer Organizations (PEOs)): Other Receipts",
+  "observation_start": "2010-12-01",
+  "observation_end": "2020-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2010=100",
+  "units_short": "Index Dec 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-10-14 08:01:35-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

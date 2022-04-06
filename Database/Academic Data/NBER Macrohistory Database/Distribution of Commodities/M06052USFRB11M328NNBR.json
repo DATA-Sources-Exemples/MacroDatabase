@@ -1,0 +1,18 @@
+{
+  "id": "M06052USFRB11M328NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Wholesale Trade Sales of Groceries for Federal Reserve District 11: Dallas",
+  "observation_start": "1920-01-01",
+  "observation_end": "1943-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1920=100",
+  "units_short": "Index 1920=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:49:01-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "Indexes Were Computed By NBER From Percentage Changes Between Corresponding Months Of Successive Years. Source: Computed By NBER From Percentage Changes Compiled By The Federal Reserve Bank Of Dallas (1920-1937 Data) And The U.S. Department Of Commerce (1938-1943); See Monthly Business Review Of The Federal Reserve Bank Of Dallas, 1940-1943\n\nThis NBER data series m06052 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06052"
+}

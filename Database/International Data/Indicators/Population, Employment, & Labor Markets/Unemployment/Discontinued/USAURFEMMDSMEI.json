@@ -1,0 +1,18 @@
+{
+  "id": "USAURFEMMDSMEI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment Level: Survey-Based (Females) in the United States (DISCONTINUED)",
+  "observation_start": "1955-01-01",
+  "observation_end": "2012-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-02 15:44:00-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "RGMPAIRTRANUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Gross Domestic Product: Private Industries: Transportation and Warehousing: Air Transportation for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Air Transportation NAICS subsector provide air transportation of passengers and/or cargo using aircraft, such as airplanes and helicopters. The subsector distinguishes scheduled from nonscheduled air transportation. Scheduled air carriers fly regular routes on regular schedules and operate even if flights are only partially loaded. Nonscheduled carriers often operate during nonpeak time slots at busy airports. These establishments have more flexibility with respect to choice of airport, hours of operation, load factors, and similar operational characteristics. Nonscheduled carriers provide chartered air transportation of passengers, cargo, or specialty flying services. Specialty flying services establishments use general purpose aircraft to provide a variety of specialized flying services.\n\nScenic and sightseeing air transportation and air courier services are not included in this subsector but are included in Subsector 487, Scenic and Sightseeing Transportation and in Subsector 492, Couriers and Messengers. Although these activities may use aircraft, they are different from the activities included in air transportation. Air sightseeing does not usually involve place-to-place transportation; the passenger's flight (e.g., balloon ride, aerial sightseeing) typically starts and ends at the same location. Courier services (individual package or cargo delivery) includes more than air transportation; road transportation is usually required to deliver the cargo to the intended recipient.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0134EDEM580NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Pig Iron Production for Germany",
+  "observation_start": "1913-01-01",
+  "observation_end": "1938-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Metric Tons",
+  "units_short": "Thous. Of Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:50:58-05",
+  "popularity": 5,
+  "group_popularity": 6,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1881-1918 (2)--Original Data, 1913-1938. Data For 1913-1920 Were Computed By Subtracting Figures For Luxembourg, Alsace-Lorraine, And The Saar From Total German Production. Beginning In July 1938, Austrian Production Is Subtracted. Source: Data For 1913-1924: Verien Deutscher Eisen Und Stahl Industrieller, \"Die Roheisengewinnung Im Deutschen Zollgebiet, 1910 Bis 1924\". Data For 1925-1935: Stahl Und Eisen. Data For 1936-1938: Quin'S Metal Handbook And Statistics.\n\nThis NBER data series m01134b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01134b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0733BGBM605NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Exports of Railway Materials for Great Britain",
+  "observation_start": "1920-01-01",
+  "observation_end": "1937-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Tons",
+  "units_short": "Thous. Of Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:04:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1857-1936 (2)--Orininal Data, 1920-1937. Total Of Steel Rails, New; Sleepers And Fishplates; Railway, Etc. Material, All Other Tyres And Axles, Wheels And Axles, Complete. Computed Total Of 5 Items As Shown In December, 1936. Source: Accounts Relating To Trade And Navigation\n\nThis NBER data series m07033b appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07033b"
+}

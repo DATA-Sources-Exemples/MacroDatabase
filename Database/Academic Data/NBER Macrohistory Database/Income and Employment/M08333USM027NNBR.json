@@ -1,0 +1,18 @@
+{
+  "id": "M08333USM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Non-Production Worker Salaries, Manufacturing Industries for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1969-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:16:32-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "The Data Were Computed By NBER From Series 08069 Converted To Dollar Figures At An Annual Rate Substracted From A Series On Wage And Salary Disbursements In Manufacturing (Personal Income Component). Data Are At Annual Rate. Source: Bureau Of Census Series Converted To Value Figures At Annual Rates (Multiplied By Base Furnished By The Bureau Of Labor Statistics); Wage And Salary Disbursements In Manufacturing (Personal Income Component); The Difference Between The 2 Series Equals The Estimated Salaries Of Nonproductive Workers.\n\nThis NBER data series m08333 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08333"
+}

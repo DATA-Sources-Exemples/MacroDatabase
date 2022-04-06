@@ -1,0 +1,17 @@
+{
+  "id": "H41RESPPAAELY01T05NWW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Liquidity and Credit Facilities: Loan Participations Held by MS Facilities LLC (Main Street Lending Program), Maturing over 1 Year to 5 Years: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:14-05",
+  "popularity": 3,
+  "group_popularity": 3
+}

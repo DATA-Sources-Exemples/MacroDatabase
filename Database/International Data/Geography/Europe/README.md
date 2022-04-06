@@ -1,6 +1,6 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Southern Europe |                 1 |
-| Northern Europe |                 1 |
-| Eastern Europe  |                 1 |
-| Western Europe  |                 1 |
+| Northern Europe |                 2 |
+| Southern Europe |                 2 |
+| Eastern Europe  |                 3 |
+| Western Europe  |                 2 |

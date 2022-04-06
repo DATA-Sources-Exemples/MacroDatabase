@@ -1,0 +1,18 @@
+{
+  "id": "A062RE1A156NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Wage accruals less disbursements (DISCONTINUED)",
+  "observation_start": "1929-01-01",
+  "observation_end": "2011-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-03-31 20:02:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: A062RE1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

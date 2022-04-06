@@ -1,0 +1,18 @@
+{
+  "id": "A190RV1A225NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Final Sales of Domestic Product (chain-type price index)",
+  "observation_start": "1930-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-27 08:05:13-06",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "BEA Account Code: A190RV\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

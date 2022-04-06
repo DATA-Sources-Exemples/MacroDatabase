@@ -1,0 +1,18 @@
+{
+  "id": "M0818AUSM065NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Actual Hours of Work Per Week, Rubber Products Manufacturing for United States",
+  "observation_start": "1920-06-01",
+  "observation_end": "1942-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:21:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1942 (2)--Original Data, 1947-1956. This Series' Industry Coverage Is Roughly Comparable To The Bls One, Although It Does Not Include Products Made From Synthetic Rubber. \"The Decline From December 1935 Was Caused By The Inclusion Of Data From Companies Not Covered Prior To 1936.\" This Series Can Be Extended Through July 1948, When Nicb Stopped The Compilation Of Its Payroll Statistics (See The Management Record, October 1948, P. 504). It Has Been Continued With The Series Compiled By The Bls, But Is Not Available Prior To 1947. Source: National Industrial Conference Board: For 1920-1936, \"Wages, Hours, And Employment In The United States, 1914-1936\" (Nicb Studies No. 229, 1936); For 1937, Supplement To Nicb Service Letter, June 1938; For 1938-1941, Nicb Economic Record, March 28, 1940 And Following Issues; For 1942, Nicb Management Record.\n\nThis NBER data series m08218a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08218a"
+}

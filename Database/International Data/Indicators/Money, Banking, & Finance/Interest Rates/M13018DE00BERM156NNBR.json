@@ -1,0 +1,18 @@
+{
+  "id": "M13018DE00BERM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Private Discount Rate, Prime Banker's Acceptance, Open Market for Berlin, Germany",
+  "observation_start": "1876-01-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Private Discount Is Granted Upon So-Called \"Prime Bills\" -- Those Of Recognized Solid Banks And Bankers. They Must Be Payable At In Berlin Or Some Other Town With A Branch Of The Reichsbank. They Must Call For At Least 5,000 Marks And Have At Least Fifty-Six Days And At Most Three Months To Run (See National Monetary Commission, Vol. 21, P. 201). Data Are For Average Daily Rate. Data For 1876-1913 Were Checked With Vergleichende Note-Bank Statistik. Data For October-December 1914 Are Unofficial Quotations. Data For July-August 1931 Were Interpolated To Account For A Banking Holiday. Source: Data For 1876-1910: Die Reichsbank. Data For 1911-1933: Statistiches Jahrbuch Fur Das Deutsche Reich, 1914, P. 294, And Later Issues. Data For 1934-1939: Wirtschaft Und Statistik, Pt. 2 Of Each Month.\n\nThis NBER data series m13018 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13018"
+}

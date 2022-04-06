@@ -1,0 +1,18 @@
+{
+  "id": "M10171USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Commitments for Future Investment of Life Insurance Companies, Nonfarm Residential Mortgages, Veterans Administration Guaranteed for United States",
+  "observation_start": "1952-09-01",
+  "observation_end": "1965-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:17:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Life Insurance Association Of America, Data For 1952-1963: Mimeographed Summary Table On \"New Commitments Of Reporting Life Insurance Companies\"; Data For 1964-1965: Monthly Tabulation Of \"Forward Investment Commitments Of Life Insurance Companies\"\n\nThis NBER data series m10171 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10171"
+}

@@ -1,5 +1,6 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Price Indexes & Deflators                |                 2 |
-| Govt Receipts, Expenditures & Investment |                 1 |
-| Foreign Transactions                     |                 0 |
+| Govt Receipts, Expenditures & Investment |                 5 |
+| Foreign Transactions                     |                 1 |
+| Personal Income & Outlays                |                 2 |
+| Price Indexes & Deflators                |               917 |

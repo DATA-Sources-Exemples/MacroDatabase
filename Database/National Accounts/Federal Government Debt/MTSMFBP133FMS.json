@@ -1,0 +1,18 @@
+{
+  "id": "MTSMFBP133FMS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Means of Financing: Borrowing from the Public",
+  "observation_start": "2010-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-10 14:03:04-06",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "The Monthly Treasury Statement (https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/summary-of-receipts-outlays-and-the-deficit-surplus-of-the-u-s-government) can be found on FiscalData and is available for download in multiple machine-readable formats with complete metadata."
+}

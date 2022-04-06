@@ -1,0 +1,18 @@
+{
+  "id": "PUAICVI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Pandemic Unemployment Assistance Initial Claims in the U.S. Virgin Islands",
+  "observation_start": "2020-04-04",
+  "observation_end": "2022-03-26",
+  "frequency": "Weekly, Ending Saturday",
+  "frequency_short": "W",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 07:33:27-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "An initial claim is a claim filed by an unemployed individual after a separation from an employer.\n\nThe Pandemic Unemployment Assistance (PUA) is a program that temporarily expanded unemployment insurance eligibility to self-employed workers, freelancers, independent contractors and part-time workers impacted by the coronavirus pandemic in 2020. This program was established by the Coronavirus Aid, Relief, and Economic Security (CARES) Act, which expanded states' ability to provide unemployment insurance to many workers affected by COVID-19, including people who aren't ordinarily eligible for unemployment benefits."
+}

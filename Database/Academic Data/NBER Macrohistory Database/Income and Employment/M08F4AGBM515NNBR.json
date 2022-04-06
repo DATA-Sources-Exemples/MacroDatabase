@@ -1,0 +1,18 @@
+{
+  "id": "M08F4AGBM515NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Trade Union Members Unemployed, Building Trades for Great Britain",
+  "observation_start": "1888-01-01",
+  "observation_end": "1921-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent of Total Membership",
+  "units_short": "% Of Total Membership",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:26:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1888-1926 (2)--Original Data, 1921-1939. Data Are End Of Month. Ministry Of Labour Gazette Contains Data For Manual Workers. Source: Abstact Of Labor Statistics, Particularly 10Th, 16Th, And 19Th Abstracts.\n\nThis NBER data series m08004a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08004a"
+}

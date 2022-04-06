@@ -1,0 +1,18 @@
+{
+  "id": "WALICO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC (DISCONTINUED)",
+  "observation_start": "2009-12-02",
+  "observation_end": "2012-04-25",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-04-27 08:32:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "In conjunction with the restructuring of the government's assistance to American International Group, Inc. (AIG) announced March 2, 2009, the outstanding balance and amount available of revolving credit provided to AIG by the FRBNY has been reduced in exchange for preferred interests in two special purpose vehicles, AIA Aurora LLC and ALICO Holdings LLC. These two limited liability companies were created to directly or indirectly hold all of the outstanding common stock of American International Assurance Company Ltd. (AIA) and American Life Insurance Company (ALICO), two life insurance subsidiaries of AIG. AIG will retain control of AIA Aurora LLC and ALICO Holdings LLC, and the FRBNY will have certain consent, disposition, and conversion rights with respect to its preferred interests.\n\nDividends accrue as a percentage of the FRBNY's preferred interests in AIA Aurora LLC and ALICO Holdings LLC. On a quarterly basis, the accrued dividends are capitalized and added to the FRBNY's preferred interests in AIA Aurora LLC and ALICO Holdings LLC."
+}

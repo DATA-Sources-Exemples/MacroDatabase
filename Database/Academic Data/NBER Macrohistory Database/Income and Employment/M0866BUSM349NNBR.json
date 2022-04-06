@@ -1,0 +1,18 @@
+{
+  "id": "M0866BUSM349NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Production Worker Manhours, Manufacturing, Durable Goods for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1961-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1947-1949=100",
+  "units_short": "Index 1947-1949=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:29:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1932-1947 (2)--Original Data, 1939-1961. Data For 1947, The First Year Taken From Bls Published Figures Show Only A Minor Discrepancy From NBER Calculations For The Year -- The NBER Monthly Average Is 106.2; The Bls Average Is 106.1. This Segment Is Not Strictly Comparable To The Preceeding Segment. Source: Data For 1939-1946 Were Computed By NBER: Second Segment Of Series 08146 (Production Worker Employment, Manufacturing, Total Durable Goods) Was Multiplied By Series (Average Hours Of Work Per Week, Manufacturing, Durable Goods) And Converted To The Base 1947-1949=100; Data For 1947-1961 Are From Bureau Of Labor Statistics Indexes Of Aggregate Weekly Manhours In Industrial And Construction Activity, Bls Releases Of May, 1955, July, 1958, And Employment And Earnings, Monthly Issues Thereafter.\n\nThis NBER data series m08266b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08266b"
+}

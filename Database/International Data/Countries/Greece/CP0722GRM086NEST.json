@@ -1,0 +1,18 @@
+{
+  "id": "CP0722GRM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Fuels and Lubricants for Personal Transport Equipment for Greece",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:18:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Fuels and Lubricants for Personal Transport Equipment (07.2.2)\" is a classification of nondurable goods and energy that includes petrol and other fuels such as diesel, liquid petroleum gas, alcohol, and two-stroke mixtures; lubricants, brake, and transmission fluids, coolants, and additives; and fuel for major tools and equipment covered under (05.5.1) and recreational vehicles covered under (09.2.1).\n\nThis category excludes charges for oil changes and greasing (07.2.3).\n\nThe category, Fuels and Lubricants for Personal Transport Equipment (07.2.2), is a subcategory of the Transport (07) and of Operation of Personal Transport Equipment (07.2) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

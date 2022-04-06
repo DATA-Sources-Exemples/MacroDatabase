@@ -1,0 +1,18 @@
+{
+  "id": "M08027US000ILM233NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Market Index for Illinois",
+  "observation_start": "1920-02-01",
+  "observation_end": "1934-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Applicants per 100 Positions",
+  "units_short": "Applicants Per 100 Positions",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:29:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Refer To The Number Of Applicants Per 100 Positions At The Free Employment Offices In Illinois. 1934 Data Were Not Given Directly, But Were Computed By NBER From Data In The Labor Bulletin Of February, 1935. Beginning In 1934, Cwa, Pwa, And Other Governmental Applications And Positions Are Included, Except In Cook County. The Demobilization Of The Cwa Caused The Great Rise In Applicants In March-April, 1934. The Increase In October, 1934 Is The Result Of A Concentrated Drive By The Employment Service And Relief Commission To Obtain Registrations. Source: Illinois Department Of Labor, Data Is From The Labor Bulletin, January, 1933 And February, 1935 (Called The Employment Bulletin Before July, 1923) Except Data For 1933 Which Were Furnished Directly From The Illinois State Employment Service Because The Labor Bulletin Ceased Publication From February, 1933-December, 1934.\n\nThis NBER data series m08027 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08027"
+}

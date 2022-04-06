@@ -1,4 +1,4 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Consumer prices (inflation) |                 0 |
-| Economic Situation          |                 0 |
+| Economic Situation          |                 1 |
+| Consumer prices (inflation) |                 1 |

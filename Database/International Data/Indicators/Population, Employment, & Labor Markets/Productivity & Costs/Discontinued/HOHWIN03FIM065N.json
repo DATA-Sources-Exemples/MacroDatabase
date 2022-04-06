@@ -1,0 +1,18 @@
+{
+  "id": "HOHWIN03FIM065N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Monthly Hours Worked: Industry Excluding Construction for Finland (DISCONTINUED)",
+  "observation_start": "1976-01-01",
+  "observation_end": "2008-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-07-24 02:00:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: HOHWIN03\nOECD unit ID: ML\nOECD country ID: FIN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

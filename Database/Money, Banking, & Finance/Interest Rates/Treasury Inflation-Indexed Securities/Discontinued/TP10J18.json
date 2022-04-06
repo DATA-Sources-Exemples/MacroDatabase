@@ -1,0 +1,18 @@
+{
+  "id": "TP10J18",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)",
+  "observation_start": "2008-02-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-02 06:01:01-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Yield to maturity on accrued principal. Averages of business days. Copyright, 2016, Haver Analytics. Reprinted with permission. Calculated from data provided by the Wall Street Journal.\r\nTreasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater."
+}

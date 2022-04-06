@@ -1,0 +1,18 @@
+{
+  "id": "STFLFDNXDFBANA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Flow",
+  "observation_start": "2011-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars, Annual Rate",
+  "units_short": "Mil. of $, Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 14:48:46-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ ."
+}

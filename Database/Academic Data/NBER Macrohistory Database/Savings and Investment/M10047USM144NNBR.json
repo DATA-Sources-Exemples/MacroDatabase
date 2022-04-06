@@ -1,0 +1,18 @@
+{
+  "id": "M10047USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Installment Credit Outstanding, Month-To-Month Changes for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1968-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:18:47-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Federal Reserve Board, Data For 1929-1939: Federal Reserve Bulletin, June 1955, \"Estimates Of Consumer Instalment Credit\", Table 1&2; Data For 1940-1959: Consumer Credit\", A Supplement To Banking And Monetary Statistics, Section 16 (New); Data For 1960-1967: Bulletin, December 1968; For 1968: Monthly Bulletins And Frb Monthly Release G-19, \"Consumer Credit\"\n\nThis NBER data series m10047 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10047"
+}

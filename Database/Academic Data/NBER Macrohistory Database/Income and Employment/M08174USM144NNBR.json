@@ -1,0 +1,18 @@
+{
+  "id": "M08174USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Aggregate Compensation on an Hourly Basis, Railway Workers for the United States",
+  "observation_start": "1921-07-01",
+  "observation_end": "1943-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:16:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "From 1932, Smithing And Terminal Companies Are Not Included Within The Dataset. Source: Interstate Commerce Commission Wage Statistics\n\nThis NBER data series m08174 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08174"
+}

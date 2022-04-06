@@ -1,0 +1,18 @@
+{
+  "id": "B075RU1Q027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal government current tax receipts: Taxes on corporate income (DISCONTINUED)",
+  "observation_start": "1947-01-01",
+  "observation_end": "2016-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-11-21 11:31:04-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B075RU1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

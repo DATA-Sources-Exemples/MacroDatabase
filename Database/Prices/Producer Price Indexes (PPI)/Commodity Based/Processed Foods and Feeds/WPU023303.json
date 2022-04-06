@@ -1,7 +1,7 @@
 {
   "id": "WPU023303",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Processed Cheese and Related Products",
   "observation_start": "1981-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:04:28-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 7
 }

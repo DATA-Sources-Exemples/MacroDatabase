@@ -1,0 +1,18 @@
+{
+  "id": "RATEATIESTBS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Resources and Assets: Total Earning Assets, Total Interest Securities, Total Bills; Loans and Securities",
+  "observation_start": "1914-11-20",
+  "observation_end": "2018-04-11",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-02-10 17:19:26-06",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "This series is calculated by the authors between November 20, 1914 and January 7, 1916. It was incorporated in the original press release on January 14, 1916.\n\nThis series is in the H.4.1 Factors Affecting Reserve Balances statistical press release and is available in FRED as WSRLL (https://fred.stlouisfed.org/series/WSRLL).\n\nData before Wednesday, April 27, 1921 represent weekly values as of Friday.\n\nAuthors: Cecilia Bao, Justin Chen, Nicholas Fries, Andrew Gibson, Emma Paine, and Kurt Schuler\nStudies in Applied Economics no. 115, Johns Hopkins University Institute for Applied Economics, Global Health, and the Study of Business Enterprise, July 2018; co-published with the Center for Financial Stability"
+}

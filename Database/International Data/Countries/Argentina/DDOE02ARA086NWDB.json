@@ -1,0 +1,18 @@
+{
+  "id": "DDOE02ARA086NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index for Argentina",
+  "observation_start": "1960-01-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2010=100",
+  "units_short": "Index 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-21 11:21:19-05",
+  "popularity": 12,
+  "group_popularity": 33,
+  "notes": "Consumer price index reflects changes in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nSource Code: GFDD.OE.02"
+}

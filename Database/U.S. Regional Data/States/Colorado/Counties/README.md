@@ -1,65 +1,65 @@
-| Folder                 |   Files / Folders |
-|------------------------|-------------------|
-| Phillips County, CO    |                 1 |
-| Teller County, CO      |                 1 |
-| Yuma County, CO        |                 1 |
-| Denver County, CO      |                 1 |
-| Garfield County, CO    |                 1 |
-| Saguache County, CO    |                 1 |
-| Hinsdale County, CO    |                 1 |
-| Pitkin County, CO      |                 1 |
-| Jefferson County, CO   |                 1 |
-| Cheyenne County, CO    |                 1 |
-| Las Animas County, CO  |                 1 |
-| Pueblo County, CO      |                 1 |
-| Jackson County, CO     |                 1 |
-| Grand County, CO       |                 1 |
-| Mesa County, CO        |                 1 |
-| Costilla County, CO    |                 1 |
-| Alamosa County, CO     |                 1 |
-| Elbert County, CO      |                 1 |
-| Otero County, CO       |                 1 |
-| San Juan County, CO    |                 1 |
-| Rio Blanco County, CO  |                 1 |
-| Eagle County, CO       |                 1 |
-| Rio Grande County, CO  |                 1 |
-| Kit Carson County, CO  |                 1 |
-| Summit County, CO      |                 1 |
-| Conejos County, CO     |                 1 |
-| Routt County, CO       |                 1 |
-| Morgan County, CO      |                 1 |
-| Bent County, CO        |                 1 |
-| Gunnison County, CO    |                 1 |
-| Fremont County, CO     |                 1 |
-| Lincoln County, CO     |                 1 |
-| La Plata County, CO    |                 1 |
-| San Miguel County, CO  |                 1 |
-| Archuleta County, CO   |                 1 |
-| Moffat County, CO      |                 1 |
-| Adams County, CO       |                 1 |
-| Crowley County, CO     |                 1 |
-| Dolores County, CO     |                 1 |
-| Delta County, CO       |                 1 |
-| Arapahoe County, CO    |                 1 |
-| Mineral County, CO     |                 1 |
-| Huerfano County, CO    |                 1 |
-| Ouray County, CO       |                 1 |
-| Gilpin County, CO      |                 1 |
-| Baca County, CO        |                 1 |
-| Lake County, CO        |                 1 |
-| Kiowa County, CO       |                 1 |
-| Custer County, CO      |                 1 |
-| Larimer County, CO     |                 1 |
-| Prowers County, CO     |                 1 |
-| Washington County, CO  |                 1 |
-| Sedgwick County, CO    |                 1 |
-| Chaffee County, CO     |                 1 |
-| Clear Creek County, CO |                 1 |
-| El Paso County, CO     |                 1 |
-| Park County, CO        |                 1 |
-| Montezuma County, CO   |                 1 |
-| Logan County, CO       |                 1 |
-| Montrose County, CO    |                 1 |
-| Boulder County, CO     |                 1 |
-| Douglas County, CO     |                 1 |
-| Weld County, CO        |                 1 |
+| Folder                       |   Files / Folders |
+|------------------------------|-------------------|
+| Montezuma County, CO         |                90 |
+| Pitkin County, CO            |                90 |
+| Bent County, CO              |                89 |
+| El Paso County, CO           |               147 |
+| San Juan County, CO          |                86 |
+| Park County, CO              |                90 |
+| Mineral County, CO           |                86 |
+| Otero County, CO             |                90 |
+| San Miguel County, CO        |                88 |
+| Weld County, CO              |               147 |
+| Archuleta County, CO         |                89 |
+| Denver County, CO            |               146 |
+| Morgan County, CO            |                89 |
+| Hinsdale County, CO          |                85 |
+| Huerfano County, CO          |                90 |
+| Broomfield County - city, CO |                 1 |
+| Summit County, CO            |                90 |
+| Conejos County, CO           |                88 |
+| Chaffee County, CO           |                89 |
+| Sedgwick County, CO          |                88 |
+| Yuma County, CO              |                89 |
+| Crowley County, CO           |                88 |
+| Ouray County, CO             |                90 |
+| Gilpin County, CO            |                89 |
+| Douglas County, CO           |               147 |
+| Gunnison County, CO          |                90 |
+| Rio Grande County, CO        |                89 |
+| Routt County, CO             |                90 |
+| Kiowa County, CO             |                88 |
+| Delta County, CO             |                90 |
+| Adams County, CO             |               147 |
+| Eagle County, CO             |               146 |
+| Montrose County, CO          |                90 |
+| Logan County, CO             |                89 |
+| La Plata County, CO          |               146 |
+| Jackson County, CO           |                86 |
+| Kit Carson County, CO        |                89 |
+| Moffat County, CO            |                89 |
+| Mesa County, CO              |               146 |
+| Baca County, CO              |                89 |
+| Larimer County, CO           |               147 |
+| Rio Blanco County, CO        |                89 |
+| Lincoln County, CO           |                87 |
+| Phillips County, CO          |                89 |
+| Grand County, CO             |                90 |
+| Washington County, CO        |                88 |
+| Garfield County, CO          |               146 |
+| Clear Creek County, CO       |                90 |
+| Costilla County, CO          |                88 |
+| Prowers County, CO           |                89 |
+| Lake County, CO              |                90 |
+| Las Animas County, CO        |                89 |
+| Fremont County, CO           |                90 |
+| Dolores County, CO           |                87 |
+| Pueblo County, CO            |               147 |
+| Boulder County, CO           |               147 |
+| Jefferson County, CO         |               147 |
+| Arapahoe County, CO          |               147 |
+| Teller County, CO            |                90 |
+| Alamosa County, CO           |                90 |
+| Custer County, CO            |                90 |
+| Cheyenne County, CO          |                89 |
+| Elbert County, CO            |                90 |

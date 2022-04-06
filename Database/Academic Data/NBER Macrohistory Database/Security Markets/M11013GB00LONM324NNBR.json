@@ -1,0 +1,18 @@
+{
+  "id": "M11013GB00LONM324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Security Price Index, Coal, Iron, and Steel Shares for London, Great Britain",
+  "observation_start": "1887-04-01",
+  "observation_end": "1935-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:01:30-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "This Index Was Computed By NBER From Original Data In Thousands Of Pounds Sterling Published In Bankers' Magazine. Additions To Or Subtractions From The Number Of Securities Included Have Been Made From Time To Time. Data From The Old And New Series Are Linked By The NBER And The Resultant Index Is Constructed Based Upon The 1913 Avaerage. In Order To Construct Indexes Covering The Entire Period These Aggregate Totals As Computed By Bankers' Magazine Have Been Further Treated By The NBER. At The Points Of These Revisions In The Series The Value For The Given Date According To Both The Old And The New Data Are Available. By Multiplying Data From One Period By A Coefficient Equal To The Ratio Of The Old To The New, A Single Series Can Be Constructed, Including The Data From Both Original Sections. Consequently, The Various Sections Of Original Data Have Been Tied Together At Their Overlapping Points, And Our Base Of 100 Equaling The Monthly Average Of 1913. The Valuation Was Omitted For May And June, 1887. The Following Is A Summary Of The Time Periods, The Number Of Shares, Or Securities Involved, And The Par Value, In Thousands Of Pounds. 04/1887-02/1888, 8 Shares, Par Value Of 6,008; 03/1888-12/1895, 8 Shares, Par Value Of 6,758; 12/1895-12/1906, 7 Shares, Par Value Of 6,055; 12/1906-12/1921, 8 Shares, Par Value Of 11,910; 12/1921-1935, 14 Shares, Par Value Of 58,294. Source: Bankers' Magazine, London And Computed By NBER.\n\nThis NBER data series m11013 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11013"
+}

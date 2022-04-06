@@ -1,0 +1,18 @@
+{
+  "id": "M14085GBM440NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Other Deposits, Bank of England for Great Britain",
+  "observation_start": "1844-09-01",
+  "observation_end": "1939-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds Sterling",
+  "units_short": "Mil. Of Pounds Sterling",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:34:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are For Deposits Other Than Those Of The Government, Which Are Under The Heading Of \"Public Deposits\" On The Balance Sheet. The \"Other\" Deposits Also Include The Balances Which The Other Banks Of The Country Keep With The Bank Of England. Data Were Reported Weekly On Monday. Deposits Reported On The Last Wednesday Of Each Month Were Taken For That Month. Beginning In November 1928,\"Other\" Deposits Have Been Computed By Summing \"Bankers'\" And \"Other Accounts\" (See January 1929 Issue Of Bankers' Magazine, P.8 And P.163). Source: Bankers' Magazine.\n\nThis NBER data series m14085 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14085"
+}

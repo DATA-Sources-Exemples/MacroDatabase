@@ -1,0 +1,18 @@
+{
+  "id": "Q03075GBQ458NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Loaded Wagon-Miles for Great Britain",
+  "observation_start": "1931-01-01",
+  "observation_end": "1939-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Wagon-Miles",
+  "units_short": "Mil. Of Wagon-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:02:59-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Source: Ministry Of Transport, Successive Issues Of \"Railway Statistics\"\n\nThis NBER data series q03075 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: q03075"
+}

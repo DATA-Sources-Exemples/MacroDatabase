@@ -1,0 +1,17 @@
+{
+  "id": "NRMNSAUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Manufactured Homes for Non-Residential or Other Use: Multi-Section Homes in the United States",
+  "observation_start": "2014-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-08 11:03:13-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

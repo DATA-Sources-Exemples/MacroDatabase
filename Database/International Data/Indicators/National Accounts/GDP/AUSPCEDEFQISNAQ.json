@@ -1,0 +1,18 @@
+{
+  "id": "AUSPCEDEFQISNAQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Private Final Consumption Expenditure Implicit Price Deflator in Australia",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "2010=100",
+  "units_short": "2010=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:03:10-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), OECD National Accounts Statistics, http://dx.doi.org/10.1787/na-data-en, (accessed on date)"
+}

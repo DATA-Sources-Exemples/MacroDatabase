@@ -1,8 +1,8 @@
 {
   "WPS3311": {
     "id": "WPS3311",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Books (DISCONTINUED)",
     "observation_start": "1983-01-01",
     "observation_end": "2008-12-01",
@@ -15,12 +15,12 @@
     "last_updated": "2015-05-14 10:41:37-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPS331101": {
     "id": "WPS331101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Textbooks",
     "observation_start": "1984-01-01",
     "observation_end": "2014-12-01",
@@ -33,12 +33,12 @@
     "last_updated": "2020-02-18 14:52:37-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPS331102": {
     "id": "WPS331102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Technical, Scientific, and Professional Books",
     "observation_start": "2003-01-01",
     "observation_end": "2022-02-01",
@@ -51,12 +51,12 @@
     "last_updated": "2022-03-15 08:05:46-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPS331202": {
     "id": "WPS331202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Newspaper Subscription and Single Copy Sales",
     "observation_start": "1984-01-01",
     "observation_end": "2022-02-01",
@@ -69,12 +69,12 @@
     "last_updated": "2022-03-15 08:05:46-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33": {
     "id": "WPU33",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -87,12 +87,12 @@
     "last_updated": "2022-03-15 08:01:30-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331": {
     "id": "WPU331",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Book, Periodical, and Newspaper Publishing Sales and Subscriptions",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -105,12 +105,12 @@
     "last_updated": "2022-03-15 08:01:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU332": {
     "id": "WPU332",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Directory, Mailing List, and Related Compilations Publishing Sales",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -123,12 +123,12 @@
     "last_updated": "2022-03-15 08:01:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU333": {
     "id": "WPU333",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Greeting Card Publishing Sales",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -141,12 +141,12 @@
     "last_updated": "2022-03-15 08:01:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU334": {
     "id": "WPU334",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Calendars, Yearbooks, and Other Miscellaneous Publishing Sales",
     "observation_start": "1989-12-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU335": {
     "id": "WPU335",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Internet Publishing and Broadcasting Subscription, Content Access, and Licensing Sales",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -175,14 +175,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:24-05",
-    "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "popularity": 3,
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU3311": {
     "id": "WPU3311",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Books",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -195,12 +195,12 @@
     "last_updated": "2022-03-15 08:01:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU3312": {
     "id": "WPU3312",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales and Subscriptions of Periodicals and Newspapers",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -213,12 +213,12 @@
     "last_updated": "2022-03-15 08:01:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU3321": {
     "id": "WPU3321",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Directory, Mailing List, and Related Compilations Publishing Sales",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -231,12 +231,12 @@
     "last_updated": "2022-03-15 08:01:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU3331": {
     "id": "WPU3331",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Greeting Card Publishing Sales",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -249,12 +249,12 @@
     "last_updated": "2022-03-15 08:01:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU3341": {
     "id": "WPU3341",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Calendars, Yearbooks, and Other Miscellaneous Publishing Sales",
     "observation_start": "1989-12-01",
     "observation_end": "2022-02-01",
@@ -267,12 +267,12 @@
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU3351": {
     "id": "WPU3351",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Internet Publishing and Broadcasting Subscription, Content Access, and Licensing Sales",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -284,13 +284,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331101": {
     "id": "WPU331101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Textbooks",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -303,12 +303,12 @@
     "last_updated": "2022-03-15 08:01:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331102": {
     "id": "WPU331102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Technical, Scientific, and Professional Books",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -321,12 +321,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331103": {
     "id": "WPU331103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Religious Books",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -339,12 +339,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331104": {
     "id": "WPU331104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of General Adult and Juvenile Books",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -357,12 +357,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331105": {
     "id": "WPU331105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of General Reference Books",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -375,12 +375,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331201": {
     "id": "WPU331201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales and Subscriptions of Periodicals",
     "observation_start": "2007-06-01",
     "observation_end": "2022-02-01",
@@ -393,12 +393,12 @@
     "last_updated": "2022-03-15 08:01:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU331202": {
     "id": "WPU331202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Newspaper Subscription and Single Copy Sales",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -411,12 +411,12 @@
     "last_updated": "2022-03-15 08:01:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU332101": {
     "id": "WPU332101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Directory, Mailing List, and Related Compilations Publishing Sales",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -429,12 +429,12 @@
     "last_updated": "2022-03-15 08:01:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU333101": {
     "id": "WPU333101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Greeting Card Publishing Sales",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -447,12 +447,12 @@
     "last_updated": "2022-03-15 08:01:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU334101": {
     "id": "WPU334101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Calendars, Yearbooks, and Other Miscellaneous Publishing Sales",
     "observation_start": "1989-12-01",
     "observation_end": "2022-02-01",
@@ -465,12 +465,12 @@
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU335101": {
     "id": "WPU335101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Internet Publishing and Broadcasting Subscription, Content Access, and Licensing Sales",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -482,13 +482,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33110101": {
     "id": "WPU33110101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Textbooks",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -501,12 +501,12 @@
     "last_updated": "2022-03-15 08:01:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33110201": {
     "id": "WPU33110201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Technical, Scientific, and Professional Books",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -519,12 +519,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33110301": {
     "id": "WPU33110301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of Religious Books",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -537,12 +537,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33110402": {
     "id": "WPU33110402",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of General Adult and Juvenile Books",
     "observation_start": "1980-12-01",
     "observation_end": "2022-02-01",
@@ -555,12 +555,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33110501": {
     "id": "WPU33110501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales of General Reference Books",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -573,12 +573,12 @@
     "last_updated": "2022-03-15 08:01:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33120101": {
     "id": "WPU33120101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Sales and Subscriptions of Periodicals",
     "observation_start": "2007-06-01",
     "observation_end": "2022-02-01",
@@ -591,12 +591,12 @@
     "last_updated": "2022-03-15 08:01:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33120201": {
     "id": "WPU33120201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Publishing Sales, Excluding Software: Sales and Subscriptions of Newspapers, Daily and Sunday Papers (DISCONTINUED)",
     "observation_start": "1999-06-01",
     "observation_end": "2015-09-01",
@@ -610,12 +610,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33120202": {
     "id": "WPU33120202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Publishing Sales, Excluding Software: Sales and Subscriptions of Newspapers, Weekly and Other Papers (DISCONTINUED)",
     "observation_start": "1999-06-01",
     "observation_end": "2014-04-01",
@@ -629,12 +629,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33210101": {
     "id": "WPU33210101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Directory, Mailing List, and Related Compilations Publishing Sales",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -647,12 +647,12 @@
     "last_updated": "2022-03-15 08:01:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33310101": {
     "id": "WPU33310101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Greeting Card Publishing Sales",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -665,12 +665,12 @@
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33410101": {
     "id": "WPU33410101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Calendars, Yearbooks, and Other Miscellaneous Publishing Sales",
     "observation_start": "1989-12-01",
     "observation_end": "2022-02-01",
@@ -683,12 +683,12 @@
     "last_updated": "2022-03-15 08:01:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   },
   "WPU33510101": {
     "id": "WPU33510101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Publishing Sales, Excluding Software: Internet Publishing and Broadcasting Subscription, Content Access, and Licensing Sales",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -700,7 +700,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:23-05",
     "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Publishing Sales, Excluding Software"
   }
 }

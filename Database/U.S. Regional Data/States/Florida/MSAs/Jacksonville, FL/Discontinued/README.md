@@ -1,2 +1,13 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                   | observation_start   | observation_end   |
+|------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA27260Q156N | CredAbility Consumer Distress Index for Jacksonville, FL (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
+| INTINCOMEJAX     | Net Interest Income for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| JAXAGRIDX        | Economic Conditions Index for Jacksonville, FL (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| LLSJAX           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRJAX          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NIJAX            | Net Income for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| NIMJAX           | Net Interest Margin for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| PCRGMP27260      | Total Per Capita Real Gross Domestic Product for Jacksonville, FL (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROAJAX           | Return on Average Assets for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| TOTASSETJAX      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANJAX       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Jacksonville, FL (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

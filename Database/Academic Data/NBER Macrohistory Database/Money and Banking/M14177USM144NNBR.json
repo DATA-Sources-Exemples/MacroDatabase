@@ -1,0 +1,18 @@
+{
+  "id": "M14177USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cash in Vault, Total, National Banks, Including Possessions for United States",
+  "observation_start": "1870-01-01",
+  "observation_end": "1914-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:33:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Coverage Is For Call Dates Only. All Years Have Scattered Three To Five Month Coverage. Data For 1874-June 1917 Are For Lawful Money (Sum Of Total Specie, Legal Tender Notes, And U.S. Certificates Of Deposit) Held In National Banks; Bills Of Other National Banks; Fractional Currency. Data Include Federal Reserve Notes From December 1914 On; Federal Reserve Banks Notes Are Included From May 1916 On. Data For September 1917 Reflects A Change In Reserve Requirements Which Eliminated Lawful Money In Vault From The Calculation Of Reserves (See Annual Comptroller Report Of 1917, Vol. I, Pp. 40-42). Source: Computed By NBER Using Data From The U.S. Comptroller Of The Currency, Annual Reports, Tables On Total Specie, Lawful Money, And Resources And Liabilities Of The National Banks On Call Dates.\n\nThis NBER data series m14177 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14177"
+}

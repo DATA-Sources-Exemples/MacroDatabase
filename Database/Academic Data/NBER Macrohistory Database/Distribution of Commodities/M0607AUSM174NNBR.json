@@ -1,0 +1,18 @@
+{
+  "id": "M0607AUSM174NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Restaurant Chains, Sales Per Store for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1923-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:51:07-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1923 (2)--Original Data, 1923-1938. These Data Are For The Child'S Company. Source: Computed By NBER From Published Data On Sales And Number Of Stores In Survey Of Current Business, July 1927, P. 21\n\nThis NBER data series m06007a appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06007a"
+}

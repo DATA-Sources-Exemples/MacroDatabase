@@ -1,0 +1,18 @@
+{
+  "id": "A01028USA558NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cotton Crop for United States",
+  "observation_start": "1798-01-01",
+  "observation_end": "1955-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Five Hundred Pound Bales (Gross Weight)",
+  "units_short": "Thous. Of Five Hundred Pound Bales (Gross Weight)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:46-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "Source: U.S. Department Of Agriculture, Bureau Of Statistics, Data For 1798-1898: Circular 32, \"Cotton Crop Of The U.S., 1790-1911\". Data For 1899-1955: Agricultural Statistics, 1942; 1950; Crop Production, Annual Summary, 1951 And 1955.\n\nThis NBER data series a01028 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01028"
+}

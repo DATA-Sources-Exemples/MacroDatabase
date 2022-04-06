@@ -1,0 +1,18 @@
+{
+  "id": "G20B6FAPI02CXCUQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Balance of payments BPM6: Financial account: Portfolio investment: Portfolio investment Net acquisition of financial assets for G20",
+  "observation_start": "2008-01-01",
+  "observation_end": "2017-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "US Dollars, sum over component sub-periods",
+  "units_short": "US $, sum over component sub-periods",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-07-23 12:40:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: B6FAPI02 OECD unit ID: CXCU OECD country ID: G-20All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

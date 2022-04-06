@@ -1,0 +1,18 @@
+{
+  "id": "CRIIRSTLQ01STQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Interest Rates: Immediate rates (< 24 hrs): Liquidity credit rates: Total for Costa Rica",
+  "observation_start": "1998-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-10 10:56:31-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: IRSTLQ01 OECD unit ID: ST OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

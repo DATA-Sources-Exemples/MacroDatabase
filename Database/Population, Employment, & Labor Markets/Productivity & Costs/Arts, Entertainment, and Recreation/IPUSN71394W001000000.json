@@ -1,0 +1,18 @@
+{
+  "id": "IPUSN71394W001000000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Output per Employee for Arts, Entertainment, and Recreation: Fitness and Recreational Sports Centers (NAICS 71394) in the United States",
+  "observation_start": "2003-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-01 10:27:29-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Output is the amount of goods and services produced. per employee"
+}

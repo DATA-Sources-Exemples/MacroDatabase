@@ -1,0 +1,18 @@
+{
+  "id": "SMU41216609091000001SA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Government: Federal Government in Eugene, OR (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-26 04:29:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU41216609091000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator."
+}

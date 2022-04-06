@@ -1,0 +1,18 @@
+{
+  "id": "CPGRLE01CLA659N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: OECD Groups: All Items Non-Food and Non-Energy for Chile",
+  "observation_start": "1999-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Growth Rate Same Period Previous Year",
+  "units_short": "Growth Rate Same Period Previous Yr.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-18 12:34:33-06",
+  "popularity": 1,
+  "group_popularity": 4,
+  "notes": "OECD descriptor ID: CPGRLE01\nOECD unit ID: GY\nOECD country ID: CHL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

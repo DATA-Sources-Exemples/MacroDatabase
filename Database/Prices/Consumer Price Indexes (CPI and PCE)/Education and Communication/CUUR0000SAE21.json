@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SAE21",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Consumer Price Index for All Urban Consumers: Information and Information Processing in U.S. City Average",
   "observation_start": "1993-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:40:38-06",
   "popularity": 2,
-  "group_popularity": 8
+  "group_popularity": 6
 }

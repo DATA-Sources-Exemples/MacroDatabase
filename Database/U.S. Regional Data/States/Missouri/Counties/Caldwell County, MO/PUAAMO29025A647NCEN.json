@@ -1,0 +1,18 @@
+{
+  "id": "PUAAMO29025A647NCEN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Poverty Universe, All Ages for Caldwell County, MO",
+  "observation_start": "1998-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-16 11:33:49-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "The U.S. Census Bureau provides annual estimates of income and poverty statistics for all school districts, counties, and states through the Small Area Income and Poverty Estimates (https://www.census.gov/programs-surveys/saipe/about.html) (SAIPE) program. The bureau's main objective with this program is to provide estimates of income and poverty for the administration of federal programs and the allocation of federal funds to local jurisdictions. In addition to these federal programs, state and local programs use the income and poverty estimates for distributing funds and managing programs.\n\nPoverty universe is one of the data sources used in producing SAIPE program estimates, it is made up of persons for whom the Census Bureau can determine poverty status (either \"in poverty\" or \"not in poverty\"). The definition of poverty universe for SAIPE estimates is the same for 2006 and beyond and conceptually matches the poverty universe of the American Community Survey (ACS). The poverty universe estimates are not the same as the population estimates from the Census Bureau's Population Estimates Program. Instead, they are derived estimates that differ from population estimates in the following ways:\n 1. The poverty universe does not include children under the age of 15 who are not related to a reference person within the household by way of birth, marriage or adoption (for example, foster children). The reason is that Census Bureau surveys typically ask income questions only of persons age 15 or older and those under 15 related to a reference person within the household.\n 2. Beginning with 2006, the poverty universe includes group quarters populations only for noninstitutionalized group quarters, not elsewhere classified. Residents of college dormitories, military housing, and all institutional group quarters populations are excluded. The 2005 poverty universe estimates excluded all group quarters' residents, matching the definition of the 2005 ACS. Prior to the estimates for 2005, the poverty universe data were derived from the Annual Social and Economic Supplement of the Current Population Survey. This marks a break in the data series due to a methodology change.\n\nSee more details about SAIPE Model Input Data (https://www.census.gov/data/datasets/time-series/demo/saipe/model-tables.html)."
+}

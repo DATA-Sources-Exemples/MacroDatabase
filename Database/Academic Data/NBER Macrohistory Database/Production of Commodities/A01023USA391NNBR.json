@@ -1,0 +1,18 @@
+{
+  "id": "A01023USA391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corn Crop for United States",
+  "observation_start": "1866-01-01",
+  "observation_end": "1951-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:37-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "Data Are For Production In Grain Equivalent On Entire Acreage. Source: U.S. Department Of Agriculture, \"Agricultural Statistics\", 1941, 1942, 1950; Crop Reporting Board, \"Crop Production\", 1951 Annual Summary, December 1951.\n\nThis NBER data series a01023 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01023"
+}

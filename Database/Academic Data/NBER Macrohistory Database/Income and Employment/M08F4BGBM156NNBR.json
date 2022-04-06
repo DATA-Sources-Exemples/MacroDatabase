@@ -1,0 +1,18 @@
+{
+  "id": "M08F4BGBM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Percentage Unemployed, Building Trades, Insured Workers for United Kingdom",
+  "observation_start": "1921-05-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:26:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1888-1926 (2)--Original Data, 1921-1939. The Following Adjustments Were Made To The Data By NBER: Linear Interpolation For Monthly Total Insured Figures; May, 1921-February, 1922--Short-Time Workers Added In; Figures For Great Britain And Ireland Lowered To Great Britain And Northern Ireland Basis. March, 1922-October, 1922 Data Have Short-Time Workers Added In. November 1922-October 1923 Data Have NBER Adjustments For Short-Time Workers. November 1923-July 1939 Data Have Short-Time Workers Added In. September 1937-July 1939 Data Have An NBER Adjustment To Make Continuous Computation Of The Number Of Unemployed. Source: Ministry Of Labour Gazette, Monthly Issues .\n\nThis NBER data series m08004b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08004b"
+}

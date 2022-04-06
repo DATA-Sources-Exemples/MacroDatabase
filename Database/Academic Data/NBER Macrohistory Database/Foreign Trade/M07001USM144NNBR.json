@@ -1,0 +1,18 @@
+{
+  "id": "M07001USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Domestic Exports of Crude Foodstuffs for United States",
+  "observation_start": "1905-07-01",
+  "observation_end": "1956-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:02:31-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Certain Latest Revisions Were Taken From Survey Of Current Business. Minor Revisions In The 1946 Figures Have Been Disregarded. January- July 1952 Figures Were Furnished By The Survey Of Current Business, January 28, 1954. Figures From 1954-1956 Are Subject To Revision. Source: 1905-June 1914: Commerce And Finance, Monthly Summary, July 1906 And Successive Issues; July 1914-1941: Foreign Commerce, Monthly Summary (Part 2 After After March 1921); 1942 And Thereafter: Survey Of Current Business.\n\nThis NBER data series m07001 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07001"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0692AUSM343SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Shipments, Total, Value for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1944-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1935-1939=100",
+  "units_short": "Index 1935-1939=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 13:46:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1929-1944 (2)--Original Data, 1942-1963 (3)--Seasonally Adjusted Data, 1926-1963 (4)--Original Data, 1947-1969. The Index Was Discontinued After July 1944 And Replaced By Segments Completed By The Department Of Commerce (See The Conference Board Business Record, October 1944, P.261 And Variables Covering Subsequent Years.) Source: National Industrial Conference Board, For 1929-1939 Data: The Economic Record, Supplement Of December 26, 1940, \"Manufacturers' Shipments, Orders, 1929-1940, Revised Orders\"; For 1940-May 1944 Data: The Economic Almanac, 1942-1943, 1943-1944, 1944-1945; Data For June-July 1944: The Conference Board Business Record, September 1944\n\nThis NBER data series m06092a appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06092a"
+}

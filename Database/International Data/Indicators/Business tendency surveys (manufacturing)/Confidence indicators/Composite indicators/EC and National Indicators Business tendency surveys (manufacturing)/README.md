@@ -1,3 +1,3 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Confidence indicators |                 0 |
+| Confidence indicators |                 1 |

@@ -1,0 +1,17 @@
+{
+  "id": "ABS5T10",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Asset-backed securities held by TALF LLC (Face value): Maturing in over 5 years to 10 years (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2014-11-05",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-11-06 15:54:23-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

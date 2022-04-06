@@ -1,0 +1,18 @@
+{
+  "id": "SMU36935612023800008A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings of Production Employees: Construction: Specialty Trade Contractors in New York City, NY",
+  "observation_start": "2005-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 05:29:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "New York City, NY constitutes a significant percentage of the state's total statewide employment. This series is calculated in addition to the New York-Wayne-White Plains, NY-NJ (MD)'s statistics because of it's importance to the state. For more details on non-standard area definitions, visit the additional resources (https://www.bls.gov/sae/additional-resources/non-standard-ces-areas.htm) of the Current Employment Statistics."
+}

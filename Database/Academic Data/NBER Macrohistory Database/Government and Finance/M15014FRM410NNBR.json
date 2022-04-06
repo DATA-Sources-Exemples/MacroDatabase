@@ -1,0 +1,18 @@
+{
+  "id": "M15014FRM410NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue from Commercial Paper Tax for France",
+  "observation_start": "1896-01-01",
+  "observation_end": "1939-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Francs",
+  "units_short": "Mil. of Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:46:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Listed In Source Under \"Budget De L'Etat-Timbre Proportionnel--Effects Negotiable Au Mon, Warrants, Billets De Banque.\" Data Were Repeated In Source The Following Year And Thus Double-Checked. Discrepancies Were Settled By Summing Component Parts Of A Total Or By Successive Cumulative Totals. The Raw Figure For April 1924 (13808) Was Misprinted By The Source As 13308. The Cumulative Total In 1924 And 1925 For May 1924 Is Also Probably A Misprint. Only Quarterly Data Is Available For April-June, 1934. Source: Ministere Des Finances, Bulletin De Statistique Et De Legislation Comparee, January 1897, P. 184, And Successive Monthly Issues\n\nThis NBER data series m15014 appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15014"
+}

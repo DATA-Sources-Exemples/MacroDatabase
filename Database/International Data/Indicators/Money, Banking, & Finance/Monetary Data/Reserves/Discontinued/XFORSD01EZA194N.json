@@ -1,0 +1,18 @@
+{
+  "id": "XFORSD01EZA194N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Reserve Assets for the Euro Area (DISCONTINUED)",
+  "observation_start": "1999-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Special Drawing Rights",
+  "units_short": "Special Drawing Rights",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-02-05 08:25:28-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: XFORSD01\nOECD unit ID: ST\nOECD country ID: EA17\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

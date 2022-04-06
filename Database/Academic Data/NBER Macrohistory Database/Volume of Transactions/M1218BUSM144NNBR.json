@@ -1,0 +1,18 @@
+{
+  "id": "M1218BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Deflated Bank Debits for 140 Outside Centers Outside New York City for United States",
+  "observation_start": "1928-01-01",
+  "observation_end": "1939-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:31:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1875-1919 (2)--Original Data, 1928-1939 (3)--Seasonally Adjusted Data, 1919-1939. Data For 1919-1927 Were Computed By Business Cycle From Macauley'S Logs. The Figures Appear In The Source In Table 30, Column 1. Beginning In 1928, Business Cycles Substituted It'S Own Seasonal Corrections. Data For May 1933-November 1939 Were Derived By NBER Following The Same Method. March 1933 Data Is Incomplete Due To Bank Holidays. The Figure Is Based On Data Taken From The Survey Of Current Business. The Figure Is Based On A 31 Day Month, Giving It A Downward Bia. Source: For 1919-1928 Data: F.R. Macaulay, \"The Movements Of Interest Rates, Bond Yields, And Stock Prices In The U.S. Since 1856, \" NBER Publication #33, 1938; Thereafter Computed By NBER By Snyder Price Index.\n\nThis NBER data series m12018b appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12018b"
+}

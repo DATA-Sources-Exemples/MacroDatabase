@@ -1,0 +1,17 @@
+{
+  "id": "SMU39446000500000002A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Hours of All Employees: Total Private in Steubenville-Weirton, OH-WV (MSA) (DISCONTINUED)",
+  "observation_start": "2007-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Hours per Week",
+  "units_short": "Hours per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-24 19:28:09-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

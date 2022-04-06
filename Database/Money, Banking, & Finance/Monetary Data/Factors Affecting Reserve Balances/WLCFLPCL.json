@@ -1,0 +1,18 @@
+{
+  "id": "WLCFLPCL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Liquidity and Credit Facilities: Loans: Primary Credit: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:10-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "Primary credit is a lending program available to depository institutions that are in generally sound financial condition. Primary credit is available in terms from overnight to 28 days. In extending primary credit, Reserve Banks must judge that the borrower is likely to remain eligible for primary credit for the term of the loan."
+}

@@ -1,0 +1,12 @@
+| id              | title                                                                                                                                 | observation_start   | observation_end   |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BSBUCT01BRM460S | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for Brazil (DISCONTINUED)                | 1995-04-01          | 2013-09-01        |
+| BSBUCT01BRQ460S | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for Brazil (DISCONTINUED)                | 1995-04-01          | 2013-07-01        |
+| BSBUCT01CHM460N | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for Switzerland (DISCONTINUED)           | 2004-01-01          | 2013-09-01        |
+| BSBUCT01CNQ460N | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for China (DISCONTINUED)                 | 1992-04-01          | 2011-10-01        |
+| BSBUCT01DEM460S | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for Germany (DISCONTINUED)               | 1961-01-01          | 2013-09-01        |
+| BSBUCT01INQ460N | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for India (DISCONTINUED)                 | 2000-04-01          | 2013-04-01        |
+| BSBUCT01JPQ460S | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for Japan (DISCONTINUED)                 | 1974-04-01          | 2013-04-01        |
+| BSBUCT01KRM460S | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for the Republic of Korea (DISCONTINUED) | 2003-01-01          | 2013-08-01        |
+| BSBUCT01KRQ460S | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for the Republic of Korea (DISCONTINUED) | 1991-07-01          | 2002-10-01        |
+| BSBUCT01ZAQ460N | Business Tendency Surveys for Manufacturing: Business Situation: Current: National Indicator for South Africa (DISCONTINUED)          | 1974-01-01          | 2013-04-01        |

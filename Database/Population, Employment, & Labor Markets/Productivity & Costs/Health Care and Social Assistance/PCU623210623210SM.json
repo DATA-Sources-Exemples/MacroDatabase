@@ -1,0 +1,17 @@
+{
+  "id": "PCU623210623210SM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Residential Developmental Disability Homes: Other Receipts",
+  "observation_start": "2006-07-01",
+  "observation_end": "2014-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jul 2006=100",
+  "units_short": "Index Jul 2006=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 07:56:27-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

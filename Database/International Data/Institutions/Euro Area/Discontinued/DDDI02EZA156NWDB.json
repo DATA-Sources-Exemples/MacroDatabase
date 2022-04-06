@@ -1,0 +1,18 @@
+{
+  "id": "DDDI02EZA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Deposit Money Bank Assets to GDP for Euro Area (DISCONTINUED)",
+  "observation_start": "1973-01-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-08-30 08:06:41-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Total assets held by deposit money banks as a share of GDP. Assets include claims on domestic real nonfinancial sector which includes central, state and local governments, nonfinancial public enterprises and private sector. Deposit money banks comprise commercial banks and other financial institutions that accept transferable deposits, such as demand deposits.\n\nClaims on domestic real nonfinancial sector by deposit money banks as a share of GDP, calculated using the following deflation method: {(0.5)*[Ft/P_et + Ft-1/P_et-1]}/[GDPt/P_at] where F is deposit money bank claims, P_e is end-of period CPI, and P_a is average annual CPI. Raw data are from the electronic version of the IMF's International Financial Statistics. Deposit money bank assets (IFS lines 22, a-d); GDP in local currency (IFS line 99B..ZF or, if not available, line 99B.CZF); end-of period CPI (IFS line 64M..ZF or, if not available, 64Q..ZF); and annual CPI (IFS line 64..ZF). (International Monetary Fund, International Financial Statistics, and World Bank GDP estimates)\n\nSource Code: GFDD.DI.02"
+}

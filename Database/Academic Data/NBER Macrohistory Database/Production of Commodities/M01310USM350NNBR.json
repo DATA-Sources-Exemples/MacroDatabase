@@ -1,0 +1,18 @@
+{
+  "id": "M01310USM350NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Output Per Manhour, All Employees, Manufacturing, Total for United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1969-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:57-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Computed By Dividing Frb Index Of Production Of Manufactures By Bls Index Of Manhours (Both On 1957-1959=100 Base). Source: U.S. Bureau Of Labor Statistics And Federal Reserve Board.\n\nThis NBER data series m01310 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01310"
+}

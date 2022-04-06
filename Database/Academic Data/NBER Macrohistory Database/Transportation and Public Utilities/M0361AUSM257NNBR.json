@@ -1,0 +1,18 @@
+{
+  "id": "M0361AUSM257NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Passenger Car-Miles Per Train-Mile, Class I Railroads for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1930-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Car-Miles per Train-Mile",
+  "units_short": "Car-Miles Per Train-Mile",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:03:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1930 (2)--Original Data, 1930-1943 Source: NBER Derived Data By Dividing Series (Passenger Car-Miles) By (Passenger Train-Miles).\n\nThis NBER data series m03061a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03061a"
+}

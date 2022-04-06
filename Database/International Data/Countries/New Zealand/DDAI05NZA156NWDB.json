@@ -1,0 +1,18 @@
+{
+  "id": "DDAI05NZA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "People 15 Years and Over with Account at a Formal Financial Institution for New Zealand",
+  "observation_start": "2011-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:36:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The percentage of respondents with an account (self or together with someone else) at a bank, credit union, another financial institution (e.g., cooperative, microfinance institution), or the post office (if applicable) including respondents who reported having a debit card (% age 15+).\n\nSource Code: GFDD.AI.05"
+}

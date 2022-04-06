@@ -1,0 +1,18 @@
+{
+  "id": "BC0DCBW027NBOG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Credit, Domestically Chartered Commercial Banks",
+  "observation_start": "1973-01-03",
+  "observation_end": "2022-03-23",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 17:36:17-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
+}

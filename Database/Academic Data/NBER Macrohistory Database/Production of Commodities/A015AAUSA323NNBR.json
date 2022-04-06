@@ -1,0 +1,18 @@
+{
+  "id": "A015AAUSA323NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Crop Production, Twelve Important Crops for United States",
+  "observation_start": "1866-01-01",
+  "observation_end": "1940-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 1910-1914=100",
+  "units_short": "Index 1910-1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:49:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Index Is Based On Revised Figures For Corn, Wheat, Oats, Barley, Rye, Buckwheat, Flaxseed, Potatoes, Sweet Potatoes, Cotton, Tobacco, And Tame Hay. The Combined Index Was Computed By Weighting The Production Of Each Commodity By The Average Farm Price Per Unit During The Years 1910-1914. Each Year Represents A Percent Of This Base Period. Source: U.S. Department Of Agriculture, The Agricultural Situation, January 1935, P. 5, And October 1937, P. 8; Statistical Abstract, Successive Issues.\n\nThis NBER data series a01005aa appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01005aa"
+}

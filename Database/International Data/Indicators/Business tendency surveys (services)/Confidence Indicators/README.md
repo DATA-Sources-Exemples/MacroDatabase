@@ -1,3 +1,3 @@
 | Folder               |   Files / Folders |
 |----------------------|-------------------|
-| Composite Indicators |                 0 |
+| Composite Indicators |                 2 |

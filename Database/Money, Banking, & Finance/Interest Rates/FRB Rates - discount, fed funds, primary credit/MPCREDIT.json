@@ -1,0 +1,18 @@
+{
+  "id": "MPCREDIT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Discount Window Primary Credit Rate",
+  "observation_start": "2003-02-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 15:17:20-05",
+  "popularity": 14,
+  "group_popularity": 53,
+  "notes": "This data represent rate charged for discounts made and advances extended under the Federal Reserve's primary credit discount window program (https://www.frbdiscountwindow.org/), which became effective January 9, 2003. \r\n\r\nPrimary credit is available to generally sound depository institutions at a rate set relative to the Federal Open Market Committee's (FOMC) target range for the federal funds rate. Depository institutions are not required to seek alternative sources of funds before requesting advances of primary credit. Primary credit may be used for any purpose, including financing the sale of federal funds. By making funds readily available at the primary credit rate the primary credit program complements open market operations in the implementation of monetary policy.\r\nReserve Banks ordinarily do not require depository institutions to provide reasons for requesting very short-term primary credit. Rather, borrowers are asked to provide only the minimum information necessary to process a loan, usually the amount and term of the loan.\r\n\r\nThis rate replaces that for adjustment credit, which was discontinued after January 8, 2003. For further information, see Board of Governor's  announcement (https://www.federalreserve.gov/boarddocs/press/bcreg/2002/200210312/). The rate reported is that for the Federal Reserve Bank of New York."
+}

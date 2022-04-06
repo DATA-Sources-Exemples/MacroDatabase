@@ -1,0 +1,18 @@
+{
+  "id": "M1531AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Defense Department, Military Prime Contract Awards to U.S. Business Firms for United States",
+  "observation_start": "1951-01-01",
+  "observation_end": "1956-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:47:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1951-1956 (2)--Original Data, 1956-1969. Source: Unpublished Table From J. Shiskin, U.S. Bureau Of The Census\n\nThis NBER data series m15031a appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15031a"
+}

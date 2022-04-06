@@ -1,0 +1,17 @@
+{
+  "id": "H0RESPPAATALHSD16T90NWW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Supplementary Information: Supplementary Information on Principal Accounts of TALF LLC: Asset-Backed Security Holdings (Face Value): Within 16 to 90 Days: Wednesday Level (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2014-11-05",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-08-28 09:10:42-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

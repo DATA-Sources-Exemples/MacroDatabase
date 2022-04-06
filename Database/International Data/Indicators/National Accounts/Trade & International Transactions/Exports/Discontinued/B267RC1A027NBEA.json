@@ -1,0 +1,18 @@
+{
+  "id": "B267RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Exports of services: Transfers under U.S. military agency sales contracts (DISCONTINUED)",
+  "observation_start": "1967-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-01-30 13:01:32-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B267RC1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

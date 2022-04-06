@@ -1,0 +1,18 @@
+{
+  "id": "BPCRTF01IEA636N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Current Account Credit: Total Transfers for Ireland (DISCONTINUED)",
+  "observation_start": "1999-01-01",
+  "observation_end": "2012-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "National currency, Sum Over Component Sub-periods",
+  "units_short": "National currency, Sum Over Component Sub-periods",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-10-02 12:32:54-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: BPCRTF01\nOECD unit ID: NCCU\nOECD country ID: IRL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M06099USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Buying Policy, Capital Expenditures, Percent Reporting, Commitments 6 Months or Longer for the United States",
+  "observation_start": "1955-05-01",
+  "observation_end": "1967-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percentage",
+  "units_short": "Percentage",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:50:00-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: National Association Of Purchasing Agents, Data Furnished Directly From Source For 1955-1957; Thereafter Data Furnished By The \"Business Survey, \" Found In The First Issue Of Each Month Of The Bulletin Of The National Association Of Purchasing Agents.\n\nThis NBER data series m06099 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06099"
+}

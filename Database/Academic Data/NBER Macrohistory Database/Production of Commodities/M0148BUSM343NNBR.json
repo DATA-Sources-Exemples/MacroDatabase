@@ -1,0 +1,18 @@
+{
+  "id": "M0148BUSM343NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Beef Production for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1953-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1935-1939=100",
+  "units_short": "Index 1935-1939=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1936 (2)--Original Data, 1946-1953 (3)--Original Data, 1947-1956. Source: Federal Reserve Bulletin, Monthly Issues, February 1947 And Succeeding Months.\n\nThis NBER data series m01248b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01248b"
+}

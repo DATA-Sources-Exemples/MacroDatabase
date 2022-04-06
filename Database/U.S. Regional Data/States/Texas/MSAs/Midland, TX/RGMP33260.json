@@ -1,0 +1,18 @@
+{
+  "id": "RGMP33260",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Real Gross Domestic Product for Midland, TX (MSA)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2012 Dollars",
+  "units_short": "Mil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:35:32-06",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "The All industry total includes all Private industries and Government.\n\nReal GDP by metropolitan area is an inflation-adjusted measure of each metropolitan area's gross product that is based on national prices for the goods and services produced within the metropolitan area.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

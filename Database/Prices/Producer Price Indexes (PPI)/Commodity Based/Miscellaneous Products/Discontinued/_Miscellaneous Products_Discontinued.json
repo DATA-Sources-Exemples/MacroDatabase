@@ -1,8 +1,8 @@
 {
   "WPS15": {
     "id": "WPS15",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1974-12-01",
@@ -15,12 +15,12 @@
     "last_updated": "2015-05-14 10:42:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS152": {
     "id": "WPS152",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Tobacco Products, Including Stemmed and Redried (DISCONTINUED)",
     "observation_start": "1967-01-01",
     "observation_end": "1992-12-01",
@@ -33,12 +33,12 @@
     "last_updated": "2015-05-14 10:41:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS153": {
     "id": "WPS153",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Notions (DISCONTINUED)",
     "observation_start": "1976-01-01",
     "observation_end": "1989-12-01",
@@ -51,12 +51,12 @@
     "last_updated": "2015-05-14 10:41:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS154": {
     "id": "WPS154",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Photographic Equipment and Supplies (DISCONTINUED)",
     "observation_start": "1977-01-01",
     "observation_end": "1989-12-01",
@@ -69,12 +69,12 @@
     "last_updated": "2015-05-14 10:41:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS157": {
     "id": "WPS157",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Other Industrial Safety Equipment (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "1999-12-01",
@@ -87,12 +87,12 @@
     "last_updated": "2015-05-14 10:41:50-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS159A": {
     "id": "WPS159A",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Miscellaneous Products, Not Elsewhere Classified (DISCONTINUED)",
     "observation_start": "1991-01-01",
     "observation_end": "1993-12-01",
@@ -105,12 +105,12 @@
     "last_updated": "2015-05-14 10:41:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS159A03": {
     "id": "WPS159A03",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Feathers, Plumes, and Artificial Trees and Flowers (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "1995-12-01",
@@ -122,13 +122,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2015-05-14 10:41:42-05",
     "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1511": {
     "id": "WPS1511",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Toys, Games, and Children's Vehicles (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1995-12-01",
@@ -141,12 +141,12 @@
     "last_updated": "2015-05-14 10:42:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1513": {
     "id": "WPS1513",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Small Arms and Ammunition (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2005-12-01",
@@ -159,12 +159,12 @@
     "last_updated": "2015-05-14 10:41:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1521": {
     "id": "WPS1521",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Cigarettes, Excluding Electronic (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1992-12-01",
@@ -177,12 +177,12 @@
     "last_updated": "2015-05-14 10:41:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1524": {
     "id": "WPS1524",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Stemmed and Redried Tobacco (DISCONTINUED)",
     "observation_start": "1995-01-01",
     "observation_end": "1997-12-01",
@@ -195,12 +195,12 @@
     "last_updated": "2015-05-14 10:41:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1532": {
     "id": "WPS1532",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Fasteners, Zippers, Buttons, Needles, Pins, and Buckles (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -213,12 +213,12 @@
     "last_updated": "2015-05-14 10:41:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1541": {
     "id": "WPS1541",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Photographic and Photocopying Equipment (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "1989-12-01",
@@ -231,12 +231,12 @@
     "last_updated": "2015-05-14 10:41:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1542": {
     "id": "WPS1542",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Photographic Supplies (DISCONTINUED)",
     "observation_start": "1977-01-01",
     "observation_end": "1989-12-01",
@@ -249,12 +249,12 @@
     "last_updated": "2015-05-14 10:41:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1563": {
     "id": "WPS1563",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Medical and Surgical Appliances and Supplies (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "2002-12-01",
@@ -267,12 +267,12 @@
     "last_updated": "2015-05-14 10:41:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1571": {
     "id": "WPS1571",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Personal Safety Equipment and Clothing (DISCONTINUED)",
     "observation_start": "1999-01-01",
     "observation_end": "1999-12-01",
@@ -285,12 +285,12 @@
     "last_updated": "2015-05-14 10:41:49-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1593": {
     "id": "WPS1593",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Musical Instruments (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2003-12-01",
@@ -303,12 +303,12 @@
     "last_updated": "2015-05-14 10:41:47-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS1597": {
     "id": "WPS1597",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Brooms and Brushes (DISCONTINUED)",
     "observation_start": "1975-01-01",
     "observation_end": "2001-12-01",
@@ -321,12 +321,12 @@
     "last_updated": "2015-05-14 10:41:44-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS151101": {
     "id": "WPS151101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Toys, Games, and Children's Vehicles (DISCONTINUED)",
     "observation_start": "1991-07-01",
     "observation_end": "1995-12-01",
@@ -339,12 +339,12 @@
     "last_updated": "2015-05-14 10:42:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS151302": {
     "id": "WPS151302",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Small Arms Ammunition (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "1989-12-01",
@@ -357,12 +357,12 @@
     "last_updated": "2015-05-14 10:41:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS151303": {
     "id": "WPS151303",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Other Small Arms Ammunition Products (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "1994-12-01",
@@ -375,12 +375,12 @@
     "last_updated": "2015-05-14 10:41:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS152101": {
     "id": "WPS152101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Cigarettes, Excluding Electronic (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "1992-12-01",
@@ -393,12 +393,12 @@
     "last_updated": "2015-05-14 10:41:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS156301": {
     "id": "WPS156301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Medical and Surgical Appliances and Supplies (DISCONTINUED)",
     "observation_start": "1992-01-01",
     "observation_end": "2002-12-01",
@@ -411,12 +411,12 @@
     "last_updated": "2015-05-14 10:41:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS159301": {
     "id": "WPS159301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Musical Instruments (DISCONTINUED)",
     "observation_start": "1991-07-01",
     "observation_end": "2003-12-01",
@@ -429,12 +429,12 @@
     "last_updated": "2015-05-14 10:41:47-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS159705": {
     "id": "WPS159705",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Brooms, Brushes and Mops (DISCONTINUED)",
     "observation_start": "1996-01-01",
     "observation_end": "2001-12-01",
@@ -447,12 +447,12 @@
     "last_updated": "2015-05-14 10:41:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS15950210": {
     "id": "WPS15950210",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Pens, Markers, Mechanical Pencils, and Associated Parts (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1995-12-01",
@@ -465,12 +465,12 @@
     "last_updated": "2015-05-14 10:41:45-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPS15950307": {
     "id": "WPS15950307",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Lead Pencils, Art Goods, Office Supplies and Small Office Equipment, Excluding Paper (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1999-12-01",
@@ -483,12 +483,12 @@
     "last_updated": "2015-05-14 10:41:45-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU159A03": {
     "id": "WPU159A03",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Feathers, Plumes, and Artificial Trees and Flowers (DISCONTINUED)",
     "observation_start": "1985-12-01",
     "observation_end": "2009-12-01",
@@ -499,14 +499,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-05-14 10:13:49-05",
-    "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "popularity": 3,
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU159A0303": {
     "id": "WPU159A0303",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Feathers, Plumes, and Artificial Trees and Flowers (DISCONTINUED)",
     "observation_start": "1998-12-01",
     "observation_end": "2009-12-01",
@@ -518,13 +518,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-05-14 10:13:48-05",
     "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU159A09011": {
     "id": "WPU159A09011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Fire Extinguishers (DISCONTINUED)",
     "observation_start": "1991-07-01",
     "observation_end": "2011-12-01",
@@ -537,12 +537,12 @@
     "last_updated": "2015-05-14 10:13:45-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU1556": {
     "id": "WPU1556",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Nonresidential Mobile Buildings (DISCONTINUED)",
     "observation_start": "2004-06-01",
     "observation_end": "2005-04-01",
@@ -555,12 +555,12 @@
     "last_updated": "2015-05-14 10:11:19-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU155603": {
     "id": "WPU155603",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Nonresidential Mobile Buildings (DISCONTINUED)",
     "observation_start": "2004-06-01",
     "observation_end": "2005-04-01",
@@ -573,12 +573,12 @@
     "last_updated": "2015-05-14 10:11:19-05",
     "popularity": 0,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU15130301": {
     "id": "WPU15130301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Small Arms Ammunition Primers (DISCONTINUED)",
     "observation_start": "1985-06-01",
     "observation_end": "2013-09-01",
@@ -591,12 +591,12 @@
     "last_updated": "2015-05-14 10:11:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU15320102": {
     "id": "WPU15320102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Zippers and Slide Fasteners (DISCONTINUED)",
     "observation_start": "1985-12-01",
     "observation_end": "2009-12-01",
@@ -609,12 +609,12 @@
     "last_updated": "2015-05-14 10:11:30-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU15560301": {
     "id": "WPU15560301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Nonresidential Mobile Buildings (DISCONTINUED)",
     "observation_start": "2004-06-01",
     "observation_end": "2005-04-01",
@@ -627,12 +627,12 @@
     "last_updated": "2015-05-14 10:11:18-05",
     "popularity": 0,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU151101522": {
     "id": "WPU151101522",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Miscellaneous Products: Electronic Toys and Games, Including Home Videogames (Excluding Disks) (DISCONTINUED)",
     "observation_start": "2007-12-01",
     "observation_end": "2016-01-01",
@@ -645,12 +645,12 @@
     "last_updated": "2016-04-13 15:22:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU159301131": {
     "id": "WPU159301131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Nonelectronic Pianos (DISCONTINUED)",
     "observation_start": "1985-06-01",
     "observation_end": "2009-11-01",
@@ -663,12 +663,12 @@
     "last_updated": "2015-05-14 10:10:49-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU159301132": {
     "id": "WPU159301132",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Organs (DISCONTINUED)",
     "observation_start": "1985-06-01",
     "observation_end": "2003-02-01",
@@ -681,12 +681,12 @@
     "last_updated": "2015-05-14 10:10:48-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   },
   "WPU159301133": {
     "id": "WPU159301133",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Miscellaneous Products: Nonelectronic Piano and Organ Parts (DISCONTINUED)",
     "observation_start": "1985-06-01",
     "observation_end": "2009-11-01",
@@ -699,6 +699,6 @@
     "last_updated": "2015-05-14 10:10:47-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Miscellaneous Products"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M0124DUSM537NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Crude Petroleum Production, Appalachian Region for United States",
+  "observation_start": "1867-09-01",
+  "observation_end": "1895-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Barrels per Day",
+  "units_short": "Thous. of Barrels per Day",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1867-1895 (2)--Original Data, 1894-1941. Source: Data For 1867: New York State Chamber Of Commerce, Annual Report, 1870/71, Part Ii, P. 37. Data For 1868-1894: U.S. Geological Survey, The Production Of Petroleum, 1902, Extract From Mineral Resources, 1902, Pp. 68-69. Data For 1895: Mineral Resources, Part Ii.\n\nThis NBER data series m01124a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01124a"
+}

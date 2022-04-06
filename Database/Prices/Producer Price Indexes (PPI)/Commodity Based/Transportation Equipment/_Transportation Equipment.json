@@ -1,8 +1,8 @@
 {
   "WPS141": {
     "id": "WPS141",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles and Equipment",
     "observation_start": "1947-04-01",
     "observation_end": "2022-02-01",
@@ -14,13 +14,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:50-05",
     "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS142": {
     "id": "WPS142",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft and Aircraft Equipment",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:58:03-05",
-    "popularity": 7,
-    "group_popularity": 18,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 5,
+    "group_popularity": 14,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS143": {
     "id": "WPS143",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Ships and Boats",
     "observation_start": "2008-01-01",
     "observation_end": "2022-02-01",
@@ -51,12 +51,12 @@
     "last_updated": "2022-03-15 08:05:48-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS1411": {
     "id": "WPS1411",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles",
     "observation_start": "1975-01-01",
     "observation_end": "2022-02-01",
@@ -69,12 +69,12 @@
     "last_updated": "2022-03-15 07:56:46-05",
     "popularity": 2,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS1416": {
     "id": "WPS1416",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Travel Trailers and Campers",
     "observation_start": "1990-01-01",
     "observation_end": "2015-12-01",
@@ -87,12 +87,12 @@
     "last_updated": "2021-02-17 10:48:14-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS1421": {
     "id": "WPS1421",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -105,12 +105,12 @@
     "last_updated": "2022-03-15 08:05:49-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS1423": {
     "id": "WPS1423",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Engine and Engine Parts",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -121,14 +121,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:49-05",
-    "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 1,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS1425": {
     "id": "WPS1425",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Aircraft Parts and Equipment",
     "observation_start": "1996-01-01",
     "observation_end": "2022-02-01",
@@ -139,14 +139,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:49-05",
-    "popularity": 4,
+    "popularity": 3,
     "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS1432": {
     "id": "WPS1432",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Boats",
     "observation_start": "1986-01-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 08:05:48-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS141101": {
     "id": "WPS141101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Passenger Cars and Chassis",
     "observation_start": "1947-04-01",
     "observation_end": "2022-02-01",
@@ -176,13 +176,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:56:46-05",
     "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS141105": {
     "id": "WPS141105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, Truck Tractors, and Bus Chassis 14,000 Pounds or Less, Including Minivans and SUVs",
     "observation_start": "1979-01-01",
     "observation_end": "2022-02-01",
@@ -193,14 +193,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:49-05",
-    "popularity": 2,
-    "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 4,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS141106": {
     "id": "WPS141106",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, over 14,000 Pounds GVW",
     "observation_start": "1979-01-01",
     "observation_end": "2016-12-01",
@@ -211,14 +211,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-02-11 11:23:44-06",
-    "popularity": 4,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 3,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS141601": {
     "id": "WPS141601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Travel Trailers",
     "observation_start": "1990-01-01",
     "observation_end": "2015-12-01",
@@ -231,12 +231,12 @@
     "last_updated": "2021-02-17 10:48:13-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS142102": {
     "id": "WPS142102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Civilian Aircraft",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -249,12 +249,12 @@
     "last_updated": "2022-03-15 08:05:49-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS142301": {
     "id": "WPS142301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Engine and Engine Parts",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -266,13 +266,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:49-05",
     "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS142501": {
     "id": "WPS142501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Aircraft Parts and Equipment",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -283,14 +283,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:48-05",
-    "popularity": 2,
+    "popularity": 4,
     "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS143201": {
     "id": "WPS143201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Outboard Motorboats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "1991-01-01",
     "observation_end": "2022-02-01",
@@ -303,12 +303,12 @@
     "last_updated": "2022-03-15 08:05:48-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPS143202": {
     "id": "WPS143202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Inboard Motorboats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -321,12 +321,12 @@
     "last_updated": "2022-03-15 08:05:48-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14": {
     "id": "WPU14",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment",
     "observation_start": "1969-01-01",
     "observation_end": "2022-02-01",
@@ -339,12 +339,12 @@
     "last_updated": "2022-03-15 07:50:26-05",
     "popularity": 21,
     "group_popularity": 21,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141": {
     "id": "WPU141",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles and Equipment",
     "observation_start": "1937-01-01",
     "observation_end": "2022-02-01",
@@ -355,14 +355,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:04-05",
-    "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 4,
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142": {
     "id": "WPU142",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft and Aircraft Equipment",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -373,14 +373,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:43-05",
-    "popularity": 15,
-    "group_popularity": 18,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 12,
+    "group_popularity": 14,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143": {
     "id": "WPU143",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Ships and Boats",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -393,12 +393,12 @@
     "last_updated": "2022-03-15 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU144": {
     "id": "WPU144",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Railroad Equipment",
     "observation_start": "1961-01-01",
     "observation_end": "2022-02-01",
@@ -411,12 +411,12 @@
     "last_updated": "2022-03-15 07:52:35-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU149": {
     "id": "WPU149",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Transportation Equipment, Not Elsewhere Classified",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -429,12 +429,12 @@
     "last_updated": "2022-03-15 08:01:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1411": {
     "id": "WPU1411",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -447,12 +447,12 @@
     "last_updated": "2022-03-15 07:53:56-05",
     "popularity": 4,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1412": {
     "id": "WPU1412",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles Parts",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -463,14 +463,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:25-05",
-    "popularity": 10,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 14,
+    "group_popularity": 14,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1413": {
     "id": "WPU1413",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck and Bus Bodies",
     "observation_start": "1982-12-01",
     "observation_end": "2022-02-01",
@@ -481,14 +481,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:08-05",
-    "popularity": 32,
-    "group_popularity": 32,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 33,
+    "group_popularity": 33,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1414": {
     "id": "WPU1414",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck Trailers",
     "observation_start": "1980-06-01",
     "observation_end": "2022-02-01",
@@ -501,12 +501,12 @@
     "last_updated": "2022-03-15 07:53:55-05",
     "popularity": 3,
     "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1415": {
     "id": "WPU1415",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Homes, Built on Purchased Chassis",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -519,12 +519,12 @@
     "last_updated": "2022-03-15 08:02:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1416": {
     "id": "WPU1416",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Travel Trailers and Campers",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -537,12 +537,12 @@
     "last_updated": "2022-03-15 08:01:59-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1421": {
     "id": "WPU1421",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft",
     "observation_start": "1971-01-01",
     "observation_end": "2022-02-01",
@@ -555,12 +555,12 @@
     "last_updated": "2022-03-15 08:01:58-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1423": {
     "id": "WPU1423",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Engine and Engine Parts",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -571,14 +571,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
-    "popularity": 4,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 6,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1425": {
     "id": "WPU1425",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Aircraft Parts and Equipment",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -589,14 +589,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:35-05",
-    "popularity": 15,
+    "popularity": 14,
     "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1431": {
     "id": "WPU1431",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Ships",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -609,12 +609,12 @@
     "last_updated": "2022-03-15 07:53:54-05",
     "popularity": 5,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1432": {
     "id": "WPU1432",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Boats",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -627,12 +627,12 @@
     "last_updated": "2022-03-15 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1441": {
     "id": "WPU1441",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Locomotives, New and Rebuilt, Including Parts",
     "observation_start": "1984-07-01",
     "observation_end": "2019-07-01",
@@ -645,12 +645,12 @@
     "last_updated": "2019-11-14 07:56:03-06",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1442": {
     "id": "WPU1442",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Railroad Cars and Car Parts",
     "observation_start": "1984-07-01",
     "observation_end": "2022-02-01",
@@ -663,12 +663,12 @@
     "last_updated": "2022-03-15 07:52:59-05",
     "popularity": 5,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1491": {
     "id": "WPU1491",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Transportation Equipment, Not Elsewhere Classified",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -681,12 +681,12 @@
     "last_updated": "2022-03-15 08:01:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141101": {
     "id": "WPU141101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Passenger Cars and Chassis",
     "observation_start": "1937-01-01",
     "observation_end": "2022-02-01",
@@ -697,14 +697,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:25-05",
-    "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 5,
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141104": {
     "id": "WPU141104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motorcycles, Including Three-Wheel Motorbikes, Motorscooters, Mopeds, and Parts",
     "observation_start": "1972-12-01",
     "observation_end": "2022-02-01",
@@ -715,14 +715,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:04-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141105": {
     "id": "WPU141105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, Truck Tractors, and Bus Chassis 14,000 Pounds or Less, Including Minivans and SUVs",
     "observation_start": "1964-01-01",
     "observation_end": "2022-02-01",
@@ -733,14 +733,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:56-05",
-    "popularity": 3,
-    "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 2,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141106": {
     "id": "WPU141106",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, over 14,000 Pounds GVW",
     "observation_start": "1964-01-01",
     "observation_end": "2022-02-01",
@@ -751,14 +751,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:45-05",
-    "popularity": 8,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 7,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205": {
     "id": "WPU141205",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles Parts",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -770,13 +770,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 2,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 14,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141301": {
     "id": "WPU141301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck and Bus Bodies Sold Separately",
     "observation_start": "1982-12-01",
     "observation_end": "2022-02-01",
@@ -789,12 +789,12 @@
     "last_updated": "2022-03-15 07:53:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141302": {
     "id": "WPU141302",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Complete Vehicles on Purchased Chassis",
     "observation_start": "1982-12-01",
     "observation_end": "2022-02-01",
@@ -807,12 +807,12 @@
     "last_updated": "2022-03-15 08:02:00-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141406": {
     "id": "WPU141406",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck Trailers",
     "observation_start": "1986-12-01",
     "observation_end": "2022-02-01",
@@ -825,12 +825,12 @@
     "last_updated": "2022-03-15 07:53:55-05",
     "popularity": 2,
     "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141501": {
     "id": "WPU141501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Homes, Built on Purchased Chassis",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -843,12 +843,12 @@
     "last_updated": "2022-03-15 08:01:59-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141601": {
     "id": "WPU141601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Travel Trailers",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -861,12 +861,12 @@
     "last_updated": "2022-03-15 08:01:59-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141602": {
     "id": "WPU141602",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Camping Trailers, Campers, Pick-Up Covers, and Parts",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -879,12 +879,12 @@
     "last_updated": "2022-03-15 08:01:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142102": {
     "id": "WPU142102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Civilian Aircraft",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -897,12 +897,12 @@
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142104": {
     "id": "WPU142104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Military Aircraft",
     "observation_start": "2013-06-01",
     "observation_end": "2022-01-01",
@@ -915,12 +915,12 @@
     "last_updated": "2022-02-15 07:58:39-06",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142301": {
     "id": "WPU142301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Engine and Engine Parts",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -932,13 +932,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142501": {
     "id": "WPU142501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Aircraft Parts and Equipment",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -949,14 +949,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:56-05",
-    "popularity": 4,
+    "popularity": 3,
     "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143102": {
     "id": "WPU143102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Military Self-Propelled Ships, New Construction",
     "observation_start": "1996-06-01",
     "observation_end": "2022-02-01",
@@ -969,12 +969,12 @@
     "last_updated": "2022-03-15 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143103": {
     "id": "WPU143103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Nonmilitary Self-Propelled Ships, New Construction",
     "observation_start": "1996-06-01",
     "observation_end": "2022-02-01",
@@ -987,12 +987,12 @@
     "last_updated": "2022-03-15 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143104": {
     "id": "WPU143104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Nonpropelled Ships, New Construction",
     "observation_start": "1996-06-01",
     "observation_end": "2020-05-01",
@@ -1005,12 +1005,12 @@
     "last_updated": "2020-08-11 07:59:30-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143201": {
     "id": "WPU143201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Outboard Motorboats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -1023,12 +1023,12 @@
     "last_updated": "2022-03-15 08:01:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143202": {
     "id": "WPU143202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Inboard Motorboats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -1041,12 +1041,12 @@
     "last_updated": "2022-03-15 08:01:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143203": {
     "id": "WPU143203",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Inboard-Outdrive Boats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -1059,12 +1059,12 @@
     "last_updated": "2022-03-15 08:01:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU143204": {
     "id": "WPU143204",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All Other Boats (Excluding Military and Commercial)",
     "observation_start": "1981-12-01",
     "observation_end": "2022-02-01",
@@ -1077,12 +1077,12 @@
     "last_updated": "2022-03-15 08:01:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU144104": {
     "id": "WPU144104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Locomotives, New and Rebuilt, Including Parts",
     "observation_start": "2001-12-01",
     "observation_end": "2019-07-01",
@@ -1093,14 +1093,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2019-11-14 07:56:35-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU144203": {
     "id": "WPU144203",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Railway Maintenance of Way Equipment and Parts, Railcar Parts, and Other Railway Vehicles",
     "observation_start": "1984-07-01",
     "observation_end": "2022-02-01",
@@ -1111,14 +1111,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:51:02-05",
-    "popularity": 10,
-    "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 8,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU144204": {
     "id": "WPU144204",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Railroad Cars",
     "observation_start": "2001-12-01",
     "observation_end": "2022-01-01",
@@ -1131,12 +1131,12 @@
     "last_updated": "2022-02-15 07:58:36-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU149111": {
     "id": "WPU149111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Transportation Equipment, Including Golf Carts, Vehicle Trailers, and All-Terrain Vehicles",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -1147,14 +1147,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:52-05",
-    "popularity": 8,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 5,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1413015": {
     "id": "WPU1413015",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Truck and Vehicle Bodies, Sold Separately",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1167,12 +1167,12 @@
     "last_updated": "2022-03-15 07:57:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1413027": {
     "id": "WPU1413027",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Buses and Firefighting Vehicles, Complete, Produced on Purchased Chassis",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1185,12 +1185,12 @@
     "last_updated": "2022-03-15 07:57:25-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1413029": {
     "id": "WPU1413029",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Trucks and Vehicles, Complete, Produced on Purchased Chassis",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1203,12 +1203,12 @@
     "last_updated": "2022-03-15 08:02:00-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14110131": {
     "id": "WPU14110131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Passenger Cars",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1221,12 +1221,12 @@
     "last_updated": "2022-03-15 07:57:25-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14110401": {
     "id": "WPU14110401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motorcycles, Including Three-Wheel Motorbikes, Motorscooters, Mopeds, and Parts",
     "observation_start": "1999-01-01",
     "observation_end": "2022-02-01",
@@ -1238,13 +1238,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:04-05",
     "popularity": 1,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 1,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14110571": {
     "id": "WPU14110571",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, Truck Tractors, and Bus Chassis 14,000 Pounds or Less, Including Minivans and SUVs",
     "observation_start": "1982-12-01",
     "observation_end": "2022-02-01",
@@ -1256,13 +1256,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:04-05",
     "popularity": 2,
-    "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14110684": {
     "id": "WPU14110684",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, over 14,000 Pounds GVW",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -1274,13 +1274,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:56-05",
     "popularity": 3,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120501": {
     "id": "WPU14120501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Gasoline Engines and Engine Parts, Excluding Carburetors, Pistons, and Valves",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1293,12 +1293,12 @@
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120502": {
     "id": "WPU14120502",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Steering and Suspension Parts",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1311,12 +1311,12 @@
     "last_updated": "2022-03-15 07:56:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120503": {
     "id": "WPU14120503",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Transmission and Power Train",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1329,12 +1329,12 @@
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120504": {
     "id": "WPU14120504",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Brake Systems",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1347,12 +1347,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120505": {
     "id": "WPU14120505",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Filters for Internal Combustion Engines and Motor Vehicles",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1363,14 +1363,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:27-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 5,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120506": {
     "id": "WPU14120506",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Exhaust Systems",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1383,12 +1383,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120507": {
     "id": "WPU14120507",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Wheels",
     "observation_start": "2003-12-01",
     "observation_end": "2020-03-01",
@@ -1401,12 +1401,12 @@
     "last_updated": "2020-08-11 07:55:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120508": {
     "id": "WPU14120508",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Motor Vehicle Parts",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1419,12 +1419,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120511": {
     "id": "WPU14120511",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Vehicle Seating and Interior Trim",
     "observation_start": "2004-06-01",
     "observation_end": "2022-02-01",
@@ -1437,12 +1437,12 @@
     "last_updated": "2022-03-15 08:02:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120512": {
     "id": "WPU14120512",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Air Conditioning Systems and Compressors",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -1455,12 +1455,12 @@
     "last_updated": "2022-03-15 08:02:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14120513": {
     "id": "WPU14120513",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Carburetors, Pistons, Piston Rings, and Valves",
     "observation_start": "1982-09-01",
     "observation_end": "2022-02-01",
@@ -1473,12 +1473,12 @@
     "last_updated": "2022-03-15 08:02:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14130141": {
     "id": "WPU14130141",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Van Bodies, Sold Separately",
     "observation_start": "2008-12-01",
     "observation_end": "2021-08-01",
@@ -1491,12 +1491,12 @@
     "last_updated": "2021-11-09 07:59:56-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14130151": {
     "id": "WPU14130151",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Dump Truck Bodies, Sold Separately",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1509,12 +1509,12 @@
     "last_updated": "2022-03-15 07:53:55-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14130152": {
     "id": "WPU14130152",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All Other Truck and Vehicle Bodies, Sold Separately",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1525,14 +1525,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:02:00-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14140602": {
     "id": "WPU14140602",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck Trailers and Chassis, Axle Rating 10,000 Pounds or More",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1545,12 +1545,12 @@
     "last_updated": "2022-03-15 08:02:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14140603": {
     "id": "WPU14140603",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck Trailers and Chassis, Axle Rating Less Than 10,000 Pounds",
     "observation_start": "2011-12-01",
     "observation_end": "2022-01-01",
@@ -1563,12 +1563,12 @@
     "last_updated": "2022-03-15 08:02:00-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14150101": {
     "id": "WPU14150101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Homes, Built on Purchased Chassis",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -1581,12 +1581,12 @@
     "last_updated": "2022-03-15 08:01:59-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14160101": {
     "id": "WPU14160101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Travel Trailers",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -1599,12 +1599,12 @@
     "last_updated": "2022-03-15 08:01:59-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14160201": {
     "id": "WPU14160201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Camping Trailers, Campers, Pick-Up Covers, and Parts",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -1617,12 +1617,12 @@
     "last_updated": "2022-03-15 08:01:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14210206": {
     "id": "WPU14210206",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Civilian Aircraft",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1635,12 +1635,12 @@
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14210401": {
     "id": "WPU14210401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Military Aircraft",
     "observation_start": "2013-06-01",
     "observation_end": "2022-01-01",
@@ -1653,12 +1653,12 @@
     "last_updated": "2022-02-15 07:58:39-06",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14230101": {
     "id": "WPU14230101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Engine and Engine Parts",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1670,13 +1670,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14250102": {
     "id": "WPU14250102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Propellers and Helicopter Rotors",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -1689,12 +1689,12 @@
     "last_updated": "2022-03-15 08:01:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14250103": {
     "id": "WPU14250103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Parts and Auxiliary Equipment",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -1707,12 +1707,12 @@
     "last_updated": "2022-03-15 08:01:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14310201": {
     "id": "WPU14310201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Military Self-Propelled Ships, New Construction",
     "observation_start": "1996-06-01",
     "observation_end": "2022-02-01",
@@ -1725,12 +1725,12 @@
     "last_updated": "2022-03-15 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14310301": {
     "id": "WPU14310301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Nonmilitary Self-Propelled Ships, New Construction",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1743,12 +1743,12 @@
     "last_updated": "2022-03-15 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14310401": {
     "id": "WPU14310401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Nonpropelled Ships, New Construction",
     "observation_start": "1996-06-01",
     "observation_end": "2020-05-01",
@@ -1761,12 +1761,12 @@
     "last_updated": "2020-08-11 07:59:30-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320107": {
     "id": "WPU14320107",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Outboard Motorboats, Wood or Metal, Including Commercial and Military (Excluding Sailboats and Lifeboats)",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -1779,12 +1779,12 @@
     "last_updated": "2022-03-15 08:01:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320108": {
     "id": "WPU14320108",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Outboard Motorboats, Plastics/Fiberglass, Including Commercial and Military (Excluding Sailboats and Lifeboats)",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -1797,12 +1797,12 @@
     "last_updated": "2022-03-15 07:57:24-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320206": {
     "id": "WPU14320206",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Inboard Cabin Cruisers, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1815,12 +1815,12 @@
     "last_updated": "2022-03-15 08:01:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320207": {
     "id": "WPU14320207",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Inboard Motorboats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -1833,12 +1833,12 @@
     "last_updated": "2022-03-15 08:01:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320309": {
     "id": "WPU14320309",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Inboard-Outdrive Boats, Cabin Cruisers, Including Commercial and Military (Excluding Sailboats and Lifeboats)",
     "observation_start": "2011-06-01",
     "observation_end": "2019-01-01",
@@ -1851,12 +1851,12 @@
     "last_updated": "2019-02-15 09:02:31-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320310": {
     "id": "WPU14320310",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All Other Inboard-Outdrive Boats, Including Commercial and Military (Except Sailboats and Lifeboats)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1869,12 +1869,12 @@
     "last_updated": "2022-03-15 08:01:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14320406": {
     "id": "WPU14320406",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All Other Boats (Excluding Military and Commercial)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1887,12 +1887,12 @@
     "last_updated": "2022-03-15 08:01:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14410402": {
     "id": "WPU14410402",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Locomotives, New and Rebuilt, Including Parts",
     "observation_start": "2001-12-01",
     "observation_end": "2019-07-01",
@@ -1905,12 +1905,12 @@
     "last_updated": "2019-11-14 07:55:06-06",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14420303": {
     "id": "WPU14420303",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Air Brake and Other Brake Equipment",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1923,12 +1923,12 @@
     "last_updated": "2022-03-15 08:01:53-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14420304": {
     "id": "WPU14420304",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Railway Maintenance of Way and All Other Railroad and Streetcar Equipment, Parts and Accessories",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1941,12 +1941,12 @@
     "last_updated": "2022-03-15 08:01:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14420402": {
     "id": "WPU14420402",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Railroad Cars",
     "observation_start": "2001-12-01",
     "observation_end": "2022-01-01",
@@ -1959,12 +1959,12 @@
     "last_updated": "2022-02-15 07:58:36-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14911101": {
     "id": "WPU14911101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Self-Propelled Golf Carts and Industrial In-Plant Personnel Carriers and Parts",
     "observation_start": "1985-06-01",
     "observation_end": "2019-04-01",
@@ -1977,12 +1977,12 @@
     "last_updated": "2019-09-11 07:52:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14911104": {
     "id": "WPU14911104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Automobile and Light Truck Trailers",
     "observation_start": "1992-12-01",
     "observation_end": "2022-02-01",
@@ -1993,14 +1993,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:52-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU14911105": {
     "id": "WPU14911105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All Other Miscellaneous Transportation Equipment, Including All-Terrain Vehicles",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -2013,12 +2013,12 @@
     "last_updated": "2022-03-15 08:01:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141106841": {
     "id": "WPU141106841",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck, Truck Tractors, and Bus Chassis (Chassis of Own Manufacture) 14,001 to 33,000 Pounds",
     "observation_start": "2011-06-01",
     "observation_end": "2018-05-01",
@@ -2031,12 +2031,12 @@
     "last_updated": "2018-06-13 08:02:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141106842": {
     "id": "WPU141106842",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck, Truck Tractors, and Buses Chassis (Chassis of Own Manufacturer) 33,001 Pounds or More",
     "observation_start": "2011-06-01",
     "observation_end": "2021-05-01",
@@ -2049,12 +2049,12 @@
     "last_updated": "2021-10-14 08:00:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141106843": {
     "id": "WPU141106843",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Buses, Including Military and Firefighting Vehicles (Chassis of Own Manufacture)",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -2067,12 +2067,12 @@
     "last_updated": "2022-03-15 08:02:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205011": {
     "id": "WPU141205011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Gasoline Engines and Engine Parts, New",
     "observation_start": "2011-06-01",
     "observation_end": "2018-09-01",
@@ -2085,12 +2085,12 @@
     "last_updated": "2018-10-10 08:02:46-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205031": {
     "id": "WPU141205031",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Drive Train Components, Except Wheels and Brakes, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2103,12 +2103,12 @@
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205033": {
     "id": "WPU141205033",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Drive Train Components, Rebuilt",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2121,12 +2121,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205041": {
     "id": "WPU141205041",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Brake Parts and Assemblies, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2139,12 +2139,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205041A": {
     "id": "WPU141205041A",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Drum Brake Assemblies and Parts, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2157,12 +2157,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205041B": {
     "id": "WPU141205041B",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Motor Vehicle Brake Parts and Assemblies, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2175,12 +2175,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205041C": {
     "id": "WPU141205041C",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Disc Brake Assemblies and Parts, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2193,12 +2193,12 @@
     "last_updated": "2022-03-15 08:02:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205111": {
     "id": "WPU141205111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Automobile Trimmings",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -2211,12 +2211,12 @@
     "last_updated": "2022-03-15 08:02:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141205113": {
     "id": "WPU141205113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Seats for Public Conveyance and Aircraft",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -2229,12 +2229,12 @@
     "last_updated": "2022-03-15 08:02:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141601016": {
     "id": "WPU141601016",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Conventional Travel Trailers",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2247,12 +2247,12 @@
     "last_updated": "2022-03-15 08:01:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141601017": {
     "id": "WPU141601017",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Fifth Wheel Travel Trailers",
     "observation_start": "2011-12-01",
     "observation_end": "2019-06-01",
@@ -2265,12 +2265,12 @@
     "last_updated": "2019-11-14 07:56:29-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141602013": {
     "id": "WPU141602013",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Parts and Components, Excluding Appliances and Furnishings",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2283,12 +2283,12 @@
     "last_updated": "2022-03-15 08:01:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU141602014": {
     "id": "WPU141602014",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck Campers, Caps, Box Covers, and Folddown Camping Trailers",
     "observation_start": "2014-06-01",
     "observation_end": "2022-01-01",
@@ -2301,12 +2301,12 @@
     "last_updated": "2022-02-15 07:58:39-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142301011": {
     "id": "WPU142301011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Military Aircraft Engines",
     "observation_start": "2011-12-01",
     "observation_end": "2017-09-01",
@@ -2319,12 +2319,12 @@
     "last_updated": "2017-10-12 09:14:50-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142301013": {
     "id": "WPU142301013",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Civilian Aircraft Engines",
     "observation_start": "2011-12-01",
     "observation_end": "2020-05-01",
@@ -2337,12 +2337,12 @@
     "last_updated": "2020-06-11 07:54:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142301015": {
     "id": "WPU142301015",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aeronautical Services on Aircraft Engines",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2353,14 +2353,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:57-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142301017": {
     "id": "WPU142301017",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Engine Parts and Accessories",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2373,12 +2373,12 @@
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142501031": {
     "id": "WPU142501031",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Mechanical Power Transmission Equipment for Civilian and Military Aircraft",
     "observation_start": "2008-06-01",
     "observation_end": "2015-05-01",
@@ -2391,12 +2391,12 @@
     "last_updated": "2015-06-15 13:46:32-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142501032": {
     "id": "WPU142501032",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Aircraft Landing Gear for Civilian and Military Aircraft",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -2409,12 +2409,12 @@
     "last_updated": "2022-03-15 07:53:55-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142501033": {
     "id": "WPU142501033",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Aircraft Subassemblies and Parts for Military Aircraft",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -2427,12 +2427,12 @@
     "last_updated": "2022-03-15 07:57:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU142501034": {
     "id": "WPU142501034",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Aircraft Subassemblies and Parts for Civilian Aircraft",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -2445,12 +2445,12 @@
     "last_updated": "2022-03-15 08:01:56-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU149111051": {
     "id": "WPU149111051",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All-Terrain Vehicles and Parts",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -2463,12 +2463,12 @@
     "last_updated": "2022-03-15 08:01:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU149111052": {
     "id": "WPU149111052",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: All Other Miscellaneous Transportation Equipment and Parts",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -2481,12 +2481,12 @@
     "last_updated": "2022-03-15 08:01:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1412050310": {
     "id": "WPU1412050310",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Motor Vehicle Transmissions Except Auxiliary and Parts, New",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -2499,12 +2499,12 @@
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1412050313": {
     "id": "WPU1412050313",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Parts for Manual and Automatic Transmissions, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2517,12 +2517,12 @@
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1412050315": {
     "id": "WPU1412050315",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Other Motor Vehicle Drive Train Components, Except Wheels and Brakes, New",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2535,12 +2535,12 @@
     "last_updated": "2022-03-15 08:02:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1416020142": {
     "id": "WPU1416020142",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Truck Campers, Caps, and Box Covers",
     "observation_start": "2011-12-01",
     "observation_end": "2014-06-01",
@@ -2553,12 +2553,12 @@
     "last_updated": "2015-05-14 10:16:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1423010175": {
     "id": "WPU1423010175",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Parts and Accessories for Military Aircraft Engines",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2571,12 +2571,12 @@
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1423010177": {
     "id": "WPU1423010177",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Parts and Accessories for Civilian Aircraft Engines",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2589,12 +2589,12 @@
     "last_updated": "2022-03-15 08:01:57-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1442040201": {
     "id": "WPU1442040201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Passenger and Freight Train Cars, New (Excluding Parts)",
     "observation_start": "2009-06-01",
     "observation_end": "2017-03-01",
@@ -2605,14 +2605,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2017-04-13 15:11:31-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 4,
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   },
   "WPU1442040202": {
     "id": "WPU1442040202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Transportation Equipment: Street, Subway, Trolley, and Rapid Transit Cars (New and Rebuilt) and Rebuilt Passenger/Freight Cars",
     "observation_start": "2009-06-01",
     "observation_end": "2016-05-01",
@@ -2623,8 +2623,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2016-09-15 12:31:08-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Transportation Equipment"
   }
 }

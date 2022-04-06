@@ -1,7 +1,7 @@
 {
   "id": "TRFVOLUSM227NFWA",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Vehicle Miles Traveled",
   "observation_start": "1970-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-29 14:53:04-05",
-  "popularity": 57,
-  "group_popularity": 61,
+  "popularity": 58,
+  "group_popularity": 62,
   "notes": "Vehicle Miles Traveled and the 12-Month Moving Vehicle Miles Traveled series are created by appending the recent monthly figures from the FHWA\u2019s Traffic Volume Trends to their Historic Monthly Vehicle Miles Traveled (VMT) data file."
 }

@@ -1,7 +1,7 @@
 {
   "id": "PETROLEUM",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Pipeline Petroleum Movement",
   "observation_start": "2000-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-09 13:07:40-06",
-  "popularity": 4,
-  "group_popularity": 12,
+  "popularity": 3,
+  "group_popularity": 10,
   "notes": "Pipeline movement is the sum of all crude oil and petroleum products moved between Petroleum Administration for Defense Districts (PADDs): PADD 1 to 2, PADD 1 to 3, PADD 2 to 1, PADD 2 to 3, PADD 2 to 4; PADD 3 to 1, PADD 3 to 2, PADD 3 to 4, PADD 3 to 5, PADD 4 to 2, PADD 4 to 3, PADD 4 to 5, PADD 5 to 3, and PADD 5 to 4 (from EIA Petroleum Supply Monthly, table 58) and crude oil production in Alaska (from EIA Crude Oil Production available here (https://www.eia.gov/dnav/pet/pet_crd_crpdn_adc_mbbl_m.htm).\n\nThis data is collected by the U.S. Energy Information Administration (EIA) available here (http://www.eia.gov/petroleum/supply/monthly/) for Table 58 and available here (https://www.eia.gov/dnav/pet/pet_crd_crpdn_adc_mbbl_m.htm) for Alaska."
 }

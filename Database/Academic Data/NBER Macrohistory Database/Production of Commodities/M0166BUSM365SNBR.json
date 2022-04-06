@@ -1,0 +1,18 @@
+{
+  "id": "M0166BUSM365SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Number of Non-Serviceable Locomotives in Passenger Service for United States",
+  "observation_start": "1937-01-01",
+  "observation_end": "1943-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Locomotives",
+  "units_short": "Locomotives",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 11:02:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1921-1937 (2)--Seasonally Adjusted Data, 1937-1943. Source: Computed By NBER By Subtracting (Serviceable Passenger Locomotives) From (Total Number Of Locomotives Assigned To Road Service).\n\nThis NBER data series m01266b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01266b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "LA0000151A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "State and Local Government Current Expenditures: Current transfer payments: Current transfer payments to the rest of the world",
+  "observation_start": "1999-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-27 08:03:52-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: LA000015\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "CUURA316SAGS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index for All Urban Consumers: Other Personal Services in Dallas-Fort Worth-Arlington, TX (CBSA)",
+  "observation_start": "2010-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2009=100",
+  "units_short": "Index Dec 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-11 07:39:43-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

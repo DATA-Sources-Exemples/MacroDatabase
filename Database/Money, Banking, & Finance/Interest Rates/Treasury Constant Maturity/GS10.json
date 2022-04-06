@@ -1,0 +1,18 @@
+{
+  "id": "GS10",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
+  "observation_start": "1953-04-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 15:17:07-05",
+  "popularity": 71,
+  "group_popularity": 91,
+  "notes": "Averages of business days. For further information regarding treasury constant maturity data, please refer to the Board of Governors (http://www.federalreserve.gov/releases/h15/current/h15.pdf) and the Treasury (http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx)."
+}

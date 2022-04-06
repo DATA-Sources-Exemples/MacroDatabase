@@ -1,0 +1,18 @@
+{
+  "id": "TOTBORR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Borrowings of Depository Institutions from the Federal Reserve",
+  "observation_start": "1984-01-04",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:33:09-05",
+  "popularity": 29,
+  "group_popularity": 29,
+  "notes": "Averages of daily figures. Please note breaks in data:\r\nData prior to 2003-01-09 contain adjustment, extended, and seasonal credit.\r\nData from 2003-01-09 to 2008-03-13 include primary, secondary, and seasonal credit.\r\nAs of 2008-03-20, data include primary, secondary, and seasonal credit, primary dealer credit facility, and other credit extensions but excludes term auction credit.\r\nBeginning on 2008-09-24, the data include primary, secondary, and seasonal credit, primary dealer and other broker-dealer credit, asset-backed commercial paper money market mutual fund liquidity facility, and other credit extensions.\r\nData from 2008-11-26 also contain credit extended to American International Group, Inc., which was previously included in other credit extensions. Term auction credit is excluded.\r\n\r\nThis series is calculated by the Federal Reserve Bank of St. Louis using historical data from the Board of Governors' H.4.1 press releases."
+}

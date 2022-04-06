@@ -1,0 +1,18 @@
+{
+  "id": "M0865BUSM350SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Production Worker Manhours in Manufacturing, Total for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1962-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:17:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Seasonally Adjusted Data, 1932-1962. Source: NBER Computed Data By Multiplying Series 08010 (Production Worker Employment) By Series 08029 (Average Hours Worked Per Week) Converted To A 1957-1959=100 Base.\n\nThis NBER data series m08265b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08265b"
+}

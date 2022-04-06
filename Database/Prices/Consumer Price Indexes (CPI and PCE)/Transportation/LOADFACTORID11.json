@@ -1,7 +1,7 @@
 {
   "id": "LOADFACTORID11",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights",
   "observation_start": "2000-01-01",
   "observation_end": "2021-11-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-09 13:07:45-06",
   "popularity": 3,
-  "group_popularity": 9,
+  "group_popularity": 8,
   "notes": "Data from all U.S. air carrier international, scheduled passenger flights. International data includes U.S. carrier operations to and from the U.S. and from one foreign point to another foreign point. BTS\u2019 Airlines and Airports available here (https://www.transtats.bts.gov/Data_Elements.aspx) does not include U.S. carriers\u2019 foreign point-to-point flights.\n\nThis data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS) calculation from BTS U.S. Air Carrier Traffic Statistics reported in BTS' monthly Air Traffic Data release, available here (https://www.bts.dot.gov/statistical-releases)."
 }

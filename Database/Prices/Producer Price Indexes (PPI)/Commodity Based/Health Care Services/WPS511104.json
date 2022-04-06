@@ -1,7 +1,7 @@
 {
   "id": "WPS511104",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Health Care Services: Hospital Outpatient Care",
   "observation_start": "2008-12-01",
   "observation_end": "2015-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:04-06",
-  "popularity": 5,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 5
 }

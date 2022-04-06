@@ -1,0 +1,18 @@
+{
+  "id": "M1438BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Silver Outside the Treasury and Federal Reserve Banks for United States",
+  "observation_start": "1914-01-01",
+  "observation_end": "1949-05-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:35:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1949. Data Is Shown In Original Source As First Of Month Data, Presented Here As End Of Month Data For Preceeding Month. Beginning December 31, 1927 Circulation Statements Are Dated For The End Of The Month Instead Of The Beginning Of The Succeeding Month And Figures Are The Revised Daily Treasury Statement Instead Of The Unrevised Figures Used Previously. The Federal Reserve Board Has Revised Data For Federal Reserve Banks Back To 1914. Beginning With March 1915 Total Stock Of Silver And Silver In The Treasury Included Coverage For Treasury Notes Of 1890. Source: Computed By NBER Using Data From The U.S. Treasury Department Data: Annual Reports Of The Treasurer, 1886 And Following Years; Circulation Statements Of U.S. Money, 1887 And Following Years.\n\nThis NBER data series m14138b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14138b"
+}

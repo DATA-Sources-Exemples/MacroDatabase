@@ -1,0 +1,18 @@
+{
+  "id": "M08G9AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Dividend Payments for United States",
+  "observation_start": "1884-09-01",
+  "observation_end": "1903-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:20:50-05",
+  "popularity": 1,
+  "group_popularity": 5,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1885-1903 (2)--Original Data, 1906-1926 (3)--Original Data, 1925-1942. Data For 1884-1909 Include Bank Dividends. Source: The Daily Stockholder, 1884-1903.\n\nThis NBER data series m08079a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08079a"
+}

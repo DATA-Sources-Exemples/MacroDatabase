@@ -1,0 +1,18 @@
+{
+  "id": "SMU15261800500000003SA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings of All Employees: Total Private in Honolulu, HI (MSA) (DISCONTINUED)",
+  "observation_start": "2007-01-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2015-01-28 14:06:59-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'x12' package from R with default parameter settings. The package uses the U.S. Bureau of the Census X-12-ARIMA Seasonal Adjustment Program. More information on the 'x12' package can be found at http://cran.r-project.org/web/packages/x12/x12.pdf. More information on X-12-ARIMA can be found at https://www.census.gov/srd/www/x13as/."
+}

@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS41884Q",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "All-Transactions House Price Index for San Francisco-San Mateo-Redwood City, CA (MSAD)",
   "observation_start": "1975-07-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:02:10-06",
-  "popularity": 41,
-  "group_popularity": 41,
+  "popularity": 40,
+  "group_popularity": 40,
   "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million."
 }

@@ -1,0 +1,18 @@
+{
+  "id": "DEMDEPSL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Demand Deposits",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-22 12:03:13-05",
+  "popularity": 41,
+  "group_popularity": 54,
+  "notes": "The demand deposits component of M1 is defined as total demand deposits at commercial banks and foreign related institutions other than those due to the U.S. government, U.S. and foreign depository institutions, and foreign official institutions. In order to avoid double counting those deposits that are simultaneously on the books of two depository institutions, the demand deposit component of M1 excludes cash items in the process of collection (CIPC) and Federal Reserve float. Demand deposits due to depository institutions in the United States and the U.S. government, as well as other demand deposits and CIPC are reported on the FR 2900 and, for institutions that do not file the FR 2900, are estimated using data reported on the Call Reports. Demand deposits held by foreign banks and foreign official institutions are estimated using data reported on the Call Reports. Federal Reserve float is obtained from the consolidated balance sheet of the Federal Reserve Banks, which is published each week in the Federal Reserve Board's H.4.1 statistical release."
+}

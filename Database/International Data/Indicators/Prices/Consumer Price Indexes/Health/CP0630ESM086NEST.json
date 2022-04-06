@@ -1,0 +1,18 @@
+{
+  "id": "CP0630ESM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Hospital Services for Spain",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:23:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Hospital Services (06.3)\" is a classification of services that includes basic services: administration; accommodation; food and drink; supervision and care by non-specialist staff (nursing auxiliaries), first-aid and resuscitation; ambulance transport; provision of medicines and other pharmaceutical products; provision of therapeutic appliances and equipment; medical services: services of physicians in general or specialist practice, of surgeons and of dentists; medical analyses and X-rays; paramedical services such as those of nurses, midwives, chiropractors, optometrists, physio-therapists, speech therapists, etc. Hospitalization is defined as occurring when a patient is accommodated in a hospital for the duration of the treatment. Hospital day care and home-based hospital treatment are included as are hospices for terminally-ill persons. This group covers the services of general and specialist hospitals, the services of medical centers, maternity centers, nursing homes, and convalescence homes, which chiefly provide in-patient health care, the services of institutions serving old people in which medical monitoring is an essential component and the services of rehabilitation centers providing in-patient health care and rehabilitative therapy where the objective is to treat the patient rather than to provide long-term support. Hospitals are defined as institutions that offer in-patient care under direct supervision of qualified medical doctors. Medical centers, maternity centers, nursing homes, and convalescent homes also provide in-patient care, but their services are supervised and frequently delivered by staff of lower qualification than medical doctors.\n\nThis category excludes the services of facilities, such as surgeries, clinics, and dispensaries, devoted exclusively to out-patient care (06.2). Nor does it include the services of retirement homes for elderly persons, institutions for disabled persons and rehabilitation centers providing primarily long-term support (12.4).\n\nThis category is a subcategory of the Health (06) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

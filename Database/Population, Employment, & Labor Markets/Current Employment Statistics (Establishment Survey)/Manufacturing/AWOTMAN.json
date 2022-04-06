@@ -1,0 +1,18 @@
+{
+  "id": "AWOTMAN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing",
+  "observation_start": "1956-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:45:15-05",
+  "popularity": 32,
+  "group_popularity": 33,
+  "notes": "Overtime hours represent that portion of average weekly hours that exceeded regular hours and for which overtime premiums were paid. If an employee were to work on a paid holiday at regular rates, receiving as total compensation his holiday pay plus straight-time pay for hours worked that day, no overtime hours would be reported. Overtime hours data are collected only from manufacturing establishments.\n\nThe series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES3000000009"
+}

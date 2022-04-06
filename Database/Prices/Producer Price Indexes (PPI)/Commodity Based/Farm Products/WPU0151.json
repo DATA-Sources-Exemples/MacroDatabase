@@ -1,7 +1,7 @@
 {
   "id": "WPU0151",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
   "observation_start": "1971-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:56:43-05",
   "popularity": 3,
-  "group_popularity": 17
+  "group_popularity": 18
 }

@@ -1,0 +1,3 @@
+| id             | title                                                                                           | observation_start   | observation_end   |
+|----------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ATNHPIUS35644Q | All-Transactions House Price Index for New York-White Plains-Wayne, NY-NJ (MSAD) (DISCONTINUED) | 1975-10-01          | 2013-01-01        |

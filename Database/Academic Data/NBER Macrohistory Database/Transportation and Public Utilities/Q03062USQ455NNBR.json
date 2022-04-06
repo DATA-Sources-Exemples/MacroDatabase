@@ -1,0 +1,18 @@
+{
+  "id": "Q03062USQ455NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue Tons Originated, Class I Steam Railways, Total for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1943-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Tons",
+  "units_short": "Mil. Of Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:03:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Interstate Commerce Commission, Bureau Of Statistics, Freight Commodity Quarterly\n\nThis NBER data series q03062 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: q03062"
+}

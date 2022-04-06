@@ -1,0 +1,18 @@
+{
+  "id": "M08176USM420NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Straight Time Hours Paid for but Not Worked, Railroad Employees for Whom Hours Are Reported for United States",
+  "observation_start": "1926-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Manhours",
+  "units_short": "Mil. of Manhours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include Switching And Terminal Companies Until 1933. Data Include All Hourly Reported Occupations Including Train And Engine Source: Computed By NBER By Subtracting Series (Straight Time Hours Worked) From Total Hours Paid, Icc \"Wage Statistics\".\n\nThis NBER data series m08176 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08176"
+}

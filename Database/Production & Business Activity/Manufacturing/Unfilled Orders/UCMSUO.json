@@ -1,0 +1,18 @@
+{
+  "id": "UCMSUO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Unfilled Orders: Construction Materials and Supplies",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-03 09:03:57-06",
+  "popularity": 1,
+  "group_popularity": 6,
+  "notes": "This series is a topical regrouping of the separate industry categories."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "HUNLOLITONOSTSAM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Leading Indicators OECD: Leading indicators: CLI: Normalised for Hungary",
+  "observation_start": "1991-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 11:19:47-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: LOLITONO OECD unit ID: STSA OECD country ID: HUN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

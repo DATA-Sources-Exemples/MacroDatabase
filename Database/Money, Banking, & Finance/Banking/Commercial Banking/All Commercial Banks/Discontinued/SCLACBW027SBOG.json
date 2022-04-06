@@ -1,0 +1,18 @@
+{
+  "id": "SCLACBW027SBOG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Securitized Consumer Loans, All Commercial Banks (DISCONTINUED)",
+  "observation_start": "2000-06-28",
+  "observation_end": "2014-12-31",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2015-01-09 15:45:33-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
+}

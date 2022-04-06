@@ -1,0 +1,18 @@
+{
+  "id": "DFEDTARU",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal Funds Target Range - Upper Limit",
+  "observation_start": "2008-12-16",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 07:01:06-05",
+  "popularity": 73,
+  "group_popularity": 73,
+  "notes": "This series represents upper limit of the federal funds target range established by the Federal Open Market Committee"
+}

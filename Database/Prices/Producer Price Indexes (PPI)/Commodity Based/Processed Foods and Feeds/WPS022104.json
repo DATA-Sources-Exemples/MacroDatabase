@@ -1,7 +1,7 @@
 {
   "id": "WPS022104",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Pork Products, Fresh, Frozen, or Processed, Except Sausage",
   "observation_start": "1974-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:53:22-05",
-  "popularity": 11,
-  "group_popularity": 12
+  "popularity": 10,
+  "group_popularity": 11
 }

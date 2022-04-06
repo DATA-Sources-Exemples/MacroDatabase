@@ -1,0 +1,18 @@
+{
+  "id": "M0602AUSM144SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturing and Trade Sales, Total for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1948-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 13:46:54-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1939-1948 (2)--Original Data, 1948-1969. Source: Data Were Compiled By Summing Series (Sales By Retail Stores) Plus Series (Manufacturers' Shipments, Total) Plus Series (Wholesale Sales, Total Trade)\n\nThis NBER data series m06102a appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06102a"
+}

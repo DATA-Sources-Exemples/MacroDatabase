@@ -1,2 +1,19 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                         | observation_start   | observation_end   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| A5MLOLITOAASTSAM   | Leading Indicators OECD: Leading indicators: CLI: Amplitude adjusted for Major Five Asia                                      | 1992-05-01          | 2022-02-01        |
+| A5MLOLITONOSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Normalised for Major Five Asia                                              | 1992-05-01          | 2022-02-01        |
+| A5MLOLITOTRGYSAM   | Leading Indicators OECD: Leading indicators: CLI: Trend restored for Major Five Asia                                          | 1993-05-01          | 2021-11-01        |
+| A5MLOLITOTRSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Trend restored for Major Five Asia                                          | 1992-05-01          | 2021-11-01        |
+| A5MLORSGPNOSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for Major Five Asia                       | 1978-01-01          | 2021-11-01        |
+| A5MLORSGPORGYSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for Major Five Asia                  | 1979-01-01          | 2021-11-01        |
+| A5MLORSGPORIXOBSAM | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for Major Five Asia                  | 1978-01-01          | 2021-11-01        |
+| A5MLORSGPRTSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Ratio to trend for Major Five Asia                   | 1978-01-01          | 2021-12-01        |
+| A5MLORSGPTDSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for Major Five Asia                            | 1978-01-01          | 2021-11-01        |
+| BSCICP035AM665S    | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the Major 5 Asia | 2000-02-01          | 2021-11-01        |
+| CSCICP035AM665S    | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Major 5 Asia                    | 1990-01-01          | 2021-12-01        |
+| MAJOR5ASIAREC      | OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                        | 1978-01-01          | 2021-09-01        |
+| MAJOR5ASIARECD     | OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                        | 1978-01-01          | 2021-09-30        |
+| MAJOR5ASIARECDM    | OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                             | 1978-01-01          | 2021-09-30        |
+| MAJOR5ASIARECDP    | OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                        | 1978-01-01          | 2021-09-30        |
+| MAJOR5ASIARECM     | OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                             | 1978-01-01          | 2021-09-01        |
+| MAJOR5ASIARECP     | OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                        | 1978-01-01          | 2021-09-01        |

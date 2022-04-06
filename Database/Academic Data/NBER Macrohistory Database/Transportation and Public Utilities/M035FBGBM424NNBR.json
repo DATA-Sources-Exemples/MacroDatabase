@@ -1,0 +1,18 @@
+{
+  "id": "M035FBGBM424NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railway Freight Traffic, Other Than Coal for Great Britain",
+  "observation_start": "1931-01-01",
+  "observation_end": "1939-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Net Ton-Miles",
+  "units_short": "Mil. Of Net Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:03:38-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1931 (2)--Original Data, 1931-1939. Data Were Obtained By Deducting Figures For Coal, Coke, And Patent Fuel From Total Railway Freight Traffic For Standard Gauge Railways Only. Minerals And Free Hauled Are Included. Data Were Obtained By Equating The Four Weekly Figures To Calendar To A Calendar Month. Days Of Weeks Not Ending Within A Calendar Month Are Included In The Following Month'S Total. Source: Ministry Of Transport, Railway Statistics, Number 14, January 1921 And Following Months.\n\nThis NBER data series m03005bb appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03005bb"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q07051USQ345NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Value Index of Imports for Consumption for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1933-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1936-1938=100",
+  "units_short": "Index 1936-1938=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:03:35-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "These Data Are For General Imports Through 1933 And For Consumption From 1934-1953. Source: Survey Of Current Business July, 1951, Pp. 27-28 For 1929-1949 Data; Quarterly Summary Of Foreign Commerce For 1950-1952. 1953 Data Are From Survey Of Current Business.\n\nThis NBER data series q07051 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: q07051"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Y705RU1Q027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "State and Local Government Current Expenditures: Interest payments: to persons and business (DISCONTINUED)",
+  "observation_start": "1947-01-01",
+  "observation_end": "2016-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-11-21 11:31:08-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: Y705RU1\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

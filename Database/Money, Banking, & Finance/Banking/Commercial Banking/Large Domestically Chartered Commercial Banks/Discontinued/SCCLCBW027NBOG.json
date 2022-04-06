@@ -1,0 +1,18 @@
+{
+  "id": "SCCLCBW027NBOG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Securitized Credit Cards and Other Revolving Plans, Large Domestically Chartered Commercial Banks (DISCONTINUED)",
+  "observation_start": "2000-06-28",
+  "observation_end": "2014-12-31",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-01-09 15:44:14-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
+}

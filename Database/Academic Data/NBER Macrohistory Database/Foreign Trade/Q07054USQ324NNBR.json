@@ -1,0 +1,18 @@
+{
+  "id": "Q07054USQ324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Index of Exports of Cotton for United States",
+  "observation_start": "1879-01-01",
+  "observation_end": "1923-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:01:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Represent Manufactured Cotton Textiles. Source: Unpublished Tabulation. For Description And Coverage Of Series See, Robert E. Lipsey, Price And Quantity Trends In The Foreign Trade Of The United States, National Bureau Of Economic Research, 1963, Pp. 276-278.\n\nThis NBER data series q07054 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: q07054"
+}

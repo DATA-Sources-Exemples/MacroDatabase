@@ -1,0 +1,18 @@
+{
+  "id": "WSHOSHO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Securities Held Outright: Securities Held Outright: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:34:06-05",
+  "popularity": 45,
+  "group_popularity": 45,
+  "notes": "The amount of securities held by Federal Reserve Banks. This quantity is the cumulative result of permanent open market operations: outright purchases or sales of securities, conducted by the Federal Reserve. Section 14 of the Federal Reserve Act defines the securities that the Federal Reserve is authorized to buy and sell."
+}

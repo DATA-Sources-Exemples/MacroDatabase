@@ -1,0 +1,18 @@
+{
+  "id": "M07024GBM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Exports of Produce and Manufactures for Great Britain",
+  "observation_start": "1854-12-01",
+  "observation_end": "1953-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:03:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Beginning In 1930, The Data Were Also Checked Currently With The Royal Economic Society, Memorandum. For 1934 See British Library Of Information For Volumes. Includes Shipments By Government Departments Of Aircraft And Other Vehicles (Except Tyres And Tubes For Road Vehicles) And Arms, Ammunition And Military And Naval Stores (P. Iii) For 1941 And 1942. Central Statistical Office, Monthly Digest Of Statistics, Feb. 1951. Figures From January 1952 Take Account Of The Increased Valuation Of Parcel Post. Source: Board Of Trade, Accounts Relating To Trade & Navigation Through 1941 Data; Board Of Trade, Accounts Relating To The Export Trade Of The United Kingdom For 1938, 1942-1943; For Later Years, See The Customs And Excise Department, Accounts Relating To The Trade And Navigation Of The United Kingdom, Monthly; Statistical Office; Central Statistical Office, Monthly Digest Of Statistics, January, 1953 For 1951; November 1953 For 1952; January, 1954 For 1953.\n\nThis NBER data series m07024 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07024"
+}

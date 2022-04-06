@@ -1,0 +1,18 @@
+{
+  "id": "Q0876BUSQ027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Farm Income for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1968-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:24:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1939-1945 (2)--Seasonally Adjusted Data, 1946-1968. Data Are Billions Of Dollars At Annual Rates. Source: Data Through 1962 Are From Survey Of Current Business, August 1965; Data For 1963-1968 Are From July Issues Of Survey Of Current Business.\n\nThis NBER data series q08276b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08276b"
+}

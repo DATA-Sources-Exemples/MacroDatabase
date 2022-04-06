@@ -1,0 +1,18 @@
+{
+  "id": "M1474BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Adjusted Demand Deposits, All Banks, Plus Currency Held by the Public for United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1967-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1914-1945 (2)--Original Data, 1948-1967 (3)--Seasonally Adjusted Data, 1946-1967. Data Represent Middle Of The Month, Being Averages Of Two Half-Monthly Figures That Are Based On Averages Of Daily Figures. Source: Federal Reserve Board, Data For 1948-1961: Unpublished Frb Table (Also See Supplement To Banking And Monetary Statistics, Section 1 --\"Banks And The Monetary System\", October 1962. Data For 1962-1967: Federal Reserve Bulletins, Monthly Issues (See Issue Of August 1962 For Data Revision).\n\nThis NBER data series m14174b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14174b"
+}

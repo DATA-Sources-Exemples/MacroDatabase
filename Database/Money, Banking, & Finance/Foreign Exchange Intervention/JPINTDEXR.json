@@ -1,0 +1,18 @@
+{
+  "id": "JPINTDEXR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Japan Intervention: Japanese Bank purchases of USD against DM",
+  "observation_start": "1991-04-01",
+  "observation_end": "2021-12-31",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "100 Million Yen",
+  "units_short": "100 Mil. Yen",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-07 15:03:04-06",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "(+) numbers mean purchases of USD (Sell DM), (-)numbers mean sales of USD (Buy DM). Unpublished Data\n\nCopyright, 2016, Bank of Japan."
+}

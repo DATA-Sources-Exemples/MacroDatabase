@@ -1,7 +1,7 @@
 {
   "id": "WPU0835",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Veneer and Plywood",
   "observation_start": "2005-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:03:35-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 4
 }

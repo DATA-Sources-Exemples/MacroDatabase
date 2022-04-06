@@ -1,0 +1,18 @@
+{
+  "id": "IMPORTSERVICESNOW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nowcast for Real Imports of Services",
+  "observation_start": "2012-04-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change at Annual Rate",
+  "units_short": "% Chg. at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-04-01 17:31:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Nowcast for Real Imports of Services uses a nowcasting model to synthesize the bridge equation approach relating GDP subcomponents to monthly source data with factor model and Bayesian vector autoregression approaches. \n\nThe Federal Reserve Bank of Atlanta\u2019s GDPNow release complements the quarterly GDP release from the Bureau of Economic Analysis (BEA). The Atlanta Fed recalculates and updates their GDPNow forecasts (called \u201cnowcasts\u201d) throughout the quarter as new data are released, up until the BEA releases its \u201cadvance estimate\u201d of GDP for that quarter. The St. Louis Fed constructs a quarterly time series for this dataset, in which both historical and current observations values are combined. In general, the most-current observation is revised multiple times throughout the quarter. The final forecasted value (before the BEA\u2019s release of the advance estimate of GDP) is the static, historical value for that quarter.\n\nFor futher information visit the source at https://www.frbatlanta.org/cqer/research/gdpnow.aspx?panel=1."
+}

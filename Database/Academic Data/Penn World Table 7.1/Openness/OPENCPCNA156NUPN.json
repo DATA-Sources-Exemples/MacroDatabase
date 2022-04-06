@@ -1,0 +1,18 @@
+{
+  "id": "OPENCPCNA156NUPN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Openness at Current Prices for China",
+  "observation_start": "1952-01-01",
+  "observation_end": "2010-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-09-17 10:41:13-05",
+  "popularity": 0,
+  "group_popularity": 2,
+  "notes": "This data series refers to China Version 1. Two estimates are provided for China and their rationale is discussed in the Detailed Documentation. One estimate is based mostly on ICP 2005 and national growth statistics and is labeled China1. China1 does incorporate a productivity adjustment that has been applied to all countries in ICP 2005. China2 also adjusts for the urban character of its prices in ICP 2005 and also adjusts the growth rate.\n\nExports plus Imports divided by GDP is the total trade as a percentage of GDP.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: openc"
+}

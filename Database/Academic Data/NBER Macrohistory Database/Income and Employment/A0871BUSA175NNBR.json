@@ -1,0 +1,18 @@
+{
+  "id": "A0871BUSA175NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Employment for United States",
+  "observation_start": "1927-01-01",
+  "observation_end": "1943-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. Of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:25:22-05",
+  "popularity": 2,
+  "group_popularity": 4,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1900-1929 (2)--Original Data, 1927-1943. Data Cover Employment In Agriculture; Forestry And Fishing; Industry -- Extraction Of Minerals, Manufacturing, Construction, Transportation, Public Utilities; Transportation -- Distribution And Financing; Service Industries Excluding Military Forces; Miscellaneous Industries And Services. Data For 1927-1929 Were Computed By Adding To Nonagricultural Employment (Series 08170) The Following Figures For Agricultural Employment: 1927--11,246; 1928--11,296; 1929--11,289. These Figures Are Comparable With The Series Used By Nicb From 1930 0N. See Crops And Markets, April 1945. Source: National Industrial Conference Board, The Economic Almanac For 1944-1945, Pp. 44-45.\n\nThis NBER data series a08171b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08171b"
+}

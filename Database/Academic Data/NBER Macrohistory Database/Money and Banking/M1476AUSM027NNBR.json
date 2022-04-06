@@ -1,0 +1,18 @@
+{
+  "id": "M1476AUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Monetary Gold Stock for United States",
+  "observation_start": "1878-06-01",
+  "observation_end": "1914-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:31:39-05",
+  "popularity": 3,
+  "group_popularity": 21,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1946 (3)--Original Data, 1947-1970. Figures Reflect End Of Month Data. Data Exclude Active Portion Of Exchange Stable Fund. Source: Data For 1878-June 1907: Estimated From Monthly Series In Reports Of The Treasurer, 1891, Pp. 159 And Following; 1878, Pp. 109 And Following; 1903, Pp. 205 And Following; 1909, Pp. 190 And Following; 1915, Pp. 339 And Following; Also Annual Reports Of The Director Of The Mint, 1887, P. 86; 1907, Pp. 87 And 92. Data For July 1907-1914: U.S. Treasury Department, \"Circulation Statement Of U.S. Money\", Monthly.\n\nThis NBER data series m14076a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14076a"
+}

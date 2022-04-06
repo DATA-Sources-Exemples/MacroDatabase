@@ -1,0 +1,17 @@
+{
+  "id": "IEAAOI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "US Acquisition of Other Investment Assets",
+  "observation_start": "1999-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-24 09:59:59-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

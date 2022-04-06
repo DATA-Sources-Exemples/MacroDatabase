@@ -1,0 +1,18 @@
+{
+  "id": "M09105USM350NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Ratio: Wholesale Prices of Manufactured Goods to Wage and Salary Cost Per Unit of Output for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1962-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:04:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Bureau Of Census; The Latter Is Derived From Wage And Salary Disbursements In Manufacturing (Component Of Personal Income Seasonally Adjusted), And Federal Reserve Board \"Index Of Manufacturing Production.\"\n\nThis NBER data series m09105 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09105"
+}

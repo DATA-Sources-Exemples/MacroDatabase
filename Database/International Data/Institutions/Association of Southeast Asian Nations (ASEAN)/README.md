@@ -1,3 +1,9 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id          | title                                                                                                                          | observation_start   | observation_end   |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COASEANZ31  | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Association of Southeast Asian Nations                         | 2012-06-01          | 2022-02-01        |
+| COASEANZ33  | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Association of Southeast Asian Nations                         | 2012-06-01          | 2022-02-01        |
+| COASEANZ311 | Import Price Index by Origin (NAICS): Food Manufacturing for Association of Southeast Asian Nations                            | 2012-06-01          | 2022-02-01        |
+| COASEANZ315 | Import Price Index by Origin (NAICS): Apparel Manufacturing for Association of Southeast Asian Nations                         | 2012-06-01          | 2022-02-01        |
+| COASEANZ334 | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Association of Southeast Asian Nations | 2012-06-01          | 2022-02-01        |
+| COASEANZ337 | Import Price Index by Origin (NAICS): Furniture and Related Product Manufacturing for Association of Southeast Asian Nations   | 2012-06-01          | 2022-02-01        |
+| COASEANZ339 | Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for Association of Southeast Asian Nations                   | 2012-06-01          | 2022-02-01        |

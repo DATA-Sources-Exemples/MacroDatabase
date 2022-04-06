@@ -1,2 +1,13 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                                           | observation_start   | observation_end   |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA25540Q156N | CredAbility Consumer Distress Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
+| HNBAGRIDX        | Economic Conditions Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
+| INTINCOMEHNB     | Net Interest Income for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSHNB           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSRHNB          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NIHNB            | Net Income for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| NIMHNB           | Net Interest Margin for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| PCRGMP25540      | Total Per Capita Real Gross Domestic Product for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROAHNB           | Return on Average Assets for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| TOTASSETHNB      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANHNB       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

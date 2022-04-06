@@ -1,0 +1,18 @@
+{
+  "id": "W660RA3A086NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real government consumption expenditures and gross investment: State and local: Economic affairs: Transportation (chain-type quantity index)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-02 11:24:59-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "BEA Account Code: W660RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

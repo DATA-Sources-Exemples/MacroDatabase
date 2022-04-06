@@ -1,0 +1,18 @@
+{
+  "id": "M0359BUSM503NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Passenger-Miles Per Car-Mile, Class I Railroads for United States",
+  "observation_start": "1935-01-01",
+  "observation_end": "1943-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Passenger-Miles",
+  "units_short": "Passenger-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:01:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1935 (2)--Original Data, 1935-1943 Switching And Terminal Companies Are Excluded Throughout. Beginning In 1935, Coverage Excludes \"1/2 Combination\" And \"Observation\" Passenger Car-Miles. Source: Interstate Commerce Commission, \"Revenue Traffic Statistics Of Class I Steam Railways In The United States\".\n\nThis NBER data series m03059b appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03059b"
+}

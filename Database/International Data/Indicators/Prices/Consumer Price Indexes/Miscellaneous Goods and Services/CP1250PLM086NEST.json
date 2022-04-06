@@ -1,0 +1,18 @@
+{
+  "id": "CP1250PLM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Insurance for Poland",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:16:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Insurance (12.5)\" is a classification of services that includes service charges for insurance are classified by type of insurance namely, life insurance and non-life insurance (that is, insurance in connection with the dwelling, health, transport, etc.). Service charges for multi-risk insurance covering several risks should be classified on the basis of the cost of the principal risk if it is not possible to allocate the service charges to the various risks covered. Service charge is defined as the difference between claims due and premiums earned and premium supplement.\n\nThis category contains Insurance Connected with the Dwelling (12.5.2), Insurance Connected with Health (12.5.3), Insurance Connected with Transport (12.5.4) and Other Insurance (12.5.5).\n\nThis category is a subcategory of Miscellaneous Goods and Services (12) classification.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

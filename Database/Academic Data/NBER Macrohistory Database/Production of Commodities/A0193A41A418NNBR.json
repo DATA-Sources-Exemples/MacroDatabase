@@ -1,0 +1,18 @@
+{
+  "id": "A0193A41A418NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Iron Ore Production, Lake Superior Ore, Total for Lake Superior",
+  "observation_start": "1889-01-01",
+  "observation_end": "1915-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Long Tons",
+  "units_short": "Mil. Of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:35-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1889-1915 (2)--Original Data, 1911-1939. Data Exclude Iron Ridge Area (Southern Wisconsin). Source: U.S. Bureau Of The Mines, Mineral Resources, 1914, Part 1, Pp. 496-497.\n\nThis NBER data series a01193a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01193a"
+}

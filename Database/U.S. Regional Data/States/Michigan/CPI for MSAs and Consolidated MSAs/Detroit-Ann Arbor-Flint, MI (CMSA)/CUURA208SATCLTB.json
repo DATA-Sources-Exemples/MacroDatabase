@@ -1,0 +1,17 @@
+{
+  "id": "CUURA208SATCLTB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Detroit-Warren-Dearborn, MI (CBSA)",
+  "observation_start": "2009-12-01",
+  "observation_end": "2020-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2009=100",
+  "units_short": "Index Dec 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-05-12 07:44:11-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

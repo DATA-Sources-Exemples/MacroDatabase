@@ -1,0 +1,18 @@
+{
+  "id": "M08J4BUSM065NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hours of Work Per Week, Class I Railroad Employees, All Wage-Earners for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1956-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:29:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1943 (2)--Original Data, 1939-1956. This Series Is Roughly Comparable To The Nicb Series In Industry Coverage. \"All Wage-Earners\" Include \"Non-Supervisory Employees.\" Source: Bureau Of Labor Statistics: For 1939-1952, \"Employment, Hours, And Earnings, \" Transport And Public Utilities Division, Transportation Suddivision, Interstate Railroad Group, Class I Railroads, February 1953 And May 1955 Issues Numbered Ls53-2514; For 1953-1956, June 1956 Release, Monthly Labor Review, And\"Employment And Earnings.\"\n\nThis NBER data series m08034b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08034b"
+}

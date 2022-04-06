@@ -1,0 +1,18 @@
+{
+  "id": "M01275USM546NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Tire Pneumatic Casings, Shipments for Replacements for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1952-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Casings",
+  "units_short": "Thous. of Casings",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:02:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Represent Total Shipments Less Shipments For Original Equipment And For Exports; The Latter Series Has Been Revised To Exclude Shipments To Noncontiguous U.S. Territories Which Previously Were Considered As Exports. However, Some Firms Still Follow That Practice. The Chief Difference Between The Rma'S Data And The Exports Compiled By The U.S. Bureau Of The Census Is That The Rma'S Data Cover Only Shipments Of New Pneumatic Casings, While The Official U.S. Exports Cover Used And Retreaded As Well. Lend-Lease Shipments Were Considered As Replacement Shipments From 1941-1945. Shipments For Orders By The Office Of Economic Warfare (Originally The Foreign Economic Administration) Were, However, Considered As Exports From \"Late 1943 To The End Of 1945\" (1949 Survey Of Current Business, Statistical Supplement, P.284). On Account Of Government Restrictions, Exporters Had To Return Equipment Intended For Export, And Also Dealers Had To Return Equipment To Manufacturers. Shipment Figures Were Not Adjusted For Such Returns, And The Figures For 1942 \"Must Not Be Used To Indicate Trends.\" Source: Mimeographed Summary Tables Furnished By The Rubber Manufactuers' Association (Rma) For 1921-1949 Data; Succeeding Years May Be Found In Survey Of Current Business, Monthly Issues.\n\nThis NBER data series m01275 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01275"
+}

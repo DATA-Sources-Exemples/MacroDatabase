@@ -1,0 +1,18 @@
+{
+  "id": "M03067USM604SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue Ton-Miles Per Freight Car on Line for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1943-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Ton-Miles",
+  "units_short": "Thous. of Ton-Miles",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 14:05:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include Unserviceable Units. Source: Computed By NBER By Dividing Series 03003 (Revenue Ton-Miles) By Series 01253 (Total Freight Cars On Line).\n\nThis NBER data series m03067 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03067"
+}

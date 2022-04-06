@@ -1,7 +1,7 @@
 {
   "id": "WPU118401",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Fluid Meters and Counting Devices",
   "observation_start": "1985-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:02:26-05",
-  "popularity": 2,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 5
 }

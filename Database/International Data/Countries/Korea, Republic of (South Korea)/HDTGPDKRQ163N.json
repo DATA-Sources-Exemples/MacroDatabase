@@ -1,0 +1,18 @@
+{
+  "id": "HDTGPDKRQ163N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Household Debt to GDP for Republic of Korea",
+  "observation_start": "2009-01-01",
+  "observation_end": "2021-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-01 07:02:21-06",
+  "popularity": 29,
+  "group_popularity": 30,
+  "notes": "The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

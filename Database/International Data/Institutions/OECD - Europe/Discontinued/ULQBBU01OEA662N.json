@@ -1,0 +1,18 @@
+{
+  "id": "ULQBBU01OEA662N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Benchmarked Unit Labor Costs for the OECD Europe (DISCONTINUED)",
+  "observation_start": "1970-01-01",
+  "observation_end": "2010-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2010=1, Trend",
+  "units_short": "Index 2010=1, Trend",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-07-24 08:18:31-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: ULQBBU01\nOECD unit ID: IXOBTE\nOECD country ID: OEU\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

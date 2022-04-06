@@ -1,0 +1,18 @@
+{
+  "id": "M13013GBM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Minimum Rate of Discount, Bank of England for Great Britain",
+  "observation_start": "1836-01-01",
+  "observation_end": "1939-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:24-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "Whenever Rates Change Within A Month NBER Weighted The Rates By The Number Of Days Each Were In Effect. Source: Data For 1836-1938: Burdett'S Official Intelligence, 1894, P. 1771; 1935, P. 3286, And Following Editions (Name Changes To Stock Exchange Official Intelligence; Then To Official Stock Exchange Yearbook). Data For 1939: Federal Reserve Board, Banking And Monetary Statistics, 1943.\n\nThis NBER data series m13013 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13013"
+}

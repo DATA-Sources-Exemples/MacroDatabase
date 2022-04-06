@@ -1,0 +1,18 @@
+{
+  "id": "PEU18MI26043A647NCEN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Estimate of People Age 0-17 in Poverty in Dickinson County, MI",
+  "observation_start": "1989-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-16 10:53:02-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For further information about this series go to https://www.census.gov/programs-surveys/saipe/about.html."
+}

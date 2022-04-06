@@ -1,0 +1,18 @@
+{
+  "id": "M0821BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Payrolls, Rubber Products for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1954-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:28:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1920-1942 (2)--Original Data, 1947-1954. Source: Derived By Multiplying Employment (See B.C., Series 8,220) With Average Weekly Earnings, See Bureau Of Labor Statistics, Employment, Hours, And Earnings, Manufacturing Division, Nondurable Goods Division, Rubber Products, Releases Ls53-2339 (2-53) And (4-53) Through 1952; Monthly Labor Review, Thereafter.\n\nThis NBER data series m08221b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08221b"
+}

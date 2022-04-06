@@ -1,0 +1,18 @@
+{
+  "id": "M0907AUSM174NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Operating Income, U.S. Steel Corporation for United States",
+  "observation_start": "1901-04-01",
+  "observation_end": "1929-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:04:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1901-1929 (2)--Original Data, 1924-1942. Data In The First Segment Represent Earnings After Deduction Of Interest On Bonds And Fixed Charges Of Subsidiary Companies. Source: Commercial And Financial Chronicle.\n\nThis NBER data series m09007a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09007a"
+}

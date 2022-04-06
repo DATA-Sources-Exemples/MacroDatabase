@@ -1,0 +1,18 @@
+{
+  "id": "M06096USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' New Orders, Machinery and Equipment Industries, Value for United States",
+  "observation_start": "1953-01-01",
+  "observation_end": "1968-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:46:01-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: U.S. Bureau Of The Census, Data For 1953-1963: Unpublished Table (Subsequently Published In Census Series M3-1, Supplement No. 2, November 1964, \"Manufacturers' Shipments, Inventories, And Orders\"); Data For 1964-1968: Series M3-1.1, \"Manufacturers' Shipments, Inventories, And Orders, 1961-1968\", And Current Industrial Reports, Series M3-1 (Same Title)\n\nThis NBER data series m06096 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06096"
+}

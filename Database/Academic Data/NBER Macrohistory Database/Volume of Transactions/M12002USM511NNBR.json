@@ -1,0 +1,18 @@
+{
+  "id": "M12002USM511NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of General Business Activity for United States",
+  "observation_start": "1899-01-01",
+  "observation_end": "1937-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent of Normal",
+  "units_short": "% Of Normal",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:32:15-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "This Series Has Been Adjusted For Trend. 1899-1934 Data Have Also Been Computed By NBER, Based On 100, Plus Or Minus The Percentage Of Deviations From Normal. Source: For 1899-1932 Data, See American Telephone And Telegraph Company, Report Of October 20, 1932, \"Index Of Industrial Activity In The United States;\" 1933-1938 Data Are From A.T. And T., Monthly Issues Of Current Business Conditions In The United States\n\nThis NBER data series m12002 appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12002"
+}

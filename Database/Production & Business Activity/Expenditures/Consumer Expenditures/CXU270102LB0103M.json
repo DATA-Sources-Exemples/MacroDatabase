@@ -1,0 +1,18 @@
+{
+  "id": "CXU270102LB0103M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Expenditures: Cellular Phone Service by Quintiles of Income Before Taxes: Second 20 Percent (21st to 40th Percentile)",
+  "observation_start": "2013-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-09 12:08:32-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "For each time period represented in the tables, complete income reporters are ranked in ascending order, according to the level of total before-tax income reported by the consumer unit. The ranking is then divided into five equal groups. Incomplete income reporters are not ranked and are shown separately.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
+}

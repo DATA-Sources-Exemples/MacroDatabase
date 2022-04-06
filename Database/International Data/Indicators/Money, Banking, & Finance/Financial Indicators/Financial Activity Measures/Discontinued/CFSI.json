@@ -1,0 +1,18 @@
+{
+  "id": "CFSI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cleveland Financial Stress Index (DISCONTINUED)",
+  "observation_start": "1991-09-25",
+  "observation_end": "2016-05-05",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Z-score",
+  "units_short": "Z-score",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-05-06 14:23:07-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "In May of 2016, the source discovered errors in the calculation of the CFSI and began a detailed review of the index and its underlying model. Following that review, the source decided to discontinue the CFSI. https://www.clevelandfed.org/en/our-research/indicators-and-data/cleveland-financial-stress-index.aspx\n\nThe source has posted to their website a message regarding this release: Cleveland Financial Stress Index under review and a revised index expected in the fourth quarter of 2016. A thorough review of the index is being conducted to both simplify the index and enhance its robustness, while also taking into consideration changes in financial markets and institutions. This review and the revisions to the CFSI are expected to be completed sometime during the fourth quarter of this year, and additional details will be made available at that time. Thank you for your patience while we improve the CFSI.\n\nThe CFSI is designed to track distress in the US financial system on a continuous basis giving the financial-system supervisors the ability to monitor stressful episodes as they are building in the economy. Such early detection is important because financial stress can quickly be amplified when stress is occurring in more than one market. The CFSI tracks stress in six types of markets: credit markets, equity markets, foreign exchange markets, funding markets (interbank markets), real estate markets, and securitization markets. The CFSI is a coincident indicator of systemic stress, where a high value of CFSI indicates high systemic financial stress. Units of CFSI are expressed as standardized differences from the mean (z-scores).\n\nThe CFSI data for weekends and holidays is extrapolated.\n\nTo interpret the stress continuum, CFSI is first divided it into four levels or grades. The grade thresholds are dynamic and move slowly over time. The four grades are:\n\nGrade Description Range\nGrade 1 Low stress period CFSI < -0.733\nGrade 2 Normal stress period -0.733 \u2265 CFSI < 0.544\nGrade 3 Moderate stress period 0.544 \u2265 CFSI < 1.82\nGrade 4 Significant stress period CFSI \u2265 1.82"
+}

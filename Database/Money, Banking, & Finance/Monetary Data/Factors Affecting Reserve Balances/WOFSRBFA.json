@@ -1,0 +1,18 @@
+{
+  "id": "WOFSRBFA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Other Factors Supplying Reserve Balances: Float: Week Average",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:36:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Reserve balances can be affected by mismatches in check-clearing operations. When a check is received by a Reserve Bank, the depositing institution's account is credited according to a fixed schedule, regardless of when the check is presented to the bank on which it is drawn. When there are delays in the presentment of checks to the paying institution, the receiving institution's account is credited before the account of the paying depository institution is charged, elevating reserve balances. Conversely, if the paying institution's account is debited faster than the schedule for crediting the receiving institution's account, reserve balances are reduced. These increases or decreases in reserve balances that result from mismatches in the timing of check clearing are known as float. Float figures include the net amount of float-related adjustments."
+}

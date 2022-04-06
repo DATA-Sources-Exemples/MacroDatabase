@@ -1,7 +1,7 @@
 {
   "id": "WPU47110101",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Travel Arrangement Services (Partial): Arrangement of International Flights",
   "observation_start": "2008-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:00:22-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

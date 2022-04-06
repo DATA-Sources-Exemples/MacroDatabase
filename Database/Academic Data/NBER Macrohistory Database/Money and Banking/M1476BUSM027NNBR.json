@@ -1,0 +1,18 @@
+{
+  "id": "M1476BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Monetary Gold Stock for United States",
+  "observation_start": "1914-01-01",
+  "observation_end": "1946-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:33:15-05",
+  "popularity": 19,
+  "group_popularity": 21,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1946 (3)--Original Data, 1947-1970. Figures For 1914-July 1917 Are End Of Month Data. Data For August 1917-1946 Are Monthly Averages Of Daily Figures. Figures In This Variable Differ From Those In Previous Variables Covering 1878-1914 By The Amount Of Revision Made To Exclude Gold Coin Outside The Treasury And Federal Reserve Banks, Estimated To Be $287,000,000. Between January 31, 1934 And February 1, 1934, The Gold Stock Was Increased 2.98 Billion Dollars, Of Which 2.81 Billion Was The Increment Resulting From Reduction In The Weight Of The Gold Dollar And The Remainder Was Gold Which Had Been Purchased By The Treasury Previously But Not Added To The Gold Stock. Source: Federal Reserve Board, Banking And Monetary Statistics; Federal Reserve Bulletins.\n\nThis NBER data series m14076b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14076b"
+}

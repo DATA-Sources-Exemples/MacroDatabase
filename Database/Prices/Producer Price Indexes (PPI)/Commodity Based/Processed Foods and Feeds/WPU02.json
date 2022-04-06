@@ -1,7 +1,7 @@
 {
   "id": "WPU02",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:16-05",
-  "popularity": 17,
-  "group_popularity": 17
+  "popularity": 20,
+  "group_popularity": 20
 }

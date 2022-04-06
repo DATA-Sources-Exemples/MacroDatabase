@@ -1,0 +1,18 @@
+{
+  "id": "DDDM02QAA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Stock Market Total Value Traded to GDP for Qatar",
+  "observation_start": "2005-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-10-21 13:54:16-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "Total value of all traded shares in a stock market exchange as a percentage of GDP. (Standard & Poor's, Global Stock Markets Factbook and supplemental S&P data)\n\nSource Code: GFDD.DM.02"
+}

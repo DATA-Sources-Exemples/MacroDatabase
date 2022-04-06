@@ -1,0 +1,18 @@
+{
+  "id": "M13002US35620M156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Commercial Paper Rates for New York, NY",
+  "observation_start": "1857-01-01",
+  "observation_end": "1971-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:19:07-05",
+  "popularity": 14,
+  "group_popularity": 14,
+  "notes": "Data Represent 60-90 Day Prime Endorsed Bills For 1858-1859; Prime 60-90 Day Double Name For 1860-1923; Prime Four-Six Months, Double And Single Names Thereafter. Data For 1857 Are From Rates Given In A Treasury Report In Bankers' Magazine; Rates For 1858 Are From The New York Chamber Of Commerce Report, 1858, P. 9; Rates For 1859-June 1862 Are Arithmetic Averages Between The Monthly Averages Of Hunt'S Merchants Magazine And Of Bankers'; Rates For July 1862-1865 Are Estimated From A Table Of Daily Rates From Different New York Newspapers. Data For 1942-1971 Are Averages Of Daily Offering Rates Of Dealers 60-90 Day Prime Bills. Source: Data For 1857-January 1937: F.R. Macaulay, The Movement Of Interest Rates, Bond Yields, And Stock Prices In The U.S. Since 1856 (NBER No. 33, 1938), Pp. A142-161. Data For February 1937-1942: Computed By NBER From Weekly Data In Bank And Quotation Record, Commercial And Financial Chronicle. Data For 1943-1971: Federal Reserve Board.\n\nThis NBER data series m13002 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13002"
+}

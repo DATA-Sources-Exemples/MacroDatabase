@@ -1,0 +1,18 @@
+{
+  "id": "N400RC1Q027SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate profits with inventory valuation adjustments: Domestic industries: Nonfinancial: Manufacturing",
+  "observation_start": "2001-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:56:55-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "BEA Account Code: N400RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

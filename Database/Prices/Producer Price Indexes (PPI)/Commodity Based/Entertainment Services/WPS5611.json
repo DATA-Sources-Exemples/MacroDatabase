@@ -1,7 +1,7 @@
 {
   "id": "WPS5611",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Entertainment Services (Partial): Membership Dues and Admissions and Recreation Facility Use Fees (Partial)",
   "observation_start": "2009-06-01",
   "observation_end": "2015-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-02-17 10:48:05-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

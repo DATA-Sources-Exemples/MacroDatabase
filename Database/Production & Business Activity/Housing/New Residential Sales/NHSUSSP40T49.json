@@ -1,0 +1,18 @@
+{
+  "id": "NHSUSSP40T49",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999",
+  "observation_start": "2002-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 09:01:25-05",
+  "popularity": 4,
+  "group_popularity": 5,
+  "notes": "Data appearing as a \"0\" does not actually represent \"0\" units sold. Do to rounding issues \"0\" refers to less than 500 units sold."
+}

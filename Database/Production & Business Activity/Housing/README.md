@@ -1,9 +1,9 @@
 | Folder                                        |   Files / Folders |
 |-----------------------------------------------|-------------------|
-| Housing Units Authorized by Building Permits  |                 1 |
-| New Residential Sales                         |                 1 |
-| Housing Units Authorized, But Not Yet Started |                 1 |
-| Housing Units Completed                       |                 1 |
-| Housing Starts                                |                 1 |
-| Manufactured Housing                          |                 1 |
-| Housing Units Under Construction              |                 1 |
+| Housing Units Under Construction              |                10 |
+| New Residential Sales                         |               110 |
+| Manufactured Housing                          |                30 |
+| Housing Starts                                |                28 |
+| Housing Units Authorized, But Not Yet Started |                10 |
+| Housing Units Authorized by Building Permits  |                10 |
+| Housing Units Completed                       |                28 |

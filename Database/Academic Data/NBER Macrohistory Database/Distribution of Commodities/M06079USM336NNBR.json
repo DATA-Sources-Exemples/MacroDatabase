@@ -1,0 +1,18 @@
+{
+  "id": "M06079USM336NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Orders, Total, Associated Industries of Massachusetts for United States",
+  "observation_start": "1924-07-01",
+  "observation_end": "1941-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:48:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Were Computed By Multiplying 12-Month Moving Totals By The Ratio Of Monthly Figures (Indexes) To Corresponding Moving Totals. Data Are Based On Reports From 160-260 Concerns In Textiles, Leather And Shoes, Metal Trdes, Paper, And All Other Industries (Mostly Consumer Goods Such As Optical, Confectionary, Jewelry, Rubber, Plastics, And Some Electrical Appliances). The Sample Then Consists Mainly Of Firms In Index Group 22, 26, 31, 34, 36 And 39, And Market Groups Hg, Cm, And Om. The Composite Index Is For Massachussetts. Source: Victor Zarnowitz, Orders, Production And Investment: A Cyclical And Structural Analysis, Table A-1, P. 655.\n\nThis NBER data series m06079 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06079"
+}

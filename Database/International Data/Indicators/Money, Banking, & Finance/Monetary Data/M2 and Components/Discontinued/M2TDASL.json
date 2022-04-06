@@ -1,0 +1,18 @@
+{
+  "id": "M2TDASL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Time Deposits Adjusted at all Commercial Banks (DISCONTINUED)",
+  "observation_start": "1947-01-01",
+  "observation_end": "1971-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2006-10-26 09:10:27-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Averages of daily figures."
+}

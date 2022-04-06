@@ -1,0 +1,18 @@
+{
+  "id": "A1218DA144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Deflated Bank Clearings, Outside New York",
+  "observation_start": "1875-01-01",
+  "observation_end": "1921-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:32:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: F.R. Macaulay, \"The Movements Of Interest Rates, Bond Yields And Stock Prices In The U.S. Since 1856, \" NBER Publication #33, 1938, Appendix--Table 27, P A255-A269.\n\nThis NBER data series a12018d appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: a12018d"
+}

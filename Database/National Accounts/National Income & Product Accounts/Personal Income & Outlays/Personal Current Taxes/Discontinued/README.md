@@ -1,2 +1,4 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                  | observation_start   | observation_end   |
+|-----------------|----------------------------------------------------------------------------------------|---------------------|-------------------|
+| A074RU1Q027NBEA | Federal government current tax receipts: Personal current taxes (DISCONTINUED)         | 1947-01-01          | 2016-10-01        |
+| W071RU1Q027NBEA | State and local government current tax receipts: Personal current taxes (DISCONTINUED) | 1947-01-01          | 2016-10-01        |

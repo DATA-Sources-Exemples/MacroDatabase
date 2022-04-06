@@ -1,7 +1,7 @@
 {
   "id": "WPU321",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Warehousing, Storage, and Related Services",
   "observation_start": "2008-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:45-05",
   "popularity": 4,
-  "group_popularity": 13
+  "group_popularity": 12
 }

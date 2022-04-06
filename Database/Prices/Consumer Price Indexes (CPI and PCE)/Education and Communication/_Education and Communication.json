@@ -1,8 +1,8 @@
 {
   "CPIEDUNS": {
     "id": "CPIEDUNS",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Education and Communication in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:41-06",
-    "popularity": 7,
-    "group_popularity": 26,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 5,
+    "group_popularity": 27,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CPIEDUSL": {
     "id": "CPIEDUSL",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Education and Communication in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:06-06",
-    "popularity": 24,
-    "group_popularity": 26,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 25,
+    "group_popularity": 27,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SAE1": {
     "id": "CUSR0000SAE1",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Education in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -49,14 +49,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:16-06",
-    "popularity": 11,
-    "group_popularity": 16,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 12,
+    "group_popularity": 17,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SAE2": {
     "id": "CUSR0000SAE2",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Communication in U.S. City Average",
     "observation_start": "1998-01-01",
     "observation_end": "2022-02-01",
@@ -67,14 +67,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:21-06",
-    "popularity": 5,
-    "group_popularity": 8,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 9,
+    "group_popularity": 12,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SAE21": {
     "id": "CUSR0000SAE21",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Information and Information Processing in U.S. City Average",
     "observation_start": "2006-01-01",
     "observation_end": "2022-02-01",
@@ -85,14 +85,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:40-06",
-    "popularity": 7,
-    "group_popularity": 8,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 5,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SEEA": {
     "id": "CUSR0000SEEA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Educational Books and Supplies in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -103,14 +103,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:11-06",
-    "popularity": 17,
-    "group_popularity": 21,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 18,
+    "group_popularity": 20,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SEEB": {
     "id": "CUSR0000SEEB",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Tuition, Other School Fees, and Childcare in U.S. City Average",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -121,14 +121,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:02-06",
-    "popularity": 32,
-    "group_popularity": 32,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 34,
+    "group_popularity": 35,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SEEE": {
     "id": "CUSR0000SEEE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Information Technology, Hardware and Services in U.S. City Average",
     "observation_start": "2006-01-01",
     "observation_end": "2022-02-01",
@@ -139,14 +139,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:03-06",
-    "popularity": 29,
-    "group_popularity": 30,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 32,
+    "group_popularity": 33,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SEEE01": {
     "id": "CUSR0000SEEE01",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",
     "observation_start": "2005-01-01",
     "observation_end": "2022-02-01",
@@ -157,14 +157,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:37:05-06",
-    "popularity": 22,
-    "group_popularity": 25,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 24,
+    "group_popularity": 26,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUSR0000SERF03": {
     "id": "CUSR0000SERF03",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Fees for Lessons or Instructions in U.S. City Average",
     "observation_start": "1989-01-01",
     "observation_end": "2022-02-01",
@@ -177,12 +177,12 @@
     "last_updated": "2022-03-10 07:38:41-06",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SAE1": {
     "id": "CUUR0000SAE1",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Education in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -193,14 +193,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:19-06",
-    "popularity": 9,
-    "group_popularity": 16,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 8,
+    "group_popularity": 17,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SAE2": {
     "id": "CUUR0000SAE2",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Communication in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -211,14 +211,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:40:38-06",
-    "popularity": 3,
-    "group_popularity": 8,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 7,
+    "group_popularity": 12,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SAE21": {
     "id": "CUUR0000SAE21",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Information and Information Processing in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -230,13 +230,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:40:38-06",
     "popularity": 2,
-    "group_popularity": 8,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "group_popularity": 6,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SEEA": {
     "id": "CUUR0000SEEA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Educational Books and Supplies in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -247,14 +247,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:24-06",
-    "popularity": 7,
-    "group_popularity": 21,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 5,
+    "group_popularity": 20,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SEEB": {
     "id": "CUUR0000SEEB",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Tuition, Other School Fees, and Childcare in U.S. City Average",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -265,14 +265,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:50-06",
-    "popularity": 5,
-    "group_popularity": 32,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 4,
+    "group_popularity": 35,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SEED": {
     "id": "CUUR0000SEED",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Telephone Services in U.S. City Average",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -283,14 +283,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:11-06",
-    "popularity": 18,
-    "group_popularity": 18,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 15,
+    "group_popularity": 15,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SEEE": {
     "id": "CUUR0000SEEE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Information Technology, Hardware and Services in U.S. City Average",
     "observation_start": "1988-12-01",
     "observation_end": "2022-02-01",
@@ -301,14 +301,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:33-06",
-    "popularity": 5,
-    "group_popularity": 30,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 9,
+    "group_popularity": 33,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SEEE01": {
     "id": "CUUR0000SEEE01",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -319,14 +319,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:37:16-06",
-    "popularity": 10,
-    "group_popularity": 25,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 9,
+    "group_popularity": 26,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CUUR0000SERF03": {
     "id": "CUUR0000SERF03",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Consumers: Fees for Lessons or Instructions in U.S. City Average",
     "observation_start": "1986-12-01",
     "observation_end": "2022-02-01",
@@ -339,12 +339,12 @@
     "last_updated": "2022-03-10 07:41:26-06",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SAE": {
     "id": "CWSR0000SAE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Education and Communication in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -355,14 +355,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:41:40-06",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SAE1": {
     "id": "CWSR0000SAE1",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Education in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -375,12 +375,12 @@
     "last_updated": "2022-03-10 07:39:30-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SAE2": {
     "id": "CWSR0000SAE2",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Communication in U.S. City Average",
     "observation_start": "1998-01-01",
     "observation_end": "2022-02-01",
@@ -393,12 +393,12 @@
     "last_updated": "2022-03-10 07:39:30-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SAE21": {
     "id": "CWSR0000SAE21",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Information and Information Processing in U.S. City Average",
     "observation_start": "2006-01-01",
     "observation_end": "2022-02-01",
@@ -411,12 +411,12 @@
     "last_updated": "2022-03-10 07:39:26-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SEEA": {
     "id": "CWSR0000SEEA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Educational Books and Supplies in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -429,12 +429,12 @@
     "last_updated": "2022-03-10 07:41:39-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SEEB": {
     "id": "CWSR0000SEEB",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Tuition, Other School Fees, and Childcare in U.S. City Average",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -445,14 +445,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 07:39:21-06",
-    "popularity": 4,
-    "group_popularity": 4,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "popularity": 6,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SEEE": {
     "id": "CWSR0000SEEE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Information Technology, Hardware and Services in U.S. City Average",
     "observation_start": "2006-01-01",
     "observation_end": "2022-02-01",
@@ -465,12 +465,12 @@
     "last_updated": "2022-03-10 07:39:23-06",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWSR0000SEEE01": {
     "id": "CWSR0000SEEE01",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",
     "observation_start": "2005-01-01",
     "observation_end": "2022-02-01",
@@ -483,12 +483,12 @@
     "last_updated": "2022-03-10 07:39:26-06",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SAE": {
     "id": "CWUR0000SAE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Education and Communication in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -501,12 +501,12 @@
     "last_updated": "2022-03-10 07:39:25-06",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SAE1": {
     "id": "CWUR0000SAE1",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Education in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -519,12 +519,12 @@
     "last_updated": "2022-03-10 07:41:38-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SAE2": {
     "id": "CWUR0000SAE2",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Communication in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -537,12 +537,12 @@
     "last_updated": "2022-03-10 07:41:37-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SAE21": {
     "id": "CWUR0000SAE21",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Information and Information Processing in U.S. City Average",
     "observation_start": "1993-01-01",
     "observation_end": "2022-02-01",
@@ -555,12 +555,12 @@
     "last_updated": "2022-03-10 07:41:37-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SEEA": {
     "id": "CWUR0000SEEA",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Educational Books and Supplies in U.S. City Average",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -573,12 +573,12 @@
     "last_updated": "2022-03-10 07:41:37-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SEEB": {
     "id": "CWUR0000SEEB",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Tuition, Other School Fees, and Childcare in U.S. City Average",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -590,13 +590,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-10 07:41:37-06",
     "popularity": 2,
-    "group_popularity": 4,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "group_popularity": 6,
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SEED": {
     "id": "CWUR0000SEED",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Telephone Services in U.S. City Average",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -609,12 +609,12 @@
     "last_updated": "2022-03-10 07:41:36-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SEEE": {
     "id": "CWUR0000SEEE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Information Technology, Hardware and Services in U.S. City Average",
     "observation_start": "1988-12-01",
     "observation_end": "2022-02-01",
@@ -627,12 +627,12 @@
     "last_updated": "2022-03-10 07:41:36-06",
     "popularity": 1,
     "group_popularity": 3,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "CWUR0000SEEE01": {
     "id": "CWUR0000SEEE01",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Computers, Peripherals, and Smart Home Assistants in U.S. City Average",
     "observation_start": "1997-12-01",
     "observation_end": "2022-02-01",
@@ -645,12 +645,12 @@
     "last_updated": "2022-03-10 07:41:36-06",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "SUUR0000SAE": {
     "id": "SUUR0000SAE",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Chained Consumer Price Index for All Urban Consumers: Education and Communication in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",
@@ -663,12 +663,12 @@
     "last_updated": "2022-03-10 07:41:35-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "SUUR0000SAE1": {
     "id": "SUUR0000SAE1",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Chained Consumer Price Index for All Urban Consumers: Education in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",
@@ -681,12 +681,12 @@
     "last_updated": "2022-03-10 07:41:35-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   },
   "SUUR0000SAE2": {
     "id": "SUUR0000SAE2",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Chained Consumer Price Index for All Urban Consumers: Communication in U.S. City Average",
     "observation_start": "1999-12-01",
     "observation_end": "2022-02-01",
@@ -699,6 +699,6 @@
     "last_updated": "2022-03-10 07:41:34-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
+    "path": "../Database/Prices/Consumer Price Indexes (CPI and PCE)/Education and Communication"
   }
 }

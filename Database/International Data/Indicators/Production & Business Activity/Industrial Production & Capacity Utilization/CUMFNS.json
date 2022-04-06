@@ -1,0 +1,17 @@
+{
+  "id": "CUMFNS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Capacity Utilization: Manufacturing (SIC)",
+  "observation_start": "1948-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent of Capacity",
+  "units_short": "% of Capacity",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-17 08:19:13-05",
+  "popularity": 23,
+  "group_popularity": 24
+}

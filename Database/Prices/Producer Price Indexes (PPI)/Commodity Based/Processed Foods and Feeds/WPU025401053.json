@@ -1,7 +1,7 @@
 {
   "id": "WPU025401053",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Cocoa Butter, Liquor, and Cocoa Base Chocolate Syrup Made from Cacao Beans",
   "observation_start": "2011-12-01",
   "observation_end": "2020-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-07-10 07:53:15-05",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 12,
+  "group_popularity": 12
 }

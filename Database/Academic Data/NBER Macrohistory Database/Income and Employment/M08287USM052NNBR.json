@@ -1,0 +1,18 @@
+{
+  "id": "M08287USM052NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Earnings, Manufacturing, Nondurable Goods for United States",
+  "observation_start": "1923-01-01",
+  "observation_end": "1956-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:16:29-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Bureau Of Labor Statistics, For 1923-1950 Data: Bls Mimeographed Release Ls53-2890, \"Employment, Hours, And Earnings\", February 1923; For 1951-1954: Bls Release Of May 1955; Thereafter: Monthly Labor Review.\n\nThis NBER data series m08287 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08287"
+}

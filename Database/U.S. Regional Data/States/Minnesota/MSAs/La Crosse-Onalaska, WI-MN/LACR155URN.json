@@ -1,0 +1,17 @@
+{
+  "id": "LACR155URN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment Rate in La Crosse-Onalaska, WI-MN (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 17:26:53-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

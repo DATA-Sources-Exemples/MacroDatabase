@@ -1,0 +1,18 @@
+{
+  "id": "A01242USA396NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Canned Tomato Pack for United States",
+  "observation_start": "1883-01-01",
+  "observation_end": "1951-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Cases of 24 Number 2 Cans",
+  "units_short": "Mil. Of Cases Of 24 Number 2 Cans",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "NBER Derived Data For 1883-1907 By Multiplying The Number Of Cases Of No. 3 Cans By 1.707. Data Include Canada, But NBER Has Canadian Part As Being \"Quite Negligible,\" .03 In 1885 And .07 In 1886. Source: 1883-1884 Data From American Grocer; United States Department Of Agriculture Statistical Bulletin, Report No. 36, P.556; Canning Trade, 1940, P.198; Agricultural Yearbook And Statistics; Usda Statistical Bulletin No. 23, P.67\n\nThis NBER data series a01242 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01242"
+}

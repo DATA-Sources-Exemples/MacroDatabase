@@ -1,0 +1,18 @@
+{
+  "id": "WMMIFF",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Portfolio Holdings of LLCs funded through the Money Market Investor Funding Facility (DISCONTINUED)",
+  "observation_start": "2008-11-26",
+  "observation_end": "2009-10-28",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2009-10-30 09:46:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "On November 24, 2008, the Money Market Investor Funding Facility (MMIFF) was created to provide funding to a series of limited liability companies to purchase short-term U.S. dollar-denominated certificates of deposit, bank notes, and outstanding asset-backed commercial paper.\nFor more information, visit http://www.federalreserve.gov/monetarypolicy/mmiff.htm."
+}

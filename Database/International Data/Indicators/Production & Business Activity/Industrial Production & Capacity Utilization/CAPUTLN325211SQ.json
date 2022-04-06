@@ -1,0 +1,18 @@
+{
+  "id": "CAPUTLN325211SQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Capacity Utilization: Manufacturing: Non-Durable Goods: Plastics Material and Resin (NAICS = 325211)",
+  "observation_start": "1972-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent of Capacity",
+  "units_short": "% of Capacity",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-16 08:22:11-06",
+  "popularity": 1,
+  "group_popularity": 10,
+  "notes": "For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.\n\nNAICS = 325211\n\nSource Code: CAPUTL.N325211.S"
+}

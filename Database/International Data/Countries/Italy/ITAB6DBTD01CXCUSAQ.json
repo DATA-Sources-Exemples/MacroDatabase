@@ -1,0 +1,18 @@
+{
+  "id": "ITAB6DBTD01CXCUSAQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Balance of payments BPM6: Current account Debits: Goods: Total Debits for Italy",
+  "observation_start": "1995-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "US Dollars, sum over component sub-periods",
+  "units_short": "US $, sum over component sub-periods",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-01-18 11:48:21-06",
+  "popularity": 2,
+  "group_popularity": 3,
+  "notes": "OECD descriptor ID: B6DBTD01 OECD unit ID: CXCUSA OECD country ID: ITA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M10106USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Installment Credit Repayments for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1968-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:16:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Estimates For Alaska And Hawaii Are Included In Instalment Credit Outstanding In January And July, 1959, Respectively, As Well As In The Month-To-Month Changes For December 1958-January 1959 And July 1959-August 1959. However, The Above Figures Do Not Include The Totals Outstanding In Alaska And Hawaii In January And July, 1959, And Therefore, The Differences Between Extensions And Repayments In Those Two Months Do Not Equal The Changes From Month To Month Shown In Series 10132-133 (Total Consumer Instalment Credit Outstanding, End Of Month). Source: Federal Reserve Board, Data For 1929-1939: Federal Reserve Bulletin, June 1955, \"Estimates Of Instalment Credit Extended And Repaid, 1929-1939\", Tables 1 And 2; Data For 1940-1950: Frb Consumer Credit Statistics, February 1963; Data For 1956-1967: Bulletin, December 1968; Data For January-November 1968: Bulletin, January 1969; For December 1968: Monthly Bulletins\n\nThis NBER data series m10106 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10106"
+}

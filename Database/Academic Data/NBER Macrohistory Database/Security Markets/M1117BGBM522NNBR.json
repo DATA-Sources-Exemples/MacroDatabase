@@ -1,0 +1,18 @@
+{
+  "id": "M1117BGBM522NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consolidated Stock Prices, Two and Three Quarters Per Cent Stocks for Great Britain",
+  "observation_start": "1888-03-01",
+  "observation_end": "1934-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Pounds per 100 Shares",
+  "units_short": "Pounds Per 100 Shares",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:01:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1853-1888 (2)--Original Data, 1888-1934. The Rate Of Interest On Consols Was Reduced From Two And Three Quarters Percent To Two And One Half Percent On April 6, 1903 And The First Dividends At The Lower Rate Became Payable On July 5. The Stock Exchange Was Closed In The Latter Months Of 1914. Source: 1888-1932 Data Are From The Statistical Abstract Of The United Kingdom; 1933-1934 Data Were Computed By NBER From Data In The Economist. Weekly Quotations, Falling On A Wednesday, Are Averaged For Those Weeks Falling Within A Month; They Vary From 3 To 5.\n\nThis NBER data series m11017b appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11017b"
+}

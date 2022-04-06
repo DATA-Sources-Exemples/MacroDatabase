@@ -1,0 +1,18 @@
+{
+  "id": "A013AADEA563NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Rye Crop Acreage for Germany",
+  "observation_start": "1911-01-01",
+  "observation_end": "1937-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Hectares",
+  "units_short": "Thous. Of Hectares",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:50:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1917 (2)--Original Data, 1911-1937 (3)--Original Data, 1933-1944. Coverage Excludes All Ceded Territories. Source: Data For 1911-1919: Vierteljahrshefte Zur Statistik, 1926, Vol. I, P. 51. Data For 1920-1937: Statistiches Jahrbuch, Sucessive Issues. For 1935-1937, Also See The Annual, Statistik Des Deutsche Reichs; And Wirtschaft Und Statistik.\n\nThis NBER data series a01033aa appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01033aa"
+}

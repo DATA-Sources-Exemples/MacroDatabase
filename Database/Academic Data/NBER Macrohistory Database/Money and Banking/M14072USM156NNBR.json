@@ -1,0 +1,18 @@
+{
+  "id": "M14072USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Ratio of Reserves to Note and Deposit Liabilities, Federal Reserve Banks for United States",
+  "observation_start": "1914-11-01",
+  "observation_end": "1948-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:31:06-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "Ratios Through 1920 Were Computed From Monthly Averages Of Weekly Data For Reserves And Note And Deposit Liabilities. Deposit Liabilities For 1915-June 1917 Were Computed From Items Listed In Weekly Condition Statements. January And February 1921 Reserves Are For $3,300,000, The Average Daily Amount Of Gold Held Abroad By The Federal Reserve Banks. Data For 1921-1948 Are Monthly Averages Of Daily Figures. Source: Federal Reserve Board, Data For 1914-February 1921: Computed By NBER. Data For March 1921-1935: Federal Reserve Bulletins. Data For 1936-1941: Banking And Monetary Statistics. Data For 1942-1948: Unpublished Frb Data.\n\nThis NBER data series m14072 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14072"
+}

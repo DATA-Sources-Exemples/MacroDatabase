@@ -1,0 +1,18 @@
+{
+  "id": "M1201AUSM348NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Industrial Activity, American Telegraph and Telephone Company for United States",
+  "observation_start": "1899-01-01",
+  "observation_end": "1957-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1947=100",
+  "units_short": "Index 1947=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:31:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Months Of January And June 1946, October And November 1949, June-August 1952, And July-September, 1956 Have Been Revised To Modify The Effects Of Various Steel Strikes. As Pointed Out By The Source, Steel Fabrication Continues During Strikes From Inventories In The Hands Of Fabricators. Since Ingot Steel Production Represents Steel Activity In This Index, The Effect Of Strikes Is Overstated And Therefore The Federal Reserve Index Of Metal Fabricating Was Used For Those Months In Which Steel Ingot Production Does Not Adequately Represent Steel Industry Activity. Source: American Telephone And Telegraph Company, \"Index Of Industrial Activity, \" Unpublished Pamphlet Issued By The Chief Statistician'S Division, Att, July, 1955 For Data Through July, 1955; Thereafter See Summary Of Business Conditions. The January 1957 Issue Contains Scattered Revisions.\n\nThis NBER data series m12001a appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12001a"
+}

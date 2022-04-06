@@ -1,0 +1,17 @@
+{
+  "id": "NXSAXDCBRQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nominal Exports of Goods and Services for Brazil",
+  "observation_start": "1996-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Domestic Currency",
+  "units_short": "Domestic Currency",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-04 07:10:02-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

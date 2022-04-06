@@ -1,0 +1,18 @@
+{
+  "id": "PONHPI00104M226N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Purchase Only House Price Index for the East South Central Census Division",
+  "observation_start": "1991-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jan 1991=100",
+  "units_short": "Index Jan 1991=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-29 09:05:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The purchase-only index is based on more than 6 million repeat sales transactions on the same single-family properties."
+}

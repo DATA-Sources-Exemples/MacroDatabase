@@ -1,7 +1,7 @@
 {
   "id": "PCU213111213111P",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Industry: Drilling Oil and Gas Wells: Primary Services",
   "observation_start": "1985-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:56:04-05",
-  "popularity": 8,
-  "group_popularity": 8
+  "popularity": 10,
+  "group_popularity": 10
 }

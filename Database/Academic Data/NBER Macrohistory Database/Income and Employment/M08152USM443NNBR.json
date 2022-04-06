@@ -1,0 +1,18 @@
+{
+  "id": "M08152USM443NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Straight Time Man-Hours Worked, All Employees on Hourly Basis, Class I Railroads for United States",
+  "observation_start": "1921-07-01",
+  "observation_end": "1943-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Service Hours",
+  "units_short": "Mil. of Service Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:28:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1921-1928 And 1933-1943 Include Switching And Terminal Companies; Data For 1929-1932 Exclude Switching And Terminal Companies. Data Include Construction Allowances In Train And Engine Services. Source: Interstate Commerce Commission, Bureau Of Statistics\n\nThis NBER data series m08152 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08152"
+}

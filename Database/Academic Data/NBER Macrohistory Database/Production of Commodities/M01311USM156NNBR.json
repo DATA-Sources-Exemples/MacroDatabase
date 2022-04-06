@@ -1,0 +1,18 @@
+{
+  "id": "M01311USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Rate of Change Per Year, Output Per Manhour, Manufacturing, All Employees for United States",
+  "observation_start": "1948-07-01",
+  "observation_end": "1969-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Derived From Series (Index Of Output Per Manhour, All Employees, Manufacturing, Total). Figures Represent Change From Corresponding Month Of Previous Year And Are Entered On The Seventh Month Of Intervening Interval. Source: U.S. Bureau Of Labor Statistics, And Federal Reserve Board.\n\nThis NBER data series m01311 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01311"
+}

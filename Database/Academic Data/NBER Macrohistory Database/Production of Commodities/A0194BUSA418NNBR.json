@@ -1,0 +1,18 @@
+{
+  "id": "A0194BUSA418NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Iron Ore Shipments, Total for United States",
+  "observation_start": "1911-01-01",
+  "observation_end": "1937-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Long Tons",
+  "units_short": "Mil. Of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1889-1915 (2)--Original Data, 1911-1937 (3)--Original Data, 1930-1939. Data Include Beneficiated Ore; Exclude Ore For Paint (Which Is Included In Production Figures) And Manganiferrous Ore Containing Over Five Percent Manganese. Source: Lake Superior Iron Ore, 1938, Pp. 308, 340; U.S. Bureau Of Mines, Minerals Yearbook, 1935-1938.\n\nThis NBER data series a01194b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01194b"
+}

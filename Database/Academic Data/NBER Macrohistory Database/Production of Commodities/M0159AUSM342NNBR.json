@@ -1,0 +1,18 @@
+{
+  "id": "M0159AUSM342NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Paper and Pulp Production for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1953-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1935-1939=100",
+  "units_short": "Index 1935-1939 =100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:05:10-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1953 (2)--Original Data, 1947-1957 Source: Frb, Federal Reserve Index Of Industrial Production, October 1943, Pp. 37, 82; Federal Reserve Bulletin, Successive Issues.\n\nThis NBER data series m01259a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01259a"
+}

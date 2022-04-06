@@ -1,0 +1,18 @@
+{
+  "id": "PRS88003122",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees",
+  "observation_start": "1947-04-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change at Annual Rate",
+  "units_short": "% Chg. at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-03 07:37:23-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Unit Nonlabor costs include, consumption of fixed capital, taxes on production and imports less subsidies, net interest and miscellaneous payments, and business current transfer payments.\n\nFor more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS88003122"
+}

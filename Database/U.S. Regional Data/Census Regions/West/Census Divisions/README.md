@@ -1,4 +1,4 @@
 | Folder   |   Files / Folders |
 |----------|-------------------|
-| Mountain |                 2 |
-| Pacific  |                 2 |
+| Pacific  |                29 |
+| Mountain |                29 |

@@ -1,4 +1,4 @@
 | Folder          |   Files / Folders |
 |-----------------|-------------------|
-| Commodity Based |                54 |
-| Industry Based  |                 5 |
+| Industry Based  |                17 |
+| Commodity Based |                55 |

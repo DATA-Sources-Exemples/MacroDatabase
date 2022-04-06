@@ -1,0 +1,18 @@
+{
+  "id": "IBCOBD678FRBCLE",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to the Cleveland Financial Stress Index: Interbank Cost of Borrowing (DISCONTINUED)",
+  "observation_start": "1991-09-25",
+  "observation_end": "2016-05-05",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Units of Stress",
+  "units_short": "Units of Stress",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-05-06 14:21:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "In May of 2016, the source discovered errors in the calculation of the CFSI and began a detailed review of the index and its underlying model. Following that review, the source decided to discontinue the CFSI. https://www.clevelandfed.org/en/our-research/indicators-and-data/cleveland-financial-stress-index.aspx\n\nThe source has posted to their website a message regarding this release: Cleveland Financial Stress Index under review and a revised index expected in the fourth quarter of 2016. A thorough review of the index is being conducted to both simplify the index and enhance its robustness, while also taking into consideration changes in financial markets and institutions. This review and the revisions to the CFSI are expected to be completed sometime during the fourth quarter of this year, and additional details will be made available at that time. Thank you for your patience while we improve the CFSI.\n\nThis chart shows the contribution of the interbank cost of borrowing spread to the CFSI. This spread is used to measure counterparty risk and is used to measure the degree of apprehension with which banks loan to one another. It is calculated as the difference between the 3-Month LIBOR and the Federal Funds Rate."
+}

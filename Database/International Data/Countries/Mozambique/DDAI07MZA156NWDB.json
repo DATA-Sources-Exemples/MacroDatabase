@@ -1,0 +1,18 @@
+{
+  "id": "DDAI07MZA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "People 15 Years and Over Borrowing from a Financial Institution in the Past Year for Mozambique",
+  "observation_start": "2011-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-21 11:27:46-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The percentage of respondents who report borrowing any money from a bank, credit union, microfinance institution, or another financial institution such as a cooperative in the past 12 months (% age 15+).\n\nSource Code: GFDD.AI.07"
+}

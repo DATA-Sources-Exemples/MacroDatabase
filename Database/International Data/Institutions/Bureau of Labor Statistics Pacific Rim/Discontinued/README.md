@@ -1,2 +1,4 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                             | observation_start   | observation_end   |
+|-------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COPRIMZ11   | Import Price Index: Agriculture, forestry, fishing and hunting for Pacific Rim (DISCONTINUED)     | 2012-06-01          | 2016-12-01        |
+| COPRIMZ3169 | Import Price Index: Other leather and allied product manufacturing for Pacific Rim (DISCONTINUED) | 2012-06-01          | 2014-12-01        |

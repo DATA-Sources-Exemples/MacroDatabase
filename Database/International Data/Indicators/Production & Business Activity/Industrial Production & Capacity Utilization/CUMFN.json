@@ -1,0 +1,17 @@
+{
+  "id": "CUMFN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Capacity Utilization: Manufacturing (NAICS)",
+  "observation_start": "1972-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent of Capacity",
+  "units_short": "% of Capacity",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-17 08:18:47-05",
+  "popularity": 5,
+  "group_popularity": 45
+}

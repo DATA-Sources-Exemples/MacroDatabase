@@ -1,0 +1,18 @@
+{
+  "id": "M1018BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Corporate Securities Offered for Cash, Proposed Use of Estimated Net Proceeds Other Than New Money and Retirement of Securities for United States",
+  "observation_start": "1953-01-01",
+  "observation_end": "1964-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:16:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1934-1953 (2)--Original Data, 1953-1964. The Sec Statistical Bulletin Does Not Show Monthly Revised Back Data. Source: Survey Of Current Business, 1947 Statistical Supplement And Subsequent Issues; The Latest Figures Can Be Fund In The Securities And Exchange Commission Statistical Bulletin\n\nThis NBER data series m10118b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10118b"
+}

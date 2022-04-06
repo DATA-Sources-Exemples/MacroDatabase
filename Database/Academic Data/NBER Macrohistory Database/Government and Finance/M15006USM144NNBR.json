@@ -1,0 +1,18 @@
+{
+  "id": "M15006USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Postal Receipts for United States",
+  "observation_start": "1897-01-01",
+  "observation_end": "1942-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:46:17-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "On November 3, 1917 Postal Rates Were Increased From 2 To 3 Cents For First Class Mail Other Than Drop Letters Which Increased From 1 To 2 Cents Along With Post Cards. In July 1919 Rates Were Reduced To Those In Effect Before November 1917. On July 6, 1932 Letter Postage Was Increased From 2 To 3 Cents. The Rate Of Local Delivery Letters Was Reduced From 3 Cents To 2 Cents Effective July 1, 1933. Receipts From Louisville For The Period January 24-31, 1937 Are Not Included (See Survey Of Current Business, Annual Supplement). For Reasons Of Discontinuance See Survey Of Current Business, June 1942, Pp. 5-6). Source: U.S. Post Office Department\n\nThis NBER data series m15006 appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15006"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M08335USM499NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Help-Wanted Display Ads for Executive Positions in Newspapers, Total for United States",
+  "observation_start": "1954-01-01",
+  "observation_end": "1967-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number per Week",
+  "units_short": "Number per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:22:43-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Data For December, 1962-March, 1963 And September, 1965 Are Partly Estimated (Letter Of October 13, 1965) Due To Newspaper Strikes. Source: Beveridge Organization, Incorporated Of Chicago, \"Executrend\" By Keidrick And Struggles.\n\nThis NBER data series m08335 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08335"
+}

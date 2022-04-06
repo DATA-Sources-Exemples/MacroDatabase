@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                        | observation_start   | observation_end   |
+|-------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP28420 | Total Per Capita Real Gross Domestic Product for Kennewick-Richland, WA (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |

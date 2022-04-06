@@ -1,0 +1,18 @@
+{
+  "id": "A754RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net fixed investment: Residential: Consumption of fixed capital",
+  "observation_start": "1929-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:40:47-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "BEA Account Code: A754RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

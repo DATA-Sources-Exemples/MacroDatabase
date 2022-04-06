@@ -1,0 +1,18 @@
+{
+  "id": "M0558CUSM601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Slab Zinc Stocks at Refineries for United States",
+  "observation_start": "1942-12-01",
+  "observation_end": "1956-08-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:46:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1929 (2)--Original Data, 1929-1942 (3)--Original, 1942-1956. Beginning In 1940, Stocks Produced From Foreign Ore Are Included (See The Scb, October 1941 And Earlier 1941 Issues.) At The End Of 1942, Previously Unreported Stocks Were Added, And The Figures Beginning In 1943 Are Not Considered Comparable With Those For Preceding Years (See Scb, 1947 Supplement, P. 258, And Others). Aside From The Difference In Coverage, The Data For 1943 And The Following Years Are Considerably Affected By Government Controls, Subsidy Payments, And Stockpiling Programs During And Immediately Following The War Years, And During The Korean War (See Also Various Issues Of The Yearbook Of The American Bureau Of Metal Statistics, Beginning With The 1942-1943 Yearbook). Government Held Stocks Are Excluded Here. Source: American Zinc Institute, Data Furnished Direct From Files; U.S. Department Of Commerce, Survey Of Current Business, 1942 Supplement And Following Issues; American Bureau Of Metal Statistics Yearbooks Through 1953, P. 155\n\nThis NBER data series m05058c appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05058c"
+}

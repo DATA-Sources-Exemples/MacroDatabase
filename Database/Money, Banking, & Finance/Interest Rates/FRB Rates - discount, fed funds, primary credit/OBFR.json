@@ -1,0 +1,18 @@
+{
+  "id": "OBFR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Overnight Bank Funding Rate",
+  "observation_start": "2016-03-01",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 08:01:04-05",
+  "popularity": 56,
+  "group_popularity": 56,
+  "notes": "The overnight bank funding rate is calculated using federal funds transactions and certain Eurodollar transactions. The federal funds market consists of domestic unsecured borrowings in U.S. dollars by depository institutions from other depository institutions and certain other entities, primarily government-sponsored enterprises, while the Eurodollar market consists of unsecured U.S. dollar deposits held at banks or bank branches outside of the United States. U.S.-based banks can also take Eurodollar deposits domestically through international banking facilities (IBFs). The overnight bank funding rate (OBFR) is calculated as a volume-weighted median of overnight federal funds transactions and Eurodollar transactions reported in the FR 2420 Report of Selected Money Market Rates.\nVolume-weighted median is the rate associated with transactions at the 50th percentile of transaction volume. Specifically, the volume-weighted median rate is calculated by ordering the transactions from lowest to highest rate, taking the cumulative sum of volumes of these transactions, and identifying the rate associated with the trades at the 50th percentile of dollar volume. The published rates are the volume-weighted median transacted rate, rounded to the nearest basis point.\nFor more information, see https://www.newyorkfed.org/markets/obfrinfo"
+}

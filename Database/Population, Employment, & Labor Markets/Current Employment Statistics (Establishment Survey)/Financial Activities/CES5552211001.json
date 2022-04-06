@@ -1,0 +1,18 @@
+{
+  "id": "CES5552211001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees, Commercial Banking",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:47:18-05",
+  "popularity": 4,
+  "group_popularity": 15,
+  "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES5552211001"
+}

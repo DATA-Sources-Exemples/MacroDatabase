@@ -1,0 +1,18 @@
+{
+  "id": "M01060USM391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corn Grindings for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1953-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Data For 1917-1919: Direct From Department Of Commerce. Data For 1920-1953: Survey Of Current Business.\n\nThis NBER data series m01060 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01060"
+}

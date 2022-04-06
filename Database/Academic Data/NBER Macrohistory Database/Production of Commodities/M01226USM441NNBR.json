@@ -1,0 +1,18 @@
+{
+  "id": "M01226USM441NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Ethyl Alcohol Production for United States",
+  "observation_start": "1920-05-01",
+  "observation_end": "1953-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Proof Gallons",
+  "units_short": "Mil. Of Proof Gallons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Series Covers 100% Of The Industry, Including Operations In Puerto Rico And Hawaii. 1920-1922 Data Were Also Checked With Data Sent Directly By The Survey Of Current Business. Beginning In July, 1933, Data Were Also Checked With The Original Source, Bureau Of Internal Revenue, Alcohol Tax Unit, Statistics On Alcohol, 1933/34 And Later Years. The Revision For The Figure Given For April 1928 Is From The 1938 Survey Of Current Business Supplement Footnote. Source: Survey Of Current Business, April 1925, P.27; Survey Of Current Business, Annual Supplement, 1932, Pp. 124-125; 1936 Supplement, P.76; 1938 Supplement, P.90; 1940, 1942, 1947, 1949, And 1951 Annual Supplements And Following Monthly Issues.\n\nThis NBER data series m01226 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01226"
+}

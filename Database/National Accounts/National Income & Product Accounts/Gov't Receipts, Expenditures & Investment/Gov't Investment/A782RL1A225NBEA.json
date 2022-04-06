@@ -1,0 +1,18 @@
+{
+  "id": "A782RL1A225NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Government Gross Investment",
+  "observation_start": "1930-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-24 08:02:04-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: A782RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

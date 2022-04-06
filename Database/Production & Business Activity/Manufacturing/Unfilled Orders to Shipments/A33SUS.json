@@ -1,0 +1,17 @@
+{
+  "id": "A33SUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Unfilled Orders to Shipments Ratios: Machinery",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-04 09:05:39-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

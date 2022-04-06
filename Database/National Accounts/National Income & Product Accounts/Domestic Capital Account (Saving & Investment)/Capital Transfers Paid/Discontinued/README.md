@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                       | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| L318301A027NBEA | Federal government cash payments to the public: Coverage differences: Capital transfers paid (DISCONTINUED) | 1952-01-01          | 1967-01-01        |
+| L318301Q027NBEA | Federal government cash payments to the public: Coverage differences: Capital transfers paid (DISCONTINUED) | 1959-07-01          | 1967-10-01        |
+| W948RC1A027NBEA | Capital transfers paid, by government: Federal (DISCONTINUED)                                               | 1937-01-01          | 2014-01-01        |
+| W952RC1A027NBEA | Capital transfers paid, by government: State and local (DISCONTINUED)                                       | 1989-01-01          | 2014-01-01        |

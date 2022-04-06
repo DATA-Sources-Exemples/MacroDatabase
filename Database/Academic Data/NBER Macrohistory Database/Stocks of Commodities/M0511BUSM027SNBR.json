@@ -1,0 +1,18 @@
+{
+  "id": "M0511BUSM027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Inventories, Goods in Process for United States",
+  "observation_start": "1953-01-01",
+  "observation_end": "1968-09-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 10:47:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1938-1953 (2)--Seasonally Adjusted, 1953-1968 This Variable Covers 29.8 % Of Total Inventories. Source: U.S. Bureau Of The Census, Data For 1953-1960: \"Manufacturers' Shipments, Inventories, And Orders: 1947-1963 Revised, \" Series M3-1;\"Data For 1961-June 1968: \"Manufacturers' Shipments, Inventories And Orders: 1961-1968, \" Series M3-1; Thereafter: Current Industrial Reports, Series M3-1, Monthly, Same Title\n\nThis NBER data series m05111b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05111b"
+}

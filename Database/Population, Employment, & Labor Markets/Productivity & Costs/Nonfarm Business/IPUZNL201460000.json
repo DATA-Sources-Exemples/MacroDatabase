@@ -1,0 +1,18 @@
+{
+  "id": "IPUZNL201460000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hours Worked for Private Nonfarm in South Dakota",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 21:50:38-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry."
+}

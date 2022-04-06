@@ -1,0 +1,18 @@
+{
+  "id": "M0508641M418NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Iron Ore Stocks at Mines for Lake Superior Region",
+  "observation_start": "1943-01-01",
+  "observation_end": "1955-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Long Tons",
+  "units_short": "Mil. of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:49:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1911-1946 (2)--Original Data, 1943-1955. Data Include The Byproduct Of Ore Obtained From Treating Pyrites. Such Byproduct Materials Were Not Included In Other Variables In This Series With Only Annual Data. Source: U.S. Department Of Commerce, Survey Of Current Business, Statistical Supplements, 1947-1955\n\nThis NBER data series m05086 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05086"
+}

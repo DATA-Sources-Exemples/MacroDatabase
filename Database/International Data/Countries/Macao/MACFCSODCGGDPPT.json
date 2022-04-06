@@ -1,0 +1,18 @@
+{
+  "id": "MACFCSODCGGDPPT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for China, P.R.: Macao",
+  "observation_start": "2004-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of GDP",
+  "units_short": "% of GDP",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-02 13:25:54-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

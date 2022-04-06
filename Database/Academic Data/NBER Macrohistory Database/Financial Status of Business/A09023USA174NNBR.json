@@ -1,0 +1,18 @@
+{
+  "id": "A09023USA174NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Deficits, Service Companies (Professional, Hotels and Amusement, Etc.) for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1940-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:05:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "1936-1940 Data Were Computed By NBER From Data In Statistics Of Income (See Notes). The 1938 Data Were Adjusted By NBER To Conform To 1937 Industrial Classification (See Notes). Data For 1939-1940 Are Based On 1938 Standard Industrial Classification. Source: Bureau Of Internal Revenue: Statistics Of Income, 1916 And Successive Years.\n\nThis NBER data series a09023 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: a09023"
+}

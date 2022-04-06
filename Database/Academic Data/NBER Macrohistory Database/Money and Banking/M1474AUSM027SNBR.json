@@ -1,0 +1,18 @@
+{
+  "id": "M1474AUSM027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Adjusted Demand Deposits, All Commercial Banks, Plus Currency Held by Public for United States",
+  "observation_start": "1914-06-01",
+  "observation_end": "1945-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 08:37:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1914-1945 (2)--Original Data, 1948-1967 (3)--Seasonally Adjusted Data, 1946-1967. Data For 1914-1917 And May 1921-1945 Refer To Figures For The Wednesday Nearest The End Of The Month. Data For January 1918-April 1921 Refer To The Friday Nearest The End Of The Month. Source: Computed By NBER From The Sum Of (Adjusted Demand Deposits, All Banks) And (Currency Held By The Public); Both Series Are Seasonally Adjusted.\n\nThis NBER data series m14174a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14174a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M1209DUSM343NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Agricultural Marketings, Volume for United States",
+  "observation_start": "1935-01-01",
+  "observation_end": "1956-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1935-1939=100",
+  "units_short": "Index 1935-1939=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:33:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Five Variables--(1)--Original Data, 1919-1928 (2)--Original Data, 1920-1940 (3)--Seasonally Adjusted Data, 1919-1940 (4)--Original Data, 1935-1956 (5)--Original Data, 1947-1957. This Index Was Discontinued And Replaced By An Index On The Base 1947-1949=100, For Which New Weights Were Derived On The Basis Of 1947-1949 Average Prices; The Average Was Increased. The New Index Is Given Here In The Next Variable For This Series. The Figure Given Here For March 1956 Was Taken From The Survey Of Current Business, June 1956. Source: 1935-1940 Data Are From Survey Of Current Business, April 1943; 1941-1944 Data Are From The Survey Of Current Business Supplement, 1947; 1945-1946 Data Are From The Survey Of Current Business 1949 Supplement; 1947-1952 Data Are From The 1951, 1953, And 1955 Scb Supplements; 1953-1956 Data Are From The Farm Income Situation, United States Department Of Agriculture, Agricultural Marketing Service, Nos. 155-158.\n\nThis NBER data series m12009d appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12009d"
+}

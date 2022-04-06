@@ -1,0 +1,18 @@
+{
+  "id": "EMPUKQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employment in the United Kingdom",
+  "observation_start": "1950-04-01",
+  "observation_end": "2016-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2018-03-12 07:51:02-05",
+  "popularity": 7,
+  "group_popularity": 17,
+  "notes": "This series was constructed by the Bank of England as part of the Three Centuries of Macroeconomic Data project by combining data from a number of academic and official sources. For more information, please refer to the Three Centuries spreadsheet at https://www.bankofengland.co.uk/statistics/research-datasets. Users are advised to check the underlying assumptions behind this series in the relevant worksheets of the spreadsheet. In many cases alternative assumptions might be appropriate. Users are permitted to reproduce this series in their own work as it represents Bank calculations and manipulations of underlying series that are the copyright of the Bank of England provided that underlying sources are cited appropriately. For appropriate citation please see the Three Centuries spreadsheet for guidance and a list of the underlying sources."
+}

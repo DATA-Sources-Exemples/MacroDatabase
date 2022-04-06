@@ -1,0 +1,18 @@
+{
+  "id": "Q13051USQ156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Earnings Yield of Common Stocks on the New York Stock Exchange, Composite for United States",
+  "observation_start": "1935-01-01",
+  "observation_end": "1968-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:18:18-05",
+  "popularity": 20,
+  "group_popularity": 20,
+  "notes": "Figures From Source Have Been Derived From The Published Price -Earnings Ratio, Being The Reciprocals, Based On Daily Stock Price Indexes. Source: Standard And Poor'S Trade And Securities Statistics: Security Price Index Record, 1964 Edition, Pp. 122-124; Current Statistics, Monthly Issues.\n\nThis NBER data series q13051 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: q13051"
+}

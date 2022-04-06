@@ -1,0 +1,18 @@
+{
+  "id": "M08223USM259NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Machine and Machine Tool Manufacturing for United States",
+  "observation_start": "1920-07-01",
+  "observation_end": "1942-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents",
+  "units_short": "Cents",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:20:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: National Industrial Conference Board, For December 1924-June 1936 Data:\"Wages, Hours, And Employment In The United States, 1914-1936\", Nicb Study No. 229, 1936; For July 1936-1937 Data: Supplement To Nicb Service Letter, June 1938; For 1938-September 1941 Data: Nicb Economic Record, March,28, 1940, And Following Issues; For October 1941-1942: Nicb Management Records.\n\nThis NBER data series m08223 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08223"
+}

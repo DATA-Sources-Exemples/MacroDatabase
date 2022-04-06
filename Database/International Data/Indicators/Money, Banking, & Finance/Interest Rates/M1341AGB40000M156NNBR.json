@@ -1,0 +1,18 @@
+{
+  "id": "M1341AGB40000M156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yield of Three Percent Consols for England",
+  "observation_start": "1840-01-01",
+  "observation_end": "1852-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:19:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1840-1852 (2)--Original Data, 1852-1888 (3)--Original Data, 1888-1938. Source: Annual Register\n\nThis NBER data series m13041a appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13041a"
+}

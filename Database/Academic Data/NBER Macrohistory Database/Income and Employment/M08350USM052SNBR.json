@@ -1,0 +1,18 @@
+{
+  "id": "M08350USM052SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hourly Compensation, Nonagricultural Establishments, All Employees for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1970-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:17:29-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Estimates Were Derived By Dividing Total Nonfarm Employee Compensation By Total Manhours In Nonagricultural Establishments (From Worksheets In The Bureau Of Census Files). Source: For Payroll Estimates: 1947-1962 Data Is From The National Income And Product Accounts Of The United States, 1929-1965; 1963-1970 Data Is From Survey Of Current Business, July 1967 And Subsequent Issues. For Manhours: Bureau Of Labor Statistics, Business Cycle Developments, February 1968, Summary Table, \"Manhours In Nonfarm Establishments, All Employees\", And Current Issues; Also In Survey Of Current Business.\n\nThis NBER data series m08350 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08350"
+}

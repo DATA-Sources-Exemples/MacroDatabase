@@ -1,0 +1,18 @@
+{
+  "id": "M0722AFRM410NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufactured Goods, Imports for France",
+  "observation_start": "1878-01-01",
+  "observation_end": "1887-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Francs",
+  "units_short": "Mil. Of Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:01:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1887 (2)--Original Data, 1885-1939. Figures For 1878-1887 Are Not Strictly Comparable With 1885-1934 Data, But Are Taken From The Best Available Official Sources. Source: For 1878-1887 Inclusive, Bulletin De Statistique Et De Legislation Comparee (Finance Ministere) 1879 And Monthly.\n\nThis NBER data series m07022a appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07022a"
+}

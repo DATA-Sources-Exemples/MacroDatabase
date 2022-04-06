@@ -1,0 +1,18 @@
+{
+  "id": "QGMPFININSUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Finance, Insurance, Real Estate, Rental, and Leasing: Finance and Insurance for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:48:42-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Finance and Insurance NAICS sector comprises establishments primarily engaged in financial transactions (transactions involving the creation, liquidation, or change in ownership of financial assets) and/or in facilitating financial transactions. Three principal types of activities are identified:\n\nRaising funds by taking deposits and/or issuing securities and, in the process, incurring liabilities. Establishments engaged in this activity use raised funds to acquire financial assets by making loans and/or purchasing securities. Putting themselves at risk, they channel funds from lenders to borrowers and transform or repackage the funds with respect to maturity, scale and risk. This activity is known as financial intermediation.\n\nPooling of risk by underwriting insurance and annuities. Establishments engaged in this activity collect fees, insurance premiums, or annuity considerations; build up reserves; invest those reserves; and make contractual payments. Fees are based on the expected incidence of the insured risk and the expected return on investment.\n\nProviding specialized services facilitating or supporting financial intermediation, insurance, and employee benefit programs.\n\nIn addition, monetary authorities charged with monetary control are included in this sector.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

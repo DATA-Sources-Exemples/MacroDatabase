@@ -1,0 +1,18 @@
+{
+  "id": "IMFNS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Institutional Money Market Funds (DISCONTINUED)",
+  "observation_start": "1974-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-28 14:53:59-05",
+  "popularity": 8,
+  "group_popularity": 34,
+  "notes": "This series has been discontinued and will no longer be updated. Starting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates, thereby eliminating the release of data on institutional money funds and memorandum items on U.S. government deposits and deposits due to foreign banks and foreign official institutions. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nInstitutional money funds are constructed from weekly data collected by the Investment Company Institute (ICI), a trade association for the investment company industry."
+}

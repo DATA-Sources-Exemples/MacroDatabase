@@ -1,8 +1,8 @@
 {
   "WPS60": {
     "id": "WPS60",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -15,12 +15,12 @@
     "last_updated": "2015-05-14 10:41:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPS601": {
     "id": "WPS601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -33,12 +33,12 @@
     "last_updated": "2015-05-14 10:41:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   },
   "WPS6011": {
     "id": "WPS6011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -51,6 +51,6 @@
     "last_updated": "2015-05-14 10:41:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Mining Services"
   }
 }

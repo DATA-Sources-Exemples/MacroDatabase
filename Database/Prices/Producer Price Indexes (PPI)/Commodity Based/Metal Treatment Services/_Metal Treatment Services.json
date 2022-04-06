@@ -1,8 +1,8 @@
 {
   "WPS591101": {
     "id": "WPS591101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Plating and Polishing",
     "observation_start": "1992-01-01",
     "observation_end": "2022-02-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:25-05",
-    "popularity": 4,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "popularity": 3,
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU59": {
     "id": "WPU59",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -33,12 +33,12 @@
     "last_updated": "2022-03-15 07:57:16-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU591": {
     "id": "WPU591",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -51,12 +51,12 @@
     "last_updated": "2022-03-15 07:59:49-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU5911": {
     "id": "WPU5911",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -69,12 +69,12 @@
     "last_updated": "2022-03-15 07:59:49-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU591101": {
     "id": "WPU591101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Plating and Polishing",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -85,14 +85,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:52-05",
-    "popularity": 5,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "popularity": 4,
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU591102": {
     "id": "WPU591102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Coating and Allied Services",
     "observation_start": "1984-12-01",
     "observation_end": "2022-02-01",
@@ -105,12 +105,12 @@
     "last_updated": "2022-03-15 07:59:49-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU591103": {
     "id": "WPU591103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Heat Treating",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -122,13 +122,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:24-05",
     "popularity": 1,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU59110111": {
     "id": "WPU59110111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Plating and Polishing",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -139,14 +139,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:49-05",
-    "popularity": 2,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "popularity": 1,
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU59110222": {
     "id": "WPU59110222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Coating and Allied Services",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 07:59:48-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   },
   "WPU59110349": {
     "id": "WPU59110349",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Metal Treatment Services: Metal Heat Treating",
     "observation_start": "2006-06-01",
     "observation_end": "2022-02-01",
@@ -176,7 +176,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:48-05",
     "popularity": 2,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Metal Treatment Services"
   }
 }

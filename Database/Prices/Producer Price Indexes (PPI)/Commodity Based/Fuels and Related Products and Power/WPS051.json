@@ -1,7 +1,7 @@
 {
   "id": "WPS051",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Coal",
   "observation_start": "1967-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:53:07-05",
-  "popularity": 26,
-  "group_popularity": 30
+  "popularity": 28,
+  "group_popularity": 32
 }

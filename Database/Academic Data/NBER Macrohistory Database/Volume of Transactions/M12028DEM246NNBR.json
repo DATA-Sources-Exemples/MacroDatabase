@@ -1,0 +1,18 @@
+{
+  "id": "M12028DEM246NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Postal Check Clearings for Germany",
+  "observation_start": "1909-01-01",
+  "observation_end": "1934-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Gold Marks",
+  "units_short": "Bil. Of Gold Marks",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:33:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Described In The Jahrbuch As \"Summe Der Umsatze,\" Which Includes Gutschriften And Lastschriften (Credit And Debit Transactions). Original Figures Exclude Bavaria And Wurttemberg. Annual Figures For All Of Germany Provide Ratios For Raising These Original Figures To The Level Of All Germany. Ratios Used: 1909-120.1, 1910-118.4, 1911-117.5, And 1912-117.1. Data For 1923 Were Not Published,\"Fur 1923 Sind Keine Zahlen Bekanntgegeben.\" Source: 1909- 1912 Data Were Computed By NBER From Data Provided By Statistiches Amt. Wirtschaft Und Statistik Is The Source For 1914-1935 Data.\n\nThis NBER data series m12028 appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12028"
+}

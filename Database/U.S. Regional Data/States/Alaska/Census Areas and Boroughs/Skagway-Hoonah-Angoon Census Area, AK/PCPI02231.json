@@ -1,0 +1,18 @@
+{
+  "id": "PCPI02231",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Per Capita Personal Income in Skagway-Yakutat-Angoon Census Area, AK",
+  "observation_start": "1979-01-01",
+  "observation_end": "1992-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-04-15 15:11:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Personal income is the income that is received by persons from all sources. It is calculated as the sum of wages and salaries, supplements to wages and salaries, proprietors' income with inventory valuation and capital consumption adjustments, rental income of persons with capital consumption adjustment, personal dividend income, personal interest income, and personal current transfer receipts, less contributions for government social insurance. This measure of income is calculated as the personal income of the residents of a given area divided by the resident population of the area. In computing per capita personal income, BEA uses the Census Bureau's annual midyear population estimates."
+}

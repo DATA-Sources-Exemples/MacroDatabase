@@ -1,0 +1,18 @@
+{
+  "id": "CAPUTLN32522SQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Capacity Utilization: Nondurable Manufacturing: Artificial and synthetic fibers and filaments",
+  "observation_start": "1972-01-01",
+  "observation_end": "2018-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent of Capacity",
+  "units_short": "% of Capacity",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2019-02-15 08:40:26-06",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.\n\nNAICS = 32522\n\nSource Code: CAPUTL.N32522.S"
+}

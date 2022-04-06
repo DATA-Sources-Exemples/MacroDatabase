@@ -1,0 +1,18 @@
+{
+  "id": "WTB4WK",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "4-Week Treasury Bill Secondary Market Rate",
+  "observation_start": "2001-08-03",
+  "observation_end": "2022-04-01",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:17:23-05",
+  "popularity": 6,
+  "group_popularity": 57,
+  "notes": "Averages of business days. Discount basis."
+}

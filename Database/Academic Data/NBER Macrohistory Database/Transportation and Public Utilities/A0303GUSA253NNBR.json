@@ -1,0 +1,18 @@
+{
+  "id": "A0303GUSA253NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Freight Ton-Miles, Thirteen Railroads for United States",
+  "observation_start": "1865-01-01",
+  "observation_end": "1890-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Ton-Miles",
+  "units_short": "Bil. Of Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Were Computed By Adding Ton-Miles For The Six Railroads And The Ton-Miles For The Seven Railroad.. Data For 1887-1890 Were Computed By Adding The Ton-Miles Of The Thirteen Individual Railroads. Source: Poor'S Manual Of Railroads, 1888, Pp. Xxvii-Xxix; 1889, P. Viii; And Volumes For 1890 And 1891\n\nThis NBER data series a03003g appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03003g"
+}

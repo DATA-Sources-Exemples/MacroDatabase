@@ -1,0 +1,18 @@
+{
+  "id": "PRS84006041",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Business Sector: Output for All Employed Persons",
+  "observation_start": "1948-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Quarter One Year Ago",
+  "units_short": "% Chg. from Qtr.  1 Yr. Ago",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-03 07:36:29-06",
+  "popularity": 3,
+  "group_popularity": 6,
+  "notes": "Real business sector output is an annual-weighted (Fisher-Ideal) index. It is constructed from the gross domestic product (GDP) excluding the following outputs: general government, nonprofit institutions, paid employees of private households, and the rental value of owner-occupied dwellings.\n\n For more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS84006041"
+}

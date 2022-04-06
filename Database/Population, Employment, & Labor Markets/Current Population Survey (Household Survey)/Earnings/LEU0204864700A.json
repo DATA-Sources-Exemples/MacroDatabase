@@ -1,0 +1,18 @@
+{
+  "id": "LEU0204864700A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed: Percent of hourly paid workers: Paid total at or below prevailing federal minimum wage: Private wage and salary workers: Agriculture, forestry, fishing, and hunting industries: 16 years and over",
+  "observation_start": "2000-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-04-16 09:23:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data measure usual hourly earnings of wage and salary workers. Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses. For more information see https://www.bls.gov/cps/earnings.htm\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LEU0204864700"
+}

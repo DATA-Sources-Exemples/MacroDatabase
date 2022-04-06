@@ -1,0 +1,18 @@
+{
+  "id": "QGMPAMUSEUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Arts, Entertainment, Recreation, Accommodation, and Food Services: Arts, Entertainment, and Recreation: Amusements, Gambling, and Recreation Industries for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Amusements, Gambling, and Recreation Industries NAICS subsector operate facilities where patrons can primarily engage in sports, recreation, amusement, or gambling activities and/or provide other amusement and recreation services, such as supplying and servicing amusement devices in places of business operated by others; operating sports teams, clubs, or leagues engaged in playing games for recreational purposes; and guiding tours without using transportation equipment.\n\nThe industry groups in this subsector highlight particular types of activities: amusement parks and arcades, gambling industries, and other amusement and recreation industries. The groups, however, are not all inclusive of the activity. The Gambling Industries industry group does not provide for full coverage of gambling activities. For example, casino hotels are classified in Subsector 721, Accommodation; and horse and dog racing tracks are classified in Industry Group 7112, Spectator Sports.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

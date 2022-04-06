@@ -1,0 +1,18 @@
+{
+  "id": "M1318CM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Excess of Paris Open Market Rate Over London Discount Rate on Three Month Bank Bills",
+  "observation_start": "1876-01-01",
+  "observation_end": "1939-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Derived By NBER By Subtracting Series 13016 (London Open Market Rate, Three Month Bank Bills) From Series 13017 (Paris Open Market Discount Rate); Data Are From The Economist And The National Monetary Commission, \"Statistics For Great Britain, Germany, And France, 1867-1908\", P. 315-316."
+}

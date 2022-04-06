@@ -1,0 +1,18 @@
+{
+  "id": "BPDBTF01ILQ637N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Current Account Debit: Total Transfers for Israel (DISCONTINUED)",
+  "observation_start": "1980-01-01",
+  "observation_end": "2014-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "US Dollars, Sum Over Component Sub-periods",
+  "units_short": "US $, Sum Over Component Sub-periods",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-04-13 02:11:33-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: BPDBTF01\nOECD unit ID: CXCU\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

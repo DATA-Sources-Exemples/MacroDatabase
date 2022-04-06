@@ -1,0 +1,18 @@
+{
+  "id": "M0825DUSM331NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Payrolls, Leather and Manufactures for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:25:27-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1942 (2)--Original Data, 1947-1954. Source: Data For 1919-1930 Are From Bls Bulletin No. 610, \"Revised Indexes Of Factory Employment And Pay Rolls: 1919 To 1933\" (1935); 1931-1934 Data Are From Mimeographed Tables Of September 1938 And May 1940 Revised Indexes; 1940-1942 Are From \"Employment And Payrolls\" And Monthly Labor Review.\n\nThis NBER data series m08125a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08125a"
+}

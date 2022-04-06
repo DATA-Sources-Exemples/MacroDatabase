@@ -1,0 +1,18 @@
+{
+  "id": "WLDACLC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities and Capital: Liabilities: Deferred Availability Cash Items (Less Eliminations from Consolidation): Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:33:35-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Reserve Banks do not give immediate credit for all checks or other items deposited with them for collection because it can take time to collect payment. Reserve Banks defer credit according to a schedule, which takes into account the time for presentments to be made. The maximum credit deferral is two business days, after which funds are added to the depositing institution's reserve account, regardless of whether the item has been collected from the institution on which it is drawn. The difference between \"items in process of collection\" and \"deferred availability cash items\" is \"float."
+}

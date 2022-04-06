@@ -1,0 +1,17 @@
+{
+  "id": "SMU18211403133700001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Durable Goods: Furniture and Related Product Manufacturing in Elkhart-Goshen, IN (MSA)",
+  "observation_start": "2002-01-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-23 15:03:52-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

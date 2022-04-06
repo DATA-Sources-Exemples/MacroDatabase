@@ -1,0 +1,18 @@
+{
+  "id": "M0563AUSM388NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Southern Pine Stocks for United States",
+  "observation_start": "1916-01-01",
+  "observation_end": "1929-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Board Feet",
+  "units_short": "Mil. Of Board Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:47:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1916-1929 (2)--Original Data, 1929-1955. Data Cover 192 Mills. Source: Computed By NBER; Data For 1916-April 1929: Direct From Southern Pine Association; Data For May-December 1929: U.S. Department Of Commerce, Survey Of Current Business, 1931 Supplement\n\nThis NBER data series m05063a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05063a"
+}

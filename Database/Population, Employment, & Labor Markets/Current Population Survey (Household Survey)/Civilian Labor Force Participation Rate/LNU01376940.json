@@ -1,0 +1,18 @@
+{
+  "id": "LNU01376940",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Force Participation Rate - With No Disability, 16 to 64 Years, Men",
+  "observation_start": "2008-06-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:45:51-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01376940"
+}

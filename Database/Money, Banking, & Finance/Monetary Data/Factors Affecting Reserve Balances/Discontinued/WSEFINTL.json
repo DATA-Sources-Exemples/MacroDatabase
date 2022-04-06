@@ -1,0 +1,18 @@
+{
+  "id": "WSEFINTL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Memorandum item: Marketable Securities Held in Custody for Foreign Official and International Accounts (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2012-11-07",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-11-08 15:49:55-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "FRBNY, on behalf of the Federal Reserve System, provides correspondent and custodial banking services for central banks, monetary authorities, and certain international organizations to facilitate their official financial operations. This item indicates the face values of marketable securities held in custody for these accounts.\nThis data series has been discontinued, please see series ID: https://fred.stlouisfed.org/series/WSEFINTL1.\nMemorandum item: Securities Held in Custody for Foreign Official and International Accounts. For further information on the changes to the H.4.1 Statistical Release please visit the following: http://www.federalreserve.gov/releases/h41"
+}

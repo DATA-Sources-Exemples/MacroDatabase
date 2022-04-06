@@ -1,0 +1,18 @@
+{
+  "id": "M10004FRM410NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Postal Savings Deposits for France",
+  "observation_start": "1882-01-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Francs",
+  "units_short": "Mil. Of Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:21:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Were Computed By Adding Or Subtracting Monthly Differences Between Discounts And Withdrawals In The \"Rapport.\" The Excess Of Withdrawals In 1910 Is Attributed To The Moroccan Crisis; The Excess In December 1915 To Subscription To French War Loans; The Heavy Withdrawals Of September 1938 To The War Scare Resulting From The Munich Crisis. Source: For 1882-1933 Data: Ministere De Postes, Telegraphs Et Telephones, Rapport A M. Le President De La Republique Sur Les Operations De La Caisse Nationale D' Epargne; For 1934-1939 Data: Revue D'Economie Politique, May-June 1935, P. 749, And Bulletin De Statistique Generale\n\nThis NBER data series m10004 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10004"
+}

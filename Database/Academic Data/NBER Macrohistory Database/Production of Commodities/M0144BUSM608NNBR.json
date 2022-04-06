@@ -1,0 +1,18 @@
+{
+  "id": "M0144BUSM608NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Production, Trucks and Truck Tractors for United States",
+  "observation_start": "1940-01-01",
+  "observation_end": "1947-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Trucks And Truck Tractors",
+  "units_short": "Thous. Of Trucks And Truck Tractors",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:51:22-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1913-1942 (2)--Original Data, 1940-1947 (3)--Original Data, 1940-1964. Data Represent Actual Production Rather Than Factory Sales, As Do All Pre-War Data. Since March 1942 Production Of Trucks Was Limited To Military Orders Except For Specific Exemptions Granted Occasionally To Fill Essential Needs (See Facts For Industry, February 16, 1944). The Data For 1940 And 1941 Are Not Directly Comparable To Later Data, But The Correspondance Is Close; This Refers Only To The Breakdown Of Trucks Into Light, Medium, And Heavy, For Which Weight Specifications Changed In 1942. The Total Was Not Affected. Source: Wpb, Facts For Industry.\n\nThis NBER data series m01144b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01144b"
+}

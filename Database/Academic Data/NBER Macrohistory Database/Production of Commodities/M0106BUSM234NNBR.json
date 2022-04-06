@@ -1,0 +1,18 @@
+{
+  "id": "M0106BUSM234NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Book Publication, Editions for United States",
+  "observation_start": "1924-01-01",
+  "observation_end": "1944-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Average Number per Week",
+  "units_short": "Average Number Per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:49:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1913-1928 (2)--Original Data, 1924-1944. Pamphlets Are Excluded, But Totals Include Imported Editions Of Foreign Manufacture, Marketed By American Publishers. Source: Publishers'S Weekly.\n\nThis NBER data series m01106b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01106b"
+}

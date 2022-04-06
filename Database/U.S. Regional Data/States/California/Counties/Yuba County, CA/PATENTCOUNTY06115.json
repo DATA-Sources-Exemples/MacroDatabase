@@ -1,0 +1,18 @@
+{
+  "id": "PATENTCOUNTY06115",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "U.S. Granted Utility Patents Originating in Yuba County, CA",
+  "observation_start": "2000-01-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-04-06 12:30:27-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Utility patents are patents for invention. Patent origin is determined by the residence of the first-named inventor.\n\nSee Explanation of Data (https://www.uspto.gov/web/offices/ac/ido/oeip/taf/countyall/explan_countyall.htm) and Types of Patent Applications and Proceedings (https://www.uspto.gov/patents/basics/types-patent-applications/design-patent-application-guide) for more information."
+}

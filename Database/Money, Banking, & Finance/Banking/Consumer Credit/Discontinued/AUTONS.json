@@ -1,0 +1,17 @@
+{
+  "id": "AUTONS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Automobile Credit Outstanding (DISCONTINUED)",
+  "observation_start": "1943-01-01",
+  "observation_end": "1999-04-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2006-09-22 13:30:16-05",
+  "popularity": 1,
+  "group_popularity": 5
+}

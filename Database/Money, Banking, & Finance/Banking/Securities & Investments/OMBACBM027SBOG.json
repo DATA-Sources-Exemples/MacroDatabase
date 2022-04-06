@@ -1,0 +1,18 @@
+{
+  "id": "OMBACBM027SBOG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Other Securities: Mortgage-Backed Securities, All Commercial Banks",
+  "observation_start": "2009-07-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 15:36:27-05",
+  "popularity": 2,
+  "group_popularity": 14,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
+}

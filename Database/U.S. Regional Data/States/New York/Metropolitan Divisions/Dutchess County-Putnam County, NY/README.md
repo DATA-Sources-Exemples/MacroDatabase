@@ -1,3 +1,83 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id                     | title                                                                                                                             | observation_start   | observation_end   |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU36205240000000001   | All Employees: Total Nonfarm in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205240000000001A  | All Employees: Total Nonfarm in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU36205240000000001SA | All Employees: Total Nonfarm in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205240500000001   | All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205240500000001A  | All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU36205240500000001SA | All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205240500000002   | Average Weekly Hours of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                    | 2011-01-01          | 2022-02-01        |
+| SMU36205240500000002A  | Average Weekly Hours of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                    | 2011-01-01          | 2021-01-01        |
+| SMU36205240500000002SA | Average Weekly Hours of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                    | 2011-01-01          | 2022-02-01        |
+| SMU36205240500000003   | Average Hourly Earnings of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                 | 2011-01-01          | 2022-02-01        |
+| SMU36205240500000003A  | Average Hourly Earnings of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                 | 2011-01-01          | 2021-01-01        |
+| SMU36205240500000003SA | Average Hourly Earnings of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                 | 2011-01-01          | 2022-02-01        |
+| SMU36205240500000011   | Average Weekly Earnings of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                 | 2011-01-01          | 2022-02-01        |
+| SMU36205240500000011A  | Average Weekly Earnings of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                 | 2011-01-01          | 2021-01-01        |
+| SMU36205240500000011SA | Average Weekly Earnings of All Employees: Total Private in Dutchess County-Putnam County, NY (MD)                                 | 2011-01-01          | 2022-02-01        |
+| SMU36205240600000001   | All Employees: Goods Producing in Dutchess County-Putnam County, NY (MD)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU36205240600000001A  | All Employees: Goods Producing in Dutchess County-Putnam County, NY (MD)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU36205240600000001SA | All Employees: Goods Producing in Dutchess County-Putnam County, NY (MD)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU36205240700000001   | All Employees: Service-Providing in Dutchess County-Putnam County, NY (MD)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU36205240700000001A  | All Employees: Service-Providing in Dutchess County-Putnam County, NY (MD)                                                        | 1990-01-01          | 2021-01-01        |
+| SMU36205240700000001SA | All Employees: Service-Providing in Dutchess County-Putnam County, NY (MD)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU36205240800000001   | All Employees: Private Service Providing in Dutchess County-Putnam County, NY (MD)                                                | 1990-01-01          | 2022-02-01        |
+| SMU36205240800000001A  | All Employees: Private Service Providing in Dutchess County-Putnam County, NY (MD)                                                | 1990-01-01          | 2021-01-01        |
+| SMU36205240800000001SA | All Employees: Private Service Providing in Dutchess County-Putnam County, NY (MD)                                                | 1990-01-01          | 2022-02-01        |
+| SMU36205241500000001   | All Employees: Mining, Logging, and Construction in Dutchess County-Putnam County, NY (MD)                                        | 1990-01-01          | 2022-02-01        |
+| SMU36205241500000001A  | All Employees: Mining, Logging, and Construction in Dutchess County-Putnam County, NY (MD)                                        | 1990-01-01          | 2021-01-01        |
+| SMU36205241500000001SA | All Employees: Mining, Logging, and Construction in Dutchess County-Putnam County, NY (MD)                                        | 1990-01-01          | 2022-02-01        |
+| SMU36205243000000001   | All Employees: Manufacturing in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205243000000001A  | All Employees: Manufacturing in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU36205243000000001SA | All Employees: Manufacturing in Dutchess County-Putnam County, NY (MD)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205244000000001   | All Employees: Trade, Transportation, and Utilities in Dutchess County-Putnam County, NY (MD)                                     | 1990-01-01          | 2022-02-01        |
+| SMU36205244000000001A  | All Employees: Trade, Transportation, and Utilities in Dutchess County-Putnam County, NY (MD)                                     | 1990-01-01          | 2021-01-01        |
+| SMU36205244000000001SA | All Employees: Trade, Transportation, and Utilities in Dutchess County-Putnam County, NY (MD)                                     | 1990-01-01          | 2022-02-01        |
+| SMU36205244100000001   | All Employees: Wholesale Trade in Dutchess County-Putnam County, NY (MD)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU36205244100000001A  | All Employees: Wholesale Trade in Dutchess County-Putnam County, NY (MD)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU36205244100000001SA | All Employees: Wholesale Trade in Dutchess County-Putnam County, NY (MD)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU36205244200000001   | All Employees: Retail Trade in Dutchess County-Putnam County, NY (MD)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU36205244200000001A  | All Employees: Retail Trade in Dutchess County-Putnam County, NY (MD)                                                             | 1990-01-01          | 2021-01-01        |
+| SMU36205244200000001SA | All Employees: Retail Trade in Dutchess County-Putnam County, NY (MD)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU36205244300000001   | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Dutchess County-Putnam County, NY (MD) | 1990-01-01          | 2022-02-01        |
+| SMU36205244300000001A  | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Dutchess County-Putnam County, NY (MD) | 1990-01-01          | 2021-01-01        |
+| SMU36205244300000001SA | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Dutchess County-Putnam County, NY (MD) | 1990-01-01          | 2022-02-01        |
+| SMU36205245000000001   | All Employees: Information in Dutchess County-Putnam County, NY (MD)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU36205245000000001A  | All Employees: Information in Dutchess County-Putnam County, NY (MD)                                                              | 1990-01-01          | 2021-01-01        |
+| SMU36205245000000001SA | All Employees: Information in Dutchess County-Putnam County, NY (MD)                                                              | 1990-01-01          | 2022-02-01        |
+| SMU36205245500000001   | All Employees: Financial Activities in Dutchess County-Putnam County, NY (MD)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU36205245500000001A  | All Employees: Financial Activities in Dutchess County-Putnam County, NY (MD)                                                     | 1990-01-01          | 2021-01-01        |
+| SMU36205245500000001SA | All Employees: Financial Activities in Dutchess County-Putnam County, NY (MD)                                                     | 1990-01-01          | 2022-02-01        |
+| SMU36205246000000001   | All Employees: Professional and Business Services in Dutchess County-Putnam County, NY (MD)                                       | 1990-01-01          | 2022-02-01        |
+| SMU36205246000000001A  | All Employees: Professional and Business Services in Dutchess County-Putnam County, NY (MD)                                       | 1990-01-01          | 2021-01-01        |
+| SMU36205246000000001SA | All Employees: Professional and Business Services in Dutchess County-Putnam County, NY (MD)                                       | 1990-01-01          | 2022-02-01        |
+| SMU36205246500000001   | All Employees: Education and Health Services in Dutchess County-Putnam County, NY (MD)                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205246500000001A  | All Employees: Education and Health Services in Dutchess County-Putnam County, NY (MD)                                            | 1990-01-01          | 2021-01-01        |
+| SMU36205246500000001SA | All Employees: Education and Health Services in Dutchess County-Putnam County, NY (MD)                                            | 1990-01-01          | 2022-02-01        |
+| SMU36205246561000001   | All Employees: Education and Health Services: Educational Services in Dutchess County-Putnam County, NY (MD)                      | 1990-01-01          | 2022-02-01        |
+| SMU36205246561000001A  | All Employees: Education and Health Services: Educational Services in Dutchess County-Putnam County, NY (MD)                      | 1990-01-01          | 2021-01-01        |
+| SMU36205246561000001SA | All Employees: Education and Health Services: Educational Services in Dutchess County-Putnam County, NY (MD)                      | 1990-01-01          | 2022-02-01        |
+| SMU36205246562000001   | All Employees: Education and Health Services: Health Care and Social Assistance in Dutchess County-Putnam County, NY (MD)         | 1990-01-01          | 2022-02-01        |
+| SMU36205246562000001A  | All Employees: Education and Health Services: Health Care and Social Assistance in Dutchess County-Putnam County, NY (MD)         | 1990-01-01          | 2021-01-01        |
+| SMU36205246562000001SA | All Employees: Education and Health Services: Health Care and Social Assistance in Dutchess County-Putnam County, NY (MD)         | 1990-01-01          | 2022-02-01        |
+| SMU36205247000000001   | All Employees: Leisure and Hospitality in Dutchess County-Putnam County, NY (MD)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU36205247000000001A  | All Employees: Leisure and Hospitality in Dutchess County-Putnam County, NY (MD)                                                  | 1990-01-01          | 2021-01-01        |
+| SMU36205247000000001SA | All Employees: Leisure and Hospitality in Dutchess County-Putnam County, NY (MD)                                                  | 1990-01-01          | 2022-02-01        |
+| SMU36205248000000001   | All Employees: Other Services in Dutchess County-Putnam County, NY (MD)                                                           | 1990-01-01          | 2022-02-01        |
+| SMU36205248000000001A  | All Employees: Other Services in Dutchess County-Putnam County, NY (MD)                                                           | 1990-01-01          | 2021-01-01        |
+| SMU36205248000000001SA | All Employees: Other Services in Dutchess County-Putnam County, NY (MD)                                                           | 1990-01-01          | 2022-02-01        |
+| SMU36205249000000001   | All Employees: Government in Dutchess County-Putnam County, NY (MD)                                                               | 1990-01-01          | 2022-02-01        |
+| SMU36205249000000001A  | All Employees: Government in Dutchess County-Putnam County, NY (MD)                                                               | 1990-01-01          | 2021-01-01        |
+| SMU36205249000000001SA | All Employees: Government in Dutchess County-Putnam County, NY (MD)                                                               | 1990-01-01          | 2022-02-01        |
+| SMU36205249091000001   | All Employees: Government: Federal Government in Dutchess County-Putnam County, NY (MD)                                           | 1990-01-01          | 2022-02-01        |
+| SMU36205249091000001A  | All Employees: Government: Federal Government in Dutchess County-Putnam County, NY (MD)                                           | 1990-01-01          | 2021-01-01        |
+| SMU36205249091000001SA | All Employees: Government: Federal Government in Dutchess County-Putnam County, NY (MD)                                           | 1990-01-01          | 2022-02-01        |
+| SMU36205249092000001   | All Employees: Government: State Government in Dutchess County-Putnam County, NY (MD)                                             | 1990-01-01          | 2022-02-01        |
+| SMU36205249092000001A  | All Employees: Government: State Government in Dutchess County-Putnam County, NY (MD)                                             | 1990-01-01          | 2021-01-01        |
+| SMU36205249092000001SA | All Employees: Government: State Government in Dutchess County-Putnam County, NY (MD)                                             | 1990-01-01          | 2022-02-01        |
+| SMU36205249093000001   | All Employees: Government: Local Government in Dutchess County-Putnam County, NY (MD)                                             | 1990-01-01          | 2022-02-01        |
+| SMU36205249093000001A  | All Employees: Government: Local Government in Dutchess County-Putnam County, NY (MD)                                             | 1990-01-01          | 2021-01-01        |
+| SMU36205249093000001SA | All Employees: Government: Local Government in Dutchess County-Putnam County, NY (MD)                                             | 1990-01-01          | 2022-02-01        |
+| SMU36205249093161101   | All Employees: Government: Local Government Educational Services in Dutchess County-Putnam County, NY (MD)                        | 1990-01-01          | 2022-02-01        |
+| SMU36205249093161101A  | All Employees: Government: Local Government Educational Services in Dutchess County-Putnam County, NY (MD)                        | 1990-01-01          | 2021-01-01        |
+| SMU36205249093161101SA | All Employees: Government: Local Government Educational Services in Dutchess County-Putnam County, NY (MD)                        | 1990-01-01          | 2022-02-01        |

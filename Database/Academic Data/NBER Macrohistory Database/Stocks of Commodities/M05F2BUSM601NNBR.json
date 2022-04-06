@@ -1,0 +1,18 @@
+{
+  "id": "M05F2BUSM601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Paper Stocks, Excluding Building Paper and Paperboard, Including Newsprint, at U.S. Mills for United States",
+  "observation_start": "1934-01-01",
+  "observation_end": "1947-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:50:17-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Five Variables--(1)--Original Data, 1917-1933 (2)--Original Data, 1934-1947 (3)--Original, 1947-1955 (4)--Original, 1934-1947 (5)--Original, 1947-1956. Source: U.S. Department Of Commerce, Survey Of Current Business, Data For Paper Stocks Are From Scb Files For The Years 1934-1940 And 1942-1943 And Are From Scb Supplements Of 1947, 1949, 1951 And 1953 For Remaining Years; Data For Newsprint Are From Scb Supplements Of 1936 And Following Years\n\nThis NBER data series m05012b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05012b"
+}

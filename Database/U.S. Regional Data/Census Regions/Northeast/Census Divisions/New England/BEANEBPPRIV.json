@@ -1,0 +1,17 @@
+{
+  "id": "BEANEBPPRIV",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Private Housing Units Authorized by Building Permit for the New England BEA Region",
+  "observation_start": "1988-01-01",
+  "observation_end": "2017-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Units",
+  "units_short": "Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-07-27 09:02:57-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

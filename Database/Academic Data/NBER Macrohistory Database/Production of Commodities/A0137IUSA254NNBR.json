@@ -1,0 +1,18 @@
+{
+  "id": "A0137IUSA254NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Oat Crop, Yield Per Acre for United States",
+  "observation_start": "1866-01-01",
+  "observation_end": "1951-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Bushels",
+  "units_short": "Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:59-05",
+  "popularity": 15,
+  "group_popularity": 15,
+  "notes": "Source: U.S. Department Of Agriculture, Bureau Of Agricultural Economics, Agricultural Statistics, 1937; 1939; 1941; 1942; 1950; Crop Reporting Board, Crop Production: 1951 Annual Summary, December 1951; Crop Production, Mimeographed Release.\n\nThis NBER data series a01037i appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01037i"
+}

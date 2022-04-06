@@ -1,0 +1,18 @@
+{
+  "id": "BNKTTLD",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Deposits for All Banks in the United States",
+  "observation_start": "1914-01-01",
+  "observation_end": "1941-07-01",
+  "frequency": "Semiannual, End of Period",
+  "frequency_short": "SA",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-06-29 10:17:29-05",
+  "popularity": 17,
+  "group_popularity": 17,
+  "notes": "Figures exclude those unincorporated or \"private\" banks not reporting to State banking authorities, except the figures for noninsured banks are residuals derived by subtracting the figure for insured banks from the total. \n\nBanks in United States possessions are excluded except one national bank in Alaska; which was a member of the Federal Reserve System from the time it opened for business in April 1915 until it was placed in voluntary liquidation in April 1921 and which in June 1919 hud total deposits of $351,000.\n\nFor more information, see Table 1 at https://fraser.stlouisfed.org/scribd/?item_id=6408&filepath=%2Fdocs%2Fpublications%2Fbms%2F1914-1941%2FBMS14-41_complete.pdf&start_page=1"
+}

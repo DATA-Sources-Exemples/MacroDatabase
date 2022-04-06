@@ -1,0 +1,18 @@
+{
+  "id": "M10045USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Installment Credit Outstanding, Month-To-Month Change, Total for United States",
+  "observation_start": "1929-02-01",
+  "observation_end": "1968-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include Alaska From January 1959; Hawaii From July 1959. Source: NBER Derived Data From Series 10044 (Consumer Instalment Credit Outstanding, Total, End Of Month)\n\nThis NBER data series m10045 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10045"
+}

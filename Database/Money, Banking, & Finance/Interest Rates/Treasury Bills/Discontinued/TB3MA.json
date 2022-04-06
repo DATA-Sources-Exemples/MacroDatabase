@@ -1,0 +1,18 @@
+{
+  "id": "TB3MA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "3-Month Treasury Bill Rate: Auction Average (DISCONTINUED)",
+  "observation_start": "1941-02-01",
+  "observation_end": "2000-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2000-06-01 00:00:00-05",
+  "popularity": 16,
+  "group_popularity": 20,
+  "notes": "Averages of business days, discount basis."
+}

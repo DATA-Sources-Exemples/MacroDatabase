@@ -1,0 +1,18 @@
+{
+  "id": "M0107BUSM543NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Production, Passenger Car for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1963-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Cars",
+  "units_short": "Thous. Of Cars",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:53-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1913-1942 (2)--Original Data, 1946-1963 (3)--Original Data, 1947-1968. Station Wagons Are Almost Entirely Classified As With Passenger Cars, While School Buses Are Classified With Trucks (In Previous Data Most Of These\"Special Purpose\" Cars Were Classified With Trucks. Source: Data For 1946-1949: U.S. Department Of Commerce, Survey Of Current Business. Data For 1950-1954: Statistical Bulletin Of The American Manufacturers Association. Data For 1955-1963: Survey Of Current Business; Business Statistics; Federal Reserve Board Indexes In\"Industrial Production\"; Frb Bulletins.\n\nThis NBER data series m01107b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01107b"
+}

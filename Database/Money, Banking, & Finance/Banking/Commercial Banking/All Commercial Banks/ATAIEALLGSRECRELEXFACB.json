@@ -1,0 +1,17 @@
+{
+  "id": "ATAIEALLGSRECRELEXFACB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks",
+  "observation_start": "1985-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-23 15:05:03-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

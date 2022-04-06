@@ -1,0 +1,18 @@
+{
+  "id": "Q10120USQ144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate Securities Retired, Debt, All Industries for United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1964-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Retirements Cover The Same Type Of Issues As Offerings, But The Figures Also Include Issues Retired With Internal Funds As Well As With Proceeds From New Issues Sold For Refunding Purposes. Source: Securities And Exchange Commission, Data For 1948-1959: Unpublished Table On Net Change In Corporate Securities Outstanding, April 1, 1959; For 1960-1964 Data; Sec Statistical Bulletin\n\nThis NBER data series q10120 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10120"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "LNS13023558",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Reentrants to Labor Force as a Percent of Total Unemployed",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:46:43-05",
+  "popularity": 11,
+  "group_popularity": 12,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13023558"
+}

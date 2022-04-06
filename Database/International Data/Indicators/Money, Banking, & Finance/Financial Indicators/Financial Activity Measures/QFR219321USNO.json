@@ -1,0 +1,18 @@
+{
+  "id": "QFR219321USNO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quarterly Financial Report: U.S. Corporations: Wood Products: Net Property, Plant, and Equipment",
+  "observation_start": "2000-10-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-21 09:16:26-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Further information related to the Quarterly Financial Report survey can be found at https://www.census.gov/econ/qfr/about.html\nMethodology details can be found at https://www.census.gov/econ/qfr/documents/QFR_Methodology.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M10103USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Withdrawals from Regular Accounts in Mutual Savings Banks for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1963-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:17:19-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: National Association Of Mutual Savings Banks, Worksheets On Deposit Activity; More Recent Data Are Available In Savings Bank Journal, Monthly Issues\n\nThis NBER data series m10103 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10103"
+}

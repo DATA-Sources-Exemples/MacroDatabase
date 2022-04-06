@@ -1,0 +1,18 @@
+{
+  "id": "LNU05026646",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Not in Labor Force - Want a Job Now, Marginally Attached, Discouraged Workers, Men",
+  "observation_start": "1994-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:46:56-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU05026646"
+}

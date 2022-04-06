@@ -1,0 +1,18 @@
+{
+  "id": "FEDTARRH",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High",
+  "observation_start": "2022-01-01",
+  "observation_end": "2024-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-16 15:15:06-05",
+  "popularity": 26,
+  "group_popularity": 26,
+  "notes": "The projections for the federal funds rate are the value of the midpoint of the projected appropriate target range for the federal funds rate or the projected appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. Each participant's projections are based on his or her assessment of appropriate monetary policy. The range for each variable in a given year includes all participants' projections, from lowest to highest, for that variable in the given year. This series represents the high value of the range forecast established by the Federal Open Market Committee.\n\nDigitized originals of this release can be found at https://fraser.stlouisfed.org/publication/?pid=677."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M08303USM173NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employment Service Activities, Manufacturing Placements for United States",
+  "observation_start": "1945-01-01",
+  "observation_end": "1966-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:21:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: U.S. Department Of Labor, Bureau Of Employment Security, For 1945-1959 Data:\"Historical Supplement To Key Facts On Employment Security Operations, 1938-1959\"; For 1960-1963 Data: Labor Market And Employment Security, Statistical Supplements; For 1964-1969: Employment Service Statistics, Monthly Supplements To Employment Service Review.\n\nThis NBER data series m08303 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08303"
+}

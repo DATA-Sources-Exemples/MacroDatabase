@@ -1,0 +1,18 @@
+{
+  "id": "ILPBSV",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Professional and Business Services in Illinois",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-26 04:11:31-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industry based on 2002 North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2002) for additional information about NAICS."
+}

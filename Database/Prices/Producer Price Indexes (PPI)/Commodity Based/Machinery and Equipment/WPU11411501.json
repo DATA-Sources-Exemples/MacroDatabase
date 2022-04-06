@@ -1,7 +1,7 @@
 {
   "id": "WPU11411501",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Air and Gas Compressors and Vacuum Pumps",
   "observation_start": "2005-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:02:50-05",
   "popularity": 2,
-  "group_popularity": 4
+  "group_popularity": 6
 }

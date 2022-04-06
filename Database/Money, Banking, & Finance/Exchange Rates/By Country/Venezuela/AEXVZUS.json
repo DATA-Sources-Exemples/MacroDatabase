@@ -1,0 +1,18 @@
+{
+  "id": "AEXVZUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate",
+  "observation_start": "1995-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Venezuelan Bolivares to One U.S. Dollar",
+  "units_short": "Venezuelan Bolivares to  1 U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-03 15:36:10-06",
+  "popularity": 7,
+  "group_popularity": 57,
+  "notes": "For the G.5A annual release, the average annual exchange rate for the Venezuelan bolivar in 2018 was calculated using the \"bolivar fuerte\" rate through Friday, August 17 and the \"bolivar soberano\" rate multiplied by 100,000 beginning Monday, August 20. For more information about this series and any other news regarding the G.5A Foreign Exchange Rates visit here (https://www.federalreserve.gov/feeds/h10.html).\r\n\r\nAverages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies."
+}

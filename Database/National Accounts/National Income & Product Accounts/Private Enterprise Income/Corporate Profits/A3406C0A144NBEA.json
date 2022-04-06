@@ -1,0 +1,18 @@
+{
+  "id": "A3406C0A144NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Undistributed corporate profits: Domestic industries: Mining",
+  "observation_start": "1987-01-01",
+  "observation_end": "2000-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-08-27 08:10:14-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: A3406C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

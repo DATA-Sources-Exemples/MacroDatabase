@@ -1,0 +1,18 @@
+{
+  "id": "M03060USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railway Equipment and Joint Facility Rents, Net, Class I Railroads for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1943-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:05:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Cover \"Large Steam Roads\" For 1917-1919 And \"Class I Steam Railways\" For 1920-1942. Data Cover Switching And Terminal Companies From 1917-1931 And Exclude Them Thereafter. Data For 1917-1934 Were Computed By Summing Three Items -- Uncollectable Railway Revenues, Equipment Rent, And Joint Faclity Rents. Data For 1935-1942 Were Computed By Summing Only Items Two And Three. Source: Interstate Commerce Commission, Data For 1917-19: \"Operating Revenue And Expenses Of Large Steam Roads By Months\", July 1914-December 1919\", Pp. 10-15. Data For 1920-1942: \"Operating Revenues And Operating Expenses Of Class I Steam Railways In The United States\".\n\nThis NBER data series m03060 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03060"
+}

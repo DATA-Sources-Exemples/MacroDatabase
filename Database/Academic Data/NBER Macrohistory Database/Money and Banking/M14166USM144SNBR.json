@@ -1,0 +1,18 @@
+{
+  "id": "M14166USM144SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Demand Deposits, Member Banks, Federal Reserve System for United States",
+  "observation_start": "1919-07-01",
+  "observation_end": "1945-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 08:34:47-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For June 1919-March 1923 Are Based On The Sum Of Net Demand Deposits At Weekly Reporting Banks And Estimated Net Demand Deposits At Nonweekly Reporting Banks. Data For April 1923-December 1935 Are Monthly Net Demand Deposits Adjusted To Represent The Wednesday Closest To The End Of The Month. Data For January 1936-April 1943 Are Based On A Published Monthly Series Of Gross Deposits At All Member Banks In The Form Of Monthly Averages Of Daily Figures; Adjusted By Source To Represent The Wednesday Closest To The End Of The Month. Data For May 1943-December 1945 Are Based On A Published Monthly Series Of Demand Deposits Adjusted At All Member Banks. Source: Friedman And Schwartz, Monetary Statistics Of The United States (NBER, 1970), Table 36, Column 1, Pp. 504-516.\n\nThis NBER data series m14166 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14166"
+}

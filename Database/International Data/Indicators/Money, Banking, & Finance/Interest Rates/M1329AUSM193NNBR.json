@@ -1,0 +1,18 @@
+{
+  "id": "M1329AUSM193NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yields on Short-Term United States Securities, Three-Six Month Treasury Notes and Certificates, Three Month Treasury Bills for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1934-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent per Annum",
+  "units_short": "% per Annum",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:53-05",
+  "popularity": 42,
+  "group_popularity": 43,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1934 (2)--Original Data, 1931-1969. Data For 1920-March 1934 Are For The Average Daily Figures For U.S. Treasury Three-Six Month Notes And Certificates. Beginning February 1931, Data Are Averages Of Weekly Rates Discount On New Treasury Three Month Bills. Data For 1920-1921 Are For Average Daily Figures For The Week Nearest The 15Th Of The Month. Data For April-June 1928 Are Based On Certificates Of Six To Nine Months Maturity. Source: Direct From The The Federal Reserve Board; Also Banking And Monetary Statistics, P. 460.\n\nThis NBER data series m13029a appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13029a"
+}

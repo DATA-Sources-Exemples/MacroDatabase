@@ -1,0 +1,18 @@
+{
+  "id": "BAMLCC0A1AAATRIV",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "ICE BofA AAA US Corporate Index Total Return Index Value",
+  "observation_start": "1988-12-16",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily, Close",
+  "frequency_short": "D",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 08:47:11-05",
+  "popularity": 29,
+  "group_popularity": 29,
+  "notes": "This data represents the ICE BofA AAA US Corporate Index value, a subset of the ICE BofA US Corporate Master Index tracking the performance of US dollar denominated investment grade rated corporate debt publicly issued in the US domestic market. This subset includes all securities with a given investment grade rating AAA. When the last calendar day of the month takes place on the weekend, weekend observations will occur as a result of month ending accrued interest adjustments.\n\nThe index data referenced herein is the property of ICE Data Indices, LLC, its affiliates, (\"ICE\") and/or its Third Party Suppliers and has been licensed for use by the Federal Reserve Bank of St. Louis. ICE, its affiliates and Third Party Suppliers accept no liability in connection with its use.\n\nCopyright, 2017, ICE Benchmark Administration. Reprinted with permission."
+}

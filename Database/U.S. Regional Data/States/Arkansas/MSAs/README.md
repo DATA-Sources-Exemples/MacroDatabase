@@ -1,7 +1,9 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Fayetteville-Springdale-Rogers, AR       |                 2 |
-| Hot Springs, AR                          |                 2 |
-| Pine Bluff, AR                           |                 2 |
-| Jonesboro, AR                            |                 2 |
-| Little Rock-North Little Rock-Conway, AR |                 2 |
+| Fort Smith, AR-OK                        |               161 |
+| Jonesboro, AR                            |                96 |
+| Memphis, TN-MS-AR                        |                 1 |
+| Texarkana, TX-AR                         |                 1 |
+| Pine Bluff, AR                           |                96 |
+| Hot Springs, AR                          |               100 |
+| Little Rock-North Little Rock-Conway, AR |               162 |

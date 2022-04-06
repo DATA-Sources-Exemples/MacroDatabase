@@ -1,0 +1,18 @@
+{
+  "id": "M0186EUSM397NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Tobacco Consumption, Large Cigars for United States",
+  "observation_start": "1949-01-01",
+  "observation_end": "1955-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Cigars",
+  "units_short": "Mil. Of Cigars",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:18-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data,1915-1951 (2)--Original Data, 1949-1955. The Figures Are Based On The Number Of Stamps Used By Manufacturers And Compiled By The Office Of Business Economics, Current Business Analysis Division. Source: 1949 And 1950 Data (Unpublished) Furnished By Office Of Business Economics, Letter Of 12/1/1955; 1951-1955 Data Are From Supplement To The Survey Of Current Business, 1955 Edition, And Monthly Issues Of The Scb.\n\nThis NBER data series m01086b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01086b"
+}

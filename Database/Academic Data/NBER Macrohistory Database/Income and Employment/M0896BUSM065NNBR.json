@@ -1,0 +1,18 @@
+{
+  "id": "M0896BUSM065NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Actual Hours of Work Per Week, Meat Packing for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1956-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1942 (2)--Original Data, 1932-1956. This Segment Is Roughly Comparable To The Preceeding Segment Of National Industrial Conference Board Data. Source: Bureau Of Labor Statistics, For 1932-1952 Data: Employment, Hours, And Earnings, Manufacturing Division, Food And Kindred Goods Subdivision, Meat Packing Wholesale, Releases Ls53-1666, February, 1953 And May, 1955; For 1953-1956 Data: Release Of June, 1956 And Monthly Labor Review, 1953 And Following Years.\n\nThis NBER data series m08196b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08196b"
+}

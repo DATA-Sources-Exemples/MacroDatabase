@@ -1,0 +1,18 @@
+{
+  "id": "DDAM02AUA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Market Capitalization Outside of Top 10 Largest Companies to Total Market Capitalization for Australia",
+  "observation_start": "1998-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:24:57-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Value of listed shares outside of the top ten largest companies to total value of all listed shares. (World Federation of Exchanges)\n\nSource Code: GFDD.AM.02"
+}

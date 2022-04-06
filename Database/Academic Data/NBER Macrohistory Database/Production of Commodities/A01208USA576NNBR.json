@@ -1,0 +1,18 @@
+{
+  "id": "A01208USA576NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Steel Ingots and Castings Production for United States",
+  "observation_start": "1863-01-01",
+  "observation_end": "1919-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Long Tons",
+  "units_short": "Thous. Of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:50:48-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Figures For 1863-1866 Are Estimates; See The 1894 Report, P. 10. Source: American Iron And Steel Institute, Annual Statistical Report, 1894; 1911, Part Ii, P. 61; 1929, P. 25.\n\nThis NBER data series a01208 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01208"
+}

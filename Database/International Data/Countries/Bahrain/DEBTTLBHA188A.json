@@ -1,0 +1,18 @@
+{
+  "id": "DEBTTLBHA188A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Central government debt, total (% of GDP) for Bahrain",
+  "observation_start": "1990-01-01",
+  "observation_end": "2004-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of GDP",
+  "units_short": "% of GDP",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-12-20 11:34:22-06",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Debt is the entire stock of direct government fixed-term contractual obligations to others outstanding on a particular date. It includes domestic and foreign liabilities such as currency and money deposits, securities other than shares, and loans. It is the gross amount of government liabilities reduced by the amount of equity and financial derivatives held by the government. Because debt is a stock rather than a flow, it is measured as of a given date, usually the last day of the fiscal year.\n\nWorld Bank Source: International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.\n\nSource Indicator: GC.DOD.TOTL.GD.ZS"
+}

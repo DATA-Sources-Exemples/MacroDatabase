@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNCBRTINCAF",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Crude Birth Rate for the Central African Republic",
+  "observation_start": "1960-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Births per 1,000 People",
+  "units_short": "Births per 1,000 People",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-04-27 11:17:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Crude birth rate indicates the number of live births occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration.\n\nSource Indicator: SP.DYN.CBRT.IN"
+}

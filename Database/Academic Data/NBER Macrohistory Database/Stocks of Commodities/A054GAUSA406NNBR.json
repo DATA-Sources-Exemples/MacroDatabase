@@ -1,0 +1,18 @@
+{
+  "id": "A054GAUSA406NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Changes in Inventories, in Current Prices for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1939-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1939 (2)--Original Data, 1929-1958. Source: Computed By NBER From Simon Kuznets, National Product Since 1869, Worksheet To Table I-11, P. 46\n\nThis NBER data series a05064ga appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: a05064ga"
+}

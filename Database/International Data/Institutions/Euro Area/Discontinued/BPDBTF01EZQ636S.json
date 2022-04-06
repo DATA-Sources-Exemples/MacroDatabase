@@ -1,0 +1,18 @@
+{
+  "id": "BPDBTF01EZQ636S",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Current Account Debit: Total Transfers for the Euro Area (DISCONTINUED)",
+  "observation_start": "1999-01-01",
+  "observation_end": "2012-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "National currency, Sum Over Component Sub-periods",
+  "units_short": "National currency, Sum Over Component Sub-periods",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2013-07-24 02:18:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: BPDBTF01\nOECD unit ID: NCCUSA\nOECD country ID: EA17\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

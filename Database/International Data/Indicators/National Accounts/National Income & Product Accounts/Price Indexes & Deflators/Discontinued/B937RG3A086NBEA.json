@@ -1,0 +1,18 @@
+{
+  "id": "B937RG3A086NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Private fixed investment, chained price index: Nonresidential: Equipment: Information processing equipment: Other (DISCONTINUED)",
+  "observation_start": "1929-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-08-05 13:51:02-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B937RG3\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "B690RZ2A224NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in real exports of goods: Consumer goods, except automotive: Durable goods",
+  "observation_start": "1968-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-24 07:59:57-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B690RZ\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

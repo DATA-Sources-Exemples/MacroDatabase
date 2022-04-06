@@ -1,1 +1,21 @@
-{}
+{
+  "PCRGMP46540": {
+    "id": "PCRGMP46540",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
+    "title": "Total Per Capita Real Gross Domestic Product for Utica-Rome, NY (MSA) (DISCONTINUED)",
+    "observation_start": "2001-01-01",
+    "observation_end": "2017-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Chained 2009 Dollars",
+    "units_short": "Chn. 2009 $",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-09-18 08:31:44-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "The All industry total includes all Private industries and Government.\n\nReal GDP by metropolitan area is an inflation-adjusted measure of each metropolitan area's gross product that is based on national prices for the goods and services produced within the metropolitan area. Gross Domestic Product of a given area divided by the resident population of the area.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm.",
+    "path": "../Database/U.S. Regional Data/States/New York/MSAs/Utica-Rome, NY"
+  }
+}

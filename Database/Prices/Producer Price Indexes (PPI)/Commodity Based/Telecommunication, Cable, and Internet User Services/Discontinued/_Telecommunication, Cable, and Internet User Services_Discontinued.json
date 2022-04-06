@@ -1,8 +1,8 @@
 {
   "WPU37120201": {
     "id": "WPU37120201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Long Distance Business Wired Telephone Service, Domestic (DISCONTINUED)",
     "observation_start": "2009-04-01",
     "observation_end": "2011-12-01",
@@ -15,12 +15,12 @@
     "last_updated": "2015-05-14 10:11:44-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
   },
   "WPU37120202": {
     "id": "WPU37120202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Long Distance Business Wired Telephone Service, International (DISCONTINUED)",
     "observation_start": "2009-04-01",
     "observation_end": "2011-12-01",
@@ -33,12 +33,12 @@
     "last_updated": "2015-05-14 10:11:44-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
   },
   "WPU37130103": {
     "id": "WPU37130103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Other Toll Service (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2011-12-01",
@@ -51,12 +51,12 @@
     "last_updated": "2015-05-14 10:11:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
   },
   "WPU37130104": {
     "id": "WPU37130104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Other Telephone Services (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2011-12-01",
@@ -69,6 +69,6 @@
     "last_updated": "2015-05-14 10:11:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Telecommunication, Cable, and Internet User Services"
   }
 }

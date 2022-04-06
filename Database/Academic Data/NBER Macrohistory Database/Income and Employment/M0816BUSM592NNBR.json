@@ -1,0 +1,18 @@
+{
+  "id": "M0816BUSM592NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Employment, Chemicals and Allied Products for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1957-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Production Workers",
+  "units_short": "Thous. Of Production Workers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:26:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1942 (2)--Original Data, 1939-1957. This Segment Is Not Comparable To Previous Data For 1920-1942 Because It Includes The Manufacture Of Fertilizers (While The Prior Segment Treats The Latter As A Seperate Industry) And New Industries Such As Plastics, Synthetic Rubber, Synthetic Fibers, Etc. Source: Bureau Of Labor Statistics, For 1939-1952 Data: \"Employment, Hours, Ane Earnings\", Manufacturing Division, Nondurable Goods Subdivision, Chemicals And Allied Products, Releases Ls53-2660, February 1953 And May 1955; For 1953-1957:\"Employment And Earnings, \" June 1956 And Following Issues.\n\nThis NBER data series m08216b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08216b"
+}

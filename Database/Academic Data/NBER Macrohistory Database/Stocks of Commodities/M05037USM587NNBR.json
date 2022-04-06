@@ -1,0 +1,18 @@
+{
+  "id": "M05037USM587NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Raw Silk Stocks at Manufacturers for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1935-07-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Picul Bales (Approximately 132.25 Lbs)",
+  "units_short": "Thous. of Picul Bales (Approximately 132.25 Lbs)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:50:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Were Computed From Data Reported By The Silk Association Of America Covering From 35 To 60 Per Cent Of The Silk Manufacturers And Throwsters, Averaging About 45 Per Cent For Most Of The Year 1924. Owing To The Varying Number Of Mills Reporting, The Original Figures Have Been Prorated Up To 100 Per Cent By Dividing The Stocks Reported By The Percentage Of The Trade Which They Are Estimated To Represent. The Commodity Exchange Quotes The Silkworm As The Source On July 1933. The Silk Association Of America Was Then Succeeded By The National Federation Of Textiles Which Was Quoted As The Source Beginning In November 1934. The Figure For November 1929 Was Misprinted In The Scb As 525.9, Which Is The Figure For The Actual Mills Reporting. It Was Adjusted To 100% Of The Industry (29.7) And Then It Checked With Commodity Exchange, Inc., The Source. Source: U.S. Department Of Commerce, Survey Of Current Business, Data For 1921-1922: Issue Of March 1925, P. 27; Data For 1923-1935: 1932 Annual Supplement, Pp. 266-267 And Following Issues; Also See: The Commodity Exchange, Inc., Monthly Statistical Supplement To The Daily Market Report, \"Raw Silk\"\n\nThis NBER data series m05037 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05037"
+}

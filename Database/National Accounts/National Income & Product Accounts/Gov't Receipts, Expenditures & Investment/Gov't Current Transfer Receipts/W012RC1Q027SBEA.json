@@ -1,0 +1,18 @@
+{
+  "id": "W012RC1Q027SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal government current transfer receipts: from business",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-01-27 07:59:20-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: W012RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

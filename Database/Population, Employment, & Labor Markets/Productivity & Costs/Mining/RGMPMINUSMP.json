@@ -1,0 +1,18 @@
+{
+  "id": "RGMPMINUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Gross Domestic Product: Private Industries: Mining for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2012 Dollars",
+  "units_short": "Mil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:36:33-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This SIC division includes all establishments primarily engaged in mining. The term mining is used in the broad sense to include the extraction of minerals occurring naturally: solids, such as coal and ores; liquids, such as crude petroleum; and gases such as natural gas. The term mining is also used in the broad sense to include quarrying, well operations, milling (e.g., crushing, screening, washing, flotation), and other preparation customarily done at the mine site, or as a part of mining activity.\n\nExploration and development of mineral properties are included. Services performed on a contract or fee basis in the development or operation of mineral properties are classified separately but within this division. Establishments which have complete responsibility for operating mines, quarries, or oil and gas wells for others on a contract or fee basis are classified according to the product mined rather than as mineral services.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

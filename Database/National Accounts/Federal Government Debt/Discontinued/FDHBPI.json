@@ -1,0 +1,17 @@
+{
+  "id": "FDHBPI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal Debt Held by Private Investors (DISCONTINUED)",
+  "observation_start": "1953-01-01",
+  "observation_end": "1998-10-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2004-01-16 09:05:06-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

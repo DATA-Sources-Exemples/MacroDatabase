@@ -1,0 +1,18 @@
+{
+  "id": "H4025C0A144NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Compensation of employees: Domestic private industries: Manufacturing: Durable goods: Miscellaneous manufacturing, including instruments and miscellaneous plastic products",
+  "observation_start": "1929-01-01",
+  "observation_end": "1947-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-03-31 19:42:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: H4025C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

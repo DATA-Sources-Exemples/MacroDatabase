@@ -1,0 +1,18 @@
+{
+  "id": "M05061USM366NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Visible Supply of Tin at Licensed Warehouses, Landing and Afloat for U.S.- Atlantic Ports",
+  "observation_start": "1892-12-01",
+  "observation_end": "1956-04-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Long Tons",
+  "units_short": "Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Method For Estimating Amount Afloat Was Not Given For December 1917 Or For February-June, 1918. No Data Are Available For July 1918-June 1919 As During This Period All Buying And Selling Was Done Through The Government. Beginning In 1928, Data (From Commodity Exchange Inc.) Were Checked By Adding Composite Items And Where Discrepancies Occured, The Computed Sum Of \"Warehouse,\" \"Landing,\" And \"Afloat\" Was Taken. The Last Issue Of The Monthly Statistical Supplement To The Daily Market Report Was That Of July 2, 1941. This Variable Was Continued By Adding Tin Metal Afloat To U.S. And Stocks Of Tin Metal -- Government, Distributors, Jobbers, And Immporters. Source: Data For 1892-1927: New York Metal Exchange, Official Daily Market Report; Data For 1928-1940: Commodity Exchange Inc., Monthly Statistical Supplements To The Daily Market Report, Tin And Copper; Data For 1941-1956: U.S. Bureau Of The Mines, Unpublished Data; And Mineral Industry Surveys, Monthly Tin Report; Alternate Source For 1893-1901: Engineering And Mining Journal; See Also Series 05024, Excluding Supply Afloat To The U.S.\n\nThis NBER data series m05061 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05061"
+}

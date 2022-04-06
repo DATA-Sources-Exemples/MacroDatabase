@@ -1,0 +1,18 @@
+{
+  "id": "M0193BUSM459SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Finished Cotton Goods Billings for United States",
+  "observation_start": "1920-07-01",
+  "observation_end": "1933-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Yards",
+  "units_short": "Mil. Of Yards",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 11:05:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Represent About 40% White Goods And Dyed Goods, And About 20% Printed Goods; Goods Are Billed As Completed, Hence Billings Approximate Production. Data For December 1921-January 1922 Not Available. Source: Record Book Of Business Statistics, Part I, P.31, Survey Of Current Business Supplement 1932, P. 265, And Successive Issues.\n\nThis NBER data series m01093b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01093b"
+}

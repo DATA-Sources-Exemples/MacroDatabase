@@ -1,0 +1,18 @@
+{
+  "id": "ND000348Q",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Personal Consumption Expenditures: Nondurable Goods",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:55:26-05",
+  "popularity": 9,
+  "group_popularity": 43,
+  "notes": "BEA Account Code: ND000348"
+}

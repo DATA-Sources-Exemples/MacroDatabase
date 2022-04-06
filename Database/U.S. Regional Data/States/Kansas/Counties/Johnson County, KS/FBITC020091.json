@@ -1,0 +1,18 @@
+{
+  "id": "FBITC020091",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Combined Violent and Property Crime Offenses Known to Law Enforcement in Johnson County, KS",
+  "observation_start": "2004-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Known Offenses",
+  "units_short": "Known Offenses",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-22 10:57:14-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The series represents the sum of violent crimes and property crimes as reported by county law enforcement agencies from the FBI Uniform Crime Reporting: Crime in the United States, Table 10: Offenses Known to Law Enforcement, by State by Metropolitan and Nonmetropolitan Counties. Note that these data do not represent county totals as they exclude crime counts for city agencies and other types of agencies that have jurisdiction within each county.\n\nThe FBI's Uniform Crime Reporting (UCR) Program collects the number of offenses that come to the attention of law enforcement for violent crime and property crime, as well as data regarding clearances of these offenses. In addition, the FBI collects auxiliary information about these offenses (e.g., time of day of burglaries).\n\nViolent crime is composed of four offenses: murder and non-negligent manslaughter, rape, robbery, and aggravated assault. Violent crimes are defined in the UCR Program as those offenses that involve force or threat of force.\n\nProperty crime includes the offenses of burglary, larceny-theft, motor vehicle theft, and arson. The object of the theft-type offenses is the taking of money or property, but there is no force or threat of force against the victims.\n\nSee Table 10 Data Declaration (https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-10/table-10-data-declaration) for more information."
+}

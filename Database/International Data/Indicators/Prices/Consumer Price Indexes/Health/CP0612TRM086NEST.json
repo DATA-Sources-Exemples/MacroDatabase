@@ -1,0 +1,18 @@
+{
+  "id": "CP0612TRM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Other Medical Products, Therapeutic Appliances, and Equipment for Turkey",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:18:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Other Medical Products, Therapeutic Appliances, and Equipment (06.1.2/3)\" is a classification of durable goods and services that includes clinical thermometers, adhesive and non-adhesive bandages, hypodermic syringes, first-aid kits, hot-water bottles and ice bags, medical hosiery items such as elasticated stockings and knee-supports, pregnancy tests, condoms, and other mechanical contraceptive devices; corrective eye-glasses and contact lenses, hearing aids, glass eyes, artificial limbs and other prosthetic devices, orthopedic braces and supports, orthopedic footwear, surgical belts, trusses and supports, neck braces, medical massage equipment and health lamps, powered and unpowered wheelchairs and invalid carriages, \"special\" beds, crutches, electronic and other devices for monitoring blood pressure, etc.; and repair of such articles; and dentures but not fitting costs.\n\nThis category excludes hire of therapeutic equipment (06.2.3), protective goggles, belts and supports for sport (09.3.2), and sun-glasses not fitted with corrective lenses (12.3.2).\n\nThis category is a subcategory of the Health (06) and of Medical Products, Appliances, and Equipment (06.1) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

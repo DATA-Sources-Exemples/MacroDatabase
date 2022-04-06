@@ -1,8 +1,8 @@
 | Folder           |   Files / Folders |
 |------------------|-------------------|
-| Fertility Rate   |                 1 |
-| Infant Mortality |                 1 |
+| Fertility Rate   |               468 |
+| Literacy Rate    |               192 |
+| Life Expectancy  |               242 |
+| Birth Rate       |               245 |
 | Migration        |                 1 |
-| Birth Rate       |                 1 |
-| Life Expectancy  |                 1 |
-| Literacy Rate    |                 1 |
+| Infant Mortality |               226 |

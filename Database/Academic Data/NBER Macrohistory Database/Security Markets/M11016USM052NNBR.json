@@ -1,0 +1,18 @@
+{
+  "id": "M11016USM052NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "American Railroad Bond Prices, High Grade for United States",
+  "observation_start": "1857-01-01",
+  "observation_end": "1937-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:01:53-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "These Entries Are Obtained By Inverting The Series On Bond Yields By Dividing The Yield, Expressed In Decimals, Into 4.00. See F.R. Macauley, \"Some Theoretical Problems Suggested By The Movements Of Interest Rates, Bond Yields, And Stock Prices In The United States Since 1856.\" (NBER, 1938). Source: 1857-1925 Data Are Computed By NBER From F.R. Macaulay'S Data On Bond Yields As Published In The NBER News-Bulletin, No.41, January 5, 1931. Thereafter, Data Are From NBER Files.\n\nThis NBER data series m11016 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11016"
+}

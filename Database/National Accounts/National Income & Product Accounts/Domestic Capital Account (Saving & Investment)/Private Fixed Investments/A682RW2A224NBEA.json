@@ -1,0 +1,18 @@
+{
+  "id": "A682RW2A224NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in real private fixed investment in equipment and software: Nonresidential: Other equipment - furniture and fixtures, agricultural, construction, mining and oilfield, service industry machinery, electrical equipment n.e.c.",
+  "observation_start": "1947-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:40:48-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "BEA Account Code: A682RW\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

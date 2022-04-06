@@ -1,6 +1,6 @@
 | Folder                    |   Files / Folders |
 |---------------------------|-------------------|
-| Micronesia                |                 1 |
-| Polynesia                 |                 1 |
-| Australia and New Zealand |                 1 |
-| Melanesia                 |                 1 |
+| Polynesia                 |                 2 |
+| Melanesia                 |                 2 |
+| Micronesia                |                 2 |
+| Australia and New Zealand |                 4 |

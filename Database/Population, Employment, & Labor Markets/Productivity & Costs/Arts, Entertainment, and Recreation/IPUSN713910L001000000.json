@@ -1,0 +1,18 @@
+{
+  "id": "IPUSN713910L001000000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Productivity for Arts, Entertainment, and Recreation: Golf Courses and Country Clubs (NAICS 713910) in the United States",
+  "observation_start": "2003-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-01 10:18:58-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Labor productivity describes the efficiency at which labor hours are utilized in producing output of goods and services, measured as output per hour of labor."
+}

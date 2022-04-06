@@ -1,0 +1,18 @@
+{
+  "id": "Q07056USQ324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Index of Exports of Iron and Steel for United States",
+  "observation_start": "1879-01-01",
+  "observation_end": "1923-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:03:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Data Represent Manufactured Iron And Steel Products Including Machinery And Vehicles. Source: Unpublished Tabulation. For Description And Coverage Of Series See Robert. E. Lipsey, Price And Quantity Trends In The Foreign Trade Of The U.S., N.B.E.R., 1963, Pp. 289-95.\n\nThis NBER data series q07056 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: q07056"
+}

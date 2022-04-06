@@ -1,0 +1,18 @@
+{
+  "id": "SANT006INFO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Information in Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2015-01-27 13:26:29-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The data services of the Federal Reserve Bank of St. Louis include series that are seasonally adjusted. To make these adjustments, we use the X-12 Procedure of SAS to remove the seasonal component of the series so that non-seasonal trends can be analyzed. This procedure is based on the U.S. Bureau of the Census X-12-ARIMA Seasonal Adjustment Program. More information on this program can be found at https://www.census.gov/srd/www/x13as/.\nThe seasonal moving average function used is that of the Census Bureau\u2019s X-11-ARIMA program. This includes a 3x3 moving average for the initial seasonal factors and a 3x5 moving average to calculate the final seasonal factors. The D11 function is also used to output the entire seasonally adjusted series that is displayed. For specific information on the SAS X-12 procedure, please visit their website: http://support.sas.com/documentation/cdl/en/etsug/60372/HTML/default/viewer.htm#etsug_x12_sect001.htm."
+}

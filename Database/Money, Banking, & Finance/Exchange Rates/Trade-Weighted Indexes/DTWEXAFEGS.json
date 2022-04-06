@@ -1,0 +1,17 @@
+{
+  "id": "DTWEXAFEGS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nominal Advanced Foreign Economies U.S. Dollar Index",
+  "observation_start": "2006-01-02",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Index Jan 2006=100",
+  "units_short": "Index Jan 2006=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:20:06-05",
+  "popularity": 56,
+  "group_popularity": 57
+}

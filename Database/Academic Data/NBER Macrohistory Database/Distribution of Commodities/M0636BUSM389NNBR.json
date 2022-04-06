@@ -1,0 +1,18 @@
+{
+  "id": "M0636BUSM389NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Sales Books, New Orders for United States",
+  "observation_start": "1935-01-01",
+  "observation_end": "1942-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Books",
+  "units_short": "Mil. Of Books",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:50:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1935 (2)--Original Data, 1935-1942. Reports Cover Total U.S., 13 Manufacturers Reporting For 1935-1940,And 11 Thereafter, The Reduction Resulting From The Consolidation Of The Reports Of 3 Associated Companies. 90 % Of All Sales Books Sold Were Covered By The 1935-1940 Figures, And 75 % Beginning In 1941. The Decline In Coverage Resulting From Increased Sales By Non-Members. Raw Data Published After August, 1942 Are No Longer Comparable; The Source Discontinued Publication After 1943. Source: Survey Of Current Business, Annual Supplements Of 1936, 1938, 1940 And 1942, And Monthly Issues.\n\nThis NBER data series m06036b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06036b"
+}

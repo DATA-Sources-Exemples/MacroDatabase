@@ -1,0 +1,18 @@
+{
+  "id": "L318301A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal government cash payments to the public: Coverage differences: Capital transfers paid (DISCONTINUED)",
+  "observation_start": "1952-01-01",
+  "observation_end": "1967-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-04-01 01:10:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: L318301\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

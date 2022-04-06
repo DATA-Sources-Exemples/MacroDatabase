@@ -1,0 +1,18 @@
+{
+  "id": "M06138USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Buying Policy, Per Cent Reporting Commitments 90 Days or Longer for the United States",
+  "observation_start": "1950-01-01",
+  "observation_end": "1960-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percentage",
+  "units_short": "Percentage",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:47:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "From January 1950 To April 1955, Per Cents Show All Purchases (Production, M.R.O. And Capital Expenditures). From May 1955 On, Per Cents Show Production Materials Only. Source: National Association Of Purchasing Agents, H. Stern'S Files.\n\nThis NBER data series m06138 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06138"
+}

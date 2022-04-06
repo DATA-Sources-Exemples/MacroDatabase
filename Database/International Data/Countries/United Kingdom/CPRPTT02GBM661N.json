@@ -1,0 +1,18 @@
+{
+  "id": "CPRPTT02GBM661N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: Retail price Index: All Items Less Mortgage Interest Rate for the United Kingdom",
+  "observation_start": "1975-01-01",
+  "observation_end": "2018-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2010=100",
+  "units_short": "Index 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-03-21 10:11:04-05",
+  "popularity": 10,
+  "group_popularity": 12,
+  "notes": "OECD descriptor ID: CPRPTT02\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

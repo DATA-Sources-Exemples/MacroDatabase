@@ -1,0 +1,18 @@
+{
+  "id": "M0736AGBM416NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Exports of Cotton Piece Goods for Great Britain",
+  "observation_start": "1851-01-01",
+  "observation_end": "1921-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Linear Yards",
+  "units_short": "Mil. Of Linear Yards",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:03:54-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data,1851-1921 (2)--Original Data, 1921-1936. Beginning In 1913, The Item, \"Flags, Handkerchiefs, And Shawls, Not In The Piece\", Given Elsewhere Is Here Added To \"Total Cotton Piece Goods\" To Retain Comparability With Data Prior To 1913. However, This Item Is Composed Of (A) \"Flags, Handkerchiefs, Shawls, Not In The Piece, Printed\" And (B)\"Flags, Handkerchiefs, Shawls, Not In The Piece, Other Sorts\". Prior To 1913 This Latter Article (B) Was Not Included, Being Unavailable In \"Unenumerated Cotton Manufactures\". Therefore, The Figures From 1913 On Are Too High By This Amount. The Difference Is So Slight That The Series Is Treated As Continuous And Not With An Overlap. The Figures For 1913 Excluding (B) (Comparable With 1912 And Prerchiefs, Shawls, Not In The Piece, Printed\" And (B) H - 564; April - 590; May - 609; June - 618; July - 642; August - 582; September - 552; October - 634; November - 567; December - 534. Source: Accounts Relating To Trade And Navigation\n\nThis NBER data series m07036a appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07036a"
+}

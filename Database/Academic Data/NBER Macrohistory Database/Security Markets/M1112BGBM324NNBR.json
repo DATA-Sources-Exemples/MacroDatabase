@@ -1,0 +1,18 @@
+{
+  "id": "M1112BGBM324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Price Index of Industrial Securities for Great Britain",
+  "observation_start": "1919-01-01",
+  "observation_end": "1924-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:02:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1867-1914 (2)--Original Data, 1919-1924 (3)--Original Data, 1925-1934. These Are Figures For The Last Day Of The Month Through December, 1922 And For Mid-Month Thereafter (See London And Cambridge Economic Service, Vol. Ii, No.1, 1-23-1924). Data Refer To The 16Th Or The 17Th Of The Month If The 15Th Falls On A Saturday Or Sunday (Ibid., Vol. Iii, No.12). Source: London And Cambridge Economic Service, January, 1923 And Following Issues, Also Special Memorandum No.33, P.14 For A Revised Index.\n\nThis NBER data series m11012b appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11012b"
+}

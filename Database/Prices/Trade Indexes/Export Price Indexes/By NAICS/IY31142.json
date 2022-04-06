@@ -1,0 +1,18 @@
+{
+  "id": "IY31142",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Export Price Index (NAICS): Fruit and vegetable canning, pickling, and drying",
+  "observation_start": "2009-12-01",
+  "observation_end": "2018-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2009=100",
+  "units_short": "Index Dec 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-05-11 07:51:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+}

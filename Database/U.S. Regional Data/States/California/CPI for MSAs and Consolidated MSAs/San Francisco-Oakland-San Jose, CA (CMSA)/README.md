@@ -1,2 +1,52 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                  | observation_start   | observation_end   |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUURA422SA0     | Consumer Price Index for All Urban Consumers: All Items in San Francisco-Oakland-Hayward, CA (CBSA)                                    | 1914-12-01          | 2022-02-01        |
+| CUURA422SA0E    | Consumer Price Index for All Urban Consumers: Energy in San Francisco-Oakland-Hayward, CA (CBSA)                                       | 1977-12-01          | 2022-02-01        |
+| CUURA422SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in San Francisco-Oakland-Hayward, CA (CBSA)               | 1982-02-01          | 2022-02-01        |
+| CUURA422SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in San Francisco-Oakland-Hayward, CA (CBSA)                       | 1975-12-01          | 2022-02-01        |
+| CUURA422SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in San Francisco-Oakland-Hayward, CA (CBSA)                  | 1966-12-01          | 2022-02-01        |
+| CUURA422SA0LE   | Consumer Price Index for All Urban Consumers: All Items Less Energy in San Francisco-Oakland-Hayward, CA (CBSA)                        | 1977-12-01          | 2022-02-01        |
+| CUURA422SAA     | Consumer Price Index for All Urban Consumers: Apparel in San Francisco-Oakland-Hayward, CA (CBSA)                                      | 1952-12-01          | 2022-02-01        |
+| CUURA422SAC     | Consumer Price Index for All Urban Consumers: Commodities in San Francisco-Oakland-Hayward, CA (CBSA)                                  | 1966-12-01          | 2022-02-01        |
+| CUURA422SACL1   | Consumer Price Index for All Urban Consumers: Commodities Less Food in San Francisco-Oakland-Hayward, CA (CBSA)                        | 1966-12-01          | 2022-02-01        |
+| CUURA422SACL11  | Consumer Price Index for All Urban Consumers: Commodities Less Food and Beverages in San Francisco-Oakland-Hayward, CA (CBSA)          | 1975-12-01          | 2022-02-01        |
+| CUURA422SAD     | Consumer Price Index for All Urban Consumers: Durables in San Francisco-Oakland-Hayward, CA (CBSA)                                     | 1966-12-01          | 2021-12-01        |
+| CUURA422SAE     | Consumer Price Index for All Urban Consumers: Education and Communication in San Francisco-Oakland-Hayward, CA (CBSA)                  | 1997-12-01          | 2022-02-01        |
+| CUURA422SAEC    | Consumer Price Index for All Urban Consumers: Education and Communication Commodities in San Francisco-Oakland-Hayward, CA (CBSA)      | 2009-12-01          | 2022-02-01        |
+| CUURA422SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in San Francisco-Oakland-Hayward, CA (CBSA)         | 2009-12-01          | 2022-02-01        |
+| CUURA422SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in San Francisco-Oakland-Hayward, CA (CBSA)                           | 1975-12-01          | 2022-02-01        |
+| CUURA422SAF1    | Consumer Price Index for All Urban Consumers: Food in San Francisco-Oakland-Hayward, CA (CBSA)                                         | 1914-12-01          | 2022-02-01        |
+| CUURA422SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in San Francisco-Oakland-Hayward, CA (CBSA)                                 | 1953-01-01          | 2022-02-01        |
+| CUURA422SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in San Francisco-Oakland-Hayward, CA (CBSA)                          | 1975-12-01          | 2022-02-01        |
+| CUURA422SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in San Francisco-Oakland-Hayward, CA (CBSA)                     | 1975-12-01          | 2022-02-01        |
+| CUURA422SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in San Francisco-Oakland-Hayward, CA (CBSA)                                  | 2009-12-01          | 2022-02-01        |
+| CUURA422SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in San Francisco-Oakland-Hayward, CA (CBSA)                      | 2009-12-01          | 2022-02-01        |
+| CUURA422SAH     | Consumer Price Index for All Urban Consumers: Housing in San Francisco-Oakland-Hayward, CA (CBSA)                                      | 1975-12-01          | 2022-02-01        |
+| CUURA422SAH1    | Consumer Price Index for All Urban Consumers: Shelter in San Francisco-Oakland-Hayward, CA (CBSA)                                      | 1952-12-01          | 2022-02-01        |
+| CUURA422SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in San Francisco-Oakland-Hayward, CA (CBSA)                          | 1952-12-01          | 2022-02-01        |
+| CUURA422SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in San Francisco-Oakland-Hayward, CA (CBSA)         | 1975-12-01          | 2022-02-01        |
+| CUURA422SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in San Francisco-Oakland-Hayward, CA (CBSA)                             | 1976-01-01          | 2022-02-01        |
+| CUURA422SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in San Francisco-Oakland-Hayward, CA (CBSA)           | 2009-12-01          | 2022-02-01        |
+| CUURA422SAM     | Consumer Price Index for All Urban Consumers: Medical Care in San Francisco-Oakland-Hayward, CA (CBSA)                                 | 1947-01-01          | 2022-02-01        |
+| CUURA422SAN     | Consumer Price Index for All Urban Consumers: Nondurables in San Francisco-Oakland-Hayward, CA (CBSA)                                  | 1966-12-01          | 2022-02-01        |
+| CUURA422SANL1   | Consumer Price Index for All Urban Consumers: Nondurables Less Food in San Francisco-Oakland-Hayward, CA (CBSA)                        | 1966-12-01          | 2022-02-01        |
+| CUURA422SANL11  | Consumer Price Index for All Urban Consumers: Nondurables Less Food and Beverages in San Francisco-Oakland-Hayward, CA (CBSA)          | 1975-12-01          | 2022-02-01        |
+| CUURA422SAR     | Consumer Price Index for All Urban Consumers: Recreation in San Francisco-Oakland-Hayward, CA (CBSA)                                   | 1997-12-01          | 2022-02-01        |
+| CUURA422SAS     | Consumer Price Index for All Urban Consumers: Services in San Francisco-Oakland-Hayward, CA (CBSA)                                     | 1966-12-01          | 2022-02-01        |
+| CUURA422SASL2RS | Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in San Francisco-Oakland-Hayward, CA (CBSA)                | 1982-12-01          | 2022-02-01        |
+| CUURA422SASL5   | Consumer Price Index for All Urban Consumers: Services Less Medical Care Services in San Francisco-Oakland-Hayward, CA (CBSA)          | 1966-12-01          | 2022-02-01        |
+| CUURA422SAT     | Consumer Price Index for All Urban Consumers: Transportation in San Francisco-Oakland-Hayward, CA (CBSA)                               | 1947-01-01          | 2022-02-01        |
+| CUURA422SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in San Francisco-Oakland-Hayward, CA (CBSA)                       | 1947-01-01          | 2022-02-01        |
+| CUURA422SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in San Francisco-Oakland-Hayward, CA (CBSA)   | 2009-12-01          | 2021-12-01        |
+| CUURA422SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in San Francisco-Oakland-Hayward, CA (CBSA)                          | 1952-12-01          | 2022-02-01        |
+| CUURA422SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in San Francisco-Oakland-Hayward, CA (CBSA)                    | 1914-12-01          | 2022-02-01        |
+| CUURA422SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in San Francisco-Oakland-Hayward, CA (CBSA)        | 1982-12-01          | 2022-02-01        |
+| CUURA422SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in San Francisco-Oakland-Hayward, CA (CBSA) | 1982-12-01          | 2022-02-01        |
+| CUURA422SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in San Francisco-Oakland-Hayward, CA (CBSA)                              | 1935-03-01          | 2022-02-01        |
+| CUURA422SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in San Francisco-Oakland-Hayward, CA (CBSA)                                  | 1971-05-01          | 2022-02-01        |
+| CUURA422SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in San Francisco-Oakland-Hayward, CA (CBSA)                  | 1971-05-01          | 2022-02-01        |
+| CUURA422SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in San Francisco-Oakland-Hayward, CA (CBSA)                                   | 1977-12-01          | 2022-02-01        |
+| CUURA422SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in San Francisco-Oakland-Hayward, CA (CBSA)                         | 1977-12-01          | 2022-02-01        |
+| CUURA422SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in San Francisco-Oakland-Hayward, CA (CBSA)                   | 1976-01-01          | 2022-02-01        |
+| CUURA422SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in San Francisco-Oakland-Hayward, CA (CBSA)                  | 1993-12-01          | 2022-02-01        |
+| CUURA422SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in San Francisco-Oakland-Hayward, CA (CBSA)                   | 1981-08-01          | 2022-02-01        |

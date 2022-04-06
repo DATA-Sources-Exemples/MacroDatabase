@@ -1,0 +1,18 @@
+{
+  "id": "M082AAGBM513NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Trade Union Members Unemployed, Total for United Kingdom",
+  "observation_start": "1887-01-01",
+  "observation_end": "1924-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent of Total",
+  "units_short": "% Of Total",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:18:16-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1887-1924 (2)--Original Data, 1920-1939. These Data Are Based On Returns Collected By The Board Of Trade And The Ministry Of Labour From Various Trade Unions Which Paid Unemployment Benefits. Persons On Strike, Locked Out, Sick, Or Superannuated Are Excluded. The Percentages For Some Of The Earlier Years Are Partly Computed From The Expenditures Of The Several Unions On Unemployment Benefit. March And April 1912 Were Affected By The National Coal Dispute. In 1919, Skilled Men Permanently Engaged In Their Trades Formed A Large Proportion Of The Members Of These Trade Unions. Unemployment In The Early Part Of 1919 Was Largely Of Semi-Skilled Men Who Were Discharged From Industries Which They Had Only Entered For War Purposes. The Figures Given Here Therefore May Not Fully Indicate The Amount Of Unemployment (Labor Gazette, January 20, P.3). April-June, 1921 Data Exclude The Coal Miners' Stoppage In Industry. 1924 Data Include Pottery And Are A Continuation Of Earlier Data. Labour Gazette Discontinued Pottery Trade Operations At End Of May 1924 But No Change Is Made In Data For March-May 1924 For Exclusion In Both The Abstract And The Gazette. The Gazette States That At The Time The Figures Were Not Yet Available. Source: Board Of Trade, Labour Department (Later Changed To Ministry Of Labour), Abstract Of Labor Statistics Of The United Kingdom, Especially 21St Abstract, 1919-1933.\n\nThis NBER data series m08002aa appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08002aa"
+}

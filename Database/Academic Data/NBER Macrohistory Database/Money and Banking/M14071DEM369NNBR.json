@@ -1,0 +1,18 @@
+{
+  "id": "M14071DEM369NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Monthly Berlin Rates of Exchange on Paris for Germany",
+  "observation_start": "1876-01-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Marks per 100 Francs",
+  "units_short": "Marks per 100 Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:37:35-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Monthly Average Quotations Were Computed By NBER From Daily Averages Published In The Deutscher Reichsanzeiger, For 1876-1884. Thereafter, Monthly Averages Were Computed By The Statistiches Reichsamt. Data Refer To Eight Day Drafts. An Alternative Source For 1888-1907 Is The National Monetary Commission, Publications, Vol. 21, Pp. 251-255. Source: Data For 1876-1884 And 1910-July 1914: Deutscher Reichsanzeiger. Data For 1885-1894: Vierteljahrshefte Zur Statistik Des Deutschen Reich, 1895, Vol. Ii, P. 95. Data For 1895-1909: Statistiches Jahrbuch Fur Das Deutsche Reich, 1896 And Following Years. Data For 1925-October 1935: Konjunktur-Statistiches Handbuch, 1936. Data For November 1935-1939: Vierteljahrshefte Zur Konjunktur-Torschung.\n\nThis NBER data series m14071 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14071"
+}

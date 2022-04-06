@@ -1,8 +1,8 @@
 {
   "WPS511": {
     "id": "WPS511",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Outpatient Care (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -15,12 +15,12 @@
     "last_updated": "2022-03-15 08:05:27-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS512": {
     "id": "WPS512",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Inpatient Care",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -33,12 +33,12 @@
     "last_updated": "2022-03-15 08:05:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS5111": {
     "id": "WPS5111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Outpatient Care (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -51,12 +51,12 @@
     "last_updated": "2022-03-15 08:05:27-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS5121": {
     "id": "WPS5121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Inpatient Care",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -69,12 +69,12 @@
     "last_updated": "2022-03-15 08:05:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS511101": {
     "id": "WPS511101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Physician Care",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -87,12 +87,12 @@
     "last_updated": "2022-03-15 07:55:56-05",
     "popularity": 3,
     "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS511104": {
     "id": "WPS511104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Outpatient Care",
     "observation_start": "2008-12-01",
     "observation_end": "2015-12-01",
@@ -103,14 +103,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2021-02-17 10:48:04-06",
-    "popularity": 5,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 4,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS512101": {
     "id": "WPS512101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -121,14 +121,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:42-05",
-    "popularity": 3,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 5,
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS512102": {
     "id": "WPS512102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Nursing Home Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -139,14 +139,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:56-05",
-    "popularity": 8,
-    "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 6,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPS512103": {
     "id": "WPS512103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Intellectual and Developmental Disability Center Care",
     "observation_start": "2009-01-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 08:05:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51": {
     "id": "WPU51",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -177,12 +177,12 @@
     "last_updated": "2022-03-15 07:50:24-05",
     "popularity": 17,
     "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511": {
     "id": "WPU511",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Outpatient Care (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -195,12 +195,12 @@
     "last_updated": "2022-03-15 08:00:17-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512": {
     "id": "WPU512",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Inpatient Care",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -213,12 +213,12 @@
     "last_updated": "2022-03-15 08:00:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU513": {
     "id": "WPU513",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Sales of Blood and Blood Products, Organs, and Tissues",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -231,12 +231,12 @@
     "last_updated": "2022-03-15 08:00:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5111": {
     "id": "WPU5111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Outpatient Care (Partial)",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -249,12 +249,12 @@
     "last_updated": "2022-03-15 08:00:17-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121": {
     "id": "WPU5121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Inpatient Care",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -267,12 +267,12 @@
     "last_updated": "2022-03-15 08:00:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5131": {
     "id": "WPU5131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Sales of Blood and Blood Products, Organs, and Tissues",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -285,12 +285,12 @@
     "last_updated": "2022-03-15 08:00:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511101": {
     "id": "WPU511101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Physician Care",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -301,14 +301,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:52-05",
-    "popularity": 5,
+    "popularity": 4,
     "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102": {
     "id": "WPU511102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medical Laboratory and Diagnostic Imaging Center Care",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -321,12 +321,12 @@
     "last_updated": "2022-03-15 08:00:14-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511103": {
     "id": "WPU511103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Home Health and Hospice Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -339,12 +339,12 @@
     "last_updated": "2022-03-15 08:00:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511104": {
     "id": "WPU511104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Outpatient Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -356,13 +356,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:10-05",
     "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105": {
     "id": "WPU511105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Dental Care",
     "observation_start": "2010-06-01",
     "observation_end": "2022-02-01",
@@ -373,14 +373,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:25-05",
-    "popularity": 10,
-    "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 8,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512101": {
     "id": "WPU512101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -391,14 +391,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:58-05",
-    "popularity": 5,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 4,
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512102": {
     "id": "WPU512102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Nursing Home Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -410,13 +410,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:03-05",
     "popularity": 3,
-    "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512103": {
     "id": "WPU512103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Intellectual and Developmental Disability Center Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -429,12 +429,12 @@
     "last_updated": "2022-03-15 08:00:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU513101": {
     "id": "WPU513101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Sales of Blood and Blood Products, Organs, and Tissues",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -447,12 +447,12 @@
     "last_updated": "2022-03-15 08:00:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110102": {
     "id": "WPU51110102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Physician Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -465,12 +465,12 @@
     "last_updated": "2022-03-15 08:00:16-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110103": {
     "id": "WPU51110103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Physician Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -483,12 +483,12 @@
     "last_updated": "2022-03-15 08:00:15-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110104": {
     "id": "WPU51110104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Physician Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -501,12 +501,12 @@
     "last_updated": "2022-03-15 08:00:15-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110105": {
     "id": "WPU51110105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: All Other Patients: Physician Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -519,12 +519,12 @@
     "last_updated": "2022-03-15 08:00:15-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110201": {
     "id": "WPU51110201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medical Laboratory Care",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -537,12 +537,12 @@
     "last_updated": "2022-03-15 08:00:14-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110202": {
     "id": "WPU51110202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Diagnostic Imaging Center Care",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -555,12 +555,12 @@
     "last_updated": "2022-03-15 08:00:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110301": {
     "id": "WPU51110301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Home Health and Hospice Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -573,12 +573,12 @@
     "last_updated": "2022-03-15 08:00:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110401": {
     "id": "WPU51110401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Outpatient Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -589,14 +589,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:09-05",
-    "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 1,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110502": {
     "id": "WPU51110502",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Dental Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -609,12 +609,12 @@
     "last_updated": "2022-03-15 08:00:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110503": {
     "id": "WPU51110503",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare, Medicaid and All Other Patients: Dental Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -627,12 +627,12 @@
     "last_updated": "2022-03-15 08:00:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210101": {
     "id": "WPU51210101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -644,13 +644,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:05-05",
     "popularity": 2,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210201": {
     "id": "WPU51210201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Nursing Home Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -661,14 +661,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:03-05",
-    "popularity": 2,
-    "group_popularity": 10,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 1,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210301": {
     "id": "WPU51210301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Intellectual and Developmental Disability Center Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -681,12 +681,12 @@
     "last_updated": "2022-03-15 08:00:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51310101": {
     "id": "WPU51310101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Sales of Blood and Blood Products, Organs, and Tissues",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -699,12 +699,12 @@
     "last_updated": "2022-03-15 08:00:01-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102011": {
     "id": "WPU511102011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Medical Laboratory Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -717,12 +717,12 @@
     "last_updated": "2022-03-15 08:00:14-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102012": {
     "id": "WPU511102012",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Medical Laboratory Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -735,12 +735,12 @@
     "last_updated": "2022-03-15 08:00:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102013": {
     "id": "WPU511102013",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Medical Laboratory Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -753,12 +753,12 @@
     "last_updated": "2022-03-15 08:00:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102014": {
     "id": "WPU511102014",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: All Other Patients: Medical Laboratory Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -771,12 +771,12 @@
     "last_updated": "2022-03-15 08:00:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102021": {
     "id": "WPU511102021",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare and Medicaid Patients: Diagnostic Imaging Center Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -789,12 +789,12 @@
     "last_updated": "2022-03-15 08:00:12-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102022": {
     "id": "WPU511102022",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Health Care Services: Private Insurance Patients: Diagnostic Imaging Center Care (DISCONTINUED)",
     "observation_start": "2014-06-01",
     "observation_end": "2017-01-01",
@@ -807,12 +807,12 @@
     "last_updated": "2017-02-14 08:23:18-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511102023": {
     "id": "WPU511102023",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Health Care Services: All Other Patients: Diagnostic Imaging Center Care (DISCONTINUED)",
     "observation_start": "2014-06-01",
     "observation_end": "2017-01-01",
@@ -825,12 +825,12 @@
     "last_updated": "2017-02-14 08:23:18-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511104011": {
     "id": "WPU511104011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Outpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -843,12 +843,12 @@
     "last_updated": "2022-03-15 08:00:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511104013": {
     "id": "WPU511104013",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Outpatient Care, Specialty Hospitals",
     "observation_start": "2009-04-01",
     "observation_end": "2019-09-01",
@@ -861,12 +861,12 @@
     "last_updated": "2020-01-15 07:53:22-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105021": {
     "id": "WPU511105021",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Dental Visits and Consultations",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -879,12 +879,12 @@
     "last_updated": "2022-03-15 07:57:19-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105022": {
     "id": "WPU511105022",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Dental Surgical Intervention Services",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -897,12 +897,12 @@
     "last_updated": "2022-03-15 08:00:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105023": {
     "id": "WPU511105023",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Dental Non-Surgical Intervention Services",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -915,12 +915,12 @@
     "last_updated": "2022-03-15 08:00:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105031": {
     "id": "WPU511105031",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare, Medicaid and All Other Patients: Dental Visits and Consultations",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -933,12 +933,12 @@
     "last_updated": "2022-03-15 08:00:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105032": {
     "id": "WPU511105032",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare, Medicaid and All Other Patients: Dental Surgical Intervention Services",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -951,12 +951,12 @@
     "last_updated": "2022-03-15 08:00:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU511105033": {
     "id": "WPU511105033",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare and Medicaid and All Other Patients: Dental Non-Surgical Intervention Services",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -969,12 +969,12 @@
     "last_updated": "2022-03-15 08:00:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512101011": {
     "id": "WPU512101011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -987,12 +987,12 @@
     "last_updated": "2022-03-15 07:57:19-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512101012": {
     "id": "WPU512101012",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care, Psychiatric and Substance Abuse Hospitals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1005,12 +1005,12 @@
     "last_updated": "2022-03-15 08:00:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU512101013": {
     "id": "WPU512101013",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care, Specialty Hospitals",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1023,12 +1023,12 @@
     "last_updated": "2022-03-15 08:00:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5111030101": {
     "id": "WPU5111030101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare and Medicaid Patients: Home Health and Hospice Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1041,12 +1041,12 @@
     "last_updated": "2022-03-15 07:56:25-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5111030102": {
     "id": "WPU5111030102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance and All Other Patients: Home Health and Hospice Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1059,12 +1059,12 @@
     "last_updated": "2022-03-15 08:00:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5111040111": {
     "id": "WPU5111040111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Hospital Outpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1075,14 +1075,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:25-05",
-    "popularity": 3,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 2,
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5111040112": {
     "id": "WPU5111040112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Hospital Outpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1095,12 +1095,12 @@
     "last_updated": "2022-03-15 08:00:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5111040113": {
     "id": "WPU5111040113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance and All Other Patients: Outpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1113,12 +1113,12 @@
     "last_updated": "2022-03-15 08:00:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010111": {
     "id": "WPU5121010111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Hospital Inpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1131,12 +1131,12 @@
     "last_updated": "2022-03-15 07:53:52-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010112": {
     "id": "WPU5121010112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Hospital Inpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1149,12 +1149,12 @@
     "last_updated": "2022-03-15 08:00:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010113": {
     "id": "WPU5121010113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance and All Other Patients: Hospital Inpatient, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1167,12 +1167,12 @@
     "last_updated": "2022-03-15 08:00:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010121": {
     "id": "WPU5121010121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care, Psychiatric Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2019-09-01",
@@ -1185,12 +1185,12 @@
     "last_updated": "2019-11-14 09:08:27-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010131": {
     "id": "WPU5121010131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Hospital Inpatient Care, Specialty Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1203,12 +1203,12 @@
     "last_updated": "2022-03-15 08:00:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010132": {
     "id": "WPU5121010132",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Hospital Inpatient Care, Specialty Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1221,12 +1221,12 @@
     "last_updated": "2022-03-15 08:00:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121010133": {
     "id": "WPU5121010133",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance and All Other Patients: Hospital Inpatient Care, Specialty Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1239,12 +1239,12 @@
     "last_updated": "2022-03-15 08:00:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121020101": {
     "id": "WPU5121020101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare and Medicaid Patients: Nursing Home Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1257,12 +1257,12 @@
     "last_updated": "2022-03-15 08:00:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121020102": {
     "id": "WPU5121020102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance and All Other Patients: Nursing Home Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1275,12 +1275,12 @@
     "last_updated": "2022-03-15 08:00:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121030101": {
     "id": "WPU5121030101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Intellectual and Developmental Disability Center Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1293,12 +1293,12 @@
     "last_updated": "2022-03-15 08:00:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU5121030102": {
     "id": "WPU5121030102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare, Private Insurance and All Other Patients: Intellectual and Developmental Disability Center Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1311,12 +1311,12 @@
     "last_updated": "2022-03-15 08:00:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110301011": {
     "id": "WPU51110301011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Home Health and Hospice Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1329,12 +1329,12 @@
     "last_updated": "2022-03-15 08:00:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110301012": {
     "id": "WPU51110301012",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Home Health and Hospice Care",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1347,12 +1347,12 @@
     "last_updated": "2022-03-15 08:00:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110301021": {
     "id": "WPU51110301021",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Home Health and Hospice Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1365,12 +1365,12 @@
     "last_updated": "2022-03-15 08:00:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51110301022": {
     "id": "WPU51110301022",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: All Other Patients: Home Health and Hospice Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1381,14 +1381,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:10-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210101131": {
     "id": "WPU51210101131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Hospital Inpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1399,14 +1399,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:57-05",
-    "popularity": 7,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "popularity": 10,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210101132": {
     "id": "WPU51210101132",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: All Other Patients: Hospital Inpatient Care, General Medical and Surgical Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1419,12 +1419,12 @@
     "last_updated": "2022-03-15 08:00:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210101211": {
     "id": "WPU51210101211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Hospital Inpatient Care, Psychiatric Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2019-09-01",
@@ -1437,12 +1437,12 @@
     "last_updated": "2019-11-14 09:08:27-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210101212": {
     "id": "WPU51210101212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Hospital Inpatient Care, Psychiatric Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2019-09-01",
@@ -1455,12 +1455,12 @@
     "last_updated": "2019-11-14 09:08:27-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210101213": {
     "id": "WPU51210101213",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance and All Other Patients: Hospital Inpatient Care, Psychiatric Hospitals",
     "observation_start": "2014-06-01",
     "observation_end": "2019-09-01",
@@ -1473,12 +1473,12 @@
     "last_updated": "2019-11-14 09:08:27-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210201011": {
     "id": "WPU51210201011",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicaid Patients: Nursing Home Care",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -1491,12 +1491,12 @@
     "last_updated": "2022-03-15 08:00:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210201012": {
     "id": "WPU51210201012",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Medicare Patients: Nursing Home Care",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -1509,12 +1509,12 @@
     "last_updated": "2022-03-15 08:00:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210201021": {
     "id": "WPU51210201021",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: Private Insurance Patients: Nursing Home Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1527,12 +1527,12 @@
     "last_updated": "2022-03-15 08:00:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   },
   "WPU51210201022": {
     "id": "WPU51210201022",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Health Care Services: All Other Patients: Nursing Home Care",
     "observation_start": "2014-06-01",
     "observation_end": "2022-02-01",
@@ -1545,6 +1545,6 @@
     "last_updated": "2022-03-15 08:00:02-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Health Care Services"
   }
 }

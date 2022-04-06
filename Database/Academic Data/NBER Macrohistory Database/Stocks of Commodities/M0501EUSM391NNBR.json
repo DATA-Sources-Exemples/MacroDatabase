@@ -1,0 +1,18 @@
+{
+  "id": "M0501EUSM391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Commercial Stocks of Wheat, Domestic for United States",
+  "observation_start": "1927-01-01",
+  "observation_end": "1954-04-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:50:01-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Series Is Presented Here As Six Variables--(1)--Original Data, 1873-1885 (2)--Original Data, 1884-1889 (3)--Original, 1888-1905 (4)--Original, 1904-1928 (5)--Original, 1927-1954 (6)--Original, 1953-1956. Where Data Are Published As First Of The Month, It Is Shown Here As Being Pushed Back One Month To Show The End Of The Month. Figures Cover Domestic Grain In Storage In Public And Private Elevators In Principal Organized Grain Markets And Grain In Vessels Or Barges In Harbors Of Lake Or Seaboard Ports. Grain In Transit As Well As Stocks In Mill Or Mill Elevators Attached To Mills, Or Private Stocks Of Grain Intended For Local Use, Are Excluded. Stocks Are As Of The Saturday Nearest The End Of The Month Or The First Of The Following Month. Through 1936, The End Of June Figures Included New Wheat (Unknown Quantities); 1937 And Later Figures Contain Only Old Stocks, New Wheat Being Only Included In New Crop Year. Source: Data For 1927-1941: U.S. Department Of Agriculture, Bureao Of Agricultural Economics, Agricultural Statistics, Issues Of 1936 (P. 17), 1937 (P. 23), 1938 (P.22), 1939 (P. 22), 1940, 1941, 1942; Data For 1942-1953: U.S. Department Of Commerce, Survey Of Current Business, Statistical Supplements; Data For 1954: Scb, Monthly Issues; Alternate Sources: Scb, Issue Of June 1936 And Supplements Of 1936 And 1938.\n\nThis NBER data series m05001e appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05001e"
+}

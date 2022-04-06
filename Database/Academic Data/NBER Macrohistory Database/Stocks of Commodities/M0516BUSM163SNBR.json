@@ -1,0 +1,18 @@
+{
+  "id": "M0516BUSM163SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Ratio of Inventories to Sales, Manufacturing and Trade, Total for United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1969-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 10:47:01-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1939-1948 (2)--Seasonally Adjusted, 1948-1969. Source: U.S. Department Of Commerce, Office Of Business Economics, Business Cycle Developments, July 1967\n\nThis NBER data series m05116b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05116b"
+}

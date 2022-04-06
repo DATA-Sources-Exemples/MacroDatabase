@@ -1,0 +1,18 @@
+{
+  "id": "ISRCP020000IXNBQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: Alcoholic beverages, tobacco and narcotics (COICOP 02): Total: Total for Israel",
+  "observation_start": "1985-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index source base",
+  "units_short": "Index source base",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-15 11:24:49-06",
+  "popularity": 0,
+  "group_popularity": 5,
+  "notes": "OECD descriptor ID: CP020000 OECD unit ID: IXNB OECD country ID: ISRAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

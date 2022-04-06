@@ -1,0 +1,17 @@
+{
+  "id": "BEANEUR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment Rate in New England BEA Region (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2015-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2016-01-26 12:27:50-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M03065USM259SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railway Operating Expenses Per Traffic Unit for United States",
+  "observation_start": "1907-07-01",
+  "observation_end": "1960-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents",
+  "units_short": "Cents",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 14:02:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include Depreciation Source: Computed By NBER By Dividing Series 03040 (Railway Operating Expenses, Total) By \"Traffic Units\" (From NBER Files)\n\nThis NBER data series m03065 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03065"
+}

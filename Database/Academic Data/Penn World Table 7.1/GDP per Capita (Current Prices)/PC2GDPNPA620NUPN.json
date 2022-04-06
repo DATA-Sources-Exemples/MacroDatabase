@@ -1,0 +1,18 @@
+{
+  "id": "PC2GDPNPA620NUPN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Purchasing Power Parity Converted GDP Per Capita, average GEKS-CPDW, at current prices for Nepal",
+  "observation_start": "1960-01-01",
+  "observation_end": "2010-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "International Dollars",
+  "units_short": "International $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-09-17 11:26:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: cgdp2"
+}

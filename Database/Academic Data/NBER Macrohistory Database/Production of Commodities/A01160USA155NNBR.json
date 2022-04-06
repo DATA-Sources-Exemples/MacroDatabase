@@ -1,0 +1,18 @@
+{
+  "id": "A01160USA155NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Beehive Coke Ovens Under Construction for United States",
+  "observation_start": "1880-01-01",
+  "observation_end": "1960-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1894-1910 Computed By Subtracting \"By-Products\" From \"Total Coke Ovens\" Under Construction. Data For 1940 On Are Probably For Old Ovens Rebuilt For Temporary Use To Meet Peak Demands For Steel And Therfore May Not Be Considered Comparable With Earlier Periods. Source: Mineral Resources, 1901, P. 459 And Following Issues; Minerals Yearbooks, Successive Issues.\n\nThis NBER data series a01160 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01160"
+}

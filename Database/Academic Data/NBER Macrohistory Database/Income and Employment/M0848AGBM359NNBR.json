@@ -1,0 +1,18 @@
+{
+  "id": "M0848AGBM359NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Wages for Great Britain",
+  "observation_start": "1919-01-01",
+  "observation_end": "1928-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jul 1914=100",
+  "units_short": "Index Jul 1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-06-17 15:58:23-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "For A Description Of The Index See Special Memorandum No. 28. Source: London And Cambridge Economic Service, Bulletin Of January 1923 And Following Issues; Also See Review Of Economic Statistics, 1922.\n\nThis NBER data series m08048a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08048a"
+}

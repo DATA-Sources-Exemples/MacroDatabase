@@ -1,0 +1,18 @@
+{
+  "id": "ENINCCTOINA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Individual Income Tax Filing: Earned Income Credit Used to Offset Income Tax Before Credits",
+  "observation_start": "1999-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of U.S. Dollars",
+  "units_short": "Thous. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-12-19 13:31:41-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The amounts \"used to offset income tax before credits\" and \"used to offset other taxes\" (that are income-related) are reflected in the statistics for \"total tax credits\"; however, the \"excess\" or refundable portion of the credits are reflected in the statistics for tax \"overpayments.\" The refundable portion of the credit is the amount (in excess of the taxes) that could not be credited, including any \"advance earned income credit payments\" on those returns that had such an excess. (\"Advance earned income credit payments\" were made to employees electing to receive such payments currently through their paychecks. Such \"payments\" are included in the statistics only if the employees also met the tax return filing requirements; advance payments received by those not required to file are, therefore, excluded). \n\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
+}

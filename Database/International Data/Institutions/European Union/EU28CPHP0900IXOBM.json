@@ -1,0 +1,18 @@
+{
+  "id": "EU28CPHP0900IXOBM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: Harmonised prices: Recreation and culture (COICOP 09): Total for the European Union",
+  "observation_start": "1999-12-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-04-17 16:30:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: CPHP0900 OECD unit ID: IXOB OECD country ID: EU28All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

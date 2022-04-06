@@ -1,0 +1,18 @@
+{
+  "id": "M06048USFRB07M355NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Wholesale Trade Sales, Shoes for Federal Reserve District 7: Chicago",
+  "observation_start": "1923-01-01",
+  "observation_end": "1933-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jan 1923=100",
+  "units_short": "Index Jan 1923=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:46:48-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Index Was Computed By NBER From Percentage Changes Between Successive Months For Identical Firms. The Figures Were Compiled By The Frb Of Chicago From Reports To The Bank Each Month Of 5-13 Firms. Source: Computed By NBER From Figures Supplied By The Federal Reserve Bank Of Chicago\n\nThis NBER data series m06048 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06048"
+}

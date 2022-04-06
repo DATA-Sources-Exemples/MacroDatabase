@@ -1,0 +1,18 @@
+{
+  "id": "A013ABDEA563NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Rye Crop Acreage for Germany",
+  "observation_start": "1933-01-01",
+  "observation_end": "1944-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Hectares",
+  "units_short": "Thous. Of Hectares",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1917 (2)--Original Data, 1911-1937 (3)--Original Data, 1933-1944. Beginning 1933, Data Include The Saarland. The Figure For 1935 Was Computed By Adding Acreage For The Saar To A Total Figure Excluding The Region (See Statistiches Jahrbuch Fur Das Deutsche Reich, 1936, P. 40). Source: Data For 1933-1938: Sucessive Issues Of Statistiches Jahrrbuch; Also Annual Issues Of Statistik Des Deutschen Reiches; And Wirschaft Und Statistik. Alternate For 1933-1934: International Institute Of Agriculture International Yearbook Of Agricultural Statistics 1941/42 To 1944/45.\n\nThis NBER data series a01033ab appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01033ab"
+}

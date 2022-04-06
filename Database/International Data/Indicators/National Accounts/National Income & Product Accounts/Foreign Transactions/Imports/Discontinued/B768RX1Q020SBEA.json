@@ -1,0 +1,18 @@
+{
+  "id": "B768RX1Q020SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real imports of services: Travel (DISCONTINUED)",
+  "observation_start": "1999-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2009 Dollars",
+  "units_short": "Bil. of Chn. 2009 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2014-12-23 15:11:58-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B768RX1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

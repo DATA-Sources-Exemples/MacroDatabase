@@ -1,0 +1,18 @@
+{
+  "id": "CPGDFD02TRQ657N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: Total Food Excluding Restaurants for Turkey",
+  "observation_start": "1963-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Growth Rate Previous Period",
+  "units_short": "Growth Rate Previous Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-04-09 10:23:35-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: CPGDFD02\nOECD unit ID: GP\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

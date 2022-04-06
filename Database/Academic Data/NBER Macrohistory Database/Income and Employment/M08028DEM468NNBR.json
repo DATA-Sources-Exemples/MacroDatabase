@@ -1,0 +1,18 @@
+{
+  "id": "M08028DEM468NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Male Applicants Per Hundred Positions for Germany",
+  "observation_start": "1896-01-01",
+  "observation_end": "1934-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Applicants",
+  "units_short": "Number Of Applicants",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:24:34-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Data For January-August, 1896 Are Comparable Data For 38 Agencies, Computed By Dr. J. Jastrow. Data For September, 1896-August, 1897 Are The Simple Average Of Jastrow'S Figures For 38 Agencies And Data From Der Arbeitsmarkt. Data For September, 1897-1906 Are The Simple Average Of Figures As Published In Der Arbeitsmarkt -- The Average Of The First And Second Publications For Any Month, Which Differ In The Number Of Agencies Reporting. Data From Reichsarbeitsblatt Are Published In The Table Entitled \"Die Vermittelungstatigkeit Der Arbeitsnachweise, Auf 100 Affene Stellen, M.\" Beginning In 1930 Data Was Computed By NBER. Data For July And August, 1933 Were Interpolated. Source: Data For January-August, 1896 Is From Jahrbucher Fur Nationalakonomie, Folge 3, 1898, P.301; Data For September, 1896-1906 Is From Der Arbeitsmarkt, Verbandes Deutscher Arbeitsnachweise; For 1907-1934 From Reichsarbeitsblatt."
+}

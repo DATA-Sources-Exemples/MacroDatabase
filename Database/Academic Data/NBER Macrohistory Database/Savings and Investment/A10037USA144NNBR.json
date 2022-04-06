@@ -1,0 +1,18 @@
+{
+  "id": "A10037USA144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Capital Formation, Total, in Current Prices for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1943-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:21:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Simon Kuznets, National Product Since 1869 (NBER), 1946, Table I-13, P.50\n\nThis NBER data series a10037 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: a10037"
+}

@@ -1,7 +1,7 @@
 {
   "id": "WPUID61111",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Food Manufacturing",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:59:29-05",
-  "popularity": 5,
-  "group_popularity": 8
+  "popularity": 3,
+  "group_popularity": 5
 }

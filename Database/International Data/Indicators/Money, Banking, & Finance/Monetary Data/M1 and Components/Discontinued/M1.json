@@ -1,0 +1,18 @@
+{
+  "id": "M1",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "M1 (DISCONTINUED)",
+  "observation_start": "1975-01-06",
+  "observation_end": "2021-02-01",
+  "frequency": "Weekly, Ending Monday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-22 15:03:08-06",
+  "popularity": 76,
+  "group_popularity": 76,
+  "notes": "This weekly series is discontinued and will no longer be updated. The non-seasonally adjusted version of this weekly series is WM1NS (https://fred.stlouisfed.org/series/WM1NS), and the seasonally adjusted monthly series is M1SL (https://fred.stlouisfed.org/series/M1SL).\r\n\r\nStarting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Weekly average, non-seasonally adjusted data will continue to be made available, while weekly average, seasonally adjusted data will no longer be provided. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\r\n\r\nBefore May 2020, M1 consists of (1) currency outside the U.S. Treasury, Federal Reserve Banks, and the vaults of depository institutions; (2) demand deposits at commercial banks (excluding those amounts held by depository institutions, the U.S. government, and foreign banks and official institutions) less cash items in the process of collection and Federal Reserve float; and (3) other checkable deposits (OCDs), consisting of negotiable order of withdrawal, or NOW, and automatic transfer service, or ATS, accounts at depository institutions, share draft accounts at credit unions, and demand deposits at thrift institutions.\r\n\r\nBeginning May 2020, M1 consists of (1) currency outside the U.S. Treasury, Federal Reserve Banks, and the vaults of depository institutions; (2) demand deposits at commercial banks (excluding those amounts held by depository institutions, the U.S. government, and foreign banks and official institutions) less cash items in the process of collection and Federal Reserve float; and (3) other liquid deposits, consisting of OCDs and savings deposits (including money market deposit accounts). Seasonally adjusted M1 is constructed by summing currency, demand deposits, and OCDs (before May 2020) or other liquid deposits (beginning May 2020), each seasonally adjusted separately.\r\n\r\nFor more information on the H.6 release changes and the regulatory amendment that led to the creation of the other liquid deposits component and its inclusion in the M1 monetary aggregate, see the H.6 announcements (https://www.federalreserve.gov/feeds/h6.html) and Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm) posted on December 17, 2020."
+}

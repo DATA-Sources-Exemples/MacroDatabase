@@ -1,0 +1,18 @@
+{
+  "id": "NCOALLACB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Asset Quality Measures, Net Charge-Offs on All Loans and Leases, All Commercial Banks",
+  "observation_start": "1985-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-23 15:04:25-06",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "Charge-offs are the value of loans and leases removed from the books and charged against loss reserves."
+}

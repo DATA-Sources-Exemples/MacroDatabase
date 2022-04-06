@@ -1,0 +1,18 @@
+{
+  "id": "M063AAUSM174NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Catalog Sales, Total Sales, Two Mail Order Houses for United States",
+  "observation_start": "1911-01-01",
+  "observation_end": "1919-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:50:31-05",
+  "popularity": 2,
+  "group_popularity": 4,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1911-1919 (2)--Original Data, 1919-1944 (3)--Original Data, 1945-1957 (4)--Original Data, 1956-1959. The Two Mail Order Houses Are Sears, Roebuck And Company And Montgomery Ward And Company. Source: Commercial And Financial Chronicle\n\nThis NBER data series m06003aa appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06003aa"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DEXTAUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Taiwan Dollars to U.S. Dollar Spot Exchange Rate",
+  "observation_start": "1983-10-03",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Taiwan Dollars to One U.S. Dollar",
+  "units_short": "Taiwan $ to  1 U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:20:19-05",
+  "popularity": 28,
+  "group_popularity": 33,
+  "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
+}

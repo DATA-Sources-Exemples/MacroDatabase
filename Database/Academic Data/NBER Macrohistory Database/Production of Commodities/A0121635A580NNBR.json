@@ -1,0 +1,18 @@
+{
+  "id": "A0121635A580NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Steel Ingots and Castings Production for Germany and Luxemburg",
+  "observation_start": "1870-01-01",
+  "observation_end": "1916-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Metric Tons",
+  "units_short": "Thous. Of Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:59-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source: Verein Deutscher Und Stahl Industrieller, \"Deutschlande Gerwinnung An Roheisen, Rohstahl, Und Walzwerkserzengnissen\", 1933, Pp. 28-29.\n\nThis NBER data series a01216 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01216"
+}

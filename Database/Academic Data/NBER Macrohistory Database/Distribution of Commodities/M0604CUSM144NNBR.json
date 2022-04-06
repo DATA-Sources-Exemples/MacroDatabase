@@ -1,0 +1,18 @@
+{
+  "id": "M0604CUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Sales by Variety Chain Stores, Firms with Four or More Stores for the United States",
+  "observation_start": "1935-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:48:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1919-1934 (2)--Seasonally Adjusted Data, 1929-1943 (3)--Original Data, 1935-1951 (4)--Original Data, 1951-1956. For The Variables Covering 1935-1951, Seasonally Adjusted Data Are Only Available As An Index. Coverage For These Variables Ends In 1951; The Following Variables Cover Firms With Eleven Or More Stores And Are Based On A Different Method Of Reporting Sales (See Scb Of September 1952). Source: U.S. Department Of Commerce, Data For 1935-1950 Are From Tables Furnished By The Office Of Business Economics, Release Nos. 17428 And 17456, January 1952, And No. 17487, February 1952; Data For 1951 Are From Survey Of Current Business, September 1952.\n\nThis NBER data series m06004c appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06004c"
+}

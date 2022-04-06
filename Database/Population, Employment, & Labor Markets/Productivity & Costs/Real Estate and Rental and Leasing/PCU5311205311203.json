@@ -1,0 +1,17 @@
+{
+  "id": "PCU5311205311203",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Lessors of Nonresidential Buildings: Leasing of Manufacturing and Industrial Buildings",
+  "observation_start": "1995-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1995=100",
+  "units_short": "Index Dec 1995=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 07:53:26-05",
+  "popularity": 5,
+  "group_popularity": 5
+}

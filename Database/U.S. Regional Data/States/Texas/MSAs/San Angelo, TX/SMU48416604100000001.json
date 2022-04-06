@@ -1,0 +1,17 @@
+{
+  "id": "SMU48416604100000001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Wholesale Trade in San Angelo, TX (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-26 03:20:40-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

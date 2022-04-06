@@ -1,0 +1,18 @@
+{
+  "id": "A0126ADEA564NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wine Crop for Germany",
+  "observation_start": "1878-01-01",
+  "observation_end": "1917-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Hectolitres",
+  "units_short": "Thous. Of Hectolitres",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1878-1917 (2)--Original Data, 1911-1934. Data Refer To The Amount Of Liquid Pressed From The Grape Crop. One Hectolitre = 26.417 Gallons. The Wine Crop Was Not Estimated For 1899-1901. Data For 1878-1905 Also Checked From Statistiches Handbuch, I, 1907, P. 176. Source: Vierteljahrshefte Zur Statistik, 1909, I, P. 175; 1918, I, P. 56.\n\nThis NBER data series a01026a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01026a"
+}

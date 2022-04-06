@@ -1,0 +1,18 @@
+{
+  "id": "M08064USM324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Electric Railway and Bus Wages for United States",
+  "observation_start": "1933-01-01",
+  "observation_end": "1944-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:24:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1914-1936 (2)--Original Data, 1933-1944. Source: For 1936-May 1940 Data: Moody'S Manual Of Investments, Special Feature Section; Thereafter: Direct From Francis S. Haberly, Chicago.\n\nThis NBER data series m08064 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08064"
+}

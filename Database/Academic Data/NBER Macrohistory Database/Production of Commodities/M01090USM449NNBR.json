@@ -1,0 +1,18 @@
+{
+  "id": "M01090USM449NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Active Consuming Cotton Spindles During Month for United States",
+  "observation_start": "1912-09-01",
+  "observation_end": "1944-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Spindles",
+  "units_short": "Mil. Of Spindles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:19-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Covers Cotton Growing States Only. Data For 1912-1930 Also Checked With Nourse, America'S Capacity To Produce. Source: U.S. Department Of Commerce, Data For 1912-July 1942: Cotton Production And Distribution, Bulletins 131, 140, 150, 156, 162, 167, 169, 170, 178, 179. Data For August 1942-1944: Activity In The Cotton Spinning Industry, Monthly Press Releases.\n\nThis NBER data series m01090 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01090"
+}

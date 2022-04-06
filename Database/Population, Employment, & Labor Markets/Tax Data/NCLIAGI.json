@@ -1,0 +1,18 @@
+{
+  "id": "NCLIAGI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Individual Income Tax Filing: Net Capital Loss in Adjusted Gross Income (AGI)",
+  "observation_start": "1999-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Returns",
+  "units_short": "Number of Returns",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-12-19 13:31:10-06",
+  "popularity": 2,
+  "group_popularity": 8,
+  "notes": "Includes capital losses (after limitation) from the sale of assets held for personal use or investment, including losses in excess of net gains from the sale of certain business property treated as net capital losses and \"involuntary conversions\" of property, such as by casualty or theft. Also includes capital losses received from partnerships and S corporations. \n\nOrdinary dividends in Adjusted Gross Income (AGI) exclude capital gains and liquidating dividends, reflected in the statistics for net capital gain or loss in AGI, but include interest from Regulated Investment Companies on money market mutual funds. Qualified dividends are the ordinary dividends received after May 5, 2003, that met certain conditions. These included: the dividend must have been paid by a U.S. corporation or a \"qualified\" foreign corporation; the stock ownership must have met certain holding period requirements; the dividends were not from certain institutions, such as mutual savings banks, cooperative banks, credit unions, tax-exempt organizations, or farmer cooperatives; and the dividends were not for any share of stock which was a part of an employee stock ownership plan (ESOP). \n\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
+}

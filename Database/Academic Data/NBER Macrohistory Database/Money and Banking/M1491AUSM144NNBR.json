@@ -1,0 +1,18 @@
+{
+  "id": "M1491AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Change in Commercial and Industrial Loans, Weekly Reporting Member Banks, Federal Reserve System for United States",
+  "observation_start": "1937-07-01",
+  "observation_end": "1965-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data,1937-1965 (2)--Original Data, 1965-1969. Loans Outstanding, Upon Which Data Are Based, Are For Averages Of Four Or Five Wednesdays Per Month. Source: Federal Reserve Board, Data For 1937-1941: Derived From Banking And Monetary Statistics, 1943. Data For 1942-1965: Derived From Federal Reserve Bulletin, Successive Issues.\n\nThis NBER data series m14191a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14191a"
+}

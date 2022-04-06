@@ -1,0 +1,18 @@
+{
+  "id": "DDSI02COA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Non-Performing Loans to Gross Loans for Colombia",
+  "observation_start": "1998-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:23:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Ratio of defaulting loans (payments of interest and principal past due by 90 days or more) to total gross loans (total value of loan portfolio). The loan amount recorded as nonperforming includes the gross value of the loan as recorded on the balance sheet, not just the amount that is overdue.\n\nReported by IMF staff. Note that due to differences in national accounting, taxation, and supervisory regimes, these data are not strictly comparable across countries. (International Monetary Fund, Global Financial Stability Report)\n\nSource Code: GFDD.SI.02"
+}

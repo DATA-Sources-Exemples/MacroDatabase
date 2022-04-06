@@ -1,0 +1,18 @@
+{
+  "id": "M0510AUSM027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Inventories, Finished Goods for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1953-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 10:46:34-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1938-1953 (2)--Original Data, 1953-1970. Figures Reflect The Book Value As Of The End Of The Period. The Second And Third Decimal Places Have Been Added From An Unpublished Obe Table In The NBER Files (12/1963). Source: U.S. Department Of Commerce, Data For 1938-1952: Survey Of Current Business, June 1955; Data For 1953: Industry Survey Of August 1957\n\nThis NBER data series m05110a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05110a"
+}

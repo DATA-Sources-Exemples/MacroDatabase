@@ -1,0 +1,18 @@
+{
+  "id": "TB6SMFFM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "6-Month Treasury Bill Minus Federal Funds Rate",
+  "observation_start": "1958-12-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 16:01:14-05",
+  "popularity": 27,
+  "group_popularity": 27,
+  "notes": "Series is calculated as the spread between 6-Month Treasury Bill: Secondary Market Rate (https://fred.stlouisfed.org/series/TB6MS) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/FEDFUNDS)."
+}

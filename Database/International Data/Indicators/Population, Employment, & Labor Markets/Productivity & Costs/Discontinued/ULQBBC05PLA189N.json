@@ -1,0 +1,18 @@
+{
+  "id": "ULQBBC05PLA189N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Benchmarked Labor Costs - Trade, Transport and Communication for Poland (DISCONTINUED)",
+  "observation_start": "1995-01-01",
+  "observation_end": "2010-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "National Currency",
+  "units_short": "National Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-08-22 12:02:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: ULQBBC05\nOECD unit ID: ST\nOECD country ID: POL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A017BBFRA563NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Potato Crop Acreage for France",
+  "observation_start": "1929-01-01",
+  "observation_end": "1944-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Hectares",
+  "units_short": "Thous. Of Hectares",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:49:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1829-1919 (2)--Original Data, 1914-1938 (3)--Original Data, 1929-1944. Data For 1933-1944 Exclude Alsace. Data For 1943-1944 Exclude La Corse (Amount Is Very Small). Source: Statistique Agricole Annuelle.\n\nThis NBER data series a01037bb appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01037bb"
+}

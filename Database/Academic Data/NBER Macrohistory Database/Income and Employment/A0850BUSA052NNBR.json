@@ -1,0 +1,18 @@
+{
+  "id": "A0850BUSA052NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Money Earnings in Payroll Manufacturing Industries for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1933-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:22:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1926 (2)--Original Data, 1920-1933. The Presidents Reemployment Agreement Act Became Effective On August 1, 1933 And Established A 40 Hour Week. The Men'S Clothing Code, Effective September, 1933 Carried Provisions For A 36 Hour Week. The Actual Weighted Average Hourly Earnings For 10 Of The 12 Industries In 1933 Were .457. Hourly Earnings Were Only Published By The Bureau Of Labor Statistics Since 1932. Source: Leo Wolman Series: Per Capita Maximum Weekly Earnings.\n\nThis NBER data series a08050b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08050b"
+}

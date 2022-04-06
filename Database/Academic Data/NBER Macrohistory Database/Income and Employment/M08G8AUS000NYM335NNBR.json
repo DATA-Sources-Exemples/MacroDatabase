@@ -1,0 +1,18 @@
+{
+  "id": "M08G8AUS000NYM335NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Payrolls, New York State Factories for New York",
+  "observation_start": "1914-06-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1925-1927=100",
+  "units_short": "Index 1925-1927=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:21:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1914-1941 (2)--Original Data, 1935-1948. These Factories Are Representative Of New York State. Series Includes Both Office And Shop Workers. Source: The Industrial Bulletin, January 1942, P.9.\n\nThis NBER data series m08078a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08078a"
+}

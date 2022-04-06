@@ -1,0 +1,18 @@
+{
+  "id": "M03080GBM568NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Freight Train-Hours for Great Britain",
+  "observation_start": "1920-01-01",
+  "observation_end": "1931-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Hours",
+  "units_short": "Thous. Of Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:17-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "During Processing It Was Discovered That Monthly And Quarterly Figures For 1931 As Provided By NBER Do Not Agree, But Data Have Not Been Changed. The Annual Figure Provided Here Was Computed From Monthly Data. Source: Ministry Of Transport, Successive Issues Of \"Railway Statistics\"\n\nThis NBER data series m03080 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03080"
+}

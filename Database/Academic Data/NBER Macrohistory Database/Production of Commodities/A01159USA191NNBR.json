@@ -1,0 +1,18 @@
+{
+  "id": "A01159USA191NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cotton Spindles in Place at End of Crop Year, Total for United States",
+  "observation_start": "1906-01-01",
+  "observation_end": "1961-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions",
+  "units_short": "Mil.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1906-1914 Cover Crop Year Ending August 31. Beginning 1915 The Crop Year Ended July 31. Data For 1906-1944 Include Cotton Spindles Consuming Cotton Only; Data For 1045-1961 Include Spindles Uses On Synthetics And Other Fibers And Blends. Data Include Both Cotton States And Non-Cotton States. Data For 1906-1930 Have Been Checked With Nourse, America'S Capacity To Produce, P. 575. Source: Bureau Of The Census Bulletin #170, 175, 179, 198, Cotton Production And Distribution.\n\nThis NBER data series a01159 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01159"
+}

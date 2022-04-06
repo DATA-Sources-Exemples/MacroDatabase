@@ -1,0 +1,18 @@
+{
+  "id": "M12014USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Clearings Outside New York City for United States",
+  "observation_start": "1875-01-01",
+  "observation_end": "1964-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:32:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "NBER Converted Monthly Totals From The Sources To Daily Averages By Dividing By The Number Of Calendar Days. The Number Of Cities Covered Increased From 11 To Over 408 During The Duration Of The Series. Source: Data Were Derived By NBER, Data For 1875-1883 Are From \"The Public\"; Data For 1884-1943 Were Furnished By The Commercial And Financial Chronicle.\n\nThis NBER data series m12014 appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12014"
+}

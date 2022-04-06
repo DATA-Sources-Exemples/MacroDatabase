@@ -1,0 +1,17 @@
+{
+  "id": "PCU532120532120M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Truck, Utility Trailer, and RV Rental and Leasing: Miscellaneous Receipts",
+  "observation_start": "1991-06-01",
+  "observation_end": "1998-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1991=100",
+  "units_short": "Index Jun 1991=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:03:40-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

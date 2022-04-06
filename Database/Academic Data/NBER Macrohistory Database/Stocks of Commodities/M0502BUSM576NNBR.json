@@ -1,0 +1,18 @@
+{
+  "id": "M0502BUSM576NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Raw Sugar Stocks at All Ports for United States",
+  "observation_start": "1920-04-01",
+  "observation_end": "1956-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Long Tons",
+  "units_short": "Thous. of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:46:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1889-1921 (2)--Original, 1920-1956. Data Include Stocks At And Owned By Refineries Up To The Point Of Melting Plus Importers' Stocks. The Bulk Is In The Hands Of The Refineries. The Large Stocks That Accumulated In The Period 1929-1950 Was Due In Part To An Anticipated Change In Sugar Duties. Data Cover All U.S. Refining Ports. These Ports Include -- From 1920-February 1921: New York, Boston, New Orleans, Galveston, Savannah, Philadelphia, And San Francisco; For March 1921-March 1929: Baltimore Added (A New Refinery); For April 1929-1937: Norfolk Added (An Important Importers' Port); Thereafter, All Ports Listed Here Are Included, With The Exception Of Norfolk. Figures For 1920-October 1921 Reflect Stocks On The Thursday Nearest The End Of The Month For New York, Boston, Philadelphia And Baltimore, Plus Stocks On The Nearest Saturday To The Month'S End For The Other Ports. Computation Was By NBER. Figures For Novemeber 1921-April 1928 Reflect Stocks Nearest The Wednesday At The End Of The Month For New York, Boston, Philadelphia, And Baltimore, Plus The Nearest Saturday To The End Of The Month For Other Ports, Computed By NBER. Figures For May 1928 And Thereafter Reflect Stocks On The Saturday Nearest The Months' End For All Ports, Given Directly. Figures Were Checked With The U.S. Department Of Commerce, Survey Of Current Business, October 1937 Issue, The 1940 Supplement, And Following Monthly Issues. In Cases Of Discrepancies, The Correct Computation Was Made From The Weekly Statistical Sugar Trade Journal. Source: Willet And Gray, Inc., Weekly Statistical Sugar Trade Journal\n\nThis NBER data series m05002b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05002b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M08247US000NYM335NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Employment, Laundering and Cleaning for New York",
+  "observation_start": "1914-06-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1925-1927=100",
+  "units_short": "Index 1925-1927=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:31:27-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Cover Employees In Both Office And Shop. Indexes On A Base Of June 1914=100 And June 1915=100 In The Labor Market Bulletin Were Converted To 1925-1927=100 By NBER. Source: New York State Department Of Labor, For 1914-1920 Data: Labor Market Bulletin; For 1921-1930 Data: Course Of Factory Employment In New York State From 1921 To 1930, Special Bulletin No. 171, 1931; For 1931-1938: Trend Of Employment In New York State Factories From 1914 To 1939, Special Bulletin No. 206, June 1940; For 1939-1941: The Industrial Bulletin.\n\nThis NBER data series m08247 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08247"
+}

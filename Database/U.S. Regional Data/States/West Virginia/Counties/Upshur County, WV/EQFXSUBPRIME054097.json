@@ -1,0 +1,18 @@
+{
+  "id": "EQFXSUBPRIME054097",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Equifax Subprime Credit Population for Upshur County, WV",
+  "observation_start": "1999-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-24 15:38:34-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Estimate of the percentage of the population with a credit score below 660. Counties with fewer than 20 people in the sample are not reported for privacy reasons. The estimate is based on the representative primary sample of the New York Fed Consumer Credit Panel, which includes only the primary sample member per household (about 5% of the U.S. credit report population, defined as all U.S. residents with a credit history). For more details about the data and sample, see \"An Introduction to the Consumer Credit Panel\" (https://www.newyorkfed.org/research/staff_reports/sr479.html).\n\nSource: Federal Reserve Bank of New York/Equifax Consumer Credit Panel\n\nReprinted with permission. Copyright \u00a9 2016, Equifax. All rights reserved. Reproduction of median credit score per county in any form is prohibited except with the prior written permission of Equifax."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "LLSELP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in El Paso, TX (MSA) (DISCONTINUED)",
+  "observation_start": "1989-01-01",
+  "observation_end": "2020-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-12-10 14:49:50-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series is discontinued and will no longer be updated. Additional consolidated data is available on the FDIC's Bank Data and Statistics (https://www.fdic.gov/bank/statistical/).\n\nThis series represents Allowance for Loan and Lease Losses call item RCFD3123.\n\nThe asset class is determined by using Total Assets call item RCFD2170 less than or equal to $5B. Geographic location is determined by Abbreviated State Name call item RSSD9200 and County Code call item RSSD9150, which is mapped to the proper Core Based Statistical Area (CBSA) defined by the Office of Management and Budget (OMB).\n\nUsers are advised to use the Federal Reserve Board of Governors' data dictionary (https://www.federalreserve.gov/apps/mdrm/data-dictionary) to retrieve detailed information for specific call items.\n\nThis series is calculated by the Federal Reserve Bank of St. Louis using raw data that are collected by the FFIEC. Raw data can be found at https://cdr.ffiec.gov/public/."
+}

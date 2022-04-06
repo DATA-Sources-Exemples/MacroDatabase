@@ -1,0 +1,18 @@
+{
+  "id": "SLRTCR03G7Q661S",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Retail Trade Sales: Passenger Car Registrations for the Group of Seven (DISCONTINUED)",
+  "observation_start": "1968-04-01",
+  "observation_end": "2017-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2010=1",
+  "units_short": "Index 2010=1",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2018-01-18 12:40:52-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: SLRTCR03\nOECD unit ID: IXOBSA\nOECD country ID: G7M\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

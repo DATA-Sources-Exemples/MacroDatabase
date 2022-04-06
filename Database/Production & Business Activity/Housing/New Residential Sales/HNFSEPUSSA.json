@@ -1,0 +1,17 @@
+{
+  "id": "HNFSEPUSSA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New One Family Homes for Sale in the United States",
+  "observation_start": "1963-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-23 09:01:08-05",
+  "popularity": 42,
+  "group_popularity": 42
+}

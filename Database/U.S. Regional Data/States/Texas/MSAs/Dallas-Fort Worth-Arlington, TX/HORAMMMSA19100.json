@@ -1,0 +1,18 @@
+{
+  "id": "HORAMMMSA19100",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Market Hotness: Hotness Rank in Dallas-Fort Worth-Arlington, TX (CBSA)",
+  "observation_start": "2018-08-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Rank Change",
+  "units_short": "Rank Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 11:05:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Market hotness rank for the specified zip code, county, or metro area's compared to all other zip codes, counties and metro areas nationally. A rank value of 1 is considered the hottest in the country.\n\nThe change in Hotness rank from the previous month. A positive value indicates a market has cooled down (moved down in ranking), and a negative value indicates a market has heated up (moved up in ranking).\n\nWith the release of its November 2021 housing trends report, Realtor.com\u00ae incorporated a new and improved methodology for capturing and reporting housing inventory trends and metrics. The new methodology uses the latest and most accurate data mapping of listing statuses to yield a cleaner and more consistent measurement of active listings at both the national and local level. The methodology has also been adjusted to better account for missing data in some fields including square footage. Most areas across the country will see minor changes with a smaller handful of areas seeing larger updates. As a result of these changes, the data released since December 2021 will not be directly comparable with previous data releases (files downloaded before December 2021) and Realtor.com\u00ae economics blog posts. However, future data releases, including historical data, will consistently apply the new methodology. More details are available at the source's Real Estate Data Library (https://www.realtor.com/research/data/)."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DRBLOBS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Delinquency Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets",
+  "observation_start": "1987-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-23 15:04:36-06",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
+}

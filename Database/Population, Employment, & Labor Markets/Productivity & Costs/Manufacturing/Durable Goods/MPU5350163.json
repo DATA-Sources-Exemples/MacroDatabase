@@ -1,0 +1,18 @@
+{
+  "id": "MPU5350163",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturing Durable Goods Sector: Transportation Equipment: Contribution of Information Capital Intensity",
+  "observation_start": "1988-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-01-31 10:02:17-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Contribution of information capital intensity is the portion of labor productivity growth attributed to information or data that has intrinsic value which can be shared and leveraged within and between organizations. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU5350163"
+}

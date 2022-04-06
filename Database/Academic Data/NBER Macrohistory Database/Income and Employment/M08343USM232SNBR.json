@@ -1,0 +1,18 @@
+{
+  "id": "M08343USM232SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Average Hourly Earnings, Production Workers, Manufacturing for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1968-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "1957-1959 Dollars",
+  "units_short": "1957-1959 $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:27:39-05",
+  "popularity": 31,
+  "group_popularity": 31,
+  "notes": "An Overlapping Year, 1947, Was Derived From The 1932-1946 Data. The Series Is Considered Continuous. Discrepancies May Be Attributed To Differences In Rounding Methods. Source: For 1932-1946, The Data Have Been Derived By Dividing \"Average Hourly Earnings, Manufacturing, Total, Bls\" Seasonally Adjusted By Ibm, By The \"Index Of Consumer Prices, All Items\"; For 1947-1966, Bureau Of The Census \"Business Cycle Developments\" June, 1968; For 1968, See Current Issues Of \"Business Conditions Digest.\"\n\nThis NBER data series m08343 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08343"
+}

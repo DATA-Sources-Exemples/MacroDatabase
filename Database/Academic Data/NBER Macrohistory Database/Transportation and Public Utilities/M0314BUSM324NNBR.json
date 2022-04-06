@@ -1,0 +1,18 @@
+{
+  "id": "M0314BUSM324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Street Railway and Bus Fares for United States",
+  "observation_start": "1933-01-01",
+  "observation_end": "1943-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:01:06-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1914-1936 (2)--Original Data, 1933-1943. The Fare Index Is For The Average Street Railway Fare In All U.S. Cities With A Population Of 50,000 Or More, Except New York City, And Weighted According To Population. Beginning In 1933 Bus Fares Were Included. Source: Data For 1933-1935 And June 1940-December 1943: Direct From F.S. Kalberly. Data For 1936-1939: \"Public Utilities\", Moody'S Manual Of Investments.\n\nThis NBER data series m03014b appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03014b"
+}

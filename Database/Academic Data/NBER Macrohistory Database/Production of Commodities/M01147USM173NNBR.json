@@ -1,0 +1,18 @@
+{
+  "id": "M01147USM173NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Solid and Cushion Tires for United States",
+  "observation_start": "1920-11-01",
+  "observation_end": "1937-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data, Up To 1929, Are Estimated To Represent 75-80% Of The Industry; 1929-1933, About 80%; 1934-July 1935, 97%; And 81% Thereafter. Data Cover\"Industrial Pneumatic And Solid Truck, Tractor, And Trailer Tires, Plus Solids And Cushions For Highway Transportation.\" In 1937, The Production Of Solids Alone Was 1,600 Tires In The Peak Months Of April, May, And June. Source: Survey Of Current Business, June 1927, P.21; 1932 Annual Supplement And Successive Issues.\n\nThis NBER data series m01147 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01147"
+}

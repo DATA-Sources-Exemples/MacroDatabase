@@ -1,2 +1,3 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id          | title                                                                                   | observation_start   | observation_end   |
+|-------------|-----------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP49020 | Total Per Capita Real Gross Domestic Product for Winchester, VA-WV (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |

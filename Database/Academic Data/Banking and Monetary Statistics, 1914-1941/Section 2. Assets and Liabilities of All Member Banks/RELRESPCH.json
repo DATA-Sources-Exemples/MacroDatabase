@@ -1,0 +1,18 @@
+{
+  "id": "RELRESPCH",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Central Reserve City Member Banks in Chicago, Classification of Loans: Real Estate Loans: On Residential Property",
+  "observation_start": "1938-12-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-06-29 10:17:00-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series may have irregularities or important features that are not disclosed here. To see whether this is the case, please consult Part 1, Section 2 in the original source at: https://fraser.stlouisfed.org/scribd/?item_id=6408&filepath=/docs/publications/bms/1914-1941/BMS14-41_complete.pdf&start_page=1#scribd-open details can be found in the footnotes of each table as well as the introductory material for Section 2."
+}

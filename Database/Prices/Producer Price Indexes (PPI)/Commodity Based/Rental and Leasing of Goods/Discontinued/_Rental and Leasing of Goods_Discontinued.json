@@ -1,8 +1,8 @@
 {
   "WPS4423": {
     "id": "WPS4423",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -16,12 +16,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPS442301": {
     "id": "WPS442301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -35,12 +35,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPU4422": {
     "id": "WPU4422",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -54,12 +54,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPU4423": {
     "id": "WPU4423",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -73,12 +73,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPU442201": {
     "id": "WPU442201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -92,12 +92,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPU442301": {
     "id": "WPU442301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -111,12 +111,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPU44220101": {
     "id": "WPU44220101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -130,12 +130,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   },
   "WPU44230101": {
     "id": "WPU44230101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -149,6 +149,6 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Rental and Leasing of Goods"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "id": "RGMPREALUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Gross Domestic Product: Private Industries: Finance, Insurance, Real Estate, Rental, and Leasing: Real Estate and Rental and Leasing: Real Estate for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:48-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The term \"real estate\" is used in the SIC system and in NAICS, but it does not have the same definition in both systems.\n\nSIC definition: This major group includes real estate operators, and owners and lessors of real property, as well as buyers, sellers, developers, agents, and brokers.\n\nNAICS definition: Industries in the Real Estate subsector group establishments that are primarily engaged in renting or leasing real estate to others; managing real estate for others; selling, buying, or renting real estate for others; and providing other real estate related services, such as appraisal services.\n\nThis subsector includes equity Real Estate Investment Trusts (REITs) that are primarily engaged in leasing buildings, dwellings, or other real estate property to others. Mortgage REITs are classified in Subsector 525, Funds, Trusts, and Other Financial Vehicles.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

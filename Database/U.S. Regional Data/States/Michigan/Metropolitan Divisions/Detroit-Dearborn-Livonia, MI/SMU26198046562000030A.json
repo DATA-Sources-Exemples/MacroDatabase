@@ -1,0 +1,17 @@
+{
+  "id": "SMU26198046562000030A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Weekly Earnings of Production Employees: Health Care and Social Assistance in Detroit-Dearborn-Livonia, MI (MD)",
+  "observation_start": "2003-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Week",
+  "units_short": "$ per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 05:35:16-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

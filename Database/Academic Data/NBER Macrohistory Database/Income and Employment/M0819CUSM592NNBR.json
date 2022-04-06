@@ -1,0 +1,18 @@
+{
+  "id": "M0819CUSM592NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Employment, Transportation Equipment for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1956-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Production Workers",
+  "units_short": "Thous. Of Production Workers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1919-1924 (2)-- Seasonally Adjusted Data, 1923-1942 (3)--Original Data, 1939-1956. Source: Bureau Of Labor Statistics, For 1939-1953 Data: Employment, Hours, And Earnings, Manufacturing Division, Durable Goods Subdivision, Transportation Equipment, Releases Ls53-2672, February 1953 And May 1955; For 1954-1956: Employment And Earnings, June 1956 And Following Issues.\n\nThis NBER data series m08019c appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08019c"
+}

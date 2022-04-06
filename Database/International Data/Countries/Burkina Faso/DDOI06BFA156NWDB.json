@@ -1,0 +1,18 @@
+{
+  "id": "DDOI06BFA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "5-Bank Asset Concentration for Burkina Faso",
+  "observation_start": "1999-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-10-21 13:54:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Assets of five largest banks as a share of total commercial banking assets. Total assets include total earning assets, cash and due from banks, foreclosed real estate, fixed assets, goodwill, other intangibles, current tax assets, deferred tax, discontinued operations and other assets.\n\nRaw data are from Bankscope. (Sum(data2025) for five largest banks in Bankscope) / (Sum(data2025) for all banks in Bankscope). Only reported if number of banks in Bankscope is 5 or more. (Calculated from underlying bank-by-bank unconsolidated data from Bankscope)\n\nSource Code: GFDD.OI.06"
+}

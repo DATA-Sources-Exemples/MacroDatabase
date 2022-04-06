@@ -1,0 +1,17 @@
+{
+  "id": "H0RESPPLLAXAWXCH1NWW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities and Capital: Liabilities: Funds From American International Group, Inc. Asset Dispositions, Held as Agent: Change in Week Average From Previous Week Average (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2011-01-26",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-08-28 09:10:23-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

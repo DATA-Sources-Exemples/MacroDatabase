@@ -1,7 +1,7 @@
 {
   "id": "WPUFD41312",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Final Demand: Private Capital Equipment",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:56:24-05",
   "popularity": 4,
-  "group_popularity": 19
+  "group_popularity": 23
 }

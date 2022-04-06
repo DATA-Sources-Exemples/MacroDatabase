@@ -1,22 +1,36 @@
 | Folder         |   Files / Folders |
 |----------------|-------------------|
-| South Korea    |                 1 |
-| Sweden         |                 2 |
-| Taiwan         |                 2 |
-| Ireland        |                 2 |
-| Belgium        |                 2 |
-| Sri Lanka      |                 2 |
-| Brazil         |                 2 |
-| Netherlands    |                 2 |
-| Venezuela      |                 1 |
-| New Zealand    |                 2 |
-| Thailand       |                 2 |
-| Switzerland    |                 2 |
-| Euro           |                 2 |
-| Malaysia       |                 2 |
-| Germany        |                 2 |
-| Japan          |                 2 |
-| Canada         |                 2 |
-| Italy          |                 2 |
-| United Kingdom |                 2 |
-| Greece         |                 2 |
+| Sweden         |                 1 |
+| Norway         |                 1 |
+| Sri Lanka      |                 1 |
+| Brazil         |                 1 |
+| France         |                 1 |
+| Belgium        |                 1 |
+| Netherlands    |                 1 |
+| Hong Kong      |                 1 |
+| Malaysia       |                 1 |
+| Spain          |                 1 |
+| South Korea    |                 5 |
+| Australia      |                 1 |
+| United Kingdom |                 1 |
+| Germany        |                 1 |
+| Venezuela      |                 5 |
+| Taiwan         |                 1 |
+| Portugal       |                 1 |
+| Ireland        |                 1 |
+| Switzerland    |                 1 |
+| Japan          |                 1 |
+| China          |                 1 |
+| Singapore      |                 1 |
+| Mexico         |                 1 |
+| South Africa   |                 1 |
+| India          |                 1 |
+| Italy          |                 1 |
+| Denmark        |                 1 |
+| New Zealand    |                 1 |
+| Euro           |                 5 |
+| Thailand       |                 1 |
+| Austria        |                 1 |
+| Finland        |                 1 |
+| Greece         |                 1 |
+| Canada         |                 1 |

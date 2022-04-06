@@ -1,0 +1,18 @@
+{
+  "id": "M01196GB00LONM366NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Tin Deliveries for London, Great Britain",
+  "observation_start": "1893-01-01",
+  "observation_end": "1939-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Long Tons",
+  "units_short": "Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For Details See The Bulletin Of The Statistical Office Of The International Tin Research And Development Council. Source: Official Daily Market Reports Of The New York Metal Exchange; Data For 1935-1936 Directly From Supplement To The Daily Market Report Of The Commodity Exchange, Inc.\n\nThis NBER data series m01196 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01196"
+}

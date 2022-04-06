@@ -1,0 +1,18 @@
+{
+  "id": "DDSM01QAA066NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Volatility of Stock Price Index for Qatar",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:25:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Volatility of stock price index is the 360-day standard deviation of the return on the national stock market index. (Bloomberg)\n\nSource Code: GFDD.SM.01"
+}

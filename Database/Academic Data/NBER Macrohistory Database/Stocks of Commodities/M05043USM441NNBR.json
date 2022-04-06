@@ -1,0 +1,18 @@
+{
+  "id": "M05043USM441NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Ethyl Alcohol Stocks, at Warehouses for United States",
+  "observation_start": "1920-05-01",
+  "observation_end": "1938-05-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Proof Gallons",
+  "units_short": "Mil. of Proof Gallons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:47:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "According To The Scb 1936 Supplement (P. 167), Data Were Compiled By The U.S. Treasury Department, Bureau Of Internal Revenue And Represent Complete Coverage Of The Industry. The Amount Of Alcohol Withdrawn From Bonded Warehouses Represents Only The Amounts Withdrawn Tax-Paid And For Denaturation. Additional Quantities Are Withdrawn For Hospital, Scientific, And Educational Use; For Use Of U.S. And Subdivisions, For Exports, And For Transfer To Vinegar Plants. These Transactions, Of Course, Affect The Stock Figures Which Represent The Amount Remaining In Warehouses At The End Of Each Month. Stocks Are Also Affected By Losses. According To The Scb 1938 Supplement (Pp. 4 And 90), Coverage Includes Operations In Hawaii And Puerto Rico And Figures For July 1926-May 1928 Are Erroneous As Published In The Survey And Should Not Be Used. Source: U.S. Department Of Commerce, Survey Of Current Business, Data For May 1920-1922: Direct From Scb Files To NBER, October 31, 1938; Data For 1923-1931: Scb 1932 Annual Supplement, Pp. 124-125; Data For 1932-1938: 1932 Supplement And Following Issues\n\nThis NBER data series m05043 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05043"
+}

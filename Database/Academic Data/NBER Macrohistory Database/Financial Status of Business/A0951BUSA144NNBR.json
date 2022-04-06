@@ -1,0 +1,18 @@
+{
+  "id": "A0951BUSA144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Changes in Total Funds, Large Manufacturing Corporation for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1943-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:05:26-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1915-1922 (2)--Original Data, 1921-1943. Source: Friedrich A. Lutz, Corporate Cash Balances 1914-1943, Manufacturing And Trade (1945), Pp. 116 And 118.\n\nThis NBER data series a09051b appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: a09051b"
+}

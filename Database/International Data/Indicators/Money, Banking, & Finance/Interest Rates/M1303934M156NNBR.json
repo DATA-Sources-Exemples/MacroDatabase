@@ -1,0 +1,18 @@
+{
+  "id": "M1303934M156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Excess of Paris Open Market Discount Rate Over Berlin Open Market Discount Rate for France and Germany",
+  "observation_start": "1876-01-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Computed By NBER By Subtracting Series (Berlin Open Market Discount Rate) From Series (Paris Open Market Discount Rate); Berlin Data Are From Die Reichsbank And Statistiches Jahrbuch Fur Das Deutsche Reich; Paris Data Are From The Economist And The National Monetary Commission.\n\nThis NBER data series m13039 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13039"
+}

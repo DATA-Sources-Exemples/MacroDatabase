@@ -1,0 +1,18 @@
+{
+  "id": "DFDHRS2Q224SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in gross domestic purchases: Personal consumption expenditures: Durable goods: Furnishings and durable household equipment",
+  "observation_start": "1947-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-01-27 07:58:54-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: DFDHRS\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

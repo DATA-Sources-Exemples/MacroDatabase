@@ -1,0 +1,18 @@
+{
+  "id": "A0118ADEA392NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Rye Crop for Germany",
+  "observation_start": "1878-01-01",
+  "observation_end": "1898-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Bushels (56 Pounds)",
+  "units_short": "Mil. Of Bushels (56 Pounds)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:47-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1878-1898 (2)--Original Data, 1893-1917 (3)--Original Data, 1911-1937 (4)--Original Data, 1933-1944. Data Are Converted By NBER To Bushels Fom Original Units Of Metric Tons By Dividing Number Of Metric Tons By 39.368. Data Are For Estimates Made In Most States By The Communal Authorities. Source: Data For 1878-1885: Statistiches Handbuch, I, 1907, P. 148. Data For 1886-1898: Statistiches Jahrbuch, 1890 And Following Issues.\n\nThis NBER data series a01018a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01018a"
+}

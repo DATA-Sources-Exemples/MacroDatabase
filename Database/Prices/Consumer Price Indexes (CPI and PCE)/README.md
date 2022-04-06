@@ -1,10 +1,12 @@
 | Folder                        |   Files / Folders |
 |-------------------------------|-------------------|
-| Other Goods and Services      |                34 |
-| Transportation                |                58 |
-| Recreation                    |                17 |
-| Medical Care                  |                26 |
-| Commodity and Services Groups |                46 |
-| Apparel                       |                26 |
-| Education and Communication   |                40 |
-| Food and Beverages            |                75 |
+| Transportation                |                59 |
+| Medical Care                  |                27 |
+| Housing                       |                 1 |
+| Education and Communication   |                41 |
+| Recreation                    |                18 |
+| Other Goods and Services      |                35 |
+| Special Indexes               |                 1 |
+| Apparel                       |                27 |
+| Food and Beverages            |                76 |
+| Commodity and Services Groups |                47 |

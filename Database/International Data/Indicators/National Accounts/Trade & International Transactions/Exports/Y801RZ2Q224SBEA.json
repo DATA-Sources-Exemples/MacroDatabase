@@ -1,0 +1,18 @@
+{
+  "id": "Y801RZ2Q224SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to Percent Change in Real Exports of Goods and Services by Type of Product: Exports of services: Travel (for all purposes including education)",
+  "observation_start": "1967-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 08:00:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: Y801RZ\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "SMU06422209093200001A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Local Government Excluding Educational Services in Santa Rosa, CA (MSA)",
+  "observation_start": "2003-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 05:44:37-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

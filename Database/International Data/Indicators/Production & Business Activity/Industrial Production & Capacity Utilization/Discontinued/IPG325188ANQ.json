@@ -1,0 +1,18 @@
+{
+  "id": "IPG325188ANQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Industrial Production: Nondurable Goods: Acids, phosphates, and sulfates (DISCONTINUED)",
+  "observation_start": "1972-01-01",
+  "observation_end": "2015-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2007=100",
+  "units_short": "Index 2007=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-07-15 08:48:04-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 325188pt.\n\nSource Code: IP.G325188A.N"
+}

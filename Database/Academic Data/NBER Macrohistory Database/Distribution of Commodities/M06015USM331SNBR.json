@@ -1,0 +1,18 @@
+{
+  "id": "M06015USM331SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Wholesale Trade Sales, Dry Goods for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1930-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 13:50:55-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Concerning 1930 Data: The Federal Reserve Board Issued A Mimeographed Sheet Which Gave Percentage Changes In Wholesale Trade In Dry Goods (The Month Of One Year Over The Month Of The Previous Year). These Percentages Were Used To Carry The Index From December 1929 To December 1930. Source: Federal Reserve Board, Bulletin Of December 1927, Pp. 826-827, And Following Issues\n\nThis NBER data series m06015 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06015"
+}

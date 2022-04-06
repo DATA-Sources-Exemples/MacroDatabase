@@ -1,0 +1,17 @@
+{
+  "id": "HSTFC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Houses Sold by Type of Financing, Cash Purchase",
+  "observation_start": "1988-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-26 09:01:15-06",
+  "popularity": 29,
+  "group_popularity": 29
+}

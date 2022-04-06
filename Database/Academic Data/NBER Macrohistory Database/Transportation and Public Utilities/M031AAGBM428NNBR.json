@@ -1,0 +1,18 @@
+{
+  "id": "M031AAGBM428NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railway Passenger Traffic Excluding London Underground for Great Britain",
+  "observation_start": "1920-07-01",
+  "observation_end": "1948-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Passenger Journeys",
+  "units_short": "Mil. Of Passenger Journeys",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1948 (2)--Original Data, 1947-1952. Coverage Excludes Season Ticket Holders; Standard Gauge Railways. Data For 1920-1923 Were Computed By Deducting \"London Electric\" Which Includes Metropolitan District London Electric, Central London, And City And South London Railways And \"Metropolitan\" Which Includes Hammersmith And City Joint Railway, From Total Great Britain Passenger Traffic. Data For 1924-1925 Were Computed By Deducting \"Metropolitan\" From The Group \"Excluding London Tubes And Metropolitan District.\" Data For 1926-July 1933 Were Computed By Deducting \"Metropolitian\" And \"Hammersmith And City\" From \"Excluding London Tubes And Metropolitan District Railways.\" A General Strike Affected The Figure For May 1926. Beginning In Janary 1928, London Electric Includes: Central London City And South London Electric Metropolitan District, White Chapel And Bow Railways, A Portion Of Bookings From Stations On The Metropolitan District Joint (City Lines And Extensions) Railways. An Overlap For 1927 Shows This To Be Comparable With London Electric Given Previously. Data Beginning July 1933 Were Computed By Deducting \"Hammersmith And City\" From The Group \"Excluding Railway Undertakings Of London Passenger Transport And White Chapel And Bow Railways.\" London Transport Board Undertakings Are Comparable To \"London Electric\" Plus \"Metropolitan\", Etc. The Coronation Of George Vii On May 12, 1937 Affected The Monthly Figure. Data For 1944-1948 Cover Main Lines Only. Source: Data For 1920-1939: Ministry Of Transport, Railway Statistics, No. 8, 1920, And Following Issues; Data For 1944-1948: Central Statistics Office, Monthly Digest Of Statistics\n\nThis NBER data series m03011aa appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03011aa"
+}

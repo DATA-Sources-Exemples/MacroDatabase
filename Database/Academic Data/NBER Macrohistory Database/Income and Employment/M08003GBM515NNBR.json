@@ -1,0 +1,18 @@
+{
+  "id": "M08003GBM515NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Percentage Employed, Metal Engineering and Shipbuilding Workers, Trade Union Members for Great Britain",
+  "observation_start": "1888-01-01",
+  "observation_end": "1939-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent of Total Membership",
+  "units_short": "% Of Total Membership",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:27:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Computed By NBER By Subtraction Of The Unemployment Rate From 100%. Figure For March 1912 Was Affected By The National Coal Dispute. Indications From Labour Gazette (Computation) Show October 1918 To Have The Lowest Unemployment Point (0.08). April-August 1921 Figures Were Affected By The General Coal Stoppage, As Were The Figures For May-December, 1926. Source: Computed By NBER From Data In Abstract Of Labor Statistics, 10Th Abstract, P. 3; 17Th Abstract, P. 8; 19Th Abstract, P. 81.\n\nThis NBER data series m08003 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08003"
+}

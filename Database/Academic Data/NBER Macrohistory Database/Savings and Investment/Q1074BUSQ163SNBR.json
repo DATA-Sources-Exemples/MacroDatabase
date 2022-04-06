@@ -1,0 +1,18 @@
+{
+  "id": "Q1074BUSQ163SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Ratio of Personal Saving to Disposable Personal Income for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1967-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 15:18:02-05",
+  "popularity": 1,
+  "group_popularity": 13,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1939-1946 (2)--Seasonally Adjusted, 1946-1967. Source: U.S. Department Of Commerce, Data For 1946-1947: A Supplement To The Survey Of Current Business, \"The National Income And Product Accounts Of The United States, 1929-1965, \" Statistical Tables, P. 34; Data For 1948-1967: Business Cycle Developments, July 1967\n\nThis NBER data series q10174b appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10174b"
+}

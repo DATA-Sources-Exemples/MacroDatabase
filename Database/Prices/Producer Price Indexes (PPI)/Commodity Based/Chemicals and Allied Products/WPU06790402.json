@@ -1,7 +1,7 @@
 {
   "id": "WPU06790402",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Synthetic Resin and Rubber Adhesives",
   "observation_start": "1983-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:52-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 9,
+  "group_popularity": 9
 }

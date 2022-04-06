@@ -1,0 +1,18 @@
+{
+  "id": "Q08358USQ027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Compensation of Employees for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1968-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:19:09-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Compensation Of Employees Is A Component Of National Income And Includes Wages And Salaries As Well As Supplements To Wages And Salaries. Data Are Annual Rates. Source: For 1946-1963 Data: The National Income And Product Accounts Of The United States, 1929-1965 - Statistical Tables; For 1965-1968 Data: Survey Of Current Business, July 1968 And Subsequent Issues.\n\nThis NBER data series q08358 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08358"
+}

@@ -1,8 +1,8 @@
 {
   "PPIIDC": {
     "id": "PPIIDC",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Industrial Commodities",
     "observation_start": "1913-01-01",
     "observation_end": "2022-02-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:06-05",
-    "popularity": 42,
-    "group_popularity": 42,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 43,
+    "group_popularity": 43,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPS032601": {
     "id": "WPS032601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Cotton Yarns",
     "observation_start": "1984-01-01",
     "observation_end": "2022-02-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:58-05",
-    "popularity": 3,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 6,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPS032607": {
     "id": "WPS032607",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Spun Noncellulosic and Natural Fiber (Excluding Cotton and Wool) Yarns",
     "observation_start": "2009-01-01",
     "observation_end": "2012-12-01",
@@ -51,12 +51,12 @@
     "last_updated": "2018-02-15 13:01:05-06",
     "popularity": 2,
     "group_popularity": 9,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPS033703": {
     "id": "WPS033703",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade, Silk, and Other Natural Fiber (Excluding Cotton/Wool) Broadwoven Fabrics",
     "observation_start": "2010-01-01",
     "observation_end": "2012-12-01",
@@ -67,14 +67,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2018-02-15 13:01:05-06",
-    "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 2,
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03": {
     "id": "WPU03",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -85,14 +85,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:14-05",
-    "popularity": 20,
-    "group_popularity": 20,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 22,
+    "group_popularity": 22,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03T15M05": {
     "id": "WPU03T15M05",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Industrial Commodities Less Fuels",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -105,12 +105,12 @@
     "last_updated": "2022-03-15 07:52:06-05",
     "popularity": 37,
     "group_popularity": 37,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU031": {
     "id": "WPU031",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Synthetic Fibers",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -121,14 +121,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:10-05",
-    "popularity": 26,
-    "group_popularity": 26,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 30,
+    "group_popularity": 30,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032": {
     "id": "WPU032",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Processed Yarns and Threads",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -141,12 +141,12 @@
     "last_updated": "2022-03-15 07:53:37-05",
     "popularity": 3,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033": {
     "id": "WPU033",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 08:04:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034": {
     "id": "WPU034",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -175,14 +175,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:53-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038": {
     "id": "WPU038",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Apparel and Other Fabricated Textile Products",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -195,12 +195,12 @@
     "last_updated": "2022-03-15 08:04:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU039": {
     "id": "WPU039",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Miscellaneous Textile Products/Services",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -213,12 +213,12 @@
     "last_updated": "2022-03-15 08:04:04-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0315": {
     "id": "WPU0315",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Unprocessed Filament Yarns",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -231,12 +231,12 @@
     "last_updated": "2022-03-15 07:57:52-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0326": {
     "id": "WPU0326",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Yarns",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -249,12 +249,12 @@
     "last_updated": "2022-03-15 07:56:39-05",
     "popularity": 4,
     "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0327": {
     "id": "WPU0327",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Thread",
     "observation_start": "1975-12-01",
     "observation_end": "2022-01-01",
@@ -267,12 +267,12 @@
     "last_updated": "2022-02-15 08:00:38-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0337": {
     "id": "WPU0337",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Broadwoven Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -285,12 +285,12 @@
     "last_updated": "2022-03-15 08:04:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0338": {
     "id": "WPU0338",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Knit Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -303,12 +303,12 @@
     "last_updated": "2022-03-15 08:04:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0339": {
     "id": "WPU0339",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Tire Cord and Tire Fabric",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -319,14 +319,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:53-05",
-    "popularity": 3,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 2,
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0342": {
     "id": "WPU0342",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Broadwoven Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -339,12 +339,12 @@
     "last_updated": "2022-03-15 08:04:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0344": {
     "id": "WPU0344",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Woven and Braided Narrow Fabrics",
     "observation_start": "1976-06-01",
     "observation_end": "2022-02-01",
@@ -357,12 +357,12 @@
     "last_updated": "2022-03-15 08:04:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0345": {
     "id": "WPU0345",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Nonwoven Fabrics and Felts",
     "observation_start": "1976-06-01",
     "observation_end": "2022-02-01",
@@ -373,14 +373,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:52-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0346": {
     "id": "WPU0346",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Coated Fabrics, Not Rubberized",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -391,14 +391,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:51-05",
-    "popularity": 2,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 1,
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0347": {
     "id": "WPU0347",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Screen Printed Textile Materials, Embroideries, and Lace Goods",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -411,12 +411,12 @@
     "last_updated": "2022-03-15 08:04:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0348": {
     "id": "WPU0348",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Knit Fabrics, Finished in Knitting Mills",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -429,12 +429,12 @@
     "last_updated": "2022-03-15 08:04:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0381": {
     "id": "WPU0381",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Apparel",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -445,14 +445,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:55:52-05",
-    "popularity": 5,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0382": {
     "id": "WPU0382",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Textile House Furnishings",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -465,12 +465,12 @@
     "last_updated": "2022-03-15 07:57:50-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0383": {
     "id": "WPU0383",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Industrial and Other Fabricated Products",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -483,12 +483,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0391": {
     "id": "WPU0391",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile Materials Not Elsewhere Classified and Processed Textile Waste",
     "observation_start": "1985-06-01",
     "observation_end": "2018-09-01",
@@ -499,14 +499,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2018-10-10 08:03:55-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0393": {
     "id": "WPU0393",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile and Fabric Finishing, Except Broadwoven",
     "observation_start": "2001-12-01",
     "observation_end": "2018-09-01",
@@ -519,12 +519,12 @@
     "last_updated": "2018-10-10 08:03:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU031502": {
     "id": "WPU031502",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Noncellulosic Fibers",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -537,12 +537,12 @@
     "last_updated": "2022-03-15 08:04:54-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032601": {
     "id": "WPU032601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Cotton Yarns",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -553,14 +553,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:37-05",
-    "popularity": 6,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 4,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032602": {
     "id": "WPU032602",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Wool Yarns, Including New, Reused, and Reprocessed",
     "observation_start": "1947-01-01",
     "observation_end": "2016-10-01",
@@ -573,12 +573,12 @@
     "last_updated": "2017-01-13 08:31:34-06",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032603": {
     "id": "WPU032603",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Synthetic Yarns",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -590,13 +590,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:54-05",
     "popularity": 1,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032604": {
     "id": "WPU032604",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Textured and Twisted Yarns",
     "observation_start": "1988-12-01",
     "observation_end": "2022-02-01",
@@ -609,12 +609,12 @@
     "last_updated": "2022-03-15 07:56:39-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032607": {
     "id": "WPU032607",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Spun Noncellulosic and Natural Fiber (Excluding Cotton and Wool) Yarns",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -625,14 +625,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:51-05",
-    "popularity": 4,
+    "popularity": 3,
     "group_popularity": 9,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU032705": {
     "id": "WPU032705",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Thread",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -645,12 +645,12 @@
     "last_updated": "2022-02-15 08:00:37-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033701": {
     "id": "WPU033701",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Cotton Broadwoven Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2018-07-01",
@@ -663,12 +663,12 @@
     "last_updated": "2018-08-09 08:04:03-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033703": {
     "id": "WPU033703",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade, Silk, and Other Natural Fiber (Excluding Cotton/Wool) Broadwoven Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -680,13 +680,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:55:52-05",
     "popularity": 1,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033803": {
     "id": "WPU033803",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Weft (Circular) Knit Fabrics, Greige Goods (Excluding Hosiery)",
     "observation_start": "1981-06-01",
     "observation_end": "2022-02-01",
@@ -699,12 +699,12 @@
     "last_updated": "2022-03-15 08:04:54-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033804": {
     "id": "WPU033804",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Warp Knit Fabrics, Greige Goods (Excluding Hosiery)",
     "observation_start": "1984-01-01",
     "observation_end": "2022-02-01",
@@ -717,12 +717,12 @@
     "last_updated": "2022-03-15 08:04:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033901": {
     "id": "WPU033901",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Tire Cord and Tire Fabrics",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -734,13 +734,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:51-05",
     "popularity": 4,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034201": {
     "id": "WPU034201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Cotton Broadwoven Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-01-01",
@@ -753,12 +753,12 @@
     "last_updated": "2022-02-15 07:52:11-06",
     "popularity": 22,
     "group_popularity": 22,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034202": {
     "id": "WPU034202",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Wool Broadwoven Fabrics and Felts",
     "observation_start": "1947-01-01",
     "observation_end": "2018-12-01",
@@ -771,12 +771,12 @@
     "last_updated": "2019-05-09 07:55:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034203": {
     "id": "WPU034203",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Manmade, Silk, and Other Natural Fiber (Excluding Cotton and Wool) Broadwoven Fabrics",
     "observation_start": "1975-12-01",
     "observation_end": "2022-02-01",
@@ -787,14 +787,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:09-05",
-    "popularity": 28,
-    "group_popularity": 28,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 30,
+    "group_popularity": 30,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034402": {
     "id": "WPU034402",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Woven and Braided Narrow Fabrics",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -807,12 +807,12 @@
     "last_updated": "2022-03-15 08:04:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034503": {
     "id": "WPU034503",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Nonwoven Fabrics and Felts",
     "observation_start": "1976-06-01",
     "observation_end": "2022-02-01",
@@ -823,14 +823,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:39-05",
-    "popularity": 5,
+    "popularity": 4,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034601": {
     "id": "WPU034601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Coated Fabrics, Not Rubberized",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -842,13 +842,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:39-05",
     "popularity": 2,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034701": {
     "id": "WPU034701",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Screen Printed Textile and Apparel Materials and Embroideries",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -861,12 +861,12 @@
     "last_updated": "2022-03-15 08:04:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034801": {
     "id": "WPU034801",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Weft (Circular) Knit Fabrics, Knit and Finished in the Same Establishment (Excluding Hosiery)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -879,12 +879,12 @@
     "last_updated": "2022-03-15 08:04:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU034802": {
     "id": "WPU034802",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Warp Knit Goods, Knit and Finished in the Same Establishment",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -897,12 +897,12 @@
     "last_updated": "2022-03-15 08:04:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038104": {
     "id": "WPU038104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Miscellaneous Apparel and Accessories",
     "observation_start": "1983-12-01",
     "observation_end": "2022-02-01",
@@ -915,12 +915,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038106": {
     "id": "WPU038106",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's, Girls', and Infants' Cut and Sew Apparel",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -931,14 +931,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:51-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 5,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038107": {
     "id": "WPU038107",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Cut and Sew Apparel",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -951,12 +951,12 @@
     "last_updated": "2022-03-15 08:04:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038108": {
     "id": "WPU038108",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Apparel Made in Knitting Mills",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -969,12 +969,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038203": {
     "id": "WPU038203",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Textile House Furnishings",
     "observation_start": "1983-06-01",
     "observation_end": "2022-02-01",
@@ -987,12 +987,12 @@
     "last_updated": "2022-03-15 07:56:38-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038303": {
     "id": "WPU038303",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Industrial and Other Fabricated Products",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -1005,12 +1005,12 @@
     "last_updated": "2022-03-15 08:04:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU039101": {
     "id": "WPU039101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile Fibers, Yarns, and Fabrics, Not Elsewhere Classified",
     "observation_start": "1985-06-01",
     "observation_end": "2017-04-01",
@@ -1023,12 +1023,12 @@
     "last_updated": "2017-08-10 09:23:25-05",
     "popularity": 2,
     "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU039102": {
     "id": "WPU039102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile Waste",
     "observation_start": "1985-12-01",
     "observation_end": "2014-12-01",
@@ -1041,12 +1041,12 @@
     "last_updated": "2015-05-14 12:46:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU039301": {
     "id": "WPU039301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile and Fabric Finishing, Except Broadwoven",
     "observation_start": "2001-12-01",
     "observation_end": "2018-09-01",
@@ -1059,12 +1059,12 @@
     "last_updated": "2018-10-10 08:07:23-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03150241": {
     "id": "WPU03150241",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Noncellulosic Organic Fibers",
     "observation_start": "2005-06-01",
     "observation_end": "2022-02-01",
@@ -1077,12 +1077,12 @@
     "last_updated": "2022-03-15 07:57:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03260113": {
     "id": "WPU03260113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Carded Cotton Spun Yarns",
     "observation_start": "2000-12-01",
     "observation_end": "2022-02-01",
@@ -1093,14 +1093,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:17-05",
-    "popularity": 20,
-    "group_popularity": 20,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 23,
+    "group_popularity": 23,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03260206": {
     "id": "WPU03260206",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Wool Yarns, Including New, Reused, and Reprocessed",
     "observation_start": "2004-12-01",
     "observation_end": "2016-10-01",
@@ -1113,12 +1113,12 @@
     "last_updated": "2017-01-13 08:31:34-06",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03260304": {
     "id": "WPU03260304",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Synthetic Yarns",
     "observation_start": "1994-12-01",
     "observation_end": "2022-02-01",
@@ -1130,13 +1130,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:40-05",
     "popularity": 6,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03260403": {
     "id": "WPU03260403",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Textured/Crimped/Bulked Filament Yarns, Including Stretch Yarn, Made from Purchased Filament Yarn",
     "observation_start": "1996-12-01",
     "observation_end": "2022-02-01",
@@ -1149,12 +1149,12 @@
     "last_updated": "2022-03-15 07:55:52-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03260701": {
     "id": "WPU03260701",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Spun Noncellulosic and Natural Fiber (Excluding Cotton and Wool) Yarns",
     "observation_start": "2008-06-01",
     "observation_end": "2022-02-01",
@@ -1167,12 +1167,12 @@
     "last_updated": "2022-03-15 07:52:53-05",
     "popularity": 7,
     "group_popularity": 9,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03270501": {
     "id": "WPU03270501",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Thread",
     "observation_start": "2000-12-01",
     "observation_end": "2022-01-01",
@@ -1185,12 +1185,12 @@
     "last_updated": "2022-02-15 08:00:37-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03370104": {
     "id": "WPU03370104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Cotton Broadwoven Fabrics",
     "observation_start": "1994-12-01",
     "observation_end": "2018-07-01",
@@ -1203,12 +1203,12 @@
     "last_updated": "2018-08-09 08:01:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03370304": {
     "id": "WPU03370304",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade, Silk, and Other Natural Fiber (Excluding Cotton/Wool) Broadwoven Fabrics",
     "observation_start": "1994-12-01",
     "observation_end": "2022-02-01",
@@ -1220,13 +1220,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:37-05",
     "popularity": 2,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03380301": {
     "id": "WPU03380301",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Weft (Circular) Knit Fabrics, Greige Goods (Excluding Hosiery)",
     "observation_start": "1981-07-01",
     "observation_end": "2022-02-01",
@@ -1239,12 +1239,12 @@
     "last_updated": "2022-03-15 08:04:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03380401": {
     "id": "WPU03380401",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Warp Knit Fabrics, Greige Goods (Excluding Hosiery)",
     "observation_start": "1983-01-01",
     "observation_end": "2022-02-01",
@@ -1257,12 +1257,12 @@
     "last_updated": "2022-03-15 08:04:53-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03390101": {
     "id": "WPU03390101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Tire Cord and Tire Fabrics",
     "observation_start": "1984-06-01",
     "observation_end": "2022-02-01",
@@ -1274,13 +1274,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:40-05",
     "popularity": 5,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "group_popularity": 7,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03420104": {
     "id": "WPU03420104",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Cotton Broadwoven Fabrics",
     "observation_start": "1994-12-01",
     "observation_end": "2022-01-01",
@@ -1293,12 +1293,12 @@
     "last_updated": "2022-02-15 08:00:35-06",
     "popularity": 2,
     "group_popularity": 22,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03420209": {
     "id": "WPU03420209",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Wool Broadwoven Fabrics and Felts",
     "observation_start": "2003-12-01",
     "observation_end": "2018-12-01",
@@ -1311,12 +1311,12 @@
     "last_updated": "2019-05-09 07:54:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03440204": {
     "id": "WPU03440204",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Woven Narrow Fabrics (12 Inches or Less in Width)",
     "observation_start": "1991-07-01",
     "observation_end": "2022-02-01",
@@ -1329,12 +1329,12 @@
     "last_updated": "2022-03-15 08:04:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03440205": {
     "id": "WPU03440205",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Braided Narrow Fabrics (12 Inches or Less in Width)",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -1347,12 +1347,12 @@
     "last_updated": "2022-03-15 07:56:39-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03450321": {
     "id": "WPU03450321",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Nonwoven Fabrics",
     "observation_start": "1976-06-01",
     "observation_end": "2022-02-01",
@@ -1363,14 +1363,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:39-05",
-    "popularity": 8,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 6,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03450333": {
     "id": "WPU03450333",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Pressed, Punched, or Needled Felts, Excluding Hats",
     "observation_start": "2001-12-01",
     "observation_end": "2022-02-01",
@@ -1383,12 +1383,12 @@
     "last_updated": "2022-03-15 08:04:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03460102": {
     "id": "WPU03460102",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Vinyl Coated Fabrics, Including Expanded Vinyl Coated",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -1401,12 +1401,12 @@
     "last_updated": "2022-03-15 07:53:37-05",
     "popularity": 4,
     "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03460103": {
     "id": "WPU03460103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Coated or Laminated Fabrics and Coated Yarns, Including Impregnated Fabrics",
     "observation_start": "1985-06-01",
     "observation_end": "2022-02-01",
@@ -1419,12 +1419,12 @@
     "last_updated": "2022-03-15 08:04:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03470103": {
     "id": "WPU03470103",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Embroideries (Excluding Schiffli Machine Products) and Embroidery Contractors",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -1437,12 +1437,12 @@
     "last_updated": "2022-03-15 08:04:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03470105": {
     "id": "WPU03470105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Schiffli Machine Embroideries",
     "observation_start": "1985-06-01",
     "observation_end": "2018-03-01",
@@ -1455,12 +1455,12 @@
     "last_updated": "2018-12-11 09:31:02-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03470108": {
     "id": "WPU03470108",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Screen Printing on Garments, Apparel Accessories, and Other Fabric Articles, Excluding Labels",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1473,12 +1473,12 @@
     "last_updated": "2022-03-15 08:04:50-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03480101": {
     "id": "WPU03480101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Weft (Circular) Knit Fabrics, Knit and Finished in the Same Establishment (Excluding Hosiery)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1491,12 +1491,12 @@
     "last_updated": "2022-03-15 08:04:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03480201": {
     "id": "WPU03480201",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Warp Knit Goods, Knit and Finished in the Same Establishment",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1509,12 +1509,12 @@
     "last_updated": "2022-03-15 08:04:11-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810407": {
     "id": "WPU03810407",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Fur Products",
     "observation_start": "1983-12-01",
     "observation_end": "2017-01-01",
@@ -1525,14 +1525,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2017-02-14 08:30:53-06",
-    "popularity": 3,
-    "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 2,
+    "group_popularity": 2,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810414": {
     "id": "WPU03810414",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Fabric, Straw, and Felt Hats, Made from Purchased Materials",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -1545,12 +1545,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810415": {
     "id": "WPU03810415",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's, Girls', and Infants' Fabric, Straw, and Felt Hats, Made from Purchased Materials",
     "observation_start": "2009-12-01",
     "observation_end": "2017-06-01",
@@ -1563,12 +1563,12 @@
     "last_updated": "2017-07-13 09:46:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810416": {
     "id": "WPU03810416",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Hat Bodies and Fabric Caps, Made from Purchased Materials",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -1581,12 +1581,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810424": {
     "id": "WPU03810424",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Gloves and Mittens, Made from Purchased Materials",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -1597,14 +1597,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:51-05",
-    "popularity": 6,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 5,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810428": {
     "id": "WPU03810428",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Leather and Sheep-Lined Apparel, Made from Purchased Materials",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1617,12 +1617,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810441": {
     "id": "WPU03810441",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Apparel and Accessories, Not Elsewhere Classified",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -1635,12 +1635,12 @@
     "last_updated": "2022-03-15 07:57:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810601": {
     "id": "WPU03810601",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Knit Shirts and Blouses, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1653,12 +1653,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810602": {
     "id": "WPU03810602",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Woven Shirts and Blouses, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1671,12 +1671,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810611": {
     "id": "WPU03810611",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Dresses, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1689,12 +1689,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810623": {
     "id": "WPU03810623",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Skirts, Made from Purchased Fabrics",
     "observation_start": "1977-12-01",
     "observation_end": "2022-02-01",
@@ -1707,12 +1707,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810624": {
     "id": "WPU03810624",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Tailored Jackets and Vests, Except Fur and Leather, Made from Purchased Materials (MFPM)",
     "observation_start": "1977-12-01",
     "observation_end": "2021-03-01",
@@ -1725,12 +1725,12 @@
     "last_updated": "2021-08-12 07:59:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810631": {
     "id": "WPU03810631",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Slacks, Jeans, and Jean-Cut Casual Slacks (Excluding Sweatpants), Made from Purchased Materials (MFPM)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1743,12 +1743,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810632": {
     "id": "WPU03810632",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Swimwear, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1761,12 +1761,12 @@
     "last_updated": "2022-03-15 07:57:50-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810636": {
     "id": "WPU03810636",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Sweaters, Including Sweater Vests, Made from Purchased Fabrics",
     "observation_start": "2009-12-01",
     "observation_end": "2021-06-01",
@@ -1779,12 +1779,12 @@
     "last_updated": "2021-10-14 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810637": {
     "id": "WPU03810637",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Shorts, Including Tennis Skirts, Made from Purchased Fabrics",
     "observation_start": "2009-12-01",
     "observation_end": "2022-01-01",
@@ -1797,12 +1797,12 @@
     "last_updated": "2022-02-15 08:00:29-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810638": {
     "id": "WPU03810638",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Sweatpants, Bodysuits, Warm-Up Suits, Rompers, and Beachwear (Excluding Swimwear)",
     "observation_start": "2009-12-01",
     "observation_end": "2021-06-01",
@@ -1813,14 +1813,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-10-14 08:04:08-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810639": {
     "id": "WPU03810639",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Nontailored Coats, Jackets, Vests, and Washable Service Apparel, Made from Purchased Materials (MFPM)",
     "observation_start": "2009-12-01",
     "observation_end": "2022-02-01",
@@ -1833,12 +1833,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810641": {
     "id": "WPU03810641",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Underwear, Excluding Foundation Garments, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1851,12 +1851,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810642": {
     "id": "WPU03810642",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Nightwear, Excluding Robes and Dressing Gowns, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1869,12 +1869,12 @@
     "last_updated": "2022-03-15 08:04:09-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810645": {
     "id": "WPU03810645",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Robes and Dressing Gowns, Made from Purchased Fabrics",
     "observation_start": "1947-01-01",
     "observation_end": "2018-12-01",
@@ -1887,12 +1887,12 @@
     "last_updated": "2019-01-15 08:04:17-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810646": {
     "id": "WPU03810646",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Brassieres, Bandeaux, Corsets (Excluding Surgical), Girdles, and Combinations, Made from Purchased Materials (MFPM)",
     "observation_start": "1961-01-01",
     "observation_end": "2021-02-01",
@@ -1905,12 +1905,12 @@
     "last_updated": "2021-06-15 08:03:44-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810654": {
     "id": "WPU03810654",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Infants' Apparel, Made from Purchased Fabrics",
     "observation_start": "2011-12-01",
     "observation_end": "2021-06-01",
@@ -1923,12 +1923,12 @@
     "last_updated": "2021-10-14 08:04:08-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810701": {
     "id": "WPU03810701",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Separate Dress and Sport Trousers, Pants, and Slacks, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2020-08-01",
@@ -1941,12 +1941,12 @@
     "last_updated": "2020-11-13 07:57:46-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810702": {
     "id": "WPU03810702",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Jeans and Jean-Cut Casual Slacks, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2019-10-01",
@@ -1959,12 +1959,12 @@
     "last_updated": "2020-02-14 07:52:18-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810711": {
     "id": "WPU03810711",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Work Shirts, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2020-05-01",
@@ -1977,12 +1977,12 @@
     "last_updated": "2020-06-11 07:54:45-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810712": {
     "id": "WPU03810712",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Work Clothing and Washable Service Apparel (Excluding Work Shirts and Jeans), Made from Purchased Materials (MFPM)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -1995,12 +1995,12 @@
     "last_updated": "2022-03-15 07:56:38-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810721": {
     "id": "WPU03810721",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Knit Dress and Sport Shirts, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2013,12 +2013,12 @@
     "last_updated": "2022-03-15 08:04:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810722": {
     "id": "WPU03810722",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Woven Dress and Sport Shirts, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2031,12 +2031,12 @@
     "last_updated": "2022-03-15 08:04:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810735": {
     "id": "WPU03810735",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Suits, Coats, and Overcoats",
     "observation_start": "2013-12-01",
     "observation_end": "2022-02-01",
@@ -2049,12 +2049,12 @@
     "last_updated": "2022-03-15 08:04:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810741": {
     "id": "WPU03810741",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Nontailored Coats, Jackets, and Vests (Excluding Ski Apparel and Work Jackets)",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2067,12 +2067,12 @@
     "last_updated": "2022-03-15 08:04:08-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810742": {
     "id": "WPU03810742",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Shorts (Including Dress and Athletic) and Swimwear, Made from Purchased Fabric",
     "observation_start": "2007-07-01",
     "observation_end": "2022-02-01",
@@ -2085,12 +2085,12 @@
     "last_updated": "2022-03-15 08:04:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810743": {
     "id": "WPU03810743",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Sweaters, Sweatpants, Jogging Suits, Beachwear (Excluding Swimwear), and Ski Apparel",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2101,14 +2101,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:04:07-05",
-    "popularity": 2,
-    "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810751": {
     "id": "WPU03810751",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Neckwear, Made from Purchased Materials",
     "observation_start": "2003-12-01",
     "observation_end": "2021-01-01",
@@ -2121,12 +2121,12 @@
     "last_updated": "2021-06-15 08:03:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810761": {
     "id": "WPU03810761",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Nightwear, Robes, and Underwear, Made from Purchased Fabrics",
     "observation_start": "2003-12-01",
     "observation_end": "2022-02-01",
@@ -2139,12 +2139,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810821": {
     "id": "WPU03810821",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Sheer Finished Pantyhose, Including Tights, All Needles",
     "observation_start": "2003-12-01",
     "observation_end": "2017-09-01",
@@ -2157,12 +2157,12 @@
     "last_updated": "2018-01-11 09:04:54-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810822": {
     "id": "WPU03810822",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Women's and Girls' Sheer Finished Hosiery, Full-Length, Knee-Length, and Below the Knee",
     "observation_start": "2003-12-01",
     "observation_end": "2015-10-01",
@@ -2175,12 +2175,12 @@
     "last_updated": "2016-03-15 12:13:21-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810824": {
     "id": "WPU03810824",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's Finished Seamless Hosiery and Socks, Sizes 10 and up (Excluding Sheer)",
     "observation_start": "2003-12-01",
     "observation_end": "2020-05-01",
@@ -2193,12 +2193,12 @@
     "last_updated": "2020-06-11 07:55:13-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810825": {
     "id": "WPU03810825",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: All Other Finished Hosiery and Socks (Excluding Sheer)",
     "observation_start": "2003-12-01",
     "observation_end": "2020-05-01",
@@ -2211,12 +2211,12 @@
     "last_updated": "2020-06-11 07:55:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03810826": {
     "id": "WPU03810826",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Socks and Hosiery, Shipped in the Greige (Excluding Sheer)",
     "observation_start": "2003-12-01",
     "observation_end": "2019-01-01",
@@ -2229,12 +2229,12 @@
     "last_updated": "2019-02-15 09:07:27-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03820304": {
     "id": "WPU03820304",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Curtains and Draperies, Made from Purchased Materials",
     "observation_start": "2005-12-01",
     "observation_end": "2022-02-01",
@@ -2247,12 +2247,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03820312": {
     "id": "WPU03820312",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Textiles, Including Towels and Bed Textiles",
     "observation_start": "2005-06-01",
     "observation_end": "2022-02-01",
@@ -2265,12 +2265,12 @@
     "last_updated": "2022-03-15 07:56:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03830321": {
     "id": "WPU03830321",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Rope, Cordage, and Twine",
     "observation_start": "2012-06-01",
     "observation_end": "2022-02-01",
@@ -2283,12 +2283,12 @@
     "last_updated": "2022-03-15 08:04:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03830333": {
     "id": "WPU03830333",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Duffle Bags",
     "observation_start": "2010-06-01",
     "observation_end": "2021-12-01",
@@ -2301,12 +2301,12 @@
     "last_updated": "2022-02-15 07:56:10-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03830334": {
     "id": "WPU03830334",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: All Other Textile Bags",
     "observation_start": "2010-06-01",
     "observation_end": "2022-01-01",
@@ -2319,12 +2319,12 @@
     "last_updated": "2022-03-15 08:04:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03830345": {
     "id": "WPU03830345",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Canvas and Related Products",
     "observation_start": "2003-06-01",
     "observation_end": "2022-02-01",
@@ -2337,12 +2337,12 @@
     "last_updated": "2022-03-15 08:04:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03830351": {
     "id": "WPU03830351",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: All Other Fabricated Textile Products, Excluding Trimming and Findings",
     "observation_start": "1985-12-01",
     "observation_end": "2022-02-01",
@@ -2355,12 +2355,12 @@
     "last_updated": "2022-03-15 08:04:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03830361": {
     "id": "WPU03830361",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Trimming and Findings, Excluding Automobile and Apparel",
     "observation_start": "2006-12-01",
     "observation_end": "2022-02-01",
@@ -2373,12 +2373,12 @@
     "last_updated": "2022-03-15 08:04:05-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03910105": {
     "id": "WPU03910105",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile Fibers, Yarns, and Fabrics, Not Elsewhere Classified",
     "observation_start": "2011-12-01",
     "observation_end": "2017-04-01",
@@ -2391,12 +2391,12 @@
     "last_updated": "2017-08-10 09:33:53-05",
     "popularity": 3,
     "group_popularity": 4,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU03930111": {
     "id": "WPU03930111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Textile and Fabric Finishing, Except Broadwoven",
     "observation_start": "2003-12-01",
     "observation_end": "2018-09-01",
@@ -2409,12 +2409,12 @@
     "last_updated": "2018-10-10 08:03:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU031502411": {
     "id": "WPU031502411",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Polyester Manufactured Fibers",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -2425,14 +2425,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:04-05",
-    "popularity": 53,
-    "group_popularity": 53,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 55,
+    "group_popularity": 55,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU031502412": {
     "id": "WPU031502412",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Noncellulosic Organic Fibers, Including Polyamide, Polyolefin, and Producer-Textured",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -2443,14 +2443,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:08-05",
-    "popularity": 34,
-    "group_popularity": 34,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 38,
+    "group_popularity": 38,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033703041": {
     "id": "WPU033703041",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Fabrics, Combination of Spun and Filament Yarns (Excluding Wool Blends)",
     "observation_start": "2011-06-01",
     "observation_end": "2020-05-01",
@@ -2463,12 +2463,12 @@
     "last_updated": "2020-06-11 07:55:14-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033703042": {
     "id": "WPU033703042",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Fabrics 85 Percent or More Filament Yarns, Rayon/Acetate/Lyocell",
     "observation_start": "2011-06-01",
     "observation_end": "2019-04-01",
@@ -2479,14 +2479,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2019-08-09 07:52:08-05",
-    "popularity": 7,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 5,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033703043": {
     "id": "WPU033703043",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Fabrics 85 Percent or More Filament Yarns Excluding Rayon/Acetate/Lyocell",
     "observation_start": "2011-06-01",
     "observation_end": "2021-09-01",
@@ -2497,14 +2497,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-10-14 07:52:17-05",
-    "popularity": 16,
-    "group_popularity": 16,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "popularity": 18,
+    "group_popularity": 18,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033703044": {
     "id": "WPU033703044",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Plain Weave Fabrics 85 Percent or More Spun Yarns (Excluding Pile/Wool)",
     "observation_start": "2011-06-01",
     "observation_end": "2019-01-01",
@@ -2517,12 +2517,12 @@
     "last_updated": "2019-06-11 07:53:39-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU033703045": {
     "id": "WPU033703045",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Twill Fabrics, 85 Percent or More Spun Yarns (Excluding Pile/Wool Blend)",
     "observation_start": "2011-06-01",
     "observation_end": "2018-07-01",
@@ -2535,12 +2535,12 @@
     "last_updated": "2019-01-15 13:51:03-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038104411": {
     "id": "WPU038104411",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: All Other Cut and Sew Apparel, Made from Purchased Materials",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -2553,12 +2553,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038104412": {
     "id": "WPU038104412",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Fabricated Apparel Accessories",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -2571,12 +2571,12 @@
     "last_updated": "2022-03-15 07:57:51-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038107352": {
     "id": "WPU038107352",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Tailored Suits, Including Dress Uniforms (Firefighter, Military, Police, etc.)",
     "observation_start": "2003-12-01",
     "observation_end": "2021-09-01",
@@ -2589,12 +2589,12 @@
     "last_updated": "2021-12-14 08:03:19-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038107353": {
     "id": "WPU038107353",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Tailored Overcoats, Dress and Sport Coats, and Vests",
     "observation_start": "2008-12-01",
     "observation_end": "2022-01-01",
@@ -2607,12 +2607,12 @@
     "last_updated": "2022-02-15 08:00:28-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038107411": {
     "id": "WPU038107411",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Heavyweight Nontailored Coats, Jackets, and Vests (Excluding Ski Apparel and Work)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2625,12 +2625,12 @@
     "last_updated": "2022-03-15 08:04:08-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038107412": {
     "id": "WPU038107412",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Men's and Boys' Lightweight Nontailored Coats, Jackets, and Vests (Excluding Ski Apparel and Work)",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2643,12 +2643,12 @@
     "last_updated": "2022-03-15 08:04:07-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038203121": {
     "id": "WPU038203121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Fabricated Textile Products, Made in Weaving Mills",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -2661,12 +2661,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038203122": {
     "id": "WPU038203122",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Household Textile Products",
     "observation_start": "2011-06-01",
     "observation_end": "2022-02-01",
@@ -2679,12 +2679,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038303513": {
     "id": "WPU038303513",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Fabricated Flags, Banners, and Similar Emblems",
     "observation_start": "2009-12-01",
     "observation_end": "2018-09-01",
@@ -2697,12 +2697,12 @@
     "last_updated": "2018-10-10 08:03:55-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU038303515": {
     "id": "WPU038303515",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Textile Products and Apparel: Fabricated Textile Products",
     "observation_start": "2009-12-01",
     "observation_end": "2018-09-01",
@@ -2715,12 +2715,12 @@
     "last_updated": "2018-10-10 08:07:23-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0381044111": {
     "id": "WPU0381044111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Team Sport Uniforms, Men's and Boys', Made from Purchased Fabrics",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2733,12 +2733,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0381044113": {
     "id": "WPU0381044113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Team Sport Uniforms, Women's and Girls', Made from Purchased Fabrics",
     "observation_start": "2011-12-01",
     "observation_end": "2020-07-01",
@@ -2751,12 +2751,12 @@
     "last_updated": "2020-08-11 07:54:52-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0381044115": {
     "id": "WPU0381044115",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Vestments and Costumes, Made from Purchased Materials",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2769,12 +2769,12 @@
     "last_updated": "2022-03-15 08:04:10-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0381044117": {
     "id": "WPU0381044117",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Apparel, Plastic or Rubber (50 Percent or Greater), Including Raincoats and Rubber Pants, Made from Purchased Materials (MFPM)",
     "observation_start": "2011-12-01",
     "observation_end": "2017-01-01",
@@ -2787,12 +2787,12 @@
     "last_updated": "2017-02-14 08:30:51-06",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0381044125": {
     "id": "WPU0381044125",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: All Other Apparel Accessories, Made from Purchased Materials",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2805,12 +2805,12 @@
     "last_updated": "2022-03-15 07:57:51-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0382031221": {
     "id": "WPU0382031221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Bedspreads, Made from Purchased Materials",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2823,12 +2823,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0382031223": {
     "id": "WPU0382031223",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Sheets and Pillowcases, Made from Purchased Materials",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2841,12 +2841,12 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   },
   "WPU0382031226": {
     "id": "WPU0382031226",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Textile Products and Apparel: Other Household Furnishings, Made from Purchased Materials",
     "observation_start": "2011-12-01",
     "observation_end": "2022-02-01",
@@ -2859,6 +2859,6 @@
     "last_updated": "2022-03-15 08:04:06-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Textile Products and Apparel"
   }
 }

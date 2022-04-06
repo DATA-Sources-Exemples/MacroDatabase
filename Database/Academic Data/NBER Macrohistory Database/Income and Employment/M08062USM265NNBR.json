@@ -1,0 +1,18 @@
+{
+  "id": "M08062USM265NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Wages, Common Labor on Federal-Aid Road Building Projects for United States",
+  "observation_start": "1922-01-01",
+  "observation_end": "1944-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Hour",
+  "units_short": "Cents per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:16:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Types Of Projects Referred To Are: January 1922-August 1933, Federal-Aid Projects; September-December 1933, Average Of Federal Aid And Public Works Projects; January 1934-December 1935, Public Works Projects; Jnuary-December 1936, Average Of Federal-Aid Works Program And Public Works Projects; January-December 1937, Average Of Federal-Aid And Works Program; 1938-1944, Federal-Aid Projects. Source: 1922-1937 Data Was Furnished By Survey Of Current Business; 1938-1944 Data Are From Survey Of Current Business, 1942 Supplement And Following Monthly Issues.\n\nThis NBER data series m08062 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08062"
+}

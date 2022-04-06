@@ -1,0 +1,18 @@
+{
+  "id": "DDOI10GBA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "External Loans and Deposits of Reporting Banks in Relation to the Banking Sector for United Kingdom (DISCONTINUED)",
+  "observation_start": "1995-01-01",
+  "observation_end": "2009-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-06-04 13:15:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Percentage of loans and deposits of reporting banks in relation to banking sector to the domestic bank deposits.\n\nSource Code: GFDD.OI.10"
+}

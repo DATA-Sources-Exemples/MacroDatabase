@@ -1,0 +1,18 @@
+{
+  "id": "CES6000000003",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings of All Employees, Professional and Business Services",
+  "observation_start": "2006-03-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:45:32-05",
+  "popularity": 16,
+  "group_popularity": 16,
+  "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES6000000003"
+}

@@ -1,6 +1,9 @@
-| Folder                          |   Files / Folders |
-|---------------------------------|-------------------|
-| Counties                        |                14 |
-| New England City and Town Areas |                11 |
-| MSAs                            |                 3 |
-| Metropolitan Divisions          |                 3 |
+| Folder                             |   Files / Folders |
+|------------------------------------|-------------------|
+| MSAs                               |                 6 |
+| BEA Economic Areas                 |                 1 |
+| CPI for MSAs and Consolidated MSAs |                 1 |
+| New England City and Town Areas    |                18 |
+| Basic Trading Areas                |                 1 |
+| Metropolitan Divisions             |                 3 |
+| Counties                           |                14 |

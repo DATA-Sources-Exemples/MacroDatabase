@@ -1,0 +1,18 @@
+{
+  "id": "MABMM402BRM189N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "M4 for Brazil (DISCONTINUED)",
+  "observation_start": "1994-07-01",
+  "observation_end": "2013-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "National Currency",
+  "units_short": "National Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-12 10:52:40-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "OECD descriptor ID: MABMM402\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

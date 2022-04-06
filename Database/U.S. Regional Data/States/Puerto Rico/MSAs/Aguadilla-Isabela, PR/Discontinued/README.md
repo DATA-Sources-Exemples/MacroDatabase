@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                                  | observation_start   | observation_end   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU72103805552000001   | All Employees: Financial Activities: Finance and Insurance in Aguadilla-Isabela-San Sebastian, PR (MSA) (DISCONTINUED) | 2003-01-01          | 2013-12-01        |
+| SMU72103805552000001A  | All Employees: Financial Activities: Finance and Insurance in Aguadilla-Isabela-San Sebastian, PR (MSA) (DISCONTINUED) | 2003-01-01          | 2012-01-01        |
+| SMU72103805552000001SA | All Employees: Financial Activities: Finance and Insurance in Aguadilla-Isabela-San Sebastian, PR (MSA) (DISCONTINUED) | 2003-01-01          | 2013-12-01        |

@@ -1,0 +1,18 @@
+{
+  "id": "M06131USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' New Orders, Electrical Machinery for United States",
+  "observation_start": "1953-01-01",
+  "observation_end": "1965-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:47:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Adjusted For Trading-Day And Calendar-Month Variations. Orders Are Net Of Cancellations. Revisions For 1961-1970 Data Are In Series M3-1.2. Source: United States Department Of Commerce, \"Manufacturers' Shipments, Inventories And Orders: 1947-1963, \" Revised (Series M3-1), Published October, 1963; \"Business Statistics, 1965, \" (Biennial Supplement To The Survey Of Current Business). Current Estimates Are In The Survey Of Current Business Monthly Issues. The Latest Month Is From The U.S. Bureau Of The Census, Current Statistical Reports: \"Manufacturers' Shipments, Inventories And Orders, \" Series M3-1, Monthly.\n\nThis NBER data series m06131 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06131"
+}

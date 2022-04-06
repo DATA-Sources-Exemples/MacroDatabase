@@ -1,0 +1,18 @@
+{
+  "id": "NIKKEI225",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nikkei Stock Average, Nikkei 225",
+  "observation_start": "1949-05-16",
+  "observation_end": "2022-04-05",
+  "frequency": "Daily, Close",
+  "frequency_short": "D",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 07:02:06-05",
+  "popularity": 53,
+  "group_popularity": 53,
+  "notes": "The observations for the Nikkei Stock Average, Nikkei 225 represent the daily index value at market close.\n\nNikkei 225 is the major stock market index comprising of 225 highly liquid stocks of the Tokyo Stock Exchange (TSE).\n\nFor in depth information, visit here (http://indexes.nikkei.co.jp/nkave/archives/faq/faq_nikkei_stock_average_en.pdf).\n\nCopyright, 2016, Nikkei Inc. Reprinted with permission.\n\nDownloading the data for research reports or research projects is permitted.\n\nHowever, if you wish to redistribute the data itself or research reports (information with Nikkei data) to the third parties/persons, the user shall report back to the Nikkei, Inc for permission."
+}

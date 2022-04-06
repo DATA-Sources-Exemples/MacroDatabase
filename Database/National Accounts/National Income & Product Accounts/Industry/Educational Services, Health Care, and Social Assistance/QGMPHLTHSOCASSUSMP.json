@@ -1,0 +1,18 @@
+{
+  "id": "QGMPHLTHSOCASSUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Educational Services, Health Care, and Social Assistance: Health Care and Social Assistance for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:48:42-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Health Care and Social Assistance NAICS sector comprises establishments providing health care and social assistance for individuals. The sector includes both health care and social assistance because it is sometimes difficult to distinguish between the boundaries of these two activities. The industries in this sector are arranged on a continuum starting with those establishments providing medical care exclusively, continuing with those providing health care and social assistance, and finally finishing with those providing only social assistance. The services provided by establishments in this sector are delivered by trained professionals. All industries in the sector share this commonality of process, namely, labor inputs of health practitioners or social workers with the requisite expertise. Many of the industries in the sector are defined based on the educational degree held by the practitioners included in the industry.\n\nExcluded from this sector are aerobic classes in Subsector 713, Amusement, Gambling and Recreation Industries and nonmedical diet and weight reducing centers in Subsector 812, Personal and Laundry Services. Although these can be viewed as health services, these services are not typically delivered by health practitioners.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

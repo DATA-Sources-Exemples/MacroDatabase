@@ -1,0 +1,18 @@
+{
+  "id": "B4423C0A052NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wage and salary accruals per full-time equivalent employee: Domestic private industries: Manufacturing: Durable goods: Other transportation equipment",
+  "observation_start": "1987-01-01",
+  "observation_end": "2000-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-08-08 14:12:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B4423C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

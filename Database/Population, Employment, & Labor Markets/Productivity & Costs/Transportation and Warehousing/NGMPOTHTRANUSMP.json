@@ -1,0 +1,18 @@
+{
+  "id": "NGMPOTHTRANUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Domestic Product: Private Industries: Transportation and Warehousing: Other Transportation and Support Activities for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:32:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Other Transportation and Support Activities includes scenic and sightseeing transportation, couriers and messengers, and support activities for transportation.\n\nIndustries in the Scenic and Sightseeing Transportation NAICS subsector utilize transportation equipment to provide recreation and entertainment. These activities have a production process distinct from passenger transportation carried out for the purpose of other types of for-hire transportation. This process does not emphasize efficient transportation; in fact, such activities often use obsolete vehicles, such as steam trains, to provide some extra ambience. The activity is local in nature, usually involving a same-day return to the point of departure. The Scenic and Sightseeing Transportation subsector is separated into three industries based on the mode: land, water, and other. Activities that are recreational in nature and involve participation by the customer, such as white-water rafting, are generally excluded from this subsector, unless they impose an impact on part of the transportation system. Charter boat fishing, for example, is included in the Scenic and Sightseeing Transportation, Water industry.\n\nIndustries in the Couriers and Messengers NAICS subsector provide intercity and/or local delivery of parcels. These articles can be described as those that may be handled by one person without using special equipment. This allows the collection, pick-up, and delivery operations to be done with limited labor costs and minimal equipment. Sorting and transportation activities, where necessary, are generally mechanized. The restriction to small parcels partly distinguishes these establishments from those in the transportation industries. The complete network of courier services establishments also distinguishes these transportation services from local messenger and delivery establishments in this subsector. This includes the establishments that perform intercity transportation as well as establishments that, under contract to them, perform local pick--up and delivery. Messengers, which usually deliver within a metropolitan or single urban area, may use bicycle, foot, small truck, or van.\n\nIndustries in the Support Activities for Transportation NAICS subsector provide services which support transportation. These services may be provided to transportation carrier establishments or to the general public. This subsector includes a wide array of establishments, including air traffic control services, marine cargo handling, and motor vehicle towing.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

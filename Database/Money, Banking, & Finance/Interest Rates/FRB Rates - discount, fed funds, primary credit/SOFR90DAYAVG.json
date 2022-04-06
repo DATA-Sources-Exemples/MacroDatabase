@@ -1,0 +1,18 @@
+{
+  "id": "SOFR90DAYAVG",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "90-Day Average SOFR",
+  "observation_start": "2018-07-02",
+  "observation_end": "2022-04-05",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 07:01:11-05",
+  "popularity": 49,
+  "group_popularity": 49,
+  "notes": "As an extension of the additional documentation about the Treasury Repo Reference Rates. (https://www.newyorkfed.org/markets/treasury-repo-reference-rates-information)"
+}

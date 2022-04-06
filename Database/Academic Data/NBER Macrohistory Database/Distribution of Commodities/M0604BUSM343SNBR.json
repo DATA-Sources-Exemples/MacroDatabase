@@ -1,0 +1,18 @@
+{
+  "id": "M0604BUSM343SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Sales by Five and Ten Cent Variety Store Chains for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1943-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1935-1939=100",
+  "units_short": "Index 1935-1939=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 13:46:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1919-1934 (2)--Seasonally Adjusted Data, 1929-1943 (3)--Original Data, 1935-1951 (4)--Original Data, 1951-1956. This Index Represents A Revision The Survey'S Seasonally Adjusted Index Of Variety Store Sales (1929-1931=100) Covering The Period 1929-May 1940 (Description In Scb, March 1934, Pp. 17 Ff.), Which Superseded The Original Index (1923-1925=100) By The Federal Reserve Board Through March 1930, And By Scb Through March 1934. This Index Was Discontinued After November 1943 And Superseded By A Combined Index Of Total Chain Store And Mail-Order Sales, 1935-1939=100 (See Scb Of February 1944, Pp. 12-20). Source: Survey Of Current Business, August 1940, P. 10; 1942 Supplement; Monthly Issues\n\nThis NBER data series m06004b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06004b"
+}

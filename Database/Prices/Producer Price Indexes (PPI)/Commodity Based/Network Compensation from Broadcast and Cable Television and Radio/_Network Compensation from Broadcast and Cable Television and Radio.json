@@ -1,8 +1,8 @@
 {
   "WPU35": {
     "id": "WPU35",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -15,12 +15,12 @@
     "last_updated": "2022-03-15 08:01:23-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU351": {
     "id": "WPU351",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Cable and Broadcast TV",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:23-05",
     "popularity": 2,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU352": {
     "id": "WPU352",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Radio",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -51,12 +51,12 @@
     "last_updated": "2022-03-15 08:01:22-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU3511": {
     "id": "WPU3511",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Cable and Broadcast TV",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -67,14 +67,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:23-05",
-    "popularity": 2,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "popularity": 1,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU3521": {
     "id": "WPU3521",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Radio",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -87,12 +87,12 @@
     "last_updated": "2022-03-15 08:01:22-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU351101": {
     "id": "WPU351101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Cable and Broadcast TV",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -103,14 +103,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:22-05",
-    "popularity": 6,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "popularity": 5,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU352101": {
     "id": "WPU352101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Radio",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -123,12 +123,12 @@
     "last_updated": "2022-03-15 08:01:22-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU35110101": {
     "id": "WPU35110101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Cable and Broadcast TV",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -139,14 +139,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:22-05",
-    "popularity": 2,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "popularity": 1,
+    "group_popularity": 6,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   },
   "WPU35210101": {
     "id": "WPU35210101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Network Compensation from Broadcast and Cable Television and Radio: Affiliate Agreements, Programming Sales, and Retransmission Fees for Radio",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -159,6 +159,6 @@
     "last_updated": "2022-03-15 08:01:22-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Network Compensation from Broadcast and Cable Television and Radio"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M0838AUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Dividend Payments to Individuals for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:26:15-05",
+  "popularity": 2,
+  "group_popularity": 3,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1941 (2)--Original Data, 1939-1945 (3)--Seasonally Adjusted Data, 1946-1965. Data Refer To Billions Of Dollars At An Annual Rate; Data Were Multiplied By A Factor Of 12. Data Were Computed By NBER From Monthly Data In The Journal Of Commerce (Its Data Include Semi-Private And Closed Corporation And Exclude Financial Corporations Before May 1934; From May 1934 It Excludes The Former And Includes The Latter). Data Were Adjusted To Level Of Annual Estimates Made By Ebersole, Burr & Peterson In\"Income Forecasting By The Use Of Statistics Of Income Data\" (Review Of Economic Statistics, November, 1929) For 1919-1921 And From Annual Data 1922-1941 Of\"Statistics Of Income,\" U.S. Department Of Treasury. Source: For 1919-1941: Data Computed By NBER; For 1939-1941: Office Of Business Economics, Unpublished Tables.\n\nThis NBER data series m08238a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08238a"
+}

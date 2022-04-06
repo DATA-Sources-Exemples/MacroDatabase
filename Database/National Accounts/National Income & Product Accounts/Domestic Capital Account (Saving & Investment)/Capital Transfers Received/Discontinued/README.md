@@ -1,2 +1,13 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                              | observation_start   | observation_end   |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| L318051A027NBEA | Federal government cash receipts from the public: Coverage differences: Capital transfers received (DISCONTINUED)                  | 1952-01-01          | 1967-01-01        |
+| L318051Q027NBEA | Federal government cash receipts from the public: Coverage differences: Capital transfers received (DISCONTINUED)                  | 1959-07-01          | 1967-10-01        |
+| L318471A027NBEA | Federal government budget: Net capital transfers received (DISCONTINUED)                                                           | 1952-01-01          | 1967-01-01        |
+| L318471Q027NBEA | Federal government budget: Net capital transfers received (DISCONTINUED)                                                           | 1959-07-01          | 1967-10-01        |
+| L318481A027NBEA | Federal government budget: Federal employee retirement plans (DISCONTINUED)                                                        | 1952-01-01          | 1967-01-01        |
+| L318481Q027NBEA | Federal government budget: Net capital transfers received: Federal employee retirement plans (DISCONTINUED)                        | 1959-07-01          | 1967-10-01        |
+| L318491A027NBEA | Federal government budget: Other coverage differences (DISCONTINUED)                                                               | 1952-01-01          | 1967-01-01        |
+| L318491Q027NBEA | Federal government budget: Net capital transfers received : Other coverage differences (DISCONTINUED)                              | 1959-07-01          | 1967-10-01        |
+| L318501A027NBEA | Federal government budget: Timing differences (DISCONTINUED)                                                                       | 1952-01-01          | 1967-01-01        |
+| L318501Q027NBEA | Federal government budget: Net capital transfers received: Timing differences (DISCONTINUED)                                       | 1959-07-01          | 1967-10-01        |
+| L319431A027NBEA | State and Local government current receipts: Coverage differences: Net capital transfers received (NIPA vs. Census) (DISCONTINUED) | 1969-01-01          | 2012-01-01        |

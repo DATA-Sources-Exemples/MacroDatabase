@@ -1,0 +1,18 @@
+{
+  "id": "M12021GB00LONM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "London Bank Clearings, Total for London, Great Britain",
+  "observation_start": "1867-05-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:33:17-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Reflect The Average Per Business Day, I.E., Excluding Sundays And Bank Holidays. The Totals Are The Sums Of \"Town Clearings,\" \"Metropolitan Clearings,\" And \"Country Clearings.\" Data For May, 1867 Used Four Weeks Data Instead Of Five, Which Would Have Been Used Had Reporting Begun One Week Earlier. Source: Bankers' Magazine (London). The Economist Was Also Used For Omissions And For Checking Obvious Misprints. See Particularly 1884, P.220; 1886, P.182; February, 1920, 1920, 1930 And 1940. For Years Not Given, See Individual Years.\n\nThis NBER data series m12021 appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12021"
+}

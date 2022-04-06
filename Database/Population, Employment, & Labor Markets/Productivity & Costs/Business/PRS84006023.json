@@ -1,0 +1,17 @@
+{
+  "id": "PRS84006023",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Business Sector: Average Weekly Hours Worked for All Employed Persons",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-03 07:36:42-06",
+  "popularity": 3,
+  "group_popularity": 6
+}

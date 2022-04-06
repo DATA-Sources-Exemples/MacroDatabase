@@ -1,0 +1,18 @@
+{
+  "id": "M09075USM476NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonfarm Real Estate Foreclosures for United States",
+  "observation_start": "1934-01-01",
+  "observation_end": "1963-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Foreclosures",
+  "units_short": "Number Of Foreclosures",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:01:46-05",
+  "popularity": 34,
+  "group_popularity": 34,
+  "notes": "For 1926-1933 The Series Contains Only Annual Figures; 1926: 68100, 1927: 91000, 1928: 116000, 1929: 134900, 1930: 150000, 1931: 193800, 1932: 248700, 1933: 252400. Source: Federal Home Loan Bank Board, \"Nonfarm Real Estate Foreclosure Report\", Second Quarter, 1956 And March, 1957 For Data Through 1956; Thereafter, \"Housing Statistics\"\n\nThis NBER data series m09075 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09075"
+}

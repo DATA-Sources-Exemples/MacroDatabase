@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNIMRTINLAO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Infant Mortality Rate for the Lao People's Democratic Republic",
+  "observation_start": "1978-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number per 1,000 Live Births",
+  "units_short": "Number per 1,000 Live Births",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-16 16:23:42-06",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nWorld Bank Source: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.\n\nSource Indicator: SP.DYN.IMRT.IN"
+}

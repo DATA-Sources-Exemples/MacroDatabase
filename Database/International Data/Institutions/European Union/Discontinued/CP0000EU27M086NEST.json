@@ -1,0 +1,18 @@
+{
+  "id": "CP0000EU27M086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: All Items for European Union (27 countries) (DISCONTINUED)",
+  "observation_start": "1996-01-01",
+  "observation_end": "2015-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2005=100",
+  "units_short": "Index 2005=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-01-22 17:48:47-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

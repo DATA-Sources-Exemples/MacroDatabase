@@ -1,0 +1,18 @@
+{
+  "id": "M0833BUSM331NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Payrolls Furniture and Fixtures for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1954-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:31:29-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1942 (2)--Original Data, 1947-1954. Source: Derived By Multiplying Employment (See B.C. Series 8,109) With Average Weekly Earnings, See Bureau Of Labor Statistics, Employment, Hours, And Earnings, Manufacturing Division, Durable Goods Subdivision, Furniture And Fixtures, Releases Ls53-2079 (2-53) And (4-53) Through 1952; Monthly Labor Review, Thereafter.\n\nThis NBER data series m08133b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08133b"
+}

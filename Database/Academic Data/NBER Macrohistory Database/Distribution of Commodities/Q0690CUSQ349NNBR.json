@@ -1,0 +1,18 @@
+{
+  "id": "Q0690CUSQ349NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Orders of Railroad Equipment for United States",
+  "observation_start": "1941-01-01",
+  "observation_end": "1955-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1947-1949=100",
+  "units_short": "Index 1947-1949=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:50:37-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1870-1926 (2)--Original Data, 1922-1942 (3)--Original Data, 1941-1955. Source: Data Were Computed By NBER From Seasonally Adjusted Data Of Orders For Passenger Cars, Freight Cars, And Locomotives Using Fixed Weights. For 1945-1951 Weights Were 16.1 For Passanger Cars, 36.7 For Locomotives, And 1 For Freights. Weights Were Derived From Interstate Commerce Commission Data On Value And Quantity Of New Equipment Installed For 1942-1955.\n\nThis NBER data series q06090c appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: q06090c"
+}

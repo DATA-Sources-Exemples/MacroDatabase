@@ -1,0 +1,18 @@
+{
+  "id": "A0184AUSA343NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Crop Production Per Acre for United States",
+  "observation_start": "1910-01-01",
+  "observation_end": "1951-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 1935-1939=100",
+  "units_short": "Index 1935-1939=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1910-1951 (2)--Original Data, 1949-1954. Source: U.S. Department Of Agriculture, Statistical Bulletin No. 83, Farm Production Practices, Costs And Returns, P. 26.\n\nThis NBER data series a01284a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01284a"
+}

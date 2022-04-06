@@ -1,0 +1,18 @@
+{
+  "id": "M08091USM331SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Employment, Wearing Apparel for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:29:24-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Index Is A Major Subindex Of The Textile Group And Combines The Following Indexes Of The Subgroup \"Wearing Apparel\" -- Men'S Clothing, Women'S Clothing, Corsets And Allied Garments, Men'S Furnishings, Millinery, Shirts And Collars. Source: Data For 1919-1922 Furnished To NBER Direct From Federal Reserve Board, Division Of Research And Statistics; Data For 1923-1934: Federal Reserve Bulletin, October 1938, Of Factory Employment, \" October 1939, P. 8; For August 1939-1942 Data: Monthly Federal Reserve Bulletins.\n\nThis NBER data series m08091 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08091"
+}

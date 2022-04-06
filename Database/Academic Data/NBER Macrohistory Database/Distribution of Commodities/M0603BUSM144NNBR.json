@@ -1,0 +1,18 @@
+{
+  "id": "M0603BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Sales of Producers' Durable Equipment, Value for United States",
+  "observation_start": "1953-01-01",
+  "observation_end": "1968-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:50:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1948-1954 (2)--Original Data, 1953-1968. In The Source, This Segment Is Called The \"Value Of Shipments For Machinery And Equipment Industries.\" Source: U.S. Department Of Commerce, Bureau Of The Census, For 1953-1960 Data: Current Industrial Reports, \"Manufacturers' Shipments, Inventories, And Orders, 1953-1963\", Series M3-1, Supplement 2, Table 3; For 1961-June 1968 Data: \"Manufacturers' Shipments, Inventories, And Orders, 1961-1968\", Series M3-1.1; Thereafter, Data Furnished By \"Current Industrial Reports\" Series M3-1.1\n\nThis NBER data series m06103b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06103b"
+}

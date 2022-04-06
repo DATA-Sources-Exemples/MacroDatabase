@@ -1,0 +1,18 @@
+{
+  "id": "Q1024ADEQ421NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cash Capital Raised Through Issues of Stocks by Corporations for Germany",
+  "observation_start": "1907-01-01",
+  "observation_end": "1919-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Marks",
+  "units_short": "Mil. of Marks",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:18:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1907-1919 And 1924-1927 Were Computed By The Formula: Nominal Cash Capital/Total Nominal Capital Multiplied By Total Capital At The Rate Of Issue For New Capital Of Both New And Existing Corporations. Data For 1927-1935 Were Derived By The Simpler Addition Of Cash Capital Of Both New And Existing Corporations. For May 1931: The Electric Company Of Berlin, A New Stock Company, Accounted For 195 Million Marks Of The Month'S Total (Raw,259.8). Source: Computed By NBER From Data In Vierteljahreshefte Zur Statistik Des Reutschen Reichs.\n\nThis NBER data series q10024a appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10024a"
+}

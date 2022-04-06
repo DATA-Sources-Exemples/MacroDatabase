@@ -1,0 +1,18 @@
+{
+  "id": "TWEXO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Trade Weighted U.S. Dollar Index: Other Important Trading Partners, Goods (DISCONTINUED)",
+  "observation_start": "1995-01-04",
+  "observation_end": "2020-01-01",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Index Jan 1997=100",
+  "units_short": "Index Jan 1997=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-01-06 15:49:06-06",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "Averages of daily figures. A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that do not circulate widely outside the country of issue.\r\nCountries whose currencies are included in the other important trading partners index are Mexico, China, Taiwan, Korea, Singapore, Hong Kong, Malaysia, Brazil, Thailand, Philippines, Indonesia, India, Israel, Saudi Arabia, Russia, Argentina, Venezuela, Chile and Colombia.\r\nFor more information about trade-weighted indexes see http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf."
+}

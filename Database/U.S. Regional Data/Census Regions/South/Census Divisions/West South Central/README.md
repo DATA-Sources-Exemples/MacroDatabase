@@ -1,3 +1,29 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id                    | title                                                                                                                            | observation_start   | observation_end   |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CIU2010000000227I     | Employment Cost Index: Total compensation for Private industry workers in the West South Central Census Division                 | 2006-01-01          | 2021-10-01        |
+| CIU2020000000227I     | Employment Cost Index: Wages and salaries for Private industry workers in the West South Central Census Division                 | 2006-01-01          | 2021-10-01        |
+| CWSCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CWSCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West South Central Census Division           | 1988-01-01          | 2022-02-01        |
+| CWSCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-02-01        |
+| CWSCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West South Central Census Division                              | 1988-01-01          | 2022-02-01        |
+| CWSCLF                | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-02-01        |
+| CWSCLFN               | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2022-02-01        |
+| CWSCPOP               | Resident Population in the West South Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
+| CWSCSTHPI             | All-Transactions House Price Index for the West South Central Census Division                                                    | 1975-01-01          | 2021-10-01        |
+| CWSCUR                | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2022-02-01        |
+| CWSCURN               | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2022-02-01        |
+| LASRD870000000000004  | Unemployed Persons in West South Central Census Division                                                                         | 1976-01-01          | 2022-01-01        |
+| LASRD870000000000005  | Employed Persons in West South Central Census Division                                                                           | 1976-01-01          | 2022-01-01        |
+| LAURD870000000000003A | Unemployment Rate in West South Central Census Division                                                                          | 1976-01-01          | 2021-01-01        |
+| LAURD870000000000004  | Unemployed Persons in West South Central Census Division                                                                         | 1976-01-01          | 2022-01-01        |
+| LAURD870000000000004A | Unemployed Persons in West South Central Census Division                                                                         | 1976-01-01          | 2021-01-01        |
+| LAURD870000000000005  | Employed Persons in West South Central Census Division                                                                           | 1976-01-01          | 2022-01-01        |
+| LAURD870000000000005A | Employed Persons in West South Central Census Division                                                                           | 1976-01-01          | 2021-01-01        |
+| LAURD870000000000006A | Civilian Labor Force in West South Central Census Division                                                                       | 1976-01-01          | 2021-01-01        |
+| PCU221122221122417    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for West South Central Census Division | 1990-12-01          | 2022-02-01        |
+| PCU221122221122427    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for West South Central Census Division  | 1971-01-01          | 2022-02-01        |
+| PCU221122221122437    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for West South Central Census Division  | 1971-01-01          | 2022-02-01        |
+| PONHPI00105M226N      | Purchase Only House Price Index for the West South Central Census Division                                                       | 1991-01-01          | 2022-01-01        |
+| PONHPI00105M226S      | Purchase Only House Price Index for the West South Central Census Division                                                       | 1991-01-01          | 2022-01-01        |
+| PONHPI10500Q226N      | Purchase Only House Price Index for the West South Central Census Division                                                       | 1991-01-01          | 2021-10-01        |
+| PONHPI10500Q226S      | Purchase Only House Price Index for the West South Central Census Division                                                       | 1991-01-01          | 2021-10-01        |

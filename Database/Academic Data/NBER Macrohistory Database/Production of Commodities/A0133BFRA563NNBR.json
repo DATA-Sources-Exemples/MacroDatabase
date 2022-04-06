@@ -1,0 +1,18 @@
+{
+  "id": "A0133BFRA563NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wheat Crop Acreage for France",
+  "observation_start": "1815-01-01",
+  "observation_end": "1919-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Hectares",
+  "units_short": "Thous. Of Hectares",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:02:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1815-1919 (2)--Original Data, 1919-1938. Data Exclude Invaded Territory. Source: Statistique Agricole Annuelle, 1929, Pp. 180-184.\n\nThis NBER data series a01033b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01033b"
+}

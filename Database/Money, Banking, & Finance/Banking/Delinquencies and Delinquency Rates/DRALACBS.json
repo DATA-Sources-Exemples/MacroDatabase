@@ -1,0 +1,17 @@
+{
+  "id": "DRALACBS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Delinquency Rate on All Loans, All Commercial Banks",
+  "observation_start": "1985-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-02-23 15:04:06-06",
+  "popularity": 45,
+  "group_popularity": 59
+}

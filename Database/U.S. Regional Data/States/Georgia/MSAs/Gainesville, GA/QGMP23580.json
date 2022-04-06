@@ -1,0 +1,18 @@
+{
+  "id": "QGMP23580",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Quantity Indexes for Real GDP for Gainesville, GA (MSA)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:49:03-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The All industry total includes all Private industries and Government.\n\nA chained-type index is based on the linking (chaining) of indexes to create a time series. Annual chained-type Fisher indices are used in BEA's national income and product accounts (NIPAs) whereby Fisher ideal price indices are calculated using the weights of adjacent years. Those annual changes are then multiplied (chained) together, forming the chained-type index time series. Chain-type indexes or chain-dollar estimates are used when you want to show how output or spending has changed over time. The percent changes in quantity indexes exactly match the percent changes in chained dollars, so they can be used interchangeably for making comparisons. Real estimates remove the effects of price changes, which can obscure changes in output or spending in current dollars.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

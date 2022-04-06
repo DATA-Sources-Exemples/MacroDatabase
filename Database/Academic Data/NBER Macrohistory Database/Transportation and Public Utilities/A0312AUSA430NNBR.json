@@ -1,0 +1,18 @@
+{
+  "id": "A0312AUSA430NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Transit Passengers for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1933-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Passengers",
+  "units_short": "Mil. Of Passengers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:03:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Transit Journal, January 1936, P. 6 And Previous Issues.\n\nThis NBER data series a03012a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03012a"
+}

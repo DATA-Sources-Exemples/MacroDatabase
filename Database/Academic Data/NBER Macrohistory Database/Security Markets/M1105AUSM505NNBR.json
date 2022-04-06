@@ -1,0 +1,18 @@
+{
+  "id": "M1105AUSM505NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "American Railroad Stock Prices for United States",
+  "observation_start": "1857-01-01",
+  "observation_end": "1929-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Per Share Value Weighted By Outstanding Shares",
+  "units_short": "Per Share Value Weighted By Outstanding Shares",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:02:17-05",
+  "popularity": 9,
+  "group_popularity": 14,
+  "notes": "The Figure For January, 1926 Is The Per Share Value Weighted By Outstanding Shares. Source: F.R. Macaulay, \"Some Theoretical Problems Suggested By The Movements Of Interest Rates, Bond Yields, And Stock Prices In The United States Since 1856 (NBER, 1938), Pp.A142-A161; F.R. Macaulay, \"The Smoothing Of Time Series, \" (NBER, 1931).\n\nThis NBER data series m11005a appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11005a"
+}

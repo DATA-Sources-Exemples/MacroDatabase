@@ -1,0 +1,18 @@
+{
+  "id": "M11014GB00LONM324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Security Price Index, British Railway Common Shares, Stock Exchange Value for London, Great Britain",
+  "observation_start": "1887-04-01",
+  "observation_end": "1935-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:01:35-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "This Index Was Computed By NBER From Original Data In Thousands Of Pounds Sterling Published In Bankers' Magazine. Additions To Or Subtractions From The Number Of Securities Included Have Been Made From Time To Time. Data From The Old And New Series Are Linked By The NBER And The Resultant Index Is Constructed Based Upon The 1913 Average. In Order To Construct Indexes Covering The Entire Period These Aggregate Totals As Computed By Bankers' Magazine Have Been Further Treated By The NBER. At The Points Of These Revisions In The Series The Value For The Given Date According To Both The Old And The New Data Are Available. By Multiplying Data From One Period By A Coefficient Equal To The Ratio Of The Old To The New, A Single Series Can Be Constructed, Including The Data From Both Original Sections. Consequently, The Various Sections Of Original Data Have Been Tied Together At Their Overlapping Points, And Our Equaling The Monthly Average Of 1913. The Following Is A Summary Of The Time Periods, The Number Of Shares, Or Securities Involved, And The Par Value, In Thousands Of Pounds. 04/1887-12/1895, 19 Shares, Par Value Of 201,166; 12/1895-12/1906, 19 Shares, Par Value Of 213,007; 12/1906-12/1921, 26 Shares, Par Value Of 310,750; 12/1921-12/1922, 28 Shares, Par Value Of 376,460; 12/1922-1935, 13 Shares, Par Value Of 315,325. July 30, 1914 Was The Day Of Closing For The Exchange. The Stock Exchange Was Closed For The Months Of September-December, 1914. \"Had Our Valuation Been Published... The One And Only Feature Would Have Been A Substantial Improvement In The Ordinairy Stocks Of English Railways. This Improvement, However, Has Since Been Lost And There Is Very Little Movement To Note When Compared With Two Months Ago.\" (NBER Note Regarding To The Missing Data For August, 1921) Source: Bankers' Magazine, London And Computed By NBER (See Note Below).\n\nThis NBER data series m11014 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11014"
+}

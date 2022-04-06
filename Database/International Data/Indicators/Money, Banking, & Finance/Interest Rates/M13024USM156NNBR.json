@@ -1,0 +1,18 @@
+{
+  "id": "M13024USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yields of High Grade Railroad Bonds for United States",
+  "observation_start": "1900-01-01",
+  "observation_end": "1963-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:18:28-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Data For 1900-1928 Are Based Upon The Mean Of The Monthly High And Low Price Of Five High Grade Bonds. Data For 1929-1937 Are Based Upon A Varying Group Of A1+ Bonds, One Price Monthly Being Used. Data Beginning April 1937 Are Based On The Average Of The Four Or Five Weekly A1+ Indexes. The Yield To Maturity Has Been Used. Missing Data For August-October 1914 Is Due To The Stock Exchange Closing. Source: Standard And Poor'S, Data For 1900-1946: \"Long Term Security Price Index Record (Through December 31, 1940)\", P. 128;\"Security Price Record: 1941 And 1943\", P. 13;\"Current Statistics Combined With Basic Statistics\", 1944-1946. Data For 1947: \"Statistics: Security Price Index Record\", 1948 Edition, P. 134. Data For 1948-1950: \"Current Statistics Combined With Basic Statistics\", January Issues Of 1949-1950. Data For 1951-1963: \"Current Statistics\", February 1952 And Successive Issues.\n\nThis NBER data series m13024 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13024"
+}

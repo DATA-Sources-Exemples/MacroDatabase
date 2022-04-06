@@ -1,0 +1,18 @@
+{
+  "id": "B985RX1A020NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Intellectual property products: Software",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:59:39-05",
+  "popularity": 2,
+  "group_popularity": 4,
+  "notes": "BEA Account Code: B985RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0581CUSM435NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Storage Holdings of Refined Lard, Cold and Dry for United States",
+  "observation_start": "1949-01-01",
+  "observation_end": "1954-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Pounds of Lard",
+  "units_short": "Mil. Of Pounds Of Lard",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:49:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1915-1952 (2)--Original, 1946-1954 (3)--Original, 1949-1954 (4)--Seasonally Adjusted, 1916-1930. Source: U.S. Bureau Of The Census, Facts For Industry, Series M-17, \"Animal And Vegetable Fats And Oils, \" Various Annual Issues\n\nThis NBER data series m05081c appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05081c"
+}

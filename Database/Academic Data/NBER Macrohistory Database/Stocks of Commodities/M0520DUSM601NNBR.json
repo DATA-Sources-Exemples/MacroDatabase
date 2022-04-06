@@ -1,0 +1,18 @@
+{
+  "id": "M0520DUSM601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Refined Copper Stocks, End of the Month for United States",
+  "observation_start": "1933-06-01",
+  "observation_end": "1957-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:09-05",
+  "popularity": 1,
+  "group_popularity": 5,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1909-1914 (2)--Original Data, 1919-1938 (3)--Original, 1937-1946 (4)--Original, 1933-1957. Data Represent Stocks At Refineries, On Consignment And In Exchange Warehouses Exclusive Of Consumers' Stocks At Their Plants Or Warehouses, And Exclusive Of Government Stocks, Covering Also Copper From Foreign Secondary Materials Made By Primary Refiners. Only Duty Free Foreign Material Is Included Through 1946. Beginning With 1947, Copper Produced From Dutiable Foreign Material Is Included, Yet This Does Not Affect The Series Because Examination Of Copper Imports In Foreign Commerce And Navigation Of The U.S. For 1946 Shows That Only About Six Percent Of Such Imports Were Dutiable While Almost 94 % Were Duty Free. According To The Survey Of Current Business (1955 Supplement, Note 7, P. 159), The Tariff Of Copper Was Suspended During 1947. Data Beginning In 1947 Are Therefore Considered Comparable With Earlier Data. Data In \"Metal Statistics\" Should Be Used With Caution Due To Frequent Errors. According To The Source, Data For August 1956 Include Some Government Stocks. No Information As To The Quantity Is Given. Source: Data For 1938-1940: American Bureau Of Metal Statistics Yearbook; Data For 1941-July 1954: U.S. Department Of Commerce, Survey Of Current Business, Supplements And Monthly Issues; Data For August 1954-1957: American Metal Market, \"Metal Statistics, \" Annual Publication\n\nThis NBER data series m05020d appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05020d"
+}

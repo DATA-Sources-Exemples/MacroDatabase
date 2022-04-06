@@ -1,0 +1,18 @@
+{
+  "id": "N411RC1Q027SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Corporate profits with inventory valuation adjustments: Domestic industries: Nonfinancial: Manufacturing: Durable goods: Motor vehicles, bodies and trailers, and parts",
+  "observation_start": "2001-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:57:31-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "BEA Account Code: N411RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

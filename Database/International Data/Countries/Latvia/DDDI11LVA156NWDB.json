@@ -1,0 +1,18 @@
+{
+  "id": "DDDI11LVA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Insurance Company Assets to GDP for Latvia",
+  "observation_start": "1997-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:31:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Ratio of assets of insurance companies to GDP.\n\nData taken from a variety of sources such as AXCO and national sources. (World Bank - Non banking financial database)\n\nSource Code: GFDD.DI.11"
+}

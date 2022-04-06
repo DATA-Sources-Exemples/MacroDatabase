@@ -1,0 +1,18 @@
+{
+  "id": "M13030US35620M156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Weighted Average of Open Market Rates for New York, NY",
+  "observation_start": "1919-01-01",
+  "observation_end": "1941-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:02-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Computed By NBER Using The Same Method Riefles Used But They Carried Their Computatins Out One More Decimal Place. Both Sources Used F.R.B. Weighting Rates When Averaging. Riefles Gives The Following Weights--(1)--Average Rate On Stock Exchange Call Loan Renewals, Weight 3 (2)--Prevailing Rate On Prime Commercial Paper, 4-6 Months, Weight 3 (3)--Prevailing Rate On Prime Bankers' Acceptances, 90 Days, Weight 2 (4)--Prevailing Rate On Stock Exchange Time Loans, 90 Days, Weight 2. Source: Data For 1919-1920: W.W. Riefles, Money Rates And Money Markets In The United States, 1930, Pp. 232-233. Data For 1921-1941: Computed By NBER From Annual Reports Of The Federal Reserve Board Beginning 1927; Bulletins; Weights Furnished By The Frb To Riefles; And The U.S. Department Of Commerce, Survey Of Current Business, June 1928, P. 21."
+}

@@ -1,15 +1,17 @@
-| Folder                             |   Files / Folders |
-|------------------------------------|-------------------|
-| Chicago-Naperville-Elgin, IL-IN-WI |                 2 |
-| Green Bay, WI                      |                 2 |
-| Racine, WI                         |                 2 |
-| La Crosse-Onalaska, WI-MN          |                 2 |
-| Eau Claire, WI                     |                 2 |
-| Appleton, WI                       |                 2 |
-| Madison, WI                        |                 2 |
-| Oshkosh-Neenah, WI                 |                 2 |
-| Janesville-Beloit, WI              |                 2 |
-| Milwaukee-Waukesha, WI             |                 2 |
-| Fond du Lac, WI                    |                 2 |
-| Sheboygan, WI                      |                 2 |
-| Wausau-Weston, WI                  |                 2 |
+| Folder                                  |   Files / Folders |
+|-----------------------------------------|-------------------|
+| Green Bay, WI                           |               170 |
+| Janesville-Beloit, WI                   |               167 |
+| Minneapolis-St. Paul-Bloomington, MN-WI |                 1 |
+| Duluth, MN-WI                           |                 1 |
+| Wausau-Weston, WI                       |               161 |
+| Chicago-Naperville-Elgin, IL-IN-WI      |               186 |
+| Racine, WI                              |               164 |
+| Madison, WI                             |               185 |
+| Sheboygan, WI                           |               153 |
+| Eau Claire, WI                          |               161 |
+| Appleton, WI                            |               173 |
+| Milwaukee-Waukesha, WI                  |               261 |
+| Fond du Lac, WI                         |               144 |
+| Oshkosh-Neenah, WI                      |               170 |
+| La Crosse-Onalaska, WI-MN               |                 1 |

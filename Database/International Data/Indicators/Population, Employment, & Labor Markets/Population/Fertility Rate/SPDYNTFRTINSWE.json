@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNTFRTINSWE",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Fertility Rate, Total for Sweden",
+  "observation_start": "1960-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Births per Woman",
+  "units_short": "Births per Woman",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-04-27 10:44:19-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates.\n\nWorld Bank Source: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Program, and (6) U.S. Census Bureau: International Database\n\nSource Indicator: SP.DYN.TFRT.IN"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A13049USA156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Earnings Yield of All Common Stocks on the New York Stock Exchange for United States",
+  "observation_start": "1871-01-01",
+  "observation_end": "1938-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:34-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "Earnings Is Refered To As Earnings Price Ratio In The Source. Source: Cowles Commission For Research In Economics, Monograph No. 3, Common Stock Indexes, 1939, Table R-1, P. 404-405.\n\nThis NBER data series a13049 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: a13049"
+}

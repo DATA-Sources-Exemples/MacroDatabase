@@ -1,0 +1,18 @@
+{
+  "id": "EFFRH",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Effective Federal Funds Rate: Intraday High (DISCONTINUED)",
+  "observation_start": "2000-07-03",
+  "observation_end": "2016-02-29",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-03-08 14:51:06-06",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "The federal funds market consists of domestic unsecured borrowings in U.S. dollars by depository institutions from other depository institutions and certain other entities, primarily government-sponsored enterprises.\n\n\nFor more information, see https://www.newyorkfed.org/markets/obfrinfo"
+}

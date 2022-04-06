@@ -1,0 +1,6 @@
+| id              | title                                                                                                                                        | observation_start   | observation_end   |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| A062RE1A156NBEA | Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Wage accruals less disbursements (DISCONTINUED)  | 1929-01-01          | 2011-01-01        |
+| B010RE1A156NBEA | Shares of gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Equipment and software (DISCONTINUED) | 1929-01-01          | 2012-01-01        |
+| B010RE1Q156NBEA | Shares of gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Equipment and software (DISCONTINUED) | 1947-01-01          | 2013-01-01        |
+| W269RE1A156NBEA | Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Disbursements (DISCONTINUED)                     | 1929-01-01          | 2011-01-01        |

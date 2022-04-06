@@ -1,0 +1,18 @@
+{
+  "id": "SLRTCR03SKQ657S",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Retail Trade Sales: Passenger Car Registrations for the Slovak Republic",
+  "observation_start": "2003-04-01",
+  "observation_end": "2018-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Growth Rate Previous Period",
+  "units_short": "Growth Rate Previous Period",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2019-07-12 11:40:53-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: SLRTCR03\nOECD unit ID: GPSA\nOECD country ID: SVK\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

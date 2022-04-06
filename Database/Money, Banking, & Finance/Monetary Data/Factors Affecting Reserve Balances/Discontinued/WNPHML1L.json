@@ -1,0 +1,18 @@
+{
+  "id": "WNPHML1L",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factors Supplying Reserve Balances: Net Portfolio Holdings of Maiden Lane LLC (DISCONTINUED)",
+  "observation_start": "2008-07-02",
+  "observation_end": "2018-06-13",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-06-14 15:41:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/WAML1L\n\n\nTo facilitate the acquisition of the Bear Stearns Companies, Inc. by JPMorgan Chase & Co., the Federal Reserve Bank of New York (FRBNY) created and extended credit to Maiden Lane LLC. Maiden Lane LLC is a limited liability company formed to acquire certain assets of Bear Stearns and to manage those assets through time to maximize the repayment of credit extended to it and to minimize disruption to financial markets. This line reports the fair value of the assets held by the LLC.Because the FRBNY is the primary beneficiary of the LLC, the assets and liabilities of the LLC are consolidated onto the books of the FRBNY."
+}

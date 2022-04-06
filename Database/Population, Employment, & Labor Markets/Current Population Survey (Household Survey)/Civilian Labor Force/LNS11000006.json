@@ -1,0 +1,18 @@
+{
+  "id": "LNS11000006",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Civilian Labor Force Level - Black or African American",
+  "observation_start": "1972-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 07:46:46-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS11000006"
+}

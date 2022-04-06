@@ -1,0 +1,18 @@
+{
+  "id": "M1035HUSM485NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Incorporations for New York , Illinois, Delaware, and Maine",
+  "observation_start": "1936-01-01",
+  "observation_end": "1949-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of New Incorporations",
+  "units_short": "Number Of New Incorporations",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Eight Variables--(1)--Original Data, 1860-1888 (2)--Original Data, 1888-1897 (3)--Original Data, 1897-1904 (4)--Original Data, 1904-1919 (5)--Original Data, 1918-1924 (6)--Original Data, 1924-1931 (7)--Original Data, 1931-1936 (8)--Original Data, 1936-1949. The States Covered Are New York, Illinois, Delaware, And Maine. Source: Survey Of Current Business\n\nThis NBER data series m10035h appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10035h"
+}

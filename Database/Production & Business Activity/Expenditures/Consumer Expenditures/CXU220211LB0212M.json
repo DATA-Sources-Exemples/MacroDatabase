@@ -1,0 +1,18 @@
+{
+  "id": "CXU220211LB0212M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Expenditures: Property Taxes by Income Before Taxes: $70,000 to $79,999",
+  "observation_start": "2003-01-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-01-15 11:16:30-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Income before taxes refers to the total money earnings and selected money receipts during the 12 months prior to the interview date.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
+}

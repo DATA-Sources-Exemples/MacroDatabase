@@ -1,0 +1,18 @@
+{
+  "id": "M05016USM576NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Merchant Pig Iron Stocks at Merchant Furnaces for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1926-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Long Tons",
+  "units_short": "Thous. of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:50:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The American Pig Iron Association Discontinued Its Statistical Activites After 1926, Many Plants Closed Down And It Was Difficult To Collect Dependable Statistics. Source: The Record Book Of Business Statistics, Part 2, P. 19\n\nThis NBER data series m05016 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05016"
+}

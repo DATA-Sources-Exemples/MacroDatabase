@@ -1,0 +1,18 @@
+{
+  "id": "CURRCIR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Currency in Circulation",
+  "observation_start": "1917-08-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 16:05:02-05",
+  "popularity": 78,
+  "group_popularity": 78,
+  "notes": "Data prior to 1991 are from various issues of Banking and Monetary Statistics and the Annual Statistical Digest. Data from 1991 forward are calculated using data from the H.4.1 Release - Factors Affecting Reserve Balances.\nAs of March 1, 2019, this series is calculated as a monthly average of fred.stlouisfed.org/series/WCURCIR."
+}

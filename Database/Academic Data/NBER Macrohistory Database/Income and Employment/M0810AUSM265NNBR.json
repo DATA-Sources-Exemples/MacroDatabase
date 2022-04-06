@@ -1,0 +1,18 @@
+{
+  "id": "M0810AUSM265NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Iron and Steel Manufacturing for United States",
+  "observation_start": "1920-06-01",
+  "observation_end": "1948-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Hour",
+  "units_short": "Cents Per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:26:57-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1948 (2)--Original Data, 1932-1959. The Bls Series Is Considered To Be Slightly Different In Industry Coverage. Source: For June, 1920 To June, 1936, National Industrial Conference Board, \"Wages, Hours, And Employment In The United States, 1914-1936\", (No. 229, 1936); For July, 1936 To December, 1937, Supplement To Conference Board Service Letter, June, 1938; For 1938, Conference Board Economic Record, March 28, 1940; From 1939 To April 1943, The Conference Board Management Record, June, 1943; For May, 1943 To July, 1948, Conference Board Management Record And Subsequent Issues.\n\nThis NBER data series m08210a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08210a"
+}

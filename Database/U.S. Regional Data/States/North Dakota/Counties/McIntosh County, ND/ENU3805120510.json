@@ -1,0 +1,18 @@
+{
+  "id": "ENU3805120510",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Private Establishments for All Industries in McIntosh County, ND",
+  "observation_start": "1990-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Establishments",
+  "units_short": "Establishments",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 11:19:49-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "An establishment is an economic unit, such as a factory, mine, store, or office that produces goods or services. It generally is at a single location and is engaged predominantly in one type of economic activity. Where a single location encompasses two or more distinct activities, these are treated as separate establishments, if separate payroll records are available, and the various activities are classified under different industry codes."
+}

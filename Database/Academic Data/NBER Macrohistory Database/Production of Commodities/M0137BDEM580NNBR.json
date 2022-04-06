@@ -1,0 +1,18 @@
+{
+  "id": "M0137BDEM580NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Raw Steel Production for Germany",
+  "observation_start": "1914-01-01",
+  "observation_end": "1920-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Metric Tons",
+  "units_short": "Thous. Of Metric Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:12-05",
+  "popularity": 2,
+  "group_popularity": 13,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1914-1918 (2)--Original Data, 1914-1920 (3)--Original Data, 1914-1935 Data Were Computed By Subtracting Figures For Alsace-Lorraine And Luxembourg, Which Are Not Covered. Source: Wirtschaftsgruppe Eisen Schaffende Industrie (Formerly Verein Deutscher Eisen Und Stahl Industrieller), \"Die Rohstahl - Gerwinnung Im Deutscher Zollgebiet, 1910 Bis 1924\", February 1925, Pp. 9-12.\n\nThis NBER data series m01137b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01137b"
+}

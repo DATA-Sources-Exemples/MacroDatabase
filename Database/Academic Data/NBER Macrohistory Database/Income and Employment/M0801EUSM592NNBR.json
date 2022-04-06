@@ -1,0 +1,18 @@
+{
+  "id": "M0801EUSM592NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Employment, Leather and Manufactures for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1956-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Production Workers",
+  "units_short": "Thous. Of Production Workers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:16:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1919-1942 (2)--Original Data, 1939-1956. This Segment Is Preceeded By A Segment That Covers 1919-1942, But That Represents An Index. Even So, Both Segments Are Considered Roughly Comparable. Source: Bureau Of Labor Statistics, For 1939-1953 Data: \"Employment, Hours, And Earnings\", Manufacturing Division, Nondurable Goods Subdivision, Leather And Leather Products, Unnumbered Releases Of February 1953 And May 1955; For 1954-1956 Data:\"Employment And Earnings, \" June 1956 And Following Issues.\n\nThis NBER data series m08101b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08101b"
+}

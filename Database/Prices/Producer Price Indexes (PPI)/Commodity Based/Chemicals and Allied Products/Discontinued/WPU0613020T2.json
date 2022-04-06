@@ -1,7 +1,7 @@
 {
   "id": "WPU0613020T2",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Other Inorganic Acids, Including Hydrochloric (DISCONTINUED)",
   "observation_start": "2002-06-01",
   "observation_end": "2008-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-14 10:33:01-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M06121USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Shipments, Blast Furnaces, Steel Mills for United States",
+  "observation_start": "1953-01-01",
+  "observation_end": "1965-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:49:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Have Been Adjusted For Trading-Day And Calendar-Month Variation. Revisions For 1961-1970 May Be Found In Census Bureau Series M3-1.2. Source: U.S. Bureau Of The Census, \"Manufacturers' Shipments, Inventories, And Orders: 1947-1963\", Revised, Series M3-1, October 1963;\"Business Statistics, 1965\", Biennial Supplement To Survey Of Current Business; Last Month Is From Current Statistical Reports, Series M3-1 (Same Title As Above), Monthly\n\nThis NBER data series m06121 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06121"
+}

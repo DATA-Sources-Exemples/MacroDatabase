@@ -1,0 +1,18 @@
+{
+  "id": "GRCB6CATT02NCCUQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Balance of payments BPM6: Capital account: Capital account Balance: Capital transfers Balance for Greece",
+  "observation_start": "2008-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "National currency, sum over component sub-periods",
+  "units_short": "National currency, sum over component sub-periods",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-18 12:47:49-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: B6CATT02 OECD unit ID: NCCU OECD country ID: GRC All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

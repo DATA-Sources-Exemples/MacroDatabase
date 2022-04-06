@@ -1,0 +1,18 @@
+{
+  "id": "M0604AUSM331SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Sales by Five and Ten Cent Variety Store Chains for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1934-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 13:46:24-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1919-1934 (2)--Seasonally Adjusted Data, 1929-1943 (3)--Original Data, 1935-1951 (4)--Original Data, 1951-1956. Data Were Compiled By The Federal Reserve Board, Division Of Research And Statistics From Reports Of 14 Ten-Cent Chains With 2944 Stores And $560,773,589 In Sales. In Earlier Years The Number Of Chains Was Generally Less, And Changes Were Made In The List As New Chains Were Added, But Data Are All Related To The Sales Of The Same Chains In The Base Period. The Seasonal Adjustment Allows For The Number Of Working Days In The Month (Excluding Sundays And National Holidays). Seasonal Variations Were Computed By The Ratio-To-Moving Average Method. Allowance Is Also Made For The Variation In The Date Of Easter. After 1929 Indexes Were Compiled By The U.S. Department Of Commerce And Are Based On Reported Monthly Sales Of F. And W. Grand, S.S. Kresge Co., S.H. Kress Co., Mccrory Stores, Mclellan Stores, F.C. Murphy Co., Issac Silver And Bros., And F.W. Woolworth Co. Source: U.S. Department Of Commerce, Survey Of Current Business, May 1928, Pp. 20-21; 1932 Annual Supplement, Pp. 44-45; Successive Issues\n\nThis NBER data series m06004a appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06004a"
+}

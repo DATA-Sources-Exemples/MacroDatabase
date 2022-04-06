@@ -1,0 +1,17 @@
+{
+  "id": "SANA648PCPI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Per Capita Personal Income in San Angelo, TX (MSA)",
+  "observation_start": "1969-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-16 07:40:08-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

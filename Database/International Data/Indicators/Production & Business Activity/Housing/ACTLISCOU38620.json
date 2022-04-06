@@ -1,0 +1,18 @@
+{
+  "id": "ACTLISCOU38620",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Housing Inventory: Active Listing Count in Ponca City, OK (CBSA)",
+  "observation_start": "2016-07-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Level",
+  "units_short": "Level",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 16:09:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The count of active single-family and condo/townhome listings for a given market during the specified month (excludes pending listings).\n\nWith the release of its November 2021 housing trends report, Realtor.com\u00ae incorporated a new and improved methodology for capturing and reporting housing inventory trends and metrics. The new methodology uses the latest and most accurate data mapping of listing statuses to yield a cleaner and more consistent measurement of active listings at both the national and local level. The methodology has also been adjusted to better account for missing data in some fields including square footage. Most areas across the country will see minor changes with a smaller handful of areas seeing larger updates. As a result of these changes, the data released since December 2021 will not be directly comparable with previous data releases (files downloaded before December 2021) and Realtor.com\u00ae economics blog posts. However, future data releases, including historical data, will consistently apply the new methodology. More details are available at the source's Real Estate Data Library (https://www.realtor.com/research/data/)."
+}

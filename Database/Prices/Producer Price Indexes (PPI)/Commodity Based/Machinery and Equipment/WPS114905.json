@@ -1,7 +1,7 @@
 {
   "id": "WPS114905",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Ball and Roller Bearings",
   "observation_start": "1974-01-01",
   "observation_end": "2012-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-02-15 13:01:06-06",
   "popularity": 3,
-  "group_popularity": 8
+  "group_popularity": 11
 }

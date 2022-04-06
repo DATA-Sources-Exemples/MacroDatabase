@@ -1,0 +1,18 @@
+{
+  "id": "M08033USM065NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Actual Hours of Work Per Week Per Wage Earner, Female, Twenty-Five Manufacturing Industries for United States",
+  "observation_start": "1920-06-01",
+  "observation_end": "1944-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours",
+  "units_short": "Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:10-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Data For January-June, 1922 Were Not Published. Source: National Industrial Conference Board, For 1920-1933 Data: Wages, Hours, And Employment In The United States, 1914-1936; For 1934-1941 Data: Nicb Economic Record, March 28, 1940 And Following Issues; For 1942-1944: Nicb Management Record.\n\nThis NBER data series m08033 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08033"
+}

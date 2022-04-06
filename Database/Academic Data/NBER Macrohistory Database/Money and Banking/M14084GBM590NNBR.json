@@ -1,0 +1,18 @@
+{
+  "id": "M14084GBM590NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Seven Day Bills and Others, Weekly Average, Bank of England for Great Britain",
+  "observation_start": "1844-09-01",
+  "observation_end": "1934-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Pounds Sterling",
+  "units_short": "Thous. Of Pounds Sterling",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:35:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1844-1904 (2)--Original Data, 1904-1934 (3)--Seasonally Adjusted, 1844-1934. Data For 1888-1904 Have Been Checked With Figures From The National Monetary Commission Report, Vol. 21; Parliamentary Papers; A Few Figures For 1860-1863 Found Missing In Bankers' Magazine Were Supplied By The Economist. Data Include Post Bills. Data For 1875 On Are Called \"Bank Post Bills\" In Bankers' Magazine. Source: Bankers' Magazine.\n\nThis NBER data series m14084 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14084"
+}

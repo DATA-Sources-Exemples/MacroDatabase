@@ -1,0 +1,18 @@
+{
+  "id": "M1436AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Other Currency Outside the Treasury for United States",
+  "observation_start": "1878-06-01",
+  "observation_end": "1914-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:37:00-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1914 (2)--Original Data, 1914-1919 (3)--Original Data, 1919-1949. Data Exclude Gold, Silver, National Bank Notes, And Minor Coin. Data Are End Of Month Figures Printed In Original Source As First Of Following Month. Source: Computed By NBER Using Data From The U.S. Treasury Department Data: Annual Reports Of The Treasurer, 1886 And Following Years; Circulation Statements Of U.S. Money, 1887 And Following Years.\n\nThis NBER data series m14136a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14136a"
+}

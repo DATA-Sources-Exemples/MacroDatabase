@@ -1,0 +1,18 @@
+{
+  "id": "RGMPADMINSUPUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Gross Domestic Product: Private Industries: Professional and Business Services: Administrative and Waste Management Services: Administrative and Support Services for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:50-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Administrative and Support Services NAICS subsector group establishments engaged in activities that support the day-to-day operations of other organizations. The processes employed in this sector (e.g., general management, personnel administration, clerical activities, cleaning activities) are often integral parts of the activities of establishments found in all sectors of the economy. The establishments classified in this subsector have specialized in one or more of these activities and can, therefore, provide services to clients in a variety of industries and, in some cases, to households. The individual industries of this subsector are defined on the basis of the particular process that they are engaged in and the particular services they provide.\n\nMany of the activities performed in this subsector are ongoing routine support functions that all businesses and organizations must do and that they have traditionally done for themselves. Recent trends, however, are to contract or purchase such services from businesses that specialize in such activities and can, therefore, provide the services more efficiently.\n\nThe industries in this subsector cannot be viewed as strictly \"support.\" The Travel Arrangement and Reservation Services industry group, includes travel agents, tour operators, and providers of other travel arrangement services, such as hotel and restaurant reservations and arranging the purchase of tickets, serves many types of clients, including individual consumers. This group was placed in this subsector because the services are often of the \"support\" nature (e.g., travel arrangement) and businesses and other organizations are increasingly the ones purchasing such services.\n\nThe administrative and management activities performed by establishments in this sector are typically on a contract or fee basis. These activities may also be performed by establishments that are part of the company or enterprise. However, establishments involved in administering, overseeing, and managing other establishments of the company or enterprise, are classified in Sector 55, Management of Companies and Enterprises. These establishments normally undertake the strategic and organizational planning and decision-making role of the company or enterprise. Government establishments engaged in administering, overseeing and managing governmental programs are classified in Sector 92, Public Administration.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

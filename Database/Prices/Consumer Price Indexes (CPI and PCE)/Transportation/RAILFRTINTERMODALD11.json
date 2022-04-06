@@ -1,7 +1,7 @@
 {
   "id": "RAILFRTINTERMODALD11",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Rail Freight Intermodal Traffic",
   "observation_start": "2000-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-09 13:07:13-06",
-  "popularity": 26,
-  "group_popularity": 38,
+  "popularity": 27,
+  "group_popularity": 40,
   "notes": "Monthly rail carloads and intermodals are estimated by dividing the weekly sum by 7 (7 days in a week) and then summing for the number of days in the month (31 days for May, 30 days for June, etc.).\n\nThis data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS) calculation from data collected by Association of American Railroads."
 }

@@ -1,0 +1,18 @@
+{
+  "id": "PRS88003142",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonfinancial Corporations Sector: Implicit Price Deflator for Employees",
+  "observation_start": "1947-04-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change at Annual Rate",
+  "units_short": "% Chg. at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-12-07 07:37:13-06",
+  "popularity": 3,
+  "group_popularity": 7,
+  "notes": "Implicit Price Deflator is the current dollar output divided by the output index.\n\nFor more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS88003142"
+}

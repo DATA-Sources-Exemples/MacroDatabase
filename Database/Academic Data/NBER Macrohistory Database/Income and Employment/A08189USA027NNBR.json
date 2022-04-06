@@ -1,0 +1,18 @@
+{
+  "id": "A08189USA027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Wages in Mining for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1938-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:18:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Simon Kuznets, National Income And Its Composition, 1919-1938, Volume Ii, 1941, Worksheets For Table Q2, P.551.\n\nThis NBER data series a08189 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08189"
+}

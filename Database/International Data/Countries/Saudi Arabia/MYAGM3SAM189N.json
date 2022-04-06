@@ -1,0 +1,18 @@
+{
+  "id": "MYAGM3SAM189N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "M3 for Saudi Arabia",
+  "observation_start": "1993-01-01",
+  "observation_end": "2018-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "National Currency",
+  "units_short": "National Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-04-29 07:02:15-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "M3 comprises M2 and other quasi-monetary liabilities of commercial banks. Other quasi-monetary liabilities comprise foreign currency deposits of businesses, individuals, and government entities; marginal deposits for letters of credit, outstanding remittances; and banks' repurchase agreements with the private sector.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0157DUSM331SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Production of Durable Goods for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1939-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-16 11:01:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Index Computed By The\"Twelve Months Moving Average Method\" On A Daily Average Output Basis. Data For March-September 1939 Exclude Carpet And Rug Figures. Source: Data For 1919-1933: Journal Of American Statistical Association, June 1935. Data For 1934-1939: Directly From Dr. G. W. Hervey, Consumers' Counsel Division, Agricultural Adjustment Administration.\n\nThis NBER data series m01057a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01057a"
+}

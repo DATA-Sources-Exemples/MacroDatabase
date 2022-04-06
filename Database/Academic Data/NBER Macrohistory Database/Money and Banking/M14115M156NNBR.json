@@ -1,0 +1,18 @@
+{
+  "id": "M14115M156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Member Banks in New York City",
+  "observation_start": "1918-01-01",
+  "observation_end": "1956-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:33:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Reserve Percentage Was Computed For Entire Period.\"Required Reserves\" Were Computed For 1918-1928 From Estimated Figures For Time Deposits And Net Demand Deposits. Monthly Averages Of Weekly Figures For 1918-1928; Monthly Averages Of Daily Figures In Following Years. Source: Series Computed From Federal Reserve Board Data. For 1918-1941: Reserve Data For All Member Banks And New York City From Federal Reserve Board, \"Banking And Monetary Statistics\"; Federal Reserve Board Monthly Bulletin Thereafter.\n\nThis NBER data series m14115 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14115"
+}

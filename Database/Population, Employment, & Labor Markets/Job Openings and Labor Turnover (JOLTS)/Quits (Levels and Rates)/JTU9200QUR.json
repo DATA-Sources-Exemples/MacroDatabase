@@ -1,0 +1,17 @@
+{
+  "id": "JTU9200QUR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quits: State and Local",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Rate",
+  "units_short": "Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-29 09:04:02-05",
+  "popularity": 11,
+  "group_popularity": 17
+}

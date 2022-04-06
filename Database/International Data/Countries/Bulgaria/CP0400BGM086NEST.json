@@ -1,0 +1,18 @@
+{
+  "id": "CP0400BGM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Housing, Water, Electricity, Gas, and Other Fuels for Bulgaria",
+  "observation_start": "1996-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:11:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Housing, Water, Electricity, Gas, and Other Fuels (04)\"; is a classification of nondurable goods, services, and energy. The category; Housing, Water, Electricity, Gas, and Other Fuels (04); contains Actual Rentals for Housing (04.1), Maintenance and Repair of the Dwelling (04.3), Water Supply and Miscellaneous Services Relating to the Dwelling (04.4), and Electricity, Gas, and Other Fuels (04.5) categories and all subcategories therein.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

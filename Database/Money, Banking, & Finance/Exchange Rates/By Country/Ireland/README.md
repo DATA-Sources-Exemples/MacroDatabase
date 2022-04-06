@@ -1,3 +1,2 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| Folder   | Files / Folders   |
+|----------|-------------------|

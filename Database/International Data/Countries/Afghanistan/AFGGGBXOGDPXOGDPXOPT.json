@@ -1,0 +1,18 @@
+{
+  "id": "AFGGGBXOGDPXOGDPXOPT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Overall Non-Oil Fiscal Balance for General Government for Afghanistan",
+  "observation_start": "2004-01-01",
+  "observation_end": "2015-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of Non-oil GDP",
+  "units_short": "% of Non-oil GDP",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-12-04 13:11:05-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Observations for the current and future years are projections.\n\nThe IMF provides these series as part of their Regional Economic Outlook (REO) reports. These reports discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in their regions and provide country-specific data and analysis.\n\nFor more information, please see the Regional Economic Outlook (https://www.imf.org/en/publications/reo) publications.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available here (http://www.imf.org/external/terms.htm)."
+}

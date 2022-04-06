@@ -1,0 +1,18 @@
+{
+  "id": "AMBOR1W",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "1-Week AMERIBOR Term Structure of Interest Rates",
+  "observation_start": "2021-06-20",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 07:03:05-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "AMERIBOR\u00ae (American Interbank Offered Rate) is a benchmark interest rate based on overnight unsecured loans transacted on the American Financial Exchange (AFX). AMERIBOR\u00ae is calculated as the transaction volume weighted average interest rate of the daily transactions in the AMERIBOR\u00ae overnight unsecured loan market on the AFX. The arbitrage free AMERIBOR\u00ae Term Structure of Interest Rates is derived from the Overnight Unsecured AMERIBOR\u00ae Interest Rate (AMERIBOR (https://fred.stlouisfed.org/series/AMERIBOR)) and the implied AMERIBOR\u00ae forward rates from the AMERIBOR\u00ae futures prices. More details about AMERIBOR\u00ae methodology can be found on the source's website (https://ameribor.net), under the Resources section.\n\nAMERIBOR\u00ae is a registered trademark of the American Financial Exchange (AFX). \u00a9 Copyright, American Financial Exchange (AFX). All Rights Reserved."
+}

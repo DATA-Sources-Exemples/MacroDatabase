@@ -1,0 +1,18 @@
+{
+  "id": "WLCFOCEL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Liquidity and Credit Facilities: Loans: Other Credit Extensions: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:12-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "The value of loans made by Federal Reserve Banks that are not categorized elsewhere on this balance sheet. Recently, this line included emergency credit to Bear Stearns that was announced on March 16, 2008, and, before the credit extension was listed separately, the credit extended to AIG."
+}

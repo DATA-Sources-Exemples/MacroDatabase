@@ -1,2 +1,8 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id             | title                                                                                                                    | observation_start   | observation_end   |
+|----------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CDCABSNNCB     | Nonfinancial Corporate Business; Checkable Deposits and Currency, Excluding Corporate Farms; Asset, Level (DISCONTINUED) | 1949-10-01          | 2015-01-01        |
+| MFSABSNNCB     | Nonfinancial Corporate Business; Mutual Fund Shares; Asset (DISCONTINUED)                                                | 1949-10-01          | 2015-01-01        |
+| MVEONWMVBSNNCB | Nonfinancial Corporate Business; Corporate Equities; Liability, Level (DISCONTINUED)                                     | 1945-10-01          | 2017-10-01        |
+| NCBFDIUSL      | Nonfinancial Corporate Business; Foreign Direct Investment in U.S.; Liability (DISCONTINUED)                             | 1945-10-01          | 2017-10-01        |
+| NCBUSDIAA      | Nonfinancial Corporate Business; U.S. Direct Investment Abroad; Asset (DISCONTINUED)                                     | 1945-10-01          | 2017-10-01        |
+| REABSNNCB      | Nonfinancial Corporate Business; Real Estate at Market Value, Level (DISCONTINUED)                                       | 1949-10-01          | 2015-01-01        |

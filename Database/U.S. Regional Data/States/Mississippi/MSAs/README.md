@@ -1,6 +1,7 @@
 | Folder              |   Files / Folders |
 |---------------------|-------------------|
-| Jackson, MS         |                 2 |
-| Gulfport-Biloxi, MS |                 2 |
-| Pascagoula, MS      |                 2 |
-| Hattiesburg, MS     |                 2 |
+| Pascagoula, MS      |                 6 |
+| Jackson, MS         |               205 |
+| Memphis, TN-MS-AR   |                 1 |
+| Gulfport-Biloxi, MS |               165 |
+| Hattiesburg, MS     |               140 |

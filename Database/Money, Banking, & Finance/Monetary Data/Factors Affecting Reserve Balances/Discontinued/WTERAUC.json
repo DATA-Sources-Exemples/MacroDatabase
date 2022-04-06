@@ -1,0 +1,18 @@
+{
+  "id": "WTERAUC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Reserve Bank Credit: Term Auction Credit (DISCONTINUED)",
+  "observation_start": "2007-12-26",
+  "observation_end": "2011-04-20",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2011-04-22 08:18:08-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Under the Term Auction Facility (TAF) program, the Federal Reserve auctions term funds to depository institutions. All depository institutions judged to be in generally sound financial condition by their local Reserve Bank and that are eligible to borrow under the primary credit discount window program are eligible to participate in TAF auctions. All advances must be fully collateralized with an appropriate haircut."
+}

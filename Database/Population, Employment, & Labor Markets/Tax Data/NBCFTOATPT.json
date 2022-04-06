@@ -1,0 +1,18 @@
+{
+  "id": "NBCFTOATPT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Primary Taxpayer",
+  "observation_start": "1999-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Boxes Checked",
+  "units_short": "Number of Boxes Checked",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-12-19 13:31:10-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Exemption amounts were indexed for inflation. Amounts were also limited for taxpayers with high incomes. A check box on the return was used for taxpayer's age 65 or over, in general, for use in establishing claims for the additional standard deductions, but many taxpayers not claiming the additional deductions also used the check box. The amount shown for exemptions excludes amounts in excess of AGI, which were reported but could not be used by the taxpayer. The number of exemptions and amounts also excludes the number and amounts reported on returns with no AGI, which did not figure into the computation of tax as a result. \n\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
+}

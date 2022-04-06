@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEMC",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Consumer Price Index for All Urban Consumers: Professional Services in U.S. City Average",
   "observation_start": "1980-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:39:13-06",
-  "popularity": 15,
-  "group_popularity": 17
+  "popularity": 18,
+  "group_popularity": 21
 }

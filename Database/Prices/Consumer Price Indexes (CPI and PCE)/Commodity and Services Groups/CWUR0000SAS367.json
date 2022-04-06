@@ -1,7 +1,7 @@
 {
   "id": "CWUR0000SAS367",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Other Services in U.S. City Average",
   "observation_start": "1967-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:37:41-06",
   "popularity": 2,
-  "group_popularity": 3
+  "group_popularity": 5
 }

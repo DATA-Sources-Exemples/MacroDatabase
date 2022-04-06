@@ -1,0 +1,18 @@
+{
+  "id": "A0199ADEA324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Production, Consumers' Goods for Germany",
+  "observation_start": "1860-01-01",
+  "observation_end": "1913-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:50:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Five Varibles--(1)--Original Data, 1860-1913 (2)--Original Data, 1920-1931 (3)--Original Data, 1925-1934 (4)--Original Data, 1920-1931 (5)--Original Data, 1925-1934. Coverage Includes Elastic And Inelastic. Index Includes Food, Beverages, Tobacco, Textiles (Except Jute), Leather, Glass, Porcelain, Automobiles (Half). Source: Vierteljahrshefte Zur Konjunkturforschung, Sonderheft 31, P. 58; Also See Konjunktur-Statistiches Handbuch, 1936, P. 47.\n\nThis NBER data series a01199a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01199a"
+}

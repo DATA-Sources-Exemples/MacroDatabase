@@ -1,0 +1,18 @@
+{
+  "id": "WGS3MO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity",
+  "observation_start": "1981-09-04",
+  "observation_end": "2022-04-01",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:17:13-05",
+  "popularity": 30,
+  "group_popularity": 71,
+  "notes": "Averages of business days. For further information regarding treasury constant maturity data, please refer to http://www.federalreserve.gov/releases/h15/current/h15.pdf and http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PERMIT5NSA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 07:02:21-05",
+  "popularity": 8,
+  "group_popularity": 27
+}

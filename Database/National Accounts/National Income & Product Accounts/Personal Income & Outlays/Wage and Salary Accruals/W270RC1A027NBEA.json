@@ -1,0 +1,18 @@
+{
+  "id": "W270RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross domestic income: Compensation of employees, paid: Wages and salaries: to persons",
+  "observation_start": "1948-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:58:28-05",
+  "popularity": 2,
+  "group_popularity": 9,
+  "notes": "BEA Account Code: W270RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

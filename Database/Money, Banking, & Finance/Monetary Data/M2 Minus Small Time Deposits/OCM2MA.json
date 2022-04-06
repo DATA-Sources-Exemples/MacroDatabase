@@ -1,0 +1,18 @@
+{
+  "id": "OCM2MA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real User Cost Index of MSI-M2M (alternative)",
+  "observation_start": "1967-01-01",
+  "observation_end": "2013-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-01-17 07:16:41-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Preferred benchmark rate equals 100 basis points plus the largest rate in the set of rates.\nAlternative benchmark rate equals the larger of the preferred benchmark rate and the Baa corporate bond yield."
+}

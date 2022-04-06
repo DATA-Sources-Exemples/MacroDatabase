@@ -1,0 +1,18 @@
+{
+  "id": "MPU9920742",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Durable Manufacturing Sector: Contribution of Energy Intensity",
+  "observation_start": "1987-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-25 12:25:18-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Energy intensity is a measure of the energy efficiency of a nation's economy. It is calculated as units of energy per unit of GDP. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU9920742"
+}

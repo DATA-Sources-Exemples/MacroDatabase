@@ -1,0 +1,18 @@
+{
+  "id": "DRSDCL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Percentage of Domestic Banks Reporting Stronger Demand for Consumer Loans (DISCONTINUED)",
+  "observation_start": "1991-10-01",
+  "observation_end": "2011-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-11-04 16:10:03-06",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
+}

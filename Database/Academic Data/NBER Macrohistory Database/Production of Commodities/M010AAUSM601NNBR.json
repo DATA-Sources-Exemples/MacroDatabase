@@ -1,0 +1,18 @@
+{
+  "id": "M010AAUSM601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Slab Zinc Production for United States",
+  "observation_start": "1917-01-01",
+  "observation_end": "1941-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. Of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:52:01-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1917-1941 (2)--Original Data, 1940-1955 No Monthly Data Were Collected For 1919. Data Beginning With 1929 Covers Zinc Produced From Domestic Ores Only. The Differences Are Negligible And Series Can Be Used As Continous. Source: Record Book Of Business Statistics, Part Ii, P. 52; Survey Of Current Business, Supplement 1927-1928; 1932 Supplement, P. 228; 1936 Supplement, P. 125; And Successive Supplements Through The 1955 Edition, Monthly Issues Thereafter.\n\nThis NBER data series m01140aa appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01140aa"
+}

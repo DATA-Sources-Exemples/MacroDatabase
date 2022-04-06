@@ -1,0 +1,18 @@
+{
+  "id": "M0809ZUSM331NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Employment, Furniture for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1942-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:20:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1942 (2)--Original Data, 1947-1957. Rounded Figures For September 1942 Are -- Original, 92; Adjusted, 88. The Segment Can Be Continued Through July 1949. The Later Segment In The Series, Beginning In 1947, Covers Different Industries And Is Not Comparable With This Data, Later Data Refer Only To Number Of Workers And Not An Index. Source: Bureau Of Labor Statistics, For 1919-1930 Data: Bulletin No. 610, Pp.101, 51-52; For 1931-1934: Mimeographed Release, September 1938, \"Revised Index Numbers Of Factory Employment And Payrolls\"; For 1935-1939: Mimeographed Release Of May 1940; For 1940-1942:\"Employment And Payrolls\" And Monthly Labor Review.\n\nThis NBER data series m08109a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08109a"
+}

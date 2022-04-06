@@ -1,0 +1,191 @@
+| id           | title                                                                                                                                     | observation_start   | observation_end   |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COASEANZ31   | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Association of Southeast Asian Nations                                    | 2012-06-01          | 2022-02-01        |
+| COASEANZ33   | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Association of Southeast Asian Nations                                    | 2012-06-01          | 2022-02-01        |
+| COASEANZ311  | Import Price Index by Origin (NAICS): Food Manufacturing for Association of Southeast Asian Nations                                       | 2012-06-01          | 2022-02-01        |
+| COASEANZ315  | Import Price Index by Origin (NAICS): Apparel Manufacturing for Association of Southeast Asian Nations                                    | 2012-06-01          | 2022-02-01        |
+| COASEANZ334  | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Association of Southeast Asian Nations            | 2012-06-01          | 2022-02-01        |
+| COASEANZ337  | Import Price Index by Origin (NAICS): Furniture and Related Product Manufacturing for Association of Southeast Asian Nations              | 2012-06-01          | 2022-02-01        |
+| COASEANZ339  | Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for Association of Southeast Asian Nations                              | 2012-06-01          | 2022-02-01        |
+| COCANZ21     | Import Price Index by Origin (NAICS): Mining, Quarrying, and Oil and Gas Extraction for Canada                                            | 2012-06-01          | 2022-02-01        |
+| COCANZ31     | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Canada                                                                    | 2012-06-01          | 2022-02-01        |
+| COCANZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Canada                                                                    | 2012-06-01          | 2022-02-01        |
+| COCANZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Canada                                                                    | 2012-06-01          | 2022-02-01        |
+| COCANZ311    | Import Price Index by Origin (NAICS): Food Manufacturing for Canada                                                                       | 2012-06-01          | 2022-02-01        |
+| COCANZ321    | Import Price Index: Wood product manufacturing for Canada                                                                                 | 2012-06-01          | 2018-12-01        |
+| COCANZ322    | Import Price Index by Origin (NAICS): Paper Manufacturing for Canada                                                                      | 2019-12-01          | 2022-02-01        |
+| COCANZ325    | Import Price Index by Origin (NAICS): Chemical Manufacturing for Canada                                                                   | 2012-06-01          | 2022-02-01        |
+| COCANZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for Canada                                                                  | 2012-06-01          | 2022-02-01        |
+| COCANZ334    | Import Price Index: Computer and electronic product manufacturing for Canada                                                              | 2012-06-01          | 2020-12-01        |
+| COCANZ3211   | Import Price Index: Sawmills and wood preservation for Canada                                                                             | 2012-06-01          | 2020-12-01        |
+| COCANZ3221   | Import Price Index by Origin (NAICS): Pulp, Paper, and Paperboard Mills for Canada                                                        | 2019-12-01          | 2021-12-01        |
+| COCHNZ31     | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for China                                                                     | 2012-06-01          | 2022-02-01        |
+| COCHNZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for China                                                                     | 2012-06-01          | 2022-02-01        |
+| COCHNZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for China                                                                     | 2012-06-01          | 2022-02-01        |
+| COCHNZ314    | Import Price Index by Origin (NAICS): Textile Product Mills for China                                                                     | 2012-06-01          | 2022-02-01        |
+| COCHNZ315    | Import Price Index by Origin (NAICS): Apparel Manufacturing for China                                                                     | 2012-06-01          | 2022-02-01        |
+| COCHNZ316    | Import Price Index by Origin (NAICS): Leather and Allied Product Manufacturing for China                                                  | 2012-06-01          | 2022-02-01        |
+| COCHNZ325    | Import Price Index by Origin (NAICS): Chemical Manufacturing for China                                                                    | 2012-06-01          | 2022-02-01        |
+| COCHNZ326    | Import Price Index by Origin (NAICS): Plastics and Rubber Products Manufacturing for China                                                | 2012-06-01          | 2022-02-01        |
+| COCHNZ327    | Import Price Index: Nonmetallic mineral product manufacturing for China                                                                   | 2012-06-01          | 2020-12-01        |
+| COCHNZ332    | Import Price Index by Origin (NAICS): Fabricated Metal Product Manufacturing for China                                                    | 2012-06-01          | 2022-02-01        |
+| COCHNZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for China                                                                   | 2012-06-01          | 2022-02-01        |
+| COCHNZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for China                                             | 2012-06-01          | 2022-02-01        |
+| COCHNZ335    | Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for China                              | 2012-06-01          | 2022-02-01        |
+| COCHNZ337    | Import Price Index by Origin (NAICS): Furniture and Related Product Manufacturing for China                                               | 2012-06-01          | 2022-02-01        |
+| COCHNZ339    | Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for China                                                               | 2012-06-01          | 2022-02-01        |
+| COCHNZ3141   | Import Price Index by Origin (NAICS): Textile Furnishings Mills for China                                                                 | 2012-06-01          | 2022-02-01        |
+| COCHNZ3152   | Import Price Index by Origin (NAICS): Cut and Sew Apparel Manufacturing for China                                                         | 2012-06-01          | 2022-02-01        |
+| COCHNZ3162   | Import Price Index by Origin (NAICS): Footwear Manufacturing for China                                                                    | 2012-06-01          | 2022-02-01        |
+| COCHNZ3261   | Import Price Index by Origin (NAICS): Plastics Product Manufacturing for China                                                            | 2012-06-01          | 2022-02-01        |
+| COCHNZ3322   | Import Price Index by Origin (NAICS): Cutlery and Handtool Manufacturing for China                                                        | 2019-12-01          | 2022-02-01        |
+| COCHNZ3342   | Import Price Index by Origin (NAICS): Communications Equipment Manufacturing for China                                                    | 2012-06-01          | 2022-02-01        |
+| COCHNZ3343   | Import Price Index by Origin (NAICS): Audio and Video Equipment Manufacturing for China                                                   | 2012-06-01          | 2022-02-01        |
+| COCHNZ3344   | Import Price Index: Semiconductor and other electronic component manufacturing for China                                                  | 2012-06-01          | 2018-12-01        |
+| COCHNZ3345   | Import Price Index by Origin (NAICS): Navigational, Measuring, Electromedical, and Control Instruments Manufacturing for China            | 2012-06-01          | 2022-02-01        |
+| COCHNZ3351   | Import Price Index by Origin (NAICS): Electric Lighting Equipment Manufacturing for China                                                 | 2012-06-01          | 2022-02-01        |
+| COCHNZ3352   | Import Price Index by Origin (NAICS): Household Appliance Manufacturing for China                                                         | 2012-06-01          | 2022-02-01        |
+| COCHNZ3359   | Import Price Index: Other electrical equipment and component manufacturing for China                                                      | 2012-06-01          | 2019-12-01        |
+| COCHNZ3371   | Import Price Index by Origin (NAICS): Household and Institutional Furniture and Kitchen Cabinet Manufacturing for China                   | 2012-06-01          | 2022-02-01        |
+| COCHNZ3399   | Import Price Index by Origin (NAICS): Other Miscellaneous Manufacturing for China                                                         | 2012-06-01          | 2022-02-01        |
+| COEECZ31     | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for European Union                                                            | 2012-06-01          | 2022-02-01        |
+| COEECZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for European Union                                                            | 2012-06-01          | 2022-02-01        |
+| COEECZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for European Union                                                            | 2012-06-01          | 2022-02-01        |
+| COEECZ311    | Import Price Index by Origin (NAICS): Food Manufacturing for European Union                                                               | 2012-06-01          | 2022-02-01        |
+| COEECZ312    | Import Price Index by Origin (NAICS): Beverage and Tobacco Product Manufacturing for European Union                                       | 2019-12-01          | 2022-02-01        |
+| COEECZ325    | Import Price Index by Origin (NAICS): Chemical Manufacturing for European Union                                                           | 2012-06-01          | 2022-02-01        |
+| COEECZ326    | Import Price Index: Plastics and rubber products manufacturing for European Union                                                         | 2012-06-01          | 2020-12-01        |
+| COEECZ327    | Import Price Index: Nonmetallic mineral product manufacturing for European Union                                                          | 2012-06-01          | 2020-12-01        |
+| COEECZ331    | Import Price Index by Origin (NAICS): Primary Metal Manufacturing for European Union                                                      | 2012-06-01          | 2022-02-01        |
+| COEECZ332    | Import Price Index by Origin (NAICS): Fabricated Metal Product Manufacturing for European Union                                           | 2012-06-01          | 2022-02-01        |
+| COEECZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for European Union                                                          | 2012-06-01          | 2022-02-01        |
+| COEECZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for European Union                                    | 2012-06-01          | 2022-02-01        |
+| COEECZ335    | Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for European Union                     | 2012-06-01          | 2022-02-01        |
+| COEECZ339    | Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for European Union                                                      | 2012-06-01          | 2022-02-01        |
+| COEECZ3254   | Import Price Index by Origin (NAICS): Pharmaceutical and Medicine Manufacturing for European Union                                        | 2012-06-01          | 2022-02-01        |
+| COEECZ3329   | Import Price Index by Origin (NAICS): Other Fabricated Metal Product Manufacturing for European Union                                     | 2012-06-01          | 2022-02-01        |
+| COEECZ3331   | Import Price Index by Origin (NAICS): Agriculture, Construction, and Mining Machinery Manufacturing for European Union                    | 2012-06-01          | 2022-02-01        |
+| COEECZ3332   | Import Price Index by Origin (NAICS): Industrial Machinery Manufacturing for European Union                                               | 2012-06-01          | 2022-02-01        |
+| COEECZ3336   | Import Price Index: Engine, turbine, and power transmission equipment manufacturing for European Union                                    | 2012-06-01          | 2018-12-01        |
+| COEECZ3339   | Import Price Index by Origin (NAICS): Other General Purpose Machinery Manufacturing for European Union                                    | 2012-06-01          | 2022-02-01        |
+| COGERZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Germany                                                                   | 2012-06-01          | 2022-02-01        |
+| COGERZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for Germany                                                                 | 2012-06-01          | 2022-02-01        |
+| COGERZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Germany                                           | 2012-06-01          | 2022-02-01        |
+| COINDUSZ21   | Import Price Index by Origin (NAICS): Mining, Quarrying, and Oil and Gas Extraction for Industrialized Countries                          | 2012-06-01          | 2022-02-01        |
+| COINDUSZ31   | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Industrialized Countries                                                  | 2012-06-01          | 2022-02-01        |
+| COINDUSZ32   | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Industrialized Countries                                                  | 2012-06-01          | 2022-02-01        |
+| COINDUSZ33   | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Industrialized Countries                                                  | 2012-06-01          | 2022-02-01        |
+| COINDUSZ311  | Import Price Index by Origin (NAICS): Food Manufacturing for Industrialized Countries                                                     | 2012-06-01          | 2022-02-01        |
+| COINDUSZ312  | Import Price Index by Origin (NAICS): Beverage and Tobacco Product Manufacturing for Industrialized Countries                             | 2019-12-01          | 2022-02-01        |
+| COINDUSZ321  | Import Price Index: Wood product manufacturing for Industrialized Countries                                                               | 2012-06-01          | 2018-12-01        |
+| COINDUSZ322  | Import Price Index by Origin (NAICS): Paper Manufacturing for Industrialized Countries                                                    | 2012-06-01          | 2022-02-01        |
+| COINDUSZ325  | Import Price Index by Origin (NAICS): Chemical Manufacturing for Industrialized Countries                                                 | 2012-06-01          | 2022-02-01        |
+| COINDUSZ326  | Import Price Index by Origin (NAICS): Plastics and Rubber Products Manufacturing for Industrialized Countries                             | 2012-06-01          | 2022-02-01        |
+| COINDUSZ327  | Import Price Index: Nonmetallic mineral product manufacturing for Industrialized Countries                                                | 2012-06-01          | 2020-12-01        |
+| COINDUSZ331  | Import Price Index by Origin (NAICS): Primary Metal Manufacturing for Industrialized Countries                                            | 2012-06-01          | 2022-02-01        |
+| COINDUSZ332  | Import Price Index by Origin (NAICS): Fabricated Metal Product Manufacturing for Industrialized Countries                                 | 2012-06-01          | 2022-02-01        |
+| COINDUSZ333  | Import Price Index by Origin (NAICS): Machinery Manufacturing for Industrialized Countries                                                | 2012-06-01          | 2022-02-01        |
+| COINDUSZ334  | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Industrialized Countries                          | 2012-06-01          | 2022-02-01        |
+| COINDUSZ335  | Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for Industrialized Countries           | 2012-06-01          | 2022-02-01        |
+| COINDUSZ339  | Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for Industrialized Countries                                            | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3116 | Import Price Index by Origin (NAICS): Animal Slaughtering and Processing for Industrialized Countries                                     | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3211 | Import Price Index: Sawmills and wood preservation for Industrialized Countries                                                           | 2012-06-01          | 2020-12-01        |
+| COINDUSZ3221 | Import Price Index: Pulp, paper, and paperboard mills for Industrialized Countries                                                        | 2012-06-01          | 2020-12-01        |
+| COINDUSZ3251 | Import Price Index by Origin (NAICS): Basic Chemical Manufacturing for Industrialized Countries                                           | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3254 | Import Price Index by Origin (NAICS): Pharmaceutical and Medicine Manufacturing for Industrialized Countries                              | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3256 | Import Price Index: Soap, cleaning compound, and toilet preparation manufacturing for Industrialized Countries                            | 2012-06-01          | 2018-12-01        |
+| COINDUSZ3262 | Import Price Index: Rubber product manufacturing for Industrialized Countries                                                             | 2012-06-01          | 2020-12-01        |
+| COINDUSZ3314 | Import Price Index by Origin (NAICS): Nonferrous Metal (Except Aluminum) Production and Processing for Industrialized Countries           | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3329 | Import Price Index by Origin (NAICS): Other Fabricated Metal Product Manufacturing for Industrialized Countries                           | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3331 | Import Price Index by Origin (NAICS): Agriculture, Construction, and Mining Machinery Manufacturing for Industrialized Countries          | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3332 | Import Price Index by Origin (NAICS): Industrial Machinery Manufacturing for Industrialized Countries                                     | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3335 | Import Price Index: Metalworking machinery manufacturing for Industrialized Countries                                                     | 2012-06-01          | 2019-12-01        |
+| COINDUSZ3339 | Import Price Index by Origin (NAICS): Other General Purpose Machinery Manufacturing for Industrialized Countries                          | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3341 | Import Price Index: Computer and peripheral equipment manufacturing for Industrialized Countries                                          | 2012-06-01          | 2020-12-01        |
+| COINDUSZ3342 | Import Price Index: Communications equipment manufacturing for Industrialized Countries                                                   | 2012-06-01          | 2018-12-01        |
+| COINDUSZ3344 | Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Industrialized Countries             | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3359 | Import Price Index: Other electrical equipment and component manufacturing for Industrialized Countries                                   | 2012-06-01          | 2019-12-01        |
+| COINDUSZ3363 | Import Price Index by Origin (NAICS): Motor Vehicle Parts Manufacturing for Industrialized Countries                                      | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3364 | Import Price Index by Origin (NAICS): Aerospace Product and Parts Manufacturing for Industrialized Countries                              | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3391 | Import Price Index by Origin (NAICS): Medical Equipment and Supplies Manufacturing for Industrialized Countries                           | 2012-06-01          | 2022-02-01        |
+| COINDUSZ3399 | Import Price Index by Origin (NAICS): Other Miscellaneous Manufacturing for Industrialized Countries                                      | 2012-06-01          | 2022-02-01        |
+| COJPNZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Japan                                                                     | 2012-06-01          | 2022-02-01        |
+| COJPNZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Japan                                                                     | 2012-06-01          | 2022-02-01        |
+| COJPNZ325    | Import Price Index by Origin (NAICS): Chemical Manufacturing for Japan                                                                    | 2012-06-01          | 2022-02-01        |
+| COJPNZ332    | Import Price Index: Fabricated metal product manufacturing for Japan                                                                      | 2012-06-01          | 2018-12-01        |
+| COJPNZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for Japan                                                                   | 2012-06-01          | 2022-02-01        |
+| COJPNZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Japan                                             | 2012-06-01          | 2022-02-01        |
+| COJPNZ335    | Import Price Index: Electrical equipment, appliance, and component manufacturing for Japan                                                | 2012-06-01          | 2020-12-01        |
+| COJPNZ3344   | Import Price Index: Semiconductor and other electronic component manufacturing for Japan                                                  | 2012-06-01          | 2018-12-01        |
+| COLATZ11     | Import Price Index by Origin (NAICS): Agriculture, Forestry, Fishing and Hunting for Latin America                                        | 2012-06-01          | 2022-02-01        |
+| COLATZ31     | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Latin America                                                             | 2012-06-01          | 2022-02-01        |
+| COLATZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Latin America                                                             | 2012-06-01          | 2022-02-01        |
+| COLATZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Latin America                                                             | 2012-06-01          | 2022-02-01        |
+| COLATZ111    | Import Price Index by Origin (NAICS): Crop Production for Latin America                                                                   | 2012-06-01          | 2022-02-01        |
+| COLATZ315    | Import Price Index by Origin (NAICS): Apparel Manufacturing for Latin America                                                             | 2012-06-01          | 2022-02-01        |
+| COLATZ325    | Import Price Index by Origin (NAICS): Chemical Manufacturing for Latin America                                                            | 2012-06-01          | 2022-02-01        |
+| COLATZ331    | Import Price Index by Origin (NAICS): Primary Metal Manufacturing for Latin America                                                       | 2012-06-01          | 2022-02-01        |
+| COLATZ332    | Import Price Index: Fabricated metal product manufacturing for Latin America                                                              | 2012-06-01          | 2018-12-01        |
+| COLATZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for Latin America                                                           | 2012-06-01          | 2022-02-01        |
+| COLATZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Latin America                                     | 2012-06-01          | 2022-02-01        |
+| COLATZ335    | Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for Latin America                      | 2012-06-01          | 2022-02-01        |
+| COLATZ1113   | Import Price Index by Origin (NAICS): Fruit and Tree Nut Farming for Latin America                                                        | 2012-06-01          | 2022-02-01        |
+| COLATZ3152   | Import Price Index by Origin (NAICS): Cut and Sew Apparel Manufacturing for Latin America                                                 | 2012-06-01          | 2022-02-01        |
+| COLATZ3314   | Import Price Index by Origin (NAICS): Nonferrous Metal (Except Aluminum) Production and Processing for Latin America                      | 2012-06-01          | 2022-02-01        |
+| COMEXZ31     | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Mexico                                                                    | 2012-06-01          | 2022-02-01        |
+| COMEXZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Mexico                                                                    | 2012-06-01          | 2022-02-01        |
+| COMEXZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Mexico                                                                    | 2012-06-01          | 2022-02-01        |
+| COMEXZ315    | Import Price Index: Apparel manufacturing for Mexico                                                                                      | 2012-06-01          | 2018-12-01        |
+| COMEXZ332    | Import Price Index: Fabricated metal product manufacturing for Mexico                                                                     | 2012-06-01          | 2018-12-01        |
+| COMEXZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for Mexico                                                                  | 2012-06-01          | 2022-02-01        |
+| COMEXZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Mexico                                            | 2012-06-01          | 2022-02-01        |
+| COMEXZ335    | Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for Mexico                             | 2012-06-01          | 2022-02-01        |
+| COOASZ32     | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Asian Newly Industrialized Countries                                      | 2012-06-01          | 2022-02-01        |
+| COOASZ33     | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Asian Newly Industrialized Countries                                      | 2012-06-01          | 2022-02-01        |
+| COOASZ332    | Import Price Index: Fabricated metal product manufacturing for Asian Newly Industrialized Countries                                       | 2012-06-01          | 2018-12-01        |
+| COOASZ333    | Import Price Index by Origin (NAICS): Machinery Manufacturing for Asian Newly Industrialized Countries                                    | 2012-06-01          | 2022-02-01        |
+| COOASZ334    | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Asian Newly Industrialized Countries              | 2012-06-01          | 2022-02-01        |
+| COOASZ335    | Import Price Index: Electrical equipment, appliance, and component manufacturing for Asian Newly Industrialized Countries                 | 2012-06-01          | 2020-12-01        |
+| COOASZ3341   | Import Price Index: Computer and peripheral equipment manufacturing for Asian Newly Industrialized Countries                              | 2012-06-01          | 2020-12-01        |
+| COOASZ3344   | Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Asian Newly Industrialized Countries | 2012-06-01          | 2022-02-01        |
+| COPRIMZ31    | Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Pacific Rim                                                               | 2012-06-01          | 2022-02-01        |
+| COPRIMZ32    | Import Price Index by Origin (NAICS): Manufacturing, Part 2 for Pacific Rim                                                               | 2012-06-01          | 2022-02-01        |
+| COPRIMZ33    | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for Pacific Rim                                                               | 2012-06-01          | 2022-02-01        |
+| COPRIMZ314   | Import Price Index by Origin (NAICS): Textile Product Mills for Pacific Rim                                                               | 2012-06-01          | 2022-02-01        |
+| COPRIMZ315   | Import Price Index by Origin (NAICS): Apparel Manufacturing for Pacific Rim                                                               | 2012-06-01          | 2022-02-01        |
+| COPRIMZ316   | Import Price Index by Origin (NAICS): Leather and Allied Product Manufacturing for Pacific Rim                                            | 2012-06-01          | 2022-02-01        |
+| COPRIMZ321   | Import Price Index: Wood product manufacturing for Pacific Rim                                                                            | 2012-06-01          | 2018-12-01        |
+| COPRIMZ322   | Import Price Index by Origin (NAICS): Paper Manufacturing for Pacific Rim                                                                 | 2012-06-01          | 2021-12-01        |
+| COPRIMZ325   | Import Price Index by Origin (NAICS): Chemical Manufacturing for Pacific Rim                                                              | 2012-06-01          | 2022-02-01        |
+| COPRIMZ326   | Import Price Index by Origin (NAICS): Plastics and Rubber Products Manufacturing for Pacific Rim                                          | 2012-06-01          | 2022-02-01        |
+| COPRIMZ327   | Import Price Index by Origin (NAICS): Nonmetallic Mineral Product Manufacturing for Pacific Rim                                           | 2012-06-01          | 2022-02-01        |
+| COPRIMZ331   | Import Price Index by Origin (NAICS): Primary Metal Manufacturing for Pacific Rim                                                         | 2012-06-01          | 2022-02-01        |
+| COPRIMZ332   | Import Price Index by Origin (NAICS): Fabricated Metal Product Manufacturing for Pacific Rim                                              | 2012-06-01          | 2022-02-01        |
+| COPRIMZ333   | Import Price Index by Origin (NAICS): Machinery Manufacturing for Pacific Rim                                                             | 2012-06-01          | 2022-02-01        |
+| COPRIMZ334   | Import Price Index by Origin (NAICS): Computer and Electronic Product Manufacturing for Pacific Rim                                       | 2012-06-01          | 2022-02-01        |
+| COPRIMZ335   | Import Price Index by Origin (NAICS): Electrical Equipment, Appliance, and Component Manufacturing for Pacific Rim                        | 2012-06-01          | 2022-02-01        |
+| COPRIMZ337   | Import Price Index by Origin (NAICS): Furniture and Related Product Manufacturing for Pacific Rim                                         | 2012-06-01          | 2022-02-01        |
+| COPRIMZ339   | Import Price Index by Origin (NAICS): Miscellaneous Manufacturing for Pacific Rim                                                         | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3117  | Import Price Index by Origin (NAICS): Seafood Product Preparation and Packaging for Pacific Rim                                           | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3152  | Import Price Index by Origin (NAICS): Cut and Sew Apparel Manufacturing for Pacific Rim                                                   | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3159  | Import Price Index: Apparel accessories and other apparel manufacturing for Pacific Rim                                                   | 2012-06-01          | 2018-12-01        |
+| COPRIMZ3162  | Import Price Index by Origin (NAICS): Footwear Manufacturing for Pacific Rim                                                              | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3251  | Import Price Index by Origin (NAICS): Basic Chemical Manufacturing for Pacific Rim                                                        | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3252  | Import Price Index: Resin, synthetic rubber, and artificial synthetic fibers and filaments for Pacific Rim                                | 2012-06-01          | 2020-12-01        |
+| COPRIMZ3261  | Import Price Index by Origin (NAICS): Plastics Product Manufacturing for Pacific Rim                                                      | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3322  | Import Price Index by Origin (NAICS): Cutlery and Handtool Manufacturing for Pacific Rim                                                  | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3333  | Import Price Index by Origin (NAICS): Commercial and Service Industry Machinery Manufacturing for Pacific Rim                             | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3335  | Import Price Index by Origin (NAICS): Metalworking Machinery Manufacturing for Pacific Rim                                                | 2020-12-01          | 2022-02-01        |
+| COPRIMZ3343  | Import Price Index by Origin (NAICS): Audio and Video Equipment Manufacturing for Pacific Rim                                             | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3344  | Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Pacific Rim                          | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3345  | Import Price Index by Origin (NAICS): Navigational, Measuring, Electromedical, and Control Instruments Manufacturing for Pacific Rim      | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3351  | Import Price Index by Origin (NAICS): Electric Lighting Equipment Manufacturing for Pacific Rim                                           | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3352  | Import Price Index by Origin (NAICS): Household Appliance Manufacturing for Pacific Rim                                                   | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3359  | Import Price Index: Other electrical equipment and component manufacturing for Pacific Rim                                                | 2012-06-01          | 2019-12-01        |
+| COPRIMZ3371  | Import Price Index by Origin (NAICS): Household and Institutional Furniture and Kitchen Cabinet Manufacturing for Pacific Rim             | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3372  | Import Price Index: Office furniture (including fixtures) manufacturing for Pacific Rim                                                   | 2012-06-01          | 2018-12-01        |
+| COPRIMZ3391  | Import Price Index by Origin (NAICS): Medical Equipment and Supplies Manufacturing for Pacific Rim                                        | 2012-06-01          | 2022-02-01        |
+| COPRIMZ3399  | Import Price Index by Origin (NAICS): Other Miscellaneous Manufacturing for Pacific Rim                                                   | 2012-06-01          | 2022-02-01        |
+| COUKZ33      | Import Price Index by Origin (NAICS): Manufacturing, Part 3 for United Kingdom                                                            | 2012-06-01          | 2022-02-01        |
+| COUKZ333     | Import Price Index by Origin (NAICS): Machinery Manufacturing for United Kingdom                                                          | 2012-06-01          | 2022-02-01        |
+| COUKZ334     | Import Price Index: Computer and electronic product manufacturing for the United Kingdom                                                  | 2012-06-01          | 2018-12-01        |

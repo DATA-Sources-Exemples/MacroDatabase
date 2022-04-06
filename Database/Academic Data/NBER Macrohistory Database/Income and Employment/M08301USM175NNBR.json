@@ -1,0 +1,18 @@
+{
+  "id": "M08301USM175NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Unemployed, Twenty Years and Older for United States",
+  "observation_start": "1948-04-01",
+  "observation_end": "1965-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. Of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:28:47-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "NBER Computed Data By Adding Male And Female Unemployed, 20 Years And Older From Figures Listed In The Sources. Source: Data Were Derived By NBER, Data For 1948-1961: From \"Employment And Earnings\", February 1962, Summary Tables; Data For 1962-1963: Special Labor Force Reports 31 And 43; Data For 1964-1965: Monthly Report On The Labor Force (Except Data For April-June Which Come From The Bureau Of The Census.)\n\nThis NBER data series m08301 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08301"
+}

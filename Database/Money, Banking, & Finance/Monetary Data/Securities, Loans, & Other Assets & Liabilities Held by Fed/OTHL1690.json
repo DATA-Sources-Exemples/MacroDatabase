@@ -1,0 +1,18 @@
+{
+  "id": "OTHL1690",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Liquidity and Credit Facilities: Loans: Maturing in 16 Days to 90 Days: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:35:19-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Other loans is the sum of \"Primary credit,\" \"Secondary credit,\" \"Seasonal credit,\" \"Primary dealer and other broker-dealer credit,\" \"Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility,\" \"Credit extended to American International Group, Inc.,\" \"Term Asset-Backed Securities Loan Facility,\" and \"Other credit extensions."
+}

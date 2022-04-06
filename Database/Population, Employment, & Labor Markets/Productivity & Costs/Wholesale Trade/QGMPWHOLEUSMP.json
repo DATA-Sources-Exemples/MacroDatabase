@@ -1,0 +1,18 @@
+{
+  "id": "QGMPWHOLEUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Wholesale Trade for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:48:40-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The term \"wholesale trade\" is used in the SIC system and in NAICS, but it does not have the same definition in both systems.\n\nSIC definition: This SIC division includes establishments or places of business primarily engaged in selling merchandise to retailers; to industrial, commercial, institutional, farm, construction contractors, or professional business users; or to other wholesalers; or acting as agents or brokers in buying merchandise for or selling merchandise to such persons or companies.\n\nNAICS definition:The Wholesale Trade NAICS sector comprises establishments engaged in wholesaling merchandise, generally without transformation, and rendering services incidental to the sale of merchandise. The merchandise described in this sector includes the outputs of agriculture, mining, manufacturing, and certain information industries, such as publishing.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

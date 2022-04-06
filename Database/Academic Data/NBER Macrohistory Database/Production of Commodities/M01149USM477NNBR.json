@@ -1,0 +1,18 @@
+{
+  "id": "M01149USM477NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Freight Car Shipments, Domestic for United States",
+  "observation_start": "1918-01-01",
+  "observation_end": "1964-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Freight Cars",
+  "units_short": "Number Of Freight Cars",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:01:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Prior To 1918, No Monthly Figures Are Available. The American Railway Car Institute Made The Following Annual Totals Available To NBER Over The Telephone: 1911--58,902; 1912--116,950; 1913--172,729; 1914--91,852; 1915--46,704; 1916--100,869; 1917--99,500. Original And Seasonally Data Are Identical For 1918-1923 And July 1929-1943. Source: Survey Of Current Business And Business Statistics Supplements; Railway Age; American Railway Car Institute, Railroad Car Facts.\n\nThis NBER data series m01149 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01149"
+}

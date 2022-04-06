@@ -1,0 +1,18 @@
+{
+  "id": "DRMGA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing",
+  "observation_start": "1964-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Hours",
+  "units_short": "Bil. of Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 13:48:41-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "For more information, see https://www.bls.gov/lpc/hoursdatainfo.htm"
+}

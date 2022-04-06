@@ -1,0 +1,17 @@
+{
+  "id": "LASMT261982000000003",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-18 10:18:04-05",
+  "popularity": 12,
+  "group_popularity": 34
+}

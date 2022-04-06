@@ -1,0 +1,18 @@
+{
+  "id": "M07013USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Imports of Manufactured Foodstuffs for United States",
+  "observation_start": "1905-07-01",
+  "observation_end": "1956-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:03:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "After April, 1951, Monthly Summary Of Foreign Commerce Changed Into A Quarterly Publication; These Data Are No Longer Shown As Monthly. Survey Of Current Business Used As Source And Cross-Checked Against U.S. Foreign Trade Summary Report Ft930 (U.S. Bureau Of The Census). Latest Revisions Are Taken From The Survey Of Current Business Supplement. Beginning In 1934, Data Is For Imports For Consumption Only; Prior To This The Figures Were For General Imports. Besides Imports For Immediate Consumption, Merchandise Entered For Storage In Bonded Warehouses Is Covered In General Imports, While Merchandise Withdrawn From Bonded Warehouses Is Covered In Imports For Consumption. Figures For 1954 Are Subject To Revision. February, 1955 Data Is Estimated From The Latest Cumulative Total In The Quarterly Summary (January-December, 195, Published June, 1956 And Revised Monthly Figures As Shown In Survey Of Current Business, April, 1956 And The Following Issues; January, 1955 Is Left Unchanged. All Figures Are Subject To Further Revision. Source: July 1905-June 1914, Monthly Summary Of Commerce And Finance, July, 1906, P. 6 And Following Issues, July, 1914-April, 1951, Monthly Summary Of Foreign Commerce, (Part Ii After March, 1921). Some Revised Figures Were Taken From The Survey Of Current Business.\n\nThis NBER data series m07013 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07013"
+}

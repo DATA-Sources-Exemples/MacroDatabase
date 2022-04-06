@@ -1,0 +1,18 @@
+{
+  "id": "EXP6243ALLEST157QNSA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Expenses for Vocational Rehabilitation Services, All Establishments",
+  "observation_start": "2009-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change",
+  "units_short": "% Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-11 09:08:26-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Quarterly Services Survey provides estimates of revenue and expenses for selected service industries. For further information regarding Quarterly Services, visit the source website (https://www.census.gov/services/index.html)."
+}

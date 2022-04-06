@@ -1,0 +1,18 @@
+{
+  "id": "M01256USM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Explosives, Shipments for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1953-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:01:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For More Information, See Survey Of Current Business, January 1934. Source: Data Were Compiled By The Bureau Of Mines (Department Of Commerce) Until June 1933 And Subsequently By The Institute Of Makers Of Explosives. 1920-1925 Data Are Not Entirely Comparable To Later Figures Because Of Varying Coverage. Data Comprise Black Powder, Permissibles, And Other High Explosives But Not Manufactures Of Ammunition And Fireworks Nor Production Of Nitroglycerine Unless Used In The Manufacture Of Explosives. Beginning July 1948, Data Were Derived By Combining Two Series In Survey Of Current Business: \"Blasting Powder\" And \"High Explosives.\"\n\nThis NBER data series m01256 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01256"
+}

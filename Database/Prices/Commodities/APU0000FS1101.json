@@ -1,7 +1,7 @@
 {
   "id": "APU0000FS1101",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Average Price: Butter, Stick (Cost per Pound/453.6 Grams) in U.S. City Average",
   "observation_start": "2018-04-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:40:03-06",
-  "popularity": 38,
-  "group_popularity": 38,
+  "popularity": 40,
+  "group_popularity": 40,
   "notes": "Regular butter, sold in sticks, per pound (16 oz.). Includes organic and non-organic butter.\n\nAverage consumer prices are calculated for household fuel, motor fuel, and food items from prices collected for the Consumer Price Index (CPI). Average prices are best used to measure the price level in a particular month, not to measure price change over time. It is more appropriate to use CPI index values for the particular item categories to measure price change.\n\nPrices, except for electricity, are collected monthly by BLS representatives in the 75 urban areas priced for the CPI. Electricity prices are collected for the BLS for the same 75 areas on a monthly basis by the Department of Energy using mail questionnaires. All fuel prices include applicable Federal, State, and local taxes; prices for natural gas and electricity also include fuel and purchased gas adjustments.\n\nFor more information, please visit the Bureau of Labor Statistics (https://www.bls.gov/cpi/factsheets/average-prices.htm)."
 }

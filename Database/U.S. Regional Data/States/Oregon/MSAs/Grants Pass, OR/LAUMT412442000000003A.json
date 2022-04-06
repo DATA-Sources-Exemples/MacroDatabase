@@ -1,0 +1,17 @@
+{
+  "id": "LAUMT412442000000003A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployment Rate in Grants Pass, OR (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-04-16 21:48:46-05",
+  "popularity": 1,
+  "group_popularity": 5
+}

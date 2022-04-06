@@ -1,0 +1,18 @@
+{
+  "id": "LAUMT391814000000004",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Unemployed Persons in Columbus, OH (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 17:21:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "These data come from the Current Population Survey (CPS), also known as the household survey.\n\nUnemployed persons are all persons who had no employment during the reference week, were available for work, except for temporary illness, and had made specific efforts to find employment some time during the 4 week-period ending with the reference week. Persons who were waiting to be recalled to a job from which they had been laid off need not have been looking for work to be classified as unemployed.\n\nFor more details, see the release's frequently asked questions (https://www.bls.gov/lau/laufaq.htm)."
+}

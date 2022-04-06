@@ -1,0 +1,18 @@
+{
+  "id": "M09026USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Net Revenue from Railway Operations, Class I Railroads for United States",
+  "observation_start": "1907-07-01",
+  "observation_end": "1961-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:01:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "After 1961, Monthly Data No Longer Published, Only Quarterly Data Available. Source: Computed By NBER From Interstate Commerce Commission Original Data Of Total Operating Revenues Series Minus Total Operating Expenses Of Railroads Series, Class I Railroads\n\nThis NBER data series m09026 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09026"
+}

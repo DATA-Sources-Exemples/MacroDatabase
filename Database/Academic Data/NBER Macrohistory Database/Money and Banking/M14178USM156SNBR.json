@@ -1,0 +1,18 @@
+{
+  "id": "M14178USM156SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Ratio of Currency Held by the Public to Adjusted Demand Deposits, Time Deposits, All Commercial Banks, Plus Currency Held by the Public for United States",
+  "observation_start": "1907-05-01",
+  "observation_end": "1958-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 08:33:12-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1875-1906 (2)--Seasonally Adjusted Data, 1907-1958. Data Are For Wednesday Nearest The End Of The Month For 1907-1917, May 1921-1942, And 1947-1958; Currency Data Are For The Friday Nearest The End Of The Month For January 1918-June 1919 And Deposit Data Are For Wednesday Nearest The End Of The Month For The Same Period. Data For July 1919-April 1921 Are For The Friday Nearest The End Of Month. 1943-1946 Deposits Data Are For The Wednesday Nearest The End Of Month; 1943-1946 Currency Data Are For The End Of Month. Source: Computed By NBER From Series 14125 (Currency Held By The Public) Divided By Series 14144 (Adjusted Demand Deposits And Time Deposits. All Commercial Banks, Plus Currency Held By The Public); Both Seasonally Adjusted.\n\nThis NBER data series m14178 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14178"
+}

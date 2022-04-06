@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS24340Q",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "All-Transactions House Price Index for Grand Rapids-Kentwood, MI (MSA)",
   "observation_start": "1978-07-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:03:45-06",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Estimated using sales prices and appraisal data."
 }

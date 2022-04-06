@@ -1,0 +1,18 @@
+{
+  "id": "DEINTDEMS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "German Intervention: Bundesbank Purchases in EMS Markets (Millions of DEM) (DISCONTINUED)",
+  "observation_start": "1976-01-02",
+  "observation_end": "1995-12-29",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Millions of DEM",
+  "units_short": "Mil. of DEM",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2008-07-30 15:04:56-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Source: European Central Bank (ECB).\n\n(+) numbers mean purchases of the foreign (non-DEM) currency, (-) numbers mean sales of the foreign (non-DEM) currency. Unpublished data."
+}

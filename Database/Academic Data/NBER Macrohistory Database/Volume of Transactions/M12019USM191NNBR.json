@@ -1,0 +1,18 @@
+{
+  "id": "M12019USM191NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Clearings in Seven Cities Outside of New York City for United States",
+  "observation_start": "1875-01-01",
+  "observation_end": "1914-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions",
+  "units_short": "Mil.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-12-18 11:59:32-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Series Is Not Adjusted For Trend. Source: Frickey, \"Review Of Economic Statistics, \" 1925, P.260.\n\nThis NBER data series m12019 appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12019"
+}

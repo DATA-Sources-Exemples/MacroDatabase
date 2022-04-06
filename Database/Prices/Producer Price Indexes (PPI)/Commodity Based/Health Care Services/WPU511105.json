@@ -1,7 +1,7 @@
 {
   "id": "WPU511105",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Health Care Services: Dental Care",
   "observation_start": "2010-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:56:25-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 8,
+  "group_popularity": 8
 }

@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNLE00INEUU",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Life Expectancy at Birth, Total for the European Union",
+  "observation_start": "1960-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Years",
+  "units_short": "Number of Years",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-16 16:24:46-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.\n\nNations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: SP.DYN.LE00.IN"
+}

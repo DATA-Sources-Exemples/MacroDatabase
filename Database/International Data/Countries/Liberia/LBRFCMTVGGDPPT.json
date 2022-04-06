@@ -1,0 +1,18 @@
+{
+  "id": "LBRFCMTVGGDPPT",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Use of Financial Services: Key Indicators, Value of Mobile Money Transactions During the Reference Year for Liberia",
+  "observation_start": "2017-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of GDP",
+  "units_short": "% of GDP",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 17:32:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

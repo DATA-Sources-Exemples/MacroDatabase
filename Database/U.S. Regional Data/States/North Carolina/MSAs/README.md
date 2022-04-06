@@ -1,17 +1,19 @@
 | Folder                                        |   Files / Folders |
 |-----------------------------------------------|-------------------|
-| Raleigh-Cary, NC                              |                 2 |
-| Burlington, NC                                |                 2 |
-| Jacksonville, NC                              |                 2 |
-| Fayetteville, NC                              |                 2 |
-| Goldsboro, NC                                 |                 2 |
-| Greenville, NC                                |                 2 |
-| Wilmington, NC                                |                 2 |
-| Greensboro-High Point, NC                     |                 2 |
-| New Bern, NC                                  |                 2 |
-| Rocky Mount, NC                               |                 2 |
-| Winston-Salem, NC                             |                 2 |
-| Myrtle Beach-Conway-North Myrtle Beach, SC-NC |                 2 |
-| Asheville, NC                                 |                 2 |
-| Durham-Chapel Hill, NC                        |                 2 |
-| Hickory-Lenoir-Morganton, NC                  |                 2 |
+| Virginia Beach-Norfolk-Newport News, VA-NC    |               211 |
+| Winston-Salem, NC                             |               183 |
+| Myrtle Beach-Conway-North Myrtle Beach, SC-NC |               171 |
+| Greenville, NC                                |               162 |
+| New Bern, NC                                  |                62 |
+| Raleigh-Cary, NC                              |               220 |
+| Fayetteville, NC                              |               162 |
+| Rocky Mount, NC                               |               146 |
+| Goldsboro, NC                                 |               105 |
+| Jacksonville, NC                              |               125 |
+| Wilmington, NC                                |               172 |
+| Greensboro-High Point, NC                     |               213 |
+| Hickory-Lenoir-Morganton, NC                  |               179 |
+| Durham-Chapel Hill, NC                        |               136 |
+| Charlotte-Concord-Gastonia, NC-SC             |               267 |
+| Asheville, NC                                 |               160 |
+| Burlington, NC                                |               161 |

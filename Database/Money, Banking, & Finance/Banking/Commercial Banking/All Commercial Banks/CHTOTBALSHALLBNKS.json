@@ -1,0 +1,18 @@
+{
+  "id": "CHTOTBALSHALLBNKS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Balance Sheet Items of All Banking Entities in Switzerland",
+  "observation_start": "1944-01-01",
+  "observation_end": "2008-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "CHF Millions",
+  "units_short": "CHF Mil.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-01-31 10:11:05-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Until 1974, fiduciary business could be recorded on the balance sheet; thereafter, it had to be entered as an off-balance-sheet item.\nAs of 1981, precious metal accounts are included in the balance sheet.\nAs of 1992, including non-monetary balance sheet claims and liabilities from lending.\nAs of 1995, transactions in financial derivatives must be recorded in gross terms, resulting in a significant increase in total assets.\nAs of 1998, including non-monetary balance sheet claims and liabilities from repo transactions.\nAs of 2000, the majority of banks have again taken non-monetary claims and liabilities from lending and repo transactions off the balance sheet."
+}

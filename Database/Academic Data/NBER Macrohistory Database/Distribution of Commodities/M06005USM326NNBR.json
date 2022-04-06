@@ -1,0 +1,18 @@
+{
+  "id": "M06005USM326NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Sales Per Store, Variety Chain Stores for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1940-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1919=100",
+  "units_short": "Index 1919=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:47:48-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "The Raw Figure For March 1933 Is Partly Estimated Because Of The Unavailability Of Data For H.L. Green Co. Source: Computed By NBER From U.S. Department Of Commerce, Bureau Of Foreign And Domestic Commerce, Published In The Survey Of Current Business, Annual Supplements Of 1932, 1936, 1938 And Monthly Issues\n\nThis NBER data series m06005 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06005"
+}

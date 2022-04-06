@@ -1,0 +1,18 @@
+{
+  "id": "ESABSNNB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonfinancial Noncorporate Business; Equipment, Current Cost Basis, Level (DISCONTINUED)",
+  "observation_start": "1945-10-01",
+  "observation_end": "2017-10-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-03-08 15:02:07-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/NNBECBQ027S\n\nThe FRED series Equipment and Software - Assets - Balance Sheet of Nonfarm Noncorporate Business is now known as Nonfinancial Noncorporate Business; Equipment and Software, Current Cost Basis.\n\nThe source series id is FL115015205.Q.\n\nThis series appears in Table B.104. For further information see the assistance provided in the guide to the Flow of Funds at https://www.federalreserve.gov/apps/fof/."
+}

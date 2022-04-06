@@ -1,0 +1,18 @@
+{
+  "id": "M10083USM311NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bonds Outstanding, Par Value, All Industries for United States",
+  "observation_start": "1900-01-01",
+  "observation_end": "1944-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hundred Thousands of Dollars",
+  "units_short": "Hundred Thous. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:20:29-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Source: The Volume Of Corporate Bond Financing Since 1900 (NBER), W. Braddock Hickman, 1953, Pp. 308-309, Appendix A, Table A-13\n\nThis NBER data series m10083 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10083"
+}

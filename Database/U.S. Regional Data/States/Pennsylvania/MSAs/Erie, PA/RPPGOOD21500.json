@@ -1,0 +1,18 @@
+{
+  "id": "RPPGOOD21500",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Regional Price Parities: Goods for Erie, PA (MSA)",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-14 10:59:23-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Regional price parities (RPPs) are regional price levels expressed as a percentage of the overall national price level for a given year. The price levels are determined by the average prices paid by consumers for the mix of goods and services consumed in each region. Taking the ratio of RPPs shows the difference in price levels across regions.\n\nGoods refer to durable and nondurable consumption goods used in the estimation of the RPPs. Goods categories include apparel, education, food, housing, medical, recreation, transportation, and other goods. \n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm or http://www.bea.gov/regional/methods.cfm."
+}

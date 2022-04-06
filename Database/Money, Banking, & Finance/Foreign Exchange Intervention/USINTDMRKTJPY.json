@@ -1,0 +1,18 @@
+{
+  "id": "USINTDMRKTJPY",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "U.S. Intervention: in Market Transactions in the JPY/USD (Millions of USD)",
+  "observation_start": "1973-03-02",
+  "observation_end": "2011-05-31",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Millions of USD",
+  "units_short": "Mil. of USD",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-09-19 14:42:03-05",
+  "popularity": 14,
+  "group_popularity": 14,
+  "notes": "(+) numbers mean purchases of USD, (-) numbers mean sales of USD. Unpublished data."
+}

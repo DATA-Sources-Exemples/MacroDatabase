@@ -1,0 +1,18 @@
+{
+  "id": "GBRFXUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the United Kingdom (DISCONTINUED)",
+  "observation_start": "1950-01-01",
+  "observation_end": "2011-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2002=100",
+  "units_short": "Index 2002=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-12-10 11:49:09-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Bureau of Labor Statistics (BLS) has eliminated the International Labor Comparisons (ILC) program. This is the last BLS release of international comparisons of manufacturing productivity and unit labor cost trends."
+}

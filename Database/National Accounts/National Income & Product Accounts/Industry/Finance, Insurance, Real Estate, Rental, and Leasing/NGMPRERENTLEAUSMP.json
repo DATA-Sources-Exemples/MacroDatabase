@@ -1,0 +1,18 @@
+{
+  "id": "NGMPRERENTLEAUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Domestic Product: Private Industries: Finance, Insurance, Real Estate, Rental, and Leasing: Real Estate and Rental and Leasing for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:49:24-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Real Estate and Rental and Leasing NAICS sector comprises establishments primarily engaged in renting, leasing, or otherwise allowing the use of tangible or intangible assets, and establishments providing related services. The major portion of this sector comprises establishments that rent, lease, or otherwise allow the use of their own assets by others. The assets may be tangible, as is the case of real estate and equipment, or intangible, as is the case with patents and trademarks.\n\nThis sector also includes establishments primarily engaged in managing real estate for others, selling, renting and/or buying real estate for others, and appraising real estate. These activities are closely related to this sector's main activity, and it was felt that from a production basis they would best be included here. In addition, a substantial proportion of property management is self-performed by lessors.\n\nThe main components of this sector are the real estate lessors industries (including equity real estate investment trusts (REITs)); equipment lessors industries (including motor vehicles, computers, and consumer goods); and lessors of nonfinancial intangible assets (except copyrighted works).\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

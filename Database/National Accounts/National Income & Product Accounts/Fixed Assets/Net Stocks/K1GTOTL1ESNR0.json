@@ -1,0 +1,17 @@
+{
+  "id": "K1GTOTL1ESNR0",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Current-Cost Net Stock of Fixed Assets: Government: Nonresidential",
+  "observation_start": "1925-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual, End of Year",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-19 12:59:29-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

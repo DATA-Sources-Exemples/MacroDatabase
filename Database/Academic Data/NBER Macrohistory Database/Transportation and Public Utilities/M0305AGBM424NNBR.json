@@ -1,0 +1,18 @@
+{
+  "id": "M0305AGBM424NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railway Freight Traffic, Total, Including Free Hauled for Great Britain",
+  "observation_start": "1920-01-01",
+  "observation_end": "1931-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Net Ton-Miles",
+  "units_short": "Mil. Of Net Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:01:08-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include General Merchandise, Livestock, Coal, Coke, Patent Fuels, And Other Minerals Shipped On Standard Gauge Railways. Data For 1920 Were Obtained By Equating Weekly Figures To Calendar Months. Days Of Weeks Not Ending Within The Calendar Month Are Included In The Next Month'S Total. Due To Adoption Of A New And Simplified Method Of Compiling Net Ton-Miles, Data Beginning In January 1922, Are Not Strictly Comparable With Prior Figures. Source: Ministry Of Transport, Railway Statistics, Number 14, January 1921 And Subsequent Monthly Issues.\n\nThis NBER data series m03005a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03005a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M01240USM546NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Automobile Tire Pneumatic Casings, Shipments for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1955-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Casings",
+  "units_short": "Thous. Of Casings",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Shipments Include Only Tires Forwarded To Purchasers. Those Forwarded To Warehouses, Branches, Or On A Consignment Basis Are Included In Stocks Figures. Data Reported To The Rubber Manufacturers' Association (Rma) Were Raised To Industry Totals By Them. NBER Compared Published Data Directly With Rma Files. A Large Volume Of Shipments Undoubtedly Were Caused By A U.S. Excise Tax On Manufacturers' Sales, Which Went Into Effect On June 30, 1932. Source: Survey Of Current Business, May 1939, P.16 And Following Issues.\n\nThis NBER data series m01240 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01240"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "CUUSA427SAEC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index for All Urban Consumers: Education and Communication Commodities in Urban Alaska (CBSA)",
+  "observation_start": "2010-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Semiannual",
+  "frequency_short": "SA",
+  "units": "Index Dec 2009=100",
+  "units_short": "Index Dec 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-12 07:41:29-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

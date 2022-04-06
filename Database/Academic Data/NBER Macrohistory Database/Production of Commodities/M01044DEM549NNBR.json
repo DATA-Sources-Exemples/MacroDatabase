@@ -1,0 +1,18 @@
+{
+  "id": "M01044DEM549NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Slaughtering of Cows for Germany",
+  "observation_start": "1904-10-01",
+  "observation_end": "1935-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Cows",
+  "units_short": "Thous. Of Cows",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are For Cows Slaughtered Under Federal Inspection. Data Beginning October 1918 Exclude Alsace-Lorraine. Data Beginning July 1922 Exclude The Saar And Other Surrendered Territory. Source: Data For 1904-1914, 1919-1935: Vierteljahrshefte Zur Statistik Des Deutsches Reiches, 1906, Iii, Pp. 32-33; 1907, Ii, P. 233; 1908, Ii, P. 197; And Successive Issues Thereafter. Data For 1915-1918: Vierteljahrshefte Zur Statistik, Erganzungshefte 1916-1918, Pp. 51-81.\n\nThis NBER data series m01044 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01044"
+}

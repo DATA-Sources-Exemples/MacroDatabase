@@ -1,2 +1,19 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                 | title                                                                                                                                          | observation_start   | observation_end   |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BSCICP03O9M665S    | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD and Non-member Economies | 1984-01-01          | 2021-11-01        |
+| CSCICP03O9M665S    | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD and Non-member Economies                    | 1980-01-01          | 2022-01-01        |
+| OECDNMEREC         | OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough                        | 1960-02-01          | 2021-09-01        |
+| OECDNMERECD        | OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough                        | 1960-02-01          | 2021-09-30        |
+| OECDNMERECDM       | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                                             | 1960-02-01          | 2021-09-30        |
+| OECDNMERECDP       | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2021-09-30        |
+| OECDNMERECM        | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                                             | 1960-02-01          | 2021-09-01        |
+| OECDNMERECP        | OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2021-09-01        |
+| ONMLOLITOAASTSAM   | Leading Indicators OECD: Leading indicators: CLI: Amplitude adjusted for OECD + Major Six NME                                                  | 1970-01-01          | 2022-02-01        |
+| ONMLOLITONOSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Normalised for OECD + Major Six NME                                                          | 1970-01-01          | 2022-02-01        |
+| ONMLOLITOTRGYSAM   | Leading Indicators OECD: Leading indicators: CLI: Trend restored for OECD + Major Six NME                                                      | 1971-01-01          | 2021-11-01        |
+| ONMLOLITOTRSTSAM   | Leading Indicators OECD: Leading indicators: CLI: Trend restored for OECD + Major Six NME                                                      | 1970-01-01          | 2021-11-01        |
+| ONMLORSGPNOSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for OECD + Major Six NME                                   | 1960-02-01          | 2021-11-01        |
+| ONMLORSGPORGYSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for OECD + Major Six NME                              | 1961-02-01          | 2021-11-01        |
+| ONMLORSGPORIXOBSAM | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for OECD + Major Six NME                              | 1960-02-01          | 2021-11-01        |
+| ONMLORSGPRTSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Ratio to trend for OECD + Major Six NME                               | 1960-02-01          | 2021-11-01        |
+| ONMLORSGPTDSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for OECD + Major Six NME                                        | 1960-02-01          | 2021-11-01        |

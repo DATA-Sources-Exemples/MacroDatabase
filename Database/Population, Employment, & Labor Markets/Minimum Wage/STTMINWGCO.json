@@ -1,0 +1,18 @@
+{
+  "id": "STTMINWGCO",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "State Minimum Wage Rate for Colorado",
+  "observation_start": "1968-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Hour",
+  "units_short": "$ per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-01 13:33:11-06",
+  "popularity": 29,
+  "group_popularity": 29,
+  "notes": "State minimum wage is changed annually based on changes in the CPI and a cost of living formula.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
+}

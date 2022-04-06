@@ -1,0 +1,18 @@
+{
+  "id": "CANEEFARQ052N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Capital Account, Net (Excludes Exceptional Financing) for Argentina",
+  "observation_start": "1976-01-01",
+  "observation_end": "2011-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-05-09 14:16:21-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

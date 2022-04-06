@@ -1,0 +1,18 @@
+{
+  "id": "DEXUSAL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "U.S. Dollars to Australian Dollar Spot Exchange Rate",
+  "observation_start": "1971-01-04",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "U.S. Dollars to One Australian Dollar",
+  "units_short": "U.S. $ to  1 Australian $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 15:20:11-05",
+  "popularity": 47,
+  "group_popularity": 51,
+  "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A01154USA471NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Passenger Cars Built for United States",
+  "observation_start": "1880-01-01",
+  "observation_end": "1938-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Cars",
+  "units_short": "Number Of Cars",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:51:44-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "1880-1887 Data Are Based On 15 Private Car Works. 1888 Data Based On 36 Car Works. No Data Were Published For 1889. Figure For 1890 Was Based On Data For 36 Private Car Works. Figure For 1891 Based On Data For 50 Car Works. That Of 1892 On 48; That Of 1893 On 14 Companies; That Of 1894 On 8; And That Of 1895-1896 On 9. Begininng In 1897, The Figures Are Estimated To Cover The Entire Industry. 1905-1911 Data Include Canadian Output. 1912-1938 Figures Include Canadian Output Plus Equipment Built In Railroad Shops. Some Figures For Canadian Output Are Available Separately, See Source. Source: 1880-1898 Data Are From Railway Gazette; 1899-1933 Data Are From Railway Age, January 27, 1934, P. 158; 1934-1938 Data Are From Railway Age, January 7, 1939, P. 86."
+}

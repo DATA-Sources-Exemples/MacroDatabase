@@ -1,0 +1,18 @@
+{
+  "id": "M08026US000ILM490NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Positions Open, Illinois Free Employment Offices for Illinois",
+  "observation_start": "1920-08-01",
+  "observation_end": "1934-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Positions",
+  "units_short": "Number Of Positions",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:47-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Cover Males And Females. In September, 1932 The Series Name In The Source Changes From \"Help Wanted\" To \"Positions Open\". 1932 Data Includes \"Relief\" Openings Not Available Seperately. The Vast Increase In December, 1933 Is The Result Of The Opening Of Civil Works Administration And Other Government Positions, With Cook County Excluded. Source: Illinois Department Of Labor, The Labor Bulletin (Called The Employment Bulletin Before July, 1923), Except Data For 1933 Which Was Furnished Directly From The Illinois State Employment Service, Because The Labor Bulletin Ceased Publication From February, 1933-December, 1934.\n\nThis NBER data series m08026 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08026"
+}

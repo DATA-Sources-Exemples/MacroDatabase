@@ -1,0 +1,18 @@
+{
+  "id": "M081FBUSM175NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Production Worker Employment, Manufacturing, Total for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1969-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. Of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:20:53-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Series is Presented Here As Two Variables--(1)--Original Data, 1914-1920 (2)--Original Data, 1919-1969. The Series Were\"Revised On The Basis Of The 1957 Standard Industrial Classification\". Source: Employment And Earnings Statistics For The United States, 1909- 60 For 1919-58, And\"Employment And Earnings Statistics For The United States, 1909-66\" For 1959-67 (Bureau Of Labor Statistics Bulletin, Nos.1312 And 1312-5); Then\"Employment And Earnings\" From September 1967 Until March 1969. The Data Were First Published In The\"Monthly Report On The Labor Force\" (Also A Press Release On The Employment Estimation).\n\nThis NBER data series m08010b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08010b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q08007US000MAQ519NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employment Trade Union Members for Massachusetts",
+  "observation_start": "1908-01-01",
+  "observation_end": "1922-10-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "Percentage of Membership",
+  "units_short": "Percentage Of Membership",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:25:36-05",
+  "popularity": 6,
+  "group_popularity": 6,
+  "notes": "This Variable Is The Percentage Unemployed Subtracted From The Whole Workforce (100%). Quarters Ending On March 31St, June 30Th, September 30Th And December 31St. Source: Computed By NBER From Unemployment (Due To Lack Of Work Or Material) Data In Annual Report On The Statistics Of Labor, 1923, Part Iii, P.20-21. Massachusetts Department Of Labor And Industries.\n\nThis NBER data series q08007 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08007"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Y805RZ2A224NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Contributions to percent change in Imports of goods and services: Imports of services: Travel (for all purposes including education)",
+  "observation_start": "1968-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-27 07:55:35-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: Y805RZ\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M08309USM055NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Building Construction for United States",
+  "observation_start": "1934-01-01",
+  "observation_end": "1961-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hour",
+  "units_short": "$ Per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Bureau Of Labor Statistics, For 1934-1950: \"Employment, Hours, And Earnings\", Bls Construction Division, Building Construction Ssa Groups 15 And 17, September 1952; For 1951-1954: Same Source, June 1956; For 1955-1956: Same, July 1958; For 1957-1961: Monthly Labor Review.\n\nThis NBER data series m08309 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08309"
+}

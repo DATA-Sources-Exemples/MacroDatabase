@@ -1,0 +1,17 @@
+{
+  "id": "PCU621991621991M",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Blood and Organ Banks: Miscellaneous Receipts",
+  "observation_start": "2006-06-01",
+  "observation_end": "2006-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2006=100",
+  "units_short": "Index Jun 2006=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:07:00-05",
+  "popularity": 0,
+  "group_popularity": 1
+}

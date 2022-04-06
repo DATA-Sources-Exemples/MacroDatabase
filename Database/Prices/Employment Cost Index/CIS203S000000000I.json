@@ -1,7 +1,7 @@
 {
   "id": "CIS203S000000000I",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Employment Cost Index: Total benefits for Private industry workers in Service-providing industries",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:52:36-06",
-  "popularity": 1,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 4,
   "notes": "See Footnote H on https://www.bls.gov/ect/cimapnote.htm"
 }

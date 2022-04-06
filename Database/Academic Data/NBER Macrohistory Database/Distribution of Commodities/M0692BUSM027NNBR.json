@@ -1,0 +1,18 @@
+{
+  "id": "M0692BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Shipments, Total, Value for United States",
+  "observation_start": "1942-01-01",
+  "observation_end": "1963-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:48:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1929-1944 (2)--Original Data, 1942-1963 (3)--Seasonally Adjusted Data, 1926-1963 (4)--Original Data, 1947-1969. The Segment Was Discontinued After September 1963 And Was Replaced By New Estimates Compiled By The Bureau Of The Census And Based On The Annual Survey Of Manufacturers. Source: U.S. Department Of Commerce, Data For 1942-1945 And 1948-1949 Are From Unpublished Tables Obtained From The Office Of Business Economics; Data For 1946-1947 And 1950-1962 Are From Survey Of Current Business, October 1950, May 1955 And Following Monthly Issues (Also See 1961 Supplement)\n\nThis NBER data series m06092b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06092b"
+}

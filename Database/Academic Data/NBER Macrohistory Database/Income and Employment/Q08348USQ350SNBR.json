@@ -1,0 +1,18 @@
+{
+  "id": "Q08348USQ350SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Labor Compensation Per Work Hour, Private Economy for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1969-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:31:45-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Source: Bureau Of Labor Statistics, 1947-1965 Data Are From Unpublished Tabulations Furnished By Edgar R. Fiedler, Confidential; 1966-1969 Data Are From Bls Quarterly Release, \"Productivity, Wages, And Prices\", Table 1, Beginning With Second Quarter Issue, 1969.\n\nThis NBER data series q08348 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08348"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "A10060USA027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Depreciation Charges of Corporations with Net Income for the United States",
+  "observation_start": "1923-01-01",
+  "observation_end": "1942-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:17:31-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Original Figures For 1923 And 1924 Were Adjusted By NBER To Exclude Amortization And Depletion To Conform With Rest Of Data. Source: U.S. Bureau Of Internal Revenue, \"Statistics Of Income, 1923-1942\"\n\nThis NBER data series a10060 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: a10060"
+}

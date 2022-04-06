@@ -1,0 +1,18 @@
+{
+  "id": "M05F3AUSM387NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Crude Petroleum Stocks for United States",
+  "observation_start": "1918-01-01",
+  "observation_end": "1941-07-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Barrels (Of 42 Gallons)",
+  "units_short": "Mil. Of Barrels (Of 42 Gallons)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:47:56-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1918-1941 (2)--Original Data, 1938-1956. Data For 1930-1933 Were Computed By NBER From Sources By Adding The Total U.S. Crude Figure To California Heavy And Crude Oil. Data Consist Of Stocks East Of California -- At Refineries, Pipe Lines And Tank Forms, Producers' Stocks, Foreign Held By Importers -- And Stocks In California -- Light Crude, Heavy Crude And Fuel Oil. Beginning In 1924, The California Portion Of The Data Was Put On A New Basis Of Reporting And Hereon Includes Fuel Oil Not Formerly Covered; California Data Now Specifically Represent \"Heavy Crude And Fuel Oil, And Light Crude.\" The Business Advisory And Planning Council For The Department Of Commerce, In \"Notes On Existing Series Of Data,\" (P. 28) States: \"Because Of The Change In The Method Of Reporting The California Data, The Series Is Not Comparable Throughout, Especially Since The Inclusion In California Of Fuel Oil Adds A Finished Product. The Lack Of Comparability As Here Represented, However, Is Not Serious.\" (See Mineral Resources, 1925, Pt. 2, P. 350.) Beginning In 1930, There Was A Curtailemnt Of Production. Source: U.S. Bureau Of Mines, Data For 1918-1929: Petroleum Refinery Statistics, Bulletin No. 339, Pp. 12-23 (For 1924 Overlap See Mineral Resources, 1925, Pt. 2, P. 350); Data For 1930: Bulletin No. 367, And Mineral Resources, 1930, Pt. 2, P. 834; Data For 1931: Minerals Yearbook, 1931, Pt. 2, Pp. 599 And 636; Data For 1932: Statistical Appendix To Minerals Yearbook, 1932-1933, Pp. 330 And 349; For 1933-1934: Minerals Yearbooks; For 1935-1938: Economic Paper No. 20; For 1939-1941: Monthly Petroleum Statements\n\nThis NBER data series m05013a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05013a"
+}

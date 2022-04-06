@@ -1,0 +1,18 @@
+{
+  "id": "M16091USM509NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cumulated Net Diffusion Index, Industrial Raw Materials Spot Market Prices, Thirteen Commodities, Three Month Span for United States",
+  "observation_start": "1948-03-01",
+  "observation_end": "1958-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Expanding",
+  "units_short": "% Expanding",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 09:32:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Cover 13 Raw Industrial Materials: Steel Scrap (Chicago), Copper Scrap, Lead Scrap, Zinc, Tin, Cotton, Wool Tops, Print Cloth, Burlap, Rubber, Hides, Rosin And Tallow. Source: G.H. Moore, Business Cycle Indicators, Vol.2, NBER, P. 163\n\nThis NBER data series m16091 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16091"
+}

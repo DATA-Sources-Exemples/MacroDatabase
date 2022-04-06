@@ -1,0 +1,18 @@
+{
+  "id": "GBRB6FATT01NCCUQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Balance of payments BPM6: Financial account: Financial account Net: Total for the United Kingdom",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "British Pound",
+  "units_short": "British Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-18 11:51:29-06",
+  "popularity": 4,
+  "group_popularity": 7,
+  "notes": "OECD descriptor ID: B6FATT01 OECD unit ID: NCCU OECD country ID: GBR All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PCU622110622110103",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: General Medical and Surgical Hospitals: Diseases and Disorders of the Ear, Nose, Mouth, and Throat (DISCONTINUED)",
+  "observation_start": "2008-06-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2008=100",
+  "units_short": "Index Jun 2008=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-11 09:05:12-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

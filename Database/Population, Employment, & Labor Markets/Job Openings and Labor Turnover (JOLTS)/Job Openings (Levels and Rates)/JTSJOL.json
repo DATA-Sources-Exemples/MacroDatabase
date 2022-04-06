@@ -1,0 +1,18 @@
+{
+  "id": "JTSJOL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Job Openings: Total Nonfarm",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Level in Thousands",
+  "units_short": "Level in Thous.",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-29 09:05:02-05",
+  "popularity": 69,
+  "group_popularity": 71,
+  "notes": "Total Nonfarm Job Openings are a measure of all jobs that are not filled on the last business day of the month. A job is considered open if a specific position exists and there is work available for it, the job can be started within 30 days, and there is active recruiting for the position. \r\n\r\nTotal Nonfarm Job Openings are measured by the Job Openings and Labor Turnover Survey (JOLTS) and published by the Bureau of Labor Statistics (BLS). These data are a unique economic indicator of unmet demand for labor and labor shortages. Economists, government officials, and researchers use Job Openings as a measure of tightness within job markets. \r\n\r\nNote that the set of available job openings may decline because openings become filled, or because previous openings are removed without filling positions.\r\n\r\nFor more information, see:\r\nU.S. Bureau of Labor Statistics, Job Openings and Labor Turnover Survey Overview Page (https://www.bls.gov/jlt/jltover.htm#purpose)\r\nU.S. Bureau of Labor Statistics, Data Definitions (https://www.bls.gov/jlt/jltdef.htm#2)"
+}

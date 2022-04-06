@@ -1,0 +1,18 @@
+{
+  "id": "DIFFONE",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Diffusion Indexes of Industrial Production: Diffusion Index of Industrial Production, One Month Earlier",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-17 08:22:47-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The diffusion indexes are calculated as the percentage of series that increased over the indicated span (one, three, or six months) plus one-half the percentage that were unchanged."
+}

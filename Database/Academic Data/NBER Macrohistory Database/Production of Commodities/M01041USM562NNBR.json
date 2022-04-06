@@ -1,0 +1,18 @@
+{
+  "id": "M01041USM562NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cattle Receipts for United States",
+  "observation_start": "1859-01-01",
+  "observation_end": "1940-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Heads",
+  "units_short": "Thous. Of Heads",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:01:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source Data For 1936 And 1937 Has Table Heading Reversed (Sheep For Cattle). The Annual Totals Check With Receipts And Shipments By Routers, And Also With Annual Receipts, Chicago, In Statistics. Source: Chicago Board Of Trade Annual Reports.\n\nThis NBER data series m01041 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01041"
+}

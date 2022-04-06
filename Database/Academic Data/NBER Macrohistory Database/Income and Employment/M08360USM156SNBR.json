@@ -1,0 +1,18 @@
+{
+  "id": "M08360USM156SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Rate of Change (6 Month Span at Annual Rate), Index of Total Labor Cost Per Unit of Output, Manufacturing (Centered) for United States",
+  "observation_start": "1948-04-01",
+  "observation_end": "1967-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percentage",
+  "units_short": "Percentage",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:18:27-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "The Series Is Difference Between The Value Of The Month And The Value Of The Month Six Months Later Divided By The Month M And Multiplied By 2. Based Upon Unrevised Data From Series 08324 Beginning 1965. Source: Business Cycle Developments, November 1966 And Subsequent Issues. For 1946-47 Data See Business Cycle Worksheets.\n\nThis NBER data series m08360 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08360"
+}

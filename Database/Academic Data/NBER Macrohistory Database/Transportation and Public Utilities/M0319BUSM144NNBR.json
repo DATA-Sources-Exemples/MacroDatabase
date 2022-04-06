@@ -1,0 +1,18 @@
+{
+  "id": "M0319BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Operating Revenues, Western Union and Postal Telegraph Companies for United States",
+  "observation_start": "1942-01-01",
+  "observation_end": "1955-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:02:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1942 (2)--Original Data, 1942-1956. Beginning In 1943, A New Accounting Classification Was Introduced Making Previous Data Not Comparable With This Variable. However, Back Data For 1942 Are Given Monthly In 1943 Issues Of The Source. It Cannot Be Established From Information Given If These Back Data Represent A New Set Of Figures Or If They Are Revised Old Figures. As Of October 7, 1943, Western Union Telegraph Co. And Postal Telegraph Inc. Were Merged Into The Western Union Telegraph Company System. Revenue Figures For 1943, Shown In 1944 Monthly Issues For The Two Companies, Were Combined For The Entire Year; There Are No Differences Between These Figures And The Sum Of Figures For The Separate Companies As Shown Through October 1943 In Monthly Source Issues For The Year. Beginning In 1946, Revenues From Wire Transmissions And Revenues From Cable Transmissions Are Shown Separately; They Have Been Added By NBER. Back Data In 1947, Shown For The First Time In 1946, Were Compared With Original Totals In 1946 Issues And There Were No Changes. Data For April And May, 1952 Reflect A Strike Lasting April 3 - May 25. Data For 1955-1956 Are Subject To Revision. Source: Federal Communications Commission, Operating Data From Monthly Reports Of Large Telegraph, Cable And Radiotelegraph Carriers, Each Having Annual Operating Revenues In Excess Of $250,000.\n\nThis NBER data series m03019b appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03019b"
+}

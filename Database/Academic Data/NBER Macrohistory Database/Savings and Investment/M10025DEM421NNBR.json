@@ -1,0 +1,18 @@
+{
+  "id": "M10025DEM421NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Proceeds from Increases in Capital Stock for Germany",
+  "observation_start": "1907-01-01",
+  "observation_end": "1930-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Marks",
+  "units_short": "Mil. of Marks",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:31:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1921-1922 Were Revised; Data For January-June 1923 Represent Par Value In Trillions Of Marks; Data For July-November 1923 Are In Billions Of Marks; Data Beginning In December 1923 Are In Gold Marks. Source: Statistisches Reichsamt, Vierteljahreshefte Zur Statistik Des Deutschen Reichs.\n\nThis NBER data series m10025 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10025"
+}

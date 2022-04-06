@@ -1,0 +1,18 @@
+{
+  "id": "A0310EUSA259NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue Per Passenger-Mile, All Railroads for United States",
+  "observation_start": "1882-01-01",
+  "observation_end": "1911-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Cents",
+  "units_short": "Cents",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:37-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Data Were Checked By Dividing Passenger Earnings By Passenger-Miles. The Figure For 1892 Was Given As 2.168, Which Does Not Check; Therefore It Was Corrected By NBER To 2.161. Source: Poor'S Manual Of Railroads, 1890, P. Xiii-Xiv; 1891, P. Xiii; 1900, P. 1; 1905, P. Ii; 1910, Pp. Cvii-Cix; 1912, Pp. Cxxxiv-Cxlviii.\n\nThis NBER data series a03010e appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03010e"
+}

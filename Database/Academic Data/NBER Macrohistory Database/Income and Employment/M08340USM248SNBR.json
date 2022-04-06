@@ -1,0 +1,18 @@
+{
+  "id": "M08340USM248SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manhours of Nonfarm Employees for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1965-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Manhours",
+  "units_short": "Bil. Of Manhours",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 14:27:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Are Referred To By The Source As \"Man-Hours In Nonfarm Establishments, All Employees.\" Source: Bureau Of Labor Statistics, Business Cycle Developments, February, 1968 Issue For 1947-1964 Data; August, 1968 Issue For 1965 Data.\n\nThis NBER data series m08340 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08340"
+}

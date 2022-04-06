@@ -1,0 +1,18 @@
+{
+  "id": "BAMLEM1RAAA2ALCRPIUSEY",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Effective Yield",
+  "observation_start": "2003-12-31",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 08:46:14-05",
+  "popularity": 15,
+  "group_popularity": 15,
+  "notes": "This data represents the effective yield of the ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index is a subset of the ICE BofA US Emerging Markets Liquid Corporate Plus Index, which includes only securities rated AAA through A3. The same inclusion rules apply for this series as those that apply for ICE BofA Emerging Markets Liquid Corporate Plus Index (https://fred.stlouisfed.org/series/BAMLEMCLLCRPIUSTRIV?cid=32413). When the last calendar day of the month takes place on the weekend, weekend observations will occur as a result of month ending accrued interest adjustments.\n\nThe index data referenced herein is the property of ICE Data Indices, LLC, its affiliates, (\"ICE\") and/or its Third Party Suppliers and has been licensed for use by the Federal Reserve Bank of St. Louis. ICE, its affiliates and Third Party Suppliers accept no liability in connection with its use.\n\nCopyright, 2017, ICE Benchmark Administration. Reprinted with permission."
+}

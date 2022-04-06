@@ -1,0 +1,18 @@
+{
+  "id": "MPU5350202",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturing Durable Goods Sector: Transportation Equipment: Contribution of All Other Intellectual Property Products Intensity",
+  "observation_start": "1987-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-01-31 10:02:25-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU5350202"
+}

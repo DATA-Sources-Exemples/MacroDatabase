@@ -1,0 +1,18 @@
+{
+  "id": "M0870BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Payrolls, Food Products for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1954-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:19:38-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1942 (2)--Original Data, 1947-1954. Source: Data Have Been Derived By Multiplying Employment With Average Weekly Earnings, See Bureau Of Labor Statistics, Employment, Hours, And Earnings, Manufacturing Division, Nondurable Goods Subdivision, Food And Kindred Products Releases Ls 53-3122 (February, 1953) And (April, 1953) For Data Through 1952; Thereafter, Monthly Labor Review.\n\nThis NBER data series m08070b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08070b"
+}

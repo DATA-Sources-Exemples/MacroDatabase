@@ -1,0 +1,18 @@
+{
+  "id": "LEU0252891000Q",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed full time: Wage and salary workers: 55 to 64 years: Men",
+  "observation_start": "2000-01-01",
+  "observation_end": "2021-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-19 09:03:47-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Wage and salary workers are workers who receive wages, salaries, commissions, tips, payment in kind, or piece rates. The group includes employees in both the private and public sectors but, for the purposes of the earnings series, it excludes all self-employed persons, both those with incorporated businesses and those with unincorporated businesses. For more information see https://www.bls.gov/cps/earnings.htm\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LEU0252891000"
+}

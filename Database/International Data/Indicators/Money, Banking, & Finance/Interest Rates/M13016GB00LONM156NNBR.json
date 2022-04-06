@@ -1,0 +1,18 @@
+{
+  "id": "M13016GB00LONM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Open Market Rates of Discount for London, Great Britain",
+  "observation_start": "1824-01-01",
+  "observation_end": "1939-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1824-1857 Are For \"First Class Bills\" At Undetermined Periods. Thereafter, For Three Month Banker'S Bills Whenever Given, Otherwise Nearest Item To This Paper Or Closest Period. Data For 1847 Were Affected By The Famine In Ireland And The Heavy Export Of Gold To The U.S. And The Continent In Payment For The Large Importations For Grain (See Hunt'S Merchants Magazine, 1859, P. 95.) Data For April 1866 Were Affected By The Failure Of Overend, Gurney, And Company -- A Large Monopolistic Firm. Source: Data For 1824-May 1857: Parliamentary Papers, 1857, X, Pt. I; Report From The Select Committee On Bank Activity, Pp. 463-464. Data For June 1857-1939: Computed By NBER From Weekly Figures In The Economist.\n\nThis NBER data series m13016 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13016"
+}

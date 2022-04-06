@@ -1,0 +1,18 @@
+{
+  "id": "BPFARA02CHA636N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Financial Account: Change in Reserve Assets Excluding Valuation Assets for Switzerland (DISCONTINUED)",
+  "observation_start": "1983-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "National currency, Sum Over Component Sub-periods",
+  "units_short": "National currency, Sum Over Component Sub-periods",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-04-15 13:05:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: BPFARA02\nOECD unit ID: NCCU\nOECD country ID: CHE\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

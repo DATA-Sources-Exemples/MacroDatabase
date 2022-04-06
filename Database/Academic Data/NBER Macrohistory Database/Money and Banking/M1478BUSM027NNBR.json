@@ -1,0 +1,18 @@
+{
+  "id": "M1478BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Demand Deposits Adjusted, Reporting Member Banks, Federal Reserve System for United States",
+  "observation_start": "1934-09-01",
+  "observation_end": "1947-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:32:55-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1919-1934 (2)--Original Data, 1934-1947 (3)--Original Data, 1946-1953 (4)--Original Data, 1952-1956. Beginning 1934 The Series Changed To\"Demand Deposits Adjusted\". The Item\"Net Demand Deposits\" Which Represents Excess Of Gross Demand Deposits Over Allowable Deductions In Computing Reserves Required, Was Replaced By\"Demand Deposits Adjusted\" Which Are\"All Demand Deposits Other Than Those Of Other Banks And The U.S. Government, Less Cash Items Reported In The Process Of Collection\" (See Banking And Monetary Statistics, 1943, P. 129. Source: Data For 1934-1942: Federal Reserve Board, Banking And Monetary Statistics, 1943; Data For 1943-1947: Successive Issues Of Federal Reserve Bulletins.\n\nThis NBER data series m14078b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14078b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BOPMDN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Income Payments on Foreign Direct Investment in U.S. (DISCONTINUED)",
+  "observation_start": "1960-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-06-18 08:41:18-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "This series has been discontinued as a result of the comprehensive restructuring of the international economic accounts (https://apps.bea.gov/scb/pdf/2014/07%20July/0714_annual_international_transactions_accounts.pdf). For a crosswalk of the old and new series in FRED see: http://research.stlouisfed.org/CompRevisionReleaseID49.xlsx."
+}

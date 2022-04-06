@@ -1,0 +1,18 @@
+{
+  "id": "Q10101USQ027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Funds Raised, Nonfinancial Sectors, Flow of Funds Accounts for United States",
+  "observation_start": "1952-01-01",
+  "observation_end": "1962-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 15:18:00-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Net Funds Raised Exclude Changes In The U.S. Government Cash Balance. Source: Federal Reserve Board, Federal Reserve Bulletin, November 1962, \"Flow Of Funds, \" Table 2, Section Ii, Line A Minus Line V, And Following Issues\n\nThis NBER data series q10101 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10101"
+}

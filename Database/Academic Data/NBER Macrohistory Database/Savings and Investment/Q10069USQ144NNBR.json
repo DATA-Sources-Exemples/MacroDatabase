@@ -1,0 +1,18 @@
+{
+  "id": "Q10069USQ144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Domestic Common Stock Issues for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1930-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:17:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Commercial And Financial Chronicle\n\nThis NBER data series q10069 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10069"
+}

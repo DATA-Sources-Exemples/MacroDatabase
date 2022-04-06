@@ -1,3 +1,173 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id                        | title                                                                                                                        | observation_start   | observation_end   |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ACTLISCOU43780            | Housing Inventory: Active Listing Count in South Bend-Mishawaka, IN-MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
+| ACTLISCOUMM43780          | Housing Inventory: Active Listing Count Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
+| ACTLISCOUYY43780          | Housing Inventory: Active Listing Count Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| ATNHPIUS43780Q            | All-Transactions House Price Index for South Bend-Mishawaka, IN-MI (MSA)                                                     | 1982-07-01          | 2021-10-01        |
+| AVELISPRI43780            | Housing Inventory: Average Listing Price in South Bend-Mishawaka, IN-MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| AVELISPRIMM43780          | Housing Inventory: Average Listing Price Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
+| AVELISPRIYY43780          | Housing Inventory: Average Listing Price Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| DESCMSA43780              | Market Hotness: Demand Score in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| ENUC437830010             | Total Quarterly Wages in South Bend-Mishawaka, IN-MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
+| ENUC437830010SA           | Total Quarterly Wages in South Bend-Mishawaka, IN-MI (MSA)                                                                   | 1990-01-01          | 2021-07-01        |
+| ENUC437840010             | Average Weekly Wages for Employees in Total Covered Establishments in South Bend-Mishawaka, IN-MI (MSA)                      | 1990-01-01          | 2021-07-01        |
+| ENUC437840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in South Bend-Mishawaka, IN-MI (MSA)                      | 1990-01-01          | 2021-07-01        |
+| ENUC437840110             | Average Weekly Wages for Employees in Federal Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC437840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                 | 1990-01-01          | 2021-07-01        |
+| ENUC437840210             | Average Weekly Wages for Employees in State Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
+| ENUC437840210SA           | Average Weekly Wages for Employees in State Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
+| ENUC437840310             | Average Weekly Wages for Employees in Local Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
+| ENUC437840310SA           | Average Weekly Wages for Employees in Local Government Establishments in South Bend-Mishawaka, IN-MI (MSA)                   | 2005-01-01          | 2021-07-01        |
+| ENUC437840510             | Average Weekly Wages for Employees in Private Establishments in South Bend-Mishawaka, IN-MI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| ENUC437840510SA           | Average Weekly Wages for Employees in Private Establishments in South Bend-Mishawaka, IN-MI (MSA)                            | 1990-01-01          | 2021-07-01        |
+| HORAMMMSA43780            | Market Hotness: Hotness Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
+| HORAMSA43780              | Market Hotness: Hotness Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |
+| HORAYYMSA43780            | Market Hotness: Hotness Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2018-08-01          | 2022-03-01        |
+| HOSCMSA43780              | Market Hotness: Hotness Score in South Bend-Mishawaka, IN-MI (CBSA)                                                          | 2017-08-01          | 2022-03-01        |
+| IRPD43780                 | Implicit Regional Price Deflator for South Bend-Mishawaka, IN-MI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
+| LAUMT184378000000003A     | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2020-01-01        |
+| LAUMT184378000000004      | Unemployed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
+| LAUMT184378000000004A     | Unemployed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                      | 1990-01-01          | 2020-01-01        |
+| LAUMT184378000000005      | Employed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                        | 1990-01-01          | 2022-01-01        |
+| LAUMT184378000000005A     | Employed Persons in South Bend-Mishawaka, IN-MI (MSA)                                                                        | 1990-01-01          | 2020-01-01        |
+| LAUMT184378000000006A     | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2020-01-01        |
+| LDPEPRMMMSA43780          | Market Hotness: Listing Views per Property in South Bend-Mishawaka, IN-MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
+| LDPEPRVSUSMSA43780        | Market Hotness: Listing Views per Property Versus the United States in South Bend-Mishawaka, IN-MI (CBSA)                    | 2017-08-01          | 2022-03-01        |
+| LDPEPRYYMSA43780          | Market Hotness: Listing Views per Property in South Bend-Mishawaka, IN-MI (CBSA)                                             | 2018-08-01          | 2022-03-01        |
+| MEDAONMAMMMSA43780        | Market Hotness: Median Days on Market in South Bend-Mishawaka, IN-MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
+| MEDAONMAMSA43780          | Market Hotness: Median Days on Market in South Bend-Mishawaka, IN-MI (CBSA)                                                  | 2017-08-01          | 2022-03-01        |
+| MEDAONMAYYMSA43780        | Market Hotness: Median Days on Market in South Bend-Mishawaka, IN-MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
+| MEDDAYONMAR43780          | Housing Inventory: Median Days on Market in South Bend-Mishawaka, IN-MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| MEDDAYONMARMM43780        | Housing Inventory: Median Days on Market Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
+| MEDDAYONMARYY43780        | Housing Inventory: Median Days on Market Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| MEDLISPRI43780            | Housing Inventory: Median Listing Price in South Bend-Mishawaka, IN-MI (CBSA)                                                | 2016-07-01          | 2022-03-01        |
+| MEDLISPRIMM43780          | Housing Inventory: Median Listing Price Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                               | 2017-07-01          | 2022-03-01        |
+| MEDLISPRIPERSQUFEE43780   | Housing Inventory: Median Listing Price per Square Feet in South Bend-Mishawaka, IN-MI (CBSA)                                | 2016-07-01          | 2022-03-01        |
+| MEDLISPRIPERSQUFEEMM43780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)               | 2017-07-01          | 2022-03-01        |
+| MEDLISPRIPERSQUFEEYY43780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                 | 2017-07-01          | 2022-03-01        |
+| MEDLISPRIYY43780          | Housing Inventory: Median Listing Price Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                 | 2017-07-01          | 2022-03-01        |
+| MEDOMMDAMSA43780          | Market Hotness: Median Days on Market in South Bend-Mishawaka, IN-MI (CBSA)                                                  | 2018-08-01          | 2022-03-01        |
+| MEDOVSUSMSA43780          | Market Hotness: Median Days on Market Versus the United States in South Bend-Mishawaka, IN-MI (CBSA)                         | 2017-08-01          | 2022-03-01        |
+| MEDOYYDAMSA43780          | Market Hotness: Median Days on Market Day in South Bend-Mishawaka, IN-MI (CBSA)                                              | 2018-08-01          | 2022-03-01        |
+| MEDSQUFEE43780            | Housing Inventory: Median Home Size in Square Feet in South Bend-Mishawaka, IN-MI (CBSA)                                     | 2016-07-01          | 2022-03-01        |
+| MEDSQUFEEMM43780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                    | 2017-07-01          | 2022-03-01        |
+| MEDSQUFEEYY43780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                      | 2017-07-01          | 2022-03-01        |
+| MELIPRMMMSA43780          | Market Hotness: Median Listing Price in South Bend-Mishawaka, IN-MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
+| MELIPRMSA43780            | Market Hotness: Median Listing Price in South Bend-Mishawaka, IN-MI (CBSA)                                                   | 2017-08-01          | 2022-03-01        |
+| MELIPRVSUSMSA43780        | Market Hotness: Median Listing Price Versus the United States in South Bend-Mishawaka, IN-MI (CBSA)                          | 2017-08-01          | 2022-03-01        |
+| MELIPRYYMSA43780          | Market Hotness: Median Listing Price in South Bend-Mishawaka, IN-MI (CBSA)                                                   | 2018-08-01          | 2022-03-01        |
+| NEWLISCOU43780            | Housing Inventory: New Listing Count in South Bend-Mishawaka, IN-MI (CBSA)                                                   | 2016-07-01          | 2022-03-01        |
+| NEWLISCOUMM43780          | Housing Inventory: New Listing Count Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| NEWLISCOUYY43780          | Housing Inventory: New Listing Count Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                    | 2017-07-01          | 2022-03-01        |
+| NGMP43780                 | Total Gross Domestic Product for South Bend-Mishawaka, IN-MI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NIHHRAMSA43780            | Market Hotness: Nielsen Household Rank in South Bend-Mishawaka, IN-MI (CBSA)                                                 | 2017-08-01          | 2022-03-01        |
+| PATENTCBSA143780          | U.S. Granted Utility Patents Originating in South Bend-Mishawaka, IN-MI (MSA)                                                | 2000-01-01          | 2015-01-01        |
+| PENLISCOU43780            | Housing Inventory: Pending Listing Count in South Bend-Mishawaka, IN-MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| PENLISCOUMM43780          | Housing Inventory: Pending Listing Count Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
+| PENLISCOUYY43780          | Housing Inventory: Pending Listing Count Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| PRIINCCOU43780            | Housing Inventory: Price Increased Count in South Bend-Mishawaka, IN-MI (CBSA)                                               | 2016-07-01          | 2022-03-01        |
+| PRIINCCOUMM43780          | Housing Inventory: Price Increased Count Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                              | 2017-07-01          | 2022-03-01        |
+| PRIINCCOUYY43780          | Housing Inventory: Price Increased Count Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| PRIREDCOU43780            | Housing Inventory: Price Reduced Count in South Bend-Mishawaka, IN-MI (CBSA)                                                 | 2016-07-01          | 2022-03-01        |
+| PRIREDCOUMM43780          | Housing Inventory: Price Reduced Count Month-Over-Month in South Bend-Mishawaka, IN-MI (CBSA)                                | 2017-07-01          | 2022-03-01        |
+| PRIREDCOUYY43780          | Housing Inventory: Price Reduced Count Year-Over-Year in South Bend-Mishawaka, IN-MI (CBSA)                                  | 2017-07-01          | 2022-03-01        |
+| QGMP43780                 | Total Quantity Indexes for Real GDP for South Bend-Mishawaka, IN-MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
+| RGMP43780                 | Total Real Gross Domestic Product for South Bend-Mishawaka, IN-MI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| RPI43780                  | Real Personal Income for South Bend-Mishawaka, IN-MI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
+| RPIPC43780                | Real Per Capita Personal Income for South Bend-Mishawaka, IN-MI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
+| RPPALL43780               | Regional Price Parities: All Items for South Bend-Mishawaka, IN-MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |
+| RPPGOOD43780              | Regional Price Parities: Goods for South Bend-Mishawaka, IN-MI (MSA)                                                         | 2008-01-01          | 2020-01-01        |
+| RPPSERVEOTH43780          | Regional Price Parities: Services: Other for South Bend-Mishawaka, IN-MI (MSA)                                               | 2008-01-01          | 2020-01-01        |
+| RPPSERVERENT43780         | Regional Price Parities: Services: Rents for South Bend-Mishawaka, IN-MI (MSA)                                               | 2008-01-01          | 2020-01-01        |
+| SBNPOP                    | Resident Population in South Bend-Mishawaka, IN-MI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| SMS18437800000000026      | All Employees: Total Nonfarm in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-04-01          | 2022-02-01        |
+| SMU18437800000000001A     | All Employees: Total Nonfarm in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU18437800500000001      | All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18437800500000001A     | All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU18437800500000001SA    | All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SMU18437800500000002      | Average Weekly Hours of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18437800500000002A     | Average Weekly Hours of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                    | 2007-01-01          | 2021-01-01        |
+| SMU18437800500000002SA    | Average Weekly Hours of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                    | 2007-01-01          | 2022-02-01        |
+| SMU18437800500000003      | Average Hourly Earnings of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18437800500000003A     | Average Hourly Earnings of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
+| SMU18437800500000003SA    | Average Hourly Earnings of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18437800500000011      | Average Weekly Earnings of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18437800500000011A     | Average Weekly Earnings of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                 | 2007-01-01          | 2021-01-01        |
+| SMU18437800500000011SA    | Average Weekly Earnings of All Employees: Total Private in South Bend-Mishawaka, IN-MI (MSA)                                 | 2007-01-01          | 2022-02-01        |
+| SMU18437800600000001      | All Employees: Goods Producing in South Bend-Mishawaka, IN-MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18437800600000001A     | All Employees: Goods Producing in South Bend-Mishawaka, IN-MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU18437800600000001SA    | All Employees: Goods Producing in South Bend-Mishawaka, IN-MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18437800700000001      | All Employees: Service-Providing in South Bend-Mishawaka, IN-MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18437800700000001A     | All Employees: Service-Providing in South Bend-Mishawaka, IN-MI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
+| SMU18437800700000001SA    | All Employees: Service-Providing in South Bend-Mishawaka, IN-MI (MSA)                                                        | 1990-01-01          | 2022-02-01        |
+| SMU18437800800000001      | All Employees: Private Service Providing in South Bend-Mishawaka, IN-MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU18437800800000001A     | All Employees: Private Service Providing in South Bend-Mishawaka, IN-MI (MSA)                                                | 1990-01-01          | 2021-01-01        |
+| SMU18437800800000001SA    | All Employees: Private Service Providing in South Bend-Mishawaka, IN-MI (MSA)                                                | 1990-01-01          | 2022-02-01        |
+| SMU18437801500000001A     | All Employees: Mining, Logging, and Construction in South Bend-Mishawaka, IN-MI (MSA)                                        | 1990-01-01          | 2021-01-01        |
+| SMU18437803000000001A     | All Employees: Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2021-01-01        |
+| SMU18437803133600001      | All Employees: Durable Goods: Transportation Equipment Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                    | 1990-01-01          | 2017-12-01        |
+| SMU18437803133600001A     | All Employees: Durable Goods: Transportation Equipment Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                    | 1990-01-01          | 2016-01-01        |
+| SMU18437803133600001SA    | All Employees: Durable Goods: Transportation Equipment Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                    | 1990-01-01          | 2017-12-01        |
+| SMU18437804000000001A     | All Employees: Trade, Transportation, and Utilities in South Bend-Mishawaka, IN-MI (MSA)                                     | 1990-01-01          | 2021-01-01        |
+| SMU18437804100000001      | All Employees: Wholesale Trade in South Bend-Mishawaka, IN-MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18437804100000001A     | All Employees: Wholesale Trade in South Bend-Mishawaka, IN-MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
+| SMU18437804100000001SA    | All Employees: Wholesale Trade in South Bend-Mishawaka, IN-MI (MSA)                                                          | 1990-01-01          | 2022-02-01        |
+| SMU18437804200000001      | All Employees: Retail Trade in South Bend-Mishawaka, IN-MI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18437804200000001A     | All Employees: Retail Trade in South Bend-Mishawaka, IN-MI (MSA)                                                             | 1990-01-01          | 2021-01-01        |
+| SMU18437804200000001SA    | All Employees: Retail Trade in South Bend-Mishawaka, IN-MI (MSA)                                                             | 1990-01-01          | 2022-02-01        |
+| SMU18437804245200001      | All Employees: Retail Trade: General Merchandise Stores in South Bend-Mishawaka, IN-MI (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU18437804245200001A     | All Employees: Retail Trade: General Merchandise Stores in South Bend-Mishawaka, IN-MI (MSA)                                 | 1990-01-01          | 2021-01-01        |
+| SMU18437804245200001SA    | All Employees: Retail Trade: General Merchandise Stores in South Bend-Mishawaka, IN-MI (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU18437804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in South Bend-Mishawaka, IN-MI (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU18437804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in South Bend-Mishawaka, IN-MI (MSA) | 1990-01-01          | 2021-01-01        |
+| SMU18437804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in South Bend-Mishawaka, IN-MI (MSA) | 1990-01-01          | 2022-02-01        |
+| SMU18437805000000001A     | All Employees: Information in South Bend-Mishawaka, IN-MI (MSA)                                                              | 1990-01-01          | 2021-01-01        |
+| SMU18437805500000001A     | All Employees: Financial Activities in South Bend-Mishawaka, IN-MI (MSA)                                                     | 1990-01-01          | 2021-01-01        |
+| SMU18437806000000001A     | All Employees: Professional and Business Services in South Bend-Mishawaka, IN-MI (MSA)                                       | 1990-01-01          | 2021-01-01        |
+| SMU18437806500000001A     | All Employees: Education and Health Services in South Bend-Mishawaka, IN-MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
+| SMU18437806562200001      | All Employees: Education and Health Services: Hospitals in South Bend-Mishawaka, IN-MI (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU18437806562200001A     | All Employees: Health Care: Hospitals in South Bend-Mishawaka, IN-MI (MSA)                                                   | 1990-01-01          | 2021-01-01        |
+| SMU18437806562200001SA    | All Employees: Education and Health Services: Hospitals in South Bend-Mishawaka, IN-MI (MSA)                                 | 1990-01-01          | 2022-02-01        |
+| SMU18437807000000001A     | All Employees: Leisure and Hospitality in South Bend-Mishawaka, IN-MI (MSA)                                                  | 1990-01-01          | 2021-01-01        |
+| SMU18437807072200001      | All Employees: Leisure and Hospitality: Food Services and Drinking Places in South Bend-Mishawaka, IN-MI (MSA)               | 1990-01-01          | 2022-02-01        |
+| SMU18437807072200001A     | All Employees: Food Services and Drinking Places in South Bend-Mishawaka, IN-MI (MSA)                                        | 1990-01-01          | 2021-01-01        |
+| SMU18437807072200001SA    | All Employees: Leisure and Hospitality: Food Services and Drinking Places in South Bend-Mishawaka, IN-MI (MSA)               | 1990-01-01          | 2022-02-01        |
+| SMU18437808000000001A     | All Employees: Other Services in South Bend-Mishawaka, IN-MI (MSA)                                                           | 1990-01-01          | 2021-01-01        |
+| SMU18437809000000001A     | All Employees: Government in South Bend-Mishawaka, IN-MI (MSA)                                                               | 1990-01-01          | 2021-01-01        |
+| SMU18437809091000001      | All Employees: Government: Federal Government in South Bend-Mishawaka, IN-MI (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18437809091000001A     | All Employees: Federal Government in South Bend-Mishawaka, IN-MI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
+| SMU18437809091000001SA    | All Employees: Government: Federal Government in South Bend-Mishawaka, IN-MI (MSA)                                           | 1990-01-01          | 2022-02-01        |
+| SMU18437809092000001      | All Employees: Government: State Government in South Bend-Mishawaka, IN-MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18437809092000001A     | All Employees: State Government in South Bend-Mishawaka, IN-MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| SMU18437809092000001SA    | All Employees: Government: State Government in South Bend-Mishawaka, IN-MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18437809093000001      | All Employees: Government: Local Government in South Bend-Mishawaka, IN-MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SMU18437809093000001A     | All Employees: Local Government in South Bend-Mishawaka, IN-MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
+| SMU18437809093000001SA    | All Employees: Government: Local Government in South Bend-Mishawaka, IN-MI (MSA)                                             | 1990-01-01          | 2022-02-01        |
+| SOUT718EDUH               | All Employees: Education and Health Services in South Bend-Mishawaka, IN-MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SOUT718EDUHN              | All Employees: Education and Health Services in South Bend-Mishawaka, IN-MI (MSA)                                            | 1990-01-01          | 2022-02-01        |
+| SOUT718FIRE               | All Employees: Financial Activities in South Bend-Mishawaka, IN-MI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SOUT718FIREN              | All Employees: Financial Activities in South Bend-Mishawaka, IN-MI (MSA)                                                     | 1990-01-01          | 2022-02-01        |
+| SOUT718GOVT               | All Employees: Government in South Bend-Mishawaka, IN-MI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SOUT718GOVTN              | All Employees: Government in South Bend-Mishawaka, IN-MI (MSA)                                                               | 1990-01-01          | 2022-02-01        |
+| SOUT718INFO               | All Employees: Information in South Bend-Mishawaka, IN-MI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SOUT718INFON              | All Employees: Information in South Bend-Mishawaka, IN-MI (MSA)                                                              | 1990-01-01          | 2022-02-01        |
+| SOUT718LEIH               | All Employees: Leisure and Hospitality in South Bend-Mishawaka, IN-MI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SOUT718LEIHN              | All Employees: Leisure and Hospitality in South Bend-Mishawaka, IN-MI (MSA)                                                  | 1990-01-01          | 2022-02-01        |
+| SOUT718LF                 | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
+| SOUT718LFN                | Civilian Labor Force in South Bend-Mishawaka, IN-MI (MSA)                                                                    | 1990-01-01          | 2022-01-01        |
+| SOUT718MFG                | All Employees: Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SOUT718MFGN               | All Employees: Manufacturing in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SOUT718NA                 | All Employees: Total Nonfarm in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SOUT718NAN                | All Employees: Total Nonfarm in South Bend-Mishawaka, IN-MI (MSA)                                                            | 1990-01-01          | 2022-02-01        |
+| SOUT718NRMN               | All Employees: Mining, Logging, and Construction in South Bend-Mishawaka, IN-MI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SOUT718NRMNN              | All Employees: Mining, Logging, and Construction in South Bend-Mishawaka, IN-MI (MSA)                                        | 1990-01-01          | 2022-02-01        |
+| SOUT718PBSV               | All Employees: Professional and Business Services in South Bend-Mishawaka, IN-MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SOUT718PBSVN              | All Employees: Professional and Business Services in South Bend-Mishawaka, IN-MI (MSA)                                       | 1990-01-01          | 2022-02-01        |
+| SOUT718PCPI               | Per Capita Personal Income in South Bend-Mishawaka, IN-MI (MSA)                                                              | 1969-01-01          | 2020-01-01        |
+| SOUT718SRVO               | All Employees: Other Services in South Bend-Mishawaka, IN-MI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SOUT718SRVON              | All Employees: Other Services in South Bend-Mishawaka, IN-MI (MSA)                                                           | 1990-01-01          | 2022-02-01        |
+| SOUT718TRAD               | All Employees: Trade, Transportation, and Utilities in South Bend-Mishawaka, IN-MI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SOUT718TRADN              | All Employees: Trade, Transportation, and Utilities in South Bend-Mishawaka, IN-MI (MSA)                                     | 1990-01-01          | 2022-02-01        |
+| SOUT718UR                 | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
+| SOUT718URN                | Unemployment Rate in South Bend-Mishawaka, IN-MI (MSA)                                                                       | 1990-01-01          | 2022-01-01        |
+| SUSCMSA43780              | Market Hotness: Supply Score in South Bend-Mishawaka, IN-MI (CBSA)                                                           | 2017-08-01          | 2022-03-01        |

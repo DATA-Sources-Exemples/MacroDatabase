@@ -1,0 +1,18 @@
+{
+  "id": "IRPD27340",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Implicit Regional Price Deflator for Jacksonville, NC (MSA)",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "US PCE Index 2012=100",
+  "units_short": "US PCE Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-14 11:03:07-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Implicit Regional Price Deflator (IRPD) is the ratio of the current-dollar value of a series, such as regional personal income, to its corresponding chained-dollar value, multiplied by 100.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm or http://www.bea.gov/regional/methods.cfm."
+}

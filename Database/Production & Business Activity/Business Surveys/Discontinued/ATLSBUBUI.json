@@ -1,0 +1,18 @@
+{
+  "id": "ATLSBUBUI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Business Uncertainty Index (DISCONTINUED)",
+  "observation_start": "2015-01-01",
+  "observation_end": "2020-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015-2018=100",
+  "units_short": "Index 2015-2018=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-07-29 10:01:04-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "This series was discontinued by the source following revisions to the methodology and panel design for the Survey of Business Uncertainty. For more details, see the revised methodology (https://www.frbatlanta.org/-/media/documents/research/surveys/business-uncertainty/survey-of-business-uncertainty-methodology.pdf).\n\nThis index reflects firms' uncertainty about the growth of their own sales, employment, and capital expenditures over the next 12 months. The index can respond to news about the overall economy, changes in business sentiment, policy developments, stock market moves, interest rate changes, and changes in the outlook of firms in the sample. The uncertainty index captures uncertainty about the outlook for sample firms. Each index is standardized to have mean and variance of 100 during the period from January 2015 to December 2018.\n\nFor more details about the index or the survey, visit the Survey of Business Uncertainty (https://www.frbatlanta.org/research/surveys/business-uncertainty.aspx)."
+}

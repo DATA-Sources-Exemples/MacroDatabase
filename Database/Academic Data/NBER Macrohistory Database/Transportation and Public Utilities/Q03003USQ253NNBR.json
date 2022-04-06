@@ -1,0 +1,18 @@
+{
+  "id": "Q03003USQ253NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railroad Freight Ton-Miles, Revenue for United States",
+  "observation_start": "1960-01-01",
+  "observation_end": "1963-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Ton-Miles",
+  "units_short": "Bil. Of Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:05:34-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1866-1922 (2)--Original Data, 1920-1963. Data For 1907-1914 And 1916-1924 Are Identical To The Data In Series \"Revenue And Non-Revenue Net Ton-Miles Of Freight Hauled\" And Could Be Considered Additional Variable Segments. Data Exclude Switching And Terminal Companies. A Coal Strike Accounted For The Marked Decrease In April 1941. Source: Interstate Commerce Commission, \"Revenue Traffic Statistics Of Class I Steam Railways In The United States\"\n\nThis NBER data series q03003 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: q03003"
+}

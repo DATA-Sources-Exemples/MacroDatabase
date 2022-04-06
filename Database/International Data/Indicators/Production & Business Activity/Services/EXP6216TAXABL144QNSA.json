@@ -1,0 +1,18 @@
+{
+  "id": "EXP6216TAXABL144QNSA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Expenses for Home Health Care Services, Establishments Subject to Federal Income Tax",
+  "observation_start": "2009-01-01",
+  "observation_end": "2021-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-18 09:08:37-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Quarterly Services Survey provides estimates of revenue and expenses for selected service industries. For further information regarding Quarterly Services, visit the source website (https://www.census.gov/services/index.html)."
+}

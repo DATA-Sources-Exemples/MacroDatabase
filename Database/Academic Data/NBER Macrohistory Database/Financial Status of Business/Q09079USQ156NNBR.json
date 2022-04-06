@@ -1,0 +1,18 @@
+{
+  "id": "Q09079USQ156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Percentage of Companies with Profits for the United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1963-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:03:27-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Series Is More Fully Described In G.H. Moore, Business Cycle Indicators, Vol. 2, P. 22. Sample Sizes And Scope Of The Series Are Indicated, As Is Method Of Calculating These Data. See Also Vol. 1, Chapter 12 Of Business Cycle Indicators For A Comparison Of These Data With Other Profits Statistics. This Series Is Also Called \"Percentage Of Companies (Manufacturing, Mining, Trade, And Service) With Profits.\" Source: Published Data For 1920-1958 Are In Vol. Ii Of Business Cycle Indicators, P. 106; 1959 And Following Years Were Obtained From First National City Bank Files, Quarterly Tabulation Of Corporate Earnings.\n\nThis NBER data series q09079 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09079"
+}

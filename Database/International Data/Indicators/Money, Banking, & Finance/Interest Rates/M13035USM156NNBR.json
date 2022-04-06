@@ -1,0 +1,18 @@
+{
+  "id": "M13035USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yields on Corporate Bonds, Highest Rating for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1968-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:22-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Data Refer To Aaa Grade Bonds. Data Were Checked In Part With Annual Averages, In Federal Reserve Bulletins, Annual Reports Of The Federal Reserve Board, And Moody'S Industrials. The Survey Of Current Business Is The Only Source That Publishes The Series In Its Entirety; Moody'S Bond Survey Publishes Only The Daily Data From Which The Monthly Series Is Made Up. Data For 1919-1941 Can Also Be Found In The Federal Reserve Board'S \"Banking And Monetary Statistics\", 1943. Source: U.S. Department Of Commerce, Survey Of Current Business, November 1937, P. 19 And Successive Issues.\n\nThis NBER data series m13035 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13035"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNIMRTINCSS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Infant Mortality Rate for Caribbean Small States",
+  "observation_start": "1990-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number per 1,000 Live Births",
+  "units_short": "Number per 1,000 Live Births",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-16 16:23:45-06",
+  "popularity": 12,
+  "group_popularity": 12,
+  "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nNations that are included in this data series are listed at https://datahelpdesk.worldbank.org/knowledgebase/articles/906519\n\nSource Indicator: SP.DYN.IMRT.IN"
+}

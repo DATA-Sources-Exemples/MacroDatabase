@@ -1,0 +1,18 @@
+{
+  "id": "M0823BDEM362NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed Members of Sickness Societies, Male and Female for Germany",
+  "observation_start": "1914-01-01",
+  "observation_end": "1920-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index May 31, 1914=100",
+  "units_short": "Index May 31St, 1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:25:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Six Variables--(1)--Original Data, 1904-1913 (2)--Original Data, 1914-1920, (3)--Original Data, 1924-1929 (4)--Original Data, 1924-1929 (5)--Original Data, 1928-1934 (6)--Original Data, 1928-1934. The Six Variables In This Series Are Broken Down As Follows: 1904-1913 Data Are On A December 31, 1904 Base Of 100. 1914-1920 Data Are On A Base Of May 31, 1914=100. The Data For 1924-1929 Were Converted By NBER To A Base Of 1928=100 From An Original Index Based On December 31, 1924=100. The 1924-1929 Data Are Also Presented As Based On The Original December Date. The 1928-1934 Data Are Presented As Originally Given, In Millions Of Members. However, The NBER Has Also Converted That Original Data To An Index Based On 1928=100. These Data Were Originally Given As First Of Month Data. Here They Were Placed At The End Of The Month By NBER. Data Are For All Employment. Source: Reichsarbeitsblatt, 1920, Pp.23 And 592 Under \"Mitgliederbervegnung Bie Den Krankenkassen\"."
+}

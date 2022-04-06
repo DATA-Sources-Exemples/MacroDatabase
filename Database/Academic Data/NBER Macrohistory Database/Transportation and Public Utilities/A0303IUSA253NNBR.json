@@ -1,0 +1,18 @@
+{
+  "id": "A0303IUSA253NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Tons of Freight Carries One Mile, Seven Railroads for United States",
+  "observation_start": "1865-01-01",
+  "observation_end": "1891-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Ton-Miles",
+  "units_short": "Bil. Of Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:02:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Seven Railroads Are: (1)--Pennsylvania Railroad (2)--Pittsburgh, Fort Wayne, And Chicago R.R. (3)--New York Central R.R. (4)--Lake Shore R.R. (5)--Michigan Central R.R. (6)--Boston And Albany R.R. (7)--New York,Lake Erie And Western R.R. Data For 1887-91 Were Computed By Adding Ton-Miles Of The Seven Individual Railroads. Source: Poor'S Manual Of Ralroads, 1888, P. Xxvii-Xxix; 1889, P. Viii; And Volumes For 1890, 1891, And 1892\n\nThis NBER data series a03003i appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03003i"
+}

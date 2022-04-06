@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEHF02",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in U.S. City Average",
   "observation_start": "1952-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:38:18-06",
-  "popularity": 20,
+  "popularity": 21,
   "group_popularity": 22,
   "notes": "The term \"utility (piped) gas service\" refers to natural gas."
 }

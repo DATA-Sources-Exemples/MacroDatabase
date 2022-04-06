@@ -1,0 +1,18 @@
+{
+  "id": "AEXKOUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "South Korean Won to U.S. Dollar Spot Exchange Rate",
+  "observation_start": "1981-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "South Korean Won to One U.S. Dollar",
+  "units_short": "South Korean Won to  1 U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-03 15:36:06-06",
+  "popularity": 19,
+  "group_popularity": 62,
+  "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies."
+}

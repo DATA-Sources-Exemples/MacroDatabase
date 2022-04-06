@@ -1,0 +1,18 @@
+{
+  "id": "M0501DUSM391NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Visible Supply of Wheat for United States",
+  "observation_start": "1904-01-01",
+  "observation_end": "1928-12-01",
+  "frequency": "Monthly, Saturday Nearest Month's End",
+  "frequency_short": "M",
+  "units": "Millions of Bushels",
+  "units_short": "Mil. Of Bushels",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Six Variables--(1)--Original Data, 1873-1885 (2)--Original Data, 1884-1889 (3)--Original, 1888-1905 (4)--Original, 1904-1928 (5)--Original, 1927-1954 (6)--Original, 1953-1956. Beginning In 1911, Data Was Given Direct From Source, And Thus Computation Was Not Necessary. Area Covered - U.S.- Excluding San Francisco. Source: Bradstreet'S\n\nThis NBER data series m05001d appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05001d"
+}

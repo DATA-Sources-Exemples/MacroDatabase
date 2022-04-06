@@ -1,0 +1,18 @@
+{
+  "id": "IPUMN541211W200000000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employment for Professional, Scientific, and Technical Services: Offices of Certified Public Accountants (NAICS 541211) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 22:07:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
+}

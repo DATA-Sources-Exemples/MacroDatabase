@@ -1,0 +1,18 @@
+{
+  "id": "M1427BUSM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Investments Other Than United States Government Securities, Reporting Federal Reserve Member Banks in Ninety-Four Leading Cities for United States",
+  "observation_start": "1946-07-01",
+  "observation_end": "1949-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:35:09-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1947 (2)--Original Data, 1946-1949. Data Are Monthly Averages Of Weekly Data. A Revision In Data In July 1946 Increases And Improves Coverage. The Total Number Of Cities Was Reduced From 101 To 94, But The Coverage Of Banks Within The Cities Was Increased (See Frb Bulletin Of June 1947, P. 692). Source: Federal Reserve Board, Monthly Issues Of Federal Reserve Bulletin.\n\nThis NBER data series m14127b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14127b"
+}

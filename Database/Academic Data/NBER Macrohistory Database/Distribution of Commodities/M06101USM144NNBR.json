@@ -1,0 +1,18 @@
+{
+  "id": "M06101USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Metal Cutting Machine Tools, Gross New Orders, Domestic for United States",
+  "observation_start": "1945-09-01",
+  "observation_end": "1966-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:46:07-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source: National Machine Tool Builders Association, \"Total Industry Estimate Of Metal Cutting Type Machine Tools\"\n\nThis NBER data series m06101 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06101"
+}

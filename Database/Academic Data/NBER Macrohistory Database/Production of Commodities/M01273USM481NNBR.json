@@ -1,0 +1,18 @@
+{
+  "id": "M01273USM481NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Number of Locomotives Assigned to Freight and Passenger Service for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1943-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Locomotives",
+  "units_short": "Number Of Locomotives",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:04:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Switching And Terminal Companies Are Excluded Through 1936. They Were Included Beginning In 1937. The Figure For January 1937 Was Derived By Adding The 12/1936 Figure (Excluding The Companies) And The 01/1937 Figure (Including Them) And Dividing By Two. Source: Computed By NBER By Adding Series (Locomotives Assigned To Freight And Passenger Service, Respectively).\n\nThis NBER data series m01273 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01273"
+}

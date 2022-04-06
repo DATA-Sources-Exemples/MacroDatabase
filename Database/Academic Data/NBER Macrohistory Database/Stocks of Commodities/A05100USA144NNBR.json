@@ -1,0 +1,18 @@
+{
+  "id": "A05100USA144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Inventory, Holdings, Year End, Large Manufacturing Corporations, Including Rubber Companies for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1945-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:50:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Compiled By NBER From Source Material Such As Moody'S Industrial, Poor'S Industrial Manuals, The Commercial And Financial Chronicle, Annual Reports Of Corporations, Etc. Source: NBER, Confidential Report Of May 1945, \"Corporate Financial Data For Studies In Business Finance, \" Section 1 - Large Corporations\n\nThis NBER data series a05100 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: a05100"
+}

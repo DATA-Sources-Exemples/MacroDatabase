@@ -1,12 +1,12 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Cheshire County, NH     |                 1 |
-| Rockingham County, NH   |                 1 |
-| Sullivan County, NH     |                 1 |
-| Hillsborough County, NH |                 1 |
-| Grafton County, NH      |                 1 |
-| Carroll County, NH      |                 1 |
-| Coos County, NH         |                 1 |
-| Merrimack County, NH    |                 1 |
-| Strafford County, NH    |                 1 |
-| Belknap County, NH      |                 1 |
+| Sullivan County, NH     |                89 |
+| Coos County, NH         |                88 |
+| Merrimack County, NH    |               147 |
+| Belknap County, NH      |               145 |
+| Hillsborough County, NH |               146 |
+| Carroll County, NH      |                90 |
+| Rockingham County, NH   |               147 |
+| Grafton County, NH      |               146 |
+| Strafford County, NH    |               146 |
+| Cheshire County, NH     |               147 |

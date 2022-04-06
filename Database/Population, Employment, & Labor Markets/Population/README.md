@@ -1,5 +1,5 @@
 | Folder                                    |   Files / Folders |
 |-------------------------------------------|-------------------|
-| Supplemental Nutrition Assistance Program |                 2 |
-| Poverty Measures                          |                 2 |
-| Poverty Estimates                         |                 1 |
+| Poverty Estimates                         |                 2 |
+| Poverty Measures                          |               845 |
+| Supplemental Nutrition Assistance Program |               997 |

@@ -1,0 +1,18 @@
+{
+  "id": "CP0550E3CCM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Tools and Equipment for House and Garden for European Economic Area (EEA18-2004, EEA28-2006, EEA30)",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:20:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Tools and Equipment for House and Garden (05.5)\" is a classification of durable and semi-durable goods that includes motorized tools and equipment such as electric drills, saws, sanders and hedge cutters, garden tractors, lawn mowers, cultivators, chain saws, and water pumps; repair of such articles; hand tools such as saws, hammers, screwdrivers, wrenches, spanners, pliers, trimming knives, rasps, and files; garden tools such as wheel barrows, watering cans, hoses, spades, shovels, rakes, forks, scythes, sickles, and secateurs; ladders and steps; door fittings (hinges, handles, and locks), fittings for radiators and fireplaces, and other metal articles for the house (curtain rails, carpet rods, hooks, etc.) or for the garden (chains, grids, stakes, and hoop segments for fencing and bordering), small electric accessories such as power sockets, switches, wiring flex, electric bulbs, fluorescent lighting tubes, torches, flashlights, hand-lamps, electric batteries for general use, bells, and alarms; repair of such articles; and charges for the leasing or rental of do-it-yourself machinery and equipment.\n\nThis category contains the subcategory of Major Tools and Equipment and Small Tools and Miscellaneous Accessories (05.5.1/2).\n\nThis category is a subcategory of Furnishings, Household Equipment, and Routine Maintenance of the House (05) category.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M08150USM420NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Man-Hours Paid for in Maintenance of Equipment and Stores, Class I Railroads for United States",
+  "observation_start": "1921-07-01",
+  "observation_end": "1942-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Manhours",
+  "units_short": "Mil. of Manhours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:25:43-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Refer To Total Time Paid For, Covering Straight Time, Overtime Paid For Pro Rata Rates, Overtime Paid For All Primitive Rates, And Time Paid For But Not Worked. Data Include Switching And Terminal Companies Through 1932; Thereafter Exclude Them. Data For July-September 1922 Are Effected By A Strike. Source: Interstate Commerce Commission, Wage Statistics Of Class I Steam Railroads In The United States.\n\nThis NBER data series m08150 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08150"
+}

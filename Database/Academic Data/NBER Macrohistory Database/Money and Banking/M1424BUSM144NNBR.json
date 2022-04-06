@@ -1,0 +1,18 @@
+{
+  "id": "M1424BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "National Bank Notes Outstanding Outside the Treasury for United States",
+  "observation_start": "1874-01-01",
+  "observation_end": "1919-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:35:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1864-1879 (2)--Original Data, 1874-1919 (3)--Original Data, 1914-1949. Data For 1874-February 1887 Were Computed By Subtracting National Bank Notes In The Treasury From The Total Outstanding. All Data Were Published As Of The First Of The Month, But Are Given Here As Of The End Of The Preceeding Month. Data For August 1914-January 1915 Include Additional Circulating Notes Issued Under Authority Of The Act Of May 30, 1908 As Amended By Acts Of December 23, 1913 And August 4, 1914. Source: Data For 1874-May 1878: Computed By NBER From The Annual Report Of The Comptroller Fo The Currency, 1891, P. 125. Data For June 1878-February 1887: Computed By NBER From The Annual Report Of The Secretary Of The Treasury On The State Of Finances For The Fiscal Year Ended 1898, P. 44. Data For March 1887-1919: U.S. Department Of Treasury, Circulation Statement Of U.S. Money, Monthly Publication.\n\nThis NBER data series m14124b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14124b"
+}

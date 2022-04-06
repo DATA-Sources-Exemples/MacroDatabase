@@ -1,2 +1,12 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                                                            | observation_start   | observation_end   |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| DDOI06SCA156NWDB | 5-Bank Asset Concentration for Seychelles (DISCONTINUED)                                                                                                         | 2009-01-01          | 2010-01-01        |
+| IBANAINIAISC     | Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Seychelles (DISCONTINUED)                                            | 2006-07-01          | 2009-10-01        |
+| IBANAINIAOSC     | Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer in Seychelles (DISCONTINUED)                                          | 2006-10-01          | 2015-04-01        |
+| IBANAININISC     | Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer in Seychelles (DISCONTINUED)                                                  | 2006-10-01          | 2011-10-01        |
+| IBANRIAISC       | Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Seychelles (DISCONTINUED)                                              | 2006-07-01          | 2009-10-01        |
+| IBANRIAOSC       | Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Seychelles (DISCONTINUED)                                            | 2006-10-01          | 2015-04-01        |
+| IBANRINISC       | Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Seychelles (DISCONTINUED)                                                    | 2006-10-01          | 2011-10-01        |
+| IDS1MNIAOGGSC    | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Nationality of Issuer in Seychelles (DISCONTINUED)        | 2009-01-01          | 2011-07-01        |
+| IDSGGGAMNIAOSC   | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Seychelles (DISCONTINUED) | 2006-10-01          | 2015-04-01        |
+| IDSGGGAMNINISC   | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer in Seychelles (DISCONTINUED)         | 2006-10-01          | 2011-10-01        |

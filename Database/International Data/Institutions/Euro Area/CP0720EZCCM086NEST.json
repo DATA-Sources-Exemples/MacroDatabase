@@ -1,0 +1,18 @@
+{
+  "id": "CP0720EZCCM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Operation of Personal Transport Equipment for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19)",
+  "observation_start": "1996-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:19:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Operation of Personal Transport Equipment (07.2)\" is a classification of semi-durable goods, nondurable goods, energy, and services. Purchases of spare parts, accessories, or lubricants made by households with the intention of undertaking the maintenance, repair, or intervention themselves should be shown under (07.2.1) or (07.2.2). If households pay an enterprise to carry out the maintenance, repair, or fitting, the total value of the service, including the costs of the materials used, should be shown under (07.2.3).\n\nThis category contains Spare Parts and Accessories for Personal Transport Equipment (07.1.1), Fuels and Lubricants for Personal Transport Equipment (07.2.2), Maintenance and Repair of Personal Transport Equipment (07.2.3), and Other Services in Respect of Personal Transport Equipment (07.2.4).\n\nThis category is a subcategory of Transport (07) category.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

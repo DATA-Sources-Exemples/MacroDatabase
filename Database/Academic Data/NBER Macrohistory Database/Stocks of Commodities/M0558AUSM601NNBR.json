@@ -1,0 +1,18 @@
+{
+  "id": "M0558AUSM601NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Slab Zinc Stocks at Refineries for United States",
+  "observation_start": "1919-12-01",
+  "observation_end": "1929-09-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Thousands of Short Tons",
+  "units_short": "Thous. of Short Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:47:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1929 (2)--Original Data, 1929-1942 (3)--Original, 1942-1956. Data Include Foreign And Domestic Ore. The Survey Of Current Business States That Figures Represent Stocks At Refineries Of Primary Zinc And Secondary Zinc Produced By Primary Refineries. Data For 1921-1925 Were Checked With Bulletins Of American Zinc Institute. Data For 1920 And Thereafter Were Also Checked With The Survey Of Current Business (See May 1922 And Following Issues.) December 1919 Data Were Checked With The Yearbook Of The American Bureau Of Metal Statistics, 1920, P. 58. Data Are For All Companies, Irrespective Of Membership In American Zinc Institute. The American Zinc Institute Office Reports That Membership Represents About 99 % Of The Industry. Beginning In January 1929, Data Include Domestic Slab Only. This Includes (1)--All Primary Zinc Produced From Domestic Ore (2)--All Secondary Zinc Produced By The Ordinary Process Of Distillation In Small Clay Retorts. As The American Zinc Institute Could Not Find The Old Instructions To Companies, They Could Give No Definite Explanation As To Why New Figures Excluding Foreign Are Larger Than These Including Foreign. Source: American Zinc Institute, Data Furnished Direct From Files\n\nThis NBER data series m05058a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05058a"
+}

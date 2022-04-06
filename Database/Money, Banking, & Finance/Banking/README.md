@@ -1,12 +1,12 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Delinquencies and Delinquency Rates  |                 1 |
-| Senior Loan Officer Survey           |                 2 |
+| 8th District Banking Performance     |                 9 |
+| Net Charge-Offs and Charge-Off Rates |               101 |
+| Condition of Banks                   |                10 |
+| Failures and Assistance Transactions |                24 |
+| Consumer Credit                      |                91 |
+| Delinquencies and Delinquency Rates  |               101 |
 | Mortgage Debt Outstanding            |                 2 |
-| Net Charge-Offs and Charge-Off Rates |                 1 |
-| Consumer Credit                      |                 2 |
-| Securities & Investments             |                 1 |
-| 8th District Banking Performance     |                 0 |
-| Commercial Banking                   |                 4 |
-| Failures and Assistance Transactions |                 1 |
-| Condition of Banks                   |                 9 |
+| Senior Loan Officer Survey           |                35 |
+| Securities & Investments             |               145 |
+| Commercial Banking                   |                 5 |

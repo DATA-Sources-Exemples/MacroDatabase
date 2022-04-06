@@ -1,0 +1,18 @@
+{
+  "id": "M0815CUSM592NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factory Employment, Iron and Steel and Their Products for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Production Workers",
+  "units_short": "Thous. Of Production Workers",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:19-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted Data, 1919-1942 (2)--Original Data, 1939-1949 (3)--Original Data, 1947-1951 (4)--Original Data, 1951-1956. NBER Derived Data From Source By Adding Production Worker Employment In The Following Industries: Blast Furnaces; Steel Works And Rolling Mills; Iron And Steel Foundries; Miscellaneous Primary Metal Industries; Fabricated Metal Products (Except Ordinance Machinery Etc.) Minus Lighting Fixtures. See Files For Details. Certain Nonferrous Metals And Products Cannot Be Eliminated From The Industrial Groups Covered In This Series. Through 1950 The Data Include \"Secondary Smelting And Refining Of Nonferrous Metals\", Excluded From 1951 On. This Industry Accounts For Approximately 12% Of Employment In \"Miscellaneous Primary Metal Industries\" In 1947 (Then Called\"Other Primary...\"), And If Added To That Group In 1953 Would Account For About 8%. The \"Lighting Fixtures\" Group Is Included Through 1951, And Has Been Excluded In The Second Segment Of This Series Beginning In 1951. None Of The Other Series Repesenting Nonferrous Metals Can Be Eliminated From The Group \"Fabricated Metal Products...\" Significantly Lower Figures For October And November 1950 Reflect Work Stoppage. Source: Bureau Of Labor Statistics, Summary Tables, \"Employment, Hours, And Earnings\" (NBER Library, Binder Vol. 5).\n\nThis NBER data series m08015c appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08015c"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M01084USM576NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Refined Sugar Shipments, Two Ports for United States",
+  "observation_start": "1921-04-01",
+  "observation_end": "1934-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Long Tons",
+  "units_short": "Thous. Of Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:06:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1921-1934 (2)--Original Data, 1925-1936. These Figures Were Compiled By The Federal Reserve Board Of Atlanta From Reports Of Refiners At Savannah And New Orleans. Data Were Originally Given In Pounds For Each City. NBER Resolved Contradictions In Some Reports By Checking The Federal Reserve Bank Of Atalanta, Monthly Review And Revisions Made In The Survey Of Current Business. Source: Survey Of Current Business, February 1928, P.23; 1932 Annual Suplement, Pp.168-169, And Successive Issues.\n\nThis NBER data series m01084 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01084"
+}

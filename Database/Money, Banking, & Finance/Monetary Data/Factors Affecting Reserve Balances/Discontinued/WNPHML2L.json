@@ -1,0 +1,18 @@
+{
+  "id": "WNPHML2L",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factors Supplying Reserve Balances: Net Portfolio Holdings of Maiden Lane II LLC (DISCONTINUED)",
+  "observation_start": "2008-12-17",
+  "observation_end": "2015-12-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-12-31 16:03:24-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "On December 12, 2008, FRBNY began extending credit to Maiden Lane II LLC, a company formed as part of a restructuring of the government's financial support to AIG, to purchase residential mortgage-backed security (RMBS) assets from AIG subsidiaries. This line reports the fair value of the RMBS held by the LLC.Because the FRBNY is the primary beneficiary of the LLC, the assets and liabilities of the LLC are consolidated onto the books of the FRBNY."
+}

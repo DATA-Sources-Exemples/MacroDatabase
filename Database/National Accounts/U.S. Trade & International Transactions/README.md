@@ -1,7 +1,8 @@
 | Folder                            |   Files / Folders |
 |-----------------------------------|-------------------|
-| Income Payments & Receipts        |                 2 |
-| Exports                           |                 2 |
-| U.S. International Finance        |                 2 |
-| International Investment Position |                 1 |
-| Trade Balance                     |                 2 |
+| U.S. International Finance        |               117 |
+| Income Payments & Receipts        |                29 |
+| Imports                           |                 1 |
+| Exports                           |                 1 |
+| Trade Balance                     |                 1 |
+| International Investment Position |                34 |

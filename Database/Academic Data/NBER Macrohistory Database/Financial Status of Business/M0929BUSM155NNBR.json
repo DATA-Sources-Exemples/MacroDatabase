@@ -1,0 +1,18 @@
+{
+  "id": "M0929BUSM155NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Business Failures, All Commercial for United States",
+  "observation_start": "1934-06-01",
+  "observation_end": "1939-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:01:24-05",
+  "popularity": 8,
+  "group_popularity": 17,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1857-1938 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1965. Certain Cases Of Corporate Reorganization As Provided In Section 77-B Of The National Bankruptcy Act Are Accounted For (See Dun'S, February 1939 And Survey Of Current Business, 1942 Supplement). Source: Dun'S Review And Dun'S Statistical Review; Also Survey Of Current Business, December 1938, Supplement Of 1940, Pp. 1, 11, 15.\n\nThis NBER data series m09029b appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09029b"
+}

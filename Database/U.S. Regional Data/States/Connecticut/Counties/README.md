@@ -1,10 +1,10 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| New London County, CT |                 1 |
-| Hartford County, CT   |                 1 |
-| Litchfield County, CT |                 1 |
-| Fairfield County, CT  |                 1 |
-| Windham County, CT    |                 1 |
-| Middlesex County, CT  |                 1 |
-| New Haven County, CT  |                 1 |
-| Tolland County, CT    |                 1 |
+| New London County, CT |               146 |
+| Litchfield County, CT |               146 |
+| Middlesex County, CT  |               146 |
+| New Haven County, CT  |               146 |
+| Hartford County, CT   |               146 |
+| Tolland County, CT    |               146 |
+| Fairfield County, CT  |               146 |
+| Windham County, CT    |               146 |

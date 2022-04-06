@@ -1,0 +1,18 @@
+{
+  "id": "IP7304",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Import Price Index (Harmonized System): Tubes, pipes and hollows, seamless iron (not cast) steel (DISCONTINUED)",
+  "observation_start": "2007-12-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2007=100",
+  "units_short": "Index Dec 2007=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-01-14 09:27:35-06",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M05039USM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Inedible Tallow Stocks at Factories and Warehouses for United States",
+  "observation_start": "1946-01-01",
+  "observation_end": "1954-12-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:51:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Beginning With July 1949, About 1000 Producers And Consumers Of Small Quantities Of Fats And Oils Filed No More Monthly Reports. By 1954 The Number Of Such Firms Filing Only Annual Reports Had Grown To About 1500. Monthly Figures For Those Plants Are Estimated On The Basis Of The Performances In The Preceding Years, And Significant Discrepancies Between Estimated And Reported Annual Totals Are Adjusted In The Annual Issues Of \"Animal And Vegetable Fats And Oils.\" This Series Was Discontinued After 1954 As Beginning In 1955 Figures For Inedible Tallow Were Combined With Figures For Grease, Other Than Wool (See Source, M 17-1-15, January 1955.) Source: U.S Bureau Of The Census, Facts For Industry, Series M-17, \"Animal And Vegetable Fats And Oils, \" Monthly Data Are From Issues 1943-1947 (Published November 8,1948) Through 1954 (Published August 1955)\n\nThis NBER data series m05039 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05039"
+}

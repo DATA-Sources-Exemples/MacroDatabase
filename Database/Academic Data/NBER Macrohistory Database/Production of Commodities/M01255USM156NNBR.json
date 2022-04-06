@@ -1,0 +1,18 @@
+{
+  "id": "M01255USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Percent Serviceable of Total Freight Cars on Line, Class I Railroads for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For 1920-1936 Exclude Class I Switching And Terminal Companies; 1937-1942 Include Switching And Terminal Companies. Data For 1920-1934: Are Based On Daily Average Data; 1935-1942 Are Based On End-Of-Month Data. Source: Data Are Computed From Figures Found In Interstate Commerce Commission, Freight And Passenger Service Operating Statistics Of Class I Steam Railways In The U.S. For 1920-1934; Motive Power And Car Equipment Of Class I Steam Railways In The U.S For 1935-1942.\n\nThis NBER data series m01255 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01255"
+}

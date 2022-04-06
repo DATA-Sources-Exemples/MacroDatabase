@@ -1,0 +1,18 @@
+{
+  "id": "CPHPTT01TRQ659N",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: Harmonized Prices: Total All Items for Turkey (DISCONTINUED)",
+  "observation_start": "1997-01-01",
+  "observation_end": "2015-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Growth Rate Same Period Previous Year",
+  "units_short": "Growth Rate Same Period Previous Yr.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-04-14 10:23:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "OECD descriptor ID: CPHPTT01\nOECD unit ID: GY\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

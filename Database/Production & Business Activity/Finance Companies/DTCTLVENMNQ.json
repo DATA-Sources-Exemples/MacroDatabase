@@ -1,0 +1,18 @@
+{
+  "id": "DTCTLVENMNQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted",
+  "observation_start": "2008-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Months",
+  "units_short": "Months",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 14:48:08-05",
+  "popularity": 5,
+  "group_popularity": 16,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DDDI10PTA156NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Non-Life Insurance Premium Volume to GDP for Portugal",
+  "observation_start": "1991-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:32:24-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Ratio of non-Life insurance premium volume to GDP. Premium volume is the insurer's direct premiums earned (if Property/Casualty) or received (if Life/Health) during the previous calendar year.\n\nPremium data is taken from various issues of Sigma reports (Swiss Re). Data on GDP in US dollars is from the electronic version of the World Development Indicators. (Swiss Re, Sigma Reports)\n\nSource Code: GFDD.DI.10"
+}

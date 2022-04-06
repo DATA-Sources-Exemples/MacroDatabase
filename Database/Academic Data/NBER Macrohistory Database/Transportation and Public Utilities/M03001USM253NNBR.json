@@ -1,0 +1,18 @@
+{
+  "id": "M03001USM253NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue and Non-Revenue Net Ton-Miles of Freight Hauled for United States",
+  "observation_start": "1907-04-01",
+  "observation_end": "1943-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Ton-Miles",
+  "units_short": "Bil. Of Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data In This Series Is Identical To Data In Series \"Railroad Freight Ton-Miles, Revenue\" For The Years 1907-1914 And 1916-1924. Data May Be Checked With The Following Interstate Commerce Commission Original Sources -- Data For 1918-1922: Statistics Of Railways, 1922; Data For 1920-1934: \"Freight And Passenger Service Operating Statistics Of Class I Steam Railways In The United States,\" A Monthly Publication; Data For 1935-1942: \"Freight Train Performance Of Class I Steam Railways In The United States,\" A Monthly Publication. However, Some Data Have Been Revised By The Scb And Therefore Will Not Always Agree With The Original Source. Source: Data For 1907-1914: American Railway Association, Proceedings, May 1914, Pp. 525Ff.; November 1914, P. 745; Data For 1916-1943: U.S. Department Of Commerce, Survey Of Current Business, December 1923, P. 52; Annual Supplements Of 1932, 1936, 1938, 1940; Following Monthly Issues\n\nThis NBER data series m03001 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03001"
+}

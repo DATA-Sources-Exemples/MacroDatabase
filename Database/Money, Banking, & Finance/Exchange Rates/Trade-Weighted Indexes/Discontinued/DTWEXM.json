@@ -1,0 +1,18 @@
+{
+  "id": "DTWEXM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)",
+  "observation_start": "1973-01-02",
+  "observation_end": "2019-12-31",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Index Mar 1973=100",
+  "units_short": "Index Mar 1973=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-01-06 15:49:01-06",
+  "popularity": 51,
+  "group_popularity": 55,
+  "notes": "A weighted average of the foreign exchange value of the U.S. dollar against a subset of the broad index currencies that circulate widely outside the country of issue.\r\nMajor currencies index includes the Euro Area, Canada, Japan, United Kingdom, Switzerland, Australia, and Sweden. For more information about trade-weighted indexes visit the Board of Governors (http://www.federalreserve.gov/pubs/bulletin/2005/winter05_index.pdf)."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MEDAGIRI44A052NCEN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Median Adjusted Gross Income for Rhode Island",
+  "observation_start": "1989-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-16 11:26:34-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The U.S. Census Bureau provides annual estimates of income and poverty statistics for all school districts, counties, and states through the Small Area Income and Poverty Estimates (https://www.census.gov/programs-surveys/saipe/about.html) (SAIPE) program. The bureau's main objective with this program is to provide estimates of income and poverty for the administration of federal programs and the allocation of federal funds to local jurisdictions. In addition to these federal programs, state and local programs use the income and poverty estimates for distributing funds and managing programs.\n\nMedian adjusted gross income from aggregated state IRS data is one of the data sources used in producing SAIPE program estimates, defined as the middle value of the aggregate adjusted gross income. These data may not match data from other sources due to differences in definitions, since the SAIPE program only uses tax returns for the relevant income year (IRS/SOI include all tax returns filed in a calendar year in their tabulations, regardless of the reference income year).\n\nSee more details about SAIPE Model Input Data (https://www.census.gov/data/datasets/time-series/demo/saipe/model-tables.html)."
+}

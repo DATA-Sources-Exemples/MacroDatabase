@@ -1,0 +1,18 @@
+{
+  "id": "M1328CDE00BERM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bond Yields for Berlin, Germany",
+  "observation_start": "1926-01-01",
+  "observation_end": "1935-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:44-05",
+  "popularity": 5,
+  "group_popularity": 6,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1870-1813 (2)--Original Data, 1924-1931 (3)--Original Data, 1926-1935. Data For 1926-1927 Were Computed By NBER By Using Gold Mortgage Bond Yields For The Two Years Multiplied By .900, The Average Monthly Ratio Of January-June 1928 Of This Variable And The Previous (Covering 1925-1930) -- Six Percent Bond Yields To Gold Mortgage Bond Yields. Data For 1928-1935 Were Originally Given As\"Price Of Six Percent Bonds In Percent Of Par\" And Have Been Reduced To Bond Yields By Dividing \"Price\" Into Six Percent. Bonds Include The Weighted Average Market Value Of (1)--Mortgage Bonds (2)--Municipal Loans (3)-- Other Public Loans, Government And State (4)--Industrial Bonds. Weights Are Based On Outstanding Amount And Are Seventeen, Five, Seven, And Two Respectively. Data For 1928-September 1931 Include 59 Bonds, 20 Mortgage, 15 Municipal, 14 Other Public, And 10 Industrial. Data For July 1931-February 1932 Reflect A Banking Crisis, Where Interest Rates Above 6% Were Reduced To 6%. No Data Indicates A Banking Holiday. Data For April 1932-February 1935 Include 169 Bonds; 50 Mortgage, 55 Municipal, 34 Other Public, And 30 Industrial. Data For November 1933-1935 Exclude Loans Floated With A Dollar Clause; Data For July 1934-1935 Exclude Two Government Loans, Formerly Included. The Figure For June 1934 On The New Basis Is 6.75. This Variable Ends In March 1935, As The Law Of April 1935 Reduced Interest To 4.5%, With The Exception Of Industrials. Source: Data For 1926-1927: Computed By NBER. Data For 1928-1932: Konjunkturstatistisches Handbuch, 1933, P. 134. Data For 1933-1935: Wirtschaft Und Statistik.\n\nThis NBER data series m13028c appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13028c"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "SPDYNLE00INLIC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Life Expectancy at Birth, Total for Low Income Countries",
+  "observation_start": "1960-01-01",
+  "observation_end": "2019-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Years",
+  "units_short": "Number of Years",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-16 16:23:19-06",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups\n\nSource Indicator: SP.DYN.LE00.IN"
+}

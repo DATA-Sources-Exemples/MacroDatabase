@@ -1,0 +1,17 @@
+{
+  "id": "SMU17140600000000001A",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Total Nonfarm in Bloomington-Normal, IL (MSA) (DISCONTINUED)",
+  "observation_start": "1972-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-24 19:53:25-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

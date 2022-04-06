@@ -1,0 +1,18 @@
+{
+  "id": "IPUTN72L020000000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Compensation for Accommodation and Food Services: Accommodation and Food Services (NAICS 72) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-01 10:18:35-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Labor compensation, defined as payroll plus supplemental payments, is a measure of the cost to the employer of securing the services of labor. Payroll includes salaries, wages, commissions, dismissal pay, bonuses, vacation and sick leave pay, and compensation in kind. Supplemental payments include both legally required expenditures and payments for voluntary programs. The legally required portion consists primarily of federal old age and survivors\u2019 insurance, unemployment compensation, and workers\u2019 compensation. Payments for voluntary programs include all programs not specifically required by legislation, such as the employer portion of private health insurance and pension plans."
+}

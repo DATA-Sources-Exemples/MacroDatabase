@@ -1,0 +1,18 @@
+{
+  "id": "M01042USM547NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cattle Slaughtered Under Federal Inspection for United States",
+  "observation_start": "1907-01-01",
+  "observation_end": "1956-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Cattle",
+  "units_short": "Thous. of Cattle",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:05:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: U.S. Department Of Agriculture, Bureau Of Agricultural Economics; Livestock, Meats, And Wool Market Statistics, And Related Data, 1940, P. 31; Livestock Market News Statistics And Related Data, 1949; The Livestock And Meat Situation, 1951.\n\nThis NBER data series m01042 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01042"
+}

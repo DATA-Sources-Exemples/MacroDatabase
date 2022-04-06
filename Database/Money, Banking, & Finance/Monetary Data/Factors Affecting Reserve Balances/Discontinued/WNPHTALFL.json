@@ -1,0 +1,18 @@
+{
+  "id": "WNPHTALFL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Factors Supplying Reserve Balances: Net Portfolio Holdings of TALF LLC (DISCONTINUED)",
+  "observation_start": "2009-11-18",
+  "observation_end": "2014-11-05",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-11-06 15:52:27-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The loans provided through the TALF (refer to the note accompanying loans extended under the Term Asset-Backed Securities Loan Facility above) to eligible borrowers are non-recourse, meaning that the obligation of the borrower can be discharged by surrendering the collateral to the FRBNY. TALF LLC is a limited liability company formed to purchase and manage any asset-backed securities received by the FRBNY in connection with the decision of a borrower not to repay a TALF loan. This line reports the fair value of the asset-backed securities and other investments held by the LLC. Because the FRBNY is the primary beneficiary of the LLC, the assets and liabilities of the LLC are consolidated onto the books of the FRBNY."
+}

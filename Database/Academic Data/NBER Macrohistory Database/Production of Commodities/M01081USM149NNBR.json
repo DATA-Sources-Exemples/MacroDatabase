@@ -1,0 +1,18 @@
+{
+  "id": "M01081USM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Refined Cottonseed Oil Production for United States",
+  "observation_start": "1916-10-01",
+  "observation_end": "1955-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:05:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Through The 1939-1940 Season, Cumulative Figures Are Shown; Beginning With The 1941 Season, Figures Are Published Monthly. Source: 1916-1922 Data Are From Cotton Production And Distribution; 1923-1930 Data Are From Survey Of Current Business Annual Supplement, 1932 Pp.136-137; 1931 Data Are From Scb, February 1935, P.20; 1932-1941 Data Are From Successive Supplements; Following Years Are From The United States Bureau Of The Census, \"Cotton Production And Distribution, \" Bulletin Nos. 178-190; Facts For Industry, Series M17-1; Annual Issues Of Animal And Vegetable Fats And Oils; Monthly Issues Of Fats And Oils.\n\nThis NBER data series m01081 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01081"
+}

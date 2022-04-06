@@ -1,0 +1,18 @@
+{
+  "id": "A0172AFRA567NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Horse Power of Steam Engines for France",
+  "observation_start": "1839-01-01",
+  "observation_end": "1913-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Horsepower",
+  "units_short": "Thous. Of Horsepower",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:03:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1839-1913 (2)--Original Data, 1919-1931. Data For Calendar Year. Source: Annuaire Statistique De La Fance, 1922.\n\nThis NBER data series a01172a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01172a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DDOM01GRA644NWDB",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Listed Companies for Greece",
+  "observation_start": "1980-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Listed Companies per Million People",
+  "units_short": "Number of Listed Companies per Mil. People",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 16:25:55-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Number of domestically incorporated companies listed on the country's stock exchanges at the end of the year (does not include investment companies, mutual funds, or other collective investment vehicles).\n\nSource Code: GFDD.OM.01"
+}

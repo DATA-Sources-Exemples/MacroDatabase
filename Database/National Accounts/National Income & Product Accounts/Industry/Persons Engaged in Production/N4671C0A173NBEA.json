@@ -1,0 +1,18 @@
+{
+  "id": "N4671C0A173NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Persons engaged in production: Domestic private industries: Administrative and support services",
+  "observation_start": "1998-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:41:47-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "BEA Account Code: N4671C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

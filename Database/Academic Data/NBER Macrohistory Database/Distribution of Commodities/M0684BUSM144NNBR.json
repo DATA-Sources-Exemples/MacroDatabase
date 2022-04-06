@@ -1,0 +1,18 @@
+{
+  "id": "M0684BUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' New Orders of Durable Goods, Value for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1947-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:46:31-05",
+  "popularity": 1,
+  "group_popularity": 5,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1929-1939 (2)--Original Data, 1939-1947 (3)--Original Data, 1947-1969 The Following Industries Are Included In Durable Goods: Automobile Equipment (Since 1935) Building Equipment, Electrical Equipment, Iron And Steel, Machinery, Metals-Nonferrous, Office Equipment (Since 1935), Railroad Equipment, Housefurnishings (Since 1934), And Metal Products. Source: Office Of Business Economics, Mimeographed Release: \"Manufacturers' New And Unfilled Orders, \" July 1952.\n\nThis NBER data series m06084b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06084b"
+}

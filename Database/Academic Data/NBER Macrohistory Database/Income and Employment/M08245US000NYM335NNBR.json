@@ -1,0 +1,18 @@
+{
+  "id": "M08245US000NYM335NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Indexes of Average Weekly Earnings, Water, Light, and Power for New York",
+  "observation_start": "1914-06-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1925-1927=100",
+  "units_short": "Index 1925-1927=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For June 1914-1920 Were Computed By NBER By Dividing Indexes Of Factory Payrolls By Indexes Of Factory Employment In Water, Light, And Power. Data For 1940-1941 Were Computed By NBER By Using $34.22 As The Average Weekly Earnings In The Base 1925-1927 For The Included Industries. See P. 174 Of Bulletin No. 206 For The Source Of The Dollar Base. This Series Covers Employees In Both Office And Shop. Source: N.Y. State Department Of Labor, For June 1914-1920 Data: Computed By NBER From Data Furnished By The Bureau Of Research And Statistics; For 1921-1930 Data: Special Bulletin No. 171, 1931, Course Of Factory Employment In New York State From 1921 To 1930; For 1931-1939: Special Bulletin No. 206, June 1940, Trend Of Employment In New York State Factories From 1914 To 1939; For 1940-1941: Computed By NBER From Dollar Figures In The Industrial Bulletin.\n\nThis NBER data series m08245 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08245"
+}

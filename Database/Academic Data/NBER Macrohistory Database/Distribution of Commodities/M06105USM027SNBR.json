@@ -1,0 +1,18 @@
+{
+  "id": "M06105USM027SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturers' Sales of Producers' Durable Equipment Plus Construction Put in Place, Value for United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1968-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 13:48:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Business Construction Put In Place Covers Only Commercial And Industrial Buildings. Source: U.S. Bureau Of The Census, Data For 1948-1952 Are A Compilation Of (Manufacturers' Sales Of Producers' Durable Equipment, Value) And \"Value Of New Construction Put In Place, 1946-1953 Revised\", Census Supplement C30-61; Data For 1953-June 1968 Are From Business Cycle Developments, September 1968 (No. 505); Data For July-August 1968 Are A Compilation Of Series 06103 And \"Business Construction Put In Place\", As Revised In \"Construction Reports\", C30-68-6 And Later Issues\n\nThis NBER data series m06105 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06105"
+}

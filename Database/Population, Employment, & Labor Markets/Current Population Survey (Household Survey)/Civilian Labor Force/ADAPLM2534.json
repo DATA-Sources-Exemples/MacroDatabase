@@ -1,0 +1,18 @@
+{
+  "id": "ADAPLM2534",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Civilian Labor Force - Associate Degree - Academic Program, 25 to 34 years, Men",
+  "observation_start": "2000-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 09:36:27-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The civilian labor force is the sum of employed and unemployed persons.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
+}

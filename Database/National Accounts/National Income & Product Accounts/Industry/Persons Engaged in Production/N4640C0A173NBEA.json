@@ -1,0 +1,18 @@
+{
+  "id": "N4640C0A173NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Persons engaged in production: Domestic private industries: Retail trade: Food and beverage stores",
+  "observation_start": "1998-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:36:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: N4640C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PE5T17NC37119A647NCEN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Estimate of Related Children Age 5-17 in Families in Poverty for Mecklenburg County, NC",
+  "observation_start": "1989-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-16 11:11:12-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For further information about this series go to https://www.census.gov/programs-surveys/saipe/about.html."
+}

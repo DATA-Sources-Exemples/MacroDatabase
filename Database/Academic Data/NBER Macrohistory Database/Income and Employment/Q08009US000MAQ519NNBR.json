@@ -1,0 +1,18 @@
+{
+  "id": "Q08009US000MAQ519NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employment Trade Union Members, Building Trades for Massachusetts",
+  "observation_start": "1908-01-01",
+  "observation_end": "1923-10-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "Percentage of Memberships",
+  "units_short": "Percentage Of Memberships",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:17:39-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "100%- Unemployed % The Quarters Are Ending On March 31St, June 30Th, September 30Th, And December 31St. Source: Computed By NBER From Unemployment Data In Massachusetts Department Of Labor And Industries, Annual Report On The Statistics Of Labor, 1923, Part Iii, Pp.20-21 (The 1923 Data Are In A Letter).\n\nThis NBER data series q08009 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08009"
+}

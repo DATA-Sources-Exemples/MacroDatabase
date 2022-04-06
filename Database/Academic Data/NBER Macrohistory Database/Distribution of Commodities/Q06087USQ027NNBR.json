@@ -1,0 +1,18 @@
+{
+  "id": "Q06087USQ027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Personal Consumption Expenditures, Nondurable Goods for United States",
+  "observation_start": "1939-01-01",
+  "observation_end": "1967-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:49:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Raw Quarterly Figures Were Multiplied By Four To Derive Totals At Annual Rates. Source: U.S. Department Of Commerce, Data For 1939-1945: \"National Income\", 1954 Edition, A Supplement To The Survey Of Current Business; Data For 1946-1963: \"The National Income And Product Accounts Of The United States, 1939-1965\", Supplement To Scb, August 1966; Data For 1964-1967: Survey Of Current Business (July 1968 And Subsequent July Issues For Annual Revisions).\n\nThis NBER data series q06087 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: q06087"
+}

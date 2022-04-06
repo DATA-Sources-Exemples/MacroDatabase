@@ -1,0 +1,18 @@
+{
+  "id": "IPUAN11311L200000000",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Hours Worked for Agriculture, Forestry, Fishing and Hunting: Timber Tract Operations (NAICS 11311) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Hours",
+  "units_short": "Mil. of Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 23:46:17-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry."
+}

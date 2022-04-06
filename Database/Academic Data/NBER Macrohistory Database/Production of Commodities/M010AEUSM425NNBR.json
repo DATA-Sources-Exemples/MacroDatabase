@@ -1,0 +1,18 @@
+{
+  "id": "M010AEUSM425NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Production of Women's Shoes for United States",
+  "observation_start": "1921-11-01",
+  "observation_end": "1944-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pairs",
+  "units_short": "Mil. Of Pairs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:46:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Computed By NBER By Summing Women'S Shoe Production For 11/1921-1944; Production Of All Fabric Shoes (Satin, Canvas, Etc.) For 11/1921-1943; And Prodction Of Part-Fabric And Part Leather Shoes, 1931-1943. Original Data From The U.S. Department Of Commerce, Survey Of Current Business.\n\nThis NBER data series m01100aa appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01100aa"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "EA19CPALTT01IXNBQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index: All items: Total: Total for the Euro Area",
+  "observation_start": "1990-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index source base",
+  "units_short": "Index source base",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-15 10:36:50-06",
+  "popularity": 2,
+  "group_popularity": 41,
+  "notes": "OECD descriptor ID: CPALTT01 OECD unit ID: IXNB OECD country ID: EA19All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

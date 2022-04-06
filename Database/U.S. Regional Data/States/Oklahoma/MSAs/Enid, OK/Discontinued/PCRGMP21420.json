@@ -1,0 +1,18 @@
+{
+  "id": "PCRGMP21420",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Per Capita Real Gross Domestic Product for Enid, OK (MSA) (DISCONTINUED)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The All industry total includes all Private industries and Government."
+}

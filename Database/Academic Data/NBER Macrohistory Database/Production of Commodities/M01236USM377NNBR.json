@@ -1,0 +1,18 @@
+{
+  "id": "M01236USM377NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Production of Rayon Yarn for United States",
+  "observation_start": "1930-01-01",
+  "observation_end": "1941-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Million of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 11:01:34-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Production Was Computed By NBER By Summing Shipmments Plus The Algebraic Change In Stock Plus Exports (Of Rayon Yarn) Minus Imports In Millions Of Pounds. Source: Textile Economics Bureau, Rayon Organon; U.S. Bureau Of Foriegn And Domestic Commerce, Monthly Summary Of Foreign Commerce.\n\nThis NBER data series m01236 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01236"
+}

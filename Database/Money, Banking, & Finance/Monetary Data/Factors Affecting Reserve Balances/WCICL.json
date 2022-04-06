@@ -1,0 +1,18 @@
+{
+  "id": "WCICL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities and Capital: Other Factors Draining Reserve Balances: Currency in Circulation: Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:33:15-05",
+  "popularity": 16,
+  "group_popularity": 16,
+  "notes": "Currency in circulation includes paper currency and coin held both by the public and in the vaults of depository institutions. The total includes Treasury estimates of coins outstanding and Treasury paper currency outstanding. This definition of currency in circulation differs from the currency component of the money stock, a measure of currency used in some other Federal Reserve reports (for example, the H.6 release), which excludes currency held in vaults of depository institutions."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q0502AUSQ144SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturing Inventory Investment, Current Prices for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1938-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 10:50:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1921-1938 (2)--Seasonally Adjusted, 1926-1949. Data Reflect The Net Change In End Of Quarter Figures In Current Prices. Source: Harold Barger, \"Outlay And Income In The United States,1921-1938, \" Studies In Income And Wealth, Vol. 4, 1942, Table 32 (For 1921-1928 Data) And Table 33 (For 1929-1938)\n\nThis NBER data series q05102a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: q05102a"
+}

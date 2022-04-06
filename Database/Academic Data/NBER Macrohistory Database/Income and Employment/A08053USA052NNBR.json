@@ -1,0 +1,18 @@
+{
+  "id": "A08053USA052NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Money Earning in Metal Trades for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1928-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:31:01-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Source: P.H. Douglas: For 1890-1926, \"Real Wages In The United States, \" P. 96; For 1927-1928, \"The Movement Of Money And Real Earnings, \" P. 32 (University Of Chicago, Studies In Business Administration, No. 3).\n\nThis NBER data series a08053 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08053"
+}

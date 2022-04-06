@@ -1,0 +1,18 @@
+{
+  "id": "CEU3231600001",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "All Employees: Nondurable Goods: Leather and Allied Products (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2016-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-01-06 08:43:28-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU3232930001"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M07040USM149NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Tea Imports for United States",
+  "observation_start": "1867-01-01",
+  "observation_end": "1941-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Pounds",
+  "units_short": "Mil. Of Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:04:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The September, 1922 Figure Is For September 1-21, And The October, 1922 Figure Is For September 22-October 31. Divided Because Of A New Tariff Law Effective September 22, 1922. Beginning January, 1934, Data Are \"Imports For Consumption\" Instead Of \"General Imports\". However For 1933,\"General Imports\" And \"Imports For Consumption\" Are Identical In The Case Of Tea. The Data For December 1939 Is Revised. See Survey Of Current Business, April, 1941, P. 18. Source: Monthly Summary Of Foreign Commerce. Burns' Method Until 1921.\n\nThis NBER data series m07040 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07040"
+}

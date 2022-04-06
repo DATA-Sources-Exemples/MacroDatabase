@@ -1,0 +1,18 @@
+{
+  "id": "DTP30F49",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2049",
+  "observation_start": "2019-05-07",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 06:02:07-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Yield to maturity on accrued principal.\r\nTreasury Inflation-Protected Securities, or TIPS, are securities whose principal is tied to the Consumer Price Index (CPI). The principal increases with inflation and decreases with deflation. When the security matures, the U.S. Treasury pays the original or adjusted principal, whichever is greater.\r\nCopyright, 2016, Haver Analytics. Reprinted with permission."
+}

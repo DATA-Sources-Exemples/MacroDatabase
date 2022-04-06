@@ -1,2 +1,12 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id               | title                                                                                                                              | observation_start   | observation_end   |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CCDIOA36540Q156N | CredAbility Consumer Distress Index for Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
+| INTINCOMEOMA     | Net Interest Income for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| LLSOMA           | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
+| LLSROMA          | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| NIMOMA           | Net Interest Margin for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
+| NIOMA            | Net Income for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
+| PCRGMP36540      | Total Per Capita Real Gross Domestic Product for Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
+| ROAOMA           | Return on Average Assets for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
+| TOTASSETOMA      | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
+| TOTLOANOMA       | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |

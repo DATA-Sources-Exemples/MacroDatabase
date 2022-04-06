@@ -1,0 +1,18 @@
+{
+  "id": "Q0901AUSQ259NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Profits (After Taxes) Per Dollar of Sales, All Manufacturing Corporations for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1951-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Cents",
+  "units_short": "Cents",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:02:17-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1947-1951 (2)--Original Data, 1951-1968. \"Profit Rates Of Manufacturing Corporation 1947-1962,\" Ftc (1963) May Also Be Used For Summary Tabulation. The New Sample Starts In The Third Quarter Of 1951; The First And Second Quarters Are Adjusted To New Sample On The Basis Of Estimates Of The Old Sample. Source: Federal Trade, And Securities And Exchange Commissions: Quarterly Financial Report For Manufacturing Corporations.\n\nThis NBER data series q09101a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09101a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M09076USM234NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Number of Business Failures with Liabilities Under One Hundred Thousand Dollars for the United States",
+  "observation_start": "1948-01-01",
+  "observation_end": "1969-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Average Number per Week",
+  "units_short": "Average Number per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:02:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Represent Averages Of Four Or Five Weeks In The Months. Weeks Ending On The First, Second, Or Third Of The Month Are Included With The Preceding Month. Source: Dun And Bradstreet, Incorporated\n\nThis NBER data series m09076 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09076"
+}

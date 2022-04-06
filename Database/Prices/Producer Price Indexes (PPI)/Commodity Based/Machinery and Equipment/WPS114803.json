@@ -1,7 +1,7 @@
 {
   "id": "WPS114803",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Commercial Refrigeration Equipment",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 08:05:54-05",
-  "popularity": 3,
-  "group_popularity": 4
+  "popularity": 5,
+  "group_popularity": 6
 }

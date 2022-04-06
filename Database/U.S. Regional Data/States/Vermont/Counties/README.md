@@ -1,16 +1,16 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Franklin County, VT   |                 1 |
-| Lamoille County, VT   |                 1 |
-| Addison County, VT    |                 1 |
-| Bennington County, VT |                 1 |
-| Windsor County, VT    |                 1 |
-| Essex County, VT      |                 1 |
-| Rutland County, VT    |                 1 |
-| Orange County, VT     |                 1 |
-| Windham County, VT    |                 1 |
-| Caledonia County, VT  |                 1 |
-| Washington County, VT |                 1 |
-| Grand Isle County, VT |                 1 |
-| Chittenden County, VT |                 1 |
-| Orleans County, VT    |                 1 |
+| Addison County, VT    |                90 |
+| Grand Isle County, VT |                90 |
+| Windsor County, VT    |               146 |
+| Chittenden County, VT |               147 |
+| Orleans County, VT    |                90 |
+| Franklin County, VT   |               146 |
+| Rutland County, VT    |               146 |
+| Lamoille County, VT   |                90 |
+| Orange County, VT     |                90 |
+| Windham County, VT    |                90 |
+| Essex County, VT      |                89 |
+| Caledonia County, VT  |                90 |
+| Bennington County, VT |                90 |
+| Washington County, VT |               146 |

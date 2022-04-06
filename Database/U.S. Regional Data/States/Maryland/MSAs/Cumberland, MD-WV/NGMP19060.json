@@ -1,0 +1,18 @@
+{
+  "id": "NGMP19060",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Gross Domestic Product for Cumberland, MD-WV (MSA)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:50:03-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The All industry total includes all Private industries and Government.\n\nGross domestic product (GDP) by metropolitan area is the measure of the market value of all final goods and services produced within a metropolitan area in a particular period of time. In concept, an industry's GDP by metropolitan area, referred to as its \"value added\", is equivalent to its gross output (sales or receipts and other operating income, commodity taxes, and inventory change) minus its intermediate inputs (consumption of goods and services purchased from other U.S. industries or imported). GDP by metropolitan area is the metropolitan area counterpart of the nation's, BEA's featured measure of U.S. production.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

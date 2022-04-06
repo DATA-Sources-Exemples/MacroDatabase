@@ -1,0 +1,18 @@
+{
+  "id": "M08326USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Payrolls of State and Local Governments for United States",
+  "observation_start": "1951-04-01",
+  "observation_end": "1963-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:19:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Bureau Of Labor Statistics Began Compiling This Data In January 1955. Comparability With The Estimates Made By The Census Bureau Has Been Maintained And The Series Is Continuous (See Explanatory Note In The December, 1961 Summary Table). Beginning In January 1959 Data Include Alaska And Hawaii. This Increased Payrolls By 0.6% Or $12 Million In The Survey Month Of October. Source: 1951-1954: Bureau Of The Census, Public Employment, Quarterly Publi- Cation, April 1952 Through January 1955; 1955-1963: Bureau Of Labor Statistics, State And Local Government Employment And Payrolls, December 1961, July 1962, Monthly Tables Thereafter.\n\nThis NBER data series m08326 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08326"
+}

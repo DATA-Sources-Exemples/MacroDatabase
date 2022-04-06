@@ -1,0 +1,18 @@
+{
+  "id": "CUUSA421SAE",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Price Index for All Urban Consumers: Education and Communication in Los Angeles-Riverside-Orange County, CA (CMSA) (DISCONTINUED)",
+  "observation_start": "1998-01-01",
+  "observation_end": "2017-07-01",
+  "frequency": "Semiannual",
+  "frequency_short": "SA",
+  "units": "Index Dec 1997=100",
+  "units_short": "Index Dec 1997=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-12 09:12:15-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "This series was discontinued as a result of the introduction of a new geographic area sample for the Consumer Price Index. Information on the geographic revision is available at https://www.bls.gov/cpi/additional-resources/geographic-revision-2018.htm."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M1504CUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal Budget Receipts, Total for United States",
+  "observation_start": "1939-07-01",
+  "observation_end": "1962-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:47:36-05",
+  "popularity": 2,
+  "group_popularity": 4,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1879-1933 (2)--Original Data, 1930-1940 (3)--Original Data, 1939-1962. The Raw Figure For July 1948 Excludes Inter-Agency Transactions -- Repayment Of Capital Stock To The Treasury By The Reconstruction Finance Commission Amounting To $225 Million, And The Transfer Of Earnings To The Treasury By The Federal Farm Mortgage Corporation Amounting To $40 Million. The Corresponding Expenditure Figure Is $3698.4 Million. In February 1954 The Daily Treasury Statement Discontinued Reporting Receipts. The New Monthly Report Issued By The Treasury Department Was Based On Reports From Collecting And Distributing Agencies. It Is Considered More Accurate By The Treasury Because It Allows \"The Necessary Time For Uniform Reporting Of Budget Results\" (Daily Statement, February 17, 1954). The Figure For January 1954 On The Old Basis (Daily Statement) Is 40,535.2. Beginning In July 1960, \"Net\" Budget Receipts (And \"Net\" Budget Expenditures) Exclude Certain Interfund Transactions Which Are Included In Both Budget Receipts And Budget Expenditures. The Transactions Deducted Are Mainly Interest Payments To The Treasury By Government Corporations And Agencies. This Does Not Affect Budget Surplus Or Deficit. The Worksheets For This Variable Show The Old \"Net\" Figures, After June 1960 Called \"Subtotal Receipts.\" It Is Believed That The Data Can Be Treated As A Continuous Series Since Deductions Are Very Small. From January 1962 On, Refunds Include Amounts Applicable To Trust Accounts Formerly Included In \"Transfers To Trust Accounts\", One Of The Items Deducted From Receipts To Derive \"Net\" Receipts. Refunds Applicable To Trust Accounts Have Here Been Eliminated And The Amounts Of Refunds Added Back Into Net Budget Receipts Are Comparable Throughout. Source: U.S. Treasury Department, Data For 1939-1953: Daily Treasury Statement; Data For 1954-1962: Monthly Statement Of Receipts And Expenditures Of The United States Government.\n\nThis NBER data series m15004c appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15004c"
+}

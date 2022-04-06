@@ -1,0 +1,18 @@
+{
+  "id": "M13015DEM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Official Bank Discount Rate for Germany",
+  "observation_start": "1876-01-01",
+  "observation_end": "1938-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:18:31-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "When Rates Changed During A Month NBER Weighted Each Rate By The Number Of Days It Was In Effect. On December 29, 1923 The Rate Changed From 90% To 10% For Gold Mark Paper Only. The December Figure Presented Here Is Based On The 90% Rate; January 1924 Marks The Beginning Of The 10% Gold Mark Period. Source: Data For 1876-1925: Die Reichsbank, 1876-1910 Edition, Pp. 196-197; 1901-1925 Edition, Pp. 90-91. Data For 1925-1934: Verwaltung Bericht Der Reichsbank. Data For 1935: Wirtschaft Und Statistik. Data For 1936-1938: Annual Report Of The Federal Reserve Board, 1936, P. 121; And Successive Issues.\n\nThis NBER data series m13015 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13015"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "WPCLC",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Other: Items in Process of Collection (Less Eliminations from Consolidation): Wednesday Level",
+  "observation_start": "2002-12-18",
+  "observation_end": "2022-03-30",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 15:33:37-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Items in the process of collection are checks and other items payable on demand that have been presented to Reserve Banks for collection. On the reporting date, they are in the process of being transported to the institutions on which they are drawn. These items include negotiable orders of withdrawal and matured corporate and municipal coupons. U.S. government checks, postal money orders, and food coupons, although classified as cash items, are not included because they are charged to the Treasury's account on the day they are received by the Federal Reserve."
+}

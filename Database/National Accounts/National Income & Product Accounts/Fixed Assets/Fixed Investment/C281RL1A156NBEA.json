@@ -1,0 +1,18 @@
+{
+  "id": "C281RL1A156NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real Private Fixed Investment in Equipment: Nonresidential equipment: Transportation equipment: Aircraft",
+  "observation_start": "1930-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:34:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: C281RL\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

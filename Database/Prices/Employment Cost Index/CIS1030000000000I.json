@@ -1,7 +1,7 @@
 {
   "id": "CIS1030000000000I",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Employment Cost Index: Total benefits for All Civilian workers in All industries and occupations",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:27-06",
   "popularity": 5,
-  "group_popularity": 6,
+  "group_popularity": 5,
   "notes": "See Footnote C onhttps://www.bls.gov/ect/cimapnote.htm"
 }

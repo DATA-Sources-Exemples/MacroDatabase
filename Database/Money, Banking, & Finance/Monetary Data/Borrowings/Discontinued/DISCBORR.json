@@ -1,0 +1,18 @@
+{
+  "id": "DISCBORR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Borrowings of Depository Institutions from the Federal Reserve excluding Term Auction Credit (DISCONTINUED)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-09-10 15:46:10-05",
+  "popularity": 25,
+  "group_popularity": 25,
+  "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\r\n\r\nThis series is calculated by the Federal Reserve Bank of St. Louis as Total Borrowings of Depository Institutions from the Federal Reserve  (BORROW) (https://fred.stlouisfed.org/series/BORROW) minus Term Auction Credit (TERMAUC) (https://fred.stlouisfed.org/series/TERMAUC). The Term Auction Credit (TERMAUC) (https://fred.stlouisfed.org/series/TERMAUC) was discontinued in May 2011. After May 2011, this series is identical to Total Borrowings of Depository Institutions from the Federal Reserve  (BORROW) (https://fred.stlouisfed.org/series/BORROW).\r\n\r\nThe values are monthly averages.\r\n\r\nPlease note breaks in data: Data prior to 2003-01-01 include adjustment, extended, and seasonal credit. From 2003-01-01 to 2008-04-03, the data include primary, secondary, and seasonal credit. As of 2008-04-10, data include primary, secondary, and seasonal credit, primary dealer credit facility, and other credit extensions. Data from 2008-09-01 are loans to depository institutions for primary, secondary, and seasonal credit, primary dealer and other broker-dealer credit. This category also includes the asset-backed commercial paper money market mutual fund liquidity facility, credit extended to American International Group, Inc., and other credit extensions. Data were modified to include term asset-backed securities loan facility with the release on 2009-03-26."
+}

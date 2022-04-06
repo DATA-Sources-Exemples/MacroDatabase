@@ -1,0 +1,18 @@
+{
+  "id": "M06057USM575NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Magazine Advertising, Linage for United States",
+  "observation_start": "1912-01-01",
+  "observation_end": "1958-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Lines",
+  "units_short": "Thous. Of Lines",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 13:47:41-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "1933-1934 Data Were Checked With Printers' Ink (Weekly). Beginning January 1948, The Data Include Advertising In Farm And Some Other Magazines Not Included Previously. The 1948 And Following Figures Are Not Strictly Comparable To Earlier Data. No Back Figures Are Available. Source: Survey Of Current Business, October 1933, P. 20, And Successive Issues And Bi-Annual Statistical Supplements.\n\nThis NBER data series m06057 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06057"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "GVIPT54200SQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Industrial Production: Gross Value of Products: Business Supplies",
+  "observation_start": "1972-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of 2012 US Dollars",
+  "units_short": "Bil. of 2012 US $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-17 08:22:23-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Source Code: GVIP.T54200.S"
+}

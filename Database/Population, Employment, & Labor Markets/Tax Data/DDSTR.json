@@ -1,0 +1,18 @@
+{
+  "id": "DDSTR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Individual Income Tax Filing: Standard Deductions",
+  "observation_start": "1999-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Number of Returns",
+  "units_short": "Number of Returns",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-12-19 13:31:02-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Standard deductions were indexed for inflation. Statistics for taxpayers with the additional standard deduction for age 65 or over exclude those who checked the box on tax returns indicating age 65 or over, but then itemized their deductions instead of claiming standard deductions. \n\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0823EDEM191NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Employed Members of Sickness Societies, Male and Female for Germany",
+  "observation_start": "1928-01-01",
+  "observation_end": "1934-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions",
+  "units_short": "Mil.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:16:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Reichsarbeitsblatt, Beilage No, 1932, P.6 And Following Years' Beilages, Die Beschaftigen, Nach Der Monatsstatistik Der Krankenkassen. Data Are End Of Month.\n\nThis NBER data series m08023e appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08023e"
+}

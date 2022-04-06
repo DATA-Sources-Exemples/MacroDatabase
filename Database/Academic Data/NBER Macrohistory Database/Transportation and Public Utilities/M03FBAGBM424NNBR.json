@@ -1,0 +1,18 @@
+{
+  "id": "M03FBAGBM424NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Railway Freight Traffic, Other Than Coal for Great Britain",
+  "observation_start": "1920-01-01",
+  "observation_end": "1931-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Net Ton-Miles",
+  "units_short": "Mil. Of Net Ton-Miles",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:02:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1931 (2)--Original Data, 1931-1939. Data Were Obtained By Deducting Figures For Coal, Coke, And Patent Fuel From Total Railway Freight Traffic For Standard Gauge Railways. Data Include Livestock And Free Hauled. Data For 1920 Were Derived From Weekly Figures Equated To Calender Months. Days Of Weeks Not Ending In A Calender Month Are Included In The Following Month'S Total. Due To The Adoption Of A New Simplified Method Of Computing Net Ton-Miles Data Beginning January 1922 Are Not Strictly Comparable With Prior Figures. Data For April-June 1921 And May-September 1926 Were Significantly Effected By Coal Strikes. Source: Ministry Of Transport, Railway Statistics, Number 14, January 1921 And Following Months.\n\nThis NBER data series m03005ba appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03005ba"
+}

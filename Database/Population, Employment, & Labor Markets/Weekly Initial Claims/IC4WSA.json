@@ -1,0 +1,18 @@
+{
+  "id": "IC4WSA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "4-Week Moving Average of Initial Claims",
+  "observation_start": "1967-01-28",
+  "observation_end": "2022-03-26",
+  "frequency": "Weekly, Ending Saturday",
+  "frequency_short": "W",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-31 07:48:08-05",
+  "popularity": 59,
+  "group_popularity": 59,
+  "notes": "An initial claim is a claim filed by an unemployed individual after a separation from an employer. The claim requests a determination of basic eligibility for the Unemployment Insurance program."
+}

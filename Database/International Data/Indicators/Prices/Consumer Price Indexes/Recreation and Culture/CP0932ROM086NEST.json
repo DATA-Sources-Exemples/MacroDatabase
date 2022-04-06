@@ -1,0 +1,18 @@
+{
+  "id": "CP0932ROM086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Equipment for Sport, Camping, and Open-Air Recreation for Romania",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:17:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category \"Equipment for Sport, Camping, and Open-Air Recreation (09.3.2)\" is a classification of semi-durable goods that includes gymnastic, physical education, and sport equipment such as balls, shuttlecocks, nets, rackets, bats, skis, golf clubs, foils, sabres, poles, weights, discuses, javelins, dumb-bells, chest expanders, and other body-building equipment; parachutes and other sky-diving equipment; firearms and ammunition for hunting, sport and personal protection; fishing rods and other equipment for fishing; equipment for beach and open-air games such as bowls, croquet, frisbee, volleyball and inflatable boats, rafts, and swimming pools; camping equipment such as tents and accessories, sleeping bags, back-packs, air mattresses and inflating pumps, camping stoves, and barbecues; repair of such articles; game-specific footwear (ski boots, football boots, golfing shoes, and other such footwear fitted with ice skates, rollers, spikes, studs, etc.), protective headgear for sports; and other protective gear for sports such as life jackets, boxing gloves, body padding, shin-guards, goggles, belts, supports, etc.\n\nThis category excludes crash helmets for motor cycles and bicycles (03.1.3), and camping and garden furniture (05.1.1).\n\nThis category is a subcategory of the Recreation and Culture (09) and of Other Recreational Items and Equipment, Gardens and Pets (09.3) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "T5YIFR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "5-Year, 5-Year Forward Inflation Expectation Rate",
+  "observation_start": "2003-01-02",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 16:01:13-05",
+  "popularity": 84,
+  "group_popularity": 84,
+  "notes": "This series is a measure of expected inflation (on average) over the five-year period that begins five years from today.\n\nThis series is constructed as:\n(((((1+((BC_10YEAR-TC_10YEAR)/100))^10)/((1+((BC_5YEAR-TC_5YEAR)/100))^5))^0.2)-1)*100\n\nwhere BC10_YEAR, TC_10YEAR, BC_5YEAR, and TC_5YEAR are the 10 year and 5 year nominal and inflation adjusted Treasury securities. All of those are the actual series IDs in FRED.\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)."
+}

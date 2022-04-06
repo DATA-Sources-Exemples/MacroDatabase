@@ -1,0 +1,18 @@
+{
+  "id": "CRIIR3TIB01STM",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Interest Rates: 3-month or 90-day rates and yields: Interbank rates: Total for Costa Rica",
+  "observation_start": "2012-09-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-14 18:34:03-06",
+  "popularity": 2,
+  "group_popularity": 3,
+  "notes": "OECD descriptor ID: IR3TIB01 OECD unit ID: ST OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M032EBFRM452NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Paris Metro Traffic, Tickets Issued for France",
+  "observation_start": "1910-11-01",
+  "observation_end": "1931-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Tickets",
+  "units_short": "Mil. Of Tickets",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:05:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1900-1911 (2)--Original Data, 1910-1931 (3)--Original Data, 1930-1938. Data Were Computed By NBER Using Figures For The Paris Metropolitain Added To Figures For Le Chemin De Fer Electrique Sauterrain Nord-Sud De Paris, The Latter Being Opened In November 1910. Data Were Checked By NBER With Figures Provided Directly From The Paris Metropolitain And The \"Annuaire Statistique De La Ville De Paris\", 1910 And Following Volumes. Source: Data For Paris Metropolitan: Compagne Du Chemin De Fer Metropolitan De Paris, Rapport Du Conseil D'Administration, 1909 And Following Years. Data For Nord-Sud: Annuaire Statistique De Paris, 1910, P. 394 And Following Years.\n\nThis NBER data series m03012eb appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03012eb"
+}

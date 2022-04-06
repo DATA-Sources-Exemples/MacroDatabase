@@ -1,0 +1,18 @@
+{
+  "id": "M13023USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Yields of High Grade Municipal Bonds for United States",
+  "observation_start": "1900-01-01",
+  "observation_end": "1967-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:18:58-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "An Arithmetic Average Of The Yield To Maturity On Each Issue Is Based On The Mean Of Monthly High And Low Prices. Beginning January 3, 1929, The Average Yield Is Computed From Thursday'S Closing Prices, The Monthly Index Consisting Of An Average Of The Four Or Five Weekly Indexes For The Month. Beginning April 30, 1930, Wednesday'S Closing Prices Are Used And The Average For The Month Is Taken As Before. Source: Standard And Poor'S Corporation, Data For 1900-1940: \"Long Term Security Price Index Record (Through December 31, 1940)\", Pp. 137-138. Data For 1941-1942: \"Security Price Index Record: 1941 & 1942\", P. 16. Data For 1943-1951: \"Security Price Index Record\", 1952 Edition, P. 175 (Also See 1957 Edition And 1959 Supplement To 1957 Edition). Data For 1952-1967: Current Statistics, July 1952, And Following Monthly Issues.\n\nThis NBER data series m13023 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13023"
+}

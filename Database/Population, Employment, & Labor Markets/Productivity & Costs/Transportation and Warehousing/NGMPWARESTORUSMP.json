@@ -1,0 +1,18 @@
+{
+  "id": "NGMPWARESTORUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Gross Domestic Product: Private Industries: Transportation and Warehousing: Warehousing and Storage for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Warehousing and Storage NAICS subsector are primarily engaged in operating warehousing and storage facilities for general merchandise, refrigerated goods, and other warehouse products. These establishments provide facilities to store goods. They do not sell the goods they handle. These establishments take responsibility for storing the goods and keeping them secure. They may also provide a range of services, often referred to as logistics services, related to the distribution of goods. Logistics services can include labeling, breaking bulk, inventory control and management, light assembly, order entry and fulfillment, packaging, pick and pack, price marking and ticketing, and transportation arrangement. However, establishments in this industry group always provide warehousing or storage services in addition to any logistic services. Furthermore, the warehousing or storage of goods must be more than incidental to the performance of services, such as price marking.\n\nBonded warehousing and storage services and warehouses located in free trade zones are included in the industries of this subsector.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

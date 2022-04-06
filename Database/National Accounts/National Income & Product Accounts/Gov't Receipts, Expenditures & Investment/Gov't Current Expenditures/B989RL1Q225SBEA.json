@@ -1,0 +1,18 @@
+{
+  "id": "B989RL1Q225SBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real State and Local Government Consumption Expenditures: Gross Output of General Government: Intermediate Goods and Services Purchased: Durable Goods",
+  "observation_start": "1947-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-02-24 08:04:28-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B989RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

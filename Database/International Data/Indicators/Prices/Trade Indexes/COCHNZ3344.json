@@ -1,0 +1,18 @@
+{
+  "id": "COCHNZ3344",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Import Price Index: Semiconductor and other electronic component manufacturing for China",
+  "observation_start": "2012-06-01",
+  "observation_end": "2018-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2010=100",
+  "units_short": "Index 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-01-16 07:51:03-06",
+  "popularity": 12,
+  "group_popularity": 12,
+  "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+}

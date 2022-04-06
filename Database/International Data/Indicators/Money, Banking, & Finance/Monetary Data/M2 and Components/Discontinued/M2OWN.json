@@ -1,0 +1,18 @@
+{
+  "id": "M2OWN",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "M2 Own Rate (DISCONTINUED)",
+  "observation_start": "1959-02-01",
+  "observation_end": "2019-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-07-12 09:10:02-05",
+  "popularity": 13,
+  "group_popularity": 13,
+  "notes": "Weighted average of the rates received on the interest-bearing assets included in M2. The interest-bearing assets include size of the other checkable deposits, thrift saving deposits, money market mutual fund holdings, and small time deposits that are weighted using their corresponding rates.\r\n\r\nThe construction of this series was discontinued as of July 12, 2019. The underlying data can be accessed through the following sources: size of the assets can be obtained from the H.6 release (https://www.federalreserve.gov/releases/h6/current/default.htm) published by the Board of Governors, rate on the money market mutual funds from iMoneyNet (https://financialintelligence.informa.com/products-and-services/data-analysis-and-tools/imoneynet), and the remaining rates from the Weekly National Rates and Rate Caps (https://www.fdic.gov/regulations/resources/rates/index.html) from the FDIC website. Listing of the sources is provided for informational purposes only: the Federal Reserve Bank of St. Louis is not associated with any listed private entities and cannot guarantee that the listed data sources will provide the data in the future."
+}

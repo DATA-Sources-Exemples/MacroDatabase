@@ -1,0 +1,18 @@
+{
+  "id": "M16084USM509SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Diffusion Index, Basic Commodity Spot Market Prices, Three Month Span for United States",
+  "observation_start": "1948-03-01",
+  "observation_end": "1958-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Expanding",
+  "units_short": "% Expanding",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-20 09:32:24-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Index Based On 22 Raw Materials Or Simply Processed Commodities Traded In Larger Volume In Primary Markets. Source: G.H. Moore, Business Cycle Indicators, Vol.2, NBER, P. 163 (Bureau Of Labor Statistics Data)\n\nThis NBER data series m16084 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16084"
+}

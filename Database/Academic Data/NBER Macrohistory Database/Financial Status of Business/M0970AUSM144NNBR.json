@@ -1,0 +1,18 @@
+{
+  "id": "M0970AUSM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Liabilities of Business Failures, Manufacturing Companies with Liabilities Under One Hundred Thousand Dollars for the United States",
+  "observation_start": "1894-01-01",
+  "observation_end": "1938-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:03:46-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1894-1938 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1961. Coverage Includes Mining And Construction Concerns. For December, 1894, No Figures Are Available For Liabilities Under $100,000. The Figure For Liabilities Over That Amount ($6.42 Million) Was Divided Between The Two Groups After Inspecting The Average Monthly Size Of Liabilities In Both Groups, And The Total. Now Annual Totals For 1894 No Longer Agree With The Totals Published In Dun'S Review. Figures For August And December Of 1909 Are Given As They Appear In Dun'S Review. The Total Of Liabilities Under And Over $100,000 Will Not Agree With Figures In Series 09034 (Liabilities For All Manufacturing Companies). Figures For September, October, And December Of 1919 Were Estimated As Data Are Not Available. The Total For The Three Months Is 4.64; The Amount Was Divided Among These Months In The Same Proportion As In The Series For Total Manufacturing (09034). Beginning In 1935, Liabilities For Manufacturing And Construction Companies Are Shown Separately. They Have Been Added Here To Continue The Segment As Before. There Also Occurred A Slight Change In Coverage. Source: R G. Dun And Co.(Dun And Bradstreet, Inc. After March, 1933), Data For 1894-February, 1933: Dun'S Review; Data For March, 1933-January, 1937: Dun And Bradstreet Monthly Review; Data For February, 1937-1938: Dun'S Statistical Review.\n\nThis NBER data series m09070a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09070a"
+}

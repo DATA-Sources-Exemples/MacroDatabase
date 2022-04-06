@@ -1,0 +1,17 @@
+{
+  "id": "SHTSAUS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Shipments of New Manufactured Homes: Total Homes in the United States",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-08 11:03:03-06",
+  "popularity": 19,
+  "group_popularity": 22
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M0308BUSM477NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Freight Car Shortage for United States",
+  "observation_start": "1915-01-01",
+  "observation_end": "1917-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Freight Cars",
+  "units_short": "Number Of Freight Cars",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:04:43-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1907-1930 (2)--Original Data, 1915-1917. Data Include All Car Requisitions Including Duplication, Therefore \"Requisitions\" Is Possibly A Better Term Than \"Shortages\". For Example A Shipper Might Request 25 Cars From Four Lines, However, Only Needing 25. This Data Would Show A 100 Car \"Shortage\" In This Example. The Railroads Included In These Reports Are The Same Throughout, Except That The Actual Number Of Roads Decreased Due To Consolidation From About 175 To 118. Data Throughout Are Comparable. Source: American Railway Association: \"Unfilled Car Requisitions\", Bulletin No. Six, August 17, 1917; Quarterly Journal Of Economics, Vol. 33, P. 179.\n\nThis NBER data series m03008b appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03008b"
+}

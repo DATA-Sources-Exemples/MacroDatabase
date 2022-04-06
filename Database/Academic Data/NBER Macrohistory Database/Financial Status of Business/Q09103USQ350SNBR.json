@@ -1,0 +1,18 @@
+{
+  "id": "Q09103USQ350SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Total Cost Per Unit of Output, Manufacturing for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1965-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 15:03:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Data Represent Total Cost Divided By Index Of Manufacturing (Bureau Of Census 1,175). Total Cost Equals The Sales Minus Profits. Source: Federal Trade, And Securities And Exchange Commissions: Quarterly Financial Report For Manufacturing Corporations; Federal Reserve Board:\"Industrial Production: 1957-1959 Base;\" And Federal Reserve Bulletin (Monthly Issues).\n\nThis NBER data series q09103 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: q09103"
+}

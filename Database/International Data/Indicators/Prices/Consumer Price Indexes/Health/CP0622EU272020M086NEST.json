@@ -1,0 +1,18 @@
+{
+  "id": "CP0622EU272020M086NEST",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Harmonized Index of Consumer Prices: Dental Services for European Union (27 countries from 2020)",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2015=100",
+  "units_short": "Index 2015=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-17 07:18:39-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Harmonized Index of Consumer Prices category Dental Services (06.2.2) is a classification of services that includes services of dentists, oral-hygienists, and other dental auxiliaries; and fitting costs of dentures.\n\nDental Services excludes dentures (06.1.3), services of orthodontic specialists (06.2.1), and services of medical analysis laboratories and X-ray centers (06.2.3).\n\nThis category is a subcategory of the Health (06) and of Out-Patient Services (06.2) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source here (https://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm).\n\nCopyright, European Union, 1995-2016 (https://ec.europa.eu/info/legal-notice_en#copyright)."
+}

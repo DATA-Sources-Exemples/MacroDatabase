@@ -1,0 +1,18 @@
+{
+  "id": "M0869AUSM148NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonagricultural Employment (14 Years and Older) for United States",
+  "observation_start": "1940-03-01",
+  "observation_end": "1957-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Persons",
+  "units_short": "Mil. Of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:23:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1940-1957 (2)--Original Data, 1948-1969. These Figures Cover Wage And Salary Workers, Self-Employed And Unpaid Family Workers, Fourteen Years Of Age And Older. They Refer To The Calendar Week Containing The 8Th Day Of The Month Except March 8, 1940 (See Source). Beginning July 1955 Data Relate To The Week Containing The 12Th Of Each Month. For July 1950-December 1952 0.05 Was Deducted From Original Figures According To Instructions Given In The Source (P-57, No. 139, February 8, 1954.) Source: U.S. Bureau Of The Census, Current Population Reports, Monthly Bulletins, \"Labor Force\", For 1940-1946: Series P-50, No. 2; For January-June 1947: P-57, No. 79; For July-December 1947: P-57, No. 84; For 1948-August 1949: P-57, No. 86; Following Monthly Issues Through 1957 Including No. 139; P-57, 1952 And No. 151, February 1955.\n\nThis NBER data series m08269a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08269a"
+}

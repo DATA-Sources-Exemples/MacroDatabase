@@ -1,0 +1,17 @@
+{
+  "id": "DAYT339PCPI",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Per Capita Personal Income in Dayton, OH (MSA)",
+  "observation_start": "1969-01-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-11-14 09:28:01-06",
+  "popularity": 4,
+  "group_popularity": 4
+}

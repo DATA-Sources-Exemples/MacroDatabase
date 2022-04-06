@@ -1,0 +1,18 @@
+{
+  "id": "W242RA3A086NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Real private fixed investment: Net purchases of used autos and used light trucks (chain-type quantity index)",
+  "observation_start": "1967-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 08:06:35-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: W242RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DFEDTARL",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Federal Funds Target Range - Lower Limit",
+  "observation_start": "2008-12-16",
+  "observation_end": "2022-04-04",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 07:01:09-05",
+  "popularity": 61,
+  "group_popularity": 61,
+  "notes": "This series represents lower limit of the federal funds target range established by the Federal Open Market Committee."
+}

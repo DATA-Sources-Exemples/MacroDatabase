@@ -1,2 +1,10 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                | title                                                                                                                              | observation_start   | observation_end   |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| GDPALL51942       | Gross Domestic Product: All Industries in Prince William, Manassas + Manassas Park County, VA                                      | 2001-01-01          | 2020-01-01        |
+| GDPGOODS51942     | Gross Domestic Product: Private Goods-Producing Industries in Prince William, Manassas + Manassas Park County, VA                  | 2001-01-01          | 2020-01-01        |
+| GDPGOVT51942      | Gross Domestic Product: Government and Government Enterprises in Prince William, Manassas + Manassas Park County, VA               | 2001-01-01          | 2020-01-01        |
+| GDPSERV51942      | Gross Domestic Product: Private Services-Providing Industries in Prince William, Manassas + Manassas Park County, VA               | 2001-01-01          | 2020-01-01        |
+| REALGDPALL51942   | Real Gross Domestic Product: All Industries in Prince William, Manassas + Manassas Park Virginia County, VA                        | 2001-01-01          | 2020-01-01        |
+| REALGDPGOODS51942 | Real Gross Domestic Product: Private Goods-Producing Industries in Prince William, Manassas + Manassas Park Virginia County, VA    | 2001-01-01          | 2020-01-01        |
+| REALGDPGOVT51942  | Real Gross Domestic Product: Government and Government Enterprises in Prince William, Manassas + Manassas Park Virginia County, VA | 2001-01-01          | 2020-01-01        |
+| REALGDPSERV51942  | Real Gross Domestic Product: Private Services-Providing Industries in Prince William, Manassas + Manassas Park Virginia County, VA | 2001-01-01          | 2020-01-01        |

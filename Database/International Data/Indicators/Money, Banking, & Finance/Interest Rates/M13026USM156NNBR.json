@@ -1,0 +1,18 @@
+{
+  "id": "M13026USM156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Yield on High Grade Industrial Bonds, Aaa Rating for United States",
+  "observation_start": "1900-01-01",
+  "observation_end": "1972-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:17:04-05",
+  "popularity": 10,
+  "group_popularity": 10,
+  "notes": "From January 1900-December 1928, These Indexes Are Based Upon The Mean Of The Monthly High-Low Price Of Forty-Five High Grade Corporate Bonds. From January 1929-March 1937 The Indexes Have Been Based Upon A Varying Group Of Aaa Bonds, One Price Monthly (First Of Month) Being Used. Beginning April 1937 To Date The Average Is Of The Four Or Five Weekly Aaa Indexes. The Lack Of Data For August-November 1914 Is Due To The Stock Exchange Being Closed. Source: Standard And Poor'S, Data For 1900-1942: Security Price Index Record. Data For 1943-1972: Current Statistics Combined With Basic Statistics; Also Trade And Securities.\n\nThis NBER data series m13026 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13026"
+}

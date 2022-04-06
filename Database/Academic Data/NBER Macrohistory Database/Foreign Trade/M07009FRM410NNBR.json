@@ -1,0 +1,18 @@
+{
+  "id": "M07009FRM410NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Exports, Food for France",
+  "observation_start": "1880-08-01",
+  "observation_end": "1939-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Francs",
+  "units_short": "Mil. Of Francs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:01:54-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "The Original Source - Documents Statistique - Is Available In New York Public Library Only From 1885 On. It Is Available In Paris. For Earlier Years, Therefore, A Secondary Source - Bulletin De Statistique Et Legislation Comparee Was Used. This Source Did Not Provide As Careful Or Complete Revisions As The Original Source (1885 Overlap Does Not Check Exactly, But It Appeared To Be The Best Available Official Source For Early Data. October-November, 1901 And May-June, 1922 Figures Are Taken From A Single Month Table And Not The Cumulative Table Because The Figures Coincide With Total Exports When Added To Raw Materials, Manufactures And Parcel Post. December, 1919 Figures Include Year'S Total For Alsace-Lorraine, Monthly Figures Are Given Thereafter. Parcel Post Has Been Subtracted From 1926-1934, Inclusive, To Make Data Consistent With Earlier Figures. Saar Has Been Excluded From March 1935 To July 1939. Figures From August 1938 To July 1939 Are Preliminary. Source: For 1878-84, Include Bulletin De Statistique Et De Legislation Comparee (Finance Ministere) 1879, P. 90, Then Monthly Thereafter. For 1885-1934, Documents Statistique ... Sur Le Commerce De La France (Direction Generale Des Douanes) Which With The 1922-1924 Issue And Thereafter Changes Title To Statistique Mensirelle Des Commerce Exterieur De La France. Where Gaps Occur, See Bulletin De Statistique Generale; Bulletin De Legislation Comparee Or L'Economiste France.\n\nThis NBER data series m07009 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07009"
+}

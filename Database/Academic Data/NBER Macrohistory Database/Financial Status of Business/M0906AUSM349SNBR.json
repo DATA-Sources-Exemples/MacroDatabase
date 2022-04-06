@@ -1,0 +1,18 @@
+{
+  "id": "M0906AUSM349SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Ratio: Wholesale Prices of Manufactured Goods to Production Worker Wage Cost Per Unit of Output for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1929-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1947-1949=100",
+  "units_short": "Index 1947-1949=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2012-08-17 15:05:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1919-1929 (2)--Seasonally Adjusted Data, 1927-1950. To Obtain A Continuous Series, The NBER Multiplied The Seasonally Adjusted Data For 1919-October 1927 Shown Below By A Factor Of 1.0115, Obtained From A Ratio Of The Data From November 1927 Through 1928 Of The Two Series. Source: Index Of Wholesale Prices Of Manufactured Goods: 1919-1929. For The List Of Commodities Entering Into This Index, See Bulletin No. 572 (1931) P. 11. Data For 1926 Are From The 1930 Bulletin. Called Manufactured Products Beginning April, 1940. See \"Wholesale Prices\", April, 1940, P. 1, Footnote: \"Formerly Finished Products With No Change In Items.\"\n\nThis NBER data series m09106a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09106a"
+}

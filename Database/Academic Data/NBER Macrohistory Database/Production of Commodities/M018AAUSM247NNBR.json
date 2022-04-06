@@ -1,0 +1,18 @@
+{
+  "id": "M018AAUSM247NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Electric Power Production, Adjusted for Trend for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1935-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Kilowatt Hours",
+  "units_short": "Bil. of Kilowatt Hours",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Trend Was Derived From Monthly Data In Series 01128 By The Formula: Yc= 2.9388 + 0.03326X'. Source: Data Were Derived From Series (Electric Power Production).\n\nThis NBER data series m01128aa appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01128aa"
+}

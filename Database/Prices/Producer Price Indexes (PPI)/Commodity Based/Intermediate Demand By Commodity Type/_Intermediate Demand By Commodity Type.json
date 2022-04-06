@@ -1,8 +1,8 @@
 {
   "WPSID61": {
     "id": "WPSID61",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods for Intermediate Demand",
     "observation_start": "1947-04-01",
     "observation_end": "2022-02-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:11-05",
-    "popularity": 23,
-    "group_popularity": 26,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 25,
+    "group_popularity": 29,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID62": {
     "id": "WPSID62",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand",
     "observation_start": "1947-04-01",
     "observation_end": "2022-02-01",
@@ -31,14 +31,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:26-05",
-    "popularity": 15,
-    "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 16,
+    "group_popularity": 19,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID63": {
     "id": "WPSID63",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -49,14 +49,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:54-05",
-    "popularity": 5,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 4,
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID64": {
     "id": "WPSID64",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Construction for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -69,12 +69,12 @@
     "last_updated": "2022-03-15 08:05:39-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID611": {
     "id": "WPSID611",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Manufacturing",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -85,14 +85,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:28-05",
-    "popularity": 10,
-    "group_popularity": 12,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 8,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID612": {
     "id": "WPSID612",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Construction",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -103,14 +103,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:14-05",
-    "popularity": 27,
-    "group_popularity": 30,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 28,
+    "group_popularity": 31,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID613": {
     "id": "WPSID613",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants for Intermediate Demand",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -121,14 +121,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:43-05",
-    "popularity": 5,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 3,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID614": {
     "id": "WPSID614",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Containers for Intermediate Demand",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -141,12 +141,12 @@
     "last_updated": "2022-03-15 07:57:58-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID615": {
     "id": "WPSID615",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies for Intermediate Demand",
     "observation_start": "1976-01-01",
     "observation_end": "2022-02-01",
@@ -159,12 +159,12 @@
     "last_updated": "2022-03-15 07:56:44-05",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID621": {
     "id": "WPSID621",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Foodstuffs and Feedstuffs",
     "observation_start": "1969-01-01",
     "observation_end": "2022-02-01",
@@ -176,13 +176,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:57:58-05",
     "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID622": {
     "id": "WPSID622",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -195,12 +195,12 @@
     "last_updated": "2022-03-15 08:05:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID631": {
     "id": "WPSID631",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services Less Trade, Transportation, and Warehousing for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -213,12 +213,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID632": {
     "id": "WPSID632",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation and Warehousing Services for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -231,12 +231,12 @@
     "last_updated": "2022-03-15 07:57:58-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID633": {
     "id": "WPSID633",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -248,13 +248,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:39-05",
     "popularity": 1,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6111": {
     "id": "WPSID6111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Manufacturing",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -267,12 +267,12 @@
     "last_updated": "2022-03-15 08:05:44-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6112": {
     "id": "WPSID6112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Manufacturing",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -285,12 +285,12 @@
     "last_updated": "2022-03-15 08:05:44-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6121": {
     "id": "WPSID6121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Construction",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -301,14 +301,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:33-05",
-    "popularity": 16,
-    "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 15,
+    "group_popularity": 16,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6122": {
     "id": "WPSID6122",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Construction",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -319,14 +319,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:55-05",
-    "popularity": 5,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 4,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6131": {
     "id": "WPSID6131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants to Manufacturing Industries",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -339,12 +339,12 @@
     "last_updated": "2022-03-15 08:05:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6132": {
     "id": "WPSID6132",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants to Nonmanufacturing Industries",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -357,12 +357,12 @@
     "last_updated": "2022-03-15 08:05:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6151": {
     "id": "WPSID6151",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Manufacturing Industries",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -373,14 +373,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:41-05",
-    "popularity": 9,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 12,
+    "group_popularity": 14,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6152": {
     "id": "WPSID6152",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Nonmanufacturing Industries",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -393,12 +393,12 @@
     "last_updated": "2022-03-15 08:05:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6221": {
     "id": "WPSID6221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -411,12 +411,12 @@
     "last_updated": "2022-03-15 08:05:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6222": {
     "id": "WPSID6222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -429,12 +429,12 @@
     "last_updated": "2022-03-15 08:05:41-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6311": {
     "id": "WPSID6311",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services Less Trade, Transportation, and Warehousing for Manufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -447,12 +447,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6312": {
     "id": "WPSID6312",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services Less Trade, Transportation, and Warehousing for Nonmanufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -465,12 +465,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6321": {
     "id": "WPSID6321",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Passengers for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -483,12 +483,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6322": {
     "id": "WPSID6322",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation and Warehousing of Goods for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -501,12 +501,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6331": {
     "id": "WPSID6331",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Manufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -519,12 +519,12 @@
     "last_updated": "2022-03-15 08:05:39-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID6332": {
     "id": "WPSID6332",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Nonmanufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -537,12 +537,12 @@
     "last_updated": "2022-03-15 08:05:39-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61111": {
     "id": "WPSID61111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Food Manufacturing",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -554,13 +554,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:53:42-05",
     "popularity": 3,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61112": {
     "id": "WPSID61112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Nondurable Manufacturing",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -571,14 +571,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:26-05",
-    "popularity": 8,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 10,
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61113": {
     "id": "WPSID61113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Durable Manufacturing",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -589,14 +589,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:54-05",
-    "popularity": 6,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 8,
+    "group_popularity": 13,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61121": {
     "id": "WPSID61121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Nondurable Manufacturing",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -609,12 +609,12 @@
     "last_updated": "2022-03-15 07:57:58-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61122": {
     "id": "WPSID61122",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Durable Manufacturing",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -626,13 +626,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:55:55-05",
     "popularity": 2,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61521": {
     "id": "WPSID61521",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Nonmanufacturing Industries, Feeds",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -645,12 +645,12 @@
     "last_updated": "2022-03-15 08:05:43-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID61522": {
     "id": "WPSID61522",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Nonmanufacturing Industries, Other Than Feeds",
     "observation_start": "1978-01-01",
     "observation_end": "2022-02-01",
@@ -663,12 +663,12 @@
     "last_updated": "2022-03-15 08:05:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID62211": {
     "id": "WPSID62211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel to Manufacturing Industries",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -681,12 +681,12 @@
     "last_updated": "2022-03-15 08:05:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID62212": {
     "id": "WPSID62212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel to Nonmanufacturing Industries",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -699,12 +699,12 @@
     "last_updated": "2022-03-15 08:05:42-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID62221": {
     "id": "WPSID62221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel to Manufacturing Industries",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -717,12 +717,12 @@
     "last_updated": "2022-03-15 08:05:41-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID62222": {
     "id": "WPSID62222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel to Nonmanufacturing Industries",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -735,12 +735,12 @@
     "last_updated": "2022-03-15 08:05:41-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID63211": {
     "id": "WPSID63211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Passengers for Manufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -753,12 +753,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID63212": {
     "id": "WPSID63212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Passengers for Nonmanufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -771,12 +771,12 @@
     "last_updated": "2022-03-15 08:05:40-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID63221": {
     "id": "WPSID63221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Goods for Manufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -789,12 +789,12 @@
     "last_updated": "2022-03-15 08:05:39-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID63222": {
     "id": "WPSID63222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Goods for Nonmanufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -807,12 +807,12 @@
     "last_updated": "2022-03-15 08:05:39-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69111": {
     "id": "WPSID69111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Materials Less Foods and Feeds",
     "observation_start": "1947-04-01",
     "observation_end": "2022-02-01",
@@ -825,12 +825,12 @@
     "last_updated": "2022-03-15 07:56:44-05",
     "popularity": 4,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69112": {
     "id": "WPSID69112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Foods and Feeds",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -843,12 +843,12 @@
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69113": {
     "id": "WPSID69113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Energy Goods",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -860,13 +860,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69115": {
     "id": "WPSID69115",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Materials Less Foods and Energy",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -878,13 +878,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-15 07:52:41-05",
     "popularity": 4,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 12,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69116": {
     "id": "WPSID69116",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Intermediate Distributive Services",
     "observation_start": "2010-04-01",
     "observation_end": "2022-02-01",
@@ -897,12 +897,12 @@
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69117": {
     "id": "WPSID69117",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods Plus Intermediate Distributive Services",
     "observation_start": "2010-04-01",
     "observation_end": "2022-02-01",
@@ -915,12 +915,12 @@
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69118": {
     "id": "WPSID69118",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Materials Less Energy",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -933,12 +933,12 @@
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69211": {
     "id": "WPSID69211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Materials Less Agricultural Products",
     "observation_start": "1947-04-01",
     "observation_end": "2022-02-01",
@@ -951,12 +951,12 @@
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69212": {
     "id": "WPSID69212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Energy Materials",
     "observation_start": "1990-01-01",
     "observation_end": "2022-02-01",
@@ -969,12 +969,12 @@
     "last_updated": "2022-03-15 07:56:44-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69213": {
     "id": "WPSID69213",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Materials Less Energy",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -987,12 +987,12 @@
     "last_updated": "2022-03-15 08:05:38-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69215": {
     "id": "WPSID69215",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Nonfood Materials Excluding Fuel for Manufacturing, Excluding Selected Items",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -1005,12 +1005,12 @@
     "last_updated": "2022-03-15 08:05:37-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPSID69216": {
     "id": "WPSID69216",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Less Energy",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -1023,12 +1023,12 @@
     "last_updated": "2022-03-15 07:57:57-05",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61": {
     "id": "WPUID61",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods for Intermediate Demand",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1039,14 +1039,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:20-05",
-    "popularity": 9,
-    "group_popularity": 26,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 13,
+    "group_popularity": 29,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID62": {
     "id": "WPUID62",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Goods for Intermediate Demand",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1058,13 +1058,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:53:50-05",
     "popularity": 4,
-    "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 19,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID63": {
     "id": "WPUID63",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1075,14 +1075,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:43-05",
-    "popularity": 7,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 6,
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID64": {
     "id": "WPUID64",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Construction for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1095,12 +1095,12 @@
     "last_updated": "2022-03-15 07:57:13-05",
     "popularity": 2,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID611": {
     "id": "WPUID611",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Manufacturing",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1112,13 +1112,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:14-05",
     "popularity": 3,
-    "group_popularity": 12,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID612": {
     "id": "WPUID612",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials and Components for Construction",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1130,13 +1130,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:46-05",
     "popularity": 10,
-    "group_popularity": 30,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 31,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID613": {
     "id": "WPUID613",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants for Intermediate Demand",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1147,14 +1147,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:13-05",
-    "popularity": 4,
-    "group_popularity": 7,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 6,
+    "group_popularity": 8,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID614": {
     "id": "WPUID614",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Containers for Intermediate Demand",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1167,12 +1167,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID615": {
     "id": "WPUID615",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies for Intermediate Demand",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1183,14 +1183,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:28-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID621": {
     "id": "WPUID621",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Foodstuffs and Feedstuffs",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1202,13 +1202,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:13-05",
     "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID622": {
     "id": "WPUID622",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -1221,12 +1221,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID631": {
     "id": "WPUID631",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services Less Trade, Transportation, and Warehousing for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1239,12 +1239,12 @@
     "last_updated": "2022-03-15 07:59:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID632": {
     "id": "WPUID632",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation and Warehousing Services for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1257,12 +1257,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID633": {
     "id": "WPUID633",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1273,14 +1273,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:13-05",
-    "popularity": 7,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 4,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6111": {
     "id": "WPUID6111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Manufacturing",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1293,12 +1293,12 @@
     "last_updated": "2022-03-15 07:59:30-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6112": {
     "id": "WPUID6112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Manufacturing",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1311,12 +1311,12 @@
     "last_updated": "2022-03-15 07:59:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6121": {
     "id": "WPUID6121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Construction",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1327,14 +1327,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:14-05",
-    "popularity": 4,
-    "group_popularity": 17,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 3,
+    "group_popularity": 16,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6122": {
     "id": "WPUID6122",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Construction",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1346,13 +1346,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:29-05",
     "popularity": 2,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6131": {
     "id": "WPUID6131",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants to Manufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1365,12 +1365,12 @@
     "last_updated": "2022-03-15 07:59:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6132": {
     "id": "WPUID6132",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Fuels and Lubricants to Nonmanufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1383,12 +1383,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6151": {
     "id": "WPUID6151",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Manufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1400,13 +1400,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:13-05",
     "popularity": 3,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 14,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6152": {
     "id": "WPUID6152",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Nonmanufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1419,12 +1419,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6221": {
     "id": "WPUID6221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1437,12 +1437,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6222": {
     "id": "WPUID6222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1455,12 +1455,12 @@
     "last_updated": "2022-03-15 07:59:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6311": {
     "id": "WPUID6311",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services Less Trade, Transportation, and Warehousing for Manufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1473,12 +1473,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6312": {
     "id": "WPUID6312",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Services Less Trade, Transportation, and Warehousing for Nonmanufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1491,12 +1491,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6321": {
     "id": "WPUID6321",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Passengers for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1509,12 +1509,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6322": {
     "id": "WPUID6322",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation and Warehousing of Goods for Intermediate Demand",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1527,12 +1527,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6331": {
     "id": "WPUID6331",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Manufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -1545,12 +1545,12 @@
     "last_updated": "2022-03-15 07:59:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID6332": {
     "id": "WPUID6332",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Nonmanufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -1563,12 +1563,12 @@
     "last_updated": "2022-03-15 07:59:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61111": {
     "id": "WPUID61111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Food Manufacturing",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1579,14 +1579,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:29-05",
-    "popularity": 5,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 3,
+    "group_popularity": 5,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61112": {
     "id": "WPUID61112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Nondurable Manufacturing",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1598,13 +1598,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:59:29-05",
     "popularity": 1,
-    "group_popularity": 8,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 10,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61113": {
     "id": "WPUID61113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Materials for Durable Manufacturing",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1616,13 +1616,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:57-05",
     "popularity": 8,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 13,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61121": {
     "id": "WPUID61121",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Nondurable Manufacturing",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1635,12 +1635,12 @@
     "last_updated": "2022-03-15 07:59:29-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61122": {
     "id": "WPUID61122",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Components for Durable Manufacturing",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1652,13 +1652,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:23-05",
     "popularity": 3,
-    "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "group_popularity": 4,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61521": {
     "id": "WPUID61521",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Nonmanufacturing Industries, Feeds",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1671,12 +1671,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID61522": {
     "id": "WPUID61522",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Supplies to Nonmanufacturing Industries, Other Than Feeds",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1689,12 +1689,12 @@
     "last_updated": "2022-03-15 07:59:28-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID62211": {
     "id": "WPUID62211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel to Manufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1707,12 +1707,12 @@
     "last_updated": "2022-03-15 07:59:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID62212": {
     "id": "WPUID62212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Except Fuel to Nonmanufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1725,12 +1725,12 @@
     "last_updated": "2022-03-15 07:59:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID62221": {
     "id": "WPUID62221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel to Manufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1743,12 +1743,12 @@
     "last_updated": "2022-03-15 07:59:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID62222": {
     "id": "WPUID62222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Fuel to Nonmanufacturing Industries",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1761,12 +1761,12 @@
     "last_updated": "2022-03-15 07:59:27-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID63211": {
     "id": "WPUID63211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Passengers for Manufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1779,12 +1779,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID63212": {
     "id": "WPUID63212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Passengers for Nonmanufacturing Industries",
     "observation_start": "2009-11-01",
     "observation_end": "2022-02-01",
@@ -1797,12 +1797,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID63221": {
     "id": "WPUID63221",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Goods for Manufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -1815,12 +1815,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID63222": {
     "id": "WPUID63222",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Transportation of Goods for Nonmanufacturing Industries",
     "observation_start": "2012-12-01",
     "observation_end": "2022-02-01",
@@ -1833,12 +1833,12 @@
     "last_updated": "2022-03-15 07:59:26-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69111": {
     "id": "WPUID69111",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Materials Less Foods and Feeds",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1849,14 +1849,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:13-05",
-    "popularity": 3,
+    "popularity": 2,
     "group_popularity": 5,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69112": {
     "id": "WPUID69112",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Foods and Feeds",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -1869,12 +1869,12 @@
     "last_updated": "2022-03-15 07:59:25-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69113": {
     "id": "WPUID69113",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Energy Goods",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -1885,14 +1885,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:52:56-05",
-    "popularity": 5,
-    "group_popularity": 6,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 8,
+    "group_popularity": 9,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69115": {
     "id": "WPUID69115",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Materials Less Foods and Energy",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -1903,14 +1903,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:58-05",
-    "popularity": 9,
-    "group_popularity": 11,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "popularity": 10,
+    "group_popularity": 12,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69116": {
     "id": "WPUID69116",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Intermediate Distributive Services",
     "observation_start": "2010-04-01",
     "observation_end": "2022-02-01",
@@ -1923,12 +1923,12 @@
     "last_updated": "2022-03-15 07:59:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69117": {
     "id": "WPUID69117",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods Plus Intermediate Distributive Services",
     "observation_start": "2010-04-01",
     "observation_end": "2022-02-01",
@@ -1941,12 +1941,12 @@
     "last_updated": "2022-03-15 07:59:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69118": {
     "id": "WPUID69118",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Materials Less Energy",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -1959,12 +1959,12 @@
     "last_updated": "2022-03-15 07:59:25-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69211": {
     "id": "WPUID69211",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Materials Less Agricultural Products",
     "observation_start": "1947-01-01",
     "observation_end": "2022-02-01",
@@ -1977,12 +1977,12 @@
     "last_updated": "2022-03-15 07:59:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69212": {
     "id": "WPUID69212",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Energy Materials",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -1995,12 +1995,12 @@
     "last_updated": "2022-03-15 07:59:24-05",
     "popularity": 1,
     "group_popularity": 2,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69213": {
     "id": "WPUID69213",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Materials Less Energy",
     "observation_start": "1974-01-01",
     "observation_end": "2022-02-01",
@@ -2013,12 +2013,12 @@
     "last_updated": "2022-03-15 07:59:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69215": {
     "id": "WPUID69215",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Nonfood Materials Excluding Fuel for Manufacturing, Excluding Selected Items",
     "observation_start": "1967-01-01",
     "observation_end": "2022-02-01",
@@ -2031,12 +2031,12 @@
     "last_updated": "2022-03-15 07:59:24-05",
     "popularity": 1,
     "group_popularity": 1,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   },
   "WPUID69216": {
     "id": "WPUID69216",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Unprocessed Nonfood Materials Less Energy",
     "observation_start": "1973-01-01",
     "observation_end": "2022-02-01",
@@ -2049,6 +2049,6 @@
     "last_updated": "2022-03-15 07:57:12-05",
     "popularity": 2,
     "group_popularity": 3,
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Intermediate Demand By Commodity Type"
   }
 }

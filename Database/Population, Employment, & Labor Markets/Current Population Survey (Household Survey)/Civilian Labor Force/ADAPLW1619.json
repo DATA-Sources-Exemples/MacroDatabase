@@ -1,0 +1,18 @@
+{
+  "id": "ADAPLW1619",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Civilian Labor Force - Associate Degree - Academic Program, 16 to 19 years, Women",
+  "observation_start": "2000-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 09:36:29-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The civilian labor force is the sum of employed and unemployed persons.\n\nTo obtain estimates of women worker employment, the ratio of weighted women employees to the weighted all employees in the sample is assumed to equal the same ratio in the universe. The current month's women worker ratio, thus, is estimated and then multiplied by the all-employee estimate. The weighted-difference-link-and-taper formula (described in the source) is used to estimate the current month's women worker ratio. This formula adds the change in the matched sample's women worker ratio (the weighted-difference link) to the prior month's estimate, which has been slightly modified to reflect changes in the sample composition (the taper)."
+}

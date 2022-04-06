@@ -1,0 +1,18 @@
+{
+  "id": "CFSBCWAGECOSTS",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Chicago Fed Survey of Business Conditions: Wage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)",
+  "observation_start": "2013-02-01",
+  "observation_end": "2019-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-10-16 14:31:02-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "February data are collected from January to Early February and are associated with March Beige Book issue.\r\nMarch data are collected from Late February to March and are associated with April Beige Book issue.\r\nMay data are collected from April to early May and are associated with June Beige Book issue.\r\nJune data are collected from late May to June and are associated with July Beige Book issue.\r\nAugust data are collected July to early August and are associated with September Beige Book issue.\r\nSeptember data are collected from late August to September and are associated with October Beige Book issue.\r\nNovember data are collected from October to early November and are associated with late November or December Beige Book issue.\r\nDecember data are collected from late November to December and are associated with January Beige Book issue.\r\n\r\nTo support its Beige Book efforts, the Chicago Fed gathers information from its business contacts using an online survey system. Respondents are asked to rate various aspects of business conditions along a seven-point scale ranging from \u201csubstantially increased\u201d to \u201csubstantially decreased.\u201d A series of diffusion indexes summarizing the distribution of responses is then calculated. Respondents\u2019 respective average answers to a question can be interpreted as representing their historical trends or long-run averages. Thus, zero index values indicate that, on balance, activity, hiring, capital spending, or cost pressures are growing at their trend rates or that outlooks are neutral. Positive index values indicate above-average growth (or optimistic outlooks) on balance, and negative values indicate below average growth (or pessimistic outlooks) on balance.\r\nFor more information, see https://www.chicagofed.org/publications/cfsbc/index"
+}

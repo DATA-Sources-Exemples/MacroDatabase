@@ -1,7 +1,7 @@
 {
   "id": "WPU03150231",
-  "realtime_start": "2022-04-04",
-  "realtime_end": "2022-04-04",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
   "title": "Producer Price Index by Commodity: Textile Products and Apparel: Glass Fiber Mat, Textile-Type, Made by Glass Producers (DISCONTINUED)",
   "observation_start": "1983-07-01",
   "observation_end": "2012-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-14 10:33:13-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 8,
+  "group_popularity": 8
 }

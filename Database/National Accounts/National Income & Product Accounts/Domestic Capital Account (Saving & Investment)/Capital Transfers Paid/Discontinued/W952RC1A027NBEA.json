@@ -1,0 +1,18 @@
+{
+  "id": "W952RC1A027NBEA",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Capital transfers paid, by government: State and local (DISCONTINUED)",
+  "observation_start": "1989-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-08-05 13:41:09-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: W952RC1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

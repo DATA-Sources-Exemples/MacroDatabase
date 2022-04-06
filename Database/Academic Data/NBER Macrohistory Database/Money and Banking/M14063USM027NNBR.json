@@ -1,0 +1,18 @@
+{
+  "id": "M14063USM027NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cash Reserves of Federal Reserve Banks for United States",
+  "observation_start": "1914-11-01",
+  "observation_end": "1949-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:19-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "Data For 1914-February 1921 Were Computed By NBER From Weekly Figures In Sources. January And February 1921 Were Adjusted For $3,300,000, The Average Daily Amount Of Gold Held Abroad By Federal Reserve Banks. Data For 1921-1941 Are Composed Of Monthly Averages Of Daily Figures. Beginning With 1942, Data Represent NBER Averages Of Four Or Five Weekly (Wednesday) Data. Figures Pertaining To The First, Second, And Third Of A Month Were Added To The Preceeding Month Under The Assumption That The Greater Part Of The Week Ending On One Of Those Dates Fell In The Preceeding Month. Source: Federal Reserve Board, Data For 1914-February 1921: Computed By NBER From Data In Frb Annual Reports Of 1914, 1917, 1918, 1919, 1920; Commercial And Financial Chronicle; Federal Reserve Bulletin. Data For March 1921-1941: Banking And Monetary Statistics, Pp. 347-350. Data For 1942-1949: Federal Reserve Bulletins.\n\nThis NBER data series m14063 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14063"
+}

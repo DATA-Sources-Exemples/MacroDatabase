@@ -1,0 +1,18 @@
+{
+  "id": "M08122USM331NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Factory Payrolls, Cotton Goods for United States",
+  "observation_start": "1919-01-01",
+  "observation_end": "1942-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1923-1925=100",
+  "units_short": "Index 1923-1925=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:18:48-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Series Ends On The 1923-1925=100 Base, But The New Revised Series Starts In 1939 On A 1939 Base. Source: For 1919-1930, Bureau Of Labor Statistics, Bulletin 610; For 1931-1934, Bureau Of Labor Statistics, Mimeographed Report, September, 1938; For 1935-1939, Bureau Of Labor Statistics, Mimeographed Report, May, 1940; For 1940, Bureau Of Labor Statistics, \"Employment And Payrolls.\"\n\nThis NBER data series m08122 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08122"
+}

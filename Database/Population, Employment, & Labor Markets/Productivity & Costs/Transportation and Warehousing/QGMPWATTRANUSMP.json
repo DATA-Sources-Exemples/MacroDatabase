@@ -1,0 +1,18 @@
+{
+  "id": "QGMPWATTRANUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Transportation and Warehousing: Water Transportation for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:31:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The term \"water transportation\" is used in the SIC system and in NAICS, but it does not have the same definition in both systems.\n\nSIC definition: This major group includes establishments engaged in freight and passenger transportation on the open seas or inland waters, and establishments furnishing such incidental services as lighterage, towing, and canal operation. This major group also includes excursion boats, sight-seeing boats, and water taxis.\n\nNAICS definition: Industries in the Water Transportation subsector provide water transportation of passengers and cargo using watercraft, such as ships, barges, and boats.\n\nScenic and sightseeing water transportation services are not included in this subsector but are included in Subsector 487, Scenic and Sightseeing Transportation. Although these activities use watercraft, they are different from the activities included in water transportation. Water sightseeing does not usually involve place-to-place transportation; the passenger's trip starts and ends at the same location.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

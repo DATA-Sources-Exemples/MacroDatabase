@@ -1,4 +1,6 @@
-| Folder   |   Files / Folders |
-|----------|-------------------|
-| Parishes |                64 |
-| MSAs     |                 9 |
+| Folder              |   Files / Folders |
+|---------------------|-------------------|
+| MSAs                |                 9 |
+| BEA Economic Areas  |                 1 |
+| Basic Trading Areas |                 1 |
+| Parishes            |                64 |

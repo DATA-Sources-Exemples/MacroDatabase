@@ -1,0 +1,3 @@
+| id          | title                                                                              | observation_start   | observation_end   |
+|-------------|------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP30860 | Total Per Capita Real Gross Domestic Product for Logan, UT-ID (MSA) (DISCONTINUED) | 2001-01-01          | 2017-01-01        |

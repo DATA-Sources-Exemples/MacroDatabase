@@ -1,0 +1,18 @@
+{
+  "id": "A018ACDEA324NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Production for Germany",
+  "observation_start": "1925-01-01",
+  "observation_end": "1937-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 1913=100",
+  "units_short": "Index 1913=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:48:31-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "Series Is Presented Here As Five Varibles--(1)--Original Data, 1860-1913 (2)--Original Data, 1913-1931 (3)--Original Data, 1925-1937 (4)--Original Data, 1919-1931 (5)--Original Data, 1925-1937. Source: Institut Fur Konjunkturforschung, Computed From Data In Vierteljahrshefte Zur Konjunkurforschung, Sonderheft 31, Pp. 23, 28, 64; WocheNBERicht, June 19, 1935, P. 97.\n\nThis NBER data series a01008ac appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01008ac"
+}

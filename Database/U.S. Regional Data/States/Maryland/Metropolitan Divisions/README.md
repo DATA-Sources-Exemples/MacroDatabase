@@ -1,6 +1,6 @@
 | Folder                                       |   Files / Folders |
 |----------------------------------------------|-------------------|
+| Wilmington, DE-MD-NJ                         |               142 |
 | Bethesda-Rockville-Frederick, MD             |                 2 |
-| Wilmington, DE-MD-NJ                         |                 1 |
-| Washington-Arlington-Alexandria, DC-VA-MD-WV |                 1 |
-| Silver Spring-Frederick-Rockville, MD        |                 2 |
+| Washington-Arlington-Alexandria, DC-VA-MD-WV |               172 |
+| Silver Spring-Frederick-Rockville, MD        |               139 |

@@ -1,0 +1,18 @@
+{
+  "id": "M0581AUSM435NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cold-Storage Holdings of Lard for United States",
+  "observation_start": "1915-12-01",
+  "observation_end": "1952-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Pounds of Lard",
+  "units_short": "Mil. Of Pounds Of Lard",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:49:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1915-1952 (2)--Original, 1946-1954 (3)--Original, 1949-1954 (4)--Seasonally Adjusted, 1916-1930. Stocks Are Reported As Of The First Of The Month; Used Here As Representing The Last Day Of The Preceding Month. Lard Includes All Prime Steam, Kettle-Rendered, Neutral, And Other Pure Lards In Public Warehouses And Packing Plants. It Does Not Include Lard Substitutes Or Lard Compounds. No Cold-Storage Reports For Lard Are Available After December 1952 (See The Cold-Storage Report For February 1953, P. 16). Source: U.S. Department Of Agriculture, Agricultural Marketing Service, \"Livestock, Meats, And Wook Market Statistics And Related Data, \" 1939, P. 43 And Later Issues Through 1952 (Since 1946 Called\"Livestock Market News Statistics And Related Data\" ); Data For December 1952 Are From\"Cold-Storage Report, \" February 1953; See Also The Survey Of Current Business, U.S. Department Of Commerce, For Data Beginning December 1939.\n\nThis NBER data series m05081a appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05081a"
+}

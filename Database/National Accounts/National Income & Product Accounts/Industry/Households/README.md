@@ -1,3 +1,83 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 1 |
+| id              | title                                                                                                                                         | observation_start   | observation_end   |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| A193RC1A027NBEA | Gross value added: GDP: Households and institutions                                                                                           | 1929-01-01          | 2021-01-01        |
+| A193RC1Q027SBEA | Gross value added: GDP: Households and institutions                                                                                           | 1947-01-01          | 2021-10-01        |
+| A193RX1A020NBEA | Real gross value added: GDP: Households and institutions                                                                                      | 1929-01-01          | 2021-01-01        |
+| A193RX1Q020SBEA | Real gross value added: GDP: Households and institutions                                                                                      | 1947-01-01          | 2021-10-01        |
+| A1028C1A027NBEA | Gross housing value added: Consumption of fixed capital                                                                                       | 1929-01-01          | 2020-01-01        |
+| A2007C1A027NBEA | Housing output                                                                                                                                | 1929-01-01          | 2020-01-01        |
+| A2007X1A020NBEA | Real housing output                                                                                                                           | 2002-01-01          | 2020-01-01        |
+| A2008C1A027NBEA | Housing output: Nonfarm housing                                                                                                               | 1929-01-01          | 2020-01-01        |
+| A2008X1A020NBEA | Real housing output: Nonfarm housing                                                                                                          | 2002-01-01          | 2020-01-01        |
+| A2009C1A027NBEA | Gross housing value added                                                                                                                     | 1929-01-01          | 2021-01-01        |
+| A2009C1Q027SBEA | Gross housing value added                                                                                                                     | 1947-01-01          | 2021-10-01        |
+| A2009L1A225NBEA | Real Gross Housing Value Added                                                                                                                | 1930-01-01          | 2021-01-01        |
+| A2009L1Q225SBEA | Real Gross Housing Value Added                                                                                                                | 1947-04-01          | 2021-10-01        |
+| A2009X1A020NBEA | Real gross housing value added                                                                                                                | 1929-01-01          | 2021-01-01        |
+| A2009X1Q020SBEA | Real gross housing value added                                                                                                                | 1947-01-01          | 2021-10-01        |
+| A2013C1A027NBEA | Imputed rental of owner-occupied housing                                                                                                      | 1929-01-01          | 2020-01-01        |
+| B499RC1A027NBEA | Gross housing value added: Nonfarm housing                                                                                                    | 1929-01-01          | 2020-01-01        |
+| B499RX1A020NBEA | Real housing output: Gross housing value added: Nonfarm housing                                                                               | 2002-01-01          | 2020-01-01        |
+| B701RC1A027NBEA | Gross value added: GDP: Households                                                                                                            | 1929-01-01          | 2021-01-01        |
+| B701RC1Q027SBEA | Gross value added: GDP: Households                                                                                                            | 1947-01-01          | 2021-10-01        |
+| B701RX1A020NBEA | Real gross value added: GDP: Households                                                                                                       | 1929-01-01          | 2021-01-01        |
+| B701RX1Q020SBEA | Real gross value added: GDP: Households                                                                                                       | 1947-01-01          | 2021-10-01        |
+| B702RC1A027NBEA | Gross value added: GDP: Households and institutions: Nonprofit institutions serving households                                                | 1929-01-01          | 2021-01-01        |
+| B702RC1Q027SBEA | Gross value added: GDP: Households and institutions: Nonprofit institutions serving households                                                | 1947-01-01          | 2021-10-01        |
+| B702RX1A020NBEA | Real gross value added: GDP: Households and institutions: Nonprofit institutions serving households                                           | 1929-01-01          | 2021-01-01        |
+| B702RX1Q020SBEA | Real gross value added: GDP: Households and institutions: Nonprofit institutions serving households                                           | 1947-01-01          | 2021-10-01        |
+| B952RC1A027NBEA | Net housing value added                                                                                                                       | 1929-01-01          | 2020-01-01        |
+| B952RX1A020NBEA | Real housing output: Net housing value added                                                                                                  | 2002-01-01          | 2020-01-01        |
+| B1027C1A027NBEA | Housing output: Intermediate goods and services consumed                                                                                      | 1929-01-01          | 2020-01-01        |
+| B1027X1A020NBEA | Real housing output: Intermediate goods and services consumed                                                                                 | 2002-01-01          | 2020-01-01        |
+| B1031C1A027NBEA | Net housing value added: Taxes on production and imports                                                                                      | 1929-01-01          | 2020-01-01        |
+| B1033C1A027NBEA | Net housing value added: Compensation of employees                                                                                            | 1929-01-01          | 2020-01-01        |
+| B1034C1A027NBEA | Net housing value added: Net operating surplus: Proprietors' income with inventory valuation and capital consumption adjustments              | 1929-01-01          | 2020-01-01        |
+| B1035C1A027NBEA | Net housing value added: Net operating surplus: Rental income of persons with capital consumption adjustment                                  | 1929-01-01          | 2020-01-01        |
+| B1036C1A027NBEA | Net housing value added: Corporate profits with inventory valuation and capital consumption adjustments                                       | 1929-01-01          | 2020-01-01        |
+| B1037C1A027NBEA | Net housing value added: Net operating surplus: Net interest                                                                                  | 1929-01-01          | 2020-01-01        |
+| B1300C1A027NBEA | Gross housing value added: Nonfarm housing: Owner-occupied                                                                                    | 1929-01-01          | 2020-01-01        |
+| B1300X1A020NBEA | Real housing output: Gross housing value added: Nonfarm housing: Owner-occupied                                                               | 2002-01-01          | 2020-01-01        |
+| B1301C1A027NBEA | Gross housing value added: Nonfarm housing: Tenant-occupied                                                                                   | 1929-01-01          | 2020-01-01        |
+| B1301X1A020NBEA | Real housing output: Gross housing value added: Nonfarm housing: Tenant-occupied                                                              | 2002-01-01          | 2020-01-01        |
+| B1302C1A027NBEA | Gross housing value added: Farm housing                                                                                                       | 1929-01-01          | 2020-01-01        |
+| B1302X1A020NBEA | Real housing output: Gross housing value added: Farm housing                                                                                  | 2002-01-01          | 2020-01-01        |
+| DCISRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Civic and social organizations                        | 1959-01-01          | 2021-01-01        |
+| DEDRRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Education                                             | 1959-01-01          | 2021-01-01        |
+| DGIVRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Foundations and grantmaking and giving establishments | 1959-01-01          | 2021-01-01        |
+| DHLRRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Health                                                | 1959-01-01          | 2021-01-01        |
+| DRCRRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Recreation                                            | 1959-01-01          | 2021-01-01        |
+| DRELRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Religious organizations                               | 1959-01-01          | 2021-01-01        |
+| DSASRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Social advocacy establishments                        | 1959-01-01          | 2021-01-01        |
+| DSNRRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Professional advocacy                                 | 1959-01-01          | 2021-01-01        |
+| DSSRRC1A027NBEA | Receipts from sales of goods and services by nonprofit institutions serving households: Social services                                       | 1959-01-01          | 2021-01-01        |
+| W153RC1A027NBEA | Net housing value added: Current surplus of government enterprises                                                                            | 1959-01-01          | 2020-01-01        |
+| W154RC1A027NBEA | Net housing value added: Subsidies                                                                                                            | 1929-01-01          | 2020-01-01        |
+| W165RC1A027NBEA | Net housing value added: Net operating surplus                                                                                                | 1929-01-01          | 2020-01-01        |
+| W166RC1A027NBEA | Net housing value added: Net operating surplus: Current transfer payments                                                                     | 1959-01-01          | 2020-01-01        |
+| W291RC1A027NBEA | Monetary interest paid: Households and nonprofit institutions                                                                                 | 1946-01-01          | 2020-01-01        |
+| W292RC1A027NBEA | Monetary interest paid: Households                                                                                                            | 1946-01-01          | 2020-01-01        |
+| W293RC1A027NBEA | Monetary interest paid: Households: Persons                                                                                                   | 1946-01-01          | 2020-01-01        |
+| W379RC1A027NBEA | Household current transfer receipts: from business (net)                                                                                      | 1992-01-01          | 2020-01-01        |
+| W380RC1A027NBEA | Household income                                                                                                                              | 1992-01-01          | 2020-01-01        |
+| W381RC1A027NBEA | Rental income of households with capital consumption adjustment                                                                               | 1992-01-01          | 2020-01-01        |
+| W382RC1A027NBEA | Household income receipts on assets                                                                                                           | 1992-01-01          | 2020-01-01        |
+| W383RC1A027NBEA | Household interest income                                                                                                                     | 1992-01-01          | 2020-01-01        |
+| W384RC1A027NBEA | Household dividend income                                                                                                                     | 1992-01-01          | 2020-01-01        |
+| W385RC1A027NBEA | Household current transfer receipts                                                                                                           | 1992-01-01          | 2020-01-01        |
+| W386RC1A027NBEA | Household current transfer receipts: from nonprofit institutions                                                                              | 1992-01-01          | 2020-01-01        |
+| W389RC1A027NBEA | Household outlays                                                                                                                             | 1992-01-01          | 2020-01-01        |
+| W391RC1A027NBEA | Household consumption expenditures: Purchases from business and government                                                                    | 1992-01-01          | 2020-01-01        |
+| W394RC1A027NBEA | Household transfer payments                                                                                                                   | 1992-01-01          | 2020-01-01        |
+| W395RC1A027NBEA | Household transfer payments: to government                                                                                                    | 1992-01-01          | 2020-01-01        |
+| W396RC1A027NBEA | Household transfer payments: to the rest of the world (net)                                                                                   | 1992-01-01          | 2020-01-01        |
+| W397RC1A027NBEA | Household transfer payments: to nonprofit institutions                                                                                        | 1992-01-01          | 2020-01-01        |
+| W398RC1A027NBEA | Household saving                                                                                                                              | 1992-01-01          | 2020-01-01        |
+| W478RC1A027NBEA | National income: Households: Taxes on production and imports less subsidies plus business current transfer payments                           | 1948-01-01          | 2020-01-01        |
+| W498RC1A027NBEA | Monetary interest paid: Households: Owner-occupied housing                                                                                    | 1929-01-01          | 2020-01-01        |
+| W503RC1A027NBEA | Net value added: Net domestic product: Households and institutions                                                                            | 1929-01-01          | 2020-01-01        |
+| W503RX1A020NBEA | Real net value added: Net domestic product: Households and institutions                                                                       | 2002-01-01          | 2020-01-01        |
+| W504RC1A027NBEA | Net value added: Net domestic product: Households                                                                                             | 1929-01-01          | 2020-01-01        |
+| W504RX1A020NBEA | Real net value added: Net domestic product: Households                                                                                        | 2002-01-01          | 2020-01-01        |
+| W505RC1A027NBEA | Net value added: Net domestic product: Households and institutions: Nonprofit institutions serving households                                 | 1929-01-01          | 2020-01-01        |
+| W505RX1A020NBEA | Real net value added: Net domestic product: Households and institutions: Nonprofit institutions serving households                            | 2002-01-01          | 2020-01-01        |

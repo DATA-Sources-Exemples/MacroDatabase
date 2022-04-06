@@ -1,0 +1,18 @@
+{
+  "id": "QGMPSAMINUSMP",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Quantity Indexes for Real GDP: Private Industries: Mining: Support Activities for Mining for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2009=100",
+  "units_short": "Index 2009=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-18 08:32:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industries in the Support Activities for Mining NAICS subsector group establishments primarily providing support services, on a contract or fee basis, required for the mining and quarrying of minerals and for the extraction of oil and gas. Establishments performing exploration (except geophysical surveying and mapping) for minerals, on a contract or fee basis, are included in this subsector. Exploration includes traditional prospecting methods, such as taking core samples and making geological observations at prospective sites.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

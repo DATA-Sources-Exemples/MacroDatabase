@@ -1,0 +1,18 @@
+{
+  "id": "T1YFF",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "1-Year Treasury Constant Maturity Minus Federal Funds Rate",
+  "observation_start": "1962-01-02",
+  "observation_end": "2022-04-01",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-04 16:01:19-05",
+  "popularity": 45,
+  "group_popularity": 46,
+  "notes": "Series is calculated as the spread between 1-Year Treasury Constant Maturity (BC_1YEAR) and Effective Federal Funds Rate (https://fred.stlouisfed.org/series/DFF).\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield)."
+}

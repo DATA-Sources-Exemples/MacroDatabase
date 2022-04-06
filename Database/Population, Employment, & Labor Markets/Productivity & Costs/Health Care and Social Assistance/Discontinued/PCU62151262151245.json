@@ -1,0 +1,17 @@
+{
+  "id": "PCU62151262151245",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Producer Price Index by Industry: Diagnostic Imaging Centers: Private Insurance Patients (DISCONTINUED)",
+  "observation_start": "2014-06-01",
+  "observation_end": "2017-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2014=100",
+  "units_short": "Index Jun 2014=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-02-14 08:32:43-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

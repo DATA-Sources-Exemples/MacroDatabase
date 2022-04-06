@@ -1,0 +1,18 @@
+{
+  "id": "M033ACUSM270NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue Per Freight Ton-Mile, Class I Railroads for United States",
+  "observation_start": "1920-01-01",
+  "observation_end": "1956-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Ton-Mile",
+  "units_short": "Cents Per Ton-Mile",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:01:18-05",
+  "popularity": 6,
+  "group_popularity": 7,
+  "notes": "Series Is Presented Here As Twor Variables--(1)--Original Data, 1907-1925 (2)--Original Data, 1920-1956. Data Were Computed By NBER By Dividing Series 03016B (Freight Operating Revenues, Class I, Excluding Switching And Terminal Companies) By Series 03003 (Revenue Ton-Miles, Class I, Excluding Switching And Terminal Companies); Both Series Are Based On The Interstate Commerce Commission Source. Source: NBER Computed Data From Interstate Commerce Commission, \"Revenue Traffic Statistics Of Class I Steam Railways In The United States\".\n\nThis NBER data series m03003ac appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03003ac"
+}

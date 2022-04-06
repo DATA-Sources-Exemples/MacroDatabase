@@ -1,0 +1,18 @@
+{
+  "id": "M14033USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Due from National Banks, Country Districts for United States",
+  "observation_start": "1874-10-01",
+  "observation_end": "1914-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:36:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Were Derived By Adding The Sum Of Three Classifications: Due From National Banks; Due From State Banks; Due From Reserve Agents (Where Itemized Separately). Monthly Coverage Varies From Year To Year. Except For 1874, Which Only Has Figures For October And December, All Years Have Scattered Five Month Coverage. Source: Computed By NBER From Figures In Annual Reports Of The Comptroller Of The Currency.\n\nThis NBER data series m14033 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14033"
+}

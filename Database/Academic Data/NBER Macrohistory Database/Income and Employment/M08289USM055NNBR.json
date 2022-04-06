@@ -1,0 +1,18 @@
+{
+  "id": "M08289USM055NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Average Hourly Earnings, Manufacturing, Nondurable Goods for United States",
+  "observation_start": "1932-01-01",
+  "observation_end": "1956-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hour",
+  "units_short": "$ Per Hour",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:28:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Beginning In 1951, Figures Have Been Rounded To The Nearest Cent, Instead Of The Nearest Mill, As Was Done Before. Source: For 1932-1950, Bureau Of Labor Statistics, \"Employment, Hours, And Earnings\", Mimeographed Release Ls53-2890 (February, 1953); For 1951-1954, May, 1955 Bls Release (Not Numbered); For 1955-1956, Monthly Labor Review.\n\nThis NBER data series m08289 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08289"
+}

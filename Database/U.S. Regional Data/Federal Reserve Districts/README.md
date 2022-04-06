@@ -1,13 +1,14 @@
 | Folder        |   Files / Folders |
 |---------------|-------------------|
-| Cleveland     |                 2 |
-| Kansas City   |                 2 |
-| St. Louis     |                 2 |
-| Boston        |                 0 |
-| Chicago       |                 0 |
-| Minneapolis   |                 0 |
-| Atlanta       |                 2 |
-| San Francisco |                 2 |
-| Dallas        |                 2 |
-| Philadelphia  |                 2 |
-| Richmond      |                 2 |
+| Atlanta       |                 3 |
+| Minneapolis   |                 3 |
+| Richmond      |                 3 |
+| Kansas City   |                 3 |
+| Chicago       |                 3 |
+| Boston        |                 3 |
+| New York      |                 3 |
+| Dallas        |                 3 |
+| Philadelphia  |                 3 |
+| San Francisco |                 3 |
+| St. Louis     |                 3 |
+| Cleveland     |                 3 |

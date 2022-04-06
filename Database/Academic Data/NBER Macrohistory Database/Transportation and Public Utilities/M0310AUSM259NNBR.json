@@ -1,0 +1,18 @@
+{
+  "id": "M0310AUSM259NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Revenue Per Passenger-Mile, Class I Railroads for United States",
+  "observation_start": "1919-03-01",
+  "observation_end": "1952-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents",
+  "units_short": "Cents",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:03:07-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data For April 1938-1954 Omitted The Southern Pacific Company'S Electric Lines, Since Operation Of These Lines Was Transferred To The Interurban Electric Railroad Company. April-December 1938 Figures, Including Southern Pacific Company Electric Lines, Can Be Derived By Adding .01 To Monthly Data Figure. Data For 1920-1954 Exclude Switching And Terminal Companies; Data For 1919 Include Them. On August 26, 1920 Fares Increased 20%. Data Were Computed Per Revenue Passenger. Data Are Subject To Revision After January 1953. Source: Interstate Commerce Commission, Data For 1919: Computed By NBER From Passenger Operating Revenues In \"Operating Revenues And Expenses Of Large Steam Roads, July 1914-December 1919\" And Number Of Passengers Carried One Mile In \"Statistics Of Railways\", 1922, P. Xcv. Data For 1920-1954: \"Revenue Traffic Statistics Of Class I Steam Railways In The United States\".\n\nThis NBER data series m03010a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03010a"
+}

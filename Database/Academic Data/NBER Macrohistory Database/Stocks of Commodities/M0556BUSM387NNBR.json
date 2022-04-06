@@ -1,0 +1,18 @@
+{
+  "id": "M0556BUSM387NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Lubricant Stocks at Refineries for United States",
+  "observation_start": "1921-01-01",
+  "observation_end": "1947-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Barrels (Of 42 Gallons)",
+  "units_short": "Mil. of Barrels (Of 42 Gallons)",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:47:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1917-1921 (2)--Original Data, 1921-1947 (3)--Original, 1947-1955. In June 1923 And Thereafter, California Figures Included Marketers' Stocks. In December 1923, This Amounted To 360,000 Barrels Of The Total Californian Stocks (710,000 Barrels). On The Basis Of This Ratio, The Amount Of California Marketers' Stocks For Each Month, June 1923-192, Was Determined And Subtracted From The U.S. Total. The Series Is Then Overlapped, June 1923 On, With The U.S. Figures Including California Marketers' Stocks. Data Were Cross-Checked Against The Original Source Through 1941; From 1941 On The Data Are Subject To Revision. Source: Data For 1921-May 1923: Data Are From NBER Files; Otherwise Data Are From The U.S. Bureau Of Mines, Data For 1921-1930: Bulletins, No. 280, P. 25: No. 297, P. 56; No. 339, Pp. 58-59; No. 367; Data For 1931-1934: Minerals Yearbook Statistical Appendix; Data For 1935: \"Crude Petroleum Products\"; Data For 1936-1947: Minerals Yearbook\n\nThis NBER data series m05056b appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05056b"
+}

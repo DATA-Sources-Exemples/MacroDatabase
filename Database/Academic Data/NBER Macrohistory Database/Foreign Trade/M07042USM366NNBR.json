@@ -1,0 +1,18 @@
+{
+  "id": "M07042USM366NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Tin Imports for United States",
+  "observation_start": "1867-01-01",
+  "observation_end": "1941-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Long Tons",
+  "units_short": "Long Tons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 14:01:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Commodity Became Dutiable By The Act Of July 14, 1862. Beginning August 1, 1862 A 15 Percent Ad Valorem Tax Was Imposed. 1867-1882 Data Were Computed By NBER From Hundred Weights (Cwts) Of 112 Lbs. To Long Tons By Dividing By 20; From 1883-1933 Converted From Pounds To Long Tons By Dividing By 2,240. 1916-1941 Figures Include Tin Content Of Imported Ore Totalling 2030 And 5092 Long Tons In 1916 Aand 1917, Respectively. Free Of Duty On And After August 1, 1872, By The Act Of June 6, 1872. August, 1872 Figures Are Computed By Adding Free And Dutiable. By Act Of October 1, 1890 A Duty Of Four Cents Per Pound To Take Effect On And After July 1, 1893, Provided That The Products Of The Mines Of The U.S. Shall Not Have Exceeded 5000 Tons In Any One Year Prior To July 1, 1895, In Which Case Cassiterite, Block And Pig Tin Are To Be Admitted Free Of Duty On And After July 1, 1895. Imports For July, 1893 Amounted To Only 322 Pounds. (Act Was Never Carried Out Because Of The Act Of August 27, 1894). As Of August, 1909 The Commodity Was Declared Free Of Duty Provided There Be Imposed A Duty Of Four Cents Per Pound When The Mines Are Producing 1500 Tons Per Year Of Cassiterite And Bar, Block And Pig Tin (By Act Of August 5, 1909). Data For Bars, Etc. Are Given In Pounds. Here They Are Converted To Long Tons By Dividing By 2,240 And Adding In The Tin Content Of Ore Which Is Given Directly In Long Tons. The 1936 And 1938 Supplements To The Survey Of Current Business Erroneously State That Their Figures Include The Tin Content Of The Ore. August And September, 1939 Are Revised Figures. See Survey Of Current Business, April, 1941, P. 18. Source: January, 1869-June, 1875 Data Are From The Monthly Report Of The Chief Of The Bureau Of Statistics; July, 1875-December, 1894 Data Are From The Summary Statement Of Imports And Exports; January-December, 1895 Adat Are From Finance, Commerce, And Navigation Navigation; January, 1896-June, 1898 Data Are From The Monthly Summary Of Of Finance And Commerce; July, 1898-June, 1914 Data Are From The Monthly Summary Of Commerce And Finance; July, 1914-1941 Data Are From The Monthly Summary Of Foreign Commerce.\n\nThis NBER data series m07042 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07042"
+}

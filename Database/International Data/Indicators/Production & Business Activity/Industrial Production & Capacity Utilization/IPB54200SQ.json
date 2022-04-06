@@ -1,0 +1,18 @@
+{
+  "id": "IPB54200SQ",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Industrial Production: Business Supplies",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2017=100",
+  "units_short": "Index 2017=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-17 08:22:10-05",
+  "popularity": 1,
+  "group_popularity": 4,
+  "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nSource Code: IP.B54200.S"
+}

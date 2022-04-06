@@ -1,0 +1,18 @@
+{
+  "id": "M0104CUSM349NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Production of Mineral Fuels for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1956-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1947-1949=100",
+  "units_short": "Index 1947-1949=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:51:52-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1913-1940 (2)--Original Data, 1946-1953 (3)--Original Data, 1947-1956 Data Are Not Entirely Comparable With 1946-1953 Index In Which Coal Had A Weight Of Approximately 1/3 And Crude Petroleum About 2/3; Beginning 1947 Weight Of Coal=32.1%, Crude Petroleum=49.3% And Remainder Assigned To Natural Gas, Natural Gas Liquids And Oil And Gas Well Drilling That Were Not Included In Previous Index. Source: Federal Reserve Board, Federal Reserve Bulletin, December 1953, And Following Monthly Issues.\n\nThis NBER data series m01204c appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01204c"
+}

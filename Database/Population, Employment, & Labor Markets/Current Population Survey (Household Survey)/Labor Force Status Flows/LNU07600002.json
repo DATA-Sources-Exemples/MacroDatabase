@@ -1,0 +1,18 @@
+{
+  "id": "LNU07600002",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Labor Force Flows Not in Labor Force to Unemployed, Women",
+  "observation_start": "1990-02-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:43:29-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series is from the Current Population Survey (Household Survey) conducted by the Bureau of Labor Statistics. Labor force flows show the movements that underlie the net over-the-month changes in employment, unemployment, or not in the labor force."
+}

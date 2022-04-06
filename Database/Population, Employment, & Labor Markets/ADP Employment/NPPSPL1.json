@@ -1,0 +1,18 @@
+{
+  "id": "NPPSPL1",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Nonfarm Private Service - Providing Large Payroll Employment (500 - 999)",
+  "observation_start": "2005-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-30 07:26:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright, 2016, Automatic Data Processing, Inc. (\"ADP\")."
+}

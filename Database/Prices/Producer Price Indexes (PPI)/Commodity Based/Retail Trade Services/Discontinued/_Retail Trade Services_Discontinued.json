@@ -1,8 +1,8 @@
 {
   "WPS581101": {
     "id": "WPS581101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -16,12 +16,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Retail Trade Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Retail Trade Services"
   },
   "WPU581101": {
     "id": "WPU581101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -35,12 +35,12 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Retail Trade Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Retail Trade Services"
   },
   "WPU58110101": {
     "id": "WPU58110101",
-    "realtime_start": "2022-04-04",
-    "realtime_end": "2022-04-04",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
     "title": "Producer Price Index by Commodity for Retail Trade Services: Food and Alcohol Retailing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -54,6 +54,6 @@
     "popularity": 1,
     "group_popularity": 1,
     "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes.\n\nhttps://www.bls.gov/ppi/fdidconcordance.htm",
-    "path": "Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Retail Trade Services"
+    "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Retail Trade Services"
   }
 }

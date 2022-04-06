@@ -1,0 +1,18 @@
+{
+  "id": "Q13004US35620Q156NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Bank Rates on Business Loans for New York, NY",
+  "observation_start": "1948-04-01",
+  "observation_end": "1959-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-20 08:16:15-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1939 (2)--Original Data, 1948-1959. Rates Are Based On Figures For The First Fifteen Days Each Of March, June, September, And December. Beginning In The Fourth Quarter The Coverage Was Changed In Accordance With The Loan Schedule Of The Call Report Of Condition To Exclude Loans To Nonbank Financial Institutions. Exclusive Figure For Third Quarter Coverage Was Given As 5.14. Source: Federal Reserve Bulletin, March 1949, And Following Issues (See Richard Youngdahl, New Statistics Of Interest Rates On Business Loans).\n\nThis NBER data series q13004 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: q13004"
+}

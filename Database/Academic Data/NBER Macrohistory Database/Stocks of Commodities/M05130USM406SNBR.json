@@ -1,0 +1,18 @@
+{
+  "id": "M05130USM406SNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Manufacturing and Trade Inventories Plus Manufacturers' Unfilled Orders, Total for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1968-09-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2020-07-24 14:35:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: Series 05123 (Total Manufacturing And Trade Inventories) Plus U.S. Bureau Of The Census Series M2-1, \"Manufacturers' Shipments, Inventories, And Orders, \" Summary Tables In Revised Series 1947-1952 (Supplement 2) And Revisions For 1947-1963 And 1961-1968; Latest Data Are From Monthly Bulletins, Series M3-1\n\nThis NBER data series m05130 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05130"
+}

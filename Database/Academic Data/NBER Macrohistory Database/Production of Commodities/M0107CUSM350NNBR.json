@@ -1,0 +1,18 @@
+{
+  "id": "M0107CUSM350NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Index of Automobile Production, Passenger Cars for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1967-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-15 15:47:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1913-1942 (2)--Original Data, 1946-1963 (3)--Original Data, 1947-1968. Source: Federal Reserve Board, Data For 1947-1960: Industrial Production, 1957-1959 Base, S-22. Data For 1961-1963: Industrial Production Indexes. Data For 1961-1968: Federal Reserve Bulletin, September 1964; September 1965; And Following Monthly Issues; F.R.B. Release G12.3, Business Indexes.\n\nThis NBER data series m01107c appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01107c"
+}

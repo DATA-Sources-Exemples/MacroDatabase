@@ -1,2 +1,10 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                | title                                                                                                                | observation_start   | observation_end   |
+|-------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| GDPALL51945       | Gross Domestic Product: All Industries in Rockbridge, Buena Vista + Lexington County, VA                             | 2001-01-01          | 2020-01-01        |
+| GDPGOODS51945     | Gross Domestic Product: Private Goods-Producing Industries in Rockbridge, Buena Vista + Lexington County, VA         | 2001-01-01          | 2020-01-01        |
+| GDPGOVT51945      | Gross Domestic Product: Government and Government Enterprises in Rockbridge, Buena Vista + Lexington County, VA      | 2001-01-01          | 2020-01-01        |
+| GDPSERV51945      | Gross Domestic Product: Private Services-Providing Industries in Rockbridge, Buena Vista + Lexington County, VA      | 2001-01-01          | 2020-01-01        |
+| REALGDPALL51945   | Real Gross Domestic Product: All Industries in Rockbridge, Buena Vista + Lexington County, VA                        | 2001-01-01          | 2020-01-01        |
+| REALGDPGOODS51945 | Real Gross Domestic Product: Private Goods-Producing Industries in Rockbridge, Buena Vista + Lexington County, VA    | 2001-01-01          | 2020-01-01        |
+| REALGDPGOVT51945  | Real Gross Domestic Product: Government and Government Enterprises in Rockbridge, Buena Vista + Lexington County, VA | 2001-01-01          | 2020-01-01        |
+| REALGDPSERV51945  | Real Gross Domestic Product: Private Services-Providing Industries in Rockbridge, Buena Vista + Lexington County, VA | 2001-01-01          | 2020-01-01        |

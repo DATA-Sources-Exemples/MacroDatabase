@@ -1,0 +1,17 @@
+{
+  "id": "H0RESPPAAAAAIXCH52NWW",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Assets: Preferred Interests: Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC: Change in Wednesday Level From Year Ago Level (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2012-01-18",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-08-28 09:11:07-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

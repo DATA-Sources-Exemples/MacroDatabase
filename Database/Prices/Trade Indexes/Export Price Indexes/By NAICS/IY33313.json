@@ -1,0 +1,18 @@
+{
+  "id": "IY33313",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Export Price Index (NAICS): Mining and oil and gas field machinery manufacturing",
+  "observation_start": "2005-12-01",
+  "observation_end": "2018-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2005=100",
+  "units_short": "Index 2005=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-01-16 07:51:20-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
+}

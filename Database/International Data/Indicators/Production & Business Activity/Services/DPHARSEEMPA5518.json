@@ -1,0 +1,17 @@
+{
+  "id": "DPHARSEEMPA5518",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Expensed Equipment, Materials, Parts, and Supplies for Data Processing, Hosting, and Related Services, All Establishments, Employer Firms",
+  "observation_start": "2016-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-12-11 15:31:49-06",
+  "popularity": 0,
+  "group_popularity": 0
+}

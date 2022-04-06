@@ -1,0 +1,18 @@
+{
+  "id": "M10048USM144NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Consumer Installment Sales Credit Outstanding, Department Stores and Mail-Order Houses for United States",
+  "observation_start": "1929-01-01",
+  "observation_end": "1946-12-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. Of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 15:16:49-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source: For 1929-1945 Data: Board Of Governors Of The Federal Reserve System, Division Of Research And Statistics, Mimeographed Release R & S-1163, \"Consumer Instalment Sale Credit\", February 1947; For 1946 Data: Federal Reserve Bulletin, March 1947\n\nThis NBER data series m10048 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10048"
+}

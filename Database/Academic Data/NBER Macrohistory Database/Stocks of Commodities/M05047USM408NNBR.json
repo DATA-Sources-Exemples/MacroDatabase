@@ -1,0 +1,18 @@
+{
+  "id": "M05047USM408NNBR",
+  "realtime_start": "2022-04-05",
+  "realtime_end": "2022-04-05",
+  "title": "Cattle Hide Leather, Finished Stocks in All Hands for United States",
+  "observation_start": "1920-12-01",
+  "observation_end": "1943-08-01",
+  "frequency": "Monthly, End of Month",
+  "frequency_short": "M",
+  "units": "Millions of Equivalent Hides",
+  "units_short": "Mil. of Equivalent Hides",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-17 10:48:58-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Include All Finished Leather Held By Tanners, Shoe Manufacturers, Glove Manufacturers, Belting Manufacturers, Etc. Stock Figures Are Reported Currently To The Council By Practically The Entire Industry And Are Adjusted To An Industry Basis, So That They Are Comparable With Census Figures (From Scb 1938 Supplement, P. 194 Note 4 For P. 124). According To The Tanners' Council, 1920-1921 Figures Are Unrevised And The Original Data Was Not Checked By The Council. There Is Some Speculation That The Figure For May 1921 Is Too Large. 1938 Data Were Revised From The Commodities Exchange Incorporated \"Hides\", October 1939. Source: NBER Computed This Variable By Deducting \"In Process\" Stocks From Total\"In Processed And Finished\" Stocks; Total Data For 1920-1921: Direct From The Tanners' Council Of America; In Process Data For 1922-1931: Same Source; Total Data For 1922-1931: Survey Of Current Business, January 1935, P. 19; All Data For 1932-1938: Commodity Exchange Inc, Monthly Statistical Supplements To Daily Market Report, \"Hides, \" January 1939 And Following Issues; All Data For 1939-1940: New York Commodity Exchange, Statistical Supplement To The Weekly Market Report; Data For 1941-1943: Direct From The Tanners' Council Of America\n\nThis NBER data series m05047 appears on the NBER website in Chapter 5 at http://www.nber.org/databases/macrohistory/contents/chapter05.html.\n\nNBER Indicator: m05047"
+}
