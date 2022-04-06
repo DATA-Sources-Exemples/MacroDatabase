@@ -1,4 +1,7 @@
 # Macro Database
+
+**Note: This repository is still a Work In Progress and thus won't work just yet.**
+
 It's one thing to understand companies existing in countries, sectors and industries and another to understand 
 movements within these categories due to macro economics. The former I attempted to solve with the 
 [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) and the MacroDatabase is an attempt to cover the latter. 
