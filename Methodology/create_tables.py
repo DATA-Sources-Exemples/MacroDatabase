@@ -75,7 +75,7 @@ for table_location in [path_str]:
         path_secondary = f"{table_location}/{top_level}"
 
         for secondary_level in os.listdir(path_secondary):
-            if secondary_level in ['.DS_Store', "README.md"]:
+            if secondary_level in ['.DS_Store', "README.md", "ID.json"]:
                 continue
 
             amount_of_files = 0
