@@ -1,10 +1,10 @@
 import json
-import os
-import time
 import multiprocessing as mp
+import os
+import shutil
+import time
 
 import fred
-import shutil
 
 from config import API_KEYS
 

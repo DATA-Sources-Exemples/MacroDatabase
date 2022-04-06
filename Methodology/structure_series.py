@@ -1,5 +1,5 @@
-import os
 import json
+import os
 
 from natsort import natsorted
 
@@ -10,7 +10,6 @@ except FileNotFoundError:
     path_str = "../Database"
 
 children_directories = {}
-
 
 for directory_path, directory_names, _ in os.walk(path_str):
     if directory_path.split("/")[-1] == "Discontinued":

@@ -1,6 +1,6 @@
 import json
-import os
 import multiprocessing as mp
+import os
 
 import requests
 
@@ -27,5 +27,3 @@ if __name__ == "__main__":
     print(f"Starting CPUs..")
     result = pool.map(get_fred_id, fred_ids)
     print(f"Ready!")
-
-

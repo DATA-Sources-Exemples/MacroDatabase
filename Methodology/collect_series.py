@@ -1,11 +1,10 @@
 import json
 import os
+import sys
 import time
 
-from natsort import natsorted
-import sys
-
 import fred
+from natsort import natsorted
 
 DELETE_JSON = True
 

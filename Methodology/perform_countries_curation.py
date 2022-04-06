@@ -1,8 +1,8 @@
 import json
+import os
 import shutil
 
 from tqdm import tqdm
-import os
 
 RESET = True
 
@@ -90,7 +90,6 @@ for country_1 in tqdm(dataset, desc="Collecting country options"):
                         seasonal_adjustment_2 = value_2['seasonal_adjustment']
 
                         similarities[item_1][name][country_2] = value_2
-
 
 # Obtain Academic Data JSON files:
 json_structure = json.load(open(f"{structure_str}/json_structure.json", "r"))

@@ -1,7 +1,19 @@
-import requests
 import json
+
 import pandas as pd
-from __init__ import LIST_OF_COUNTRY_OPTIONS, LIST_OF_STATES_OPTIONS
+import requests
+
+LIST_OF_COUNTRY_OPTIONS = json.loads(
+    requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Curated/Countries/"
+                 "list_of_options.json").text)
+
+LIST_OF_STATES_OPTIONS = json.loads(
+    requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Curated/States/"
+                 "list_of_options.json").text)
+
+STATES = json.loads(
+    requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Structure/"
+                 "states.json").text)
 
 
 def select_country_data(category, parameter, country=None, unit=None, period=None, seasonality=True,
