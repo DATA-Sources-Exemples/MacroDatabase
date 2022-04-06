@@ -6,7 +6,6 @@
 |                                         | House Price Indexes                                          | 729     |
 |                                         | Cryptocurrencies                                             | 8       |
 |                                         | Consumer Price Indexes (CPI and PCE)                         | 340     |
-|                                         | ID.json                                                      | 0       |
 |                                         | Employment Cost Index                                        | 420     |
 |                                         | Producer Price Indexes (PPI)                                 | 5,893   |
 | Academic Data                           | The Effects of the 1930s HOLC "Redlining" Maps               | 23      |
@@ -21,12 +20,10 @@
 |                                         | Banking and Monetary Statistics, 1914-1941                   | 1,501   |
 |                                         | Penn World Table 7.1                                         | 5,754   |
 |                                         | Penn World Table 9.0                                         | 4,588   |
-|                                         | ID.json                                                      | 0       |
 |                                         | New England Textile Industry, 1815-1860                      | 29      |
 |                                         | NBER Macrohistory Database                                   | 2,286   |
 | National Accounts                       | Flow of Funds                                                | 2,404   |
 |                                         | Federal Government Debt                                      | 44      |
-|                                         | ID.json                                                      | 0       |
 |                                         | U.S. Trade & International Transactions                      | 327     |
 |                                         | National Income & Product Accounts                           | 8,961   |
 | Production & Business Activity          | Emissions                                                    | 63      |
@@ -44,7 +41,6 @@
 |                                         | Health Insurance                                             | 8       |
 |                                         | Construction                                                 | 1       |
 |                                         | Business Cycle Expansions & Contractions                     | 298     |
-|                                         | ID.json                                                      | 0       |
 |                                         | Expenditures                                                 | 1,003   |
 |                                         | Services                                                     | 1       |
 |                                         | Real Estate                                                  | 1       |
@@ -55,11 +51,9 @@
 |                                         | Financial Indicators                                         | 262     |
 |                                         | Interest Rates                                               | 1,029   |
 |                                         | Foreign Exchange Intervention                                | 24      |
-|                                         | ID.json                                                      | 0       |
 | International Data                      | Institutions                                                 | 4,858   |
 |                                         | Indicators                                                   | 30,471  |
 |                                         | Countries                                                    | 71,751  |
-|                                         | ID.json                                                      | 0       |
 |                                         | Geography                                                    | 272     |
 | Population, Employment, & Labor Markets | Job Openings and Labor Turnover (JOLTS)                      | 473     |
 |                                         | Minimum Wage                                                 | 54      |
@@ -72,7 +66,6 @@
 |                                         | Current Population Survey (Household Survey)                 | 6,004   |
 |                                         | Income Distribution                                          | 161     |
 |                                         | Productivity & Costs                                         | 4,492   |
-|                                         | ID.json                                                      | 0       |
 |                                         | Labor Market Conditions                                      | 191     |
 | U.S. Regional Data                      | Federal Reserve Districts                                    | 42      |
 |                                         | Freddie Mac Regions                                          | 41      |
@@ -80,4 +73,3 @@
 |                                         | Census Regions                                               | 832     |
 |                                         | States                                                       | 417,381 |
 |                                         | BLS Regions                                                  | 255     |
-|                                         | ID.json                                                      | 0       |
