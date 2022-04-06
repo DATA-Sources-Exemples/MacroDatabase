@@ -1,0 +1,21 @@
+{
+  "Texas": {
+    "id": "FPRODIUAMFRBDAL",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Future Production; Percentage Reporting Increases for Texas",
+    "observation_start": "2004-06-01",
+    "observation_end": "2022-03-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-28 09:38:09-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Future Production reports the likely direction of production for the manufacturing sector over the six months ahead for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports.",
+    "path": "../Database/U.S. Regional Data/States/Texas"
+  }
+}

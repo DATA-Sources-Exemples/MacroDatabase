@@ -1,0 +1,44 @@
+{
+  "Percent_Monthly_Seasonally Adjusted": {
+    "Texas": {
+      "id": "GRODSAMFRBDAL",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Current Growth Rate of Orders; Percentage Reporting Decreases for Texas",
+      "observation_start": "2004-06-01",
+      "observation_end": "2022-03-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Percent",
+      "units_short": "%",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-03-28 09:38:16-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "Current Growth Rate of Orders reports the change in growth rate of orders for the manufacturing sector over the previous month for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports.",
+      "path": "../Database/U.S. Regional Data/States/Texas"
+    }
+  },
+  "Percent_Monthly_Not Seasonally Adjusted": {
+    "Texas": {
+      "id": "GRODUAMFRBDAL",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Current Growth Rate of Orders; Percentage Reporting Decreases for Texas",
+      "observation_start": "2004-06-01",
+      "observation_end": "2022-03-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Percent",
+      "units_short": "%",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-28 09:38:17-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "Current Growth Rate of Orders reports the change in growth rate of orders for the manufacturing sector over the previous month for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports.",
+      "path": "../Database/U.S. Regional Data/States/Texas"
+    }
+  }
+}

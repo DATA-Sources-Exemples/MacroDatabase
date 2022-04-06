@@ -1,0 +1,63 @@
+{
+  "Hours per Week_Monthly_Not Seasonally Adjusted": {
+    "West Virginia": {
+      "id": "SMU54000006000000007",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Average Weekly Hours of Production Employees: Professional and Business Services in West Virginia",
+      "observation_start": "2003-01-01",
+      "observation_end": "2022-02-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Hours per Week",
+      "units_short": "Hours per Week",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-26 03:16:15-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "path": "../Database/U.S. Regional Data/States/West Virginia"
+    }
+  },
+  "Hours per Week_Annual_Not Seasonally Adjusted": {
+    "West Virginia": {
+      "id": "SMU54000006000000007A",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Average Weekly Hours of Production Employees: Professional and Business Services in West Virginia",
+      "observation_start": "2003-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Hours per Week",
+      "units_short": "Hours per Week",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-15 05:21:04-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "path": "../Database/U.S. Regional Data/States/West Virginia"
+    }
+  },
+  "Hours per Week_Monthly_Seasonally Adjusted": {
+    "West Virginia": {
+      "id": "SMU54000006000000007SA",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Average Weekly Hours of Production Employees: Professional and Business Services in West Virginia",
+      "observation_start": "2003-01-01",
+      "observation_end": "2022-02-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Hours per Week",
+      "units_short": "Hours per Week",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-03-26 04:13:53-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU54000006000000007).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
+      "path": "../Database/U.S. Regional Data/States/West Virginia"
+    }
+  }
+}

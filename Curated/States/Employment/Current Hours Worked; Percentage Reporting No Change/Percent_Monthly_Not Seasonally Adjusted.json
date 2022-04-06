@@ -1,0 +1,21 @@
+{
+  "Texas": {
+    "id": "AVGWKNUAMFRBDAL",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Current Hours Worked; Percentage Reporting No Change for Texas",
+    "observation_start": "2004-06-01",
+    "observation_end": "2022-03-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-28 09:37:15-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Current Hours Worked reports the change in hours worked for the manufacturing sector over the previous month for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports.",
+    "path": "../Database/U.S. Regional Data/States/Texas"
+  }
+}
