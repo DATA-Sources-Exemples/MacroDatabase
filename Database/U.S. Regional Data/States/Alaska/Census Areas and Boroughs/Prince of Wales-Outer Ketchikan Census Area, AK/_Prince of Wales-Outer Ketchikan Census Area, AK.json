@@ -1,8 +1,8 @@
 {
   "AKPRIN1POP": {
     "id": "AKPRIN1POP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Resident Population in Prince of Wales-Hyder Census Area, AK",
     "observation_start": "1970-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "AKPRIN1URN": {
     "id": "AKPRIN1URN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Prince of Wales-Outer Ketchikan Census Area, AK",
     "observation_start": "1990-01-01",
     "observation_end": "2009-12-01",
@@ -39,8 +39,8 @@
   },
   "LAUCN022010000000003A": {
     "id": "LAUCN022010000000003A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Prince of Wales-Outer Ketchikan Census Area, AK",
     "observation_start": "1990-01-01",
     "observation_end": "2009-01-01",

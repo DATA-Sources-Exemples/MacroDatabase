@@ -1,3 +1,2 @@
-| id             | title                                                                                          | observation_start   | observation_end   |
-|----------------|------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS20524Q | All-Transactions House Price Index for Dutchess County-Putnam County, NY (MSAD) (DISCONTINUED) | 1982-10-01          | 2018-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

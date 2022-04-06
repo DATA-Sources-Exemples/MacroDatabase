@@ -1,7 +1,7 @@
 {
   "id": "FYGFGDQ188S",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal Debt Held by the Public as Percent of Gross Domestic Product",
   "observation_start": "1970-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-30 08:07:03-05",
-  "popularity": 50,
-  "group_popularity": 50,
+  "popularity": 52,
+  "group_popularity": 52,
   "notes": "Federal Debt Held by the Public as Percent of Gross Domestic Product (FYGFGDQ188S) (https://fred.stlouisfed.org/series/FYGFGDQ188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Debt Held by the Public (FYGFDPUN) (https://fred.stlouisfed.org/series/FYGFDPUN) and Gross Domestic Product, 1 Decimal (GDP) (https://fred.stlouisfed.org/series/GDP):\nFYGFGDQ188S = ((FYGFDPUN/1000)/GDP)*100\nFYGFDPUN/1000 transforms FYGFDPUN from millions of dollars to billions of dollars."
 }

@@ -1,7 +1,7 @@
 {
   "id": "MYAGM1BRM189N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M1 for Brazil",
   "observation_start": "1970-01-01",
   "observation_end": "2017-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:05-05",
-  "popularity": 8,
-  "group_popularity": 20,
+  "popularity": 10,
+  "group_popularity": 24,
   "notes": "M1 comprises currency held by the public, and demand deposits. Demand deposits include deposits of the private sector; of the federal, state, and municipal governments; of the federal, state, and municipal enterprises; and of the financial institutions that are not subject to reserve requirements. M1 also includes domestic currency deposits of nonresidents, travelers' checks issued and not cashed, certified checks with a fixed payment date, payroll checks, and customers' credit balances on loan and financing accounts.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

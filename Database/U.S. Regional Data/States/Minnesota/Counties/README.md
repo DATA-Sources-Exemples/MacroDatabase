@@ -67,7 +67,7 @@
 | Becker County, MN            |                89 |
 | Blue Earth County, MN        |               146 |
 | Fillmore County, MN          |                90 |
-| Sherburne County, MN         |               147 |
+| Sherburne County, MN         |                 2 |
 | Red Lake County, MN          |                88 |
 | Beltrami County, MN          |                90 |
 | Stevens County, MN           |                89 |

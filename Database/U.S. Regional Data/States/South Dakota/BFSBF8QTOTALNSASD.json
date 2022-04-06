@@ -1,0 +1,18 @@
+{
+  "id": "BFSBF8QTOTALNSASD",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Spliced Business Formations Within Eight Quarters: Total for All NAICS in South Dakota",
+  "observation_start": "2005-03-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 11:03:22-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series combines (splices) BFBF8QTOTALNSASD (https://fred.stlouisfed.org/series/BFBF8QTOTALNSASD) and BFPBF8QTOTALNSASD (https://fred.stlouisfed.org/series/BFPBF8QTOTALNSASD) to provide the entire time series for the actual and projected business formations within eight quarters.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

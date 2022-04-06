@@ -1,7 +1,7 @@
 {
   "id": "WPU512101",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Health Care Services: Hospital Inpatient Care",
   "observation_start": "2008-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:58-05",
   "popularity": 4,
-  "group_popularity": 9
+  "group_popularity": 8
 }

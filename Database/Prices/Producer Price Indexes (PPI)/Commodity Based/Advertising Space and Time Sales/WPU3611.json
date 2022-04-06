@@ -1,7 +1,7 @@
 {
   "id": "WPU3611",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Advertising Space and Time Sales: Advertising Space Sales in Periodicals and Newspapers",
   "observation_start": "2009-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:01:21-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

@@ -1,8 +1,8 @@
 {
   "IBANRIAIMM": {
     "id": "IBANRIAIMM",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Myanmar (DISCONTINUED)",
     "observation_start": "1972-04-01",
     "observation_end": "1972-04-01",
@@ -20,8 +20,8 @@
   },
   "IBANRIAOMM": {
     "id": "IBANRIAOMM",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer in Myanmar (DISCONTINUED)",
     "observation_start": "1972-04-01",
     "observation_end": "1987-01-01",
@@ -39,8 +39,8 @@
   },
   "IBANRINIMM": {
     "id": "IBANRINIMM",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer in Myanmar (DISCONTINUED)",
     "observation_start": "1972-04-01",
     "observation_end": "1987-04-01",

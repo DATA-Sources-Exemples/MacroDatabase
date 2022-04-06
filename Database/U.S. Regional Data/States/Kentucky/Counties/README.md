@@ -15,7 +15,7 @@
 | Owen County, KY         |                90 |
 | Rockcastle County, KY   |                88 |
 | Fulton County, KY       |                88 |
-| Marion County, KY       |                90 |
+| Marion County, KY       |                 2 |
 | Wayne County, KY        |                90 |
 | Muhlenberg County, KY   |                90 |
 | Campbell County, KY     |               145 |
@@ -99,7 +99,7 @@
 | Edmonson County, KY     |                88 |
 | Powell County, KY       |                90 |
 | Breckinridge County, KY |                89 |
-| Christian County, KY    |               147 |
+| Christian County, KY    |                 2 |
 | Todd County, KY         |                89 |
 | Hopkins County, KY      |               145 |
 | Hart County, KY         |                89 |

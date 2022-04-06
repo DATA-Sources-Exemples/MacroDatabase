@@ -1,0 +1,18 @@
+{
+  "id": "PSAVERT",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Personal Saving Rate",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-31 07:43:02-05",
+  "popularity": 80,
+  "group_popularity": 80,
+  "notes": "BEA Account Code: A072RC\nPersonal saving as a percentage of disposable personal income (DPI), frequently referred to as \"the personal saving rate,\" is calculated as the ratio of personal saving to DPI.\nPersonal saving is equal to personal income less personal outlays and personal taxes; it may generally be viewed as the portion of personal income that is used either to provide funds to capital markets or to invest in real assets such as residences.(https://www.bea.gov/national/pdf/all-chapters.pdf)\nA Guide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA)."
+}

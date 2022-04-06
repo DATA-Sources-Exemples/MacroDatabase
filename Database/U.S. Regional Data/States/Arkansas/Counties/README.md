@@ -36,7 +36,7 @@
 | Jackson County, AR      |                90 |
 | Faulkner County, AR     |               147 |
 | Logan County, AR        |                89 |
-| Lee County, AR          |                88 |
+| Lee County, AR          |                 2 |
 | Drew County, AR         |                90 |
 | Yell County, AR         |                88 |
 | Izard County, AR        |                89 |

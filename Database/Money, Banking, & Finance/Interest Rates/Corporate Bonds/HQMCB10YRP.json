@@ -1,7 +1,7 @@
 {
   "id": "HQMCB10YRP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "10-Year High Quality Market (HQM) Corporate Bond Par Yield",
   "observation_start": "1984-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 14:48:03-06",
-  "popularity": 50,
-  "group_popularity": 50,
+  "popularity": 51,
+  "group_popularity": 51,
   "notes": "The basic type of selected bond is analogous to conventional Treasury coupon issues: a bond that pays a fixed semiannual nominal coupon denominated in U.S. dollars until maturity, when the principal is returned. The HQM yield curve uses data from a set of high quality corporate bonds rated AAA, AA, or A that accurately represent the high quality corporate bond market. \n\n For more information see https://www.treasury.gov/resource-center/economic-policy/corp-bond-yield/Pages/Corp-Yield-Bond-Curve-Papers.aspx"
 }

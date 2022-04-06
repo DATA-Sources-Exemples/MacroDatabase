@@ -1,7 +1,7 @@
 {
   "id": "WPS0711",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and Ethylene Propylene (DISCONTINUED)",
   "observation_start": "1967-01-01",
   "observation_end": "1989-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:44:57-05",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 8,
+  "group_popularity": 8
 }

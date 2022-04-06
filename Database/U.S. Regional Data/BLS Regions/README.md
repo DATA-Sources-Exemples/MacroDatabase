@@ -2,8 +2,8 @@
 |------------------------------------------------------------|-------------------|
 | Population Size Class D (under 50,000)                     |                 1 |
 | Population Size Class B - C (between 50,000 and 1,500,000) |                 1 |
-| Northeast Urban                                            |                 2 |
-| South Urban                                                |                 3 |
+| Northeast Urban                                            |                 3 |
+| South Urban                                                |                 4 |
 | Population Size Class A (over 1,500,000)                   |                 1 |
-| Midwest Urban                                              |                 3 |
-| West Urban                                                 |                 2 |
+| Midwest Urban                                              |                 4 |
+| West Urban                                                 |                 3 |

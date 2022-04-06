@@ -1,0 +1,18 @@
+{
+  "id": "BFSBF4QTOTALSAPA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Spliced Business Formations Within Four Quarters: Total for All NAICS in Pennsylvania",
+  "observation_start": "2004-07-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-09 11:06:09-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "This series combines (splices) BFBF4QTOTALSAPA (https://fred.stlouisfed.org/series/BFBF4QTOTALSAPA) and BFPBF4QTOTALSAPA (https://fred.stlouisfed.org/series/BFPBF4QTOTALSAPA) to provide the entire time series for the actual and projected business formations within four quarters.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

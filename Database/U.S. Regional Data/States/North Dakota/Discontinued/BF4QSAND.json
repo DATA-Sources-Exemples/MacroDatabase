@@ -1,0 +1,18 @@
+{
+  "id": "BF4QSAND",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Formations Within 4 Quarters for North Dakota (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2015-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2019-07-31 14:18:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BFBF4QTOTALSAND (https://fred.stlouisfed.org/series/BFBF4QTOTALSAND) for an alternative.\n\nThis series provides the number of employer businesses that originate from Business Applications (BA) within four quarters from the quarter of application. By definition, the end-point of this series is determined by the most recent quarter for which the administrative data is available on payroll."
+}

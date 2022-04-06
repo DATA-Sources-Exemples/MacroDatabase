@@ -1,0 +1,18 @@
+{
+  "id": "DUR8QNSANJ",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Average Duration (in Quarters) from Business Application to Formation within 8 Quarters for New Jersey (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2014-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number of Quarters",
+  "units_short": "Number of Quarters",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-07-31 14:18:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BFDUR8QTOTALNSANJ (https://fred.stlouisfed.org/series/BFDUR8QTOTALNSANJ) for an alternative.\n\nA measure of delay between business application and formation, similar to https://fred.stlouisfed.org/series/DUR4QNSANJ. The difference is that the window for business formation is restricted to eight quarters, rather than four. The series span the same period as https://fred.stlouisfed.org/series/BF8QNSANJ."
+}

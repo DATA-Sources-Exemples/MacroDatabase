@@ -1,7 +1,7 @@
 {
   "id": "DED3",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "3-Month Eurodollar Deposit Rate (London) (DISCONTINUED)",
   "observation_start": "1971-01-04",
   "observation_end": "2016-10-07",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-10-11 18:15:41-05",
-  "popularity": 11,
-  "group_popularity": 13,
+  "popularity": 9,
+  "group_popularity": 11,
   "notes": "The Federal Reserve Board has discontinued this series as of October 11, 2016. More information, including possible alternative series, can be found at http://www.federalreserve.gov/feeds/h15.html.\n\nAnnualized using a 360-day year or bank interest. Source: Bloomberg and CTRB ICAP Fixed Income & Money Market Products."
 }

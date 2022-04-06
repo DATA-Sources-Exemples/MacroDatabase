@@ -1,7 +1,7 @@
 {
   "id": "JTS1000LDL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Layoffs and Discharges: Total Private",
   "observation_start": "2000-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-29 09:05:08-05",
   "popularity": 13,
-  "group_popularity": 16
+  "group_popularity": 17
 }

@@ -1,8 +1,8 @@
 {
   "AKSKAG1POP": {
     "id": "AKSKAG1POP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Resident Population in Skagway Municipality, AK",
     "observation_start": "1970-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "AKSKAG1URN": {
     "id": "AKSKAG1URN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Skagway-Hoonah-Angoon Census Area, AK",
     "observation_start": "1990-01-01",
     "observation_end": "2009-12-01",
@@ -39,8 +39,8 @@
   },
   "LAUCN022320000000003A": {
     "id": "LAUCN022320000000003A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Skagway-Hoonah-Angoon Census Area, AK",
     "observation_start": "1990-01-01",
     "observation_end": "2009-01-01",
@@ -58,8 +58,8 @@
   },
   "PCPI02231": {
     "id": "PCPI02231",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Per Capita Personal Income in Skagway-Yakutat-Angoon Census Area, AK",
     "observation_start": "1979-01-01",
     "observation_end": "1992-01-01",
@@ -77,8 +77,8 @@
   },
   "PI02231": {
     "id": "PI02231",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Skagway-Yakutat-Angoon Census Area, AK",
     "observation_start": "1979-01-01",
     "observation_end": "1992-01-01",

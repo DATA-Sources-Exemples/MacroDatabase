@@ -1,8 +1,8 @@
 {
   "A2018C1A027NBEA": {
     "id": "A2018C1A027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Government investment-related imputations (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2011-01-01",
@@ -20,8 +20,8 @@
   },
   "W521RC1A027NBEA": {
     "id": "W521RC1A027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal income: Personal interest income: Excluding imputations (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2011-01-01",
@@ -39,8 +39,8 @@
   },
   "W556RC1A027NBEA": {
     "id": "W556RC1A027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Interest-related imputations: Net interest, domestic: Imputed interest paid by persons (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2011-01-01",
@@ -58,8 +58,8 @@
   },
   "W562RC1A027NBEA": {
     "id": "W562RC1A027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Interest-related imputations: Net interest, domestic: Interest paid by persons (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2011-01-01",

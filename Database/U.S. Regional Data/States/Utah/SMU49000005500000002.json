@@ -1,0 +1,17 @@
+{
+  "id": "SMU49000005500000002",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Average Weekly Hours of All Employees: Financial Activities in Utah",
+  "observation_start": "2007-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Hours per Week",
+  "units_short": "Hours per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-26 03:18:33-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

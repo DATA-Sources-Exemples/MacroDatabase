@@ -1,8 +1,8 @@
 {
   "WPS60": {
     "id": "WPS60",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -19,8 +19,8 @@
   },
   "WPS601": {
     "id": "WPS601",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",
@@ -37,8 +37,8 @@
   },
   "WPS6011": {
     "id": "WPS6011",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Mining Services (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "1992-12-01",

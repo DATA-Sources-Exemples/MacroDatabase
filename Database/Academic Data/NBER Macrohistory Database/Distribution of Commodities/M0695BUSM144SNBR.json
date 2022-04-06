@@ -1,7 +1,7 @@
 {
   "id": "M0695BUSM144SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Sales by Retail Stores, Excluding Food Stores for United States",
   "observation_start": "1946-01-01",
   "observation_end": "1969-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 13:49:08-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Seasonally Adjusted Variables--(1)--1935-1946 (2)--1946-1969. Both Variables May Be Found In Business Cycle Indicators, Volume Ii By G.H. Moore, P. 143, Numbered As Series 20.2. From 1961 On, Estimates Are Based On A New Sample (See Scb, November 1968, P. 21, And May 1969, P. 52). Source: U.S. Department Of Commerce, Data For 1946-1950: Unpublished Seasonally Adjusted Table On \"Sales Of Retail Stores By Kinds Of Business, 1946-1950, New Series\" (Comm.-Dc 7838 And 14336); Revised Seasonal Adjustment For 1953-1963: Bureau Of The Census, Current Retail Trade Reports, Monthly Retail Trade-Adjusted Sales Supplement, Supplement 1, Series Br-63-7, Released September 17, 1963; For 1963-1967: Retail Trade Report Supplement Of March 25, 1969 (Unpublished); For 1968-1969: Monthly Retail Trade Report, January 1969 And Following Issues; Also For 1961-1964: Survey Of Current Business, November 1968, P. 22.\n\nThis NBER data series m06095b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06095b"
 }

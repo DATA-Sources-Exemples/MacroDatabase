@@ -1,7 +1,7 @@
 {
   "id": "NHSUSSP15T19P",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999",
   "observation_start": "2002-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-28 14:37:01-05",
   "popularity": 2,
-  "group_popularity": 10,
+  "group_popularity": 8,
   "notes": "Percents computed from unrounded figures. Components may not add to total because of rounding."
 }

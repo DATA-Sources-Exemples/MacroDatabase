@@ -1,7 +1,7 @@
 {
   "id": "LRSPOP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Resident Population in Little Rock-North Little Rock-Conway, AR (MSA)",
   "observation_start": "1970-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 10:03:03-05",
-  "popularity": 14,
-  "group_popularity": 14,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "All observations are July 1 estimates of each year."
 }

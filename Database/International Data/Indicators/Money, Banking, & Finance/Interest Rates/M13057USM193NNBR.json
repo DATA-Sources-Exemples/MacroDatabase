@@ -1,7 +1,7 @@
 {
   "id": "M13057USM193NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Yields on United States Government Securities, Three to Five Year Issues for United States",
   "observation_start": "1945-01-01",
   "observation_end": "1965-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:35-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Series Covers Only Selected Notes And Bonds. Source: Federal Reserve Bulletin\n\nThis NBER data series m13057 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13057"
 }

@@ -1,7 +1,7 @@
 {
   "id": "RCYPOP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Resident Population in Raleigh, NC (MSA)",
   "observation_start": "2000-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-25 12:46:05-05",
-  "popularity": 25,
-  "group_popularity": 25,
+  "popularity": 24,
+  "group_popularity": 24,
   "notes": "All observations are July 1 estimates of each year."
 }

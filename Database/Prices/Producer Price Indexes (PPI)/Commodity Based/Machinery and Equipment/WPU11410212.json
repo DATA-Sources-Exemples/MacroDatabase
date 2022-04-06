@@ -1,7 +1,7 @@
 {
   "id": "WPU11410212",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Industrial Pumps, Except Hydraulic Fluid Power Pumps",
   "observation_start": "1997-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:02:50-05",
-  "popularity": 5,
-  "group_popularity": 21
+  "popularity": 4,
+  "group_popularity": 22
 }

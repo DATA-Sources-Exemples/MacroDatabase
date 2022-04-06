@@ -1,7 +1,7 @@
 {
   "id": "H8B1027NDMCQG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, Domestically Chartered Commercial Banks",
   "observation_start": "1987-10-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-25 15:35:36-05",
-  "popularity": 2,
-  "group_popularity": 18,
+  "popularity": 4,
+  "group_popularity": 20,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release (http://www.federalreserve.gov/releases/h8)"
 }

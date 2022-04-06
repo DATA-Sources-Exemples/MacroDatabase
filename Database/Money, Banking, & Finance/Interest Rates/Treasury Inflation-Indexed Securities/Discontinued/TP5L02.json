@@ -1,7 +1,7 @@
 {
   "id": "TP5L02",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)",
   "observation_start": "1997-07-01",
   "observation_end": "2002-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2006-06-07 16:00:16-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 5,
   "notes": "Averages of business days. Calculated from data provided by the New York Times. Copyright, 2016, Haver Analytics. Reprinted with permission."
 }

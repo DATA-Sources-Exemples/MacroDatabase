@@ -1,12 +1,12 @@
 | Folder                                             |   Files / Folders |
 |----------------------------------------------------|-------------------|
 | Emissions                                          |                38 |
-| Transportation                                     |                 1 |
+| Transportation                                     |                 2 |
 | Wholesale Trade                                    |                 1 |
 | Patents                                            |               997 |
 | Technology                                         |                 2 |
 | Institute for Supply Management Report on Business |                 2 |
-| Industrial Production & Capacity Utilization       |                 1 |
+| Industrial Production & Capacity Utilization       |                 2 |
 | Housing                                            |                 7 |
 | Finance Companies                                  |               207 |
 | Manufacturing                                      |                 5 |
@@ -15,6 +15,6 @@
 | Health Insurance                                   |                 2 |
 | Construction                                       |                 1 |
 | Business Cycle Expansions & Contractions           |               297 |
-| Expenditures                                       |                 1 |
+| Expenditures                                       |                 2 |
 | Services                                           |                 1 |
 | Real Estate                                        |                 1 |

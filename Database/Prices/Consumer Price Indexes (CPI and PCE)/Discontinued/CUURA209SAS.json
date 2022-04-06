@@ -1,0 +1,17 @@
+{
+  "id": "CUURA209SAS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Consumer Price Index for All Urban Consumers: Services in St. Louis MO-IL (DISCONTINUED)",
+  "observation_start": "1966-12-01",
+  "observation_end": "1997-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982-1984=100",
+  "units_short": "Index 1982-1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-08-30 09:01:25-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

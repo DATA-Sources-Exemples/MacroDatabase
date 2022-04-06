@@ -48,7 +48,7 @@
 | Monroe County, WI                       |                90 |
 | Kewaunee County, WI                     |                90 |
 | Eau Claire County, WI                   |               147 |
-| Polk County, WI                         |                90 |
+| Polk County, WI                         |                 2 |
 | Burnett County, WI                      |                90 |
 | Sheboygan County, WI                    |               147 |
 | Waupaca County, WI                      |                90 |

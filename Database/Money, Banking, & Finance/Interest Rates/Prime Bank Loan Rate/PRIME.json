@@ -1,7 +1,7 @@
 {
   "id": "PRIME",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates",
   "observation_start": "1955-08-04",
   "observation_end": "2022-03-17",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-18 15:33:46-05",
-  "popularity": 67,
-  "group_popularity": 67,
+  "popularity": 68,
+  "group_popularity": 68,
   "notes": "Effective Date.\n\nEarly historical data for this series include the following:\n\n1929 range of 5.5 to 6\n1930 range of 3.5 to 6\n1931 range of 2.75 to 5\n1932 range of 3.25 to 4\n1933 range of 1.5 to 4\n1934 (date uncertain) value of 1.5\n1935 (date uncertain) value of 1.5\n1947-12 (specific date uncertain) value of 1.75\n1948-08 (specific date uncertain) value of 2\n1950-09-22: 2.25\n1951-01-08: 2.5\n1951-10-17: 2.75\n1951-12-19: 3\n1953-04-27: 3.25\n1954-03-17: 3\n\nEFFECTIVE 4/16/73 DUAL PRIME RATE"
 }

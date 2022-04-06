@@ -1,0 +1,17 @@
+{
+  "id": "RPMD",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Domestic Revenue Passenger Miles (RPMs), Scheduled Passenger Flights",
+  "observation_start": "2000-01-01",
+  "observation_end": "2021-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 13:07:49-06",
+  "popularity": 3,
+  "group_popularity": 3
+}

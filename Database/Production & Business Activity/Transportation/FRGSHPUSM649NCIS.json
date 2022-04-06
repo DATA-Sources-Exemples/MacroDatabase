@@ -1,0 +1,18 @@
+{
+  "id": "FRGSHPUSM649NCIS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Cass Freight Index: Shipments",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jan 1990=1",
+  "units_short": "Index Jan 1990=1",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-14 13:48:02-05",
+  "popularity": 62,
+  "group_popularity": 62,
+  "notes": "The Cass Freight Index uses January 1990 as its base month. The index is updated with monthly freight expenditures and shipment volumes from the entire Cass client base. Volumes represent the month in which transactions are processed by Cass, not necessarily the month when the corresponding shipments took place. The January 1990 base point is 1.00. The Index point for each subsequent month represents that month\u2019s volume in relation to the January 1990 baseline.\n\nEach month\u2019s volumes are adjusted to provide an average 21-day work month. Adjustments also are made to compensate for business additions/deletions to the volume figures. These adjustments help normalize the data to provide a sound basis for ongoing monthly comparison.\n\nThe Cass Freight Index and other content (\u201cIndex\u201d) is based upon information that Cass Information Systems, Inc. consider reliable, but Cass does not guarantee the accuracy, timeliness, reliability, continued availability or completeness of any information or underlying assumptions, and Cass shall have no liability for any errors, omissions or interruptions. Any data on past performance contained in the index is no guarantee as to future performance. The Index is not intended to predict actual results, and no assurances are given with respect thereto. Cass makes no warranty, express or implied.\nCopyright, 2016, Cass Information Systems, Inc."
+}

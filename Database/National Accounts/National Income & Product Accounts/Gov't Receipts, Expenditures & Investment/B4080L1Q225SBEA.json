@@ -1,0 +1,18 @@
+{
+  "id": "B4080L1Q225SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real National Defense Consumption Expenditures: Gross Output of General Government: Value Added: Compensation of General Government Employees: Military",
+  "observation_start": "1972-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:56:48-05",
+  "popularity": 8,
+  "group_popularity": 9,
+  "notes": "BEA Account Code: B4080L\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

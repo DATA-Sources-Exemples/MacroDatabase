@@ -1,7 +1,7 @@
 {
   "id": "M0100AUSM349NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Output Per Production Worker Manhour, Manufacturing, Total for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1933-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:48:15-05",
   "popularity": 2,
-  "group_popularity": 12,
+  "group_popularity": 11,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1933 (2)--Original Data, 1932-1951 (3)--Original Data, 1947-1963. Data Were Computed By Dividing Series 08142 (Average Hourly Earnings, 25 Manufacturing Industries) By Series 08283 (Production Worker Cost Per Unit Of Output, Total Manufacturing). Source: Computed By NBER\n\nThis NBER data series m01300a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01300a"
 }

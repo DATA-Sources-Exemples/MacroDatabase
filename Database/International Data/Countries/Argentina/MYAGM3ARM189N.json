@@ -1,7 +1,7 @@
 {
   "id": "MYAGM3ARM189N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M3 for Argentina",
   "observation_start": "1998-01-01",
   "observation_end": "2018-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:11-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "M3 comprises M2, fixed deposits, and other deposits in national and foreign currency of state and local governments, public nonfinancial corporations, private sector, and residents abroad with banking institutions.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

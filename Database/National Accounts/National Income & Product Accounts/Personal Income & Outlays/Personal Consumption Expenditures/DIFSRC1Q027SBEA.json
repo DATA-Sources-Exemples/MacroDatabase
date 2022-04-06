@@ -1,7 +1,7 @@
 {
   "id": "DIFSRC1Q027SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Personal consumption expenditures: Financial services and insurance",
   "observation_start": "1959-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:56:47-05",
-  "popularity": 5,
-  "group_popularity": 6,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "BEA Account Code: DIFSRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

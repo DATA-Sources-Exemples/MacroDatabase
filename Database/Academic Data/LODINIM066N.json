@@ -1,0 +1,18 @@
+{
+  "id": "LODINIM066N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "University of Louisville and Oklahoma State University: LoDI National Index",
+  "observation_start": "2008-05-01",
+  "observation_end": "2021-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-03 09:37:02-05",
+  "popularity": 12,
+  "group_popularity": 12,
+  "notes": "The index value ranges between 1 and 100. A value higher than 50 indicates healthy economic activity.\r\n\r\nThe LoDI Index uses linear regression analysis to combine cargo volume data from rail, barge, air, and truck transit, along with various economic factors. The resulting indicator is designed to predict upcoming changes in the level of logistics and distribution activity in the US and is represented by a value between 1 and 100. An index at or above 50 represents a healthy level of activity in the industry\r\n\r\nThe Greater Louisville and National LoDI Indices were developed by researchers at the University of Louisville. Please contact Dr. Heragu (sunderesh.heragu@okstate.edu), now IE&M Department Head at Oklahoma State University, or Dr. DePuy (depuy@louisville.edu) for additional information."
+}

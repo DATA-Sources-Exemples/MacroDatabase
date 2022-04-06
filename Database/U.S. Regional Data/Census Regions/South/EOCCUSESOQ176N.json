@@ -1,0 +1,18 @@
+{
+  "id": "EOCCUSESOQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the South Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:38-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "If the vacant unit is not for-rent or for-sale-only but is held for weekends or occasional use throughout the year, the unit is included in the category \"for occasional use\". Time-shared units are classified in this category if the vacant unit is not for-rent or for-sale-only, but held for use for an individual during the time of interview."
+}

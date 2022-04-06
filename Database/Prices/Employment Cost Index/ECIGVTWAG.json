@@ -1,7 +1,7 @@
 {
   "id": "ECIGVTWAG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Wages and Salaries: State and Local Government: All Workers",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:11-06",
-  "popularity": 17,
-  "group_popularity": 17
+  "popularity": 18,
+  "group_popularity": 18
 }

@@ -1,7 +1,7 @@
 {
   "id": "W559RC1A027NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross domestic investment, or gross saving and statistical discrepancy: Excluding imputations",
   "observation_start": "1929-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:33:09-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "BEA Account Code: W559RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

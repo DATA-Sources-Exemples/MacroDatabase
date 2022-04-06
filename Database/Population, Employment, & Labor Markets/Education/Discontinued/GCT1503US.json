@@ -1,7 +1,7 @@
 {
   "id": "GCT1503US",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "People 25 Years and Over Who Have Completed an Advanced Degree for the United States (DISCONTINUED)",
   "observation_start": "2006-01-01",
   "observation_end": "2012-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-05-22 18:16:10-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 4,
+  "group_popularity": 4
 }

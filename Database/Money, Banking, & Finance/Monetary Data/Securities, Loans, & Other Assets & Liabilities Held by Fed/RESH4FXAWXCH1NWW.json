@@ -1,7 +1,7 @@
 {
   "id": "RESH4FXAWXCH1NWW",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Change in Week Average from Previous Week Average",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:37:03-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

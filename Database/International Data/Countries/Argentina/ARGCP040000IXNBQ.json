@@ -1,7 +1,7 @@
 {
   "id": "ARGCP040000IXNBQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index: Housing, water, electricity, gas and other fuels (COICOP 04): Total: Total for Argentina",
   "observation_start": "2017-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-18 11:59:08-06",
-  "popularity": 4,
-  "group_popularity": 8,
+  "popularity": 3,
+  "group_popularity": 6,
   "notes": "OECD descriptor ID: CP040000 OECD unit ID: IXNB OECD country ID: ARG All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

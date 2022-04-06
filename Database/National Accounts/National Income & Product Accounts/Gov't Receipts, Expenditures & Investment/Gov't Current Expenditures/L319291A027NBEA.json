@@ -1,7 +1,7 @@
 {
   "id": "L319291A027NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "State and Local government current expenditures: Coverage differences: Unemployment insurance fund benefits paid (NIPA vs. Census)",
   "observation_start": "1959-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-02 11:23:51-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: L319291\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

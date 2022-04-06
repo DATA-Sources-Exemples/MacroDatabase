@@ -1,0 +1,18 @@
+{
+  "id": "INPOP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Resident Population in Indiana",
+  "observation_start": "1900-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-22 12:09:09-06",
+  "popularity": 13,
+  "group_popularity": 13,
+  "notes": "Data for \"Resident Population\" from 1901 to present are July 1 estimates of each year."
+}

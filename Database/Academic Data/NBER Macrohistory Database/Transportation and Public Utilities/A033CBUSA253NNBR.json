@@ -1,7 +1,7 @@
 {
   "id": "A033CBUSA253NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Railroad Revenue Freight Ton-Miles for United States",
   "observation_start": "1916-01-01",
   "observation_end": "1943-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:05:36-05",
-  "popularity": 5,
-  "group_popularity": 14,
+  "popularity": 4,
+  "group_popularity": 11,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1916 (2)--Original Data, 1916-1943. Data Are For Class I, Ii, And Iii Railways. The Year Ends December 31. Source: Interstate Commerce Commission, \"Statistics Of Railways In The United States For 1943, \" P. 150, Published 1945\n\nThis NBER data series a03003cb appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03003cb"
 }

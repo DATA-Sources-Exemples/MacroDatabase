@@ -1,7 +1,7 @@
 {
   "id": "SPDYNIMRTINTZA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Infant Mortality Rate for the United Republic of Tanzania",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-16 16:22:47-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nWorld Bank Source: Estimates developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division) at www.childmortality.org.\n\nSource Indicator: SP.DYN.IMRT.IN"
 }

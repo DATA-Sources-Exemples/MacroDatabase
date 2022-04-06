@@ -1,8 +1,8 @@
 {
   "WPU48": {
     "id": "WPU48",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Selected Security Services (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -19,8 +19,8 @@
   },
   "WPU481": {
     "id": "WPU481",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Selected Security Services (Partial): Security Guard Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -37,8 +37,8 @@
   },
   "WPU4811": {
     "id": "WPU4811",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Selected Security Services (Partial): Security Guard Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -55,8 +55,8 @@
   },
   "WPU481101": {
     "id": "WPU481101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Selected Security Services (Partial): Security Guard Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -73,8 +73,8 @@
   },
   "WPU48110101": {
     "id": "WPU48110101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Selected Security Services (Partial): Security Guard Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",

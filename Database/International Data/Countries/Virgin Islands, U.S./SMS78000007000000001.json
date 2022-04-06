@@ -1,7 +1,7 @@
 {
   "id": "SMS78000007000000001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Leisure and Hospitality in the U.S. Virgin Islands",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-26 04:07:53-05",
-  "popularity": 1,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics."
 }

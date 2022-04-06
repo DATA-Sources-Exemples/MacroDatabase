@@ -1,0 +1,18 @@
+{
+  "id": "CBUSAPPSAWA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Applications from Corporations for Washington (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2020-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-01-14 11:03:07-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BACBATOTALSAWA (https://fred.stlouisfed.org/series/BACBATOTALSAWA) for an alternative.\n\nHigh-Propensity Business Applications (HBA) from a corporation or personal service corporation, based on the legal form of organization stated in the IRS Form SS-4. Similar to the WBA series, this series is important primarily because it consists of a set of applications that have a high rate of transitioning into businesses with payroll."
+}

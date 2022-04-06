@@ -1,0 +1,18 @@
+{
+  "id": "AIRRTMFMD11",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Air Revenue Ton Miles of Freight and Mail",
+  "observation_start": "2000-01-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Ton Miles",
+  "units_short": "Ton Miles",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-09 13:07:23-06",
+  "popularity": 21,
+  "group_popularity": 21,
+  "notes": "Data from all U.S. air carrier domestic and international flights, scheduled and unscheduled service (all service).\n\nThis data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS)."
+}

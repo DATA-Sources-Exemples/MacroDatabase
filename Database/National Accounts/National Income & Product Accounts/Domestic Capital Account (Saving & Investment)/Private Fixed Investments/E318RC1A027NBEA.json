@@ -1,7 +1,7 @@
 {
   "id": "E318RC1A027NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Private fixed investment: Nonresidential: Structures: Mining exploration, shafts, and wells",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:59:04-05",
   "popularity": 2,
-  "group_popularity": 8,
+  "group_popularity": 6,
   "notes": "BEA Account Code: E318RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

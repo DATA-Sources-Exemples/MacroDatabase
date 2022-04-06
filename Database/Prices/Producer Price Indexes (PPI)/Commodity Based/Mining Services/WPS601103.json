@@ -1,7 +1,7 @@
 {
   "id": "WPS601103",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Mining Services: Drilling Oil and Gas Wells Services",
   "observation_start": "1990-01-01",
   "observation_end": "2016-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-11 11:25:26-06",
   "popularity": 3,
-  "group_popularity": 15
+  "group_popularity": 16
 }

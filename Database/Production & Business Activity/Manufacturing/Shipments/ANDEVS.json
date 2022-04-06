@@ -1,7 +1,7 @@
 {
   "id": "ANDEVS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturers' Value of Shipments: Nondefense Capital Goods",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-04 09:04:18-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "This series is a topical regrouping of the separate industry categories. Nondefense capital goods industries include: small arms and ordnance; farm machinery and equipment; construction machinery; mining, oil, and gas field machinery; industrial machinery; vending, laundry, and other machinery; photographic equipment; metalworking machinery; turbines and generators; other power transmission equipment; pumps and compressors; material handling equipment; all other machinery; electronic computers; computer storage devices; other computer peripheral equipment; communications equipment; search and navigation equipment; electromedical, measuring, and control instruments; electrical equipment; other electrical equipment, appliances, and components; heavy duty trucks; aircraft; railroad rolling stock; ships and boats; office and institutional furniture; and medical equipment and supplies."
 }

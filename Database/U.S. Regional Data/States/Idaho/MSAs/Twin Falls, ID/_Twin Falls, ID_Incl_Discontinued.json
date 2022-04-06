@@ -1,8 +1,8 @@
 {
   "LAUMT164630000000003": {
     "id": "LAUMT164630000000003",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2022-01-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-18 17:27:45-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "../Database/U.S. Regional Data/States/Idaho/MSAs/Twin Falls, ID"
   },
   "LAUMT164630000000003A": {
     "id": "LAUMT164630000000003A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2020-01-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-04-16 21:43:20-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 3,
     "path": "../Database/U.S. Regional Data/States/Idaho/MSAs/Twin Falls, ID"
   },
   "LAUMT164630000000004": {
     "id": "LAUMT164630000000004",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployed Persons in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2022-01-01",
@@ -56,8 +56,8 @@
   },
   "LAUMT164630000000004A": {
     "id": "LAUMT164630000000004A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployed Persons in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2020-01-01",
@@ -75,8 +75,8 @@
   },
   "LAUMT164630000000005": {
     "id": "LAUMT164630000000005",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Employed Persons in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2022-01-01",
@@ -94,8 +94,8 @@
   },
   "LAUMT164630000000005A": {
     "id": "LAUMT164630000000005A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Employed Persons in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2020-01-01",
@@ -113,8 +113,8 @@
   },
   "LAUMT164630000000006": {
     "id": "LAUMT164630000000006",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Civilian Labor Force in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2022-01-01",
@@ -132,8 +132,8 @@
   },
   "LAUMT164630000000006A": {
     "id": "LAUMT164630000000006A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Civilian Labor Force in Twin Falls, ID (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2020-01-01",
@@ -151,8 +151,8 @@
   },
   "TWFPOP": {
     "id": "TWFPOP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Resident Population in Twin Falls, ID (MSA)",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",
@@ -163,8 +163,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-25 12:47:18-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "All observations are July 1 estimates of each year.",
     "path": "../Database/U.S. Regional Data/States/Idaho/MSAs/Twin Falls, ID"
   }

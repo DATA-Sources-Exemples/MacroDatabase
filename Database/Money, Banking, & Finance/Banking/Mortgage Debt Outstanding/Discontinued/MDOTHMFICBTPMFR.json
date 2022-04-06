@@ -1,7 +1,7 @@
 {
   "id": "MDOTHMFICBTPMFR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Mortgage Debt Outstanding by Type of Holder and Property: Major Financial Institutions: Commercial Banks for Multifamily Residences (DISCONTINUED)",
   "observation_start": "1949-10-01",
   "observation_end": "2013-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2014-03-07 11:06:07-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's Mortgage Debt Outstanding, http://www.federalreserve.gov/econresdata/releases/mortoutstand/current.htm."
 }

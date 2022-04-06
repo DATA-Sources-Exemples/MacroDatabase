@@ -1,7 +1,7 @@
 {
   "id": "LNU03008396",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Number Unemployed for Less Than 5 Weeks",
   "observation_start": "1948-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 07:47:00-05",
-  "popularity": 5,
-  "group_popularity": 23,
+  "popularity": 4,
+  "group_popularity": 24,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU03008396"
 }

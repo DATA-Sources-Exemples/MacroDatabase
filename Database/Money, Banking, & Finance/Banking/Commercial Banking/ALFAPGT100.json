@@ -1,0 +1,18 @@
+{
+  "id": "ALFAPGT100",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets",
+  "observation_start": "1985-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-23 15:04:22-06",
+  "popularity": 20,
+  "group_popularity": 20,
+  "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
+}

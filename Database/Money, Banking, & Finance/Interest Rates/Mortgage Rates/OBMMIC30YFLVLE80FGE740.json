@@ -1,7 +1,7 @@
 {
   "id": "OBMMIC30YFLVLE80FGE740",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Greater Than 740",
   "observation_start": "2017-01-03",
   "observation_end": "2022-04-04",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-05 07:02:08-05",
-  "popularity": 43,
-  "group_popularity": 43,
+  "popularity": 45,
+  "group_popularity": 45,
   "notes": "Optimal Blue Mortgage Market Indices (https://www2.optimalblue.com/obmmi/)\u2122 (OBMMI\u2122) is calculated from actual locked rates with consumers across over one-third of all mortgage transactions nationwide. OBMMI includes multiple mortgage pricing indices developed around the most popular products and specific borrower and loan level attributes.\n\nEach index is calculated as the average of all appropriate rate locks locked through the Optimal Blue product eligibility and pricing engine on a given day. More details about methodology and definitions are available here (https://www2.optimalblue.com/obmmi/)."
 }

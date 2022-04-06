@@ -1,7 +1,7 @@
 {
   "id": "M01220USM149NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Crude Cottonseed Oil Production for United States",
   "observation_start": "1916-08-01",
   "observation_end": "1955-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:02:04-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "This Series Is A Complete Survey Of Cottonseed Oil Mills. Data Were Computed By The Bureau Of The Census According To The Act Of Congress Of August 7, 1916. Data In The Source Were Cumulative From August 1 To July 31 Of The Following Year. The Data Were Converted By NBER Into Monthly Data. Source: U.S. Bureau Of The Census, \"Cotton Production And Distribution, 135 And Following Issues.; Also, Survey Of Current Business.\n\nThis NBER data series m01220 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01220"
 }

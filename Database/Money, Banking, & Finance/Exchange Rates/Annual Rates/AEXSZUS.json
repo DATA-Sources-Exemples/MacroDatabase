@@ -1,7 +1,7 @@
 {
   "id": "AEXSZUS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Swiss Francs to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1971-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-03 15:36:07-06",
-  "popularity": 12,
-  "group_popularity": 48,
+  "popularity": 14,
+  "group_popularity": 49,
   "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

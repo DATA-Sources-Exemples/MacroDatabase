@@ -1,0 +1,18 @@
+{
+  "id": "PFGSAMFRBDAL",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Current Prices Received for Finished Goods; Diffusion Index for Texas",
+  "observation_start": "2004-06-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "index",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-28 09:38:22-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Current Prices Received for Finished Goods reports the change in prices received for finished goods for the manufacturing sector over the previous month for the state of Texas. Survey responses are used to calculate an index for each indicator. Each index is calculated by subtracting the percentage of respondents reporting a decrease from the percentage reporting an increase. When the share of firms reporting an increase exceeds the share of firms reporting a decrease, the index will be greater than zero, suggesting the indicator has increased over the prior month. If the share of firms reporting a decrease exceeds the share reporting an increase, the index will be below zero, suggesting the indicator has decreased over the prior month. An index will be zero when the number of firms reporting an increase is equal to the number of firms reporting a decrease. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports."
+}

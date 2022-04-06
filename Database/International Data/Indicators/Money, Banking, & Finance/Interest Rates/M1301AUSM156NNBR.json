@@ -1,7 +1,7 @@
 {
   "id": "M1301AUSM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Call Money Rates for United States",
   "observation_start": "1857-01-01",
   "observation_end": "1934-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-05-26 10:50:52-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "Data Are Smoothed By Macaulay'S Forty-Three Term Graduation (See Measuring Business Cycles By Burns And Mitchell, Chapter Eight). Source: F.R. Macaulay, The Movements Of Interest Rates, Bond Yields, And Stock Prices, NBER No. 33, 1938, Table 21, Col. 2.\n\nThis NBER data series m13001a appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13001a"
 }

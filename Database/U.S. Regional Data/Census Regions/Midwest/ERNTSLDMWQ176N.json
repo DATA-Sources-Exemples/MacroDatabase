@@ -1,0 +1,18 @@
+{
+  "id": "ERNTSLDMWQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the Midwest Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:29-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This group consists of year-round vacant units which have been rented or sold but the new renters or owners have not moved in as of the day of interview."
+}

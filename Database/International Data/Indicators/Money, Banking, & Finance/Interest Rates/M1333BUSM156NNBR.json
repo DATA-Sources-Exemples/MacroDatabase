@@ -1,7 +1,7 @@
 {
   "id": "M1333BUSM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Yield on Long-Term United States Bonds for United States",
   "observation_start": "1941-10-01",
   "observation_end": "1967-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:16:43-05",
-  "popularity": 8,
-  "group_popularity": 20,
+  "popularity": 11,
+  "group_popularity": 22,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1919-1944 (2)--Original Data, 1941-1967. Yield Is The Average For Taxable U.S. Bonds, Averages Being Computed On Basis Of The Mean Of Closing Bid And Ask Quotations On The Over-The-Counter-Market In New York City. Data For 1941-March 1952 Refer To Bonds Which Were Neither Due Or Callable For At Least Fifteen Years; Data For April 1952-March 1953, At Least Twelve Years; Data For April 1953-October 1955, From Twelve To Twenty Years; For November 1955-1967, From Ten To Twenty Years. Data For 1958-1962 Were Figured On Averages Of Daily Figures, Therefore Discrepancies May Result When Averages Of Weekly Figures Are Taken. Source: U.S. Treasury Department, Treasury Bulletin Of February 1948, And Following Monthly Issues (See Issues Of Federal Reserve Board Bulletins, May 1945, October 1947, January 1958, P. 84, And Following Monthly Issues.\n\nThis NBER data series m13033b appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13033b"
 }

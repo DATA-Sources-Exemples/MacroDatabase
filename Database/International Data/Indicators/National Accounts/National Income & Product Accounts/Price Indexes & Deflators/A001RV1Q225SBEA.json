@@ -1,7 +1,7 @@
 {
   "id": "A001RV1Q225SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross National Product (chain-type price index)",
   "observation_start": "1947-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:57:54-05",
-  "popularity": 3,
-  "group_popularity": 28,
+  "popularity": 5,
+  "group_popularity": 31,
   "notes": "BEA Account Code: A001RV\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "UMDMUO",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturers' Unfilled Orders: Durable Goods",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-24 07:32:27-05",
-  "popularity": 5,
+  "popularity": 4,
   "group_popularity": 29,
   "notes": "Data on Unfilled Orders for the Semiconductor Industry are not available. Since data is not collected for Nondurable Goods Industries for Unfilled Orders, the Value of Manufacturers' New Orders for All Manufacturing Industries is the same as the Value of Manufacturers' New Orders for Durable Goods Industries."
 }

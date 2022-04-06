@@ -1,7 +1,7 @@
 {
   "id": "SMS42379640000000001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Total Nonfarm in Philadelphia, PA (MD)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-26 04:08:30-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 8,
   "notes": "This series is seasonally adjusted by the U.S. Bureau of Labor Statistics."
 }

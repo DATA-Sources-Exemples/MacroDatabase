@@ -1,0 +1,18 @@
+{
+  "id": "BFBF4QTOTALNSAWI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Formations Within Four Quarters: Total for All NAICS in Wisconsin",
+  "observation_start": "2004-07-01",
+  "observation_end": "2018-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-10 11:07:40-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "This series provides the number of employer businesses that originate from Business Applications (BA) within four quarters from the quarter of application. By definition, the end-point of this series is determined by the most recent quarter for which the administrative data on payroll is available.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

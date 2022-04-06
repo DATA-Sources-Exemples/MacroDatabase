@@ -1,7 +1,7 @@
 {
   "id": "M1204CUSM363SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Industrial Production and Trade for United States",
   "observation_start": "1917-01-01",
   "observation_end": "1952-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 15:31:10-05",
   "popularity": 10,
-  "group_popularity": 14,
+  "group_popularity": 15,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1875-1915 (2)--Seasonally Adjusted Data, 1915-1919 (3)--Seasonally Adjusted Data, 1916-1961. Beginning With December 1959, The Data Are Open To Revision. 1916-1918 Data Were Computed By NBER By Lowering Figures From The Previous Segment Of This Series To The Level Of This Segment By The Ratio Of 0.962 Of The Overlap Period, 1919. After October 1961, The Data Were No Longer Published On A Monthly Basis. A Weekly Index Shown In Barron'S Is Not Comparable. Source: 1916-1918 Data Were Computed By NBER (See Note Below); 1919-1940 Data Are From Edwin Frichey, Barron'S Index Of Business Since 1899 (New York, Barron'S Publishing Company, 1943);1941-1945 Data Are From Barron'S December 13, 1943 Issue And Following Issues; 1946 Data Were Obtained Direct From Barron'S; Thereafter Data Furnished By Weekly Issues Of Barron'S National Business And Financial Weekly. Small Revisions From 1949 Obtained Directly From Barron'S (Boston, Massachusetts), June 1956.\n\nThis NBER data series m12004c appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12004c"
 }

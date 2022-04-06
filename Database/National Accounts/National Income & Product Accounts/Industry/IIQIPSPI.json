@@ -1,0 +1,18 @@
+{
+  "id": "IIQIPSPI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Intermediate Inputs by Industry: Private Services-Producing Industries (Chain-Type Quantity Index)",
+  "observation_start": "2005-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change",
+  "units_short": "% Chg.",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:35:03-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Consists of utilities; wholesale trade; retail trade; transportation and warehousing; information; finance, insurance, real estate, rental, and leasing; professional and business services; educational services, health care, and social assistance; arts, entertainment, recreation, accommodation, and food services; and other services, except government.\nIntermediate inputs refer to the value of both foreign and domestically produced goods and services which are used as energy, materials, and purchased services as part of an industry's production process."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "CUURA426SA0",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Consumer Price Index for All Urban Consumers: All Items in Honolulu, HI (MSA) (DISCONTINUED)",
+  "observation_start": "1963-12-01",
+  "observation_end": "1986-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1982-1984=100",
+  "units_short": "Index 1982-1984=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-08-08 16:06:06-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

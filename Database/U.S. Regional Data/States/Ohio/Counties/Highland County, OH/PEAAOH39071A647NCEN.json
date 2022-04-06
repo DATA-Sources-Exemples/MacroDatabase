@@ -1,7 +1,7 @@
 {
   "id": "PEAAOH39071A647NCEN",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Estimate of People of All Ages in Poverty in Highland County, OH",
   "observation_start": "1989-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-16 11:07:32-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "For further information about this series go to https://www.census.gov/programs-surveys/saipe/about.html."
 }

@@ -1,7 +1,7 @@
 {
   "id": "M1603AUSM357SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Composite Index of Six Roughly Coincident Series, Amplitude-Adjusted, Unweighted for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-20 09:31:02-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1919-1940 (2)--Seasonally Adjusted Data, 1948-1966. This Index Covers Employment In Nonagricultural Establishments, Total Unemployment Rate (Inverted), Index Of Industrial Production, Bank Debits Outside New York City, Personal Income, And Total Retail Sales. Source: U.S. Bureau Of The Census, Economic Research And Analysis Division\n\nThis NBER data series m16003a appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16003a"
 }

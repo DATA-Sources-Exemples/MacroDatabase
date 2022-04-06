@@ -1,7 +1,7 @@
 {
   "id": "COMPUTNSA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Privately-Owned Housing Units Completed: Total Units",
   "observation_start": "1968-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 07:31:17-05",
-  "popularity": 25,
-  "group_popularity": 57
+  "popularity": 27,
+  "group_popularity": 58
 }

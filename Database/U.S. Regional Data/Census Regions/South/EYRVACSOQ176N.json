@@ -1,0 +1,18 @@
+{
+  "id": "EYRVACSOQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Year-Round Vacant Housing Units in the South Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:21-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Beginning in 1990, year-round vacant mobile homes were included as part of the year-round vacant count of housing units. Year-round units are those intended for occupancy at any time of the year, even though they may not be in use the year round. In resort areas, a housing unit which is usually occupied on a year-round basis is considered a year-round unit. As indicated above, year-round units temporarily occupied by persons with usual residence elsewhere are included with year-round vacant units."
+}

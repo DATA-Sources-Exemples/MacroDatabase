@@ -1,7 +1,7 @@
 {
   "id": "RAGTCFFB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Resources and Assets: Gold in Transit or in Custody from Foreign Banks and Gold Held Abroad",
   "observation_start": "1919-08-08",
   "observation_end": "1934-01-24",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-02-10 17:19:16-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Data before Wednesday, April 27, 1921 represent weekly values as of Friday.\n\nAuthors: Cecilia Bao, Justin Chen, Nicholas Fries, Andrew Gibson, Emma Paine, and Kurt Schuler\nStudies in Applied Economics no. 115, Johns Hopkins University Institute for Applied Economics, Global Health, and the Study of Business Enterprise, July 2018; co-published with the Center for Financial Stability"
 }

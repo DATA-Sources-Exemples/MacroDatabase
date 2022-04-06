@@ -1,7 +1,7 @@
 {
   "id": "M3NS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M3 (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2006-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2006-10-24 14:37:41-05",
   "popularity": 6,
-  "group_popularity": 24,
+  "group_popularity": 27,
   "notes": "For details, please see http://www.federalreserve.gov/releases/h6/hist/.\nOn March 23, 2006, the Board of Governors of the Federal Reserve System ceased publication of the M3 monetary aggregate and its components. For more information, please refer to http://www.federalreserve.gov/releases/h6/discm3.htm."
 }

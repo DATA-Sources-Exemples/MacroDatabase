@@ -1,7 +1,7 @@
 {
   "id": "WPU13990101",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Industrial Glass Sand",
   "observation_start": "1982-06-01",
   "observation_end": "2018-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-12 08:01:24-05",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 5,
+  "group_popularity": 5
 }

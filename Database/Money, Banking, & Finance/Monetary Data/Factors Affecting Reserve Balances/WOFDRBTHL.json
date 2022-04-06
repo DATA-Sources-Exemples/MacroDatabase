@@ -1,7 +1,7 @@
 {
   "id": "WOFDRBTHL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liabilities and Capital: Other Factors Draining Reserve Balances: Treasury Cash Holdings: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:33:18-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Treasury cash holdings include paper currency and coin held in Treasury vaults, including silver bullion, silver dollars, coinage metal, and unmonetized gold. The value of Treasury cash holdings is estimated using Treasury data."
 }

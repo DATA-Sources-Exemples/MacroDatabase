@@ -1,7 +1,7 @@
 {
   "id": "M03024GBM583NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Tonnage Cleared, British and Foreign for Great Britain",
   "observation_start": "1846-01-01",
   "observation_end": "1939-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:03:23-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Since January 1912, Vessels Landing Or Embarking Bullion, Spice, Or Mails Only, Are Included In Returns As Vessels With Cargoes. They Were Previously Considered Vessels In Ballast. Data Exclude The Irish Free State From April 1923 On. Source: Board Of Trade, Statistical Office, \"Accounts Relating To Trade And Navigation\".\n\nThis NBER data series m03024 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03024"
 }

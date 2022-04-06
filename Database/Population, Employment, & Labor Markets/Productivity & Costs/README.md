@@ -12,7 +12,7 @@
 | Real Estate and Rental and Leasing                                       |                51 |
 | Arts, Entertainment, and Recreation                                      |               322 |
 | Mining                                                                   |                29 |
-| Manufacturing                                                            |                 2 |
+| Manufacturing                                                            |                 3 |
 | Utilities                                                                |                11 |
 | Nonfarm Business                                                         |              1002 |
 | Retail Trade                                                             |                55 |

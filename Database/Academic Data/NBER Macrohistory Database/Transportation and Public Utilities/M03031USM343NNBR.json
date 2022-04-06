@@ -1,7 +1,7 @@
 {
   "id": "M03031USM343NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Freight Car loadings, Miscellaneous for United States",
   "observation_start": "1920-07-01",
   "observation_end": "1953-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:05:24-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Are Based On Average Carloadings Per Working Day. Source: Data For 1920-1953: Federal Reserve Board, Bulletins For June 1941 And Thereafter\n\nThis NBER data series m03031 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03031"
 }

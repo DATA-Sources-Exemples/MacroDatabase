@@ -1,8 +1,8 @@
 {
   "CUUSA425SA0L1ES": {
     "id": "CUUSA425SA0L1ES",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "2017-07-01",
@@ -20,8 +20,8 @@
   },
   "CUUSA425SA0S": {
     "id": "CUUSA425SA0S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Consumer Price Index for All Urban Consumers: All Items in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "2017-07-01",
@@ -33,14 +33,14 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2018-01-12 09:11:23-06",
     "popularity": 1,
-    "group_popularity": 7,
+    "group_popularity": 6,
     "notes": "This series was discontinued as a result of the introduction of a new geographic area sample for the Consumer Price Index. Information on the geographic revision is available at https://www.bls.gov/cpi/additional-resources/geographic-revision-2018.htm.",
     "path": "../Database/U.S. Regional Data/States/Oregon/CPI for MSAs and Consolidated MSAs/Portland-Salem, OR-WA (CMSA)"
   },
   "CUUSA425SAC": {
     "id": "CUUSA425SAC",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Consumer Price Index for All Urban Consumers: Commodities in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "2017-01-01",
@@ -58,8 +58,8 @@
   },
   "CUUSA425SACS": {
     "id": "CUUSA425SACS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Consumer Price Index for All Urban Consumers: Commodities in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "2017-07-01",
@@ -77,8 +77,8 @@
   },
   "CUUSA425SASS": {
     "id": "CUUSA425SASS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Consumer Price Index for All Urban Consumers: Services in Portland-Salem, OR-WA (CMSA) (DISCONTINUED)",
     "observation_start": "1984-01-01",
     "observation_end": "2017-07-01",

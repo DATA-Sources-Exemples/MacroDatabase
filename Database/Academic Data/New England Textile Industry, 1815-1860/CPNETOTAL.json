@@ -1,7 +1,7 @@
 {
   "id": "CPNETOTAL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Cotton Production by Mills in New England",
   "observation_start": "1815-01-01",
   "observation_end": "1860-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-11-01 13:44:00-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "Data were gathered by the authors from various textile collections deposited at various museums and libraries on the East Coast, and collected from the original business records of textile mills in New England wherever possible. Preference was given to records that were complete and continuous for long periods, and reasonably intelligible.\n\nReporting techniques differed greatly from mill to mill. To make the data comparable, each mill's output was allocated uniformly over the months covered by the accounting period. The monthly figures were then summed to calendar years. The total cotton production for the region is estimated by adding the production of each individual mill with data available for the given period.\n\nMore details about the data are available in the book chapter \"The New England Textile Industry, 1825-60: Trends and Fluctuations\" (https://www.nber.org/chapters/c1569.pdf)."
 }

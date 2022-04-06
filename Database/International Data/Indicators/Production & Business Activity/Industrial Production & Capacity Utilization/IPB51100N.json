@@ -1,7 +1,7 @@
 {
   "id": "IPB51100N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Durable Consumer Goods",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 08:19:33-05",
-  "popularity": 7,
-  "group_popularity": 30,
+  "popularity": 5,
+  "group_popularity": 28,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nSource Code: IP.B51100.N"
 }

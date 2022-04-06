@@ -1,7 +1,7 @@
 {
   "id": "WRBWFRBL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:02-05",
-  "popularity": 38,
-  "group_popularity": 38,
+  "popularity": 41,
+  "group_popularity": 41,
   "notes": "Reserve balances with Federal Reserve Banks are the difference between \"total factors supplying reserve funds\" and \"total factors, other than reserve balances, absorbing reserve funds.\" This item includes balances at the Federal Reserve of all depository institutions that are used to satisfy reserve requirements and balances held in excess of balance requirements. It excludes reserves held in the form of cash in bank vaults, and excludes service-related deposits."
 }

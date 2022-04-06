@@ -1,7 +1,7 @@
 {
   "id": "WPU06790904",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Salt, Evaporated and Solar",
   "observation_start": "1985-06-01",
   "observation_end": "2017-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-11-14 15:31:02-06",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 7,
+  "group_popularity": 7
 }

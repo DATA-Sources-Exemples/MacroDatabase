@@ -1,18 +1,18 @@
 {
   "id": "DFII5",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Inflation-Indexed",
   "observation_start": "2003-01-02",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-04-04",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-04 15:19:06-05",
+  "last_updated": "2022-04-05 15:18:10-05",
   "popularity": 70,
-  "group_popularity": 70,
+  "group_popularity": 71,
   "notes": "For further information regarding treasury constant maturity data, please refer to http://www.federalreserve.gov/releases/h15/current/h15.pdf and http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx."
 }

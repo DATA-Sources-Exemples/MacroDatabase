@@ -1,7 +1,7 @@
 {
   "id": "RETEQTZAM163N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Return on Equity for South Africa",
   "observation_start": "2008-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-08 13:24:03-06",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "This series is calculated by dividing net income before extraordinary items and taxes by the average value of capital over the same period. Capital is measured as total capital and reserves as reported in the sectoral balance sheet; for cross-border consolidated data, Tier 1 capital can also be used. This series is a bank profitability indicator and is intended to measure deposit takers efficiency in using their capital.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

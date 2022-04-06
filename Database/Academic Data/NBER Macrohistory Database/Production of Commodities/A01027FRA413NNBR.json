@@ -1,7 +1,7 @@
 {
   "id": "A01027FRA413NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Wine Production for France",
   "observation_start": "1830-01-01",
   "observation_end": "1938-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:05:08-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Data Exclude Corsica Throughout. Statistique Agricole Annuelle Data Include Corsica Beginning In 1908. Alsace-Lorraine Is Not Included From 1871-1919. Only Non-Invaded Territory Is Included From 1914-1918. A Hectolitre Is 26.418 Gallons. NBER Resolved Contradictions In Some Of The Sources. Data Are For Crop Seasons Which Run From October 1 Through September 30. Source: Annuaire Statistique, 1932, Pp.55-56, 158-159; 1937, Pp.62-63; 1939, P.63.\n\nThis NBER data series a01027 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01027"
 }

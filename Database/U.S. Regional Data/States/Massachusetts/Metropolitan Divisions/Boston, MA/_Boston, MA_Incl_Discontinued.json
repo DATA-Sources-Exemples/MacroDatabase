@@ -1,8 +1,8 @@
 {
   "ATNHPIUS14454Q": {
     "id": "ATNHPIUS14454Q",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All-Transactions House Price Index for Boston, MA (MSAD)",
     "observation_start": "1977-07-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "ATNHPIUS14484Q": {
     "id": "ATNHPIUS14484Q",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All-Transactions House Price Index for Boston-Quincy, MA (MSAD) (DISCONTINUED)",
     "observation_start": "1977-10-01",
     "observation_end": "2013-01-01",
@@ -32,8 +32,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2013-05-23 10:48:36-05",
-    "popularity": 12,
-    "group_popularity": 12,
+    "popularity": 13,
+    "group_popularity": 13,
     "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million.\n\nThis series was discontinued because the source uses revised Metropolitan Statistical Areas (MSAs) as announced by the Office of Management and Budget (OMB) on February 28, 2013.",
     "path": "../Database/U.S. Regional Data/States/Massachusetts/Metropolitan Divisions/Boston, MA"
   }

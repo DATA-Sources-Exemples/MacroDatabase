@@ -1,7 +1,7 @@
 {
   "id": "M13017FR00PARM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Discount Rate, Open Market for Paris, France",
   "observation_start": "1863-01-01",
   "observation_end": "1939-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:22-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Data For 1863-1888 And 1909-1914 Were Computed By NBER On The Number Of Fridays In Each Month; 1889-February 1905 On The Number Of Thursdays; March 1905-1908 On The Number Of Saturdays. Data For November 1870-July 1871 Were Unavailable Because Of The Franco-Prussian War. Data For August 1870, And February, July, And August Of 1872 Are Based On Three Weeks Only. Data For October 1870, December 1871, And January 1872 Are Based On Two Weeks. The Figure For August 1871 Is Based On One Week Only. Data For 1934-1939 Are For \"Prime Banker'S Acceptances\". Source: Data For 1863-1888 And 1909-1914: Computed By NBER From Weekly Data In The Economist. Data For 1889-1908: National Monetary Commission, \"Statistics For Great Britain, Germany, And France, 1867-1909\", Vol. 21, Pp. 315-316. Data For 1925-1939: Annual Reports Of The Federal Reserve Board, 1926, P. 218 And Following.\n\nThis NBER data series m13017 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13017"
 }

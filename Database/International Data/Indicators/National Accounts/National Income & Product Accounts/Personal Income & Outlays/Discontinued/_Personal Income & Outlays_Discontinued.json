@@ -1,8 +1,8 @@
 {
   "NANIPI01USA189S": {
     "id": "NANIPI01USA189S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Constant Prices for the United States (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2014-01-01",
@@ -20,8 +20,8 @@
   },
   "NANIPI01USM189S": {
     "id": "NANIPI01USM189S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Constant Prices for the United States (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2015-10-01",
@@ -39,8 +39,8 @@
   },
   "NANIPI01USQ189S": {
     "id": "NANIPI01USQ189S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Constant Prices for the United States (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2015-07-01",
@@ -58,8 +58,8 @@
   },
   "NANIPI02USA189S": {
     "id": "NANIPI02USA189S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Current Prices for the United States (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2014-01-01",
@@ -77,8 +77,8 @@
   },
   "NANIPI02USM189S": {
     "id": "NANIPI02USM189S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Current Prices for the United States (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2015-10-01",
@@ -96,8 +96,8 @@
   },
   "NANIPI02USQ189S": {
     "id": "NANIPI02USQ189S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Current Prices for the United States (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2015-07-01",

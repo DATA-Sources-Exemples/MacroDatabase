@@ -1,7 +1,5 @@
-| Folder          |   Files / Folders |
-|-----------------|-------------------|
-| Eastern Africa  |                 2 |
-| Southern Africa |                 4 |
-| Northern Africa |                 2 |
-| Middle Africa   |                 2 |
-| Western Africa  |                 2 |
+| id      | title                                              | observation_start   | observation_end   |
+|---------|----------------------------------------------------|---------------------|-------------------|
+| EXP0013 | U.S. Exports of Goods by F.A.S. Basis to Africa    | 1997-01-01          | 2022-02-01        |
+| 32963   | nan                                                | nan                 | nan               |
+| IMP0013 | U.S. Imports of Goods by Customs Basis from Africa | 1997-01-01          | 2022-02-01        |

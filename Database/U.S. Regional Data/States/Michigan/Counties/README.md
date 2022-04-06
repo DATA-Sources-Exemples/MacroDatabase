@@ -44,7 +44,7 @@
 | Oscoda County, MI         |                90 |
 | Alger County, MI          |                89 |
 | Chippewa County, MI       |                90 |
-| Crawford County, MI       |                90 |
+| Crawford County, MI       |                 2 |
 | Barry County, MI          |               146 |
 | Gratiot County, MI        |                90 |
 | Genesee County, MI        |               147 |

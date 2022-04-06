@@ -1,7 +1,7 @@
 {
   "id": "DMINRG3A086NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Personal consumption expenditures: Net health insurance: Medical care and hospitalization (chain-type price index)",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:54:29-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "BEA Account Code: DMINRG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

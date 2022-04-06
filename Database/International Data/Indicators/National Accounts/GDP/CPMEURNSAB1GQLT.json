@@ -1,7 +1,7 @@
 {
   "id": "CPMEURNSAB1GQLT",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Domestic Product (Euro/ECU series) for Lithuania",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-08 04:02:53-06",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "Eurostat unit ID: CP_MEUR\nEurostat item ID = B1GQ\nEurostat country ID: LT\n\nEuro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements.\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016.Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

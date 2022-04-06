@@ -1,0 +1,18 @@
+{
+  "id": "IPUZNU131240000",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Hourly Compensation for Private Nonfarm in Maryland",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 23:33:20-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Hourly compensation is the sum of wage and salary accruals and supplements to wages and salaries per hour of labor services used to produce output. Wage and salary accruals consist of the monetary remuneration of employees. Supplements to wages and salaries consist of employer contributions for social insurance and employer payments (including payments in kind) to private pension and profit-sharing plans, group health and life insurance plans, privately administered workers' compensation plans."
+}

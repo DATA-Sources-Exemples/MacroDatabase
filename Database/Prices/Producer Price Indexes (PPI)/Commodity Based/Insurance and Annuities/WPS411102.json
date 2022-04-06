@@ -1,7 +1,7 @@
 {
   "id": "WPS411102",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Insurance and Annuities: Disability Insurance, Including Accidental Death",
   "observation_start": "2009-03-01",
   "observation_end": "2011-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2017-02-14 09:57:14-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

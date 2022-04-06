@@ -1,7 +1,7 @@
 {
   "id": "JPNIMPORTQDSNAQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Imports of Goods and Services in Japan",
   "observation_start": "1994-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 07:03:08-05",
-  "popularity": 3,
+  "popularity": 5,
   "group_popularity": 14,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), OECD National Accounts Statistics, http://dx.doi.org/10.1787/na-data-en, (accessed on date)"
 }

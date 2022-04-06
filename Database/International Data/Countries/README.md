@@ -44,7 +44,7 @@
 | British Indian Ocean Territory                       |                52 |
 | Nepal                                                |               223 |
 | South Sudan                                          |               137 |
-| Georgia                                              |               954 |
+| Georgia                                              |                 2 |
 | Bermuda                                              |               143 |
 | Guatemala                                            |               237 |
 | Cocos (Keeling) Islands                              |                44 |
@@ -99,7 +99,7 @@
 | Heard Island and McDonald Islands                    |                31 |
 | Latvia                                               |               983 |
 | Congo, Democratic Republic of the                    |               192 |
-| United Kingdom                                       |               828 |
+| United Kingdom                                       |                 2 |
 | Qatar                                                |               259 |
 | Germany                                              |               816 |
 | Iran, Islamic Republic of                            |               208 |
@@ -157,7 +157,7 @@
 | United Arab Emirates                                 |               246 |
 | Kyrgyz Republic                                      |               210 |
 | Uganda                                               |               284 |
-| Puerto Rico                                          |               370 |
+| Puerto Rico                                          |                 2 |
 | Nauru                                                |                58 |
 | Tanzania, United Republic of                         |               236 |
 | Chad                                                 |               218 |
@@ -228,7 +228,7 @@
 | Burkina Faso                                         |               207 |
 | Cayman Islands                                       |               141 |
 | El Salvador                                          |               242 |
-| Djibouti                                             |               188 |
+| Djibouti                                             |                 2 |
 | Armenia                                              |               242 |
 | Barbados                                             |               215 |
 | Turks and Caicos Islands                             |               108 |

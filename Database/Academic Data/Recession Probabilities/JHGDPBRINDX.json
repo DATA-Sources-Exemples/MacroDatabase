@@ -1,7 +1,7 @@
 {
   "id": "JHGDPBRINDX",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "GDP-Based Recession Indicator Index",
   "observation_start": "1967-10-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 19:01:02-06",
-  "popularity": 53,
-  "group_popularity": 53,
+  "popularity": 54,
+  "group_popularity": 54,
   "notes": "This index measures the probability that the U.S. economy was in a recession during the indicated quarter. It is based on a mathematical description of the way that recessions differ from expansions. The index corresponds to the probability (measured in percent) that the underlying true economic regime is one of recession based on the available data. Whereas the NBER business cycle dates are based on a subjective assessment of a variety of indicators that may not be released until several years after the event, this index is entirely mechanical, is based solely on currently available GDP data and is reported every quarter. Due to the possibility of data revisions and the challenges in accurately identifying the business cycle phase, the index is calculated for the quarter just preceding the most recently available GDP numbers. Once the index is calculated for that quarter, it is never subsequently revised. The value at every date was inferred using only data that were available one quarter after that date and as those data were reported at the time.\n\nIf the value of the index rises above 67% that is a historically reliable indicator that the economy has entered a recession. Once this threshold has been passed, if it falls below 33% that is a reliable indicator that the recession is over.\n\nFor more information about this series visit http://econbrowser.com/recession-index."
 }

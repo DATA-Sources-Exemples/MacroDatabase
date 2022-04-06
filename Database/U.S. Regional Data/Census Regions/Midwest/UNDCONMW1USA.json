@@ -1,0 +1,17 @@
+{
+  "id": "UNDCONMW1USA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "New Privately-Owned Housing Units Under Construction: Single-Family Units in the Midwest Census Region",
+  "observation_start": "1985-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-17 07:31:34-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

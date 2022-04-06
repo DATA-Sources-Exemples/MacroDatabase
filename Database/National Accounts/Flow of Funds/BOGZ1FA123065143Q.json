@@ -1,0 +1,18 @@
+{
+  "id": "BOGZ1FA123065143Q",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Equity Real Estate Investment Trusts; One-to-Four-Family Residential Mortgages Issued by Nonfinancial Corporate Businesses; Asset, Flow",
+  "observation_start": "1946-10-01",
+  "observation_end": "2020-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2020-12-16 12:27:04-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Source ID: FA123065143.Q\n\nFor more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).\n\nWith each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).\n\nIn the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FA123065143&t=) provided by the source."
+}

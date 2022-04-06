@@ -1,7 +1,7 @@
 {
   "id": "MEIM683SFRBCHI",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Chicago Fed Midwest Economy Index",
   "observation_start": "1976-06-01",
   "observation_end": "2021-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2021-06-30 07:36:02-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "The Midwest Economy Index is a weighted average of 129 state and regional indicators encompassing the entirety of the five states in the Seventh Federal Reserve District (Illinois, Indiana, Iowa, Michigan, and Wisconsin). The index measures growth in nonfarm business activity based on indicators of four broad sectors of the Midwest economy: 1) manufacturing, 2) construction and mining, 3) services, and 4) consumer spending.\n\nA zero value for the Midwest Economy Index indicates that the Midwest economy is expanding at its historical trend rate of growth; positive values indicate above-average growth; and negative values indicate below-average growth.\n\nFor further information about the Midwest Economy Index, go to http://midwest.chicagofedblogs.org/archives/2011/03/mei_by_scott_br.html and http://chicagofed.org/digital_assets/publications/chicago_fed_letter/2010/cflnovember2010_280.pdf"
 }

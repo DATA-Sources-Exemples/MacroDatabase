@@ -1,7 +1,7 @@
 {
   "id": "M13044USM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Yields on Corporate Bonds, New Issues, Aa Rating for United States",
   "observation_start": "1951-01-01",
   "observation_end": "1967-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:25-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "Data Are For Newly Issued Yields Which Are Averages Of Offering Yields On New Issues (Other Than Convertibles, Issues With Warrants And Equipment Trusts) Weighted By Amounts Offered. No Offerings Were Given For The Missing Months. Source: Moody'S Bond Survey, February 9, 1959 And First Issue Of Each Month Thereafter.\n\nThis NBER data series m13044 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13044"
 }

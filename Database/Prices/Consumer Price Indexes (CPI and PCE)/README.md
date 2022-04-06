@@ -1,12 +1,73 @@
-| Folder                        |   Files / Folders |
-|-------------------------------|-------------------|
-| Transportation                |                59 |
-| Medical Care                  |                27 |
-| Housing                       |                 1 |
-| Education and Communication   |                41 |
-| Recreation                    |                18 |
-| Other Goods and Services      |                35 |
-| Special Indexes               |                 1 |
-| Apparel                       |                27 |
-| Food and Beverages            |                76 |
-| Commodity and Services Groups |                47 |
+| id                        | title                                                                                                                                          | observation_start   | observation_end   |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| COREFLEXCPIM157SFRBATL    | Flexible Price Consumer Price Index less Food and Energy                                                                                       | 1967-01-01          | 2022-02-01        |
+| COREFLEXCPIM158SFRBATL    | Flexible Price Consumer Price Index less Food and Energy                                                                                       | 1967-01-01          | 2022-02-01        |
+| COREFLEXCPIM159SFRBATL    | Flexible Price Consumer Price Index less Food and Energy                                                                                       | 1967-12-01          | 2022-02-01        |
+| COREFLEXCPIM679SFRBATL    | Flexible Price Consumer Price Index less Food and Energy                                                                                       | 1967-03-01          | 2022-02-01        |
+| CORESTICKM157SFRBATL      | Sticky Price Consumer Price Index less Food and Energy                                                                                         | 1967-01-01          | 2022-02-01        |
+| CORESTICKM158SFRBATL      | Sticky Price Consumer Price Index less Food and Energy                                                                                         | 1967-01-01          | 2022-02-01        |
+| CORESTICKM159SFRBATL      | Sticky Price Consumer Price Index less Food and Energy                                                                                         | 1967-12-01          | 2022-02-01        |
+| CORESTICKM679SFRBATL      | Sticky Price Consumer Price Index less Food and Energy                                                                                         | 1967-03-01          | 2022-02-01        |
+| CPIAUCNS                  | Consumer Price Index for All Urban Consumers: All Items in U.S. City Average                                                                   | 1913-01-01          | 2022-02-01        |
+| CPIAUCSL                  | Consumer Price Index for All Urban Consumers: All Items in U.S. City Average                                                                   | 1947-01-01          | 2022-02-01        |
+| CPIEALL                   | Research Consumer Price Index: All Items                                                                                                       | 1982-12-01          | 2022-02-01        |
+| CPIEAPPAREL               | Research Consumer Price Index: Apparel                                                                                                         | 1982-12-01          | 2022-02-01        |
+| CPIEBEV                   | Research Consumer Price Index: Food and Beverages                                                                                              | 1982-12-01          | 2022-02-01        |
+| CPIECOMEDU                | Research Consumer Price Index: Education and Communication                                                                                     | 1993-01-01          | 2022-02-01        |
+| CPIEHOUSE                 | Research Consumer Price Index: Housing                                                                                                         | 1982-12-01          | 2022-02-01        |
+| CPIEMEDCARE               | Research Consumer Price Index: Medical Care                                                                                                    | 1982-12-01          | 2022-02-01        |
+| CPIEOTRGS                 | Research Consumer Price Index: Other Goods and Services                                                                                        | 1982-12-01          | 2022-02-01        |
+| CPIEREC                   | Research Consumer Price Index: Recreation                                                                                                      | 1993-01-01          | 2022-02-01        |
+| CPIETRANS                 | Research Consumer Price Index: Transportation                                                                                                  | 1982-12-01          | 2022-02-01        |
+| CWSR0000SA0               | Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average                                           | 1947-01-01          | 2022-02-01        |
+| CWUR0000SA0               | Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average                                           | 1913-01-01          | 2022-02-01        |
+| FLEXCPIM157SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-01-01          | 2022-02-01        |
+| FLEXCPIM158SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-01-01          | 2022-02-01        |
+| FLEXCPIM159SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-12-01          | 2022-02-01        |
+| FLEXCPIM679SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-03-01          | 2022-02-01        |
+| 9                         | nan                                                                                                                                            | nan                 | nan               |
+| JCXFE                     | Personal Consumption Expenditures: Chain-type Price Index Less Food and Energy                                                                 | 1959-01-01          | 2021-10-01        |
+| JCXFECTH                  | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, High     | 2022-01-01          | 2024-01-01        |
+| JCXFECTL                  | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, Low      | 2022-01-01          | 2024-01-01        |
+| JCXFECTM                  | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, Midpoint | 2022-01-01          | 2024-01-01        |
+| JCXFEMD                   | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Median                     | 2022-01-01          | 2024-01-01        |
+| JCXFERH                   | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Range, High                | 2022-01-01          | 2024-01-01        |
+| JCXFERL                   | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Range, Low                 | 2022-01-01          | 2024-01-01        |
+| JCXFERM                   | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Range, Midpoint            | 2022-01-01          | 2024-01-01        |
+| MEDCPIM094SFRBCLE         | Median Consumer Price Index                                                                                                                    | 1982-12-01          | 2022-02-01        |
+| MEDCPIM157SFRBCLE         | Median Consumer Price Index                                                                                                                    | 1983-01-01          | 2022-02-01        |
+| MEDCPIM158SFRBCLE         | Median Consumer Price Index                                                                                                                    | 1983-01-01          | 2022-02-01        |
+| MEDCPIM159SFRBCLE         | Median Consumer Price Index                                                                                                                    | 1983-12-01          | 2022-02-01        |
+| PCECTPI                   | Personal Consumption Expenditures: Chain-type Price Index                                                                                      | 1947-01-01          | 2021-10-01        |
+| PCECTPICTH                | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High                          | 2022-01-01          | 2024-01-01        |
+| PCECTPICTHLR              | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High               | 2009-02-18          | 2022-03-16        |
+| PCECTPICTL                | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low                           | 2022-01-01          | 2024-01-01        |
+| PCECTPICTLLR              | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low                | 2009-02-18          | 2022-03-16        |
+| PCECTPICTM                | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoint                      | 2022-01-01          | 2024-01-01        |
+| PCECTPICTMLR              | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoint           | 2009-02-18          | 2022-03-16        |
+| PCECTPIMD                 | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median                                          | 2022-01-01          | 2024-01-01        |
+| PCECTPIMDLR               | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median                               | 2015-06-17          | 2022-03-16        |
+| PCECTPIRH                 | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High                                     | 2022-01-01          | 2024-01-01        |
+| PCECTPIRHLR               | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High                          | 2009-02-18          | 2022-03-16        |
+| PCECTPIRL                 | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low                                      | 2022-01-01          | 2024-01-01        |
+| PCECTPIRLLR               | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low                           | 2009-02-18          | 2022-03-16        |
+| PCECTPIRM                 | FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Midpoint                                 | 2022-01-01          | 2024-01-01        |
+| PCECTPIRMLR               | Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Midpoint                      | 2009-02-18          | 2022-03-16        |
+| PCEPI                     | Personal Consumption Expenditures: Chain-type Price Index                                                                                      | 1959-01-01          | 2022-02-01        |
+| PCEPILFE                  | Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)                                                           | 1959-01-01          | 2022-02-01        |
+| PCETRIM1M158SFRBDAL       | Trimmed Mean PCE Inflation Rate                                                                                                                | 1977-02-01          | 2022-02-01        |
+| PCETRIM6M680SFRBDAL       | Trimmed Mean PCE Inflation Rate                                                                                                                | 1977-07-01          | 2022-02-01        |
+| PCETRIM12M159SFRBDAL      | Trimmed Mean PCE Inflation Rate                                                                                                                | 1978-01-01          | 2022-02-01        |
+| STICKCPIM157SFRBATL       | Sticky Price Consumer Price Index                                                                                                              | 1967-01-01          | 2022-02-01        |
+| STICKCPIM158SFRBATL       | Sticky Price Consumer Price Index                                                                                                              | 1967-01-01          | 2022-02-01        |
+| STICKCPIM159SFRBATL       | Sticky Price Consumer Price Index                                                                                                              | 1967-12-01          | 2022-02-01        |
+| STICKCPIM679SFRBATL       | Sticky Price Consumer Price Index                                                                                                              | 1967-03-01          | 2022-02-01        |
+| STICKCPIXSHLTRM157SFRBATL | Sticky Price Consumer Price Index less Shelter                                                                                                 | 1967-01-01          | 2022-02-01        |
+| STICKCPIXSHLTRM158SFRBATL | Sticky Price Consumer Price Index less Shelter                                                                                                 | 1967-01-01          | 2022-02-01        |
+| STICKCPIXSHLTRM159SFRBATL | Sticky Price Consumer Price Index less Shelter                                                                                                 | 1967-12-01          | 2022-02-01        |
+| STICKCPIXSHLTRM679SFRBATL | Sticky Price Consumer Price Index less Shelter                                                                                                 | 1967-03-01          | 2022-02-01        |
+| SUUR0000SA0               | Chained Consumer Price Index for All Urban Consumers: All Items in U.S. City Average                                                           | 1999-12-01          | 2022-02-01        |
+| TRMMEANCPIM094SFRBCLE     | 16% Trimmed-Mean Consumer Price Index                                                                                                          | 1982-12-01          | 2022-02-01        |
+| TRMMEANCPIM157SFRBCLE     | 16% Trimmed-Mean Consumer Price Index                                                                                                          | 1983-01-01          | 2022-02-01        |
+| TRMMEANCPIM158SFRBCLE     | 16% Trimmed-Mean Consumer Price Index                                                                                                          | 1983-01-01          | 2022-02-01        |
+| TRMMEANCPIM159SFRBCLE     | 16% Trimmed-Mean Consumer Price Index                                                                                                          | 1983-12-01          | 2022-02-01        |

@@ -1,0 +1,18 @@
+{
+  "id": "B783RN2Q224SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Contributions to Percent Change in National Defense Consumption Expenditures and Gross Investment: Consumption expenditures: Gross output of general government: Intermediate goods and services purchased: Nondurable goods: Other nondurable goods",
+  "observation_start": "1972-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-01-27 08:01:29-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B783RN\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,7 +1,7 @@
 {
   "id": "SWP1690",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Maturing in 16 Days to 90 Days: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:08-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "The FOMC has authorized temporary reciprocal currency arrangements (central bank liquidity swaps) with certain foreign central banks to help provide liquidity in U.S. dollars to overseas markets.\n\nThese swaps involve two transactions. First, when the foreign central bank draws on the swap line, it sells a specified amount of its currency to the Federal Reserve in exchange for dollars at the prevailing market exchange rate. The foreign currency that the Federal Reserve acquires is placed in an account for the Federal Reserve at the foreign central bank. This line in the statistical release reports the dollar value of the foreign currency held under these swaps.\n\nSecond, the dollars that the Federal Reserve provides are deposited in an account for the foreign central bank at the Federal Reserve Bank of New York. At the same time as the draw on the swap line, the Federal Reserve and the foreign central bank enter into a binding agreement for a second transaction in which the foreign central bank is obligated to repurchase the foreign currency at a specified future date at the same exchange rate. At the conclusion of the second transaction, the foreign central bank pays a market-based rate of interest to the Federal Reserve. Central bank liquidity swaps are of various maturities, ranging from overnight to three months."
 }

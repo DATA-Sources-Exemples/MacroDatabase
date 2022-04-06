@@ -1,7 +1,7 @@
 {
   "id": "H41RESPPALGASMSNWW",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets : Securities Held Outright: Commercial Mortgage-Backed Securities: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:34:23-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 3,
+  "group_popularity": 3
 }

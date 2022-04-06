@@ -1,7 +1,7 @@
 {
   "id": "WPU584101",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Retail Trade Services: Computer Hardware, Software, and Supplies Retailing",
   "observation_start": "2009-03-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:50:47-05",
   "popularity": 7,
-  "group_popularity": 9
+  "group_popularity": 12
 }

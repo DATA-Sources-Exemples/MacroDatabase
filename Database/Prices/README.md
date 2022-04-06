@@ -5,6 +5,6 @@
 | Health Care Indexes                  |                59 |
 | House Price Indexes                  |               705 |
 | Cryptocurrencies                     |                 6 |
-| Consumer Price Indexes (CPI and PCE) |                10 |
+| Consumer Price Indexes (CPI and PCE) |                11 |
 | Employment Cost Index                |               413 |
-| Producer Price Indexes (PPI)         |                 2 |
+| Producer Price Indexes (PPI)         |                 3 |

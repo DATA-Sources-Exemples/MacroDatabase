@@ -1,0 +1,18 @@
+{
+  "id": "PCECTPICTM",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoint",
+  "observation_start": "2022-01-01",
+  "observation_end": "2024-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Fourth Quarter to Fourth Quarter Percent Change",
+  "units_short": "Fourth Qtr. to Fourth Qtr. % Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-16 15:15:03-05",
+  "popularity": 45,
+  "group_popularity": 45,
+  "notes": "Projections of personal consumption expenditures (PCE) inflation rate are fourth quarter growth rates, that is, percentage changes from the fourth quarter of the prior year to the fourth quarter of the indicated year. PCE inflation rate is the percentage rates of change in the price index for personal consumption expenditures (PCEPI). Each participant's projections are based on his or her assessment of appropriate monetary policy. The range for each variable in a given year includes all participants' projections, from lowest to highest, for that variable in the given year; the central tendencies exclude the three highest and three lowest projections for each year. This series represents the midpoint of the central tendency forecast's high and low values established by the Federal Open Market Committee.\n\nDigitized originals of this release can be found at https://fraser.stlouisfed.org/publication/?pid=677."
+}

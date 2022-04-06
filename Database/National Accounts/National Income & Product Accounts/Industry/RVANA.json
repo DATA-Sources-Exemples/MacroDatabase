@@ -1,0 +1,18 @@
+{
+  "id": "RVANA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Value Added by Industry: Not Allocated by Industry",
+  "observation_start": "2005-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:34:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Chained (2012) dollar series are calculated as the product of the chain-type quantity index and the 2012 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The value of the Not allocated by industry line reflects the difference between the first line and the sum of the most detailed lines, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP.\nValue added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
+}

@@ -1,7 +1,7 @@
 {
   "id": "MYAGM2RUM189N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M2 for Russian Federation",
   "observation_start": "1996-12-01",
   "observation_end": "2017-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-08-01 14:41:14-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "M2 comprises currency in circulation and demand, time, and savings deposits in national currency of other financial corporations, public nonfinancial corporations, private nonfinancial corporations, and households with the CBR and other depository corporations.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

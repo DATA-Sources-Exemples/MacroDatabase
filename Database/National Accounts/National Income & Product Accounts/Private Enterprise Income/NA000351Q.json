@@ -1,0 +1,18 @@
+{
+  "id": "NA000351Q",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "State and Local Consumption Expenditures and Gross Investment",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 08:03:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: NA000351"
+}

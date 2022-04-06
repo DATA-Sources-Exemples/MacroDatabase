@@ -1,7 +1,7 @@
 {
   "id": "RTWEXAFEGS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Advanced Foreign Economies Dollar Index",
   "observation_start": "2006-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 15:19:05-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "For more information about trade-weighted indexes see the Board of Governors methodology (https://www.federalreserve.gov/econres/notes/feds-notes/revisions-to-the-federal-reserve-dollar-indexes-20190115.htm)."
 }

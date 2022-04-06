@@ -1,8 +1,8 @@
 {
   "NGMPMNGCOENTPRUSMP": {
     "id": "NGMPMNGCOENTPRUSMP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Private Industries: Professional and Business Services: Management of Companies and Enterprises for United States Metropolitan Portion",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "QGMPMNGCOENTPRUSMP": {
     "id": "QGMPMNGCOENTPRUSMP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Quantity Indexes for Real GDP: Private Industries: Professional and Business Services: Management of Companies and Enterprises for United States Metropolitan Portion",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "RGMPMNGCOENTPRUSMP": {
     "id": "RGMPMNGCOENTPRUSMP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Private Industries: Professional and Business Services: Management of Companies and Enterprises for United States Metropolitan Portion",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "USMNGCOENTPRNGSP": {
     "id": "USMNGCOENTPRNGSP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   },
   "USMNGCOENTPRNQGSP": {
     "id": "USMNGCOENTPRNQGSP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States",
     "observation_start": "2005-01-01",
     "observation_end": "2021-10-01",
@@ -96,8 +96,8 @@
   },
   "USMNGCOENTPRQGSP": {
     "id": "USMNGCOENTPRQGSP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Chain-Type Quantity Index for Real GDP: Management of Companies and Enterprises (NAICS 55) in the United States",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -115,8 +115,8 @@
   },
   "USMNGCOENTPRQQGSP": {
     "id": "USMNGCOENTPRQQGSP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Chain-Type Quantity Index for Real GDP: Management of Companies and Enterprises (NAICS 55) in the United States",
     "observation_start": "2005-01-01",
     "observation_end": "2021-10-01",
@@ -134,8 +134,8 @@
   },
   "USMNGCOENTPRRGSP": {
     "id": "USMNGCOENTPRRGSP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -153,8 +153,8 @@
   },
   "USMNGCOENTPRRQGSP": {
     "id": "USMNGCOENTPRRQGSP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55) in the United States",
     "observation_start": "2005-01-01",
     "observation_end": "2021-10-01",

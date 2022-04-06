@@ -1,0 +1,18 @@
+{
+  "id": "U4UNEM4WI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Total Unemployed Plus Discouraged Workers, as a Percent of the Civilian Labor Force Plus Discouraged Workers for Wisconsin",
+  "observation_start": "2003-10-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent, 4-Quarter Moving Average",
+  "units_short": "%, 4-Qtr. Moving Average",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-31 09:37:10-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "U-4 unemployment rate, as defined by the Bureau of Labor Statistics (BLS).\n\nThe BLS defines discouraged workers as persons who are not in the labor force, want and are available for work, and had looked for a job sometime in the prior 12 months. They are not counted as unemployed because they had not searched for work in the prior 4 weeks, for the specific reason that they believed no jobs were available to them."
+}

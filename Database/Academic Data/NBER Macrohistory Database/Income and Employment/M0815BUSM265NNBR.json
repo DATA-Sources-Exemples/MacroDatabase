@@ -1,7 +1,7 @@
 {
   "id": "M0815BUSM265NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Average Hourly Earnings, Chemicals and Allied Product Manufacturing for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1960-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:16:57-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1920-1942 (2)--Original Data, 1947-1960. The Nicb Series Are Not Considered Comparable With The Present One Because The National Industrial Conference Board Treats Fertilizers As A Different Industry When The Bureau Of Labor Statistics Includes Their Manufacture In The Chemical Industry; The Bls Data Also Cover New Industries Such As Plastics, Synthetic Rubber, Synthetic Fibers, Etc. From 1951 On, The Figures Have Been Rounded And No Fractions Of Cents Are Available In The Source. Source: For 1947-1952, Bureau Of Labor Statistics, \"Employment, Hours And Earnings, Manufacturing Division, Nondurable Goods Subdivision, Chemicals And Allied Products, Releases Ls 53-2660 (February, 1953) And (May, 1955); For 1953-1960, June, 1956 And July, 1958 Releases (Pp. 145-146A Of Summary Tables In Binder), Monthly Labor Review, \"Employment And Earnings\" (Advance Estimate In Mimeographed Monthly Release).\n\nThis NBER data series m08215b appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08215b"
 }

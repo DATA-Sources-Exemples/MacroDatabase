@@ -1,0 +1,18 @@
+{
+  "id": "EXPNONNC",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Exports of Goods: Non-Manufactured Commodities for North Carolina",
+  "observation_start": "1995-08-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-05 09:33:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Exports of non-manufactured commodities based on origin of movement.\n\nAll NAICS-Based Product Codes excluding 31-33."
+}

@@ -1,7 +1,7 @@
 {
   "id": "GCBALCASHGDZSEMU",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Cash surplus/deficit (% of GDP) for the Euro Area",
   "observation_start": "1972-01-01",
   "observation_end": "2014-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-10-29 10:01:02-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Cash surplus or deficit is revenue (including grants) minus expense, minus net acquisition of nonfinancial assets. In the 1986 GFS manual nonfinancial assets were included under revenue and expenditure in gross terms. This cash surplus or deficit is closest to the earlier overall budget balance (still missing is lending minus repayments, which are now a financing item under net acquisition of financial assets).\n\nNations that are included in this data series are listed at http://data.worldbank.org/region/EMU\n\nSource Indicator: GC.BAL.CASH.GD.ZS"
 }

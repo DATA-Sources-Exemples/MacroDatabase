@@ -1,7 +1,7 @@
 {
   "id": "WOFSRBRBC",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Other Factors Supplying Reserve Balances: Reserve Bank Credit: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:04-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Reserve Bank credit is the sum of securities held outright, repurchase agreements, term auction credit, other loans, net portfolio holdings of Commercial Paper Funding Facility LLC, net portfolio holdings of LLCs funded through the Money Market Investor Funding Facility, net portfolio holdings of Maiden Lane LLC, net portfolio holdings of Maiden Lane II LLC, net portfolio holdings of Maiden Lane III LLC, float, central bank liquidity swaps, and other Federal Reserve assets."
 }

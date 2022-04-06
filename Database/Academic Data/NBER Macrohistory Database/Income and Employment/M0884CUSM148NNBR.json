@@ -1,7 +1,7 @@
 {
   "id": "M0884CUSM148NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment (14 Years and Older) for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1966-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:26:41-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1929-1944 (2)--Original Data, 1940-1957 (3)--Original Data, 1947-1966. Unemployment Means The Difference Between The Number Of Persons In The Labor Force And The Number Of Persons Working. Negative Unemployment Arises Beginning In 1947, Unemployment Was Redefined To Include Persons On Temporary Layoff And Persons Waiting To Report For Work Within 30 Days. Beginning In 1957, A Small Group Of Students Previously Included In The Waiting Group Has Been Covered By The Category \"Not In The Labor Force -- In School.\" 1955 And 1956 Figures, Not Published According To The New Definition, May Be Derived From Table C, P. 6, Monthly Review On The Labor Force, February 1957, And Previous Monthly Figures. Alaska And Hawaii Are Included Beginning In 1960; The Effect On The Data Is Negligible. A New Method Of Seasonal Adjustment Was Begun In 1961. Adjusted Data Are The Sum Of Four Components -- Unemployed Males And Unemployed Females, Each Group Broken Down Into Persons Under And Over 20 Years Of Age. Seasonal Ment Was Revised From April 1948 On, Then Again In March 1965 (See Monthly Report On The Labor Force, January 1965). Source: Bureau Of Labor Statistics, Data For 1947-1954: Unpublished Tabulation Obtained From Council Of Economic Advisors; Data For 1955-1966: Bureau Of The Census, Current Population Reports--Labor Force, Series P-50; Annual Report Of 1955; And Monthly Report On The Labor Force Thereafter.\n\nThis NBER data series m08084c appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08084c"
 }

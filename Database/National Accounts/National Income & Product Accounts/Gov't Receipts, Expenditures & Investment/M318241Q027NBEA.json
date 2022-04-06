@@ -1,0 +1,18 @@
+{
+  "id": "M318241Q027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal government expenditures: Coverage differences: Federal employee retirement plan transactions: Contributions received (employer) (NIPA vs. Budget)",
+  "observation_start": "1959-07-01",
+  "observation_end": "2020-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-02 11:25:07-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "BEA Account Code: M318241\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,7 +1,7 @@
 {
   "id": "M14002DEM368NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Average Monthly Berlin Rates of Exchange on New York for Germany",
   "observation_start": "1887-03-01",
   "observation_end": "1914-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:34:51-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Data Are For Exchange Rates Quoted At The Berlin Exchange Beginning March 17, 1887. Data Are For Monthly Average Computed From Daily Average Quotations Published In The \"Reichinanzeiger\", Sight Draft. Data For 1888-1907 Can Also Be Found In National Monetary Commission Publications, Vol. 21, Pp. 251-255. Source: Data For 1887-1894: Viertelsjahrshefte Zur Statistik Das Deutschen Reiches, 1895, Vol. Ii, P. 9. Data For 1895-1914: Statistiches Jahrbuch Fur Deutsche Reich, 1896 And Following Issues.\n\nThis NBER data series m14002 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14002"
 }

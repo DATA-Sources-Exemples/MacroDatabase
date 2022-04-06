@@ -1,7 +1,7 @@
 {
   "id": "RESPPALGAMXCH1NWW",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Securities Held Outright: Federal Agency Debt Securities: All: Change in Wednesday Level from Previous Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:18-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 5,
+  "group_popularity": 5
 }

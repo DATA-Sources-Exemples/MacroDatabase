@@ -1,7 +1,7 @@
 {
   "id": "BPPRIV016001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Private Housing Structures Authorized by Building Permits for Ada County, ID",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-05-04 14:19:55-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "This series represents the total number of building permits for all structure types. Structure types include 1-unit, 2-unit, 3-unit, 4-unit, and 5-unit or more."
 }

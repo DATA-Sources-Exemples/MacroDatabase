@@ -1,7 +1,7 @@
 {
   "id": "CPGDFD02IEM659N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index: Total Food Excluding Restaurants for Ireland",
   "observation_start": "1975-11-01",
   "observation_end": "2018-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-13 14:11:28-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: CPGDFD02\nOECD unit ID: GY\nOECD country ID: IRL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

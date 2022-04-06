@@ -1,0 +1,18 @@
+{
+  "id": "CXUREGCONTLB1104M",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Income Before Taxes: Regular Contributions for Support by Region: Residence in the South Census Region",
+  "observation_start": "1984-01-01",
+  "observation_end": "2012-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-01-15 11:21:34-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "For more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
+}

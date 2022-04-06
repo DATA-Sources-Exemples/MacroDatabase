@@ -1,0 +1,17 @@
+{
+  "id": "JTS00MWTSR",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Total Separations: Total Nonfarm in Midwest Census Region",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Rate",
+  "units_short": "Rate",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-29 09:10:13-05",
+  "popularity": 1,
+  "group_popularity": 4
+}

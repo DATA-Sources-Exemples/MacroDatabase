@@ -1,0 +1,18 @@
+{
+  "id": "FPCPITOTLZGMEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Inflation, consumer prices: All Income Levels for Middle East and North Africa",
+  "observation_start": "1970-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-21 14:50:08-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups\n\nSource Indicator: FP.CPI.TOTL.ZG"
+}

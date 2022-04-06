@@ -1,0 +1,18 @@
+{
+  "id": "GCT1503KS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "People 25 Years and Over Who Have Completed a Graduate or Professional Degree for Kansas",
+  "observation_start": "2006-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-31 15:10:43-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Estimate of educational attainment for population 18 years old and over whose highest degree was a master's, or professional or doctorate degree (ACS variable S1501_C02_013E from table S1501).\n\nFor more information about the subject definitions, see the ACS technical documentation (https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html).\n\nData for 2020 are based on the experimental estimates from the 1-year American Community Survey released by the Census Bureau instead of the traditional 1-year estimates. For more information, visit the 2020 ACS 1-Year Experimental Data Release page (https://www.census.gov/programs-surveys/acs/data/experimental-data.html).\n\nSingle-year estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS single-year estimates include data collected over a 12-month period; explicitly the calendar year (e.g., the 2015 ACS covers the period from January 2015 through December 2015).\n\nPlease see the ACS handbook (https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf) (Section 3, \"Understanding and Using ACS Single-Year and Multiyear Estimates\" p. 13) for a comprehensive set of details and clarifications."
+}

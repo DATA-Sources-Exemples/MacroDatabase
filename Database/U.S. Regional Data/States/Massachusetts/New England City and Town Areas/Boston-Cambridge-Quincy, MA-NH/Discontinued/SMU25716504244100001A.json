@@ -1,0 +1,17 @@
+{
+  "id": "SMU25716504244100001A",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Boston-Cambridge-Quincy, MA-NH (NECTA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-24 19:45:37-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

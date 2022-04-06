@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGNV",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "State Minimum Wage Rate for Nevada",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:12-06",
-  "popularity": 30,
-  "group_popularity": 30,
+  "popularity": 29,
+  "group_popularity": 29,
   "notes": "State minimum wage applies only if employer provides healthcare benefits. State minimum wage is changed annually based on changes in the CPI and a cost of living formula.\n\nFor the years 1976-1978, the displayed wage represents the largest minimum wage paid. Some individuals newly covered under state law received a lower wage.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

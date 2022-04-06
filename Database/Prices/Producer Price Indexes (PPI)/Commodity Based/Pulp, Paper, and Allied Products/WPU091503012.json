@@ -1,7 +1,7 @@
 {
   "id": "WPU091503012",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Shipping Containers for Paper and Allied Products",
   "observation_start": "2009-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:38-05",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 5,
+  "group_popularity": 5
 }

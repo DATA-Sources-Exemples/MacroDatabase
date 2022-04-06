@@ -1,7 +1,7 @@
 {
   "id": "UCRPUO",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturers' Unfilled Orders: Computers and Related Products",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-24 07:32:43-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

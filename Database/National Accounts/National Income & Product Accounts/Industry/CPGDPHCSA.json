@@ -1,0 +1,18 @@
+{
+  "id": "CPGDPHCSA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Contributions to Percent Change in Real GDP by Industry: Educational Services, Health Care, and Social Assistance: Health Care and Social Assistance",
+  "observation_start": "2005-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percentage Points",
+  "units_short": "Percentage Points",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:32:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Value added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
+}

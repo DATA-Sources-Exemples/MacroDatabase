@@ -1,7 +1,7 @@
 {
   "id": "IPB51213NQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Non-Durable Nonenergy Consumer Goods: Chemical Products",
   "observation_start": "1954-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 08:22:19-05",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 8,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nSource Code: IP.B51213.N"
 }

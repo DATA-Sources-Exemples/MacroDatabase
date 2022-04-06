@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGNY",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "State Minimum Wage Rate for New York",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:09-06",
-  "popularity": 33,
-  "group_popularity": 33,
+  "popularity": 32,
+  "group_popularity": 32,
   "notes": "For more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

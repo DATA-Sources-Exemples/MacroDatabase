@@ -1,7 +1,7 @@
 {
   "id": "DGDSRE1Q156NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Shares of gross domestic product: Personal consumption expenditures: Goods",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:56:52-05",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 8,
+  "group_popularity": 9,
   "notes": "BEA Account Code: DGDSRE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

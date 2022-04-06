@@ -1,8 +1,8 @@
 {
   "CES3231200001": {
     "id": "CES3231200001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Nondurable Goods: Beverages and Tobacco Products (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-12-01",
@@ -20,8 +20,8 @@
   },
   "CES3231600001": {
     "id": "CES3231600001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Nondurable Goods: Leather and Allied Products (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2016-11-01",
@@ -39,8 +39,8 @@
   },
   "CEU3231200001": {
     "id": "CEU3231200001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Nondurable Goods: Beverages and Tobacco Products (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-12-01",
@@ -58,8 +58,8 @@
   },
   "CEU3231600001": {
     "id": "CEU3231600001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Nondurable Goods: Leather and Allied Products (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2016-11-01",

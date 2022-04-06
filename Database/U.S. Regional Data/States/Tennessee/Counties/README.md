@@ -17,7 +17,7 @@
 | Pickett County, TN    |                88 |
 | Cumberland County, TN |               146 |
 | Stewart County, TN    |                90 |
-| Hamilton County, TN   |               147 |
+| Hamilton County, TN   |                 2 |
 | Hardeman County, TN   |                89 |
 | Williamson County, TN |               147 |
 | Lincoln County, TN    |                90 |

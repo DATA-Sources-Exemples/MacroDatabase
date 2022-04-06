@@ -1,7 +1,7 @@
 {
   "id": "TWEXMTHY",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Trade-Weighted Exchange Value of U.S. Dollar vs G-10 Countries (DISCONTINUED)",
   "observation_start": "1971-01-01",
   "observation_end": "1998-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "1998-12-01 00:00:00-06",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "For weights and calculation, see: Federal Reserve Bulletin, August 1978, p700."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU1147",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Air Purification Equipment and Industrial and Commercial Fans and Blowers",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:02:40-05",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 5,
+  "group_popularity": 5
 }

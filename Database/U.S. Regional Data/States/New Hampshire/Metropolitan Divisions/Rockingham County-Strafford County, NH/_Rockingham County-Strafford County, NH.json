@@ -1,8 +1,8 @@
 {
   "ATNHPIUS40484Q": {
     "id": "ATNHPIUS40484Q",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All-Transactions House Price Index for Rockingham County-Strafford County, NH (MSAD)",
     "observation_start": "1983-04-01",
     "observation_end": "2021-10-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-02-22 09:04:31-06",
-    "popularity": 3,
-    "group_popularity": 3,
+    "popularity": 2,
+    "group_popularity": 2,
     "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million.",
     "path": "../Database/U.S. Regional Data/States/New Hampshire/Metropolitan Divisions/Rockingham County-Strafford County, NH"
   }

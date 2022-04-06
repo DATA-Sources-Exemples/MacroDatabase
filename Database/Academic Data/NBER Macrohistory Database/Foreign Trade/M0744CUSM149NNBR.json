@@ -1,7 +1,7 @@
 {
   "id": "M0744CUSM149NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Crude Rubber Imports for United States",
   "observation_start": "1910-07-01",
   "observation_end": "1957-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:01:36-05",
   "popularity": 3,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1868-1892 (2)--Original Data, 1890-1912 (3)--Original Data, 1911-1957. The Series Includes Crude Rubber Only. Latex In Rubber Equivalent Is Included Throughout The Series. The Series Is General Imports 1911-1933; Imports For Consumption 1934-1957. No Monthly Revisions Were Published For The Year 1941. The 12 Months Totals As Given In The Monthly Summary Of Foreign Commerce And In Later Issues Of The Survey Of Current Business Differ By A Small Amount. Source: Monthly Summary Of Foreign Commerce; Data For 1948 And Following: U.S. Bureau Of The Census: Foreign Trade Report Ft110, U.S. Imports Of Merchandise For Consumption, Commodity By Country Of Origin (Monthly), And Survey Of Current Business (Used For Checking Purposes, After Conversion Of Survey Of Current Business Figures Into Pounds And Deduction Of \"Guayule\").\n\nThis NBER data series m07044c appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07044c"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "GOQIPFI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Gross Output by Industry: Finance, Insurance, Real Estate, Rental, and Leasing: Finance and Insurance (Chain-Type Quantity Index)",
+  "observation_start": "2005-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change",
+  "units_short": "% Chg.",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:34:29-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Gross output is a measure of an industry's sales or receipts, which can include sales to final users in the economy (GDP) or sales to other industries (intermediate inputs)."
+}

@@ -1,7 +1,7 @@
 {
   "id": "SAUXTEXVA01CXMLSAM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "International Trade: Exports: Value (goods): Total for Saudi Arabia",
   "observation_start": "2016-05-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 11:03:47-06",
-  "popularity": 5,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 9,
   "notes": "OECD descriptor ID: XTEXVA01 OECD unit ID: CXMLSA OECD country ID: SAU All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

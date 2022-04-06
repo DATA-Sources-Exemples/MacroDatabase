@@ -1,0 +1,18 @@
+{
+  "id": "U2RATENSA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Unemployment Rate - Job Losers (U-2)",
+  "observation_start": "1967-01-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:47:28-05",
+  "popularity": 3,
+  "group_popularity": 40,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04023621"
+}

@@ -1,7 +1,7 @@
 {
   "id": "OCDCBN",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Other Checkable Deposits at Commercial Banks (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 15:03:34-06",
   "popularity": 1,
-  "group_popularity": 8,
+  "group_popularity": 7,
   "notes": "This series has been discontinued and will no longer be updated. It has been consolidated under the following series, which will continue to be updated: MDLM (https://fred.stlouisfed.org/series/MDLM).\n\nStarting on February 23, 2021, the H.6 statistical release is now published at a monthly frequency and contains only monthly average data needed to construct the monetary aggregates. Components of the monetary aggregates are reported at a total industry level without a breakdown by banks and thrifts. For further information about the changes to the H.6 Statistical Release, see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source."
 }

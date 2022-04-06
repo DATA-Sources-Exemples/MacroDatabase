@@ -1,7 +1,7 @@
 {
   "id": "CUURA400SA0",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: All Items in West - Size Class A",
   "observation_start": "1977-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:39:31-06",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 2,
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "B087RC1A027NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal government current transfer payments: Government social benefits: to persons",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:19-05",
-  "popularity": 18,
-  "group_popularity": 50,
+  "popularity": 15,
+  "group_popularity": 51,
   "notes": "BEA Account Code: B087RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

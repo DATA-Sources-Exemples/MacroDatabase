@@ -14,5 +14,5 @@
 | Waldo County, ME        |                90 |
 | Piscataquis County, ME  |                89 |
 | Aroostook County, ME    |                91 |
-| Knox County, ME         |                90 |
+| Knox County, ME         |                 2 |
 | Franklin County, ME     |                90 |

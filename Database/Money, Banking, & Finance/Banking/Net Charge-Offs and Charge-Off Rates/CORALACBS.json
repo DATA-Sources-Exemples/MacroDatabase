@@ -1,7 +1,7 @@
 {
   "id": "CORALACBS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Charge-Off Rate on All Loans, All Commercial Banks",
   "observation_start": "1985-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-23 15:04:19-06",
-  "popularity": 13,
-  "group_popularity": 26,
+  "popularity": 14,
+  "group_popularity": 28,
   "notes": "Charge-off rates are annualized, net of recoveries."
 }

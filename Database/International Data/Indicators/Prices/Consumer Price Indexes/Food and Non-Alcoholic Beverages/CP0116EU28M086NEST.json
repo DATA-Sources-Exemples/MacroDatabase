@@ -1,7 +1,7 @@
 {
   "id": "CP0116EU28M086NEST",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Harmonized Index of Consumer Prices: Fruit for European Union (28 countries)",
   "observation_start": "2000-12-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-02-21 07:12:03-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The Harmonized Index of Consumer Prices category \"Fruit (01.1.6)\" is a classification of nondurable, seasonal goods that includes fresh, chilled, or dried fruit; fruit peel, fruit kernels, nuts, and edible seeds; preserved fruit and fruit-based products; and melons.\n\nThis category excludes vegetables cultivated for their fruit such as aubergines, cucumbers, and tomatoes (01.1.7), jams, marmalades, compotes, jellies, and fruit purees and pastes (01.1.8), parts of plants preserved in sugar (01.1.8), and fruit juices and syrups (01.2.2).\n\nThis is a subcategory of both the Food and Non-Alcoholic Beverages (01) and the Food (01.1) categories.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

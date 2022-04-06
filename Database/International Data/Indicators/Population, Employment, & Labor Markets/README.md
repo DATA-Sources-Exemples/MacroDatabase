@@ -10,7 +10,7 @@
 | Labor Force Participation Rate  |                 1 |
 | Labor Force                     |               774 |
 | Income Distribution             |                 1 |
-| Productivity & Costs            |                54 |
+| Productivity & Costs            |                 2 |
 | Employment Population Ratio     |                 1 |
 | Migration                       |                33 |
 | Unemployment                    |                 2 |

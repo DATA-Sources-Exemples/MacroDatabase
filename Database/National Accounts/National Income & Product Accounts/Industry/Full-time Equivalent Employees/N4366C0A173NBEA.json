@@ -1,7 +1,7 @@
 {
   "id": "N4366C0A173NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Full-time equivalent employees: Domestic private industries: Legal services",
   "observation_start": "1998-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:37:57-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: N4366C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

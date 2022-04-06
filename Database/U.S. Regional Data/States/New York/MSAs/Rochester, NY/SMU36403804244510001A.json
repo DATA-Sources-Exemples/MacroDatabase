@@ -1,7 +1,7 @@
 {
   "id": "SMU36403804244510001A",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Retail Trade: Grocery Stores in Rochester, NY (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2017-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-03-12 15:13:51-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "CUURA101SS47014",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",
   "observation_start": "1976-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:40:54-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

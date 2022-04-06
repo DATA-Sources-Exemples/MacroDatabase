@@ -1,8 +1,8 @@
 {
   "TERMCBCCALLNS": {
     "id": "TERMCBCCALLNS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Commercial Bank Interest Rate on Credit Card Plans, All Accounts",
     "observation_start": "1994-11-01",
     "observation_end": "2021-11-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-07 14:02:07-06",
-    "popularity": 51,
-    "group_popularity": 51,
+    "popularity": 53,
+    "group_popularity": 53,
     "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/.",
     "path": "../Database/Money, Banking, & Finance/Interest Rates/Credit Card Loan Rates"
   },
   "TERMCBCCINTNS": {
     "id": "TERMCBCCINTNS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest",
     "observation_start": "1994-11-01",
     "observation_end": "2021-11-01",
@@ -32,8 +32,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-07 14:02:13-06",
-    "popularity": 36,
-    "group_popularity": 36,
+    "popularity": 37,
+    "group_popularity": 37,
     "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/.",
     "path": "../Database/Money, Banking, & Finance/Interest Rates/Credit Card Loan Rates"
   }

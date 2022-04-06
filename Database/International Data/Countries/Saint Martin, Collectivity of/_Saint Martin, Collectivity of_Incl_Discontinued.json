@@ -1,8 +1,8 @@
 {
   "POPTOTMF52647NWDB": {
     "id": "POPTOTMF52647NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Population, Total for the Collectivity of Saint Martin",
     "observation_start": "1967-01-01",
     "observation_end": "2012-01-01",
@@ -20,8 +20,8 @@
   },
   "POPTOTMFA647NWDB": {
     "id": "POPTOTMFA647NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Population, Total for the Collectivity of Saint Martin",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "SPDYNLE00INMAF": {
     "id": "SPDYNLE00INMAF",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Life Expectancy at Birth, Total for the Collectivity of Saint Martin",
     "observation_start": "1982-01-01",
     "observation_end": "2019-01-01",
@@ -58,8 +58,8 @@
   },
   "SPDYNTFRTINMAF": {
     "id": "SPDYNTFRTINMAF",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Fertility Rate, Total for the Collectivity of Saint Martin",
     "observation_start": "1982-01-01",
     "observation_end": "2019-01-01",

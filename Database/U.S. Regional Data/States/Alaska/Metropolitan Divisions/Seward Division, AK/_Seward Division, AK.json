@@ -1,8 +1,8 @@
 {
   "PCPI02921": {
     "id": "PCPI02921",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Per Capita Personal Income in Seward Division, AK",
     "observation_start": "1969-01-01",
     "observation_end": "1978-01-01",
@@ -20,8 +20,8 @@
   },
   "PI02921": {
     "id": "PI02921",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Seward Division, AK",
     "observation_start": "1969-01-01",
     "observation_end": "1978-01-01",

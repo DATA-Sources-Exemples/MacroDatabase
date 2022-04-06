@@ -1,0 +1,18 @@
+{
+  "id": "CBUSAPPWNSATNYY",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Applications from Corporations for Tennessee",
+  "observation_start": "2007-01-06",
+  "observation_end": "2022-03-26",
+  "frequency": "Weekly, Ending Saturday",
+  "frequency_short": "W",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 16:09:42-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Business Applications from Corporations (CBA): A subset of High-Propensity Business Applications (HBA) that contains all applications that come from a corporation or a personal service corporation.\n\nSee \"About the Data\" (https://www.census.gov/econ/bfs/about_the_data.html) for more details."
+}

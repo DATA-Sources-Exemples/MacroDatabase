@@ -1,8 +1,8 @@
 {
   "WPU38": {
     "id": "WPU38",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -19,8 +19,8 @@
   },
   "WPU381": {
     "id": "WPU381",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -37,8 +37,8 @@
   },
   "WPU3811": {
     "id": "WPU3811",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services",
     "observation_start": "2009-06-01",
     "observation_end": "2022-02-01",
@@ -49,14 +49,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:07-05",
-    "popularity": 2,
+    "popularity": 1,
     "group_popularity": 5,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Data Processing and Related Services"
   },
   "WPU381101": {
     "id": "WPU381101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services: Hosting, Active Server Pages (ASP) and Other Information Technology (IT) Infrastructure Provisioning Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -73,8 +73,8 @@
   },
   "WPU381102": {
     "id": "WPU381102",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services: Business Process Management Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -91,8 +91,8 @@
   },
   "WPU381103": {
     "id": "WPU381103",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services: Data Management, Information Transformation and Other Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -104,13 +104,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:06-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 3,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Data Processing and Related Services"
   },
   "WPU38110101": {
     "id": "WPU38110101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services: Hosting, Active Server Pages (ASP) and Other Information Technology (IT) Infrastructure Provisioning Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -127,8 +127,8 @@
   },
   "WPU38110201": {
     "id": "WPU38110201",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services: Business Process Management Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -145,8 +145,8 @@
   },
   "WPU38110301": {
     "id": "WPU38110301",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Data Processing and Related Services: Data Management, Information Transformation and Other Services",
     "observation_start": "2008-12-01",
     "observation_end": "2022-02-01",
@@ -157,8 +157,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:01:06-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Data Processing and Related Services"
   }
 }

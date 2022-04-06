@@ -1,0 +1,17 @@
+{
+  "id": "SMU47000000800000011A",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Average Weekly Earnings of All Employees: Private Service Providing in Tennessee",
+  "observation_start": "2007-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars per Week",
+  "units_short": "$ per Week",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-15 05:24:33-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

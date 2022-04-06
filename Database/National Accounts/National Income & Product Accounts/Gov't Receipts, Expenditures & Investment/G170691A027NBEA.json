@@ -1,0 +1,18 @@
+{
+  "id": "G170691A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal grants-in-aid to state and local governments: Education",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-02 11:24:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: G17069\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

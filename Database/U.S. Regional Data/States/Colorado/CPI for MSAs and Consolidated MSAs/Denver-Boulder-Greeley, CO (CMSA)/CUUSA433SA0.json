@@ -1,7 +1,7 @@
 {
   "id": "CUUSA433SA0",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: All items in Denver-Aurora-Lakewood, CO (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:38:24-06",
-  "popularity": 21,
-  "group_popularity": 22
+  "popularity": 23,
+  "group_popularity": 25
 }

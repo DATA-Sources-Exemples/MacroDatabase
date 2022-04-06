@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS46060Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All-Transactions House Price Index for Tucson, AZ (MSA)",
   "observation_start": "1977-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:02:17-06",
-  "popularity": 23,
-  "group_popularity": 23,
+  "popularity": 24,
+  "group_popularity": 24,
   "notes": "Estimated using sales prices and appraisal data."
 }

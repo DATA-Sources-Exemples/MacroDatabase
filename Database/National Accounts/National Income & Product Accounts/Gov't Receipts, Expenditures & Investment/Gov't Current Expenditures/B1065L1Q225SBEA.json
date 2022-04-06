@@ -1,7 +1,7 @@
 {
   "id": "B1065L1Q225SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real State and Local Government Consumption Expenditures: Sales to Other Sectors: Tuition and Related Educational Charges",
   "observation_start": "1947-04-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-01-27 08:02:48-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 4,
   "notes": "BEA Account Code: B1065L\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

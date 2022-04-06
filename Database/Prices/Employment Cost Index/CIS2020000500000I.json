@@ -1,7 +1,7 @@
 {
   "id": "CIS2020000500000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material moving",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:52:38-06",
   "popularity": 2,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "See Footnote T on https://www.bls.gov/ect/cimapnote.htm"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "AKMANRQGSP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Gross Domestic Product: Manufacturing (NAICS 31-33) in Alaska",
+  "observation_start": "2005-01-01",
+  "observation_end": "2019-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Chained 2012 Dollars",
+  "units_short": "Mil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-31 12:54:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
+}

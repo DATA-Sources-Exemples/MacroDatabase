@@ -1,7 +1,7 @@
 {
   "id": "WPU061303",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Alkalies and Chlorine, Including Natural Sodium Carbonate and Sulfate",
   "observation_start": "1973-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:05-05",
-  "popularity": 46,
-  "group_popularity": 46
+  "popularity": 47,
+  "group_popularity": 47
 }

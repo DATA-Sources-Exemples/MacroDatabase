@@ -1,7 +1,7 @@
 {
   "id": "TAMP312BP1FHSA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Tampa-St. Petersburg-Clearwater, FL (MSA)",
   "observation_start": "1988-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-23 08:47:47-05",
-  "popularity": 10,
-  "group_popularity": 11,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "This series represents the total number of building permits for 1-unit structure types. The 1-unit structure type is a single-family home or house. A single-family home or house types include fully detached, semidetached (semidetached, side-by-side), row houses, and townhouses. For attached units, each must be separated from the adjacent unit by a ground-to-roof wall in order to be classified as a single-family structure. These units also must not share heating/air-conditioning systems or utilities. Units built on top of one another and those built side-by-side that do not have a ground-to-roof wall and/or have common facilities (i.e., attic, basement, heating plant, plumbing, etc.) are not included under single-family structures.\n\nThe Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodel' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodel' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/srd/www/x13as/).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/TAMP312BP1FH).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator."
 }

@@ -1,7 +1,7 @@
 {
   "id": "NGDPRXDCRUA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Gross Domestic Product for Russia",
   "observation_start": "2003-01-01",
   "observation_end": "2020-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-07 07:09:36-06",
   "popularity": 3,
-  "group_popularity": 24
+  "group_popularity": 23
 }

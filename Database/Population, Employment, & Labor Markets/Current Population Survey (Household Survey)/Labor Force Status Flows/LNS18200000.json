@@ -1,7 +1,7 @@
 {
   "id": "LNS18200000",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employed to Other Marginal Outflows",
   "observation_start": "1990-02-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 07:50:05-05",
   "popularity": 3,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "This series is from the Current Population Survey (Household Survey) conducted by the Bureau of Labor Statistics. Labor force flows show the movements that underlie the net over-the-month changes in employment, unemployment, or not in the labor force."
 }

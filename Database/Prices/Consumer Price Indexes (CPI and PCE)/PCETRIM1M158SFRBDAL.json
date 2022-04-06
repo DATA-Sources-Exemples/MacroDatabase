@@ -1,0 +1,18 @@
+{
+  "id": "PCETRIM1M158SFRBDAL",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Trimmed Mean PCE Inflation Rate",
+  "observation_start": "1977-02-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change at Annual Rate",
+  "units_short": "% Chg. at Annual Rate",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-31 10:31:03-05",
+  "popularity": 43,
+  "group_popularity": 63,
+  "notes": "The Trimmed Mean PCE inflation rate produced by the Federal Reserve Bank of Dallas is an alternative measure of core inflation in the price index for personal consumption expenditures (PCE). The data series is calculated by the Dallas Fed, using data from the Bureau of Economic Analysis (BEA). Calculating the trimmed mean PCE inflation rate for a given month involves looking at the price changes for each of the individual components of personal consumption expenditures. The individual price changes are sorted in ascending order from \u201cfell the most\u201d to \u201crose the most,\u201d and a certain fraction of the most extreme observations at both ends of the spectrum are thrown out or trimmed. The inflation rate is then calculated as a weighted average of the remaining components. The trimmed mean inflation rate is a proxy for true core PCE inflation rate. The resulting inflation measure has been shown to outperform the more conventional \u201cexcluding food and energy\u201d measure as a gauge of core inflation."
+}

@@ -1,7 +1,7 @@
 {
   "id": "MFPPBS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Private Business Sector: Multifactor Productivity",
   "observation_start": "1948-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-25 12:23:02-05",
-  "popularity": 7,
+  "popularity": 6,
   "group_popularity": 17,
   "notes": "Source Code: MPU4900012\n\nReal Value-Added Output divided by combined inputs.\n\nThis data is constructed by the source by linking SIC 1948 from 1987 data with the NAICS data from 1987 from present.\n\nComplete information of the methods and data underlying these measures can be found in \"Technical Information About the BLS Multifactor Productivity Measures\" (https://www.bls.gov/mfp/mprtech.pdf) and \"BLS Handbook of Methods, Chapter 11 Industry Productivity Measures\" (http://www.bls.gov/opub/hom/pdf/homch11.pdf).\n\nInformation is also available on the Multifactor Productivity Website at http://www.bls.gov/mfp ."
 }

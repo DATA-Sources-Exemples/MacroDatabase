@@ -1,7 +1,7 @@
 {
   "id": "DTP5L02",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)",
   "observation_start": "1997-07-10",
   "observation_end": "2002-02-15",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2002-12-10 12:24:11-06",
-  "popularity": 2,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 5,
   "notes": "Copyright, 2016, Haver Analytics. Reprinted with permission."
 }

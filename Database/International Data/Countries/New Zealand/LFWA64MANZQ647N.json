@@ -1,7 +1,7 @@
 {
   "id": "LFWA64MANZQ647N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Working Age Population: Aged 15-64: Males for New Zealand",
   "observation_start": "1986-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 10:21:01-06",
   "popularity": 1,
-  "group_popularity": 11,
+  "group_popularity": 15,
   "notes": "OECD descriptor ID: LFWA64MA\nOECD unit ID: ST\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

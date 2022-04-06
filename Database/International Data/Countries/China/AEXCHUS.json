@@ -1,7 +1,7 @@
 {
   "id": "AEXCHUS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1981-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-03 15:36:03-06",
-  "popularity": 30,
-  "group_popularity": 68,
+  "popularity": 29,
+  "group_popularity": 69,
   "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

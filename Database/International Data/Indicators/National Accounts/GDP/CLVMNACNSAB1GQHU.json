@@ -1,7 +1,7 @@
 {
   "id": "CLVMNACNSAB1GQHU",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Gross Domestic Product for Hungary",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-08 04:02:47-06",
   "popularity": 2,
-  "group_popularity": 20,
+  "group_popularity": 17,
   "notes": "Eurostat unit ID: CLV10_MNAC\nEurostat item ID = B1GQ\nEurostat country ID: HU\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

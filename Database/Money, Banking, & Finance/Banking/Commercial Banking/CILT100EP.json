@@ -1,0 +1,18 @@
+{
+  "id": "CILT100EP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, Banks Ranked 1st to 100th Largest in Size by Assets",
+  "observation_start": "1985-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly, End of Period",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-23 15:05:04-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
+}

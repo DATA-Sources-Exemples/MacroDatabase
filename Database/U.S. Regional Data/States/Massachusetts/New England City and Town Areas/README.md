@@ -14,7 +14,7 @@
 | Pittsfield, MA                          |                78 |
 | Framingham, MA                          |                 1 |
 | Amherst Center, MA                      |                 2 |
-| Boston-Cambridge-Quincy, MA-NH          |                 1 |
+| Boston-Cambridge-Quincy, MA-NH          |                 2 |
 | Greenfield, MA                          |                 2 |
 | New Bedford, MA                         |                86 |
 | Springfield, MA-CT                      |               127 |

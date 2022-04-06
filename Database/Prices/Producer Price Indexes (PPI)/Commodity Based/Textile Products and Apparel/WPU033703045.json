@@ -1,7 +1,7 @@
 {
   "id": "WPU033703045",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Textile Products and Apparel: Greige Manmade Fiber Broadwoven Twill Fabrics, 85 Percent or More Spun Yarns (Excluding Pile/Wool Blend)",
   "observation_start": "2011-06-01",
   "observation_end": "2018-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-01-15 13:51:03-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

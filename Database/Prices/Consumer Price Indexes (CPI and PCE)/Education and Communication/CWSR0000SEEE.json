@@ -1,7 +1,7 @@
 {
   "id": "CWSR0000SEEE",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: Information Technology, Hardware and Services in U.S. City Average",
   "observation_start": "2006-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:39:23-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 5,
+  "group_popularity": 5
 }

@@ -1,7 +1,7 @@
 {
   "id": "MYAGM1SAM189N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M1 for Saudi Arabia",
   "observation_start": "1993-01-01",
   "observation_end": "2018-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:11-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "M1 comprises currency outside banks and demand deposits of businesses, individuals, and government entities in national currency with commercial banks. Currency in circulation refers to notes and coins issued by SAMA less the amount held by commercial banks.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

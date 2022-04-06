@@ -1,0 +1,18 @@
+{
+  "id": "IPUZNW001350000",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Output per Employee for Private Nonfarm in New Mexico",
+  "observation_start": "2008-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-06-07 21:50:06-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Output is the amount of goods and services produced. per employee"
+}

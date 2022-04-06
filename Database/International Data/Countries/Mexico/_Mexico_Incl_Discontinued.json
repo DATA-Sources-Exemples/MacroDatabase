@@ -1,8 +1,8 @@
 {
   "AEXMXUS": {
     "id": "AEXMXUS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Mexican Pesos to U.S. Dollar Spot Exchange Rate",
     "observation_start": "1993-01-01",
     "observation_end": "2021-01-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-01-03 15:36:05-06",
-    "popularity": 11,
+    "popularity": 10,
     "group_popularity": 60,
     "notes": "Averages of daily figures. Noon buying rates in New York City for cable transfers payable in foreign currencies.",
     "path": "../Database/International Data/Countries/Mexico"
   },
   "DEXMXUS": {
     "id": "DEXMXUS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Mexican Pesos to U.S. Dollar Spot Exchange Rate",
     "observation_start": "1993-11-08",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "EXMXUS": {
     "id": "EXMXUS",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Mexican Pesos to U.S. Dollar Spot Exchange Rate",
     "observation_start": "1993-11-01",
     "observation_end": "2022-03-01",

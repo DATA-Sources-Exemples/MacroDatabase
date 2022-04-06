@@ -1,0 +1,18 @@
+{
+  "id": "A809RX1Q020SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real final sales of domestic business",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-30 07:57:14-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "BEA Account Code: A809RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

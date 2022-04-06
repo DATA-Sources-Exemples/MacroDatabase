@@ -1,8 +1,8 @@
 {
   "GDPALL51942": {
     "id": "GDPALL51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: All Industries in Prince William, Manassas + Manassas Park County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "GDPGOODS51942": {
     "id": "GDPGOODS51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Private Goods-Producing Industries in Prince William, Manassas + Manassas Park County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "GDPGOVT51942": {
     "id": "GDPGOVT51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Government and Government Enterprises in Prince William, Manassas + Manassas Park County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "GDPSERV51942": {
     "id": "GDPSERV51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Private Services-Providing Industries in Prince William, Manassas + Manassas Park County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "REALGDPALL51942": {
     "id": "REALGDPALL51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: All Industries in Prince William, Manassas + Manassas Park Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -96,8 +96,8 @@
   },
   "REALGDPGOODS51942": {
     "id": "REALGDPGOODS51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Prince William, Manassas + Manassas Park Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -115,8 +115,8 @@
   },
   "REALGDPGOVT51942": {
     "id": "REALGDPGOVT51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Government and Government Enterprises in Prince William, Manassas + Manassas Park Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -134,8 +134,8 @@
   },
   "REALGDPSERV51942": {
     "id": "REALGDPSERV51942",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Private Services-Providing Industries in Prince William, Manassas + Manassas Park Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",

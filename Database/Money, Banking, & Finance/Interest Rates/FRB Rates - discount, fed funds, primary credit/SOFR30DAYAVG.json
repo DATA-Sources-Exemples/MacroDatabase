@@ -1,7 +1,7 @@
 {
   "id": "SOFR30DAYAVG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "30-Day Average SOFR",
   "observation_start": "2018-05-02",
   "observation_end": "2022-04-05",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-05 07:01:07-05",
-  "popularity": 64,
-  "group_popularity": 64,
+  "popularity": 65,
+  "group_popularity": 65,
   "notes": "As an extension of the additional documentation about the Treasury Repo Reference Rates. (https://www.newyorkfed.org/markets/treasury-repo-reference-rates-information)"
 }

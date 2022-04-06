@@ -1,0 +1,17 @@
+{
+  "id": "CSOUUR",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Unemployment Rate in South Census Region",
+  "observation_start": "1976-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-01 09:37:13-05",
+  "popularity": 8,
+  "group_popularity": 9
+}

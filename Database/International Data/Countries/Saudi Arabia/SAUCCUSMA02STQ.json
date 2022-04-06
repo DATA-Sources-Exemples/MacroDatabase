@@ -1,7 +1,7 @@
 {
   "id": "SAUCCUSMA02STQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Currency Conversions: US$ exchange rate: Average of daily rates: National currency:USD for Saudi Arabia",
   "observation_start": "1960-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-15 10:16:25-06",
   "popularity": 2,
-  "group_popularity": 8,
+  "group_popularity": 9,
   "notes": "OECD descriptor ID: CCUSMA02 OECD unit ID: ST OECD country ID: SAU All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

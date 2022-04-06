@@ -1,7 +1,7 @@
 {
   "id": "Y056RC1Q027SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Government Gross Investment: Intellectual Property Products: Software",
   "observation_start": "1959-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 08:01:17-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: Y056RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

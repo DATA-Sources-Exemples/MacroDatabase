@@ -1,0 +1,18 @@
+{
+  "id": "CTPCEPCFDSRVACCMD",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Per Capita Personal Consumption Expenditures: Services: Food Services and Accommodations for Connecticut",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:16:37-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Personal consumption expenditures of a given area divided by the resident population of the area.\n\nSpending on food services and accommodations. Food services consist of purchased meals and beverages and food furnished to employees (including military).For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

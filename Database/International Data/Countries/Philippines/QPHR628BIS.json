@@ -1,7 +1,7 @@
 {
   "id": "QPHR628BIS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Residential Property Prices for Makati, Philippines",
   "observation_start": "2008-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-24 11:01:16-05",
-  "popularity": 27,
-  "group_popularity": 27,
+  "popularity": 28,
+  "group_popularity": 28,
   "notes": "Source Code: Q:PH:R:628\n\nCoverage includes flats and commercial properties in Makati (part of metropolitan Manila). The series is deflated using CPI.\n\nFor more information, please see https://www.bis.org/statistics/pp_detailed.htm.\n\nAny use of the series shall be cited as follows: \"Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.\"\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

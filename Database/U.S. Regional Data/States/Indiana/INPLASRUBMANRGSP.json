@@ -1,0 +1,18 @@
+{
+  "id": "INPLASRUBMANRGSP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Gross Domestic Product: Plastics and Rubber Products Manufacturing (NAICS 326) in Indiana",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Chained 2012 Dollars",
+  "units_short": "Mil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-01 09:18:32-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
+}

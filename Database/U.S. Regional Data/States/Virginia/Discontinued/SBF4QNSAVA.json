@@ -1,0 +1,18 @@
+{
+  "id": "SBF4QNSAVA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Spliced Business Formations Within 4 Quarters for Virginia (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2019-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-10-14 11:02:56-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BFSBF4QTOTALNSAVA (https://fred.stlouisfed.org/series/BFSBF4QTOTALNSAVA) for an alternative.\n\nThis series combines (splices) https://fred.stlouisfed.org/series/BF4QNSAVA and https://fred.stlouisfed.org/series/PBF4QNSAVA to provide the entire time series for the actual and projected business formations within 4 quarters."
+}

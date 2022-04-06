@@ -1,0 +1,18 @@
+{
+  "id": "NGMPOTHSERVEUSMP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Gross Domestic Product: Private Industries: Other Services, Except Government for United States Metropolitan Portion",
+  "observation_start": "2001-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-08 08:49:25-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This NAICS sector comprises establishments engaged in providing services not specifically provided for elsewhere in the classification system. Establishments in this sector are primarily engaged in activities, such as equipment and machinery repairing, promoting or administering religious activities, grant-making, advocacy, and providing dry-cleaning and laundry services, personal care services, death care services, pet care services, photofinishing services, temporary parking services, and dating services.\n\nPrivate households that engage in employing workers on or about the premises in activities primarily concerned with the operation of the household are included in this sector.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
+}

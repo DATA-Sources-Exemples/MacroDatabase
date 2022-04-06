@@ -1,7 +1,7 @@
 {
   "id": "OKLA440UR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment Rate in Oklahoma City, OK (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2022-03-18 17:14:06-05",
-  "popularity": 18,
+  "popularity": 17,
   "group_popularity": 21
 }

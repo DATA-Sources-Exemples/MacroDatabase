@@ -1,8 +1,8 @@
 {
   "MKTGDPIMA646NWDB": {
     "id": "MKTGDPIMA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product for Isle of Man",
     "observation_start": "1995-01-01",
     "observation_end": "2019-01-01",
@@ -20,8 +20,8 @@
   },
   "MKTGNIIMA646NWDB": {
     "id": "MKTGNIIMA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross National Income for Isle of Man",
     "observation_start": "1995-01-01",
     "observation_end": "2019-01-01",
@@ -39,8 +39,8 @@
   },
   "NYGDPPCAPKDIMN": {
     "id": "NYGDPPCAPKDIMN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Constant GDP per capita for the Isle of Man",
     "observation_start": "1984-01-01",
     "observation_end": "2019-01-01",
@@ -58,8 +58,8 @@
   },
   "PCAGDPIMA646NWDB": {
     "id": "PCAGDPIMA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product Per Capita for Isle of Man",
     "observation_start": "1995-01-01",
     "observation_end": "2019-01-01",
@@ -77,8 +77,8 @@
   },
   "POPTOTIM52647NWDB": {
     "id": "POPTOTIM52647NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Population, Total for Isle of Man",
     "observation_start": "1967-01-01",
     "observation_end": "2012-01-01",
@@ -96,8 +96,8 @@
   },
   "POPTOTIMA647NWDB": {
     "id": "POPTOTIMA647NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Population, Total for Isle of Man",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",
@@ -115,8 +115,8 @@
   },
   "SPDYNLE00INIMN": {
     "id": "SPDYNLE00INIMN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Life Expectancy at Birth, Total for the Isle of Man",
     "observation_start": "1994-01-01",
     "observation_end": "2002-01-01",
@@ -134,8 +134,8 @@
   },
   "SPDYNTFRTINIMN": {
     "id": "SPDYNTFRTINIMN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Fertility Rate, Total for the Isle of Man",
     "observation_start": "1961-01-01",
     "observation_end": "2002-01-01",

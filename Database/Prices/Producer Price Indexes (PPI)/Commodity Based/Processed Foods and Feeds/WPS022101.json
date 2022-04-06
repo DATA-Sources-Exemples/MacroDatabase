@@ -1,7 +1,7 @@
 {
   "id": "WPS022101",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Beef and Veal Products, Fresh or Frozen",
   "observation_start": "1974-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-15 07:53:22-05",
-  "popularity": 8,
-  "group_popularity": 9
+  "popularity": 13,
+  "group_popularity": 14
 }

@@ -1,7 +1,7 @@
 {
   "id": "FFHTHIGH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "High Value of the Federal Funds Rate for the Indicated Date Published in The New York Herald-Tribune",
   "observation_start": "1928-04-04",
   "observation_end": "1937-08-12",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-07-03 16:29:23-05",
-  "popularity": 21,
-  "group_popularity": 21,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "High values of the federal funds rate published in The New York Herald-Tribune as recorded by the authors. For some, but not all periods, the source identifies the observation as a \u201cbid\u201d rate. \r\n\r\nFor additional details, see Sriya Anbil, Mark Carlson, Christopher Hanes, and David C. Wheelock.  \u201cA New Daily Federal Funds Rate Series and History of the Federal Funds Market, 1928-1954.\u201d  (https://research.stlouisfed.org/publications/review/2021/01/14/a-new-daily-federal-funds-rate-series-and-history-of-the-federal-funds-market-1928-54) Federal Reserve Bank of St. Louis Review, First Quarter 2021, 103(1), pp. 45-70."
 }

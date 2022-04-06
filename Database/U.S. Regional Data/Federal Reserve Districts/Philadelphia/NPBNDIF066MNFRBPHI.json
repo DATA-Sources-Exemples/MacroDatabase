@@ -1,0 +1,18 @@
+{
+  "id": "NPBNDIF066MNFRBPHI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Current Number of Part-Time, Temporary, and Contract Employees; Diffusion Index for Federal Reserve District 3: Philadelphia",
+  "observation_start": "2011-03-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-22 07:36:40-05",
+  "popularity": 3,
+  "group_popularity": 4,
+  "notes": "Current Number of Part-Time, Temporary, and Contract Employees reports the change in number of part-time, temporary, and contract employees compared to the previous month for reporting service firms. The diffusion index is calculated by taking the percent reporting increases and subtracting the percentage reporting decreases. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey/ ."
+}

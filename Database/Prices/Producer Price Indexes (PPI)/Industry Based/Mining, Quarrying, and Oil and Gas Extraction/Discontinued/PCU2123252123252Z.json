@@ -1,7 +1,7 @@
 {
   "id": "PCU2123252123252Z",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Industry: Clay, Ceramic, and Refractory Minerals Mining: Bentonite (DISCONTINUED)",
   "observation_start": "1984-06-01",
   "observation_end": "2017-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-01-11 09:01:09-06",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 4,
+  "group_popularity": 4
 }

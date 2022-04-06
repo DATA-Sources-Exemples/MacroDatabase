@@ -1,7 +1,7 @@
 {
   "id": "NGMPEDCATUSMP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Domestic Product: Private Industries: Educational Services, Health Care, and Social Assistance: Educational Services for United States Metropolitan Portion",
   "observation_start": "2001-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-08 08:37:29-06",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "The term \"Educational Services\" is used in both the SIC system and in NAICS, but it does not have the same definition in both systems.\n\nSIC definition: This SIC major group (82) includes establishments providing academic or technical instruction. Also included are establishments providing educational services such as libraries, student exchange programs, and curriculum development. Schools for the instruction of beauticians and cosmetologists are classified in Industry 7231, and barber colleges are classified in Industry 7241. Establishments primarily engaged in providing job training for the unemployed, the underemployed, the handicapped, and to persons who have a job market disadvantage because of lack of education, job skill or experience are classified in Industry 8331.\n\nNAICS definition: The Educational Services (NAICS) sector comprises establishments that provide instruction and training in a wide variety of subjects. This instruction and training is provided by specialized establishments, such as schools, colleges, universities, and training centers. These establishments may be privately owned and operated for profit or not for profit, or they may be publicly owned and operated. They may also offer food and accommodation services to their students.\n\nFor the public sector, the income and employment are classified by level of government- federal, state, and local. The estimates for the federal government are sub classified into civilian and military.\n\nThe different treatment of the private and public sectors means that BEA's state and local government industry includes public education, public hospitals, and other types of government services while BEA reports only private schools in its educational services industry corresponding to NAICS code 61 and only private hospitals in its hospitals industry corresponding to NAICS code 622.\n\nEducational services (NAICS) are usually delivered by teachers or instructors that explain, tell, demonstrate, supervise, and direct learning. Instruction is imparted in diverse settings, such as educational institutions, the workplace, or the home through correspondence, television, or other means. It can be adapted to the particular needs of the students, for example sign language can replace verbal language for teaching students with hearing impairments. All industries in the sector share this commonality of process, namely, labor inputs of instructors with the requisite subject matter expertise and teaching ability.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

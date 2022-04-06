@@ -1,7 +1,7 @@
 {
   "id": "SPDYNLE00INSSA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Life Expectancy at Birth, Total for Developing Countries in Sub-Saharan Africa",
   "observation_start": "1960-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-16 16:23:19-06",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups. A developing nation is defined as one which falls within the lower or middle income bracket.\n\nSource Indicator: SP.DYN.LE00.IN"
 }

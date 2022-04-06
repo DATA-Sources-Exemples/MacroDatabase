@@ -1,8 +1,8 @@
 {
   "ITNETUSERP2ASM": {
     "id": "ITNETUSERP2ASM",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Internet users for American Samoa",
     "observation_start": "1990-01-01",
     "observation_end": "1995-01-01",
@@ -20,8 +20,8 @@
   },
   "NYGDPPCAPKDASM": {
     "id": "NYGDPPCAPKDASM",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Constant GDP per capita for American Samoa",
     "observation_start": "2002-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "POPTOTAS52647NWDB": {
     "id": "POPTOTAS52647NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Population, Total for American Samoa",
     "observation_start": "1967-01-01",
     "observation_end": "2012-01-01",
@@ -58,8 +58,8 @@
   },
   "POPTOTASA647NWDB": {
     "id": "POPTOTASA647NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Population, Total for American Samoa",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "SEADTLITRZSASM": {
     "id": "SEADTLITRZSASM",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Literacy Rate, Adult Total for American Samoa",
     "observation_start": "1980-01-01",
     "observation_end": "1980-01-01",

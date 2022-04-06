@@ -1,0 +1,18 @@
+{
+  "id": "OKPCEPCHOUSUTL",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Per Capita Personal Consumption Expenditures: Services: Housing and Utilities for Oklahoma",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:12:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Personal consumption expenditures of a given area divided by the resident population of the area.\n\nSpending on housing and household utilities. Housing consists of the monetary rents paid by tenants for tenant-occupied housing, an imputed rental value for owner-occupied dwellings (measured as the income the homeowner could have received if the house had been rented to a tenant), the rental value of farm dwellings, and spending on group housing. Household utilities consist of water supply and sanitation and electricity and gas.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

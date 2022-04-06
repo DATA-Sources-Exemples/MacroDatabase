@@ -1,0 +1,18 @@
+{
+  "id": "OHPHCI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Coincident Economic Activity Index for Ohio",
+  "observation_start": "1979-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2007=100",
+  "units_short": "Index 2007=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-04-05 09:06:14-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "The Coincident Economic Activity Index includes four indicators: nonfarm payroll employment, the unemployment rate, average hours worked in manufacturing and wages and salaries. The trend for each state's index is set to match the trend for gross state product.\u00a0"
+}

@@ -1,7 +1,7 @@
 {
   "id": "WPS025504",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity for Processed Foods and Feeds: Sweetening Syrups and Molasses (DISCONTINUED)",
   "observation_start": "1990-01-01",
   "observation_end": "1991-06-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:44:22-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 4
 }

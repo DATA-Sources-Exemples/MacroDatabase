@@ -1,7 +1,7 @@
 {
   "id": "EQBXSSNQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Percent of Value of Loans Backed by Small Business Administration (SBA), Prime Based, Small Domestic Banks (DISCONTINUED)",
   "observation_start": "2012-07-01",
   "observation_end": "2017-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-08-04 16:07:03-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's E.2 release, online at http://www.federalreserve.gov/releases/e2/about.htm or in the footnotes of the E.2, Survey of Terms of Business Lending Release. These data are collected during the middle month of each quarter and are released in the middle of the succeeding month."
 }

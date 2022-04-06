@@ -1,7 +1,7 @@
 {
   "id": "FRAODCNPI03GPSAM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for France",
   "observation_start": "1960-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 11:21:59-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 6,
   "notes": "OECD descriptor ID: ODCNPI03 OECD unit ID: GPSA OECD country ID: FRA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

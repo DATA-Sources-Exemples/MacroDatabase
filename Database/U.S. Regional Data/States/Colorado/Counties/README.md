@@ -35,7 +35,7 @@
 | Montrose County, CO          |                90 |
 | Logan County, CO             |                89 |
 | La Plata County, CO          |               146 |
-| Jackson County, CO           |                86 |
+| Jackson County, CO           |                 2 |
 | Kit Carson County, CO        |                89 |
 | Moffat County, CO            |                89 |
 | Mesa County, CO              |               146 |

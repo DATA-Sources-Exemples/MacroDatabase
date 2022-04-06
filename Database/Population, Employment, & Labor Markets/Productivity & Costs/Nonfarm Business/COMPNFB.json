@@ -1,7 +1,7 @@
 {
   "id": "COMPNFB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Nonfarm Business Sector: Hourly Compensation for All Employed Persons",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 07:36:10-06",
-  "popularity": 28,
+  "popularity": 26,
   "group_popularity": 32,
   "notes": "The Productivity and Costs release on August 7, 2003,\nwill reflect the June 2003 benchmark revision to payroll\nemployment. Since employment is now reported on\na North American Industry Classification System (NAICS) basis,\nall of the historical data will be revised.\nChanges as a consequence of the move to\nNAICS should not be significant since this release\ncarries data at high levels of aggregation."
 }

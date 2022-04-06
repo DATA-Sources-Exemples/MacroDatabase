@@ -1,7 +1,7 @@
 {
   "id": "GS20",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity",
   "observation_start": "1953-04-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 15:17:16-05",
   "popularity": 48,
-  "group_popularity": 72,
+  "group_popularity": 73,
   "notes": "Averages of business days. For information on the break in this series from January 1987 through September 1993, please refer to information available at http://www.federalreserve.gov/releases/h15/data.htm.\n\nFor further information regarding treasury constant maturity data, please refer to http://www.federalreserve.gov/releases/h15/current/h15.pdf and http://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/yieldmethod.aspx."
 }

@@ -1,0 +1,18 @@
+{
+  "id": "EURESOQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the South Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:23-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "A housing unit which is occupied temporarily by persons who usually live elsewhere is interviewed as a vacant unit provided that a usual place of residence is held for the household which is not offered for rent or for sale. For example, a beach cottage occupied at the time of the interview by a family which has a usual place of residence in the city is included in the count of vacant units. Their house in the city would be reported \"occupied\" and would be included in the count of occupied units since the occupants are only temporarily absent. Units occupied by persons with usual residence elsewhere (URE) are further classified as seasonal vacant or year round vacant units."
+}

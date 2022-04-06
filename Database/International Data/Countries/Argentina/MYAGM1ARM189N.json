@@ -1,7 +1,7 @@
 {
   "id": "MYAGM1ARM189N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M1 for Argentina",
   "observation_start": "1998-01-01",
   "observation_end": "2018-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-04-29 07:02:06-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "M1 comprises currency in circulation outside the banking system and transferable deposits in national and foreign currency. Currency in circulation outside the banking system refers to notes and coins issued by the CBRA less the amount held by banking institutions, including the CBRA. Transferable deposits refer to current account deposits of state and local governments, public nonfinancial corporations, private sector, and residents abroad with banking institutions.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

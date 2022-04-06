@@ -1,7 +1,7 @@
 {
   "id": "NC000340Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:03:07-05",
   "popularity": 1,
-  "group_popularity": 16,
+  "group_popularity": 17,
   "notes": "BEA Account Code: NC000340"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "SBF8QSAUT",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Spliced Business Formations within 8 Quarters for Utah (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2019-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2020-10-14 11:02:51-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BFSBF8QTOTALSAUT (https://fred.stlouisfed.org/series/BFSBF8QTOTALSAUT) for an alternative.\n\nThis series combines (splices) https://fred.stlouisfed.org/series/BF8QSAUT and https://fred.stlouisfed.org/series/PBF8QSAUT to provide the entire time series for the actual and projected business formations within 8 quarters."
+}

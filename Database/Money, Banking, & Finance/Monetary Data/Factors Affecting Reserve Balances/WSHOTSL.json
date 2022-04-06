@@ -1,7 +1,7 @@
 {
   "id": "WSHOTSL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:34:06-05",
-  "popularity": 38,
-  "group_popularity": 38,
+  "popularity": 39,
+  "group_popularity": 39,
   "notes": "The total face value of U.S. Treasury securities held by the Federal Reserve. Purchases or sales of U.S. Treasury securities by the Federal Reserve Bank of New York (FRBNY) are made in the secondary market, or with various foreign official and international organizations that maintain accounts at the Federal Reserve. FRBNY's purchases or sales in the secondary market are conducted only through primary dealers."
 }

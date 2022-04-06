@@ -1,7 +1,7 @@
 {
   "id": "M010BBUSM508NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Pig Iron Production for United States",
   "observation_start": "1877-01-01",
   "observation_end": "1936-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:47:09-05",
-  "popularity": 2,
-  "group_popularity": 9,
+  "popularity": 1,
+  "group_popularity": 11,
   "notes": "Source: F.R. Macaulay, The Movement Of Interest Rates, Bond Yields, And Stock Prices In The U.S. Since 1856, NBER, 1938, Table 3A.\n\nThis NBER data series m01130bb appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01130bb"
 }

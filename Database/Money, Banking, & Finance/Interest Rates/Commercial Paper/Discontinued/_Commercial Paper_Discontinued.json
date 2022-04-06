@@ -1,8 +1,8 @@
 {
   "CP1M": {
     "id": "CP1M",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1971-04-01",
     "observation_end": "1997-08-01",
@@ -20,8 +20,8 @@
   },
   "CP3M": {
     "id": "CP3M",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "3-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1971-04-01",
     "observation_end": "1997-08-01",
@@ -39,8 +39,8 @@
   },
   "CP6M": {
     "id": "CP6M",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "6-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1970-01-01",
     "observation_end": "1997-08-01",
@@ -58,8 +58,8 @@
   },
   "DCP30": {
     "id": "DCP30",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1982-11-29",
     "observation_end": "1997-08-29",
@@ -76,8 +76,8 @@
   },
   "WCP1M": {
     "id": "WCP1M",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "1-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1971-04-09",
     "observation_end": "1997-08-29",
@@ -95,8 +95,8 @@
   },
   "WCP3M": {
     "id": "WCP3M",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "3-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1971-04-09",
     "observation_end": "1997-08-29",
@@ -114,8 +114,8 @@
   },
   "WCP6M": {
     "id": "WCP6M",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "6-Month Commercial Paper Rate (DISCONTINUED)",
     "observation_start": "1970-01-02",
     "observation_end": "1997-08-29",

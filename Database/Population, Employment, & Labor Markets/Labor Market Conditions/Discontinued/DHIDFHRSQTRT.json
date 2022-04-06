@@ -1,7 +1,7 @@
 {
   "id": "DHIDFHRSQTRT",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Rescaled Quits Rate (DISCONTINUED)",
   "observation_start": "2001-01-01",
   "observation_end": "2018-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-11 09:21:02-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Monthly updates of the DHI Hiring Indicators have been discontinue by the source.\n\nThe Rescaled Quits Rate offers a measure of voluntary job separations. The total number of quits per number of employed workers time series is rescaled to have the same variance and mean as the Vacancies to Unemployment Ratio time series. \n\n Reproduced with permisson of DHI Group, Inc. and Dr. Steven J. Davis. Copyright, 2017 DHI Group, Inc. All rights reserved."
 }

@@ -1,0 +1,18 @@
+{
+  "id": "BAWBATOTALNSATX",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Applications with Planned Wages: Total for All NAICS in Texas",
+  "observation_start": "2004-07-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 11:07:11-06",
+  "popularity": 0,
+  "group_popularity": 2,
+  "notes": "High-Propensity Business Applications (HBA) that indicate a first wages-paid date on the IRS Form SS-4. The indication of a wages-paid date is associated with a high likelihood of transitioning into a business with payroll.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

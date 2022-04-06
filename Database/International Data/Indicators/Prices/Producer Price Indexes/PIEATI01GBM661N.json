@@ -1,7 +1,7 @@
 {
   "id": "PIEATI01GBM661N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Prices Index: Economic Activities: Total Industrial Activities for the United Kingdom",
   "observation_start": "2008-12-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:46:21-06",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 7,
   "notes": "OECD descriptor ID: PIEATI01\nOECD unit ID: IXOB\nOECD country ID: GBR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

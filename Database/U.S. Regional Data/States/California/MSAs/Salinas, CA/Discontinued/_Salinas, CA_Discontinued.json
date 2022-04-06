@@ -1,8 +1,8 @@
 {
   "PCRGMP41500": {
     "id": "PCRGMP41500",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Salinas, CA (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "SMU06415003231100001": {
     "id": "SMU06415003231100001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Salinas, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",
@@ -38,8 +38,8 @@
   },
   "SMU06415003231100001A": {
     "id": "SMU06415003231100001A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Salinas, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-01-01",
@@ -56,8 +56,8 @@
   },
   "SMU06415003231100001SA": {
     "id": "SMU06415003231100001SA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Salinas, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",

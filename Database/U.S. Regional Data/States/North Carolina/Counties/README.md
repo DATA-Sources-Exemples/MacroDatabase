@@ -44,7 +44,7 @@
 | Sampson County, NC      |                90 |
 | Surry County, NC        |               147 |
 | Halifax County, NC      |               146 |
-| Cumberland County, NC   |               147 |
+| Cumberland County, NC   |                 2 |
 | Carteret County, NC     |               147 |
 | Randolph County, NC     |               147 |
 | New Hanover County, NC  |               147 |

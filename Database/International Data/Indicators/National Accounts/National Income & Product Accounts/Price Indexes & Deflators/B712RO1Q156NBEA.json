@@ -1,7 +1,7 @@
 {
   "id": "B712RO1Q156NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Domestic Purchases (chain-type price index)",
   "observation_start": "1948-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-24 08:04:46-06",
   "popularity": 1,
-  "group_popularity": 7,
+  "group_popularity": 6,
   "notes": "BEA Account Code: B712RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

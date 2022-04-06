@@ -1,7 +1,7 @@
 {
   "id": "M318551A027NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal government budget: Net capital transfers received: Timing differences (NIPA vs. Budget)",
   "observation_start": "1952-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-02 11:23:37-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "BEA Account Code: M318551\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

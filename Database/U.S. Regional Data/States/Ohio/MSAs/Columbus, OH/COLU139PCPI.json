@@ -1,7 +1,7 @@
 {
   "id": "COLU139PCPI",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Per Capita Personal Income in Columbus, OH (MSA)",
   "observation_start": "1969-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-16 07:38:20-06",
-  "popularity": 12,
-  "group_popularity": 12
+  "popularity": 11,
+  "group_popularity": 11
 }

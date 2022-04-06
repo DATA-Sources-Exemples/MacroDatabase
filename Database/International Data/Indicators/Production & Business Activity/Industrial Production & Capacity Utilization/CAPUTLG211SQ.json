@@ -1,7 +1,7 @@
 {
   "id": "CAPUTLG211SQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Capacity Utilization: Mining, Quarrying, and Oil and Gas Extraction: Oil and Gas Extraction (NAICS = 211)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-17 08:18:43-05",
-  "popularity": 7,
-  "group_popularity": 11,
+  "popularity": 9,
+  "group_popularity": 14,
   "notes": "For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.\n\nNAICS = 211\n\nSource Code: CAPUTL.G211.S"
 }

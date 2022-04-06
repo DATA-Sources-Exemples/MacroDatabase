@@ -1,0 +1,18 @@
+{
+  "id": "B278RL1Q225SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real National Defense Consumption Expenditures: Gross Output of General Government: Intermediate Goods and Services Purchased: Durable Goods: Ships",
+  "observation_start": "1972-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-01-27 08:01:54-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B278RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

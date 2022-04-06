@@ -8,7 +8,7 @@
 | Bergen County, NJ     |               143 |
 | Atlantic County, NJ   |               147 |
 | Passaic County, NJ    |               143 |
-| Burlington County, NJ |               147 |
+| Burlington County, NJ |                 2 |
 | Hudson County, NJ     |               147 |
 | Cumberland County, NJ |               147 |
 | Salem County, NJ      |               147 |

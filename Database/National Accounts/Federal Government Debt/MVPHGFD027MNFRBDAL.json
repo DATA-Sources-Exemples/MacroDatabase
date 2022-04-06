@@ -1,7 +1,7 @@
 {
   "id": "MVPHGFD027MNFRBDAL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Market Value of Privately Held Gross Federal Debt",
   "observation_start": "1942-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 09:17:03-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "For many uses, market value more accurately represents the debt burden faced by the U.S. government than the par value. The par value of government debt, which is reported by the U.S. Treasury Department, reflects interest rates at the time the debt was issued while the market value is adjusted to reflect market interest rates as of the observed period. Federal Reserve Bank of Dallas researchers calculates the market value of U.S. government debt series. For further information visit http://www.dallasfed.org/research/econdata/govdebt.cfm."
 }

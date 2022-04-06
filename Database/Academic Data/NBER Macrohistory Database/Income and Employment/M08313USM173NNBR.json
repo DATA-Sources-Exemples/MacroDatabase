@@ -1,7 +1,7 @@
 {
   "id": "M08313USM173NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Nonagricultural Job Openings, Number Pending for United States",
   "observation_start": "1946-10-01",
   "observation_end": "1969-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:28:54-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Data Refer To Job Openings As Yet Unfilled. Source: Data For October, 1946-October, 1949 Is From The U.S. Bureau Of The Census; Data For September, 1949-1969 Is From The U.S. Department Of Labor, Bureau Of Employment Security, Statistical Supplement, Labor Market And Employment Security; April, 1950-May, 1951 Was Furnished To NBER In A Letter Of February 25, 1963; Data For November, 1956-October, 1963 Are In Issues Dated January, 1960-December, 1963.\n\nThis NBER data series m08313 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08313"
 }

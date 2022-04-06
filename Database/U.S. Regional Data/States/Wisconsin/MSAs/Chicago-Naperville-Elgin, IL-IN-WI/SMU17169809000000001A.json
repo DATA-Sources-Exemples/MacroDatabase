@@ -1,7 +1,7 @@
 {
   "id": "SMU17169809000000001A",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:39:55-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 3
 }

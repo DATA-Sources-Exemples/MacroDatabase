@@ -1,7 +1,7 @@
 {
   "id": "IPVIII",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Import Price Index (Harmonized System): Raw hides, skins, leather, furskins, travel goods, etc",
   "observation_start": "1992-12-01",
   "observation_end": "2020-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-01-14 07:36:15-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

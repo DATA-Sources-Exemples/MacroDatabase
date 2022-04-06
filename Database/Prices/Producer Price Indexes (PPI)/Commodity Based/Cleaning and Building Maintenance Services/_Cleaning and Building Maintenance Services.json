@@ -1,8 +1,8 @@
 {
   "WPU49": {
     "id": "WPU49",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Cleaning and Building Maintenance Services (Partial)",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:56:25-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 4,
+    "group_popularity": 4,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Cleaning and Building Maintenance Services"
   },
   "WPU491": {
     "id": "WPU491",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Cleaning and Building Maintenance Services (Partial): Janitorial Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:57:19-05",
     "popularity": 2,
-    "group_popularity": 12,
+    "group_popularity": 14,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Cleaning and Building Maintenance Services"
   },
   "WPU4911": {
     "id": "WPU4911",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Cleaning and Building Maintenance Services (Partial): Janitorial Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -50,13 +50,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:18-05",
     "popularity": 2,
-    "group_popularity": 12,
+    "group_popularity": 14,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Cleaning and Building Maintenance Services"
   },
   "WPU491101": {
     "id": "WPU491101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Cleaning and Building Maintenance Services (Partial): Janitorial Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -67,14 +67,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 08:00:18-05",
-    "popularity": 2,
-    "group_popularity": 12,
+    "popularity": 1,
+    "group_popularity": 14,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Cleaning and Building Maintenance Services"
   },
   "WPU49110101": {
     "id": "WPU49110101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Cleaning and Building Maintenance Services (Partial): Janitorial Services",
     "observation_start": "2009-03-01",
     "observation_end": "2022-02-01",
@@ -85,8 +85,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 07:50:54-05",
-    "popularity": 10,
-    "group_popularity": 12,
+    "popularity": 13,
+    "group_popularity": 14,
     "path": "../Database/Prices/Producer Price Indexes (PPI)/Commodity Based/Cleaning and Building Maintenance Services"
   }
 }

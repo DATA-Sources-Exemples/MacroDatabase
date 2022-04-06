@@ -1,7 +1,7 @@
 {
   "id": "WPU103103",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Aluminum Cans and Can Components",
   "observation_start": "1981-06-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 08:03:18-05",
   "popularity": 2,
-  "group_popularity": 11
+  "group_popularity": 14
 }

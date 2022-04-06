@@ -1,7 +1,7 @@
 {
   "id": "CP1231EU272020M086NEST",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Harmonized Index of Consumer Prices: Jewelry, Clocks, and Watches for European Union (27 countries from 2020)",
   "observation_start": "2000-12-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 07:15:38-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "The Harmonized Index of Consumer Prices category Jewelry, Clocks, and Watches (12.3.1) is a classification of durable goods that includes precious stones and metals and jewelry fashioned out of such stones and metals; costume jewelry, cuff-links and tie-pins, clocks, watches, stop-watches, alarm clocks, travel clocks, and repair of such articles.\n\nThis category excludes ornaments (05.1.1) or (05.4.0); radio clocks (09.1.1), precious stones and metals and jewelry fashioned out of such stones and metals acquired primarily as stores of value (capital formation, not covered by HICP).\n\nThis category is a subcategory of the Miscellaneous Goods and Service (12) and of Personal Effects, Not Elsewhere Classified (12.3).\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source here (https://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm).\n\nCopyright, European Union, 1995-2016 (https://ec.europa.eu/info/legal-notice_en#copyright)."
 }

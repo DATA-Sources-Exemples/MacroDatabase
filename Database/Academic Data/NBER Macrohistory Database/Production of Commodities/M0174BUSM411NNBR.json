@@ -1,7 +1,7 @@
 {
   "id": "M0174BUSM411NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Ice Cream Production for United States",
   "observation_start": "1918-01-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:01:28-05",
-  "popularity": 12,
-  "group_popularity": 13,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1918-1940 (2)--Original Data, 1937-1942. These Data Are For Factory Production Only. Source: United States Department Of Agriculture, \"Production And Consumption Of Manufactured Dairy Products, \" (Technical Bulletin No.722, April 1940) P.71 And Direct From Bureau Of Agricultural Economics.\n\nThis NBER data series m01074b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01074b"
 }

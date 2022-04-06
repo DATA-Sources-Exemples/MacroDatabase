@@ -1,7 +1,7 @@
 {
   "id": "KORCP040100GYM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index: Housing, water, electricity, gas and other fuels (COICOP 04): Actual rentals for housing: Total for the Republic of Korea",
   "observation_start": "1986-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 11:11:47-06",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 4,
   "notes": "OECD descriptor ID: CP040100 OECD unit ID: GY OECD country ID: KORAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

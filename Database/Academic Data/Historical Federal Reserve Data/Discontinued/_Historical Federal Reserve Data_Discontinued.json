@@ -1,8 +1,8 @@
 {
   "G172CRFUN02": {
     "id": "G172CRFUN02",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Collection Ratios on Instalment Accounts, Furniture Stores (DISCONTINUED)",
     "observation_start": "1941-01-01",
     "observation_end": "1951-12-01",
@@ -20,8 +20,8 @@
   },
   "G172CRHA02": {
     "id": "G172CRHA02",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Collection Ratios on Instalment Accounts, Household Appliance Stores (DISCONTINUED)",
     "observation_start": "1941-01-01",
     "observation_end": "1951-12-01",
@@ -39,8 +39,8 @@
   },
   "G172CRJA02": {
     "id": "G172CRJA02",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Collection Ratios on Instalment Accounts, Jewelry Stores (DISCONTINUED)",
     "observation_start": "1941-01-01",
     "observation_end": "1946-12-01",
@@ -58,8 +58,8 @@
   },
   "G172IIFUN01": {
     "id": "G172IIFUN01",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Instalment Accounts Outstanding, Furniture Stores (DISCONTINUED)",
     "observation_start": "1941-01-01",
     "observation_end": "1951-12-01",
@@ -77,8 +77,8 @@
   },
   "G172IIHA01": {
     "id": "G172IIHA01",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Instalment Accounts Outstanding, Household Appliance Stores (DISCONTINUED)",
     "observation_start": "1941-01-01",
     "observation_end": "1951-12-01",
@@ -96,8 +96,8 @@
   },
   "G172IIJA01": {
     "id": "G172IIJA01",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Instalment Accounts Outstanding, Jewelry Stores (DISCONTINUED)",
     "observation_start": "1941-01-01",
     "observation_end": "1946-12-01",

@@ -1,7 +1,7 @@
 {
   "id": "B359RC1Q027SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross value added: GDP: Business: Farm",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:56:30-05",
-  "popularity": 18,
-  "group_popularity": 18,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "BEA Account Code: B359RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

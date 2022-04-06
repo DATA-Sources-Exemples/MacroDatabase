@@ -1,7 +1,7 @@
 {
   "id": "M0318AUSM144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Operating Revenues, Telephone Companies for United States",
   "observation_start": "1915-10-01",
   "observation_end": "1934-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:06:07-05",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 3,
   "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1915-1934 (2)--Original Data, 1933-1948 (3)--Original Data, 1942-1948 (4)--Original Data, 1948-1961 Data In This Variable Cover Class A Companies -- Those Having Annual Operating Revenues In Excess Of $250,000. Under Federal Communications Commission Jurisdiction, Class A Companies Are Those With Operating Revenues Of Over $100,000, But Only Those Having Over $250,000 (\"Large Companies\") File Monthly Reports. Data Cover Approximately 103 Companies. Source: Interstate Commerce Commission Files\n\nThis NBER data series m03018a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03018a"
 }

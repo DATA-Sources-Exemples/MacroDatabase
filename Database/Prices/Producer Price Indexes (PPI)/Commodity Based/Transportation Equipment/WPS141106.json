@@ -1,7 +1,7 @@
 {
   "id": "WPS141106",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Transportation Equipment: Trucks, over 14,000 Pounds GVW",
   "observation_start": "1979-01-01",
   "observation_end": "2016-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-11 11:23:44-06",
   "popularity": 3,
-  "group_popularity": 10
+  "group_popularity": 11
 }

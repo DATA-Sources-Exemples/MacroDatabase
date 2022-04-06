@@ -1,7 +1,7 @@
 {
   "id": "TOTTIME",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Time and Savings Deposits at All Depository Institutions (DISCONTINUED)",
   "observation_start": "1980-11-03",
   "observation_end": "2006-03-13",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2007-01-19 10:25:29-06",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 5,
+  "group_popularity": 6,
   "notes": "Sum of savings deposits, small-denomination time deposits and large-denomination time deposits.\nCalculated by the Federal Reserve Bank of St. Louis.\nFor details, please see http://www.federalreserve.gov/releases/h6/hist/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WSHOBL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Bills: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:34:12-05",
-  "popularity": 21,
-  "group_popularity": 21,
+  "popularity": 24,
+  "group_popularity": 24,
   "notes": "The current face value of the Federal Reserve's outright holdings of Treasury bills."
 }

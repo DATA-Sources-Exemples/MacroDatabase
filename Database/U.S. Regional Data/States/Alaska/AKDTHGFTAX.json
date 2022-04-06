@@ -1,0 +1,18 @@
+{
+  "id": "AKDTHGFTAX",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "State Government Tax Collections, Death and Gift Taxes in Alaska",
+  "observation_start": "1957-01-01",
+  "observation_end": "2014-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-01-07 13:31:57-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, see https://www.census.gov/programs-surveys/qtax.html."
+}

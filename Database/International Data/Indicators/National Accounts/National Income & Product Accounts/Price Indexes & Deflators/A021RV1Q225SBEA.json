@@ -1,7 +1,7 @@
 {
   "id": "A021RV1Q225SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Imports of Goods and Services (chain-type price index)",
   "observation_start": "1947-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-02-24 08:07:00-06",
-  "popularity": 2,
-  "group_popularity": 6,
+  "popularity": 1,
+  "group_popularity": 5,
   "notes": "BEA Account Code: A021RV\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

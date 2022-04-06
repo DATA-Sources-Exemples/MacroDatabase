@@ -1,7 +1,7 @@
 {
   "id": "B682RG3A086NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Private fixed investment in equipment and software: Nonresidential: Other equipment - furniture and fixtures, agricultural, construction, mining and oilfield, service industry machinery, electrical equipment n.e.c. (chain-type price index)",
   "observation_start": "1946-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:00:24-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: B682RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

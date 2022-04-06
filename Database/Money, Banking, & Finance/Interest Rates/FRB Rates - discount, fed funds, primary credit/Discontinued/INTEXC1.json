@@ -1,7 +1,7 @@
 {
   "id": "INTEXC1",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Interest Rate Paid on Excess Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED)",
   "observation_start": "2008-10-15",
   "observation_end": "2013-06-26",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-06-26 15:32:47-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "This series has been discontinued due to changes in Regulation D. On June 27, 2013, all depository institutions have a common two-week maintenance period. A maintenance period is the period of time over which depository institutions maintain balances at a Federal Reserve Bank, either directly or through a pass-through correspondent, to satisfy reserve balance requirements. A common two-week maintenance period consists of 14 consecutive days beginning on a Thursday and ending on the second Wednesday thereafter. The first two-week maintenance period began on June 27, 2013. For more information see http://www.federalreserve.gov/monetarypolicy/reqresbalances.htm"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "BF8QSAGA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Formations within 8 Quarters for Georgia (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2014-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2019-07-31 14:18:14-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BFBF8QTOTALSAGA (https://fred.stlouisfed.org/series/BFBF8QTOTALSAGA) for an alternative.\n\nThe number of employer businesses that originate from Business Applications (BA) within eight quarters from the quarter of application, similar to https://fred.stlouisfed.org/series/BF4QSAGA. By definition, the end-point of this series is determined by the most recent quarter for which the administrative data is available on payroll."
+}

@@ -1,7 +1,7 @@
 {
   "id": "SMU06418849091911001A",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Federal Government: Department of Defense in San Francisco-Redwood City-South San Francisco, CA (MD)",
   "observation_start": "1990-01-01",
   "observation_end": "2014-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-04-10 13:48:00-05",
-  "popularity": 5,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 4
 }

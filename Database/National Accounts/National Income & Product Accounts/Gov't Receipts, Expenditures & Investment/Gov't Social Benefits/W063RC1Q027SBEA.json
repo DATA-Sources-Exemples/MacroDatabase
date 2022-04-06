@@ -1,7 +1,7 @@
 {
   "id": "W063RC1Q027SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Government current transfer payments: Government social benefits",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:55:35-05",
-  "popularity": 7,
-  "group_popularity": 9,
+  "popularity": 10,
+  "group_popularity": 11,
   "notes": "BEA Account Code: W063RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "LNS13026511",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Job Losers Not on Layoff as a Percent of Total Unemployed",
   "observation_start": "1967-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 07:47:07-05",
   "popularity": 9,
-  "group_popularity": 10,
+  "group_popularity": 9,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13026511"
 }

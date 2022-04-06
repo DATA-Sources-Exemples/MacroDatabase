@@ -1,7 +1,7 @@
 {
   "id": "Q07053USQ027NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Net Exports of Goods and Services for United States",
   "observation_start": "1939-01-01",
   "observation_end": "1967-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:01:41-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "These Data Are Quarterly Totals At Annual Rates. Unadjusted Quarterly Figures Were Multiplied By Four To Derive Totals At Annual Rates. \"Net Foreign Investment\" Was Revised And Now Represents The Excess Of Exports Over Imports Plus Government Purchases Abroad, But Omitting Cash Grants Abroad, The Latter Having Formerly Been A Component Of\"Federal Puchases Of Goods And Services, Other National Security\". The Series Is Considered Comparable Throughout, Since Such Government Payments Were Neglible Prior To 1947. Data Are Now Called \"Net Exports Of Goods And Services\" In Source. Government Cash Grants Will Not Be Represented In The Gross National Product Hereafter, But Will Appear In The Quarterly Statement On Government And Foreign Transactions, Where The Series On\"Net Foreign Investment\" Will Still Be Shown. Source: Department Of Commerce, National Income, 1954 Edition. A Supplement To The Survey Of Current Business For Data Through 1945; Survey Of Current Business, July, 1958, July, 1959 And Following Issues. Other Sources Are The National Income And Product Accounts Of The United States, 1929-1965: A Supplement To The Survey Of Current Business, August, 1965; Survey Of Current Business, July, 1968 And Subsequent July Issues For Annual Revisions. See Also The Monthly Survey Of Current Business For Quarterly Figures.\n\nThis NBER data series q07053 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: q07053"
 }

@@ -1,7 +1,7 @@
 {
   "id": "DNDGRD3Q086SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Personal consumption expenditures: Nondurable goods (implicit price deflator)",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-30 07:56:56-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 5,
+  "group_popularity": 6,
   "notes": "BEA Account Code: DNDGRD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

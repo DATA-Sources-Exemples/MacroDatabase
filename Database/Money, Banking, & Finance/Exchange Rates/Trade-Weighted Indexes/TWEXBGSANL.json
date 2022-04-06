@@ -1,7 +1,7 @@
 {
   "id": "TWEXBGSANL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Nominal Broad U.S. Dollar Index",
   "observation_start": "2006-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-03 15:36:04-06",
-  "popularity": 15,
+  "popularity": 18,
   "group_popularity": 74
 }

@@ -1,7 +1,7 @@
 {
   "id": "SMU72419809091000001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Government: Federal Government in San Juan-Carolina-Caguas, PR (MSA)",
   "observation_start": "2003-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-26 03:12:03-05",
-  "popularity": 4,
+  "popularity": 3,
   "group_popularity": 4
 }

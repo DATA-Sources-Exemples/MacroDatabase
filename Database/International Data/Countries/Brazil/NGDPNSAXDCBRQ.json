@@ -1,7 +1,7 @@
 {
   "id": "NGDPNSAXDCBRQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Nominal Gross Domestic Product for Brazil",
   "observation_start": "1996-01-01",
   "observation_end": "2021-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-04 07:09:07-05",
   "popularity": 4,
-  "group_popularity": 9
+  "group_popularity": 8
 }

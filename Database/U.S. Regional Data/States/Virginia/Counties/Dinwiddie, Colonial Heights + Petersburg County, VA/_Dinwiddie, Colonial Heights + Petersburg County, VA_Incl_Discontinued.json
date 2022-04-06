@@ -1,8 +1,8 @@
 {
   "GDPALL51918": {
     "id": "GDPALL51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: All Industries in Dinwiddie, Colonial Heights + Petersburg County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "GDPGOODS51918": {
     "id": "GDPGOODS51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Private Goods-Producing Industries in Dinwiddie, Colonial Heights + Petersburg County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -39,8 +39,8 @@
   },
   "GDPGOVT51918": {
     "id": "GDPGOVT51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Government and Government Enterprises in Dinwiddie, Colonial Heights + Petersburg County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -58,8 +58,8 @@
   },
   "GDPSERV51918": {
     "id": "GDPSERV51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product: Private Services-Providing Industries in Dinwiddie, Colonial Heights + Petersburg County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -77,8 +77,8 @@
   },
   "REALGDPALL51918": {
     "id": "REALGDPALL51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: All Industries in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -96,8 +96,8 @@
   },
   "REALGDPGOODS51918": {
     "id": "REALGDPGOODS51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Private Goods-Producing Industries in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -115,8 +115,8 @@
   },
   "REALGDPGOVT51918": {
     "id": "REALGDPGOVT51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Government and Government Enterprises in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",
@@ -134,8 +134,8 @@
   },
   "REALGDPSERV51918": {
     "id": "REALGDPSERV51918",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Real Gross Domestic Product: Private Services-Providing Industries in Dinwiddie, Colonial Heights + Petersburg Virginia County, VA",
     "observation_start": "2001-01-01",
     "observation_end": "2020-01-01",

@@ -1,7 +1,7 @@
 {
   "id": "WPUID633",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Trade Services for Intermediate Demand",
   "observation_start": "2009-11-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:57:13-05",
-  "popularity": 4,
-  "group_popularity": 5
+  "popularity": 3,
+  "group_popularity": 4
 }

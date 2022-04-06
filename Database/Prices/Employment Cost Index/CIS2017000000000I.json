@@ -1,7 +1,7 @@
 {
   "id": "CIS2017000000000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Total compensation for Private industry workers in Leisure and hospitality",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:31-06",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 9,
+  "group_popularity": 10,
   "notes": "Includes wages, salaries, and employer costs for employee benefits.Historical data are available beginning with March 2001."
 }

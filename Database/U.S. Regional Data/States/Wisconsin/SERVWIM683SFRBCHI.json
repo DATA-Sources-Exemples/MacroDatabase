@@ -1,0 +1,18 @@
+{
+  "id": "SERVWIM683SFRBCHI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Services Sector",
+  "observation_start": "1976-06-01",
+  "observation_end": "2021-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Standard Deviation",
+  "units_short": "Index Standard Deviation",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-06-30 07:35:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series represents the contributions of Wisconsin's services sector to the Midwest Economy Index (MEI). This series is the weighted average of state variables measuring the growth in nonfarm business activity based on services sector indicators for the Wisconsin.\n\nA zero value represents an average contribution to the MEI by the state of Wisconsin, whereas a positive value indicates that an above-average contribution to MEI; and negative values indicate below-average contribution to MEI.\n\nFor further information about the Midwest Economy Index, go to http://midwest.chicagofedblogs.org/archives/2011/03/mei_by_scott_br.html and http://chicagofed.org/digital_assets/publications/chicago_fed_letter/2010/cflnovember2010_280.pdf."
+}

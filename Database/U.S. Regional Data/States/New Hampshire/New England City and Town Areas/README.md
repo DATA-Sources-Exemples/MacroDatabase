@@ -11,7 +11,7 @@
 | Lowell-Billerica-Chelmsford, MA-NH      |                 1 |
 | Lebanon, NH-VT                          |                 1 |
 | Berlin, NH                              |                 2 |
-| Boston-Cambridge-Quincy, MA-NH          |                 1 |
+| Boston-Cambridge-Quincy, MA-NH          |                 2 |
 | Rochester-Dover, NH-ME                  |                 1 |
 | Dover-Durham, NH-ME                     |                 1 |
 | Portsmouth, NH-ME                       |                 1 |

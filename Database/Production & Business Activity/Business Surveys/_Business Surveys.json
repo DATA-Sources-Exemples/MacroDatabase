@@ -1,8 +1,8 @@
 {
   "ATLSBUEGEP": {
     "id": "ATLSBUEGEP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Business Expectations: Employment Growth",
     "observation_start": "2016-12-01",
     "observation_end": "2022-03-01",
@@ -20,8 +20,8 @@
   },
   "ATLSBUEGUP": {
     "id": "ATLSBUEGUP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Business Uncertainty: Employment Growth",
     "observation_start": "2016-12-01",
     "observation_end": "2022-03-01",
@@ -32,15 +32,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-30 10:01:03-05",
-    "popularity": 8,
-    "group_popularity": 8,
+    "popularity": 7,
+    "group_popularity": 7,
     "notes": "This index reflects firms' uncertainty about the growth of their own employment levels over the next 12 months.\r\n\r\nFor more details about the methodology or the survey, visit the Survey of Business Uncertainty (https://www.frbatlanta.org/research/surveys/business-uncertainty.aspx).",
     "path": "../Database/Production & Business Activity/Business Surveys"
   },
   "ATLSBUSRGEP": {
     "id": "ATLSBUSRGEP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Business Expectations: Sales Revenue Growth",
     "observation_start": "2016-12-01",
     "observation_end": "2022-03-01",
@@ -51,15 +51,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-30 10:01:01-05",
-    "popularity": 30,
-    "group_popularity": 30,
+    "popularity": 32,
+    "group_popularity": 32,
     "notes": "This index reflects firms' expectations about the growth of their own sales revenue over the next 12 months.\r\n\r\nFor more details about the methodology or the survey, visit the Survey of Business Uncertainty (https://www.frbatlanta.org/research/surveys/business-uncertainty.aspx).",
     "path": "../Database/Production & Business Activity/Business Surveys"
   },
   "ATLSBUSRGUP": {
     "id": "ATLSBUSRGUP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Business Uncertainty: Sales Revenue Growth",
     "observation_start": "2016-12-01",
     "observation_end": "2022-03-01",
@@ -70,8 +70,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-30 10:01:02-05",
-    "popularity": 15,
-    "group_popularity": 15,
+    "popularity": 16,
+    "group_popularity": 16,
     "notes": "This index reflects firms' uncertainty about the growth of their own sales revenue over the next 12 months.\r\n\r\nFor more details about the methodology or the survey, visit the Survey of Business Uncertainty (https://www.frbatlanta.org/research/surveys/business-uncertainty.aspx).",
     "path": "../Database/Production & Business Activity/Business Surveys"
   }

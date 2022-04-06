@@ -1,7 +1,7 @@
 {
   "id": "FYGDP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Domestic Product",
   "observation_start": "1930-06-30",
   "observation_end": "2021-09-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 10:53:03-05",
-  "popularity": 48,
+  "popularity": 47,
   "group_popularity": 90
 }

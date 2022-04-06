@@ -1,7 +1,7 @@
 {
   "id": "M10009M144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Corporate Issues, Long Term Bonds and Notes, U.S. and Canadian",
   "observation_start": "1919-01-01",
   "observation_end": "1957-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:20:00-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "Data Refer To \"New Capital\" (\"Refunding\" Not Included). \"Municipal\" And \"Government\" Are Excluded Throughout. After November 1957, The Series Was No Longer Compiled By The Commerical And Financial Chronicle. 1956 And 1957 Data Are Preliminary Figures. Source: Computed By NBER By Adding U.S. And Canadian Data Found In The Commerical And Financial Chronicle, January 1922, And Following Issues\n\nThis NBER data series m10009 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: m10009"
 }

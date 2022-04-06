@@ -1,7 +1,7 @@
 {
   "id": "M13019USM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "American Railroad Bond Yields, High Grade for United States",
   "observation_start": "1857-01-01",
   "observation_end": "1937-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:43-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Data Are Adjusted For Economic Drift. Source: F.R. Macaulay, The Movement Of Interest Rates, Bond Yields, And Stock Prices In The United States Since 1856 (NBER, 1938), Appendix Table 10, Pp. A142-A161.\n\nThis NBER data series m13019 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13019"
 }

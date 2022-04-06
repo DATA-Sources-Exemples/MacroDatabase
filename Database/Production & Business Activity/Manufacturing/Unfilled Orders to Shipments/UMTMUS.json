@@ -1,7 +1,7 @@
 {
   "id": "UMTMUS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturers' Unfilled Orders to Shipments Ratios: Total Manufacturing",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-04 09:03:17-05",
-  "popularity": 6,
-  "group_popularity": 9,
+  "popularity": 9,
+  "group_popularity": 12,
   "notes": "Unfilled Orders to Shipments Ratio Excludes Semiconductor Manufacturing. Also, the Ratio of Unfilled Orders to Shipments excludes the following industries with no unfilled orders: Wood products; nonmetallic mineral products; medical equipment and supplies; office supplies; other miscellaneous manufacturing; cutlery and handtools; farm and garden machinery; computer storage and peripheral devices; audio and video equipment; manufacturing and reproducing magnetic and optical media; batteries; automobiles; light trucks and utility vehicles; heavy duty trucks; and miscellaneous furniture."
 }

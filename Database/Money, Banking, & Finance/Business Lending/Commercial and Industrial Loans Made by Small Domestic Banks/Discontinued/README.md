@@ -1,0 +1,7 @@
+| id        | title                                                                                                                                                         | observation_start   | observation_end   |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ETLLXSSNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set for More than 365 Days, Low Risk, Small Domestic Banks (DISCONTINUED)                | 2003-04-01          | 2017-04-01        |
+| ETLMXSSNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set for More than 365 Days, Moderate Risk, Small Domestic Banks (DISCONTINUED)           | 2003-04-01          | 2017-04-01        |
+| ETLNXSSNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set for More than 365 Days, Minimal Risk, Small Domestic Banks (DISCONTINUED)            | 2003-04-01          | 2017-04-01        |
+| ETLOXSSNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set for More than 365 Days, Other Risk (Acceptable), Small Domestic Banks (DISCONTINUED) | 2003-04-01          | 2017-04-01        |
+| ETLXSSNQ  | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set for More than 365 Days, Small Domestic Banks (DISCONTINUED)                          | 2003-04-01          | 2017-04-01        |

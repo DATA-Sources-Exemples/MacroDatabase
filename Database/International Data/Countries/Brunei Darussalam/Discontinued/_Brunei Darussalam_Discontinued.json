@@ -1,8 +1,8 @@
 {
   "DDOI01BNA156NWDB": {
     "id": "DDOI01BNA156NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Bank Concentration for Brunei Darussalam (DISCONTINUED)",
     "observation_start": "1997-01-01",
     "observation_end": "2005-01-01",
@@ -20,8 +20,8 @@
   },
   "DDOI05BNA156NWDB": {
     "id": "DDOI05BNA156NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Boone Indicator in Banking Market for Brunei Darussalam (DISCONTINUED)",
     "observation_start": "1997-01-01",
     "observation_end": "2010-01-01",

@@ -1,8 +1,9 @@
-| Folder                                    |   Files / Folders |
-|-------------------------------------------|-------------------|
-| Total Separations (Levels and Rates)      |                86 |
-| Layoffs and Discharges (Levels and Rates) |                68 |
-| Hires (Levels and Rates)                  |                86 |
-| Other Separations (Levels and Rates)      |                54 |
-| Quits (Levels and Rates)                  |                87 |
-| Job Openings (Levels and Rates)           |                86 |
+| id         | title                            | observation_start   | observation_end   |
+|------------|----------------------------------|---------------------|-------------------|
+| 32241      | nan                              | nan                 | nan               |
+| JTS1000OSL | Other Separations: Total Private | 2000-12-01          | 2022-02-01        |
+| JTS1000OSR | Other Separations: Total Private | 2000-12-01          | 2022-02-01        |
+| JTS9000OSL | Other Separations: Government    | 2000-12-01          | 2022-02-01        |
+| JTS9000OSR | Other Separations: Government    | 2000-12-01          | 2022-02-01        |
+| JTSOSL     | Other Separations: Total Nonfarm | 2000-12-01          | 2022-02-01        |
+| JTSOSR     | Other Separations: Total Nonfarm | 2000-12-01          | 2022-02-01        |

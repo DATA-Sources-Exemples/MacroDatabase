@@ -1,0 +1,18 @@
+{
+  "id": "W019RC1A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal government total expenditures",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 07:53:06-05",
+  "popularity": 8,
+  "group_popularity": 32,
+  "notes": "BEA Account Code: W019RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

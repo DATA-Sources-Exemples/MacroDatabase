@@ -1,7 +1,7 @@
 {
   "id": "LAUMT123734000000003A",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment Rate in Palm Bay-Melbourne-Titusville, FL (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-04-16 14:29:48-05",
   "popularity": 1,
-  "group_popularity": 7
+  "group_popularity": 6
 }

@@ -1,0 +1,18 @@
+{
+  "id": "D5TAHTA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Total Assets Held in Trading Accounts for Commercial Banks Geographically Located in FRB-Richmond District (DISCONTINUED)",
+  "observation_start": "1984-01-01",
+  "observation_end": "1993-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-05-22 10:56:26-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series represents Total Assets Held in Trading Accounts call item RCFD2146.\n\nGeographic location is determined by Federal Reserve District call item RSSD9170 = '05' representing FRB-Richmond District.\n\nUsers are advised to use the Federal Reserve Board of Governors' data dictionary (https://www.federalreserve.gov/apps/mdrm/data-dictionary) to retrieve detailed information for specific call items.\n\nThis series is calculated by the Federal Reserve Bank of St. Louis using raw data that are collected by the FFIEC. Raw data can be found at https://cdr.ffiec.gov/public/."
+}

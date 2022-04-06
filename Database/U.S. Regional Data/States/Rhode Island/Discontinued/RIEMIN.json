@@ -1,0 +1,18 @@
+{
+  "id": "RIEMIN",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Mining Earnings in Rhode Island (DISCONTINUED)",
+  "observation_start": "1998-01-01",
+  "observation_end": "2012-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-09-26 11:01:30-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS."
+}

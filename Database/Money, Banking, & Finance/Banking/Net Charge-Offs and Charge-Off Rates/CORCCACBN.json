@@ -1,7 +1,7 @@
 {
   "id": "CORCCACBN",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Charge-Off Rate on Credit Card Loans, All Commercial Banks",
   "observation_start": "1985-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-23 15:04:12-06",
   "popularity": 23,
-  "group_popularity": 43,
+  "group_popularity": 42,
   "notes": "Charge-off rates are annualized, net of recoveries."
 }

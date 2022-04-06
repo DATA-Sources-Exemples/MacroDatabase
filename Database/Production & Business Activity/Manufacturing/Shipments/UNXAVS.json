@@ -1,7 +1,7 @@
 {
   "id": "UNXAVS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturers' Value of Shipments: Nondefense Capital Goods Excluding Aircraft",
   "observation_start": "1992-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-04 09:02:05-05",
   "popularity": 2,
-  "group_popularity": 25,
+  "group_popularity": 26,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

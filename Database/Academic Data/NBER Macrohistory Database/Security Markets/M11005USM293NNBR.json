@@ -1,7 +1,7 @@
 {
   "id": "M11005USM293NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "American Railroad Stock Prices for United States",
   "observation_start": "1855-01-01",
   "observation_end": "1937-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:01:03-05",
-  "popularity": 5,
-  "group_popularity": 14,
+  "popularity": 7,
+  "group_popularity": 19,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1855-1937 (2)--Original Data, 1918-1957 (3)--Original Data, 1949-1964. The 1855 And 1856 Figures Are An Unweighted Arithmetic Index Spliced On To The Weighted Index In January, 1857. They Are Not Considered Reliable By NBER. The Unit For This Variable Is Dollars Per Share. The Index Is A Chain Index Made Up Of 13 Month Segments Chained To The Segment 01/1926-01/1927. The Index Is Weighted According To The Number Of Shares Outstanding Each Year. Source: F.R. Macaulay, \"Some Theoretical Problems Suggested By The Movements Of Interest Rates, Bond Yields, And Stock Prices In The United States Since 1856, \" (NBER 1938), Pp.A142-A161.\n\nThis NBER data series m11005 appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11005"
 }

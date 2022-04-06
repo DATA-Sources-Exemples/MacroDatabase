@@ -1,7 +1,7 @@
 {
   "id": "ECBASSETS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Central Bank Assets for Euro Area (11-19 Countries) (DISCONTINUED)",
   "observation_start": "1998-12-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-02-04 11:31:02-06",
-  "popularity": 39,
-  "group_popularity": 39,
+  "popularity": 40,
+  "group_popularity": 40,
   "notes": "This series will no longer be updated. It has been replaced with ECBASSETSW (https://fred.stlouisfed.org/series/ECBASSETSW) that updates on a weekly basis.\r\n\r\nCopyright, 2016, European Central Bank (ECB). Reprinted with permission."
 }

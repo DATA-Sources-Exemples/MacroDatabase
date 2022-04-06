@@ -1,7 +1,7 @@
 {
   "id": "B4710C0A222NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Hours worked by full-time and part-time employees: Domestic private industries: Manufacturing: Durable goods",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-08-08 14:12:49-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B4710C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

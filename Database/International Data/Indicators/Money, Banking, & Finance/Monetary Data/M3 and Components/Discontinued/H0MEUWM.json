@@ -1,7 +1,7 @@
 {
   "id": "H0MEUWM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Eurodollars (DISCONTINUED)",
   "observation_start": "1981-01-05",
   "observation_end": "2006-03-13",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-07 13:45:09-06",
   "popularity": 2,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "On March 23, 2006, the Board of Governors of the Federal Reserve System ceased publication of the M3 monetary aggregate and its components. For more information, please refer to the announcement (https://www.federalreserve.gov/releases/h6/discm3.htm) provided by the source."
 }

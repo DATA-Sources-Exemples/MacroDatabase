@@ -1,0 +1,18 @@
+{
+  "id": "LAODIV",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Dividends, Interest and Rent in Louisiana",
+  "observation_start": "1948-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-23 13:32:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Please visit http://research.stlouisfed.org/fred2/personalincome for documentation on the derivation of personal income."
+}

@@ -1,8 +1,8 @@
 {
   "ENUC230230010": {
     "id": "ENUC230230010",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Quarterly Wages in Fort Walton Beach-Crestview-Destin, FL (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-10-01",
@@ -20,8 +20,8 @@
   },
   "ENUC230230010SA": {
     "id": "ENUC230230010SA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Quarterly Wages in Fort Walton Beach-Crestview-Destin, FL (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-10-01",
@@ -39,8 +39,8 @@
   },
   "PCRGMP18880": {
     "id": "PCRGMP18880",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Crestview-Fort Walton Beach-Destin, FL (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -58,8 +58,8 @@
   },
   "SMS12188800000000001": {
     "id": "SMS12188800000000001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Total Nonfarm in Crestview-Fort Walton Beach-Destin, FL (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2014-12-01",

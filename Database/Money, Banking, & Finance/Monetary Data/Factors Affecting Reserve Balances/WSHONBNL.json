@@ -1,7 +1,7 @@
 {
   "id": "WSHONBNL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Nominal: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:34:10-05",
-  "popularity": 22,
-  "group_popularity": 22,
+  "popularity": 27,
+  "group_popularity": 27,
   "notes": "The current face value of the Federal Reserve's outright holdings of nominal Treasury notes and bonds."
 }

@@ -14,5 +14,5 @@
 | Foreign Trade                       |                79 |
 | Distribution of Commodities         |               166 |
 | Construction                        |                 1 |
-| Stocks of Commodities               |               194 |
+| Stocks of Commodities               |                 2 |
 | Leading Indicators                  |                64 |

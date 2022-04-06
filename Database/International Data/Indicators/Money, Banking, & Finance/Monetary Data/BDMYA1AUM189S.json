@@ -1,0 +1,18 @@
+{
+  "id": "BDMYA1AUM189S",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Broad Money, Alternate Definition 1 for Australia",
+  "observation_start": "2009-01-01",
+  "observation_end": "2011-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "National Currency",
+  "units_short": "National Currency",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2011-11-17 08:01:20-06",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+}

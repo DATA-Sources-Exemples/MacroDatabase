@@ -1,0 +1,18 @@
+{
+  "id": "HSFAVGUSMWM052N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Mean Sales Price of Existing Single-Family Homes in Midwest Census Region",
+  "observation_start": "2021-02-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-18 09:15:36-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.\n\nThe mean sales price measures the average transacted price for existing homes sales.\n\nFor more information, see Methodology: Existing-Home Sales (https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales/methodology).\n\nCopyright, 2016, National Association of Realtors. Reprinted with permission."
+}

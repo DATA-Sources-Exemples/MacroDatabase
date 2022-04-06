@@ -1,0 +1,18 @@
+{
+  "id": "L318461A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Cash payments to the public: Coverage differences: Net investment (DISCONTINUED)",
+  "observation_start": "1952-01-01",
+  "observation_end": "1967-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-01-23 11:36:13-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: L318461\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

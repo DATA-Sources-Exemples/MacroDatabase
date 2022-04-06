@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Finished goods stocks |                 1 |
-| Business situation    |                 1 |
-| Order books           |                 1 |
-| Confidence indicators |                 1 |
+| Finished goods stocks |                 2 |
+| Business situation    |                 2 |
+| Order books           |                 2 |
+| Confidence indicators |                 2 |

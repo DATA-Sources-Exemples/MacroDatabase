@@ -1,8 +1,8 @@
 {
   "A054RC0A144NBEA": {
     "id": "A054RC0A144NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Taxes on corporate income, NIPAs (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2016-01-01",
@@ -20,8 +20,8 @@
   },
   "B075RU1Q027NBEA": {
     "id": "B075RU1Q027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal government current tax receipts: Taxes on corporate income (DISCONTINUED)",
     "observation_start": "1947-01-01",
     "observation_end": "2016-10-01",
@@ -39,8 +39,8 @@
   },
   "B102RU1Q027NBEA": {
     "id": "B102RU1Q027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "State and local government current tax receipts: Taxes on corporate income (DISCONTINUED)",
     "observation_start": "1947-01-01",
     "observation_end": "2016-10-01",
@@ -58,8 +58,8 @@
   },
   "B3174C0A144NBEA": {
     "id": "B3174C0A144NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Taxes on corporate income: Rest of the world (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "1969-01-01",
@@ -77,8 +77,8 @@
   },
   "L318131A027NBEA": {
     "id": "L318131A027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal government cash receipts from the public: Timing differences: Taxes on corporate income (DISCONTINUED)",
     "observation_start": "1952-01-01",
     "observation_end": "1967-01-01",
@@ -96,8 +96,8 @@
   },
   "L318131Q027NBEA": {
     "id": "L318131Q027NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal government cash receipts from the public: Timing differences: Taxes on corporate income (DISCONTINUED)",
     "observation_start": "1959-07-01",
     "observation_end": "1967-10-01",

@@ -1,7 +1,7 @@
 {
   "id": "A3451C0A144NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Undistributed corporate profits: Domestic industries: Finance, insurance, and real estate",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-08-27 11:03:07-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: A3451C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

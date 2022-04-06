@@ -1,7 +1,7 @@
 {
   "id": "WTB3MA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "3-Month Treasury Bill Rate: Auction Average (DISCONTINUED)",
   "observation_start": "1960-01-08",
   "observation_end": "2000-06-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2000-06-30 00:00:00-05",
-  "popularity": 7,
-  "group_popularity": 20,
+  "popularity": 10,
+  "group_popularity": 21,
   "notes": "Averages of business days, discount basis."
 }

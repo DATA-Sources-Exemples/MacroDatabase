@@ -1,7 +1,7 @@
 {
   "id": "M13008USM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Interest Rates on Federal Land Bank Loans, Twelve Federal Land Banks for United States",
   "observation_start": "1917-02-01",
   "observation_end": "1944-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:07-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "The Rate Shown For Each Month Is The Average Of The Loan Rates Of The Twelve Banks, No Weight Being Given To The Number Of Loans Closed At The Various Rates. When A Change Of Rate Occurred During A Month, The Bank'S Average Rates For That Month Was Obtained By Weighting By The Number Of Business Days It Was In Force. Source: Data For 1917-1934: Letter From The Farm Credit Administration, Washington, D.C., January 4, 1935. Data For 1935-1944: U.S. Department Of Commerce, Survey Of Current Business, 1938 Annual Supplement, P. 56, 1940, P. 56, And Successive Issues.\n\nThis NBER data series m13008 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13008"
 }

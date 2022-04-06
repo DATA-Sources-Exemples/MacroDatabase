@@ -1,7 +1,7 @@
 {
   "id": "CPMEURNSAB1GQEU272020",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)",
   "observation_start": "1995-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-08 04:02:51-06",
-  "popularity": 3,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 5,
   "notes": "Eurostat unit ID: CP_MEUR \n\nEurostat item ID = B1GQ \n\nEurostat country ID: EU27_2020 \n\nEuro/ECU series is expressed in euro from January 1, 1999 till present. Prior to December 31, 1998, synthetic exchange rate of the national currency to European Community Unit (ECU) is used to adjust for market exchange rate movements. \n\nEuropean Union (27 countries from 2020) represents the 2020 reduction in the European Union countries due to the departure of the United Kindom. European Union (27 countries): Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Luxembourg, the Netherlands, Portugal, Austria, Finland, Sweden, Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovenia, Slovakia, Bulgaria, Romania, and Croatia. \n\nCopyright, European Union, https://ec.europa.eu, 1995-2016. Complete terms of use are available here (https://ec.europa.eu/info/legal-notice_en#copyright)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "A0851AUSA052NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Average Hourly Money Earnings in Book and Job Printing for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1928-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:20:03-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1928 (2)--Original Data, 1921-1935. This Industry Corresponds To One Of Douglas'\"Union\" Industries. Source: P.H. Douglas, \"Real Wages In The United States, 1890-1926, \" (P. 96); For 1927-1928, P.H. Douglas, \" The Movement Of Money And Real Earnings, P. 32\n\nThis NBER data series a08051a appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: a08051a"
 }

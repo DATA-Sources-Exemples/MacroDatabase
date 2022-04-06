@@ -1,7 +1,7 @@
 {
   "id": "B638RL1A225NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Exports of Goods: Foods, Feeds, and Beverages",
   "observation_start": "1968-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-27 08:00:22-06",
   "popularity": 1,
-  "group_popularity": 9,
+  "group_popularity": 6,
   "notes": "BEA Account Code: B638RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

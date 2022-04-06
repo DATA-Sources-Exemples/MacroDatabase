@@ -1,0 +1,18 @@
+{
+  "id": "COBP1FH",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Colorado",
+  "observation_start": "1988-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Units",
+  "units_short": "Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-23 08:48:04-05",
+  "popularity": 20,
+  "group_popularity": 21,
+  "notes": "This series represents the total number of building permits for 1-unit structure types. The 1-unit structure type is a single-family home or house. A single-family home or house types include fully detached, semidetached (semidetached, side-by-side), row houses, and townhouses. For attached units, each must be separated from the adjacent unit by a ground-to-roof wall in order to be classified as a single-family structure. These units also must not share heating/air-conditioning systems or utilities. Units built on top of one another and those built side-by-side that do not have a ground-to-roof wall and/or have common facilities (i.e., attic, basement, heating plant, plumbing, etc.) are not included under single-family structures."
+}

@@ -1,7 +1,7 @@
 {
   "id": "A0156AUSA149NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Steam Locomotives Available, Tractive Power for United States",
   "observation_start": "1902-01-01",
   "observation_end": "1916-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:49:44-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1902-1916 (2)--Original Data, 1916-1945. Data Are For All Railroads. Tractive Power For Unclassified Railroads Not Included. 1902-1907 Data Were Computed By NBER By Adding Items For Single Expansion, Four Cylinder Compound, And Two Cylinder Compound. Figures Include Switching And Terminal Companies, Except 1909-1914 And Exclude Class Iii For 1913-1916. Data Are For Years Ending June 30. Source: Interstate Commerce Commission, Annual Reports Of Statistics Of Railways In The United States.\n\nThis NBER data series a01156a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01156a"
 }

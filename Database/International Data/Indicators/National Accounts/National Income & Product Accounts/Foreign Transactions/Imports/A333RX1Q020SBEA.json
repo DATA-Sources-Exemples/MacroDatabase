@@ -1,7 +1,7 @@
 {
   "id": "A333RX1Q020SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real imports of durable goods",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:57:16-05",
-  "popularity": 6,
-  "group_popularity": 10,
+  "popularity": 4,
+  "group_popularity": 8,
   "notes": "BEA Account Code: A333RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

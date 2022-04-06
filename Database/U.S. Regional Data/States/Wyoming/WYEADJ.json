@@ -1,0 +1,18 @@
+{
+  "id": "WYEADJ",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Residence Adjustment in Wyoming",
+  "observation_start": "1998-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-23 13:28:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The adjustment for residence consists of adjustments for border workers: income of U.S. residents commuting outside U.S. borders to work less income of foreign residents commuting inside U.S. borders to work plus certain Carribean seasonal workers."
+}

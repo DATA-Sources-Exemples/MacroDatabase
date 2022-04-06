@@ -1,0 +1,18 @@
+{
+  "id": "NJPCEPCLRPTSLSGSNPIS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Per Capita Personal Consumption Expenditures: Services: Final Consumption Expenditures of Nonprofit Institutions Serving Households: Less: Receipts from Sales of Goods and Services by Nonprofit Institutions for New Jersey",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:18:56-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "Personal consumption expenditures of a given area divided by the resident population of the area.\n\nReceipts from sales of goods and services by NPISHs. Excludes unrelated sales, secondary sales, and sales to business, government, and the rest of the world; includes membership dues and fees.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

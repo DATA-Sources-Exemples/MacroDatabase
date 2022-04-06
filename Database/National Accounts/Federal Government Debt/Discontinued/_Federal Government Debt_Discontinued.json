@@ -1,8 +1,8 @@
 {
   "FDHBAT": {
     "id": "FDHBAT",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal Debt Held by Agencies and Trust (DISCONTINUED)",
     "observation_start": "1955-01-01",
     "observation_end": "1998-10-01",
@@ -19,8 +19,8 @@
   },
   "FDHBFI": {
     "id": "FDHBFI",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal Debt Held by Foreign Investors (DISCONTINUED)",
     "observation_start": "1961-01-01",
     "observation_end": "1998-10-01",
@@ -37,8 +37,8 @@
   },
   "FDHBFRB": {
     "id": "FDHBFRB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal Debt Held by Federal Reserve Banks (DISCONTINUED)",
     "observation_start": "1953-01-01",
     "observation_end": "1998-10-01",
@@ -49,14 +49,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2004-01-16 09:05:05-06",
-    "popularity": 5,
-    "group_popularity": 5,
+    "popularity": 4,
+    "group_popularity": 4,
     "path": "../Database/National Accounts/Federal Government Debt"
   },
   "FDHBPI": {
     "id": "FDHBPI",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal Debt Held by Private Investors (DISCONTINUED)",
     "observation_start": "1953-01-01",
     "observation_end": "1998-10-01",
@@ -73,8 +73,8 @@
   },
   "GFDEBT": {
     "id": "GFDEBT",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal Government Debt: Gross (DISCONTINUED)",
     "observation_start": "1953-01-01",
     "observation_end": "1998-10-01",
@@ -91,8 +91,8 @@
   },
   "NFDEBT": {
     "id": "NFDEBT",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Federal Government Debt: Net (DISCONTINUED)",
     "observation_start": "1955-01-01",
     "observation_end": "1998-10-01",

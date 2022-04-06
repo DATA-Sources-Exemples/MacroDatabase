@@ -1,0 +1,18 @@
+{
+  "id": "BFDUR8QTOTALNSARI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Average Duration (in Quarters) from Business Application to Formation Within Eight Quarters: Total for All NAICS in Rhode Island",
+  "observation_start": "2004-07-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number of Quarters",
+  "units_short": "Number of Quarters",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-10 11:07:00-06",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "A measure of delay between business application and formation, measured as the average duration (in quarters) between the quarter of business application and the quarter of business formation, conditional on business formation within eight quarters.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

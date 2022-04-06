@@ -1,7 +1,7 @@
 {
   "id": "M0658BUSM343SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Total Advertising for United States",
   "observation_start": "1943-01-01",
   "observation_end": "1946-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 13:48:31-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Four Variables--(1)--Seasonally Adjusted, 1914-1943 (2)--Seasonally Adjusted, 1943-1946 (3)--Seasonally Adjusted, 1944-1953 (4)--Seasonally Adjusted, 1953-1958. Indexes Of Advertising From\"Printers' Ink\" Have Been Changed To A 1935-1939 Base And The Seasonal Correction Factors Revised. The Average Index For 1942 Is 104.5 (Survey Of Current Business, April And May, 1944). Source: Survey Of Current Business\n\nThis NBER data series m06058b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06058b"
 }

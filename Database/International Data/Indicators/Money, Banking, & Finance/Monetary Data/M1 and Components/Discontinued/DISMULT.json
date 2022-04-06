@@ -1,7 +1,7 @@
 {
   "id": "DISMULT",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M1 Money Multiplier (DISCONTINUED)",
   "observation_start": "1984-03-26",
   "observation_end": "2003-06-23",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2003-07-14 17:34:40-05",
-  "popularity": 9,
+  "popularity": 7,
   "group_popularity": 60,
   "notes": "This series was discontinued on July 14, 2003. For information on the construction of this series, please refer to http://research.stlouisfed.org/aggreg/newbase.html. For information on the reconstructed series (MULT), available starting on July 14, 2003, please refer to http://research.stlouisfed.org/aggreg/RAMReconstruction.pdf."
 }

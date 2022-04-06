@@ -1,7 +1,7 @@
 {
   "id": "M0929AUSM155NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Number of Business Failures, All Commercial for United States",
   "observation_start": "1894-01-01",
   "observation_end": "1938-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:05:10-05",
   "popularity": 2,
-  "group_popularity": 17,
+  "group_popularity": 16,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1857-1938 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1965. Data Include The Groups Of Manufacturing And Trading Plus Agents And Brokers But Not Including Banks. Discrepencies In Figures For Certain Years Occur In Successive Issues Of The Source. They Have Been Settled By Summing Monthly Or Quarterly Data; Also By Using The Formula: Number Of Concerns In Business Multiplied By The Ratio Of Number Of Failures To Number Of Concerns. Factors Are Published In The Source. For 1933 The Series Was Revised To Exclude Real Estate And Insurance Brokers, Holding And Finance Companies, Shipping Agents, Tourist Companies, Transportation Terminals, And Such, Formally Included In The Subgroup \"Agents And Commercial Service\" (See Source, Issues Of March And August 1936). Source: Dun'S Review, January 5, 1895, P. 3; January 8, 1910, P. 3; January 8, 1927, P. 7; January 16, 1932, P. 20; Following January Issues; Data For 1933-1938 Is Also Published In Survey Of Current Business, 1936 And 1938 Supplements And Issue Of October 1939.\n\nThis NBER data series m09029a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09029a"
 }

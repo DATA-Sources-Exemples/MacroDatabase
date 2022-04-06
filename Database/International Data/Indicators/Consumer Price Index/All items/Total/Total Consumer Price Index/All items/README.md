@@ -1,3 +1,3 @@
 | Folder   |   Files / Folders |
 |----------|-------------------|
-| Total    |                 1 |
+| Total    |                 2 |

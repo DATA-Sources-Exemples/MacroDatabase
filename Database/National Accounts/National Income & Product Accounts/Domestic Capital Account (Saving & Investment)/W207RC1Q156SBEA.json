@@ -1,0 +1,18 @@
+{
+  "id": "W207RC1Q156SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Net saving as a percentage of gross national income",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:55:09-05",
+  "popularity": 34,
+  "group_popularity": 35,
+  "notes": "BEA Account Code: W207RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

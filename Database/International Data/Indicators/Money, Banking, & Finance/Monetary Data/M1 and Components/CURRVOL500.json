@@ -1,7 +1,7 @@
 {
   "id": "CURRVOL500",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Volume of Currency in Circulation: $500 to $10,000",
   "observation_start": "1994-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-04-22 10:36:56-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Includes Federal Reserve notes, U.S. notes, and currency no longer issued."
 }

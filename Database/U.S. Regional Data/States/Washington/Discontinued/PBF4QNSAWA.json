@@ -1,0 +1,18 @@
+{
+  "id": "PBF4QNSAWA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Projected Business Formations Within 4 Quarters for Washington (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2019-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-10-14 11:02:19-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BFPBF4QTOTALNSAWA (https://fred.stlouisfed.org/series/BFPBF4QTOTALNSAWA) for an alternative.\n\nThe projected number of employer businesses that originate from Business Applications (BA) within four quarters from the quarter of application."
+}

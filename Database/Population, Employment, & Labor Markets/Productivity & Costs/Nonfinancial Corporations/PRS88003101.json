@@ -1,7 +1,7 @@
 {
   "id": "PRS88003101",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Nonfinancial Corporations Sector: Hourly Compensation for Employees",
   "observation_start": "1948-01-01",
   "observation_end": "2021-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 07:37:22-06",
   "popularity": 2,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Indexes of compensation per hour for major sectors measure the compensation of employees and the self-employed divided by hours worked by all persons engaged in the sector. Hours of all persons include hours worked by employees, proprietors, and unpaid family workers.\n\nFor more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS88003101"
 }

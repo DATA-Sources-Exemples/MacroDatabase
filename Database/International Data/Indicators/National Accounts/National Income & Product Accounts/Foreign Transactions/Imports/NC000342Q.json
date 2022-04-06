@@ -1,7 +1,7 @@
 {
   "id": "NC000342Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Imports of Goods and Services",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:03:07-05",
   "popularity": 2,
-  "group_popularity": 53,
+  "group_popularity": 54,
   "notes": "BEA Account Code: NC000342"
 }

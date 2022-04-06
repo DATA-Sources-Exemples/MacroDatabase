@@ -1,7 +1,7 @@
 {
   "id": "CIS2025400000000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Professional, scientific, and technical services",
   "observation_start": "2003-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:12-06",
-  "popularity": 8,
-  "group_popularity": 17,
+  "popularity": 7,
+  "group_popularity": 14,
   "notes": "See Footnote V on https://www.bls.gov/ect/cimapnote.htm"
 }

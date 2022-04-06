@@ -1,7 +1,7 @@
 {
   "id": "A09016USA144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Corporate Net Earnings, Construction for United States",
   "observation_start": "1916-01-01",
   "observation_end": "1940-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:03:11-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "1936-1940 Data Were Computed From Data In Statistics Of Income. The Figure For 1938 Given Here Is Adjusted To Conform To The 1937 Industrial Classification. The Figures For 1939 And 1940 Have Been Adjusted To Conform To The 1938 Standard Industrial Classification. The Figure For 1938, If Adjusted To The 1938 Standard, Would Be 59.1. These Data Were Computed By NBER By Adding (1) Shipbuilding, (2) Building Construction, And (3) Construction, Contracting, Which In The 1916 Report Were Given Separately But In 1917 Were Combined Under One Heading--\"Construction.\" See Crum, Corporate Earning Power, P.327 For Check. Source: Bureau Of Internal Revenue, Statistics Of Income, 1916 And Succeeding Issues.\n\nThis NBER data series a09016 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: a09016"
 }

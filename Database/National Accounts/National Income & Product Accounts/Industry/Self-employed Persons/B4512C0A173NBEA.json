@@ -1,7 +1,7 @@
 {
   "id": "B4512C0A173NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Self-employed persons: Retail trade",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-03-31 19:29:52-05",
   "popularity": 1,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "BEA Account Code: B4512C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

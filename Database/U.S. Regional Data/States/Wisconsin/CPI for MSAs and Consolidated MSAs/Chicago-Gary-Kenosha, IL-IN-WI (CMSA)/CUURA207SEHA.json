@@ -1,7 +1,7 @@
 {
   "id": "CUURA207SEHA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)",
   "observation_start": "1914-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:37:22-06",
-  "popularity": 10,
-  "group_popularity": 12
+  "popularity": 12,
+  "group_popularity": 14
 }

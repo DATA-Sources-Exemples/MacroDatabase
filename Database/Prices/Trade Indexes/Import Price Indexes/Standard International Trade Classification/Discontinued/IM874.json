@@ -1,7 +1,7 @@
 {
   "id": "IM874",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Import Price Index (SITC): Measuring, checking, analyzing and con- trolling instruments/apparatus, nes (DISCONTINUED)",
   "observation_start": "1995-01-01",
   "observation_end": "2005-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-06-27 07:44:25-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0148AUSM149NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Beef Frozen or Placed in Cure in Meat Packing Establishments for the United States",
   "observation_start": "1919-01-01",
   "observation_end": "1936-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:05:25-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1919-1936 (2)--Original Data, 1946-1953 (3)--Original Data, 1947-1956. Data Were Computed By NBER By Summing Separately Given \"Frozen\" And \"Placed In Cure, Etc.\" Source: Data For 1919-1933: U.S. Department Of Agriculture, Statistical Bulletin No. 48, Pp. 19-20. Data For 1934-1936: Crops And Markets.\n\nThis NBER data series m01248a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01248a"
 }

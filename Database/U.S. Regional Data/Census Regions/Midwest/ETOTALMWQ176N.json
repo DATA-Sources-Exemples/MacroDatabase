@@ -1,0 +1,18 @@
+{
+  "id": "ETOTALMWQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Total Housing Units in the Midwest Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:18-06",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Housing unit is a house, an apartment, a group of rooms, or a single room occupied or intended for occupancy as separate living quarters. Separate living quarters are those in which the occupants live separately from others in the structure and which have direct access from the outside of the building or through a common hall. For vacant units, the criteria of separateness and direct access are applied to the intended occupants whenever possible. If the information cannot be obtained, the criteria are applied to the previous occupants. Tents and boats are excluded if vacant, used for business, or used for extra sleeping space or vacations. Vacant seasonal/migratory mobile homes are included in the count of vacant seasonal/migratory housing units. Living quarters of the following types are excluded from the housing unit inventory: Dormitories, bunkhouses, and barracks; quarters in predominantly transient hotels, motels, and the like, except those occupied by persons who consider the hotel their usual place of residence; quarters in institutions, general hospitals, and military installations except those occupied by staff members or resident employees who have separate living arrangements."
+}

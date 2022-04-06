@@ -1,7 +1,7 @@
 {
   "id": "SLVNGDPRPCH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross Domestic Product for El Salvador",
   "observation_start": "1980-01-01",
   "observation_end": "2026-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-10-21 14:32:44-05",
   "popularity": 2,
-  "group_popularity": 6,
+  "group_popularity": 5,
   "notes": "Observations for the current and future years are projections.\n\nThe IMF provides these series as part of their Regional Economic Outlook (REO) reports. These reports discuss recent economic developments and prospects for countries in various regions. They also address economic policy developments that have affected economic performance in their regions and provide country-specific data and analysis.\n\nFor more information, please see the Regional Economic Outlook (https://www.imf.org/en/publications/reo) publications.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available here (http://www.imf.org/external/terms.htm)."
 }

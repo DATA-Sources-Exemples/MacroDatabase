@@ -1,0 +1,18 @@
+{
+  "id": "FPCPITOTLZGMNA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Inflation, consumer prices for Developing Countries in Middle East and North Africa",
+  "observation_start": "1970-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-12-21 14:48:15-06",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups. A developing nation is defined as one which falls within the lower or middle income bracket.\n\nSource Indicator: FP.CPI.TOTL.ZG"
+}

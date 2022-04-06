@@ -1,0 +1,18 @@
+{
+  "id": "HPBUSAPPSAAK",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "High-Propensity Business Applications for Alaska (DISCONTINUED)",
+  "observation_start": "2004-07-01",
+  "observation_end": "2020-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2021-01-14 11:03:01-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Business Formation Statistics are now released on a monthly basis, and the quarterly series will no longer be updated. See BAHBATOTALSAAK (https://fred.stlouisfed.org/series/BAHBATOTALSAAK) for an alternative.\n\nBusiness Applications (BA) that have a high propensity of turning into businesses with payroll. The identification of high-propensity applications is based on the characteristics of applications revealed on the IRS Form SS-4 that are associated with a high rate of business formation. High-propensity applications include applications: (a) for a corporate entity, (b) that indicate they are hiring employees, purchasing a business or changing organizational type, (c) that provide a first wages-paid date (planned wages); or (d) that have a NAICS industry code in manufacturing (31-33), retail stores (44), health care (62), or restaurants/food service (72)."
+}

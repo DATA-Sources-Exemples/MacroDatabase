@@ -1,7 +1,7 @@
 {
   "id": "SMU25748044300000001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lowell-Billerica-Chelmsford, MA-NH (NECTA Division)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-26 03:46:26-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

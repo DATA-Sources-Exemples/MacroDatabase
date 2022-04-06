@@ -1,7 +1,7 @@
 {
   "id": "DALL148URN",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment Rate in Dallas-Fort Worth-Arlington, TX (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-18 17:34:03-05",
-  "popularity": 27,
-  "group_popularity": 28
+  "popularity": 30,
+  "group_popularity": 30
 }

@@ -1,0 +1,18 @@
+{
+  "id": "A455RD3A052NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Price per unit of real gross value added of nonfinancial corporate business",
+  "observation_start": "1929-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 08:02:51-05",
+  "popularity": 3,
+  "group_popularity": 9,
+  "notes": "BEA Account Code: A455RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

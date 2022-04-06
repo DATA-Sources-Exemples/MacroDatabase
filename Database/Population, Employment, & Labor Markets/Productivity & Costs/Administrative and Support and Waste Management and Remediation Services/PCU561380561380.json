@@ -1,7 +1,7 @@
 {
   "id": "PCU561380561380",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Industry: Staffing Services (Except Professional Employer Organizations (PEOs))",
   "observation_start": "2010-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:58:08-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

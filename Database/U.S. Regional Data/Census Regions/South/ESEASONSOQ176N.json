@@ -1,0 +1,18 @@
+{
+  "id": "ESEASONSOQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Seasonal Housing Units in the South Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:25-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Seasonal housing units are those intended for occupancy only during certain seasons of the year and are found primarily in resort areas. Housing units held for occupancy by migratory labor employed in farm work during the crop season are tabulated as seasonal. As of the first quarter 1986 vacant seasonal mobile homes are being counted as a part of the seasonal housing inventory."
+}

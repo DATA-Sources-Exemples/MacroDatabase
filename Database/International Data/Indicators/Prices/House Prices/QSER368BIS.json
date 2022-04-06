@@ -1,7 +1,7 @@
 {
   "id": "QSER368BIS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Residential Property Prices for Sweden",
   "observation_start": "1971-01-01",
   "observation_end": "2021-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-26 11:02:01-06",
-  "popularity": 7,
-  "group_popularity": 23,
+  "popularity": 6,
+  "group_popularity": 22,
   "notes": "Source Code: Q:SE:R:368\n\nCoverage includes all types of new and existing dwellings in the whole country. The series is deflated using CPI.\n\nFor more information, please see https://www.bis.org/statistics/pp_detailed.htm.\n\nAny use of the series shall be cited as follows: \"Sources: National sources, BIS Residential Property Price database, http://www.bis.org/statistics/pp.htm.\"\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

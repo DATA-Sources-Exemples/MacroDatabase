@@ -1,8 +1,8 @@
 {
   "WPU37120201": {
     "id": "WPU37120201",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Long Distance Business Wired Telephone Service, Domestic (DISCONTINUED)",
     "observation_start": "2009-04-01",
     "observation_end": "2011-12-01",
@@ -19,8 +19,8 @@
   },
   "WPU37120202": {
     "id": "WPU37120202",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Long Distance Business Wired Telephone Service, International (DISCONTINUED)",
     "observation_start": "2009-04-01",
     "observation_end": "2011-12-01",
@@ -37,8 +37,8 @@
   },
   "WPU37130103": {
     "id": "WPU37130103",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Other Toll Service (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2011-12-01",
@@ -55,8 +55,8 @@
   },
   "WPU37130104": {
     "id": "WPU37130104",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity: Telecommunication, Cable, and Internet User Services: Other Telephone Services (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2011-12-01",

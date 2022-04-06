@@ -1,0 +1,17 @@
+{
+  "id": "OHOFAR",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Proprietors' Farm Income in Ohio",
+  "observation_start": "1948-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-23 13:31:11-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

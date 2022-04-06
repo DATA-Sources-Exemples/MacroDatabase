@@ -2,8 +2,8 @@
 |---------------|-------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | DFEDTARL      | Federal Funds Target Range - Lower Limit                                                              | 2008-12-16          | 2022-04-04        |
 | DFEDTARU      | Federal Funds Target Range - Upper Limit                                                              | 2008-12-16          | 2022-04-04        |
-| DFF           | Federal Funds Effective Rate                                                                          | 1954-07-01          | 2022-04-01        |
-| DPCREDIT      | Discount Window Primary Credit Rate                                                                   | 2003-01-09          | 2022-04-01        |
+| DFF           | Federal Funds Effective Rate                                                                          | 1954-07-01          | 2022-04-04        |
+| DPCREDIT      | Discount Window Primary Credit Rate                                                                   | 2003-01-09          | 2022-04-04        |
 | EFFR          | Effective Federal Funds Rate                                                                          | 2000-07-03          | 2022-04-04        |
 | EFFR1         | Effective Federal Funds Rate: 1st Percentile                                                          | 2016-03-01          | 2022-04-04        |
 | EFFR25        | Effective Federal Funds Rate: 25th Percentile                                                         | 2016-03-01          | 2022-04-04        |
@@ -27,7 +27,7 @@
 | FEDTARRMLR    | Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint               | 2015-06-17          | 2022-03-16        |
 | FF            | Federal Funds Effective Rate                                                                          | 1954-07-07          | 2022-03-30        |
 | FLEXSC        | Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis                             | 1992-01-09          | 2022-03-24        |
-| IORB          | Interest Rate on Reserve Balances                                                                     | 2021-07-29          | 2022-04-05        |
+| IORB          | Interest Rate on Reserve Balances                                                                     | 2021-07-29          | 2022-04-06        |
 | MPCREDIT      | Discount Window Primary Credit Rate                                                                   | 2003-02-01          | 2022-03-01        |
 | OBFR          | Overnight Bank Funding Rate                                                                           | 2016-03-01          | 2022-04-04        |
 | OBFR1         | Overnight Bank Funding Rate: 1st Percentile                                                           | 2016-03-01          | 2022-04-04        |

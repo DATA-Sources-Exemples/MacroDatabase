@@ -1,7 +1,7 @@
 {
   "id": "RGMPWASTEUSMP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Gross Domestic Product: Private Industries: Professional and Business Services: Administrative and Waste Management Services: Waste Management and Remediation Services for United States Metropolitan Portion",
   "observation_start": "2001-01-01",
   "observation_end": "2016-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-09-18 08:32:20-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Industries in the Waste Management and Remediation Services NAICS subsector group establishments engaged in the collection, treatment, and disposal of waste materials. This includes establishments engaged in local hauling of waste materials; operating materials recovery facilities (i.e., those that sort recyclable materials from the trash stream); providing remediation services (i.e., those that provide for the cleanup of contaminated buildings, mine sites, soil, or ground water); and providing septic pumping and other miscellaneous waste management services. There are three industry groups within the subsector that separate these activities into waste collection, waste treatment and disposal, and remediation and other waste management.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

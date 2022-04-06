@@ -1,7 +1,7 @@
 {
   "id": "AMBOR90",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "90-Day Moving Average AMERIBOR Benchmark Interest Rate",
   "observation_start": "2019-06-19",
   "observation_end": "2022-04-04",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-05 07:03:04-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "AMERIBOR\u00ae (American Interbank Offered Rate) is a benchmark interest rate based on overnight unsecured loans transacted on the American Financial Exchange (AFX). AMERIBOR\u00ae is calculated as the transaction volume weighted average interest rate of the daily transactions in the AMERIBOR\u00ae overnight unsecured loan market on the AFX. More details about AMERIBOR\u00ae methodology can be found on the source's website (https://ameribor.net), under the Resources section.\n\nAMERIBOR\u00ae and AMBOR90\u2122 are registered trademarks of the American Financial Exchange (AFX). \u00a9 Copyright, American Financial Exchange (AFX). All Rights Reserved."
 }

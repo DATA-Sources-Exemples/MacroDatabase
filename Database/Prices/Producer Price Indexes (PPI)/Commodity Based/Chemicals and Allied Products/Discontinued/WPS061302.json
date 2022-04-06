@@ -1,7 +1,7 @@
 {
   "id": "WPS061302",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Inorganic Chemicals, Other Than Alkalies and Chlorine (DISCONTINUED)",
   "observation_start": "1993-01-01",
   "observation_end": "2000-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:42:45-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

@@ -1,0 +1,17 @@
+{
+  "id": "SMU25716503133400001A",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Boston-Cambridge-Quincy, MA-NH (NECTA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-03-24 19:45:49-05",
+  "popularity": 0,
+  "group_popularity": 1
+}

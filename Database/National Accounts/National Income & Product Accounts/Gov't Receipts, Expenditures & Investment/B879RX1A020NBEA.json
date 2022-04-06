@@ -1,0 +1,18 @@
+{
+  "id": "B879RX1A020NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real national defense gross investment: Equipment: Other equipment",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-24 07:59:43-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B879RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,7 +1,7 @@
 {
   "id": "NHSDPUCA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Houses Sold by Stage of Construction, Under Construction",
   "observation_start": "1963-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 09:01:27-05",
   "popularity": 2,
-  "group_popularity": 9
+  "group_popularity": 11
 }

@@ -1,0 +1,17 @@
+{
+  "id": "HOUSTMW",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-17 07:31:18-05",
+  "popularity": 19,
+  "group_popularity": 21
+}

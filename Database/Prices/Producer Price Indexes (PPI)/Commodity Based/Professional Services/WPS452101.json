@@ -1,7 +1,7 @@
 {
   "id": "WPS452101",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Professional Services (Partial): Financial Auditing",
   "observation_start": "2008-12-01",
   "observation_end": "2016-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-11 11:23:40-06",
-  "popularity": 6,
-  "group_popularity": 9
+  "popularity": 8,
+  "group_popularity": 13
 }

@@ -1,7 +1,7 @@
 {
   "id": "MSWP30",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "30-Year Swap Rate (DISCONTINUED)",
   "observation_start": "2000-07-01",
   "observation_end": "2016-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-10-03 15:47:10-05",
-  "popularity": 6,
-  "group_popularity": 24,
+  "popularity": 7,
+  "group_popularity": 26,
   "notes": "The Federal Reserve Board has discontinued this series as of October 11, 2016. More information, including possible alternative series, can be found at http://www.federalreserve.gov/feeds/h15.html.\nAverages of Business Days. Rate paid by fixed-rate payer on an interest rate swap with maturity of thirty years. International Swaps and Derivatives Association (ISDA\u00ae) mid-market par swap rates. Rates are for a Fixed Rate Payer in return for receiving three month LIBOR, and are based on rates collected at 11:00 a.m. Eastern time by Garban Intercapital plc and published on Reuters Page ISDAFIX\u00ae1. ISDAFIX is a registered service mark of ISDA. Source: Reuters Limited."
 }

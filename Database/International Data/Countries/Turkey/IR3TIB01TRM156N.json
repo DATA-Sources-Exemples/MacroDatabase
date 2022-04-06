@@ -1,7 +1,7 @@
 {
   "id": "IR3TIB01TRM156N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "3-Month or 90-day Rates and Yields: Interbank Rates for Turkey",
   "observation_start": "1991-07-01",
   "observation_end": "2008-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-08-22 08:59:21-05",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 11,
+  "group_popularity": 12,
   "notes": "OECD descriptor ID: IR3TIB01\nOECD unit ID: ST\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

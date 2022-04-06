@@ -1,7 +1,7 @@
 {
   "id": "WMTSECL1",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Memorandum Items: Custody Holdings: Marketable U.S. Treasury Securities: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:03-05",
-  "popularity": 33,
-  "group_popularity": 33,
+  "popularity": 32,
+  "group_popularity": 32,
   "notes": "This item indicates the face value of marketable U.S. Treasury securities held in custody for foreign official and international accounts, and includes U.S Treasury STRIPS and inflation compensation on TIPS. This item does not include securities pledged as collateral to foreign official and international account holders against reverse repurchase agreements with the Federal Reserve presented as presented on the actual release in tables 1, 8, and 9. http://www.federalreserve.gov/releases/h41/Current/"
 }

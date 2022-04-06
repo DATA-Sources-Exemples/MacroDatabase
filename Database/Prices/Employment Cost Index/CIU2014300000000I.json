@@ -1,7 +1,7 @@
 {
   "id": "CIU2014300000000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Total compensation for Private industry workers in Transportation and warehousing",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:51:25-06",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 4,
+  "group_popularity": 6,
   "notes": "Includes wages, salaries, and employer costs for employee benefits."
 }

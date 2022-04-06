@@ -1,7 +1,7 @@
 {
   "id": "NUGLCBW027SBOG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Net Unrealized Gains (Losses) on Available-for-Sale Securities, Large Domestically Chartered Commercial Banks",
   "observation_start": "1996-10-02",
   "observation_end": "2022-03-23",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 15:34:22-05",
-  "popularity": 8,
-  "group_popularity": 16,
+  "popularity": 5,
+  "group_popularity": 18,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

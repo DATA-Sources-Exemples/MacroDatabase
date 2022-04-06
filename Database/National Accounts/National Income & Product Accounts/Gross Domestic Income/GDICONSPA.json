@@ -1,7 +1,7 @@
 {
   "id": "GDICONSPA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumption of Fixed Capital",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:38-05",
   "popularity": 4,
-  "group_popularity": 20,
+  "group_popularity": 21,
   "notes": "BEA Account Code: A262RC\n\n"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "FMATIISAMFRBDAL",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Future Materials Inventories; Percentage Reporting Increases for Texas (DISCONTINUED)",
+  "observation_start": "2004-06-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2017-12-27 10:31:09-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Future Materials Inventories reports the likely direction of materials inventories for the manufacturing sector over the six months ahead for the state of Texas. For further information regarding the Texas Manufacturing Outlook Survey release from the Federal Reserve Bank of Dallas visit: https://www.dallasfed.org/research/surveys/tmos.aspx#tab-reports."
+}

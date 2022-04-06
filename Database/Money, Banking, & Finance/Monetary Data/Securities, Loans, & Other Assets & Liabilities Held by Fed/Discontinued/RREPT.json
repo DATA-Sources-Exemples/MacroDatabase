@@ -1,7 +1,7 @@
 {
   "id": "RREPT",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Reverse repurchase agreements held by the Federal Reserve: All Maturities (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2018-06-13",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-14 15:41:02-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/WLRRAL\n\n\nReverse repurchase agreements are transactions in which securities are sold to primary dealers or foreign central banks under an agreement to buy them back from the same party on a specified date at the same price plus interest. Reverse repurchase agreements absorb reserve balances from the banking system for the length of the agreement. They are typically collateralized using Treasury bills. As with repurchase agreements, the naming convention used here reflects the transaction from the dealers' perspective; the Federal Reserve receives cash in a reverse repurchase agreement and provides collateral to the dealers."
 }

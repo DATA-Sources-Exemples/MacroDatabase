@@ -1,7 +1,7 @@
 {
   "id": "EPUSOVDEBT",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Economic Policy Uncertainty Index: Categorical Index: Sovereign debt, currency crises",
   "observation_start": "1985-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 08:01:22-05",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "The EPU Categorical Data include a range of sub-indexes based solely on news data. These are derived using results from the Access World News database of over 2,000 US newspapers.\n\nFor further explanation, please see the source page on  Categorical EPU data (https://www.policyuncertainty.com/categorical_epu.html)."
 }

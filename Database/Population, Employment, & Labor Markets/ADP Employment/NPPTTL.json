@@ -1,7 +1,7 @@
 {
   "id": "NPPTTL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Nonfarm Private Payroll Employment",
   "observation_start": "2002-04-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-30 07:26:01-05",
-  "popularity": 57,
-  "group_popularity": 57,
+  "popularity": 58,
+  "group_popularity": 58,
   "notes": "Copyright, 2016, Automatic Data Processing, Inc. (\"ADP\")."
 }

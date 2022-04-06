@@ -1,0 +1,18 @@
+{
+  "id": "L312231A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Current surplus of government enterprises: State and local: Housing and urban renewal",
+  "observation_start": "1960-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:38:51-05",
+  "popularity": 3,
+  "group_popularity": 3,
+  "notes": "BEA Account Code: L31223\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

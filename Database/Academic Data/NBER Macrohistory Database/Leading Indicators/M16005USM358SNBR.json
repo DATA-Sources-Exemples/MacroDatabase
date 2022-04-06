@@ -1,7 +1,7 @@
 {
   "id": "M16005USM358SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Composite Index of Three Lagging Indicators, Amplitude-Adjusted, Weighted for United States",
   "observation_start": "1948-01-01",
   "observation_end": "1966-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-20 09:32:42-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 22,
+  "group_popularity": 22,
   "notes": "Components Of This Index Are (Diffusion Index, Manuufacturers' Sales), (Diffusion Index, New Orders For Durable Goods), And (Diffusion Index, Freight Carloadings). Source: U.S. Bureau Of The Census\n\nThis NBER data series m16005 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16005"
 }

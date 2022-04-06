@@ -1,7 +1,7 @@
 {
   "id": "WTFORBAFA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liabilities and Capital: Other Factors Draining Reserve Balances: Total Factors, Other Than Reserve Balances, Absorbing Reserve Funds: Week Average",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:09-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "This item is the sum of \"currency in circulation,\" \"reverse repurchase agreements,\" \"Treasury cash holdings,\" \"deposits with Federal Reserve Banks other than reserve balances,\" and \"other liabilities and capital."
 }

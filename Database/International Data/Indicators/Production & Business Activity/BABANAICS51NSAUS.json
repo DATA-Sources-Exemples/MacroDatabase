@@ -1,0 +1,18 @@
+{
+  "id": "BABANAICS51NSAUS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Business Applications: Information in the United States",
+  "observation_start": "2004-07-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 11:05:48-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The core business applications series that correspond to a subset of all applications for an Employer Identification Number (EIN). Includes all applications for an EIN, except for applications for tax liens, estates, trusts, certain financial filings, applications outside of the 50 states and DC or with no state-county geocodes, applications with certain NAICS codes in sector 11 (agriculture, forestry, fishing and hunting) or 92 (public administration) that have low transition rates, and applications in certain industries (e.g. private households, civic and social organizations).\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

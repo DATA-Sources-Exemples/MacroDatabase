@@ -1,0 +1,17 @@
+{
+  "id": "MSPS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Median Sales Price of Houses Sold for the South Census Region",
+  "observation_start": "1963-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-26 09:01:17-06",
+  "popularity": 29,
+  "group_popularity": 29
+}

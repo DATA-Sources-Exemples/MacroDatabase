@@ -1,7 +1,7 @@
 {
   "id": "LNU03008876",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Number Unemployed for 15-26 Weeks",
   "observation_start": "1948-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 07:49:02-05",
   "popularity": 3,
-  "group_popularity": 12,
+  "group_popularity": 10,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU03008876"
 }

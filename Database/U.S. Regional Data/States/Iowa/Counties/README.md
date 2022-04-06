@@ -33,7 +33,7 @@
 | Buena Vista County, IA   |                90 |
 | Union County, IA         |                90 |
 | Palo Alto County, IA     |                90 |
-| Madison County, IA       |                90 |
+| Madison County, IA       |                 2 |
 | Boone County, IA         |                90 |
 | Adams County, IA         |                89 |
 | Fayette County, IA       |                90 |

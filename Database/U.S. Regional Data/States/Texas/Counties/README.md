@@ -9,7 +9,7 @@
 | Upton County, TX         |                88 |
 | Fisher County, TX        |                86 |
 | Lynn County, TX          |                88 |
-| Midland County, TX       |               147 |
+| Midland County, TX       |                 2 |
 | Culberson County, TX     |                87 |
 | Schleicher County, TX    |                88 |
 | Nueces County, TX        |               147 |
@@ -93,7 +93,7 @@
 | Brown County, TX         |                90 |
 | Travis County, TX        |               147 |
 | San Jacinto County, TX   |                90 |
-| Ellis County, TX         |               147 |
+| Ellis County, TX         |                 2 |
 | Real County, TX          |                88 |
 | Wilbarger County, TX     |                90 |
 | Baylor County, TX        |                87 |
@@ -125,9 +125,9 @@
 | Ward County, TX          |                89 |
 | Houston County, TX       |                88 |
 | Gaines County, TX        |                88 |
-| Leon County, TX          |                89 |
-| Sabine County, TX        |                89 |
-| Howard County, TX        |                90 |
+| Leon County, TX          |                 2 |
+| Sabine County, TX        |                 2 |
+| Howard County, TX        |                 2 |
 | Stonewall County, TX     |                87 |
 | Austin County, TX        |                90 |
 | Madison County, TX       |                89 |
@@ -137,7 +137,7 @@
 | Kent County, TX          |                86 |
 | Cooke County, TX         |                90 |
 | Frio County, TX          |                88 |
-| Robertson County, TX     |                88 |
+| Robertson County, TX     |                 2 |
 | Runnels County, TX       |                88 |
 | Burnet County, TX        |                90 |
 | Bastrop County, TX       |               147 |
@@ -184,7 +184,7 @@
 | Crosby County, TX        |                87 |
 | Hamilton County, TX      |                88 |
 | Winkler County, TX       |                87 |
-| Parmer County, TX        |                89 |
+| Parmer County, TX        |                 2 |
 | Val Verde County, TX     |                89 |
 | Goliad County, TX        |                89 |
 | Cass County, TX          |                90 |

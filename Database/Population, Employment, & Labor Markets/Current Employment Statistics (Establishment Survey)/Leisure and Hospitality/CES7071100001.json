@@ -1,7 +1,7 @@
 {
   "id": "CES7071100001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees, Performing Arts and Spectator Sports",
   "observation_start": "1990-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 07:46:49-05",
   "popularity": 4,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES7071100001"
 }

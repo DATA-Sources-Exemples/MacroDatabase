@@ -1,0 +1,18 @@
+{
+  "id": "W990RC1Q027SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Capital account transactions (net): Private: Households and institutions",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:55:34-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "BEA Account Code: W990RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

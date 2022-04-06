@@ -1,3 +1,3 @@
 | Folder    |   Files / Folders |
 |-----------|-------------------|
-| All items |                 1 |
+| All items |                 2 |

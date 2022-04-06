@@ -1,8 +1,8 @@
 {
   "ATNHPIUS43524Q": {
     "id": "ATNHPIUS43524Q",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All-Transactions House Price Index for Silver Spring-Frederick-Rockville, MD (MSAD) (DISCONTINUED)",
     "observation_start": "1976-04-01",
     "observation_end": "2018-07-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2018-11-27 09:11:28-06",
-    "popularity": 7,
-    "group_popularity": 7,
+    "popularity": 5,
+    "group_popularity": 5,
     "notes": "Estimated using sales prices and appraisal data.",
     "path": "../Database/U.S. Regional Data/States/Maryland/Metropolitan Divisions/Silver Spring-Frederick-Rockville, MD"
   }

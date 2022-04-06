@@ -1,7 +1,7 @@
 {
   "id": "CPALTT01ISM657N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index: Total All Items for Iceland",
   "observation_start": "1960-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:45:24-06",
-  "popularity": 6,
-  "group_popularity": 10,
+  "popularity": 5,
+  "group_popularity": 12,
   "notes": "OECD descriptor ID: CPALTT01\nOECD unit ID: GP\nOECD country ID: ISL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

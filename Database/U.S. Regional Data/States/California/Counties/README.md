@@ -32,7 +32,7 @@
 | Colusa County, CA               |                90 |
 | Del Norte County, CA            |                90 |
 | Contra Costa County, CA         |               147 |
-| Modoc County, CA                |                90 |
+| Modoc County, CA                |                 2 |
 | San Joaquin County, CA          |               146 |
 | San Francisco County - city, CA |                 1 |
 | Placer County, CA               |               147 |

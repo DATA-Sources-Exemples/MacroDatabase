@@ -3,4 +3,4 @@
 | Institutions |                27 |
 | Indicators   |                15 |
 | Countries    |               249 |
-| Geography    |                 6 |
+| Geography    |                 7 |

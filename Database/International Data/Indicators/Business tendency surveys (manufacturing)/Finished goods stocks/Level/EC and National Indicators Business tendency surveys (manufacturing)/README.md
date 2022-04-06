@@ -1,3 +1,3 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Finished goods stocks |                 1 |
+| Finished goods stocks |                 2 |

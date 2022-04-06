@@ -1,7 +1,7 @@
 {
   "id": "Q1527AUSQ027NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Government Purchases of Goods and Services, Federal for United States",
   "observation_start": "1939-01-01",
   "observation_end": "1946-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:46:52-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1939-1946 (2)--Original Data, 1946-1967. Unadjusted Quarterly Figures Were Multiplied By 4 To Derive Totals At Annual Rates. Figures Have Been Revised To Eliminate Federal Cash Grants Abroad, Previously Treated As Government Purchases Abroad, And Reflected In The Net Foreign Investment Component Of The Gnp. Cash Grants Are Now Omitted, The Entry For Foreign Transactions Being Labeled \"Net Exports Of Goods And Services,\" While The Federal Purchases Formerly Classified Into \"National Security\" And \"Other\", With The Latter Broken Down Into \"National Defense\" And \"Other National Security\" (Mostly Consisting Of Cash Grants Abroad) Are Now Called\"National Defense\" And \"Other\" Purchases, Less Government Sales (See Survey Of Current Business, December 1958, P. 12). Data Are At Annual Rate. Source: U.S. Department Of Commerce, For 1939-1945 Data: National Income, 1954 Editon, A Supplement To The Survey Of Current Business; For 1946: Survey Of Current Business, August 1965.\n\nThis NBER data series q15027a appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: q15027a"
 }

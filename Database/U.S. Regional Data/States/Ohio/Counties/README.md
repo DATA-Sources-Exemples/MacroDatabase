@@ -31,7 +31,7 @@
 | Pickaway County, OH   |               145 |
 | Trumbull County, OH   |               147 |
 | Shelby County, OH     |                90 |
-| Darke County, OH      |               146 |
+| Darke County, OH      |                 2 |
 | Lake County, OH       |               147 |
 | Williams County, OH   |                90 |
 | Morrow County, OH     |                90 |

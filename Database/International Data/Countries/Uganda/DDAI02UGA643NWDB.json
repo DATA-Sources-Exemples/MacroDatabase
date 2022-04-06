@@ -1,7 +1,7 @@
 {
   "id": "DDAI02UGA643NWDB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Number of Bank Branches for Uganda",
   "observation_start": "2004-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 16:24:58-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Number of commercial bank branches per 100,000 adults.\n\nFor each type of reporting institution calculated as:(number of institutions + number of branches)*100,000/adult population in the reporting country. (International Monetary Fund, Financial Access Survey)\n\nSource Code: GFDD.AI.02"
 }

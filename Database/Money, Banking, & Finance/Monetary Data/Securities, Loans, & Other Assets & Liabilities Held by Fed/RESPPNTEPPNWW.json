@@ -1,7 +1,7 @@
 {
   "id": "RESPPNTEPPNWW",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Collateralization of Currency: Holdings Against Federal Reserve Notes: Collateral Held Against Federal Reserve Notes: U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Pledged: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:33:11-05",
-  "popularity": 18,
-  "group_popularity": 18
+  "popularity": 20,
+  "group_popularity": 20
 }

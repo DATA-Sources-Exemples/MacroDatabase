@@ -50,7 +50,7 @@
 | Tensas Parish, LA               |                88 |
 | Natchitoches Parish, LA         |                89 |
 | St. Landry Parish, LA           |               146 |
-| Jefferson Davis Parish, LA      |                90 |
+| Jefferson Davis Parish, LA      |                 2 |
 | Jackson Parish, LA              |                90 |
 | East Carroll Parish, LA         |                88 |
 | Assumption Parish, LA           |                90 |

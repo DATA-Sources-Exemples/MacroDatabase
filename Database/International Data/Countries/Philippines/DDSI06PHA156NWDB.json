@@ -1,7 +1,7 @@
 {
   "id": "DDSI06PHA156NWDB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liquid Assets to Deposits and Short Term Funding for Philippines",
   "observation_start": "1996-01-01",
   "observation_end": "2017-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-10-21 13:54:44-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "The ratio of the value of liquid assets (easily converted to cash) to short-term funding plus total deposits. Liquid assets include cash and due from banks, trading securities and at fair value through income, loans and advances to banks, reverse repos and cash collaterals. Deposits and short term funding includes total customer deposits (current, savings and term) and short term borrowing (money market instruments, CDs and other deposits).\n\nRaw data are from Bankscope. Data2075 / data2030. Numerator and denominator are first aggregated on the country level before division. (Calculated from underlying bank-by-bank unconsolidated data from Bankscope)\n\nSource Code: GFDD.SI.06"
 }

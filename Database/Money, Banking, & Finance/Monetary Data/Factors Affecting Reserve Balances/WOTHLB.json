@@ -1,7 +1,7 @@
 {
   "id": "WOTHLB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liabilities and Capital: Liabilities: Deposits: Other: Week Average",
   "observation_start": "1989-03-22",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:34:23-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Other deposits at Federal Reserve Banks include balances of international and multilateral organizations with accounts at FRBNY, such as the International Monetary Fund, United Nations, International Bank for Reconstruction and Development (World Bank); the special checking account of the ESF (where deposits from monetizing SDRs would be placed); and balances of a few U.S. government agencies, such as the Fannie Mae and Freddie Mac."
 }

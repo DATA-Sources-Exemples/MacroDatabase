@@ -1,7 +1,7 @@
 {
   "id": "RAIPGRPH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Resources and Assets: Investment Portfolios Arising from the Great Recession: Preferred Holdings in AIA Aurora LLC and ALICO Holdings LLC",
   "observation_start": "2009-12-02",
   "observation_end": "2011-01-12",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-02-10 17:19:20-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "This series is in the H.4.1 Factors Affecting Reserve Balances statistical press release and is available in FRED as WAIAL (https://fred.stlouisfed.org/series/WAIAL).\n\nData before Wednesday, April 27, 1921 represent weekly values as of Friday.\n\nAuthors: Cecilia Bao, Justin Chen, Nicholas Fries, Andrew Gibson, Emma Paine, and Kurt Schuler\nStudies in Applied Economics no. 115, Johns Hopkins University Institute for Applied Economics, Global Health, and the Study of Business Enterprise, July 2018; co-published with the Center for Financial Stability"
 }

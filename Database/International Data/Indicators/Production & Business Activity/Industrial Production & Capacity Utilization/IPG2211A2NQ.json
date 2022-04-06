@@ -1,7 +1,7 @@
 {
   "id": "IPG2211A2NQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",
   "observation_start": "1939-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 08:19:45-05",
   "popularity": 3,
-  "group_popularity": 43,
+  "group_popularity": 44,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 2211,2\n\nSource Code: IP.G2211A2.N"
 }

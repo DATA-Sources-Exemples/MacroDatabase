@@ -1,3 +1,3 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Consumer prices (inflation) |                 1 |
+| Consumer prices (inflation) |                 2 |

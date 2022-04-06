@@ -1,0 +1,18 @@
+{
+  "id": "ESALESOQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Vacant Housing Units for Sale in the South Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:27-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This group is limited to units for sale only; it excludes units both for rent and sale. If a unit was located in a multi-unit structure which was for sale as an entire structure and if the unit was not for rent, it was reported as \"held off market.\" However, if the individual unit was intended to be occupied by the new owner, it was reported as \"for sale.\""
+}

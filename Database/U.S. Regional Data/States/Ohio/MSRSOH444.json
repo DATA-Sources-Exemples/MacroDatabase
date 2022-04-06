@@ -1,0 +1,18 @@
+{
+  "id": "MSRSOH444",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Monthly State Retail Sales: Building Material and Garden Equipment and Supplies Dealers in Ohio",
+  "observation_start": "2019-01-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 11:02:35-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Monthly State Retail Sales (MSRS) report is a blended data product combining Monthly Retail Trade Survey data, administrative data, and third-party data. Data are available for year-over-year percent changes for Total Retail Sales excluding Nonstore Retailers as well as 11 North American Industry Classification System (NAICS) retail subsectors.\n\nFor more information on the MSRS view the methodology (https://www.census.gov/data/experimental-data-products/monthly-state-retail-sales.html). This is the first version of these experimental data.\n\nThis series measures retail sales for home centers; paint and wallpaper stores; hardware stores; other building material dealers; outdoor power equipment stores; nursery, garden center, and farm supply stores. The listed retailers correspond to 44411, 44412, 44413, 44419, 44421, 44422 in the 2017 NAICS manual."
+}

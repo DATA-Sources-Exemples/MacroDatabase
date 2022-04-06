@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS42060Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All-Transactions House Price Index for Santa Barbara-Santa Maria-Goleta, CA (MSA) (DISCONTINUED)",
   "observation_start": "1977-07-01",
   "observation_end": "2013-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-05-23 10:53:24-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Estimated using sales prices and appraisal data.\n\nThis series was discontinued because the source uses revised Metropolitan Statistical Areas (MSAs) as announced by the Office of Management and Budget (OMB) on February 28, 2013."
 }

@@ -31,7 +31,7 @@
 | Clay County, AL       |                88 |
 | Pike County, AL       |                90 |
 | Etowah County, AL     |               147 |
-| Walker County, AL     |               146 |
+| Walker County, AL     |                 2 |
 | Autauga County, AL    |               145 |
 | Macon County, AL      |                90 |
 | Lawrence County, AL   |                89 |

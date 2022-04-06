@@ -1,7 +1,7 @@
 {
   "id": "MDOAH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Mortgage Debt Outstanding, All holders (DISCONTINUED)",
   "observation_start": "1949-10-01",
   "observation_end": "2019-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-12-12 16:13:02-06",
-  "popularity": 46,
-  "group_popularity": 46,
+  "popularity": 47,
+  "group_popularity": 47,
   "notes": "The Mortgage Debt Outstanding table is no longer being updated as of March 2020. Many of the series that were published in this table can be found in the Z1 Financial Accounts of the United States release. The Z1 equivalent of this series is found at ASTMA. (https://fred.stlouisfed.org/series/ASTMA)\n\nFor further information, please refer to the Board of Governors of the Federal Reserve System's Mortgage Debt Outstanding (http://www.federalreserve.gov/econresdata/releases/mortoutstand/current.htm)."
 }

@@ -1,8 +1,8 @@
 {
   "EXP0001": {
     "id": "EXP0001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Exports of Goods by F.A.S. Basis to OPEC",
     "observation_start": "1985-01-01",
     "observation_end": "2020-12-01",
@@ -20,8 +20,8 @@
   },
   "EXP8500": {
     "id": "EXP8500",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Exports of Goods by F.A.S. Basis to International Organizations",
     "observation_start": "1994-01-01",
     "observation_end": "2003-12-01",
@@ -39,8 +39,8 @@
   },
   "FLIOA475SCEN": {
     "id": "FLIOA475SCEN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Number of Identified Exporters to International Organizations from Florida",
     "observation_start": "2002-01-01",
     "observation_end": "2002-01-01",
@@ -58,8 +58,8 @@
   },
   "IMP0001": {
     "id": "IMP0001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Imports of Goods by Customs Basis from OPEC",
     "observation_start": "1985-01-01",
     "observation_end": "2020-12-01",
@@ -77,8 +77,8 @@
   },
   "KSIOA475SCEN": {
     "id": "KSIOA475SCEN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Number of Identified Exporters to International Organizations from Kansas",
     "observation_start": "1997-01-01",
     "observation_end": "1997-01-01",
@@ -96,8 +96,8 @@
   },
   "MAIOA475SCEN": {
     "id": "MAIOA475SCEN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Number of Identified Exporters to International Organizations from Massachusetts",
     "observation_start": "1997-01-01",
     "observation_end": "1997-01-01",
@@ -115,8 +115,8 @@
   },
   "PAIOA475SCEN": {
     "id": "PAIOA475SCEN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Number of Identified Exporters to International Organizations from Pennsylvania",
     "observation_start": "1997-01-01",
     "observation_end": "1997-01-01",

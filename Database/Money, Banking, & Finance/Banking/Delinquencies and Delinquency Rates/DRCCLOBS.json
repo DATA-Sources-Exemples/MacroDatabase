@@ -1,7 +1,7 @@
 {
   "id": "DRCCLOBS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1991-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-23 15:04:13-06",
-  "popularity": 23,
-  "group_popularity": 24,
+  "popularity": 25,
+  "group_popularity": 26,
   "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

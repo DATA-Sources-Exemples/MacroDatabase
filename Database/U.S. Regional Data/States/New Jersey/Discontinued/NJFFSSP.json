@@ -1,0 +1,18 @@
+{
+  "id": "NJFFSSP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal Funds Sold and Securities Purchased Under Agreements to Resell in Domestic Offices of the Bank and of Its Edge and Agreement Subsidiaries, and in International Banking Facilities (IBFs) for Commercial Banks in New Jersey (DISCONTINUED)",
+  "observation_start": "1984-01-01",
+  "observation_end": "2001-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-05-22 10:58:56-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series represents Federal Funds Sold and Securities Purchased Under Agreements to Resell in Domestic Offices of the Bank and of Its Edge and Agreement Subsidiaries, and in International Banking Facilities (IBFs) call item RCFD1350.\n\nGeographic location is determined by Abbreviated State Name call item RSSD9200 = 'NJ' representing two character state abbreviation of New Jersey.\n\nUsers are advised to use the Federal Reserve Board of Governors' data dictionary (https://www.federalreserve.gov/apps/mdrm/data-dictionary) to retrieve detailed information for specific call items.\n\nThis series is calculated by the Federal Reserve Bank of St. Louis using raw data that are collected by the FFIEC. Raw data can be found at https://cdr.ffiec.gov/public/."
+}

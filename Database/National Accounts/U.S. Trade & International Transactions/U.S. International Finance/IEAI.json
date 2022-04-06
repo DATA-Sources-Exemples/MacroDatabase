@@ -1,7 +1,7 @@
 {
   "id": "IEAI",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Net U.S. incurrence of liabilities excluding financial derivatives (net increase in liabilities / financial inflow (+))",
   "observation_start": "1999-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-24 09:59:09-05",
-  "popularity": 7,
-  "group_popularity": 14
+  "popularity": 8,
+  "group_popularity": 15
 }

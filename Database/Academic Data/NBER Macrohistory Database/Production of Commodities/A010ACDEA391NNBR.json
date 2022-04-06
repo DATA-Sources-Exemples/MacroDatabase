@@ -1,7 +1,7 @@
 {
   "id": "A010ACDEA391NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Barley Crop, Spring Barley Only for Germany",
   "observation_start": "1911-01-01",
   "observation_end": "1936-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:05:06-05",
-  "popularity": 2,
+  "popularity": 1,
   "group_popularity": 2,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1878-1898 (2)--Original Data, 1893-1917 (3)--Original Data, 1911-1936. Statistiches Jahrbuch Does Not Show Spring Barley Crop Separately Beginning 1923. Data For 1916 Were Omitted Because They Were Not Comparable With The Rest Of The Data. Source: Statistiches Jahrbuch, Successive Issues, Wirtschaft Und Statistik (Or Statistik Fur Das Deutsche Reiches, Volumes For Crop Statistics); Vierteljahrshefte Zur Statistik, 1926, I, P. 51.\n\nThis NBER data series a01020ac appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01020ac"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WOSDRL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Other: Special Drawing Rights Certificate Account: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:34:13-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "Reserve Banks hold special drawing rights certificates (SDRs), an international monetary reserve asset created by the International Monetary Fund in 1970. Under the law providing for the United States' participation in the SDR system, the Secretary of the Treasury is authorized to issue SDR certificates, somewhat similar to gold certificates, to the Reserve Banks, which are required to purchase the SDRs for the purpose of financing SDR acquisitions or exchange stabilization operations. The value of the SDRs is established monthly, based on the exchange rates of a number of the underlying currencies."
 }

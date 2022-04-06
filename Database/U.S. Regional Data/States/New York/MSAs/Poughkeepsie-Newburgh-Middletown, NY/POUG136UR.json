@@ -1,7 +1,7 @@
 {
   "id": "POUG136UR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment Rate in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
   "observation_start": "2000-01-01",
   "observation_end": "2014-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Smoothed Seasonally Adjusted",
   "seasonal_adjustment_short": "SSA",
   "last_updated": "2015-02-04 11:12:18-06",
-  "popularity": 5,
-  "group_popularity": 7
+  "popularity": 3,
+  "group_popularity": 5
 }

@@ -1,7 +1,7 @@
 {
   "id": "NETEXC",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Net Exports of Goods and Services",
   "observation_start": "1970-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:56:24-05",
-  "popularity": 43,
-  "group_popularity": 44,
+  "popularity": 45,
+  "group_popularity": 46,
   "notes": "BEA Account Code: A019RX\n\n"
 }

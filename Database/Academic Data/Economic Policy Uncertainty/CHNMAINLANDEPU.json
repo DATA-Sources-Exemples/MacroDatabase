@@ -1,7 +1,7 @@
 {
   "id": "CHNMAINLANDEPU",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Economic Policy Uncertainty Index: Mainland Papers for China",
   "observation_start": "1949-10-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-25 08:01:09-05",
-  "popularity": 24,
-  "group_popularity": 24,
+  "popularity": 26,
+  "group_popularity": 26,
   "notes": "The Chinese Mainland EPU (https://www.policyuncertainty.com/china_monthly.html) newspaper-based indices of policy uncertainty in China is based on the working paper \"Economic Policy Uncertainty in China Since 1949: The View from Mainland Newspapers.\" by Steven J. Davis, Dingqian Liu and Xuguang S. Sheng. The index quantifies uncertainty-related concepts from October 1949 onwards using two mainland Chinese newspapers: the Renmin Daily and the Guangming Daily."
 }

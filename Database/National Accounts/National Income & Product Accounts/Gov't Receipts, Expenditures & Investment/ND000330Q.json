@@ -1,0 +1,18 @@
+{
+  "id": "ND000330Q",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Federal Consumption Expenditures and Gross Investment",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-30 08:03:06-05",
+  "popularity": 1,
+  "group_popularity": 5,
+  "notes": "BEA Account Code: ND000330"
+}

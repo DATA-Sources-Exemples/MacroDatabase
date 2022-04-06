@@ -1,7 +1,7 @@
 {
   "id": "NONREVNS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Nonrevolving Consumer Credit Owned and Securitized",
   "observation_start": "1943-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-07 14:07:09-06",
   "popularity": 12,
-  "group_popularity": 23,
+  "group_popularity": 25,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

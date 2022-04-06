@@ -1,7 +1,7 @@
 {
   "id": "G17MVSFLTRUCKS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Regular Seasonal Factors: Light Truck Production",
   "observation_start": "1996-01-01",
   "observation_end": "2023-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 08:52:23-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "A seasonal factor measures the percentage amount that on average, monthly production is above or below normal. A seasonal factor of 120 states that the month in question will usually be 20% above an average month's production level. Similarly, a seasonal factor of 100 implies an average month, while a factor of 80 implies a month that is typically 20% below average.\n\nThe not seasonally adjusted (NSA) data for light truck assemblies (https://fred.stlouisfed.org/series/MVALTTRCKN) are obtained from Ward's Communications, and the seasonal factors (SF), which contain adjustments for holiday and length-of-month effects as well as normal seasonal variation, are applied to MVALTTRCKN (https://fred.stlouisfed.org/series/MVALTTRCKN) using the formula found here (https://www.federalreserve.gov/releases/g17/mvsf.htm)."
 }

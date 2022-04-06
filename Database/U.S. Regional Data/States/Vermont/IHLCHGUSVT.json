@@ -1,0 +1,18 @@
+{
+  "id": "IHLCHGUSVT",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Job Postings on Indeed in Vermont",
+  "observation_start": "2020-02-01",
+  "observation_end": "2022-03-25",
+  "frequency": "Daily, 7-Day",
+  "frequency_short": "D",
+  "units": "Percent Change from Feb 01, 2020",
+  "units_short": "% Chg. from Feb 01, 2020",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-30 15:04:18-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Indeed calculates the percentage change in seasonally-adjusted job postings since February 1, 2020, using a 7-day trailing average. February 1, 2020, is the pre-pandemic baseline. Indeed seasonally adjusts each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. Indeed switched to this new methodology in January 2021 and now reports all historical data using this new methodology. Historical numbers have been revised and may differ significantly from originally reported values. The new methodology applies a detrended seasonal adjustment factor to the percentage change in job postings. For more information, see Frequently Asked Questions (https://www.hiringlab.org/indeed-data-faq/) regarding Indeed Data.\n\nCopyrighted: Pre-approval required. Contact Indeed to request permission to use the data at their contact information provided here (https://github.com/hiring-lab/data#readme).\n\nEnd Users are excluded of any warranty and liability on the part of Indeed for the accuracy of the Indeed Data. End Users will refrain from any external distribution of Indeed Data except in oral or written presentations, provided that such portions or derivations are incidental to and supportive of such presentations and, provided further that the End Users shall not distribute or disseminate in such presentations any amount of Indeed Data which could cause such presentations to be susceptible to use substantially as a source of, or substitute for Indeed Data. End Users agree to credit Indeed as the source and owner of the Indeed Data when making it available to third parties in any permissible manner as well as in internal use. End Users agree to not sell or otherwise provide the Indeed Data obtained from Licensee to third parties."
+}

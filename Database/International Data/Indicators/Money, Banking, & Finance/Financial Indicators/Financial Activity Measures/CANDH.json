@@ -1,7 +1,7 @@
 {
   "id": "CANDH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Chicago Fed National Activity Index: Personal Consumption and Housing",
   "observation_start": "1967-03-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-21 07:34:01-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "A zero value for the index indicates that the national economy is expanding at its historical trend rate of growth; negative values indicate below-average growth; and positive values indicate above-average growth.\n\nFor further information, please visit the Federal Reserve Bank of Chicago's web site:\nhttp://www.chicagofed.org/webpages/research/data/cfnai/current_data.cfm"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "IIPIMN",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Intermediate Inputs by Industry: Manufacturing: Nondurable Goods (Chain-Type Price Index)",
+  "observation_start": "2005-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 07:35:07-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Intermediate inputs refer to the value of both foreign and domestically produced goods and services which are used as energy, materials, and purchased services as part of an industry's production process."
+}

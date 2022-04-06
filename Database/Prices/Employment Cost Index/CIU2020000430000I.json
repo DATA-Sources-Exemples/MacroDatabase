@@ -1,7 +1,7 @@
 {
   "id": "CIU2020000430000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Installation, maintenance, and repair",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:52:12-06",
   "popularity": 3,
-  "group_popularity": 8,
+  "group_popularity": 7,
   "notes": "Historical data are available beginning with March 2001."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU10121192",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Carbon Steel Scrap Bundles",
   "observation_start": "1996-06-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:56:33-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 6,
+  "group_popularity": 6
 }

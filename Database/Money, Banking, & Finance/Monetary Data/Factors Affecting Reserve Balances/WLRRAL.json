@@ -1,7 +1,7 @@
 {
   "id": "WLRRAL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:33:06-05",
-  "popularity": 43,
-  "group_popularity": 43,
+  "popularity": 44,
+  "group_popularity": 44,
   "notes": "Reverse repurchase agreements are transactions in which securities are sold to a set of counterparties under an agreement to buy them back from the same party on a specified date at the same price plus interest. Reverse repurchase agreements may be conducted with foreign official and international accounts as a service to the holders of these accounts. All other reverse repurchase agreements, including transactions with primary dealers and a set of eligible money market funds, are open market operations intended to manage the supply of reserve balances; reverse repurchase agreements absorb reserve balances from the banking system for the length of the agreement. As with repurchase agreements, the naming convention used here reflects the transaction from the counterparties' perspective; the Federal Reserve receives cash in a reverse repurchase agreement and provides collateral to the counterparties."
 }

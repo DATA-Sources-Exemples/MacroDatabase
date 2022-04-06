@@ -1,7 +1,7 @@
 {
   "id": "COLXTIMVA01NCMLSAM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "International Trade: Imports: Value (goods): Total for Colombia",
   "observation_start": "1991-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 11:28:04-06",
-  "popularity": 4,
-  "group_popularity": 7,
+  "popularity": 3,
+  "group_popularity": 5,
   "notes": "OECD descriptor ID: XTIMVA01 OECD unit ID: NCMLSA OECD country ID: COL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

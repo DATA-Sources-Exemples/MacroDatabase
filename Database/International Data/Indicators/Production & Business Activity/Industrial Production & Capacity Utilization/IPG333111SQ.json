@@ -1,7 +1,7 @@
 {
   "id": "IPG333111SQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Manufacturing: Durable Goods: Farm Machinery and Equipment (NAICS = 333111)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-16 08:19:57-06",
-  "popularity": 3,
-  "group_popularity": 9,
+  "popularity": 5,
+  "group_popularity": 11,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 333111\n\nSource Code: IP.G333111.S"
 }

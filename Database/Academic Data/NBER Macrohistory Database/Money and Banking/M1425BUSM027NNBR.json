@@ -1,7 +1,7 @@
 {
   "id": "M1425BUSM027NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Currency Held by the Public for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1968-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:31:49-05",
-  "popularity": 2,
-  "group_popularity": 4,
+  "popularity": 1,
+  "group_popularity": 6,
   "notes": "Source: Federal Reserve Board, Data For 1947-1958: Supplement To Banking And Monetary Statistics, Section 1, \"Banks And The Monetary System\", October 1962. Data For 1959-1968: Federal Reserve Bulletin, June 1964, Pp. 686-692; August 1967, P. 1307; June 1968, P. A-92.\n\nThis NBER data series m14125b appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14125b"
 }

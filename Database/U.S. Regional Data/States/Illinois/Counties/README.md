@@ -85,8 +85,8 @@
 | Madison County, IL     |               147 |
 | Coles County, IL       |               144 |
 | Douglas County, IL     |                90 |
-| Union County, IL       |                89 |
-| Rock Island County, IL |               147 |
+| Union County, IL       |                 2 |
+| Rock Island County, IL |                 2 |
 | Brown County, IL       |                88 |
 | La Salle County, IL    |               147 |
 | Clark County, IL       |                90 |

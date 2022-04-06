@@ -1,7 +1,7 @@
 | id                 | title                                                                                                | observation_start   | observation_end   |
 |--------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| FRBKCLMCILA        | KC Fed Labor Market Conditions Index, Level of Activity Indicator                                    | 1992-01-01          | 2022-02-01        |
-| FRBKCLMCIM         | KC Fed Labor Market Conditions Index, Momentum Indicator                                             | 1992-01-01          | 2022-02-01        |
+| FRBKCLMCILA        | KC Fed Labor Market Conditions Index, Level of Activity Indicator                                    | 1992-01-01          | 2022-03-01        |
+| FRBKCLMCIM         | KC Fed Labor Market Conditions Index, Momentum Indicator                                             | 1992-01-01          | 2022-03-01        |
 | IHLCHG10420        | Job Postings on Indeed in Akron, OH (MSA)                                                            | 2020-02-01          | 2022-03-25        |
 | IHLCHG10580        | Job Postings on Indeed in Albany-Schenectady-Troy, NY (MSA)                                          | 2020-02-01          | 2022-03-25        |
 | IHLCHG10740        | Job Postings on Indeed in Albuquerque, NM (MSA)                                                      | 2020-02-01          | 2022-03-25        |

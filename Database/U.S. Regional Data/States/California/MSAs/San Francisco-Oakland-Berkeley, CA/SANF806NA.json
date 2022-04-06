@@ -1,7 +1,7 @@
 {
   "id": "SANF806NA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Total Nonfarm in San Francisco-Oakland-Hayward, CA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-26 03:28:07-05",
-  "popularity": 8,
-  "group_popularity": 12
+  "popularity": 7,
+  "group_popularity": 10
 }

@@ -1,18 +1,18 @@
 {
   "id": "DCPF3M",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "90-Day AA Financial Commercial Paper Interest Rate",
   "observation_start": "1997-01-02",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-04-04",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-04-04 15:18:13-05",
+  "last_updated": "2022-04-05 15:17:07-05",
   "popularity": 51,
-  "group_popularity": 59,
+  "group_popularity": 60,
   "notes": "Discount Basis"
 }

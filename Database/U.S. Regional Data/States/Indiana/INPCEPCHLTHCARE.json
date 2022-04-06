@@ -1,0 +1,18 @@
+{
+  "id": "INPCEPCHLTHCARE",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Per Capita Personal Consumption Expenditures: Services: Health Care for Indiana",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:15:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Personal consumption expenditures of a given area divided by the resident population of the area.\n\nSpending on outpatient services and hospital and nursing home services. Outpatient services consist of physician services, dental services, and paramedical services.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

@@ -1,7 +1,7 @@
 {
   "id": "IPG32551SQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Manufacturing: Non-Durable Goods: Paint and Coating (NAICS = 32551)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-17 08:21:51-05",
   "popularity": 1,
-  "group_popularity": 9,
+  "group_popularity": 11,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 32551\n\nSource Code: IP.G32551.S"
 }

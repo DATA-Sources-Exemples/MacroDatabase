@@ -1,0 +1,18 @@
+{
+  "id": "D4WAOAL",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Assets: Other: Other Assets, Consolidated Table: Wednesday Level in Federal Reserve District 4: Cleveland (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2020-03-11",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-03-12 15:48:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series has been discontinued and will no longer be updated. It has been consolidated under the following series, which will continue to be updated: H41RESPPAEF04NWW (https://fred.stlouisfed.org/series/H41RESPPAEF04NWW).\n\nFor further information about the changes to the H.4.1 Statistical Release, please see the announcements (https://www.federalreserve.gov/feeds/h41.html) provided by the source."
+}

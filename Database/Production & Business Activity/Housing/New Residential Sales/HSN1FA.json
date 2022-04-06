@@ -1,7 +1,7 @@
 {
   "id": "HSN1FA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New One Family Houses Sold: United States",
   "observation_start": "1963-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 09:01:17-05",
-  "popularity": 15,
+  "popularity": 16,
   "group_popularity": 64
 }

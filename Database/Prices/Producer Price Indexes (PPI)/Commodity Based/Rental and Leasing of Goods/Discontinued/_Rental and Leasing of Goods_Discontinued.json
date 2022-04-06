@@ -1,8 +1,8 @@
 {
   "WPS4423": {
     "id": "WPS4423",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -20,8 +20,8 @@
   },
   "WPS442301": {
     "id": "WPS442301",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -39,8 +39,8 @@
   },
   "WPU4422": {
     "id": "WPU4422",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -58,8 +58,8 @@
   },
   "WPU4423": {
     "id": "WPU4423",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -77,8 +77,8 @@
   },
   "WPU442201": {
     "id": "WPU442201",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -96,8 +96,8 @@
   },
   "WPU442301": {
     "id": "WPU442301",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",
@@ -115,8 +115,8 @@
   },
   "WPU44220101": {
     "id": "WPU44220101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Tractor Rental and Leasing (DISCONTINUED)",
     "observation_start": "2009-03-01",
     "observation_end": "2015-09-01",
@@ -134,8 +134,8 @@
   },
   "WPU44230101": {
     "id": "WPU44230101",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Producer Price Index by Commodity for Rental and Leasing of Goods: Truck Trailer, Utility Trailer, and RV Rental and Leasing (DISCONTINUED)",
     "observation_start": "2008-12-01",
     "observation_end": "2015-09-01",

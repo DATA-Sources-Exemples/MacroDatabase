@@ -1,7 +1,7 @@
 {
   "id": "OB000336Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Private Nonresidential Fixed Investment",
   "observation_start": "2003-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:36-05",
-  "popularity": 8,
-  "group_popularity": 45,
+  "popularity": 7,
+  "group_popularity": 46,
   "notes": "BEA Account Code: OB000336"
 }

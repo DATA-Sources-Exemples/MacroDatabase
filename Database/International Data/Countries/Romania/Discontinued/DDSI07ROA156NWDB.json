@@ -1,7 +1,7 @@
 {
   "id": "DDSI07ROA156NWDB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Provisions to Non-Performing Loans for Romania (DISCONTINUED)",
   "observation_start": "2003-01-01",
   "observation_end": "2014-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-08-29 11:11:24-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Provisions to non-performing loans. Non-performing loans are loans for which the contractual payments are delinquent, usually defined as and NPL ratio being overdue for more than a certain number of days (e.g., usually more than 90 days).\n\nProvisions to non-performing loans. Non-performing Loans are loans for which the contractual payments are delinquent, usually defined as and NPL ratio being overdue for more than a certain number of days (e.g., usually more than 90 days). Reported by IMF staff. Note that due to differences in national accounting, taxation, and supervisory regimes, these data are not strictly comparable across countries. (International Monetary Fund, Global Financial Stability Report)\n\nSource Code: GFDD.SI.07"
 }

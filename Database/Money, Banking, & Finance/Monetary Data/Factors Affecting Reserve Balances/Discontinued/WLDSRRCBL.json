@@ -1,7 +1,7 @@
 {
   "id": "WLDSRRCBL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Factors Absorbing Reserve Funds: Deposits with Federal Reserve Banks, Other Than Reserve Balances: Service-Related: Required Clearing Balances (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2012-07-11",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-07-12 16:07:32-05",
   "popularity": 2,
-  "group_popularity": 5,
+  "group_popularity": 3,
   "notes": "A required clearing balance (also called a contractual clearing balance) is an amount agreed upon in advance that a depository institution holds in excess of the balance it must maintain to satisfy its reserve requirements, if any. Required clearing balances facilitate access to Federal Reserve priced services, such as check processing and use of Fedwire. Required clearing balances are especially useful for institutions that do not maintain accounts at the Reserve Bank for meeting reserve requirements, either because they keep reserves in the form of vault cash or because they maintain reserve balances at correspondent banks. Balances maintained to satisfy a required clearing balance generate earnings credits for the depository institution. The credits are used to pay for Reserve Bank priced services. For more details, see http://www.federalreserve.gov/releases/h41/20120719/."
 }

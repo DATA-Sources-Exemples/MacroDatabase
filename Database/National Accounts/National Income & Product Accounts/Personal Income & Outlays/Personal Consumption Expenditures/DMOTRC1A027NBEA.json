@@ -1,7 +1,7 @@
 {
   "id": "DMOTRC1A027NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Personal consumption expenditures: Durable goods: Motor vehicles and parts",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:54:22-05",
-  "popularity": 6,
-  "group_popularity": 34,
+  "popularity": 5,
+  "group_popularity": 33,
   "notes": "BEA Account Code: DMOTRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

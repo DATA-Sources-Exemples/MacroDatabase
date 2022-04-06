@@ -1,8 +1,8 @@
 {
   "MKTGNI1WA646NWDB": {
     "id": "MKTGNI1WA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross National Income for World (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2015-01-01",
@@ -20,8 +20,8 @@
   },
   "MKTGNIEZA646NWDB": {
     "id": "MKTGNIEZA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross National Income for Euro Area (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2015-01-01",
@@ -39,8 +39,8 @@
   },
   "PCAGDP1WA646NWDB": {
     "id": "PCAGDP1WA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product Per Capita for World (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2011-01-01",
@@ -58,8 +58,8 @@
   },
   "PCAGDPEZA646NWDB": {
     "id": "PCAGDPEZA646NWDB",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Gross Domestic Product Per Capita for Euro Area (DISCONTINUED)",
     "observation_start": "1960-01-01",
     "observation_end": "2011-01-01",

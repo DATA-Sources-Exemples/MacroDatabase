@@ -1,7 +1,7 @@
 {
   "id": "M1204AUSM516SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Industrial Production and Trade for United States",
   "observation_start": "1875-01-01",
   "observation_end": "1915-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 15:32:13-05",
-  "popularity": 5,
-  "group_popularity": 14,
+  "popularity": 7,
+  "group_popularity": 15,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1875-1915 (2)--Seasonally Adjusted Data, 1915-1919 (3)--Seasonally Adjusted Data, 1916-1961. Data Were Computed By NBER From Published Percentage Deviations From Normal. Source: 1875-1914 Data Are From W.M. Persons, Forecasting Business Cycles, (John Wiley, New York, 1931), Pp. 93-143; 1915 Data Are From The Review Of Economic Statistics, April 1923, P. 76\n\nThis NBER data series m12004a appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12004a"
 }

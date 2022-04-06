@@ -1,7 +1,7 @@
 {
   "id": "AOCALSEESTF3811191",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Expenses for Automotive Oil Change and Lubrication Shops, Establishments Subject To Federal Income Tax, Employer Firms",
   "observation_start": "2004-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-24 10:28:54-06",
-  "popularity": 0,
-  "group_popularity": 0
+  "popularity": 3,
+  "group_popularity": 3
 }

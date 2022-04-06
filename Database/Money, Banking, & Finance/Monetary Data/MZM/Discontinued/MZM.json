@@ -1,7 +1,7 @@
 {
   "id": "MZM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "MZM Money Stock (DISCONTINUED)",
   "observation_start": "1980-11-03",
   "observation_end": "2021-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-28 14:10:02-05",
   "popularity": 52,
-  "group_popularity": 53,
+  "group_popularity": 54,
   "notes": "This series has been discontinued and will no longer be updated. The institutional money market funds (WIMFSL (https://fred.stlouisfed.org/series/WIMFSL)) and small-denomination time deposits (WSMTIME (https://fred.stlouisfed.org/series/WSMTIME)) components used to calculate this series has been discontinued by the Board of Governors and are no longer available in the H.6 statistical release, Money Stock Measures.\n\nFor further information about the changes to the H.6 statistical release, please see the announcements (https://www.federalreserve.gov/feeds/h6.html) provided by the source.\n\nM2 less small-denomination time deposits plus institutional money market funds.\nMoney Zero Maturity is calculated by the Federal Reserve Bank of St. Louis."
 }

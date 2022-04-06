@@ -1,7 +1,7 @@
 {
   "id": "MDOTHIOH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Mortgage Debt Outstanding by Type of Holder: Individuals and Other Holders (DISCONTINUED)",
   "observation_start": "1949-10-01",
   "observation_end": "2019-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-12-12 16:13:03-06",
-  "popularity": 23,
-  "group_popularity": 23,
+  "popularity": 25,
+  "group_popularity": 25,
   "notes": "The Mortgage Debt Outstanding table is no longer being updated as of March 2020. Many of the series that were published in this table can be found in the Z1 Financial Accounts of the United States release. The Z1 equivalent of this series is the sum of REITTMA (https://fred.stlouisfed.org/series/REITTMA), SLGTMSQ027S (https://fred.stlouisfed.org/series/SLGTMSQ027S), SLGEDBRFTMA (https://fred.stlouisfed.org/series/SLGEDBRFTMA), PPFTMA (https://fred.stlouisfed.org/series/PPFTMA), BOGZ1FL473065100Q (https://fred.stlouisfed.org/series/BOGZ1FL473065100Q), BOGZ1FL613065000Q (https://fred.stlouisfed.org/series/BOGZ1FL613065000Q), MABSHNO (https://fred.stlouisfed.org/series/MABSHNO), MABSNNCB (https://fred.stlouisfed.org/series/MABSNNCB), MABSNNB (https://fred.stlouisfed.org/series/MABSNNB) and BOGZ1FL513065505Q (https://fred.stlouisfed.org/series/BOGZ1FL513065505Q).\n\nFor further information, please refer to the Board of Governors of the Federal Reserve System's Mortgage Debt Outstanding (http://www.federalreserve.gov/econresdata/releases/mortoutstand/current.htm)."
 }

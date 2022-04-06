@@ -1,7 +1,7 @@
 {
   "id": "A01215DEA422NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Pig Iron Production for Germany",
   "observation_start": "1869-01-01",
   "observation_end": "1916-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:46:35-05",
   "popularity": 2,
-  "group_popularity": 6,
+  "group_popularity": 5,
   "notes": "Luxembourg Is Included Throughout; Alsace-Lorraine, Beginning 1871. Data From 1869-1909 Are Official Figures Published By The Source; Thereafter Data Are The Source'S. Source: Verien Deutscher Eisen Und Stahl Industrieller, \"Deutschlands Gewinnung An Roheisen Rohstahl Und Walzwerko-Erzengnissan\", 1933, Pp. 28-29.\n\nThis NBER data series a01215 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01215"
 }

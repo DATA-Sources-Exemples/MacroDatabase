@@ -1,0 +1,14 @@
+| id              | title                                                                                                                                     | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| B060RC0A144NBEA | Net interest (paid and received) (DISCONTINUED)                                                                                           | 1929-01-01          | 2016-01-01        |
+| B1593C0A144NBEA | Benefits paid by pension and insurance funds: Publicly administered government employee retirement plans: Federal military (DISCONTINUED) | 1929-01-01          | 2011-01-01        |
+| B1869C0A144NBEA | Current payments to the rest of the world: Income payments on assets: Interest (DISCONTINUED)                                             | 1946-01-01          | 2016-01-01        |
+| B4929C0A144NBEA | Benefits paid by pension and insurance funds: Private pension and profit-sharing (DISCONTINUED)                                           | 1950-01-01          | 2011-01-01        |
+| B4938C0A144NBEA | Benefits paid by pension and insurance funds: Publicly administered government employee retirement plans (DISCONTINUED)                   | 1929-01-01          | 2011-01-01        |
+| B4946C0A144NBEA | Benefits paid by pension and insurance funds: Publicly administered government employee retirement plans: Federal civilian (DISCONTINUED) | 1929-01-01          | 2011-01-01        |
+| J423RC1A027NBEA | National income without capital consumption adjustment: Domestic industries (DISCONTINUED)                                                | 1948-01-01          | 1969-01-01        |
+| J423RC1Q027SBEA | National income without capital consumption adjustment: Domestic industries (DISCONTINUED)                                                | 1948-01-01          | 1969-10-01        |
+| J736RC1A027NBEA | National income without capital consumption adjustment: Domestic private industries (DISCONTINUED)                                        | 1948-01-01          | 1969-01-01        |
+| J736RC1Q027SBEA | National income without capital consumption adjustment: Domestic private industries (DISCONTINUED)                                        | 1948-01-01          | 1969-10-01        |
+| N552RC0A144NBEA | Wages and salaries: Private industries: Goods-producing industries: Manufacturing (DISCONTINUED)                                          | 1998-01-01          | 2016-01-01        |
+| S121000A144NBEA | State and Local Government Defined Benefit Pension Plans: Cash flow: Benefit payments and withdrawals (DISCONTINUED)                      | 1929-01-01          | 2011-01-01        |

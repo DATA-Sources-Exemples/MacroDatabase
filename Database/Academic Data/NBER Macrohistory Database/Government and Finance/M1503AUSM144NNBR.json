@@ -1,7 +1,7 @@
 {
   "id": "M1503AUSM144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal Budget Receipts, Miscellaneous Internal Revenue for United States",
   "observation_start": "1879-07-01",
   "observation_end": "1953-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:46:33-05",
   "popularity": 2,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1879-1953 (2)--Original Data, 1954-1959. Data Cover Internal Revenue Exclusive Of Income Tax. A New Classification Of Receipts Begins In July 1930 (See Daily Treasury Statement Of July 1, 1930). This Series Is Continued On The Old Basis Through June 1933. Thereafter, Receipts Are Those In General And Special Funds, Trust Fund Receipts Being Excluded. Earlier Data Covered Receipts In All Accounts. Miscellaneous Internal Revenue Is Almost Unaffected By This Change And The Discrepancies Between The Data Obtained From Annual Reports For 1932 And 1933, And Data Given In Daily Treasury Statements Respectively Are Insignificant. The Series Has Therefore Been Treated As Continuous. For July 1930-June 1931, The Daily Treasury Statement Shows Receipts Both On The Old And New Basis. In February 1954 The Accounting Procedures For Receipts And Expenditures Were Changed And Later Figures Are No Longer Comparable. Source: U.S. Treasury Department, For 1879-1883 Data: Statement Of The Receipts And Expenditures Of The United States, From 1880 To 1895; For 1884-May 1895 Data: Receipts, Expenditures, And Debts Of The United States, 1789-1895, With Annual Approximations Made By Congress, 1873-1896; Data For June 1895-1953: Daily Statement Of The U.S. Treasury; Except Data For July 1931-June 1932 Which Are From The Annual Report Of The Secretary Of The Treasury On The State Of Finances, 1932, P. 370, And 1933, P. 312.\n\nThis NBER data series m15003a appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15003a"
 }

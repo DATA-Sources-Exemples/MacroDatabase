@@ -1,7 +1,7 @@
 {
   "id": "SMU06310805553000001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Financial Activities: Real Estate and Rental and Leasing in Los Angeles-Long Beach-Anaheim, CA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-26 04:04:33-05",
   "popularity": 2,
-  "group_popularity": 8
+  "group_popularity": 9
 }

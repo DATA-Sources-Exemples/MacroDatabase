@@ -1,8 +1,8 @@
 {
   "CCDIOA27100Q156N": {
     "id": "CCDIOA27100Q156N",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "CredAbility Consumer Distress Index for Jackson, MI (MSA) (DISCONTINUED)",
     "observation_start": "2005-01-01",
     "observation_end": "2013-01-01",
@@ -20,8 +20,8 @@
   },
   "PCRGMP27100": {
     "id": "PCRGMP27100",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Jackson, MI (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",

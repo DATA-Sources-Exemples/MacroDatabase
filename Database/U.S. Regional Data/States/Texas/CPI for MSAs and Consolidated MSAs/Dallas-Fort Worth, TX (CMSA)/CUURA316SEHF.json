@@ -1,7 +1,7 @@
 {
   "id": "CUURA316SEHF",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: Energy Services in Dallas-Fort Worth-Arlington, TX (CBSA)",
   "observation_start": "1963-11-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:39:54-06",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 3
 }

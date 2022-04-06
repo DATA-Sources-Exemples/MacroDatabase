@@ -1,0 +1,18 @@
+{
+  "id": "PCEPILFE",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 2012=100",
+  "units_short": "Index 2012=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-31 07:43:11-05",
+  "popularity": 73,
+  "group_popularity": 74,
+  "notes": "BEA Account Code: DPCCRG\r\n\r\nThe Personal Consumption Expenditures Price Index is a measure of the prices that people living in the United States, or those buying on their behalf, pay for goods and services. The change in the PCE price index is known for capturing inflation (or deflation) across a wide range of consumer expenses and reflecting changes in consumer behavior. For example, if car prices rise, car sales may decline while bicycle sales increase. \r\n\r\nThe PCE Price Index is produced by the Bureau of Economic Analysis (BEA), which revises previously published PCE data to reflect updated information or new methodology, providing consistency across decades of data that's valuable for researchers. They also offer the series as a Chain-Type index and excluding food and energy products, as above. The PCE price index less food excluding food and energy is used primarily for macroeconomic analysis and forecasting future values of the PCE price index.\r\n\r\nThe PCE Price Index is similar to the Bureau of Labor Statistics' consumer price index for urban consumers. The two indexes, which have their own purposes and uses, are constructed differently, resulting in different inflation rates.\r\n\r\nFor more information on the PCE price index, see:\r\nU.S. Bureau of Economic Analysis, Guide to the National Income and Product Accounts of the United States (NIPA) (https://www.bea.gov/national/pdf/nipaguid.pdf) \r\nU.S. Bureau of Economic Analysis, Personal Consumption Expenditures Price Index (https://www.bea.gov/data/personal-consumption-expenditures-price-index)\r\nU.S. Bureau of Economic Analysis, Prices & Inflation (https://www.bea.gov/resources/learning-center/what-to-know-prices-inflation)\r\nU.S. Bureau of Labor Statistics, Differences between the Consumer Price Index and the Personal Consumption Expenditure Price Index (https://www.bls.gov/opub/btn/archive/differences-between-the-consumer-price-index-and-the-personal-consumption-expenditures-price-index.pdf)"
+}

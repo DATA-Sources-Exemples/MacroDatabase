@@ -1,7 +1,7 @@
 {
   "id": "M0689BUSM144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Sales by Retail Stores for United States",
   "observation_start": "1946-01-01",
   "observation_end": "1974-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 13:50:43-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 5,
+  "group_popularity": 6,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1935-1946 (2)--Original Data, 1946-1974. Contrary To Earlier Data In The Variables Covering The Years 1935-1946 Which Were Linked To Censuses Of Retail Trade, These Estimates Are Derived From Blown Up Sample Data (See Scb, September 1952, P. 16 For A Description Of The Method Of Estimating). From 1961 On, Estimates Are Based On A New Sample (See Scb, November 1968, P. 21). The Sample Changes Again In 1970 (See Source). Source: U.S. Department Of Commerce, Data For 1946-1950: Unpublished Table On \"Sales Of Retail Stores By Kinds Of Business, 1946-1950 New Series\" (Comm.-Dc 7838); Data For 1951-1952: Survey Of Current Business, June 1957, P. 28, Revised Series--\"Sales Of Retail Stores\"; Revised Data For 1953-1958: Monthly Retail Trade Report, Supplement 1, September 17, 1963, No. Br-63-7; Revised Data For 1959-1960: Scb, April 1966; Data For 1961-1967: Scb, November 1968; Data For 1968-1974: Monthly Retail Trade, January 1969 And Following Issues. U.S. Department Of Commerce, Release From Office Of Business Economics, January 1952; Survey Of Current Business, September 1952\n\nThis NBER data series m06089b appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: m06089b"
 }

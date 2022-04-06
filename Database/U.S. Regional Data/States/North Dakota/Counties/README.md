@@ -1,7 +1,7 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
 | Pembina County, ND       |                89 |
-| Walsh County, ND         |                89 |
+| Walsh County, ND         |                 2 |
 | Ransom County, ND        |                89 |
 | McKenzie County, ND      |                89 |
 | Traill County, ND        |                89 |

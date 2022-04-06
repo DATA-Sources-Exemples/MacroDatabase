@@ -7,7 +7,7 @@
 | Real GDP per Capita Relative to U.S.                             |               382 |
 | Price Levels of GDP, Consumption, Government, and Investment     |               952 |
 | Openness                                                         |               382 |
-| Population                                                       |               192 |
+| Population                                                       |                 2 |
 | Real GDP per Capita (Constant Prices)                            |               572 |
 | Component Shares of GDP per Capita (Constant Prices)             |               572 |
 | Exchange Rates                                                   |                 2 |

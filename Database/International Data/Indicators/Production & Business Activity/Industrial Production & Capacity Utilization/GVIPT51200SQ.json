@@ -1,7 +1,7 @@
 {
   "id": "GVIPT51200SQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Gross Value of Products: Non-Durable Consumer Goods",
   "observation_start": "1972-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-17 08:22:24-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "Source Code: GVIP.T51200.S"
 }

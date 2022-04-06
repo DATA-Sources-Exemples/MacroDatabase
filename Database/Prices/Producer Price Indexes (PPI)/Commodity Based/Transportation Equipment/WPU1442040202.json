@@ -1,7 +1,7 @@
 {
   "id": "WPU1442040202",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Transportation Equipment: Street, Subway, Trolley, and Rapid Transit Cars (New and Rebuilt) and Rebuilt Passenger/Freight Cars",
   "observation_start": "2009-06-01",
   "observation_end": "2016-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-09-15 12:31:08-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

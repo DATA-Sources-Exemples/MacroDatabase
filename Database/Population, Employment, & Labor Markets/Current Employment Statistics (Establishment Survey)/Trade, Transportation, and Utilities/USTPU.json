@@ -1,7 +1,7 @@
 {
   "id": "USTPU",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees, Trade, Transportation, and Utilities",
   "observation_start": "1939-01-01",
   "observation_end": "2022-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 07:45:20-05",
-  "popularity": 25,
+  "popularity": 24,
   "group_popularity": 25,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES4000000001"
 }

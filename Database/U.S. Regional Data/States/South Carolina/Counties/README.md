@@ -38,7 +38,7 @@
 | Georgetown County, SC   |               146 |
 | Sumter County, SC       |               147 |
 | Richland County, SC     |               146 |
-| Jasper County, SC       |                89 |
+| Jasper County, SC       |                 2 |
 | Lexington County, SC    |               147 |
 | Beaufort County, SC     |               147 |
 | Chesterfield County, SC |                90 |

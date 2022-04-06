@@ -17,7 +17,7 @@
 | ALBFCIODDNUM        | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Albania                                          | 2004-01-01          | 2017-01-01        |
 | ALBFCIODNUM         | Geographical Outreach: Number of Institutions, Other Depository Corporations for Albania                                                                | 2004-01-01          | 2017-01-01        |
 | ALBFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Albania                                         | 2004-01-01          | 2020-01-01        |
-| ALBFCIOFMFNNUM      | Geographical Outreach: Number of Institutions, Other Financial Intermediaries, Non-deposit Taking Microfinance Institutions (MFIs) for Albania          | 2009-01-01          | 2020-01-01        |
+| ALBFCIOFMFNNUM      | Geographical Outreach: Number of Institutions, Other Financial Intermediaries, Non-deposit Taking Microfinance Institutions (MFIs) for Albania          | 2018-01-01          | 2020-01-01        |
 | ALBFCIOFMNUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Other Financial Intermediaries for Albania                                 | 2004-01-01          | 2017-01-01        |
 | ALBFCIOFNUM         | Geographical Outreach: Number of Institutions, Other Financial Corporations for Albania                                                                 | 2004-01-01          | 2017-01-01        |
 | ALBFCLODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Albania                                                       | 2004-01-01          | 2020-01-01        |

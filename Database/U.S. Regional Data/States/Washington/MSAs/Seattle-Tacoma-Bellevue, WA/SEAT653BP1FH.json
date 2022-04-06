@@ -1,7 +1,7 @@
 {
   "id": "SEAT653BP1FH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Seattle-Tacoma-Bellevue, WA (MSA)",
   "observation_start": "1988-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 08:48:47-05",
-  "popularity": 5,
-  "group_popularity": 9,
+  "popularity": 7,
+  "group_popularity": 11,
   "notes": "This series represents the total number of building permits for 1-unit structure types. The 1-unit structure type is a single-family home or house. A single-family home or house types include fully detached, semidetached (semidetached, side-by-side), row houses, and townhouses. For attached units, each must be separated from the adjacent unit by a ground-to-roof wall in order to be classified as a single-family structure. These units also must not share heating/air-conditioning systems or utilities. Units built on top of one another and those built side-by-side that do not have a ground-to-roof wall and/or have common facilities (i.e., attic, basement, heating plant, plumbing, etc.) are not included under single-family structures.\n\nThe Saint Louis Federal Reserve Bank uses the most recent Metropolitan Statistical Area definitions released by the Office of Management and Budget. For more information on specific definitions visit here (https://census.gov/programs-surveys/metro-micro.html)."
 }

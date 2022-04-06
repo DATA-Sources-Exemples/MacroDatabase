@@ -1,0 +1,18 @@
+{
+  "id": "AKPCEPCCLTH",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Per Capita Personal Consumption Expenditures: Nondurable Goods: Clothing and Footwear for Alaska",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:17:13-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Personal consumption expenditures of a given area divided by the resident population of the area.\n\nPurchases of garments and other clothing materials and footwear. Garments consist of women's and girl's clothing, men's and boy's clothing, and children's and infant's clothing.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

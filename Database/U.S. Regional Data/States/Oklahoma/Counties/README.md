@@ -40,7 +40,7 @@
 | Pittsburg County, OK    |                90 |
 | Love County, OK         |                89 |
 | Muskogee County, OK     |               147 |
-| Noble County, OK        |                90 |
+| Noble County, OK        |                 2 |
 | Kay County, OK          |                89 |
 | Ottawa County, OK       |                90 |
 | Washington County, OK   |               146 |

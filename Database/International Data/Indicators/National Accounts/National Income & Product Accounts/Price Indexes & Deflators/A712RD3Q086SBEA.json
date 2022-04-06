@@ -1,7 +1,7 @@
 {
   "id": "A712RD3Q086SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Implicit price deflator for gross domestic purchases",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-30 07:57:42-05",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 4,
+  "group_popularity": 5,
   "notes": "BEA Account Code: A712RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

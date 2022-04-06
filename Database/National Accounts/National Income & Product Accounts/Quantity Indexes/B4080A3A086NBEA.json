@@ -1,7 +1,7 @@
 {
   "id": "B4080A3A086NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real national defense consumption expenditures: Gross output of general government: Value added: Compensation of general government employees: Military (chain-type quantity index)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:00:33-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "BEA Account Code: B4080A\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

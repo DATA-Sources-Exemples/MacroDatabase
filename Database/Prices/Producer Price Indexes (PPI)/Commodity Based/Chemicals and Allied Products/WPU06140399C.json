@@ -1,7 +1,7 @@
 {
   "id": "WPU06140399C",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Miscellaneous Cyclic and Acyclic Chemicals and Chemical Products, Excluding Fatty Acid Esters",
   "observation_start": "2007-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:52:13-05",
-  "popularity": 27,
-  "group_popularity": 27
+  "popularity": 28,
+  "group_popularity": 28
 }

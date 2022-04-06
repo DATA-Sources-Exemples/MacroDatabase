@@ -1,8 +1,8 @@
 {
   "WILLSMLCAP250": {
     "id": "WILLSMLCAP250",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Wilshire Small Cap 250 Total Market Index (DISCONTINUED)",
     "observation_start": "1980-07-31",
     "observation_end": "2014-12-15",
@@ -20,8 +20,8 @@
   },
   "WILLSMLCAP250PR": {
     "id": "WILLSMLCAP250PR",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Wilshire Small Cap 250 Price Index (DISCONTINUED)",
     "observation_start": "1993-09-01",
     "observation_end": "2014-12-15",
@@ -39,8 +39,8 @@
   },
   "WILLWWW": {
     "id": "WILLWWW",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Wilshire Internet Total Market Index (DISCONTINUED)",
     "observation_start": "1996-12-31",
     "observation_end": "2014-12-15",

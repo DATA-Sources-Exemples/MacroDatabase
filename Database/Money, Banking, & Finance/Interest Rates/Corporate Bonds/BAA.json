@@ -1,7 +1,7 @@
 {
   "id": "BAA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Moody's Seasoned Baa Corporate Bond Yield",
   "observation_start": "1919-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 10:16:08-05",
   "popularity": 68,
-  "group_popularity": 77,
+  "group_popularity": 78,
   "notes": "These instruments are based on bonds with maturities 20 years and above. \n\n\u00a9 2017, Moody\u2019s Corporation, Moody\u2019s Investors Service, Inc., Moody\u2019s Analytics, Inc. and/or their licensors and affiliates (collectively, \u201cMoody\u2019s\u201d).  All rights reserved. Moody\u2019s ratings and other information (\u201cMoody\u2019s Information\u201d) are proprietary to Moody\u2019s and/or its licensors and are protected by copyright and other intellectual property laws.  Moody\u2019s Information is licensed to Client by Moody\u2019s.  MOODY\u2019S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY\u2019S PRIOR WRITTEN CONSENT."
 }

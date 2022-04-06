@@ -1,7 +1,7 @@
 {
   "id": "EXPORTSSERVICESCONTRIBNOW",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Contributions to percent change in GDPNow: Real Exports of Services",
   "observation_start": "2014-04-01",
   "observation_end": "2022-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Percentage Points",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-04-01 17:31:25-05",
+  "last_updated": "2022-04-05 10:51:28-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "The Contributions to percent change in GDPNow: Real Exports of Services represents the contribution in percentage points that the nowcast for Exports of Services provides to real GDP growth. For further information visit the source at https://www.frbatlanta.org/cqer/research/gdpnow.aspx?panel=1."

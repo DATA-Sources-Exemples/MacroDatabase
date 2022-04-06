@@ -1,7 +1,7 @@
 {
   "id": "M1505BUSM144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal Budget Expenditures, Total for United States",
   "observation_start": "1914-11-01",
   "observation_end": "1933-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:46:51-05",
-  "popularity": 2,
-  "group_popularity": 10,
+  "popularity": 4,
+  "group_popularity": 12,
   "notes": "Series Is Presented Here As Six Variables--(1)--Original Data, 1879-1915 (2)--Original Data, 1914-1933 (3)--Original Data, 1932-1938 (4)--Original, 1937-1940 (5)--Original, 1939-1947 (6)--Original, 1945-1962. Source: U.S. Treasury Department, Daily Treasury Statement\n\nThis NBER data series m15005b appears on the NBER website in Chapter 15 at http://www.nber.org/databases/macrohistory/contents/chapter15.html.\n\nNBER Indicator: m15005b"
 }

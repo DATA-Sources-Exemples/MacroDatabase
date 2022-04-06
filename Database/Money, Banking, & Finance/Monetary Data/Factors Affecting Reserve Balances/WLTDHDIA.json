@@ -1,7 +1,7 @@
 {
   "id": "WLTDHDIA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: Term Deposits Held by Depository Institutions: Week Average",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:21-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Term deposits are deposits with specified maturity dates that are held by institutions that are eligible to receive interest on their balances at Reserve Banks. Term deposits are separate and distinct from balances maintained in an institution's master account at a Federal Reserve Bank as well as from those maintained in an excess balance account. Term deposits are intended to facilitate the conduct of monetary policy by providing a tool for managing the aggregate quantity of reserve balances."
 }

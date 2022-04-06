@@ -1,0 +1,18 @@
+{
+  "id": "MAPAINUSSOA672N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Mean Personal Income in South Census Region",
+  "observation_start": "1974-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "2020 CPI-U-RS Adjusted Dollars",
+  "units_short": "2020 CPI-U-RS Adjusted $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-09-14 14:10:15-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "People 15 years old and over beginning with March 1980, and people 14 years old and over as of March of the following year for previous years."
+}

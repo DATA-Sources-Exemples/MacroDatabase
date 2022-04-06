@@ -1,0 +1,6 @@
+| id                | title                                                                                                                                         | observation_start   | observation_end   |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BOGZ1FA104190015A | Nonfinancial Corporate Business; Total Liabilities Excluding Foreign Direct Investment in the U.S., Flow (DISCONTINUED)                       | 1946-01-01          | 2020-01-01        |
+| BOGZ1FA104190015Q | Nonfinancial Corporate Business; Total Liabilities Excluding Foreign Direct Investment in the U.S., Flow (DISCONTINUED)                       | 1946-10-01          | 2020-10-01        |
+| BOGZ1FA113070005A | Nonfinancial Noncorporate Business; Trade Receivables, Including Paycheck Protection Program Subsidies Receivable; Asset, Flow (DISCONTINUED) | 1946-01-01          | 2019-01-01        |
+| BOGZ1FA113070005Q | Nonfinancial Noncorporate Business; Trade Receivables, Including Paycheck Protection Program Subsidies Receivable; Asset, Flow (DISCONTINUED) | 1946-10-01          | 2020-07-01        |

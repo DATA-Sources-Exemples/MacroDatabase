@@ -1,7 +1,7 @@
 {
   "id": "IRSTCB01BRM156N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Immediate Rates: Less than 24 Hours: Central Bank Rates for Brazil",
   "observation_start": "1996-10-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:50:06-06",
-  "popularity": 13,
-  "group_popularity": 15,
+  "popularity": 12,
+  "group_popularity": 14,
   "notes": "OECD descriptor ID: IRSTCB01\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

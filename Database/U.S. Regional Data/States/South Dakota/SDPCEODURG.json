@@ -1,0 +1,18 @@
+{
+  "id": "SDPCEODURG",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Personal Consumption Expenditures: Goods: Durable Goods: Other Durable Goods for South Dakota",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:17:37-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "A measure of spending on goods and services purchased by, and on behalf of, households based on households' state of residence in the fifty states and the District of Columbia.\n\nPurchases of jewelry and watches, therapeutic appliances and equipment, educational books, luggage and similar personal items, and telephone and facsimile equipment.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MSRSVT453",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Monthly State Retail Sales: Miscellaneous Store Retailers in Vermont",
+  "observation_start": "2019-01-01",
+  "observation_end": "2021-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 11:02:12-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Monthly State Retail Sales (MSRS) report is a blended data product combining Monthly Retail Trade Survey data, administrative data, and third-party data. Data are available for year-over-year percent changes for Total Retail Sales excluding Nonstore Retailers as well as 11 North American Industry Classification System (NAICS) retail subsectors.\n\nFor more information on the MSRS view the methodology (https://www.census.gov/data/experimental-data-products/monthly-state-retail-sales.html). This is the first version of these experimental data.\n\nThis series measures retail sales for florists; office supply and stationary stores; gift, novelty, and souvenier stores; used merchandise stores; pet and pet supplies stores; art dealers; manufactured (mobile) home dealers; other miscellaneous store retailers. The listed retailers correspond to 4531, 45321, 45322, 4533, 45391, 45392, 45393, 45399 in the 2017 NAICS manual."
+}

@@ -80,7 +80,7 @@
 | Sheridan County, KS     |                86 |
 | Stanton County, KS      |                88 |
 | Bourbon County, KS      |                90 |
-| Osborne County, KS      |                88 |
+| Osborne County, KS      |                 2 |
 | Douglas County, KS      |               147 |
 | Gove County, KS         |                88 |
 | Pawnee County, KS       |                89 |

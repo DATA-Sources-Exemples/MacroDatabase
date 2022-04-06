@@ -1,7 +1,7 @@
 {
   "id": "CMTNUR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment Rate in Mountain Census Division",
   "observation_start": "1976-01-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 09:37:34-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

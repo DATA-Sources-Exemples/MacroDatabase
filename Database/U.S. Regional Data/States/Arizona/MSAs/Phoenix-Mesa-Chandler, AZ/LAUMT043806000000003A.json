@@ -1,7 +1,7 @@
 {
   "id": "LAUMT043806000000003A",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Unemployment Rate in Phoenix-Mesa-Scottsdale, AZ (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-04-16 14:28:02-05",
-  "popularity": 7,
-  "group_popularity": 30
+  "popularity": 9,
+  "group_popularity": 31
 }

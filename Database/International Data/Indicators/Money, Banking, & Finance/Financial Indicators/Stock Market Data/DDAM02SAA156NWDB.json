@@ -1,7 +1,7 @@
 {
   "id": "DDAM02SAA156NWDB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Market Capitalization Outside of Top 10 Largest Companies to Total Market Capitalization for Saudi Arabia",
   "observation_start": "2008-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 16:35:18-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Value of listed shares outside of the top ten largest companies to total value of all listed shares. (World Federation of Exchanges)\n\nSource Code: GFDD.AM.02"
 }

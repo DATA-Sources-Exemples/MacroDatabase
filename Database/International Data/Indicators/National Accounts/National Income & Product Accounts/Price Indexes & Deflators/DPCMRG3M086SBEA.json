@@ -1,7 +1,7 @@
 {
   "id": "DPCMRG3M086SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Personal consumption expenditures: Market-based (chain-type price index)",
   "observation_start": "1987-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-31 07:43:59-05",
-  "popularity": 5,
+  "popularity": 4,
   "group_popularity": 5,
   "notes": "BEA Account Code: DPCMRG\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -51,7 +51,7 @@
 | La Porte County, IN    |               147 |
 | Vigo County, IN        |               147 |
 | Switzerland County, IN |                89 |
-| Jay County, IN         |                89 |
+| Jay County, IN         |                 2 |
 | Wabash County, IN      |                90 |
 | Decatur County, IN     |                89 |
 | Randolph County, IN    |                90 |

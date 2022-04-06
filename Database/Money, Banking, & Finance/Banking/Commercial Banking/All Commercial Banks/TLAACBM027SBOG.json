@@ -1,7 +1,7 @@
 {
   "id": "TLAACBM027SBOG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Assets, All Commercial Banks",
   "observation_start": "1973-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 15:36:06-05",
-  "popularity": 35,
-  "group_popularity": 60,
+  "popularity": 37,
+  "group_popularity": 61,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

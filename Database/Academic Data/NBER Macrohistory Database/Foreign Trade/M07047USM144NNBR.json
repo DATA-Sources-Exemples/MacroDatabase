@@ -1,7 +1,7 @@
 {
   "id": "M07047USM144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Merchandise Trade Balance: Excess of Total Exports Over General Imports for United States",
   "observation_start": "1866-07-01",
   "observation_end": "1969-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:03:00-05",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "Source: NBER Series 07023, Total Exports; NBER Series 07028, Total Imports\n\nThis NBER data series m07047 appears on the NBER website in Chapter 7 at http://www.nber.org/databases/macrohistory/contents/chapter07.html.\n\nNBER Indicator: m07047"
 }

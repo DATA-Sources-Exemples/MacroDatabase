@@ -29,7 +29,7 @@
 | Dunklin County, MO        |                89 |
 | Worth County, MO          |                89 |
 | Daviess County, MO        |                89 |
-| Carroll County, MO        |                88 |
+| Carroll County, MO        |                 2 |
 | Morgan County, MO         |                90 |
 | Saline County, MO         |                90 |
 | Gasconade County, MO      |                89 |
@@ -109,7 +109,7 @@
 | Phelps County, MO         |                90 |
 | Lincoln County, MO        |               146 |
 | Cedar County, MO          |                88 |
-| Jasper County, MO         |               147 |
+| Jasper County, MO         |                 2 |
 | Randolph County, MO       |                90 |
 | New Madrid County, MO     |                90 |
 | Ray County, MO            |                90 |

@@ -1,7 +1,7 @@
 {
   "id": "DMBCRA3A086NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real personal consumption expenditures: Nondurable goods: Men's and boys' clothing (chain-type quantity index)",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:00:02-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "BEA Account Code: DMBCRA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

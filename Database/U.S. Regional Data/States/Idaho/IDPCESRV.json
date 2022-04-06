@@ -1,0 +1,18 @@
+{
+  "id": "IDPCESRV",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Personal Consumption Expenditures: Services for Idaho",
+  "observation_start": "1997-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-10-08 11:15:27-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "A measure of spending on goods and services purchased by, and on behalf of, households based on households' state of residence in the fifty states and the District of Columbia.\n\nProducts that cannot be stored or inventoried that are usually consumed at the place and time of their purchase.\n\nThis (SIC) division includes establishments primarily engaged in providing a wide variety of services for individuals, business and government establishments, and other organizations. Hotels and other lodging places; establishments providing personal, business, repair, and amusement services; health, legal, engineering, and other professional services; educational institutions; membership organizations, and other miscellaneous services, are included.\n\nEstablishments which provide specialized services closely allied to activities covered in other divisions are classified in such divisions.For more information about this release go to http://www.bea.gov/newsreleases/regional/pce/pce_newsrelease.htm."
+}

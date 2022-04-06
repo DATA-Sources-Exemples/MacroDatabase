@@ -1,7 +1,7 @@
 {
   "id": "SOFR1",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Secured Overnight Financing Rate: 1st Percentile",
   "observation_start": "2018-04-03",
   "observation_end": "2022-04-04",

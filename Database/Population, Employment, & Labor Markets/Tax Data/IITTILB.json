@@ -1,7 +1,7 @@
 {
   "id": "IITTILB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "U.S Individual Income Tax: Taxable Income Boundary Under which the Lowest Tax Rate Bracket Applies",
   "observation_start": "1913-01-01",
   "observation_end": "2018-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-01-14 14:57:03-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Years represent the tax years. As stated by the source, the definition of the income base (and, thus, the tax bracket boundaries) to which the tax rates were applied differs over the years, depending on how the following were determined and figured: statutory adjustments to or exclusions from income; personal exemptions; itemized deduction expenditures, which were sometimes described as income credits; standard deductions; the various thresholds and ceilings; and statutory taxable income (and its predecessor net income). Therefore, the lowest and highest taxable income amounts are not comparable for all years, and the amounts described as for statutory taxable income for tax years preceding 1954 are actually for statutory net income. \n\nStatutory net income was income after subtracting deductions but, for most years, was before subtracting personal exemptions. \nStatutory taxable income was after subtracting both deductions and personal exemptions. \nTaxable income is the tax base for recent years. Net income required certain adjustments to arrive at the tax base, depending on whether the income was subject to normal tax, surtax, or both. \n\n For more information on the specific adjustments, see Appendix to Selected Historical and Other Data Tables at https://www.irs.gov/uac/soi-tax-stats-historical-table-23"
 }

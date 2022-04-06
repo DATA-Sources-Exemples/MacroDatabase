@@ -1,7 +1,7 @@
 {
   "id": "MADI555PCPI",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Per Capita Personal Income in Madison, WI (MSA)",
   "observation_start": "1969-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-16 07:38:18-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 6,
+  "group_popularity": 6
 }

@@ -1,8 +1,8 @@
 {
   "EXP0019": {
     "id": "EXP0019",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Exports of Goods by F.A.S. Basis to Sub Saharan Africa",
     "observation_start": "1985-01-01",
     "observation_end": "2022-02-01",
@@ -20,8 +20,8 @@
   },
   "IMP0019": {
     "id": "IMP0019",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Imports of Goods by Customs Basis from Sub Saharan Africa",
     "observation_start": "1985-01-01",
     "observation_end": "2022-02-01",

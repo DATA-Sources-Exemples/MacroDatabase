@@ -1,8 +1,8 @@
 {
   "ATNHPIUS39100Q": {
     "id": "ATNHPIUS39100Q",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All-Transactions House Price Index for Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "1980-04-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "IHLCHG39100": {
     "id": "IHLCHG39100",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Job Postings on Indeed in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "2020-02-01",
     "observation_end": "2022-03-25",
@@ -39,8 +39,8 @@
   },
   "PATENTCBSA139100": {
     "id": "PATENTCBSA139100",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Granted Utility Patents Originating in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -58,8 +58,8 @@
   },
   "POUG136LF": {
     "id": "POUG136LF",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Civilian Labor Force in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2014-12-01",
@@ -76,8 +76,8 @@
   },
   "POUG136UR": {
     "id": "POUG136UR",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2014-12-01",
@@ -88,14 +88,14 @@
     "seasonal_adjustment": "Smoothed Seasonally Adjusted",
     "seasonal_adjustment_short": "SSA",
     "last_updated": "2015-02-04 11:12:18-06",
-    "popularity": 5,
-    "group_popularity": 7,
+    "popularity": 3,
+    "group_popularity": 5,
     "path": "../Database/U.S. Regional Data/States/New York/MSAs/Poughkeepsie-Newburgh-Middletown, NY"
   },
   "POUG136URN": {
     "id": "POUG136URN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "1990-01-01",
     "observation_end": "2014-12-01",
@@ -106,14 +106,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2015-02-04 11:13:09-06",
-    "popularity": 5,
-    "group_popularity": 7,
+    "popularity": 4,
+    "group_popularity": 5,
     "path": "../Database/U.S. Regional Data/States/New York/MSAs/Poughkeepsie-Newburgh-Middletown, NY"
   },
   "POUPOP": {
     "id": "POUPOP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Resident Population in Poughkeepsie-Newburgh-Middletown, NY (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2021-01-01",
@@ -124,8 +124,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-25 12:46:30-05",
-    "popularity": 5,
-    "group_popularity": 5,
+    "popularity": 4,
+    "group_popularity": 4,
     "notes": "All observations are July 1 estimates of each year.",
     "path": "../Database/U.S. Regional Data/States/New York/MSAs/Poughkeepsie-Newburgh-Middletown, NY"
   }

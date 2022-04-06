@@ -1,7 +1,7 @@
 {
   "id": "A007RO1Q156NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Gross Private Domestic Investment: Fixed Investment",
   "observation_start": "1948-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-24 07:58:18-06",
   "popularity": 3,
-  "group_popularity": 11,
+  "group_popularity": 9,
   "notes": "BEA Account Code: A007RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

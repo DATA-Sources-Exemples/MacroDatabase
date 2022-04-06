@@ -1,7 +1,7 @@
 {
   "id": "WMAIDEN2",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Assets: Net Portfolio Holdings of Maiden Lane LLCs: Net Portfolio Holdings of Maiden Lane II LLC: Week Average (DISCONTINUED)",
   "observation_start": "2008-12-17",
   "observation_end": "2015-12-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-12-31 16:03:28-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

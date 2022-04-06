@@ -1,7 +1,7 @@
 {
   "id": "M14060USM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Ratio of Reserves to Net Deposits, National Banks, Central Reserve Cities for United States",
   "observation_start": "1887-05-01",
   "observation_end": "1915-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:37:02-05",
-  "popularity": 26,
-  "group_popularity": 26,
+  "popularity": 25,
+  "group_popularity": 25,
   "notes": "Data For May 1887-August 1892 Were Computed By NBER; Thereafter Data Are Taken Directly From The Source. Beginning In April 1902, The Table Heading Changed From \"Reserve Held -- Ratio Of Reserve\" To \"Cash On Hand, Due From Reserve Agents, And In The Redemption Fund -- Percent\". Data Remain Comparable Throughout. Monthly Coverage Varies From Year To Year. Except For 1887, Which Only Has Data For Four Months, All Years From 1888-1914 Have Scattered Five Month Coverage. Six Months Are Presented For 1915. The First And Fifth Call Dates Through The First Call Date Of 1892 Were Computed As Follows: For Deposits -- The Amount Of Reserve Required, 25% Of Net Deposits Were Summed For New York City, Chicago, And St. Louis And Then Multiplied By Four (See Table On P. 191 Of The 1888 Report); For Reserves Held -- Reserves Held, Other Reserve Cities (1888, P. 190) Were Deducted From Reserves Held, All Reserve Cities (1888, P. 195). For The Three Middle Dates Through July 1892, Reserves Held For New York City, Chicago, And St. Louis Were Summed; Net Deposits For The Three Cities Were Summed; And The Ratio Was Computed (1888, P. 180). Source: Annual Report Of The Comptroller Of The Currency, 1888 And Following Years.\n\nThis NBER data series m14060 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14060"
 }

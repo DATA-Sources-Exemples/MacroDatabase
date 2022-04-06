@@ -1,7 +1,7 @@
 {
   "id": "IPG3273NQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Manufacturing: Durable Goods: Cement and Concrete Product (NAICS = 3273)",
   "observation_start": "1972-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 08:21:47-05",
-  "popularity": 3,
-  "group_popularity": 21,
+  "popularity": 2,
+  "group_popularity": 22,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 3273\n\nSource Code: IP.G3273.N"
 }

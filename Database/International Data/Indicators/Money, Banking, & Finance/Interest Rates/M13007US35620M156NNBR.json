@@ -1,7 +1,7 @@
 {
   "id": "M13007US35620M156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Banker's Acceptance Rates for New York, NY",
   "observation_start": "1917-08-01",
   "observation_end": "1965-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:19:13-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Data Represent Prime Bankers' Acceptances, Ninety Days. Data For 1918-1950 Are Averages Of Weekly Prevailing Rates Calculated On The Basis Of Frequency Of A Single Rate Or A Range Of Rates Occurring During The Month. Data For 1951-1965 Are Averages Of Daily Quotations Computed By The Federal Reserve Board (See Bulletin Of November 1954). Revisions Prior To 1954 Are From The Survey Of Current Business 1955 Statistical Supplement, P. 82. Source: Board Of Governors Of The Federal Reserve System, Data For 1917-1941: Banking And Monetary Statistics. Data For 1942-1965: Federal Reserve Bulletin.\n\nThis NBER data series m13007 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13007"
 }

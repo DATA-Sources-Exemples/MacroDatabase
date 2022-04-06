@@ -1,7 +1,7 @@
 {
   "id": "USNII",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Net Interest Income for Commercial Banks in United States (DISCONTINUED)",
   "observation_start": "1984-01-01",
   "observation_end": "2020-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-12-10 14:30:34-06",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "This series is discontinued and will no longer be updated. For alternative data in FRED similar to the discontinued series, see QBPQYNTIY (https://fred.stlouisfed.org/series/QBPQYNTIY), which is part of the FDIC Quarterly Banking Profile (https://fred.stlouisfed.org/release?rid=482). Additional consolidated data is available on the FDIC's Bank Data and Statistics (https://www.fdic.gov/bank/statistical/).\n\nThis series represents Net Interest Income call item RIAD4074.\n\nUsers are advised to use the Federal Reserve Board of Governors' data dictionary (https://www.federalreserve.gov/apps/mdrm/data-dictionary) to retrieve detailed information for specific call items.\n\nThis series is calculated by the Federal Reserve Bank of St. Louis using raw data that are collected by the FFIEC. Raw data can be found at https://cdr.ffiec.gov/public/."
 }

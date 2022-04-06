@@ -78,7 +78,7 @@
 | Hinds County, MS           |               147 |
 | Tate County, MS            |                89 |
 | Coahoma County, MS         |                90 |
-| Jasper County, MS          |                87 |
+| Jasper County, MS          |                 2 |
 | Jones County, MS           |               146 |
 | Leake County, MS           |                89 |
 | Pearl River County, MS     |               146 |

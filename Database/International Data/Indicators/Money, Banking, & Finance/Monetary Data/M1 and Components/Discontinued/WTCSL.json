@@ -1,7 +1,7 @@
 {
   "id": "WTCSL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Travelers Checks (DISCONTINUED)",
   "observation_start": "1975-01-06",
   "observation_end": "2018-12-31",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2020-10-02 11:04:01-05",
-  "popularity": 15,
-  "group_popularity": 15
+  "popularity": 12,
+  "group_popularity": 13
 }

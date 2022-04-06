@@ -1,7 +1,7 @@
 {
   "id": "CPILEGNS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: All Items Less Energy in U.S. City Average",
   "observation_start": "1957-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 07:39:27-06",
-  "popularity": 8,
-  "group_popularity": 24,
+  "popularity": 6,
+  "group_popularity": 22,
   "notes": "Handbook of Methods - (https://www.bls.gov/opub/hom/pdf/cpihom.pdf) Understanding the CPI: Frequently Asked Questions - (http://stats.bls.gov:80/cpi/cpifaq.htm)"
 }

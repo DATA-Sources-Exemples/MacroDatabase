@@ -1,7 +1,7 @@
 {
   "id": "LQASRTMXM163N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Liquid Assets to Total Assets (Liquid Asset Ratio) for Mexico",
   "observation_start": "2005-01-01",
   "observation_end": "2021-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-01 07:02:23-06",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "This series is calculated by using the core measure of liquid assets as the numerator and total assets as the denominator. The ratio can also be calculated using the broad measure of liquid assets as the numerator. This series is a liquid asset ratio, which provides an indication of the liquidity available to meet expected and unexpected demands for cash. The level of liquidity indicates the ability of the deposit-taking sector to withstand shocks to their balance sheet.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

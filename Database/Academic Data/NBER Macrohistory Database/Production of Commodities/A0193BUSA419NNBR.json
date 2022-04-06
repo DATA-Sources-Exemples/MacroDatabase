@@ -1,7 +1,7 @@
 {
   "id": "A0193BUSA419NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Iron Ore Production, Total for United States",
   "observation_start": "1911-01-01",
   "observation_end": "1939-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:46:06-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1889-1915 (2)--Original Data, 1911-1939. Data Exclude Ore Containing Five Percent Or More Manganese. Source: U.S. Bureau Of The Mines, Mineral Resources.\n\nThis NBER data series a01193b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01193b"
 }

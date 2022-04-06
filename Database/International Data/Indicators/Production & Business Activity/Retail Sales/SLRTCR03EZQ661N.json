@@ -1,7 +1,7 @@
 {
   "id": "SLRTCR03EZQ661N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Retail Trade Sales: Passenger Car Registrations for the Euro Area",
   "observation_start": "1985-01-01",
   "observation_end": "2021-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-12 11:57:57-05",
   "popularity": 2,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: SLRTCR03\nOECD unit ID: IXOB\nOECD country ID: EA17\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

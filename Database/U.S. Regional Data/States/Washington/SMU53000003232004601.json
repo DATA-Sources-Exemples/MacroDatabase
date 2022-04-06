@@ -1,0 +1,17 @@
+{
+  "id": "SMU53000003232004601",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Plastics & Rubber Products Mfg in Washington",
+  "observation_start": "1990-01-01",
+  "observation_end": "2016-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-01-24 11:40:42-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

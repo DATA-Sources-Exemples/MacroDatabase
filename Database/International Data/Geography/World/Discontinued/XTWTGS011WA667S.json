@@ -1,7 +1,7 @@
 {
   "id": "XTWTGS011WA667S",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Volume of Trade of Goods and Services for the World (DISCONTINUED)",
   "observation_start": "1969-01-01",
   "observation_end": "2013-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-04-12 22:20:54-05",
   "popularity": 1,
-  "group_popularity": 15,
+  "group_popularity": 18,
   "notes": "OECD descriptor ID: XTWTGS01\nOECD unit ID: CXMLSA\nOECD country ID: WLD\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

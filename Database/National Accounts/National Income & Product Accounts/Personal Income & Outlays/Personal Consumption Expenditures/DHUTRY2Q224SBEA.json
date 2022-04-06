@@ -1,7 +1,7 @@
 {
   "id": "DHUTRY2Q224SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Contributions to percent change in real gross domestic product: Personal consumption expenditures: Services: Housing and utilities",
   "observation_start": "1959-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:56:47-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "BEA Account Code: DHUTRY\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

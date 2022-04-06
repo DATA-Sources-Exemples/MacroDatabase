@@ -1,7 +1,7 @@
 {
   "id": "M13043USM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Yields on Municipal Bonds, Highest Rating for United States",
   "observation_start": "1937-01-01",
   "observation_end": "1966-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:16:41-05",
-  "popularity": 19,
-  "group_popularity": 19,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Data Refer To Aaa Grade Bonds. Data Through 1962 Include: Hartford, Connecticut -- 18 Year 3.5% Bonds; Indianapolis, Indiana -- 25 Year 3.625% Bonds; Maryland -- 14 Year 3% Bonds; Milwaukee, Wisconsin -- 20 Year 3% Bonds; New York State -- 25 Year 3% Bonds (See Moody'S, July 16, 1962). Source: Moody'S Municipal And Investment Manual, 1961; Successives Issues Of Moody'S Bond Survey Thereafter.\n\nThis NBER data series m13043 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13043"
 }

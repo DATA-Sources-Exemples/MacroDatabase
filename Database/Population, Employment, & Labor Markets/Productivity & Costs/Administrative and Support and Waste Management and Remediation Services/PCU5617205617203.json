@@ -1,7 +1,7 @@
 {
   "id": "PCU5617205617203",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Industry: Janitorial Services: Nonresidential Cleaning Services",
   "observation_start": "2003-06-01",
   "observation_end": "2018-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-06-13 08:01:24-05",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 9,
+  "group_popularity": 9
 }

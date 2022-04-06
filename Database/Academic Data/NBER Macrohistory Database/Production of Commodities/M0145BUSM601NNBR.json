@@ -1,7 +1,7 @@
 {
   "id": "M0145BUSM601NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Refined Lead Production, Total Primary for United States",
   "observation_start": "1945-01-01",
   "observation_end": "1955-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:50:19-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1929-1945 (2)--Original Data, 1945-1955 Data Represent Production From Domestic And Foreign Ore Including Some Secondary Material Passing Through Primary Smelters. Source: American Bureau Of Metal Statistics Yearbook, 1947 And Following Issues; Survey Of Current Business, Monthly Issues Through September 1955, And Statistical Supplements Beginning With 1949 Issue.\n\nThis NBER data series m01245b appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01245b"
 }

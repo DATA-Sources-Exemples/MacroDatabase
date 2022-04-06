@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SA0L2",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: All Items Less Shelter in U.S. City Average",
   "observation_start": "1947-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:39:10-06",
-  "popularity": 23,
-  "group_popularity": 34
+  "popularity": 21,
+  "group_popularity": 35
 }

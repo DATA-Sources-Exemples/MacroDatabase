@@ -1,0 +1,18 @@
+{
+  "id": "NRIPDC96",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Nonresidential Investment: Equipment and Software, 3 Decimal (DISCONTINUED)",
+  "observation_start": "1995-01-01",
+  "observation_end": "2013-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Chained 2005 Dollars",
+  "units_short": "Bil. of Chn. 2005 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2013-06-26 08:07:01-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEFR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: Sugar and Sweets in U.S. City Average",
   "observation_start": "1989-01-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-10 07:38:35-06",
-  "popularity": 6,
-  "group_popularity": 9
+  "popularity": 5,
+  "group_popularity": 13
 }

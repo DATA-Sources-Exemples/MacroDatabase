@@ -1,0 +1,17 @@
+{
+  "id": "BOST625LF",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Civilian Labor Force in Boston-Cambridge-Nashua, MA-NH (NECTA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Smoothed Seasonally Adjusted",
+  "seasonal_adjustment_short": "SSA",
+  "last_updated": "2022-03-18 17:15:21-05",
+  "popularity": 3,
+  "group_popularity": 4
+}

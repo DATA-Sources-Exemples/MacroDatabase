@@ -1,7 +1,7 @@
 {
   "id": "WPUSOP3000",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity for Stage of Processing: Finished Goods (DISCONTINUED)",
   "observation_start": "1947-01-01",
   "observation_end": "2015-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-01-15 08:55:00-06",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 12,
+  "group_popularity": 12,
   "notes": "In January 2014, the Producer Price Index (PPI) transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID) aggregation system. Effective with the January 2016 Producer Price Index (PPI) data release in February 2016, PPI ceased the calculation and publication of the Stage of Processing (SOP) versions of these indexes. Going forward, data users wishing to track prices for finished goods, processed goods for intermediate demand (intermediate goods), unprocessed goods for intermediate demand (crude goods), or any of the former SOP-based component indexes will need to use the corresponding index codes from the Final Demand-Intermediate Demand (FD-ID) aggregation system. The FD-ID aggregation system webpage provides a table listing the SOP indexes and their concordant FD-ID indexes. https://www.bls.gov/ppi/fdidconcordance.htm\n\nThe data series has transitioned from the Stage of Processing (SOP) aggregation system to the Final Demand-Intermediate Demand (FD-ID). All Stage of Processing (SOP) data series have been discontinued. Please see the replacement for the data series at: https://fred.stlouisfed.org/series/WPUFD49207"
 }

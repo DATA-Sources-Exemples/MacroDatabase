@@ -1,7 +1,7 @@
 {
   "id": "DDOI11MXA156NWDB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Remittance Inflows to GDP for Mexico",
   "observation_start": "1979-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 16:23:53-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "Workers' remittances and compensation of employees comprise current transfers by migrant workers and wages and salaries earned by nonresident workers. Data are the sum of three items defined in the fifth edition of the IMF's Balance of Payments Manual: workers' remittances, compensation of employees, and migrants' transfers. Remittances are classified as current private transfers from migrant workers resident in the host country for more than a year, irrespective of their immigration status, to recipients in their country of origin. Migrants' transfers are defined as the net worth of migrants who are expected to remain in the host country for more than one year that is transferred from one country to another at the time of migration. Compensation of employees is the income of migrants who have lived in the host country for less than a year.\n\nSource Code: GFDD.OI.13"
 }

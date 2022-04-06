@@ -1,0 +1,18 @@
+{
+  "id": "W605RL1A225NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Government Consumption Expenditures and Gross Investment: Government: Income security",
+  "observation_start": "1960-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Preceding Period",
+  "units_short": "% Chg. from Preceding Period",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-02 11:24:38-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: W605RL\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

@@ -1,7 +1,7 @@
 {
   "id": "A001RG3A086NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross national product (chain-type price index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:13-05",
-  "popularity": 27,
-  "group_popularity": 28,
+  "popularity": 30,
+  "group_popularity": 31,
   "notes": "BEA Account Code: A001RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

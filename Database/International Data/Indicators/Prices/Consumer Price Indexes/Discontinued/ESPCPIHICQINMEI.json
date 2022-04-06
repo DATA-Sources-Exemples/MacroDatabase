@@ -1,0 +1,18 @@
+{
+  "id": "ESPCPIHICQINMEI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Spain (DISCONTINUED)",
+  "observation_start": "1992-01-01",
+  "observation_end": "2015-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Index 2010=100",
+  "units_short": "Index 2010=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-04-15 10:03:40-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
+}

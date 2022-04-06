@@ -1,7 +1,7 @@
 {
   "id": "M1125BUSM347NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of All Common Stock Prices for United States",
   "observation_start": "1945-01-01",
   "observation_end": "1968-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:02:14-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1871-1956 (2)--Original Data, 1945-1968. For A More Complete Description Of This Series, See Business Cycle Indicators, Vol.Ii, G.H. Moore, NBER, P.24. Note That This Variable Is On The Base 1941-1943=10, Not 1941-1943=100! Source: Cowles Commission And Standard And Poor'S Corporation. Standard And Poor'S Corporation'S Long Term Security Price Index Record, 1957 Edition (1945-1956), 1959 Supplement (1957-1958), Current Statistics (1959-1968).\n\nThis NBER data series m11025b appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11025b"
 }

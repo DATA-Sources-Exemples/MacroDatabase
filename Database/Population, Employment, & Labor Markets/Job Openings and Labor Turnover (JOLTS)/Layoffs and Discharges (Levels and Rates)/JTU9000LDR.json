@@ -1,7 +1,7 @@
 {
   "id": "JTU9000LDR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Layoffs and Discharges: Government",
   "observation_start": "2000-12-01",
   "observation_end": "2022-02-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-29 09:09:26-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

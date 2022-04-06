@@ -1,0 +1,18 @@
+{
+  "id": "SMU25716504348400001SA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "All Employees: Truck Transportation in Boston-Cambridge-Quincy, MA-NH (NECTA) (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2014-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2015-01-28 14:39:57-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'x12' package from R with default parameter settings. The package uses the U.S. Bureau of the Census X-12-ARIMA Seasonal Adjustment Program. More information on the 'x12' package can be found at http://cran.r-project.org/web/packages/x12/x12.pdf. More information on X-12-ARIMA can be found at https://www.census.gov/srd/www/x13as/."
+}

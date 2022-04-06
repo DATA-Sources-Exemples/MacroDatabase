@@ -1,0 +1,18 @@
+{
+  "id": "B408RN2A224NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Contributions to Percent Change in National Defense Consumption Expenditures and Gross Investment: Consumption expenditures: Gross output of general government: Value added: Compensation of general government employees: Military",
+  "observation_start": "1973-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percentage Points at Annual Rate",
+  "units_short": "Percentage Points at Annual Rate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-24 08:00:11-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B408RN\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

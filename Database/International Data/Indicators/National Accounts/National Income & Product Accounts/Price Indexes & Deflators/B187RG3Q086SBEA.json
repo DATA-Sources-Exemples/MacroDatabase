@@ -1,7 +1,7 @@
 {
   "id": "B187RG3Q086SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Imports of nonpetroleum goods (chain-type price index)",
   "observation_start": "1967-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-02-24 07:57:45-06",
-  "popularity": 3,
-  "group_popularity": 4,
+  "popularity": 5,
+  "group_popularity": 6,
   "notes": "BEA Account Code: B187RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

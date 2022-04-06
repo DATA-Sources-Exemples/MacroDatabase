@@ -1,0 +1,18 @@
+{
+  "id": "DSOPER",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Real Personal Income in FRB-St. Louis District States (DISCONTINUED)",
+  "observation_start": "1948-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Chained 2009 Dollars",
+  "units_short": "Mil. of Chn. 2009 $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-06-21 11:52:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Haver Analytics calculates real per capita personal income in chained dollars as per capita income divided by personal consumption expenditure chained price index. Copyright, 2016, Haver Analytics.\n\nThis series is calculated by FRB-St. Louis using data series from Haver Analytics. FRB-St. Louis District States include Arkansas, Illinois, Indiana, Kentucky, Mississippi, Missouri and Tennessee.\n\nDue to the historical revision applied to data, the historical values prior January 2001 have been eliminated from the series. These data values are expected to return sometime in 2014."
+}

@@ -1,7 +1,7 @@
 {
   "id": "CIU2020000000000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations",
   "observation_start": "2001-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-28 07:51:18-06",
-  "popularity": 7,
-  "group_popularity": 7
+  "popularity": 6,
+  "group_popularity": 6
 }

@@ -1,7 +1,7 @@
 {
   "id": "MABMM301BRM189S",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "M3 for Brazil",
   "observation_start": "1994-07-01",
   "observation_end": "2018-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2020-03-13 17:15:21-05",
   "popularity": 4,
-  "group_popularity": 10,
+  "group_popularity": 9,
   "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: STSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

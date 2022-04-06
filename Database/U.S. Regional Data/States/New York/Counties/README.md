@@ -29,7 +29,7 @@
 | Greene County, NY       |                90 |
 | Montgomery County, NY   |               146 |
 | Clinton County, NY      |               147 |
-| Cayuga County, NY       |               146 |
+| Cayuga County, NY       |                 2 |
 | Hamilton County, NY     |                89 |
 | Tioga County, NY        |               146 |
 | Schoharie County, NY    |                89 |

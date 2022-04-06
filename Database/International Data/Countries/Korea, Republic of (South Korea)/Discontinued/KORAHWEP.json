@@ -1,7 +1,7 @@
 {
   "id": "KORAHWEP",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Average Annual Hours Worked per Employed Person in the Republic of Korea (South Korea) (DISCONTINUED)",
   "observation_start": "1980-01-01",
   "observation_end": "2011-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-12-10 10:32:40-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "For more information, see https://www.bls.gov/fls/intl_gdp_capita_gdp_hour.htm#technicalnotes.\n\nBureau of Labor Statistics (BLS) has eliminated the International Labor Comparisons (ILC) program. This is the last BLS release of international comparisons of GDP per capita and per hour."
 }

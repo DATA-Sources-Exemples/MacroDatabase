@@ -28,7 +28,7 @@
 | Sarpy County, NE        |               147 |
 | Garden County, NE       |                88 |
 | Valley County, NE       |                88 |
-| Thomas County, NE       |                85 |
+| Thomas County, NE       |                 2 |
 | Perkins County, NE      |                88 |
 | Harlan County, NE       |                89 |
 | Butler County, NE       |                90 |

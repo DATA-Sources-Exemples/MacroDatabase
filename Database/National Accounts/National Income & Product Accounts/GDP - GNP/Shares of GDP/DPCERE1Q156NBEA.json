@@ -1,7 +1,7 @@
 {
   "id": "DPCERE1Q156NBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Shares of gross domestic product: Personal consumption expenditures",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-24 07:56:03-06",
   "popularity": 58,
-  "group_popularity": 58,
+  "group_popularity": 59,
   "notes": "BEA Account Code: DPCERE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

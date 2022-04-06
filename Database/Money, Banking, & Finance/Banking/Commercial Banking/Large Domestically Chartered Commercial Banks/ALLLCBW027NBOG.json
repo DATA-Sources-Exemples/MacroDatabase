@@ -1,7 +1,7 @@
 {
   "id": "ALLLCBW027NBOG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "LESS: Allowance for Loan and Lease Losses, Large Domestically Chartered Commercial Banks",
   "observation_start": "1985-04-03",
   "observation_end": "2022-03-23",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 17:34:54-05",
   "popularity": 1,
-  "group_popularity": 8,
+  "group_popularity": 6,
   "notes": "Allowance for Loan and Lease Losses is a contra asset account. A contra asset account is an item that is entered on the asset side of the balance sheet of a corporation or entity even though the item has a credit or negative balance.\n\nFor further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

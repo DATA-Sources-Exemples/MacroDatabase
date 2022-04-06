@@ -1,0 +1,18 @@
+{
+  "id": "HICEMPLOY",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Covered Employment in Hawaii",
+  "observation_start": "1985-03-30",
+  "observation_end": "2022-03-19",
+  "frequency": "Weekly, Ending Saturday",
+  "frequency_short": "W",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:37:55-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Covered employment is the number of employees covered by state insurance programs."
+}

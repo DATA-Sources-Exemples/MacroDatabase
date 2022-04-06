@@ -1,7 +1,7 @@
 {
   "id": "M16010USM156SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Adjusted Rates of Change of Composite Index of Three Lagging Series for United States",
   "observation_start": "1948-02-01",
   "observation_end": "1964-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-20 09:31:36-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Source: J. Shiskin At NBER, Table 5, January 29, 1965\n\nThis NBER data series m16010 appears on the NBER website in Chapter 16 at http://www.nber.org/databases/macrohistory/contents/chapter16.html.\n\nNBER Indicator: m16010"
 }

@@ -1,7 +1,7 @@
 {
   "id": "NASDAQCOM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "NASDAQ Composite Index",
   "observation_start": "1971-02-05",
   "observation_end": "2022-04-04",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-05 07:02:03-05",
-  "popularity": 66,
-  "group_popularity": 66,
+  "popularity": 67,
+  "group_popularity": 67,
   "notes": "The observations for the NASDAQ Composite Index represent the daily index value at market close. The market typically closes at 4 PM ET, except for holidays when it sometimes closes early.\n\nThe NASDAQ Composite Index is a market capitalization weighted index with more than 3000 common equities listed on the NASDAQ Stock Market. The types of securities in the index include American depositary receipts (ADRs), common stocks, real estate investment trusts (REITs), and tracking stocks. The index includes all NASDAQ listed stocks that are not derivatives, preferred shares, funds, exchange-traded funds (ETFs) or debentures.\n\nCopyright \u00c2\u00a9 2016, NASDAQ OMX Group, Inc."
 }

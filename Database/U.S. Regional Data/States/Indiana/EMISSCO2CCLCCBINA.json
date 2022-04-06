@@ -1,0 +1,18 @@
+{
+  "id": "EMISSCO2CCLCCBINA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Coefficient for Commercial Carbon Dioxide Emissions, Industrial Coking for Indiana",
+  "observation_start": "1980-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Kilograms of CO2 Per Million Btu",
+  "units_short": "Kilograms of CO2 Per Mil. Btu",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-01 15:03:52-05",
+  "popularity": 0,
+  "group_popularity": 0,
+  "notes": "See the EIA's report on Energy-Related Carbon Dioxide Emissions by State (http://www.eia.gov/environment/emissions/state/analysis/) for technical notes and documentation."
+}

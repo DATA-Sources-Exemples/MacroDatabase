@@ -1,7 +1,7 @@
 {
   "id": "WTB1YR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "1-Year Treasury Bill Secondary Market Rate",
   "observation_start": "1959-07-17",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-04 15:17:17-05",
-  "popularity": 18,
-  "group_popularity": 62,
+  "popularity": 20,
+  "group_popularity": 63,
   "notes": "Averages of Business Days, Discount Basis"
 }

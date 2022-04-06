@@ -1,8 +1,8 @@
 {
   "PASC728LF": {
     "id": "PASC728LF",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Civilian Labor Force in Pascagoula, MS (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2014-12-01",
@@ -19,8 +19,8 @@
   },
   "PASC728UR": {
     "id": "PASC728UR",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Pascagoula, MS (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2014-12-01",
@@ -37,8 +37,8 @@
   },
   "PASPOP": {
     "id": "PASPOP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Resident Population in Pascagoula, MS (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2009-01-01",
@@ -56,8 +56,8 @@
   },
   "PATENTCBSA137700": {
     "id": "PATENTCBSA137700",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "U.S. Granted Utility Patents Originating in Pascagoula, MS (MSA)",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",

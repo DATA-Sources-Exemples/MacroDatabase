@@ -1,7 +1,7 @@
 {
   "id": "DHLCRY2Q224SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Contributions to percent change in real gross domestic product: Personal consumption expenditures: Services: Health care",
   "observation_start": "1959-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 08:04:08-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: DHLCRY\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

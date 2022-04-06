@@ -1,0 +1,18 @@
+{
+  "id": "PCECTPICTMLR",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoint",
+  "observation_start": "2009-02-18",
+  "observation_end": "2022-03-16",
+  "frequency": "Not Applicable",
+  "frequency_short": "NA",
+  "units": "Fourth Quarter to Fourth Quarter Percent Change",
+  "units_short": "Fourth Qtr. to Fourth Qtr. % Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-16 15:15:14-05",
+  "popularity": 11,
+  "group_popularity": 11,
+  "notes": "The longer-run projections are the rates of growth, inflation, and unemployment to which a policymaker expects the economy to converge over time in the absence of further shocks and under appropriate monetary policy. Because appropriate monetary policy, by definition, is aimed at achieving the Federal Reserve's dual mandate of maximum employment and price stability in the longer run, policymakers' longer-run projections for economic growth and unemployment may be interpreted, respectively, as estimates of the economy's longer-run potential growth rate and the longer-run normal rate of unemployment; similarly, the longer-run projection of inflation is the rate of inflation which the FOMC judges to be most consistent with its dual mandate in the longer-term.\n\nProjections of personal consumption expenditures (PCE) inflation rate are fourth quarter growth rates, that is, percentage changes from the fourth quarter of the prior year to the fourth quarter of the indicated year. PCE inflation rate is the percentage rates of change in the price index for personal consumption expenditures (PCEPI). Each participant's projections are based on his or her assessment of appropriate monetary policy. The range for each variable in a given year includes all participants' projections, from lowest to highest, for that variable in the given year; the central tendencies exclude the three highest and three lowest projections for each year. This series represents the midpoint of the central tendency forecast's high and low values established by the Federal Open Market Committee.\n\nDigitized originals of this release can be found at https://fraser.stlouisfed.org/publication/?pid=677."
+}

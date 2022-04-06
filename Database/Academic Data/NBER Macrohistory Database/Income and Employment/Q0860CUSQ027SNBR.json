@@ -1,7 +1,7 @@
 {
   "id": "Q0860CUSQ027SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Gross National Product for United States",
   "observation_start": "1946-01-01",
   "observation_end": "1969-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 14:27:41-05",
-  "popularity": 5,
+  "popularity": 7,
   "group_popularity": 14,
   "notes": "Series Is Presented Here As Three Variables--(1)--Seasonally Adjusted Data, 1921-1941 (2)--Original Data, 1939-1946 (3)--Seasonally Adjusted Data, 1946-1969. For Annual Revisions, See Survey Of Current Business, July,1968 And Subsequent July Issues. For Quarterly Figures, See Survey Of Current Business Monthly Issues. The Quarterly Data Of This Segment Are Derived From The 1945 Figures Of The Third Segment Multiplied By The Ratio Of The Annual 1945 Figures Of The Two Segments. Source: For 1946-1962: Survey Of Current Business, August 1965; For 1963-1969: July 1966 Issue. Alternate Source For 1929-1965: The National Income And Product Accounts Of The United States; For 1947-1963: Supplement To Survey Of Current Business, August 1966.\n\nThis NBER data series q08260c appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: q08260c"
 }

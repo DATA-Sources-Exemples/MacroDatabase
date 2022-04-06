@@ -1,0 +1,17 @@
+{
+  "id": "CIVLFSC",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Civilian Labor Force for South Carolina",
+  "observation_start": "2003-10-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Persons, 4-Quarter Moving Average",
+  "units_short": "Persons, 4-Qtr. Moving Average",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-31 09:38:14-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

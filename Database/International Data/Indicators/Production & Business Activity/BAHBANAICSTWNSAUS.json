@@ -1,0 +1,18 @@
+{
+  "id": "BAHBANAICSTWNSAUS",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "High-Propensity Business Applications: Transportation and Warehousing in the United States",
+  "observation_start": "2004-07-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 11:05:12-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Business Applications (BA) that have a high-propensity of turning into businesses with payroll. The identification of high-propensity applications is based on the characteristics of applications revealed on the IRS Form SS-4 that are associated with a high rate of business formation. High-propensity applications include applications: (a) from a corporate entity, (b) that indicate they are hiring employees, purchasing a business or changing organizational type, (c) that provide a first wages-paid date (planned wages); or (d) that have a NAICS industry code in manufacturing (31-33), retail stores (44), health care (62), or restaurants/food service (72).\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

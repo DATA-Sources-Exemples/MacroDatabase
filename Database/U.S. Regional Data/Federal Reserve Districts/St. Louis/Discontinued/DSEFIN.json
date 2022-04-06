@@ -1,0 +1,18 @@
+{
+  "id": "DSEFIN",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Finance and Insurance Earnings in FRB-St. Louis District States (DISCONTINUED)",
+  "observation_start": "2001-01-01",
+  "observation_end": "2010-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2011-03-23 13:31:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series is calculated by FRB-St. Louis using data series from the Bureau of Economic Analysis.\n\nFRB-St. Louis District States include Arkansas, Illinois, Indiana, Kentucky, Mississippi, Missouri and Tennessee.\n\nIndustry based on 2002 North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2002) for additional information about NAICS."
+}

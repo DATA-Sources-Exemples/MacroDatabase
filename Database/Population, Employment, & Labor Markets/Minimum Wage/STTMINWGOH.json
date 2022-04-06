@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGOH",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "State Minimum Wage Rate for Ohio",
   "observation_start": "1968-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:01-06",
-  "popularity": 51,
-  "group_popularity": 51,
+  "popularity": 50,
+  "group_popularity": 50,
   "notes": "State minimum wage applies only after a certain level of gross annual sales or receipts is reached by the employer. State minimum wage can be changed annually based on changes in the CPI and a cost of living formula.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

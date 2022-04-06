@@ -1,0 +1,14 @@
+| id              | title                                                                                                                                          | observation_start   | observation_end   |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| A206RC1M027SBEA | Wages and salaries: Private industries: Goods-producing industries (DISCONTINUED)                                                              | 1959-01-01          | 2000-12-01        |
+| A212RC1M027SBEA | Wages and salaries: Private industries: Distributive industries (DISCONTINUED)                                                                 | 1959-01-01          | 2000-12-01        |
+| A218RC1M027SBEA | Wages and salaries: Private industries: Service industries (DISCONTINUED)                                                                      | 1959-01-01          | 2000-12-01        |
+| A552RC1M027SBEA | Wages and salaries: Private industries: Goods-producing industries: Manufacturing (DISCONTINUED)                                               | 1959-01-01          | 2000-12-01        |
+| A576RC1A027NBEA | Compensation of employees: Wages and salaries (DISCONTINUED)                                                                                   | 1929-01-01          | 2014-01-01        |
+| A576RC1Q027SBEA | Compensation of employees: Wages and salaries (DISCONTINUED)                                                                                   | 1947-01-01          | 2015-04-01        |
+| B185RC1A027NBEA | Net private saving: Households and institutions: Wage accruals less disbursements (DISCONTINUED)                                               | 1929-01-01          | 2012-01-01        |
+| B185RC1Q027SBEA | Net private saving: Households and institutions: Wage accruals less disbursements (DISCONTINUED)                                               | 1947-01-01          | 2013-01-01        |
+| W545RC1A027NBEA | Financial services furnished without payment: Borrower services: Private enterprises: Domestic business (DISCONTINUED)                         | 1929-01-01          | 2011-01-01        |
+| W547RC1A027NBEA | Financial services furnished without payment: Borrower services: Private enterprises: Nonprofit institutions serving households (DISCONTINUED) | 1929-01-01          | 2011-01-01        |
+| W552RC1A027NBEA | Premium supplements for property and casualty insurance: Private enterprises: Domestic business (DISCONTINUED)                                 | 1929-01-01          | 2011-01-01        |
+| W553RC1A027NBEA | Premium supplements for property and casualty insurance: Private enterprises: Owner-occupied housing (DISCONTINUED)                            | 1929-01-01          | 2013-01-01        |

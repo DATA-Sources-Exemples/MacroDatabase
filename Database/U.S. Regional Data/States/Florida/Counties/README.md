@@ -4,7 +4,7 @@
 | Suwannee County, FL     |                90 |
 | Bay County, FL          |               147 |
 | Gulf County, FL         |                90 |
-| Clay County, FL         |               147 |
+| Clay County, FL         |                 2 |
 | Duval County, FL        |               146 |
 | Seminole County, FL     |               147 |
 | Sarasota County, FL     |               147 |

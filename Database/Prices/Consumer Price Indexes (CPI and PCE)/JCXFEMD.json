@@ -1,0 +1,18 @@
+{
+  "id": "JCXFEMD",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Median",
+  "observation_start": "2022-01-01",
+  "observation_end": "2024-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Fourth Quarter to Fourth Quarter Percent Change",
+  "units_short": "Fourth Qtr. to Fourth Qtr. % Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-16 15:15:11-05",
+  "popularity": 19,
+  "group_popularity": 19,
+  "notes": "Projections of personal consumption expenditures less food and energy (Core PCE) inflation rate are fourth quarter growth rates, that is, percentage changes from the fourth quarter of the prior year to the fourth quarter of the indicated year. Core PCE inflation rate is the percentage rates of change in the price index for personal consumption expenditures less food and energy. Each participant's projections are based on his or her assessment of appropriate monetary policy. The range for each variable in a given year includes all participants' projections, from lowest to highest, for that variable in the given year. This series represents the median value of the range forecast established by the Federal Open Market Committee. For each period, the median is the middle projection when the projections are arranged from lowest to highest. When the number of projections is even, the median is the average of the two middle projections.\n\nDigitized originals of this release can be found at https://fraser.stlouisfed.org/publication/?pid=677."
+}

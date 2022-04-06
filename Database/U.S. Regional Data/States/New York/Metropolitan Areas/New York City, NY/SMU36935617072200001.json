@@ -1,7 +1,7 @@
 {
   "id": "SMU36935617072200001",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in New York City, NY",
   "observation_start": "1990-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-26 03:32:44-05",
   "popularity": 1,
-  "group_popularity": 12,
+  "group_popularity": 14,
   "notes": "New York City, NY constitutes a significant percentage of the state's total statewide employment. This series is calculated in addition to the New York-Wayne-White Plains, NY-NJ (MD)'s statistics because of it's importance to the state. For more details on non-standard area definitions, visit the additional resources (https://www.bls.gov/sae/additional-resources/non-standard-ces-areas.htm) of the Current Employment Statistics."
 }

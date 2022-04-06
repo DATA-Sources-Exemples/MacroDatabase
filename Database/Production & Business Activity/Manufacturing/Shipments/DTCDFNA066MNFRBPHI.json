@@ -1,7 +1,7 @@
 {
   "id": "DTCDFNA066MNFRBPHI",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia",
   "observation_start": "1968-05-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 07:46:03-05",
   "popularity": 28,
-  "group_popularity": 32,
+  "group_popularity": 31,
   "notes": "Current Delivery Time reports the change in delivery time compared to the previous month for reporting manufacturing firms. The diffusion index is calculated by taking the percent reporting increases and subtracting the percentage reporting decreases. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/business-outlook-survey/ ."
 }

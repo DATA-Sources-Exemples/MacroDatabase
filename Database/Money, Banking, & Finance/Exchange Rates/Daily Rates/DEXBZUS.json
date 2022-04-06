@@ -1,7 +1,7 @@
 {
   "id": "DEXBZUS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Brazilian Reals to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1995-01-02",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-04 15:21:05-05",
   "popularity": 49,
-  "group_popularity": 52,
+  "group_popularity": 53,
   "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

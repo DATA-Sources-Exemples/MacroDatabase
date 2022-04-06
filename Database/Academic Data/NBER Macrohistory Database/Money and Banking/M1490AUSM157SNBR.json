@@ -1,7 +1,7 @@
 {
   "id": "M1490AUSM157SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Money Supply for United States",
   "observation_start": "1914-07-01",
   "observation_end": "1946-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-20 08:32:22-05",
-  "popularity": 43,
+  "popularity": 44,
   "group_popularity": 45,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted Data, 1914-1946 (2)--Seasonally Adjusted Data, 1947-1968. Data Were Derived From Series 14147 (Demand Deposits Adjusted Plus Currency Held By Public). Data Are For The Last Wednesday Of The Month, Except For January 1918-April 1921, Which Are For The Last Friday Of The Month. Data Are For Demand Deposits Plus Currency. Data Are For Percent Change Per Month. This Was Derived From Differences Between Logarithims Converted To Natural Logs. Source: Data For 1914-1942: Direct From NBER. Data For 1943-1945: NBER And The Federal Reserve Board. Data For 1946: Federal Reserve Board.\n\nThis NBER data series m14190a appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14190a"
 }

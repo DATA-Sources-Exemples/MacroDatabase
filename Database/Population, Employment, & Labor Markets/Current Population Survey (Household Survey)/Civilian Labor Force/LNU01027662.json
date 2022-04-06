@@ -1,7 +1,7 @@
 {
   "id": "LNU01027662",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Civilian Labor Force Level - Bachelor's Degree and Higher, 25 Yrs. & over",
   "observation_start": "1992-01-01",
   "observation_end": "2022-03-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 07:49:41-05",
   "popularity": 2,
-  "group_popularity": 9,
+  "group_popularity": 7,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01027662"
 }

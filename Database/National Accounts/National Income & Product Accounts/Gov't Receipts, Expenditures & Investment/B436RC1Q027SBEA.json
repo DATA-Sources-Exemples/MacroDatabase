@@ -1,0 +1,18 @@
+{
+  "id": "B436RC1Q027SBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "National income without capital consumption adjustment: Government",
+  "observation_start": "1948-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-30 08:05:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B436RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

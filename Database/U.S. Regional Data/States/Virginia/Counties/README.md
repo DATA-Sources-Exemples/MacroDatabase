@@ -86,7 +86,7 @@
 | King George County, VA                              |                90 |
 | Wythe County, VA                                    |                89 |
 | Charlottesville City, VA                            |               135 |
-| Henrico County, VA                                  |               147 |
+| Henrico County, VA                                  |                 2 |
 | Richmond County, VA                                 |                90 |
 | York County, VA                                     |               137 |
 | Craig County, VA                                    |                89 |

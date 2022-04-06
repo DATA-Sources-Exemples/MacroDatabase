@@ -1,7 +1,7 @@
 {
   "id": "DFEDTAR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal Funds Target Rate (DISCONTINUED)",
   "observation_start": "1982-09-27",
   "observation_end": "2008-12-15",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-04 14:10:26-05",
-  "popularity": 58,
-  "group_popularity": 58,
+  "popularity": 59,
+  "group_popularity": 59,
   "notes": "Data for the period prior to 1994 come from the working paper \"A New Federal Funds Rate Target Series: September 27, 1982 - December 31, 1993\" (Thornton, Federal Reserve Bank of St. Louis, 2005, http://research.stlouisfed.org/wp/2005/2005-032.pdf). Due to an error in the paper values from April 2, 1986 - April 20, 1986 were adjusted manually to 7.3125%. Data from 1994 to the present are derived from FOMC meeting transcripts and FOMC meeting statements, http://www.federalreserve.gov/fomc/.\n\nEffective December 16, 2008, target rate is reported as a range. Current data at https://fred.stlouisfed.org/series/DFEDTARU and https://fred.stlouisfed.org/series/DFEDTARL"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPS025502",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Chewing Gum, Bubble Gum, and Chewing Gum Base (DISCONTINUED)",
   "observation_start": "1980-01-01",
   "observation_end": "1989-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:44:22-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

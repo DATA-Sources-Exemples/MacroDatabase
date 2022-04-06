@@ -1,7 +1,7 @@
 {
   "id": "ND000336Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Private Nonresidential Fixed Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 07:55:50-05",
   "popularity": 5,
-  "group_popularity": 45,
+  "group_popularity": 46,
   "notes": "BEA Account Code: ND000336"
 }

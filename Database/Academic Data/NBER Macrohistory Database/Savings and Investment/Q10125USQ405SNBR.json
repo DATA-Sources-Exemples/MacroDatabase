@@ -1,7 +1,7 @@
 {
   "id": "Q10125USQ405SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Funds Raised, Domestic Nonfinancial Sectors, Flow of Funds Accounts for United States",
   "observation_start": "1952-01-01",
   "observation_end": "1965-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 15:16:45-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Source: U.S. Bureau Of The Census, Business Cycle Developments, November 1965\n\nThis NBER data series q10125 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10125"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M030BAUS35620M430NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Revenue Transit Rides, Subway and Street Railways for New York, NY",
   "observation_start": "1907-07-01",
   "observation_end": "1927-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:01:47-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1907-1927 (2)--Original Data, 1927-1942. Data For 1907-1909 Were Computed By NBER By Summing The Data For The Various Transit Companies. Data For 1907-June 1922 Exclude The Hudson And Manhattan Companies From Traffic Totals. Hudson And Manhattan Companies Were Deducted By NBER When Given. Surface Line Data For February 1920 Were Affected By Unusually Heavy Snowfall. Data For August And September 1920 Were Affected By Employee Strikes, The First On The Brooklyn Transit Lines From August 29 To Mid-September, The Second On Manhattan And Queens Lines From August 15 To September 18. The City Of New York Department Of Plant And Structure Began Operations Of Local Trolley Cars Over Williamsburg Bridge December 1, 1923. The Bmt Companies Discontinued Their Service At The Same Time. Figures Covering Operations By The City Are Not Available Through June 1926. Figures Covering Operations By The City For The Year Ending June 1926 Were Submitted Too Late To Be Incorporated Into The Data. Data For July 1926 Were Affected By A Strike On The Subway Division Of The Irt From July 6 To July 29. Data For 1927 Include Bus Companies. Source: Data For 1907-1919: \"Report Of The Public Service Commision For The First District Of The State Of New York For The Year Ending December 31, 1908\", Vol. Iii, Pp.350-353 And Yearly Thereafter. Data For 1920: \"Report Of The State Of New York Public Service Commission For The First District\", Fourteenth Annual Report. Data For 1921-1926: State Of New York Transit Commission, First Annual Report. Data For 1927: State Of New York, Department Of Public Service, Metropolitan Division, Transit Commission, Seventh Annual Report.\n\nThis NBER data series m03010ba appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03010ba"
 }

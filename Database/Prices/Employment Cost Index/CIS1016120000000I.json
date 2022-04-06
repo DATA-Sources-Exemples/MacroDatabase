@@ -1,7 +1,7 @@
 {
   "id": "CIS1016120000000I",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Employment Cost Index: Total compensation for All Civilian workers in Junior colleges, colleges, universities, and professional schools",
   "observation_start": "2003-01-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-28 07:51:53-06",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "See Footnote V on https://www.bls.gov/ect/cimapnote.htm"
 }

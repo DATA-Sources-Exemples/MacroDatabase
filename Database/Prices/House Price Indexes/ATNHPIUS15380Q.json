@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS15380Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "All-Transactions House Price Index for Buffalo-Cheektowaga, NY (MSA)",
   "observation_start": "1977-07-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-02-22 09:03:28-06",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 18,
+  "group_popularity": 18,
   "notes": "Estimated using sales prices and appraisal data."
 }

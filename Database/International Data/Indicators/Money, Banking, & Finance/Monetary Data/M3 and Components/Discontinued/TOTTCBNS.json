@@ -1,7 +1,7 @@
 {
   "id": "TOTTCBNS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Time and Savings Deposits at Commercial Banks (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2006-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2007-01-19 11:05:15-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 4,
   "notes": "Savings deposits at commercial banks plus small-denomination time deposits at commercial banks, plus large-denomination time deposits at commercial banks.\nCalculated by the Federal Reserve Bank of St. Louis.\nFor details, please see http://www.federalreserve.gov/releases/h6/hist/."
 }

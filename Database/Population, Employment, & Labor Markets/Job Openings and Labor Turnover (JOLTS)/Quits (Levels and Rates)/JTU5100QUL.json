@@ -1,7 +1,7 @@
 {
   "id": "JTU5100QUL",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Quits: Information",
   "observation_start": "2000-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-29 09:05:12-05",
-  "popularity": 5,
-  "group_popularity": 8
+  "popularity": 4,
+  "group_popularity": 10
 }

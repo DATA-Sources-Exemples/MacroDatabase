@@ -1,0 +1,18 @@
+{
+  "id": "EMISSCO2VDFICBORA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Industrial Carbon Dioxide Emissions, Distillate Fuel for Oregon",
+  "observation_start": "1980-01-01",
+  "observation_end": "2018-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Metric Tons CO2",
+  "units_short": "Metric Tons CO2",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-11-01 14:52:28-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "See the EIA's report on Energy-Related Carbon Dioxide Emissions by State (http://www.eia.gov/environment/emissions/state/analysis/) for technical notes and documentation."
+}

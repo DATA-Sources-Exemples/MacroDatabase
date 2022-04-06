@@ -65,7 +65,7 @@
 | Seminole County, GA      |                88 |
 | Habersham County, GA     |                90 |
 | Banks County, GA         |                90 |
-| Burke County, GA         |                90 |
+| Burke County, GA         |                 2 |
 | Laurens County, GA       |               146 |
 | Butts County, GA         |                90 |
 | Walker County, GA        |               146 |
@@ -141,7 +141,7 @@
 | Berrien County, GA       |                89 |
 | Lincoln County, GA       |                89 |
 | Columbia County, GA      |               146 |
-| Liberty County, GA       |               146 |
+| Liberty County, GA       |                 2 |
 | Cook County, GA          |                89 |
 | Stephens County, GA      |                90 |
 | Pierce County, GA        |                89 |

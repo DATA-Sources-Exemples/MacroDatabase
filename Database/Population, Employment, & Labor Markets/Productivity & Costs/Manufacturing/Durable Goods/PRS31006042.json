@@ -1,7 +1,7 @@
 {
   "id": "PRS31006042",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturing, Durable Goods Sector: Output for All Employed Persons",
   "observation_start": "1987-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 07:36:57-06",
-  "popularity": 7,
-  "group_popularity": 9,
+  "popularity": 5,
+  "group_popularity": 6,
   "notes": "Annual manufacturing output indexes for the quarterly labor productivity measures are constructed by deflating the current-dollar industry value of production provided by the U.S. Census Bureau with deflators from the ://https://www.bls.gov/news.release/pdf/prod2.pdf\n\n Source Indicator PRS31006042"
 }

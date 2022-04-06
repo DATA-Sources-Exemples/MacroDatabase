@@ -1,0 +1,18 @@
+{
+  "id": "L318071A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal government cash receipts from the public: Coverage differences: District of Columbia (DISCONTINUED)",
+  "observation_start": "1952-01-01",
+  "observation_end": "1967-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-11-21 11:31:34-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: L318071\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

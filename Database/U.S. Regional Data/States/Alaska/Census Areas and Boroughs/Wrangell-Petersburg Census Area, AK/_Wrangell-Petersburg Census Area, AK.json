@@ -1,8 +1,8 @@
 {
   "AKWRAN0POP": {
     "id": "AKWRAN0POP",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Resident Population in Wrangell City and Borough, AK",
     "observation_start": "1970-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "AKWRAN0URN": {
     "id": "AKWRAN0URN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Wrangell-Petersburg Census Area, AK",
     "observation_start": "1990-01-01",
     "observation_end": "2009-12-01",
@@ -39,8 +39,8 @@
   },
   "LAUCN022800000000003A": {
     "id": "LAUCN022800000000003A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Unemployment Rate in Wrangell-Petersburg Census Area, AK",
     "observation_start": "1990-01-01",
     "observation_end": "2009-01-01",

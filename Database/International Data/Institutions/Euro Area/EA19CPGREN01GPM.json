@@ -1,7 +1,7 @@
 {
   "id": "EA19CPGREN01GPM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index: OECD Groups: Energy (Fuel, electricity & gasoline): Total for the Euro Area",
   "observation_start": "1996-02-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:47:13-06",
-  "popularity": 10,
-  "group_popularity": 13,
+  "popularity": 7,
+  "group_popularity": 10,
   "notes": "OECD descriptor ID: CPGREN01 OECD unit ID: GP OECD country ID: EA19All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

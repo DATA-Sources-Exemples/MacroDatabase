@@ -1,7 +1,7 @@
 {
   "id": "M1105BUSM343NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "American Railroad Stock Prices for United States",
   "observation_start": "1918-01-01",
   "observation_end": "1957-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:01:38-05",
-  "popularity": 5,
-  "group_popularity": 14,
+  "popularity": 11,
+  "group_popularity": 19,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1855-1937 (2)--Original Data, 1918-1957 (3)--Original Data, 1949-1964. Figures Are For 20 Railroad Stocks. Source: 1918-1940 Data Are From Standard And Poor'S Corporation, Long Term Security Price Index Record (Through December 31, 1940) Pp.9-10; 1941-1942 Data Are From The Security Price Index Record, 1941 And 1942; 1943-1946 Data Are From Current Statistics Combined With Basic Statistics Annually; 1947 Data Are From Current Statistics; 1948-1957 Data Are From The Survey Of Current Business.\n\nThis NBER data series m11005b appears on the NBER website in Chapter 11 at http://www.nber.org/databases/macrohistory/contents/chapter11.html.\n\nNBER Indicator: m11005b"
 }

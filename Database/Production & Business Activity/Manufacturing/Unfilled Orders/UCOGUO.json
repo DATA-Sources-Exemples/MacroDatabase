@@ -1,7 +1,7 @@
 {
   "id": "UCOGUO",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturers' Unfilled Orders: Consumer Goods",
   "observation_start": "1992-01-01",
   "observation_end": "2022-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-03 09:03:59-06",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 7,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

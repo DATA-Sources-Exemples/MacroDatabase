@@ -1,0 +1,18 @@
+{
+  "id": "B2003C1A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Taxes on production and imports: Federal: Excise taxes: Diesel fuel",
+  "observation_start": "1959-01-01",
+  "observation_end": "2020-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2021-08-06 14:34:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: B2003C\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M318371Q027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal government expenditures: Coverage differences: Net purchases of nonproduced assets: Outer Continental Shelf (NIPA vs. Budget) (DISCONTINUED)",
+  "observation_start": "1968-01-01",
+  "observation_end": "2011-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-03-31 23:22:20-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: M318371\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

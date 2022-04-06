@@ -1,0 +1,18 @@
+{
+  "id": "W702LC1A027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal government cash payments to the public: Netting and grossing differences: Current surplus of government enterprises (DISCONTINUED)",
+  "observation_start": "1952-01-01",
+  "observation_end": "1967-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2014-01-23 11:36:03-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: W702LC1\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

@@ -1,7 +1,7 @@
 {
   "id": "CPGRLE01CAM657N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index: OECD Groups: All Items Non-Food and Non-Energy for Canada",
   "observation_start": "1961-02-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 10:50:09-06",
-  "popularity": 8,
-  "group_popularity": 15,
+  "popularity": 7,
+  "group_popularity": 18,
   "notes": "OECD descriptor ID: CPGRLE01\nOECD unit ID: GP\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

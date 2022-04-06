@@ -1,7 +1,7 @@
 {
   "id": "FRAPREND401IXOBQ",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for France",
   "observation_start": "1963-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-10 12:12:01-06",
   "popularity": 0,
-  "group_popularity": 5,
+  "group_popularity": 6,
   "notes": "OECD descriptor ID: PREND401 OECD unit ID: IXOB OECD country ID: FRA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

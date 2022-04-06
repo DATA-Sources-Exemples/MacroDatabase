@@ -1,7 +1,7 @@
 {
   "id": "M0197AGBM333SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Consumption of Raw Cotton for Great Britain",
   "observation_start": "1920-01-01",
   "observation_end": "1936-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-16 11:04:10-05",
   "popularity": 2,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Two Variables--(1)--Seasonally Adjusted, 1920-1936 (2)--Seasonally Adjusted, 1924-1939, Data Were Based On Deliveries Of Cotton To Spinners In Pounds, On A Daily Average Basis. Seasonal Coefficients, Instead Of Being Based As In Old Index On A Uniform Calculated On A Years Up To And Including The Year Previous To That For Which The Indices Are Calculated. The Seasonal Fluctuations Have Been Eliminated. Source: The Economist, Supplement Of June 29, 1935, P. 45; Supplement Of June 27, 1936, P. 19.\n\nThis NBER data series m01197a appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01197a"
 }

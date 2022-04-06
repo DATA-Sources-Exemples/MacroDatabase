@@ -1,7 +1,7 @@
 {
   "id": "RGMP28140",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Real Gross Domestic Product for Kansas City, MO-KS (MSA)",
   "observation_start": "2001-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-08 08:35:17-06",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "The All industry total includes all Private industries and Government.\n\nReal GDP by metropolitan area is an inflation-adjusted measure of each metropolitan area's gross product that is based on national prices for the goods and services produced within the metropolitan area.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

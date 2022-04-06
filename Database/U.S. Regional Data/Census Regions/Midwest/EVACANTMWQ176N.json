@@ -1,0 +1,18 @@
+{
+  "id": "EVACANTMWQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Vacant Housing Units in the Midwest Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:23-06",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "A housing unit is vacant if no one is living in it at the time of the interview, unless its occupants are only temporarily absent. In addition, a vacant unit may be one which is entirely occupied by persons who have a usual residence elsewhere. New units not yet occupied are classified as vacant housing units if construction has reached a point where all exterior windows and doors are installed and final usable floors are in place. Vacant units are excluded if they are exposed to the elements, that is, if the roof, walls, windows, or doors no longer protect the interior from the elements, or if there is positive evidence (such as a sign on the house or block) that the unit is to be demolished or is condemned. Also excluded are quarters being used entirely for nonresidential purposes, such as a store or an office, or quarters used for the storage of business supplies or inventory, machinery, or agricultural products. Vacant sleeping rooms in lodging houses, transient accommodations, barracks, and other quarters not defined as housing units are not included in the statistics."
+}

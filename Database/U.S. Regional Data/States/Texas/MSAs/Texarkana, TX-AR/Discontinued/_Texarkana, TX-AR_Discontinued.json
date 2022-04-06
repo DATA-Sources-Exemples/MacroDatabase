@@ -1,8 +1,8 @@
 {
   "PCRGMP45500": {
     "id": "PCRGMP45500",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Texarkana, TX-AR (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "SMS48455000000000001": {
     "id": "SMS48455000000000001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Total Nonfarm in Texarkana, TX-AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2018-02-01",
@@ -39,8 +39,8 @@
   },
   "TEXSA175AFRBDAL": {
     "id": "TEXSA175AFRBDAL",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Nonfarm Payroll Employment for Texarkana, TX-Texarkana, AR (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2016-01-01",

@@ -1,7 +1,7 @@
 {
   "id": "PCU21211121211111",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Industry: Bituminous Coal and Lignite Surface Mining: Raw Bituminous Coal and Lignite from Surface Operations, for Use without Processing",
   "observation_start": "2001-12-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:56:05-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 12,
+  "group_popularity": 12
 }

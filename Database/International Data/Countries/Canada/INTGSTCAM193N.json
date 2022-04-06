@@ -1,7 +1,7 @@
 {
   "id": "INTGSTCAM193N",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Interest Rates, Government Securities, Treasury Bills for Canada",
   "observation_start": "1950-01-01",
   "observation_end": "2017-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-02-01 09:41:03-06",
-  "popularity": 28,
-  "group_popularity": 28,
+  "popularity": 29,
+  "group_popularity": 29,
   "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
 }

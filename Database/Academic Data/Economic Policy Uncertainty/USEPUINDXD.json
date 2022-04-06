@@ -1,7 +1,7 @@
 {
   "id": "USEPUINDXD",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Economic Policy Uncertainty Index for United States",
   "observation_start": "1985-01-01",
   "observation_end": "2022-04-04",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-05 08:02:02-05",
   "popularity": 60,
-  "group_popularity": 60,
+  "group_popularity": 61,
   "notes": "The daily news-based Economic Policy Uncertainty Index is based on newspapers in the United States.\n\nFor additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
 }

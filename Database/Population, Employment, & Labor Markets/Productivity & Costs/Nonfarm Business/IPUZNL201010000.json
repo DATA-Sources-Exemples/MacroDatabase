@@ -1,7 +1,7 @@
 {
   "id": "IPUZNL201010000",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Hours Worked for Private Nonfarm in Alabama",
   "observation_start": "2008-01-01",
   "observation_end": "2020-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-07 21:50:47-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "Labor hours are measured as annual hours worked by all employed persons in an industry."
 }

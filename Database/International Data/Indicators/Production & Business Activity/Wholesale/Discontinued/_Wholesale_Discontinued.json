@@ -1,8 +1,8 @@
 {
   "SLWHTO01DEA661S": {
     "id": "SLWHTO01DEA661S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Volume of Total Wholesale Trade sales for Germany (DISCONTINUED)",
     "observation_start": "1994-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "SLWHTO01DEQ661S": {
     "id": "SLWHTO01DEQ661S",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Volume of Total Wholesale Trade sales for Germany (DISCONTINUED)",
     "observation_start": "1994-01-01",
     "observation_end": "2017-10-01",

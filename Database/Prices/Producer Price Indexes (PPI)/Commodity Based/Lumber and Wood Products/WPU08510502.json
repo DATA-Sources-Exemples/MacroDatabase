@@ -1,7 +1,7 @@
 {
   "id": "WPU08510502",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber and Pulpwood",
   "observation_start": "2011-12-01",
   "observation_end": "2022-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 07:51:42-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 15,
+  "group_popularity": 15
 }

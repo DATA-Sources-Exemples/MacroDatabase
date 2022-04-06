@@ -1,7 +1,7 @@
 {
   "id": "W113RL1Q225SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Federal Government Consumption Expenditures: Gross Output of General Government: Intermediate Goods and Services Purchased",
   "observation_start": "1947-04-01",
   "observation_end": "2021-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 08:01:44-05",
-  "popularity": 3,
+  "popularity": 2,
   "group_popularity": 3,
   "notes": "BEA Account Code: W113RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

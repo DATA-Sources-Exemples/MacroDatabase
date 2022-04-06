@@ -1,7 +1,7 @@
 {
   "id": "Q06085USQ027NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Personal Consumption Expenditures, Total for United States",
   "observation_start": "1939-01-01",
   "observation_end": "1967-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 13:46:38-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Unadjusted Figures Were Multiplied By Four To Derive Totals At Annual Rates. Source: U.S. Department Of Commerce, Data For 1939-1945: \"National Income\", 1954 Edition, A Supplement To The Survey Of Current Business; Data For 1946-1967: \"U.S. Income And Output\", A Supplement To Scb, November 1958; And Scb, Issues Of July 1959, February 1960, July 1961 And Following Issues.\n\nThis NBER data series q06085 appears on the NBER website in Chapter 6 at http://www.nber.org/databases/macrohistory/contents/chapter06.html.\n\nNBER Indicator: q06085"
 }

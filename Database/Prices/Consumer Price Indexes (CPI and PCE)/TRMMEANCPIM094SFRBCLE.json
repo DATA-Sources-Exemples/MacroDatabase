@@ -1,0 +1,18 @@
+{
+  "id": "TRMMEANCPIM094SFRBCLE",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "16% Trimmed-Mean Consumer Price Index",
+  "observation_start": "1982-12-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1982=100",
+  "units_short": "Index Dec 1982=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-03-10 10:04:07-06",
+  "popularity": 9,
+  "group_popularity": 43,
+  "notes": "16% Trimmed-Mean Consumer Price Index (CPI) is a measure of core inflation calculated by the Federal Reserve Bank of Cleveland. The Trimmed-Mean CPI excludes the CPI components that show the most extreme monthly price changes. This series excludes 8% of the CPI components with the highest and lowest one-month price changes from each tail of the price-change distribution resulting in a 16% Trimmed-Mean Inflation Estimate.\n\nFor further information, go to http://www.clevelandfed.org/research/data/us-inflation/mcpi.cfm."
+}

@@ -1,8 +1,8 @@
 {
   "FTSCONSN": {
     "id": "FTSCONSN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Construction in Fort Smith, AR-OK (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2004-12-01",
@@ -20,8 +20,8 @@
   },
   "FTSNRMNN": {
     "id": "FTSNRMNN",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Mining and Logging in Fort Smith, AR-OK (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2004-12-01",
@@ -39,8 +39,8 @@
   },
   "PCRGMP22900": {
     "id": "PCRGMP22900",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Fort Smith, AR-OK (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",

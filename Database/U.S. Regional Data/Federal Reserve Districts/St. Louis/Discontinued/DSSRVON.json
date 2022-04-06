@@ -1,0 +1,18 @@
+{
+  "id": "DSSRVON",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "All Employees: Other Services in FRB-St. Louis District States (DISCONTINUED)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2008-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2008-12-22 11:31:37-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series is calculated by FRB-St. Louis using data series from the Bureau of Labor Statistics. FRB-St. Louis District States include Arkansas, Illinois, Indiana, Kentucky, Mississippi, Missouri and Tennessee.\n\nIndustry based on 2002 North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2002) for additional information about NAICS."
+}

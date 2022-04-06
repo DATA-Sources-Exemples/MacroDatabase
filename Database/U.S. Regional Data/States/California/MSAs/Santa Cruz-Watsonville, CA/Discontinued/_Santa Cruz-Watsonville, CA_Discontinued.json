@@ -1,8 +1,8 @@
 {
   "PCRGMP42100": {
     "id": "PCRGMP42100",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "SMU06421007072200001": {
     "id": "SMU06421007072200001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",
@@ -38,8 +38,8 @@
   },
   "SMU06421007072200001A": {
     "id": "SMU06421007072200001A",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2012-01-01",
@@ -56,8 +56,8 @@
   },
   "SMU06421007072200001SA": {
     "id": "SMU06421007072200001SA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Food Services and Drinking Places in Santa Cruz-Watsonville, CA (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2013-12-01",

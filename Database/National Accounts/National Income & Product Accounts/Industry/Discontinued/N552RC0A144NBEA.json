@@ -1,0 +1,18 @@
+{
+  "id": "N552RC0A144NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Wages and salaries: Private industries: Goods-producing industries: Manufacturing (DISCONTINUED)",
+  "observation_start": "1998-01-01",
+  "observation_end": "2016-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2017-08-31 11:11:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This series has been discontinued and will no longer be updated. It was a duplicate of the following series, which will continue to be updated: https://fred.stlouisfed.org/series/N552RC1A027NBEA\n\nBEA Account Code: N552RC0\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

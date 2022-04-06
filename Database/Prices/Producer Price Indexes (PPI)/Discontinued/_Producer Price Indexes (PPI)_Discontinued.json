@@ -1,0 +1,20 @@
+{
+  "WPS00000000": {
+    "id": "WPS00000000",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Producer Price Index by Commodity: All Commodities (DISCONTINUED)",
+    "observation_start": "1967-01-01",
+    "observation_end": "1974-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 1982=100",
+    "units_short": "Index 1982=100",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2015-05-14 10:45:13-05",
+    "popularity": 11,
+    "group_popularity": 11,
+    "path": "../Database/Prices/Producer Price Indexes (PPI)"
+  }
+}

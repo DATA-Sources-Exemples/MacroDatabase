@@ -1,7 +1,7 @@
 {
   "id": "M01063USM149NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Pork Products, Apparent Consumption for United States",
   "observation_start": "1916-01-01",
   "observation_end": "1946-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:01:37-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Apparent Consumption, Including Only Meat Produced Under Federal Inspection, Has Been Computed By The Usda, From The Inspected Slaughter, Less Condemned Animals, Plus Net Imports, Less Exports And The Change In Cold-Storage Holdings. Source: Usda, Bae, Data For 1916-1923: Survey Of Current Business, March 1926, P. 23. Data For 1921-1943: Livestock, Meats, And Wool Market Statistics And Related Data. Data For 1944-1946: Survey Of Current Business.\n\nThis NBER data series m01063 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01063"
 }

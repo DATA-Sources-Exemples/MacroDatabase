@@ -1,0 +1,18 @@
+{
+  "id": "L318411Q027NBEA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Federal government cash payments to the public: Timing differences: Current transfer payments (DISCONTINUED)",
+  "observation_start": "1959-07-01",
+  "observation_end": "1967-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2013-04-01 00:08:05-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "BEA Account Code: L318411\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

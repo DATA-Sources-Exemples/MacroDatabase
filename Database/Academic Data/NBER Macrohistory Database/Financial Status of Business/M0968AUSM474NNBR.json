@@ -1,7 +1,7 @@
 {
   "id": "M0968AUSM474NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Number of Business Failures, Manufacturing Companies with Liabilities Under One Hundred Thousand Dollars for the United States",
   "observation_start": "1894-01-01",
   "observation_end": "1938-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:04:28-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "Series Is Presented Here As Three Variables--(1)--Original Data, 1894-1938 (2)--Original Data, 1934-1939 (3)--Original Data, 1939-1958. Coverage Includes Mining And Construction Concerns. The Raw Figure For September, 1913 (337) Is Printed By Dun'S As 317, But Is Believed To Be A Misprint Since 337 Checks With Series (Total Liabilities, Manfacturing). Raw Figures For September, October, And December, 1919 Were Estimated Because Data Are Not Available. The Total For The Three Months Is 413. This Amount Was Divided Among These Months In The Same Proportion As In The Series On Total Manufacturing (09030). Beginning In 1935, Liabilities For Manufacturing And Construction Companies Are Shown Separately. They Have Been Added To Continue The Series As Before. There Was Also A Slight Change In Coverage. Source: Data For 18944-February, 1933: Dun'S Review; Data For March, 1933-January, 1937: Dun And Bradstreet Monthly Review; Data For February 1937-1938: Dun'S Statistical Review.\n\nThis NBER data series m09068a appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: m09068a"
 }

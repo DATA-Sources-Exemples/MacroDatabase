@@ -1,7 +1,7 @@
 {
   "id": "CP1252ESM086NEST",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Harmonized Index of Consumer Prices: Insurance Connected with the Dwelling for Spain",
   "observation_start": "1996-01-01",
   "observation_end": "2021-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-20 07:18:50-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "The Harmonized Index of Consumer Prices category \"Insurance Connected with the Dwelling (12.5.2)\" is a classification of services that includes service charges paid by owner-occupiers and by tenants for the kinds of insurance typically taken out by tenants against fire, theft, water damage, etc. This category excludes service charges paid by owner-occupiers for the kinds of insurance typically taken out by landlords. This category is a subcategory of the Miscellaneous Goods and Service (12) and of Insurance (12.5).\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

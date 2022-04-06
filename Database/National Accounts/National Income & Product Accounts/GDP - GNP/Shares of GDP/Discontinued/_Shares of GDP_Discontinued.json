@@ -1,8 +1,8 @@
 {
   "A062RE1A156NBEA": {
     "id": "A062RE1A156NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Wage accruals less disbursements (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2011-01-01",
@@ -20,8 +20,8 @@
   },
   "B010RE1A156NBEA": {
     "id": "B010RE1A156NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Shares of gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Equipment and software (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2012-01-01",
@@ -39,8 +39,8 @@
   },
   "B010RE1Q156NBEA": {
     "id": "B010RE1Q156NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Shares of gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Equipment and software (DISCONTINUED)",
     "observation_start": "1947-01-01",
     "observation_end": "2013-01-01",
@@ -58,8 +58,8 @@
   },
   "W269RE1A156NBEA": {
     "id": "W269RE1A156NBEA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Disbursements (DISCONTINUED)",
     "observation_start": "1929-01-01",
     "observation_end": "2011-01-01",

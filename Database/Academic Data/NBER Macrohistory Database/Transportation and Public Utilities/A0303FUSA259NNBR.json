@@ -1,7 +1,7 @@
 {
   "id": "A0303FUSA259NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Revenue Per Freight Ton-Mile, Thirteen Railroads for United States",
   "observation_start": "1865-01-01",
   "observation_end": "1890-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:03:46-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "Data For 1865-1888 Were Computed By Adding Figures For Ton-Miles Presented In Groupings Of Seven And Six Railroads And Dividing Into Freight Earnings For The Two Groups. Data For 1889-1890 Were Computed From Freight Earnings And Ton-Miles Of Thirteen Individual Railroads. Data Were Revised In 1887, But Are Presented As One Variable. The Figures For 1887 And 1888 More Comparable To Earlier Data Are .827 And .783. Source: Poor'S Manual Of Railroads, 1888, Pp. Xxvii-Xxix; 1889, P. Viii; 1890; 1891.\n\nThis NBER data series a03003f appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: a03003f"
 }

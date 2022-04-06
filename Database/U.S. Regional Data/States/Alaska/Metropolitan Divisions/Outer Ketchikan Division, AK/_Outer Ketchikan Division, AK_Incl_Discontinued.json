@@ -1,8 +1,8 @@
 {
   "PCPI02919": {
     "id": "PCPI02919",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Per Capita Personal Income in Outer Ketchikan Division, AK",
     "observation_start": "1969-01-01",
     "observation_end": "1978-01-01",
@@ -20,8 +20,8 @@
   },
   "PI02919": {
     "id": "PI02919",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Personal Income in Outer Ketchikan Division, AK",
     "observation_start": "1969-01-01",
     "observation_end": "1978-01-01",

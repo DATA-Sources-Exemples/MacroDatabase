@@ -1,7 +1,7 @@
 {
   "id": "NCGAGI",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Individual Income Tax Filing: Net Capital Gain in Adjusted Gross Income (AGI)",
   "observation_start": "1999-01-01",
   "observation_end": "2016-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-12-19 13:31:02-06",
-  "popularity": 11,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 11,
   "notes": "Includes capital gains from the sale of assets held for personal use or investment, and also net gains from the sale of certain business property treated as net capital gains and from \"involuntary conversions\" of property, such as by casualty or theft. Also includes capital gains received from partnerships and S corporations. See also footnote 15. Data represent total capital gains. Total includes capital gain distributions from Regulated Investment Companies. For other changes affecting capital gains, see Statistics of Income-Individual Income Tax Returns, various years. \n\n Ordinary dividends in Adjusted Gross Income (AGI) exclude capital gains and liquidating dividends, reflected in the statistics for net capital gain or loss in AGI, but include interest from Regulated Investment Companies on money market mutual funds. Qualified dividends are the ordinary dividends received after May 5, 2003, that met certain conditions. These included: the dividend must have been paid by a U.S. corporation or a \"qualified\" foreign corporation; the stock ownership must have met certain holding period requirements; the dividends were not from certain institutions, such as mutual savings banks, cooperative banks, credit unions, tax-exempt organizations, or farmer cooperatives; and the dividends were not for any share of stock which was a part of an employee stock ownership plan (ESOP). \n\nFor additional information about the return filing requirements, see the annual reports, Statistics of Income-Individual Income Tax Returns at https://www.irs.gov/uac/soi-tax-stats-historical-data-tables."
 }

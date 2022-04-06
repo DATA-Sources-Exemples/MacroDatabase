@@ -1,7 +1,7 @@
 {
   "id": "IPG32712S",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Industrial Production: Manufacturing: Durable Goods: Clay Building Material and Refractories (NAICS = 32712)",
   "observation_start": "1972-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-17 08:19:34-05",
-  "popularity": 3,
+  "popularity": 2,
   "group_popularity": 4,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nNAICS = 32712\n\nSource Code: IP.G32712.S"
 }

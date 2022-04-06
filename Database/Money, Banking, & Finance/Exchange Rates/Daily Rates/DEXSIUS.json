@@ -1,7 +1,7 @@
 {
   "id": "DEXSIUS",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Singapore Dollars to U.S. Dollar Spot Exchange Rate",
   "observation_start": "1981-01-02",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-04 15:20:20-05",
-  "popularity": 29,
-  "group_popularity": 35,
+  "popularity": 30,
+  "group_popularity": 36,
   "notes": "Noon buying rates in New York City for cable transfers payable in foreign currencies."
 }

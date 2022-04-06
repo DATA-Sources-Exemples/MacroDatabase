@@ -1,0 +1,18 @@
+{
+  "id": "MNEPLA",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Earnings by Place of Work in Minnesota",
+  "observation_start": "1998-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Dollars",
+  "units_short": "Thous. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-03-23 13:35:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Please visit http://research.stlouisfed.org/fred2/personalincome for documentation on the derivation of personal income."
+}

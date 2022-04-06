@@ -1,7 +1,7 @@
 {
   "id": "OB000353Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Real Exports of Goods",
   "observation_start": "2003-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:03:04-05",
   "popularity": 1,
-  "group_popularity": 13,
+  "group_popularity": 15,
   "notes": "BEA Account Code: OB000353"
 }

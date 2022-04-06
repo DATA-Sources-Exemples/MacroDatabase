@@ -1,7 +1,7 @@
 {
   "id": "CP1100EZ19M086NEST",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Harmonized Index of Consumer Prices: Restaurants and Hotels for Euro area (19 countries)",
   "observation_start": "1996-01-01",
   "observation_end": "2022-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-17 07:11:16-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "The Harmonized Index of Consumer Prices category \"Restaurants and Hotels (11)\" is a classification of services. The category, Restaurants and Hotels (11), contains Catering Services (11.1) and Accommodation Services (11.2) categories and all subcategories therein.\n\nInformation provided in the notes pertaining to HICP classifications can be found from the source at: http://ec.europa.eu/eurostat/cache/metadata/en/prc_hicp_esms.htm.\n\nCopyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

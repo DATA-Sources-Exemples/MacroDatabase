@@ -1,7 +1,7 @@
 {
   "id": "M088AAUSM330NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Factory Payrolls, Paper and Pulp for United States",
   "observation_start": "1920-06-01",
   "observation_end": "1942-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:28:49-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Source: June, 1920-1931: Wages, Hours And Employment In The United States, 1914-1936 (National Industrial Conference Board Studies, No. 229, 1936); 1932-1933: Supplement To Conference Board Service Letter, June, 1938; 1934-1935: Conference Board Economic Record, March 28, 1940; 1936-1942: Conference Board Management Record, February, 1945.\n\nThis NBER data series m08128aa appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08128aa"
 }

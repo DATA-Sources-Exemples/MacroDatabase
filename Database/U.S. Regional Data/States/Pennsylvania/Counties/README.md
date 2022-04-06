@@ -41,7 +41,7 @@
 | Forest County, PA              |                88 |
 | Union County, PA               |                90 |
 | Adams County, PA               |               147 |
-| Fayette County, PA             |               144 |
+| Fayette County, PA             |                 2 |
 | Dauphin County, PA             |               146 |
 | Clearfield County, PA          |               146 |
 | Wyoming County, PA             |                90 |

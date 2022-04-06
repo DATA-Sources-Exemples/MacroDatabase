@@ -9,7 +9,7 @@
 | Storey County, NV     |                89 |
 | Churchill County, NV  |                90 |
 | Clark County, NV      |               146 |
-| Carson City, NV       |               146 |
+| Carson City, NV       |                 2 |
 | Douglas County, NV    |               146 |
 | Washoe County, NV     |               147 |
 | Pershing County, NV   |                89 |

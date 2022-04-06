@@ -1,7 +1,7 @@
 {
   "id": "W274RC1Q027SBEA",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "GDI: Corp profits with inventory valuation and CCAdj, domestic industries: Profits after tax with inventory valuation and CCAdj: Undistributed corp profits with inventory valuation and CCAdj",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-03-30 07:55:59-05",
   "popularity": 9,
-  "group_popularity": 9,
+  "group_popularity": 10,
   "notes": "BEA Account Code: W274RC\n\nGDI is Gross Domestic Income, Corp is Corporate, and CCAdj is Capital Consumption AdjustmentFor more information about this series, please see http://www.bea.gov/national/."
 }

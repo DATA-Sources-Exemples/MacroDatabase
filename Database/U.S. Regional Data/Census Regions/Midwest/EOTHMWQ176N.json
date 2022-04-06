@@ -1,0 +1,18 @@
+{
+  "id": "EOTHMWQ176N",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the Midwest Census Region",
+  "observation_start": "2000-04-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-02-02 09:31:35-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Included in this category are year-round units which were vacant for reasons other than for occasional use, and units occupied by persons with usual residence elsewhere. For example, held for settlement of an estate, held for personal reasons, or held for repairs."
+}

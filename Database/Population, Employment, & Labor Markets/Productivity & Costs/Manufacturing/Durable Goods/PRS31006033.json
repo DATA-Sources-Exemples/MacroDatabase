@@ -1,7 +1,7 @@
 {
   "id": "PRS31006033",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons",
   "observation_start": "1987-01-01",
   "observation_end": "2021-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-03-03 07:36:56-06",
-  "popularity": 2,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 2
 }

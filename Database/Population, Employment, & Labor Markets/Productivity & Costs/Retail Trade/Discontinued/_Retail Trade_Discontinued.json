@@ -1,8 +1,8 @@
 {
   "CES4245210001": {
     "id": "CES4245210001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Retail Trade: Department Stores (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2017-12-01",
@@ -20,8 +20,8 @@
   },
   "CEU4245210001": {
     "id": "CEU4245210001",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Retail Trade: Department Stores (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2017-12-01",

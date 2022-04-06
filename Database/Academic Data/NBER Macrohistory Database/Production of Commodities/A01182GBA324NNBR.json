@@ -1,7 +1,7 @@
 {
   "id": "A01182GBA324NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Industrial Production, Producers' Goods for Great Britain",
   "observation_start": "1790-01-01",
   "observation_end": "1931-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:01:55-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Source: Weltwirtschaftliches Archiv, September 1934, Pp. 396-398.\n\nThis NBER data series a01182 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01182"
 }

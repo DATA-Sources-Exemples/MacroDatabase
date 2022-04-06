@@ -1,7 +1,7 @@
 {
   "id": "M1205AUSM156SNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Trade and Industrial Activity for United States",
   "observation_start": "1879-01-01",
   "observation_end": "1930-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2012-08-17 15:32:44-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "These Data Are Also Adjusted For Long-Term Trend. Source: The Annalist, January 16, 1931, P. 162 For Data Through 1918; Thereafter Data Furnished By The E.W. Axe Company.\n\nThis NBER data series m12005a appears on the NBER website in Chapter 12 at http://www.nber.org/databases/macrohistory/contents/chapter12.html.\n\nNBER Indicator: m12005a"
 }

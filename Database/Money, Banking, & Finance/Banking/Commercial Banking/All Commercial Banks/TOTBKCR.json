@@ -1,7 +1,7 @@
 {
   "id": "TOTBKCR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Bank Credit, All Commercial Banks",
   "observation_start": "1973-01-03",
   "observation_end": "2022-03-23",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-04-01 15:35:05-05",
-  "popularity": 60,
-  "group_popularity": 62
+  "popularity": 59,
+  "group_popularity": 61
 }

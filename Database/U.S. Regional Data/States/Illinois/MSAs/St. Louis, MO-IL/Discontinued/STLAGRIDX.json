@@ -1,7 +1,7 @@
 {
   "id": "STLAGRIDX",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Economic Conditions Index for St. Louis, MO-IL (MSA) (DISCONTINUED)",
   "observation_start": "1990-02-01",
   "observation_end": "2019-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2020-04-14 16:27:01-05",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "The economic activity index measures average economic growth in the metropolitan area. It is computed using a dynamic factor model that includes 12 variables measuring various aspects of economic activity in the MSA. The index is calibrated to Gross Metropolitan Product (GMP) growth and variance to allow for comparison across metro areas.\r\n\r\nFor additional details, see Arias, M.A., C.S. Gascon and D.E. Rapach (2016), \u201cMetro Business Cycles,\u201d Journal of Urban Economics 94, 90-108, http://www.sciencedirect.com/science/article/pii/S009411901630016X.\r\nFederal Reserve Bank of St. Louis Working Paper 2014-046C, https://research.stlouisfed.org/wp/more/2014-046."
 }

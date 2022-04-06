@@ -1,7 +1,7 @@
 {
   "id": "SMU06473000500000002A",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Average Weekly Hours of All Employees: Total Private in Visalia-Porterville, CA (MSA)",
   "observation_start": "2007-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-15 05:44:50-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

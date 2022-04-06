@@ -1,0 +1,18 @@
+{
+  "id": "PAPINGSP",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Gross Domestic Product: Private Industries in Pennsylvania",
+  "observation_start": "1997-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-31 10:39:36-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
+}

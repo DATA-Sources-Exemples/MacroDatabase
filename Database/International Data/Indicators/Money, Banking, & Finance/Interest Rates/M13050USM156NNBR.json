@@ -1,7 +1,7 @@
 {
   "id": "M13050USM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Yields on Municipal Bonds, Twenty Bond Average for United States",
   "observation_start": "1948-01-01",
   "observation_end": "1967-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:05-05",
-  "popularity": 27,
-  "group_popularity": 27,
+  "popularity": 26,
+  "group_popularity": 26,
   "notes": "Data Are For Monthly Averages Of The Weekly Yields Index Given In \"The Weekly Bond Buyer For The Capital Market Investor\", Published By The Bond Buyer, New York City. Source: U.S. Bureau Of The Census, Business Cycle Developments, July 1964 And Subsequent Issues.\n\nThis NBER data series m13050 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13050"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M13012USFRB12M156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Federal Reserve Bank Discount Rates for Federal Reserve District 12: San Francisco",
   "observation_start": "1914-11-01",
   "observation_end": "1944-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:18:55-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Data Are Computed By NBER By Taking Simple Averages Of Rates For Commercial, Agricultural, And Livestock Paper, And Weighting Them By The Number Of Days Each Rate Was In Force. Data Are For All Classes And Maturities Of Discount Bills. Source: Federal Reserve Board, Data For 1914-1922: \"Discount Rates Of Federal Reserve Banks, 1914-1921\", 1922. Data For 1922-1944: Annual Reports Of 1931-1942;\"Banking And Monetary Statistics\", 1931-1935; Federal Reserve Bulletin.\n\nThis NBER data series m13012 appears on the NBER website in Chapter 13 at http://www.nber.org/databases/macrohistory/contents/chapter13.html.\n\nNBER Indicator: m13012"
 }

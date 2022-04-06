@@ -1,7 +1,7 @@
 {
   "id": "INTEXC2",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Interest Rate Paid on Excess Reserve Balances (Institutions with 2-Week Maintenance Period) (DISCONTINUED)",
   "observation_start": "2008-10-22",
   "observation_end": "2013-06-26",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-06-26 15:32:48-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "This series has been discontinued due to changes in Regulation D. Effective with the common two-week maintenance period starting on June 27, 2013, balances maintained that exceed the top of the penalty-free band will be remunerated at the interest rate to be paid on excess balances. The new series is at https://fred.stlouisfed.org/series/INTRESEXCW?rid=19"
 }

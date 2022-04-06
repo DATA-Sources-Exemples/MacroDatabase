@@ -1,7 +1,7 @@
 {
   "id": "LTDACBM027NBOG",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Large Time Deposits, All Commercial Banks",
   "observation_start": "1973-01-01",
   "observation_end": "2022-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-01 15:36:11-05",
   "popularity": 19,
-  "group_popularity": 31,
+  "group_popularity": 32,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

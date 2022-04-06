@@ -1,0 +1,18 @@
+{
+  "id": "BFSBF4QTOTALNSARI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Spliced Business Formations Within Four Quarters: Total for All NAICS in Rhode Island",
+  "observation_start": "2004-07-01",
+  "observation_end": "2022-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-09 11:06:18-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "This series combines (splices) BFBF4QTOTALNSARI (https://fred.stlouisfed.org/series/BFBF4QTOTALNSARI) and BFPBF4QTOTALNSARI (https://fred.stlouisfed.org/series/BFPBF4QTOTALNSARI) to provide the entire time series for the actual and projected business formations within four quarters.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

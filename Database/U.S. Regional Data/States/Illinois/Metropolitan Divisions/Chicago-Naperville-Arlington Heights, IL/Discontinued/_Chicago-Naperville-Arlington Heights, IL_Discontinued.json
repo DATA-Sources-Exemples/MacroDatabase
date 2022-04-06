@@ -1,8 +1,8 @@
 {
   "ATNHPIUS16974Q": {
     "id": "ATNHPIUS16974Q",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All-Transactions House Price Index for Chicago-Naperville-Arlington Heights, IL (MSAD) (DISCONTINUED)",
     "observation_start": "1975-07-01",
     "observation_end": "2018-07-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2018-11-27 09:11:10-06",
-    "popularity": 12,
-    "group_popularity": 12,
+    "popularity": 13,
+    "group_popularity": 13,
     "notes": "Estimated using sales prices and appraisal data. Metropolitan Division refers to a county or group of counties within a Metropolitan Statistical Area that has a population core of at least 2.5 million.",
     "path": "../Database/U.S. Regional Data/States/Illinois/Metropolitan Divisions/Chicago-Naperville-Arlington Heights, IL"
   },
   "SMU17169740000000001SA": {
     "id": "SMU17169740000000001SA",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "All Employees: Total Nonfarm in Chicago-Naperville-Arlington Heights, IL (MD) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2017-01-01",

@@ -1,0 +1,18 @@
+{
+  "id": "GAFBNDEC156MNFRBPHI",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia",
+  "observation_start": "2011-03-01",
+  "observation_end": "2022-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-22 07:36:17-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Future General Activity, Perceptions of Respondents for their Firm forecasts the change in general business activity of their company based on perceptions of their responses over the next six months for reporting service firms. The General Business Activity is the broadest measure of the Nonmanufacturing Business Outlook Survey. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey/ ."
+}

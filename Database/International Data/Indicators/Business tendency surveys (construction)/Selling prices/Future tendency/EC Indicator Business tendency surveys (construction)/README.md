@@ -1,3 +1,3 @@
 | Folder         |   Files / Folders |
 |----------------|-------------------|
-| Selling prices |                 1 |
+| Selling prices |                 2 |

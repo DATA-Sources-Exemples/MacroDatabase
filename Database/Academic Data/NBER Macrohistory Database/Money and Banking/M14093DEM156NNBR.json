@@ -1,7 +1,7 @@
 {
   "id": "M14093DEM156NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Legal Reserve Ratio for Germany",
   "observation_start": "1876-01-01",
   "observation_end": "1914-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:32:17-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1876-1914 (2)--Seasonally Adjusted Data, 1876-1914 (3)--Original Data, 1924-1935 (4)--Seasonally Adjusted, 1924-1935. Data Were Computed From Metallic Reserve Added To Treasury Notes Divided By Reichsbak Note Circulation. Source: Computed By NBER From Data In Centralblatt; Verwaltungs Bericht Der Reichsbank; Wirtschaft Und Statistik; Die Reichsbank.\n\nThis NBER data series m14093 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14093"
 }

@@ -21,5 +21,5 @@
 | Hot Springs County, WY |                89 |
 | Niobrara County, WY    |                88 |
 | Albany County, WY      |                90 |
-| Washakie County, WY    |                89 |
+| Washakie County, WY    |                 2 |
 | Fremont County, WY     |                90 |

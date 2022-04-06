@@ -1,7 +1,7 @@
 {
   "id": "CUUSA316SAR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Consumer Price Index for All Urban Consumers: Recreation in Dallas-Fort Worth-Arlington, TX (CBSA)",
   "observation_start": "1998-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:45:05-06",
   "popularity": 0,
-  "group_popularity": 3
+  "group_popularity": 2
 }

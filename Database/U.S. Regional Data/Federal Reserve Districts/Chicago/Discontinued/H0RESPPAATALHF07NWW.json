@@ -1,0 +1,17 @@
+{
+  "id": "H0RESPPAATALHF07NWW",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Assets: Net Portfolio Holdings of TALF LLC: Net Portfolio Holdings of TALF LLC: District 7: Chicago: Wednesday Level (DISCONTINUED)",
+  "observation_start": "2002-12-18",
+  "observation_end": "2014-11-05",
+  "frequency": "Weekly, As of Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-08-28 09:11:44-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

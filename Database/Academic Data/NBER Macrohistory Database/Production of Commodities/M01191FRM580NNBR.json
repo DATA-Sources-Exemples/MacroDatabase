@@ -1,7 +1,7 @@
 {
   "id": "M01191FRM580NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Coal and Lignite Production for France",
   "observation_start": "1915-01-01",
   "observation_end": "1939-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:06:28-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data For April-June 1918 Were Affected By The German Spring Offensive. Data For February 1919 Reflect The Abandonment Of The Extra Hour Of Work; March-May 1919 Data Show Decrease Due To The Releasing Of The German Prisoners Of Ww I; June 1919 Data Show Decrease Due To A Coal Miner'S Strike. Data For March 1920 And February 1923 Also Reflect Decreases In Production Caused By Coal Strikes In Different Fields. Data For 1919 On Include Alsace-Lorraine. Figures For April 1923 Are Often Misprinted In Other Sources, Figures Here Are The Correct Figures. Source: Data For 1915-1917: Bulletin Du Ministere Du Travail, October-December 1917, P. 499. Data For 1917-1918: Echo Des Mines, 1917, P. 531; 1918, P. 18; 1919, P. 375; 1920, P. 258. Data For 1919-1939: Bulletin De Statistique Generale; Indices Generaux Du Movement Economique En France.\n\nThis NBER data series m01191 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01191"
 }

@@ -1,8 +1,8 @@
 {
   "PCRGMP47380": {
     "id": "PCRGMP47380",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Per Capita Real Gross Domestic Product for Waco, TX (MSA) (DISCONTINUED)",
     "observation_start": "2001-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "WACSA175AFRBDAL": {
     "id": "WACSA175AFRBDAL",
-    "realtime_start": "2022-04-05",
-    "realtime_end": "2022-04-05",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
     "title": "Total Nonfarm Payroll Employment for Waco, TX (MSA) (DISCONTINUED)",
     "observation_start": "1990-01-01",
     "observation_end": "2016-01-01",

@@ -1,7 +1,7 @@
 {
   "id": "WSEFINTL1",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Wednesday Level",
   "observation_start": "2002-12-18",
   "observation_end": "2022-03-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-31 15:35:06-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "FRBNY, on behalf of the Federal Reserve System, provides correspondent and custodial banking services for central banks, monetary authorities, and certain international organizations to facilitate their official financial operations."
 }

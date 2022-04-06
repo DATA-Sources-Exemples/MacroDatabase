@@ -7,7 +7,7 @@
 | Mining and Logging                   |                41 |
 | Financial Activities                 |                51 |
 | Total Private                        |                29 |
-| Manufacturing                        |                33 |
+| Manufacturing                        |                 2 |
 | Utilities                            |                 1 |
 | Retail Trade                         |                 1 |
 | Goods-Producing                      |                29 |

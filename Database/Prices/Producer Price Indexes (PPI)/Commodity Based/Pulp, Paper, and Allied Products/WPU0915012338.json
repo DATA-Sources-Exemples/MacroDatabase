@@ -1,7 +1,7 @@
 {
   "id": "WPU0915012338",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Toilet Tissue, Retail Packages, Rolls and Ovals",
   "observation_start": "2007-12-01",
   "observation_end": "2019-06-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-09-11 07:53:03-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 15,
+  "group_popularity": 15
 }

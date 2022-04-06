@@ -1,7 +1,7 @@
 {
   "id": "M14062USM027NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Total Gold Reserves of Federal Reserve Banks for United States",
   "observation_start": "1914-11-01",
   "observation_end": "1949-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-20 08:31:53-05",
-  "popularity": 43,
-  "group_popularity": 43,
+  "popularity": 44,
+  "group_popularity": 44,
   "notes": "Data For 1915-1920 Represent End Of Month Totals. Data Beginning In 1934 Were Computed By NBER By Subtracting\"Other Cash\" From Total Cash Reserves. Beginning In June 1944,\"Other Cash\" Is Listed Separately By The Source And No Longer Needs To Be Subtracted From Total Reserves. Source: Federal Reserve Board, Data For 1914-1933 And 1935-1937: Annual Report, 1926, Pp. 43-45 And Successive Reports. Data For 1934 And 1938-1949: Federal Reserve Bulletins.\n\nThis NBER data series m14062 appears on the NBER website in Chapter 14 at http://www.nber.org/databases/macrohistory/contents/chapter14.html.\n\nNBER Indicator: m14062"
 }

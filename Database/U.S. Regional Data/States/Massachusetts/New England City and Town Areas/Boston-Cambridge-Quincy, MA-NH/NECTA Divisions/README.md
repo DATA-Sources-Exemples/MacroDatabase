@@ -2,7 +2,7 @@
 |--------------------------------------------|-------------------|
 | Boston-Cambridge-Newton, MA                |               273 |
 | Nashua, NH-MA                              |                 2 |
-| Haverhill-Newburyport-Amesbury Town, MA-NH |                 8 |
+| Haverhill-Newburyport-Amesbury Town, MA-NH |                 2 |
 | Taunton-Middleborough-Norton, MA           |                63 |
 | Lawrence-Methuen Town-Salem, MA-NH         |                65 |
 | Brockton-Bridgewater-Easton, MA            |                72 |

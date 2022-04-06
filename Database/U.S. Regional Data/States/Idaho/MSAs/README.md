@@ -3,7 +3,7 @@
 | Idaho Falls, ID   |               140 |
 | Pocatello, ID     |               142 |
 | Boise City, ID    |               274 |
-| Lewiston, ID-WA   |               147 |
+| Lewiston, ID-WA   |                 2 |
 | Twin Falls, ID    |                11 |
 | Coeur d'Alene, ID |               167 |
 | Logan, UT-ID      |               141 |

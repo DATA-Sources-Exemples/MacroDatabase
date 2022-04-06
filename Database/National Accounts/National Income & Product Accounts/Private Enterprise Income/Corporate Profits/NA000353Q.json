@@ -1,7 +1,7 @@
 {
   "id": "NA000353Q",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Exports of Goods",
   "observation_start": "1947-01-01",
   "observation_end": "2021-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-30 08:03:12-05",
   "popularity": 1,
-  "group_popularity": 10,
+  "group_popularity": 13,
   "notes": "BEA Account Code: NA000353"
 }

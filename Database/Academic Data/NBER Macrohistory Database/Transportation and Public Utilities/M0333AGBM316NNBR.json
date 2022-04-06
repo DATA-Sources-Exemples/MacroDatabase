@@ -1,7 +1,7 @@
 {
   "id": "M0333AGBM316NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Index of Shipping Freight Rates, British Routes for Great Britain",
   "observation_start": "1920-01-01",
   "observation_end": "1939-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:02:01-05",
   "popularity": 1,
-  "group_popularity": 9,
+  "group_popularity": 12,
   "notes": "Data For May-November 1926 Were Adjusted By The Economist To Nullify The Effects Of The Coal Strike. Figures Reflecting The Strike'S Effects (No Coal Exports) Are As Follows: May--962; June--104.4; July--116.0; August--122.8; September--131.3; October--182.7; November--196.7. Source: The Economist, February 26, 1938, P. 484, And Following Weekly Issues; Figures For May-November 1926 Are From The Source For These Months.\n\nThis NBER data series m03033a appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03033a"
 }

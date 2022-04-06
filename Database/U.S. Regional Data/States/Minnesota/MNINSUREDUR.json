@@ -1,0 +1,18 @@
+{
+  "id": "MNINSUREDUR",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "Insured Unemployment Rate in Minnesota",
+  "observation_start": "1984-06-02",
+  "observation_end": "2022-03-19",
+  "frequency": "Weekly, Ending Saturday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-04-01 07:38:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The insured unemployment rate (% of covered employment) is Continued Claims (also called insured unemployment) divided by Covered Employment."
+}

@@ -1,7 +1,7 @@
 {
   "id": "KOREPUINDXM",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Economic Policy Uncertainty Index for South Korea (DISCONTINUED)",
   "observation_start": "1990-01-01",
   "observation_end": "2014-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-02-11 11:51:02-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "For additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
 }

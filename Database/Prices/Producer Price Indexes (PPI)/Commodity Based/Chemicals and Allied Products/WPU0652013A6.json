@@ -1,7 +1,7 @@
 {
   "id": "WPU0652013A6",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Urea",
   "observation_start": "1959-01-01",
   "observation_end": "2014-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-06-15 13:50:34-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 11,
+  "group_popularity": 11
 }

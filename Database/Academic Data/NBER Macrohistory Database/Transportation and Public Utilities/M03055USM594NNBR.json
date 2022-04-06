@@ -1,7 +1,7 @@
 {
   "id": "M03055USM594NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Revenue Ton-Miles Per Serviceable Freight Locomotive, Class I Railroads for United States",
   "observation_start": "1920-01-01",
   "observation_end": "1943-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:02:23-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Excludes Switching And Terminal Companies Throughout; Series 01251 Includes Switching And Terminal Companies From February 1937 On. Data For 1921-January 1935 Are Based On Daily Averages. Data For February 1935-August 1943 Are Based On First Of The Month (The Published End-Of-Month Figures Being Placed Forward One Month) Centered By A Two Month Moving Average. For 1920, No Serviceable Freight Locomotive Data Were Available For The New York Central Railroad. Source: Data Computed By NBER From Series 03003 (Revenue Ton-Miles) And Series 01251 (Serviceable Freight Locomotives); Both Series Are Based On Interstate Commerce Commission Sources.\n\nThis NBER data series m03055 appears on the NBER website in Chapter 3 at http://www.nber.org/databases/macrohistory/contents/chapter03.html.\n\nNBER Indicator: m03055"
 }

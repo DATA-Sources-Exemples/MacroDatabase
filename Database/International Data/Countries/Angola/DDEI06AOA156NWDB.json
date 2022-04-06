@@ -1,7 +1,7 @@
 {
   "id": "DDEI06AOA156NWDB",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Bank's Return on Equity for Angola",
   "observation_start": "2002-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-03-23 16:29:17-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Commercial banks' net income to yearly averaged equity.\n\nRaw data are from Bankscope. Data2115[t] / ((data2055[t] + data2055[t-1])/2). Numerator and denominator are first aggregated on the country level before division. Note that banks used in the calculation might differ between indicators. (Calculated from underlying bank-by-bank unconsolidated data from Bankscope)\n\nSource Code: GFDD.EI.06"
 }

@@ -1,7 +1,7 @@
 {
   "id": "PIRIC",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Relative Price of Investment Goods",
   "observation_start": "1947-01-01",
   "observation_end": "2020-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-01-20 15:11:01-06",
-  "popularity": 26,
-  "group_popularity": 26,
+  "popularity": 25,
+  "group_popularity": 25,
   "notes": "Relative price of investment goods is calculated as investment deflator (https://fred.stlouisfed.org/series/INVDEF) divided by consumption deflator (https://fred.stlouisfed.org/series/CONSDEF).\n\nFor additional details see: R. DiCecio (2009). \"Sticky wages and sectoral labor comovement,\" Journal of Economic Dynamics and Control, 33(3): 538-53. (http://dx.doi.org/10.1016/j.jedc.2008.08.003)."
 }

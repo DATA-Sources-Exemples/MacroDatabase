@@ -1,7 +1,7 @@
 {
   "id": "Q10070USQ144NNBR",
-  "realtime_start": "2022-04-05",
-  "realtime_end": "2022-04-05",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
   "title": "Domestic Bond Issues for United States",
   "observation_start": "1920-01-01",
   "observation_end": "1930-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:16:09-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "This Series Covers Domestic Long-Term Corporate And Municipal Issues, Both For New Capital And Refunding; Data Can Be Continued Beyond 1938 (See Survey Of Current Business, February 1938). Source: Ilse Mintz, Determination In The Quality Of Foreign Bonds Issued In The United States 1920-1930, Table 13, P.88.\n\nThis NBER data series q10070 appears on the NBER website in Chapter 10 at http://www.nber.org/databases/macrohistory/contents/chapter10.html.\n\nNBER Indicator: q10070"
 }

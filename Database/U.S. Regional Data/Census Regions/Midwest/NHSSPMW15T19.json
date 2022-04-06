@@ -1,0 +1,18 @@
+{
+  "id": "NHSSPMW15T19",
+  "realtime_start": "2022-04-06",
+  "realtime_end": "2022-04-06",
+  "title": "New Houses Sold by Sales Price Between $150,000 and $199,999 in Midwest Census Region",
+  "observation_start": "2002-01-01",
+  "observation_end": "2021-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands of Units",
+  "units_short": "Thous. of Units",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-01-26 09:07:09-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data appearing as a \"0\" does not actually represent \"0\" units sold. Do to rounding issues \"0\" refers to less than 500 units sold."
+}
