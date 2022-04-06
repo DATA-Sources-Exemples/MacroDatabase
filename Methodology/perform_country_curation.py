@@ -7,14 +7,21 @@ try:
     path_str = "Database"
     structure_str = "Structure"
     curated_str = "Curated/Countries"
+    base_directory = "."
     os.listdir("Database")
 except FileNotFoundError:
     path_str = "../Database"
     structure_str = "../Structure"
     curated_str = "../Curated/Countries"
+    base_directory = "../"
+
+if "Curated" not in os.listdir(base_directory):
+    os.mkdir(f"{base_directory}/Curated")
+if "Countries" not in os.listdir(f"{base_directory}/Curated"):
+    os.mkdir(f"{base_directory}/Curated/Countries")
 
 COUNTRIES = json.load(open(f"{structure_str}/countries.json", "r"))
-CURATION_LIST = json.load(open(f"{structure_str}/curation_list.json", "r"))
+CURATION_LIST = json.load(open(f"{structure_str}/country_curation_list.json", "r"))
 
 similarities = {}
 dataset = {}
@@ -30,7 +37,6 @@ for country in COUNTRIES:
 # Create country macro data
 for country_1 in tqdm(dataset, desc="Collecting country options"):
     for key_1, value_1 in dataset[country_1].items():
-
         title_1 = value_1['title']
 
         if f"for the {country_1}" in title_1 or f"for {country_1}" in title_1:
@@ -86,10 +92,15 @@ for path in json_structure:
         try:
             aggregated_json = json.load(open(f"{path}/_{folder}.json", "r"))
         except FileNotFoundError:
-            aggregated_json = json.load(open(f"{path[3:]}/_{folder}.json", "r"))
+            try:
+                aggregated_json = json.load(open(f"{path[3:]}/_{folder}.json", "r"))
+            except FileNotFoundError:
+                aggregated_json = {}
+                print(f"Not able to obtain Academic Data for {folder}")
 
         for key, data in aggregated_json.items():
-            academic_data.append(data['title'])
+            if "title" in data:
+                academic_data.append(data['title'])
 
 for key in academic_data:
     similarities.pop(key, None)
@@ -133,12 +144,18 @@ for key, data in similarities_updated.items():
         curated["Undefined"][key] = data
 
 # Create curated folder structure
+list_of_options = {}
 for key_1, values_1 in curated.items():
     if key_1 not in os.listdir(f"{curated_str}"):
         os.mkdir(f"{curated_str}/{key_1}")
+    if key_1 not in list_of_options:
+        list_of_options[key_1] = {}
 
     for key_2, values_2 in values_1.items():
         key_2 = key_2.replace("/", " ")
+
+        if key_2 not in list_of_options[key_1]:
+            list_of_options[key_1][key_2] = {key_2: []}
 
         if key_2 not in os.listdir(f"{curated_str}/{key_1}"):
             try:
@@ -146,12 +163,30 @@ for key_1, values_1 in curated.items():
             except FileExistsError as error:
                 print(f"Folder already exists for {str(key_2)}")
 
-        keys = list(values_2.keys())
+        general_dict = {}
+
+        for key_3, values_3 in values_2.items():
+            if key_3 not in general_dict:
+                general_dict[key_3] = {}
+            if key_3 not in list_of_options[key_1][key_2]:
+                list_of_options[key_1][key_2][key_3] = []
+
+            json.dump(values_2[key_3], open(f"{curated_str}/{key_1}/{key_2}/{key_3}.json", "w"), indent=2)
+
+            for key_4, values_4 in values_3.items():
+                if key_4 not in list_of_options[key_1][key_2][key_2]:
+                    list_of_options[key_1][key_2][key_2].append(key_4)
+                if key_4 not in list_of_options[key_1][key_2][key_3]:
+                    list_of_options[key_1][key_2][key_3].append(key_4)
+
+                general_dict[key_3][key_4] = values_4
+
+        keys = list(general_dict.keys())
 
         if len(keys) == 1:
-            json.dump(values_2[keys[0]], open(f"{curated_str}/{key_1}/{key_2}/{key_2}.json", "w"), indent=2)
+            json.dump(general_dict[keys[0]], open(f"{curated_str}/{key_1}/{key_2}/{key_2}.json", "w"), indent=2)
         else:
-            for key_3, values_3 in values_2.items():
-                json.dump(values_2[key_3], open(f"{curated_str}/{key_1}/{key_2}/{key_3}.json", "w"), indent=2)
+            json.dump(general_dict, open(f"{curated_str}/{key_1}/{key_2}/{key_2}.json", "w"), indent=2)
 
-
+# Export list of options
+json.dump(list_of_options, open(f"{curated_str}/list_of_options.json", "w"), indent=2)

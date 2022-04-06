@@ -8,7 +8,9 @@ import requests
 def get_fred_id(fred_id):
     r = requests.get(f"https://fred.stlouisfed.org/categories/{fred_id}")
 
-    if "Looking for Something?" not in r.text:
+    if "Looking for Something?" in r.text:
+        print(f"{fred_id} not available")
+    else:
         json.dump("", open(f"IDs/{fred_id}.json", "w"))
         print(f"{fred_id} added")
 

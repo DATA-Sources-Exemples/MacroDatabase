@@ -9,6 +9,16 @@ import fred
 
 DELETE_JSON = True
 
+try:
+    path_str = "Database/"
+    id_str = "IDs/"
+    base_directory = "."
+    os.listdir("Database")
+except FileNotFoundError:
+    path_str = "../Database/"
+    id_str = "../IDs/"
+    base_directory = "../"
+
 
 def obtain_series_data(dictionary):
     name = dictionary[0]
@@ -56,15 +66,14 @@ def obtain_series_data(dictionary):
 
 if __name__ == "__main__":
     SUPER_SECRET = sys.argv[1]
-    path = "Database"
 
     if DELETE_JSON:
         print(f"Because DELETE_JSON is set to {DELETE_JSON}, removing all JSON files within the Database.")
-        for directory_path, directory_names, directory_files in os.walk(path):
+        for directory_path, directory_names, directory_files in os.walk(path_str):
             if len(directory_names) == 0 or len(directory_names) == 1 and directory_names[0] == "Discontinued":
                 print(f"Removing JSON files from {directory_path}")
                 for file in directory_files:
-                    if ".json" in file:
+                    if ".json" in file and file is not "ID.json":
                         os.remove(f"{directory_path}/{file}")
 
                 with open(f"{directory_path}/README.md", mode='a'):
@@ -72,21 +81,21 @@ if __name__ == "__main__":
 
     json_data = {}
     fred.key(SUPER_SECRET)
-    for file in os.listdir("IDs"):
-        if file == "_IDs.json":
+    for file in os.listdir(id_str):
+        if file == "_IDs.json" or file == "Bad Request":
             continue
-        json_data[file.strip(".json")] = json.load(open(f"IDs/{file}", "r"))
+        json_data[file.strip(".json")] = json.load(open(f"{id_str}/{file}", "r"))
 
     json_data_sorted = {}
     natural_sort = natsorted(json_data)
 
     for number in natural_sort:
         json_data_sorted[number] = json_data[number]
-    json.dump(json_data_sorted, open(f"IDs/_IDs.json", "w"), indent=2)
+    json.dump(json_data_sorted, open(f"{id_str}/_IDs.json", "w"), indent=2)
 
     children_directories = {}
 
-    for directory_path, directory_names, _ in os.walk(path):
+    for directory_path, directory_names, _ in os.walk(path_str):
         if len(directory_names) == 0:
             if directory_path.split("/")[-1] == "Discontinued":
                 directory_path = "/".join(directory_path.split("/")[:-1])
@@ -96,11 +105,12 @@ if __name__ == "__main__":
             children_directories[name]["path"] = directory_path
 
     for fred_number, value in json_data.items():
-        id = value['id']
-        name = value['name']
+        if value:
+            category_id = value['id']
+            name = value['name']
 
-        if name in children_directories:
-            children_directories[name]['id'] = id
+            if name in children_directories:
+                children_directories[name]['id'] = fred_number
 
     for child, data in children_directories.items():
         obtain_series_data((child, data))

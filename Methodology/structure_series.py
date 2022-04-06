@@ -19,9 +19,6 @@ for directory_path, directory_names, _ in os.walk(path_str):
 
         name = directory_path.split("/")[-1]
 
-        if name in ["_Curated", "_Structure"]:
-            continue
-
         all_json_files = dict()
         all_discontinued_json_files = dict()
         all_json_files_including_discontinued = dict()

@@ -42,12 +42,13 @@ def path_to_dict(path, tree=None, json_containers=None, previous_path=None):
 
 tree, json_containers = path_to_dict(path_str)
 
-if "_Structure" not in os.listdir(path_str):
-    os.mkdir(f"{path_str}/_Structure")
+if "Structure" not in os.listdir("../"):
+    os.mkdir(f"Structure")
 
 countries = list(tree['Database']['International Data']['Countries'].keys())
+countries.remove("ID.json")
 countries.sort()
 
-json.dump(tree, open(f"{path_str}/_Structure/directory_structure.json", "w"), indent=2)
-json.dump(json_containers, open(f"{path_str}/_Structure/json_structure.json", "w"), indent=2)
-json.dump(countries, open(f"{path_str}/_Structure/countries.json", "w"), indent=2)
+json.dump(tree, open(f"../Structure/directory_structure.json", "w"), indent=2)
+json.dump(json_containers, open(f"../Structure/json_structure.json", "w"), indent=2)
+json.dump(countries, open(f"../Structure/countries.json", "w"), indent=2)
