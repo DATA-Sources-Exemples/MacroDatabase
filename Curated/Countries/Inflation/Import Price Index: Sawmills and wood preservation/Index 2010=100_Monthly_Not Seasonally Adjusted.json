@@ -1,0 +1,21 @@
+{
+  "Canada": {
+    "id": "COCANZ3211",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Import Price Index: Sawmills and wood preservation for Canada",
+    "observation_start": "2012-06-01",
+    "observation_end": "2020-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 2010=100",
+    "units_short": "Index 2010=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-01-14 07:38:09-06",
+    "popularity": 4,
+    "group_popularity": 4,
+    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/",
+    "path": "../Database/International Data/Countries/Canada"
+  }
+}

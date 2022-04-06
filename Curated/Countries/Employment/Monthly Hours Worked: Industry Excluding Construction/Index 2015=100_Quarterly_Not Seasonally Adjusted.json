@@ -1,0 +1,21 @@
+{
+  "Luxembourg": {
+    "id": "HOHWIN03LUQ661N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Monthly Hours Worked: Industry Excluding Construction for Luxembourg",
+    "observation_start": "1980-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index 2015=100",
+    "units_short": "Index 2015=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 12:10:19-06",
+    "popularity": 0,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: HOHWIN03\nOECD unit ID: IXOB\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Luxembourg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "New Zealand": {
+    "id": "LRHUTTFENZQ156S",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Harmonized Unemployment: Total: Females for New Zealand",
+    "observation_start": "1986-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-02-15 10:20:45-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: LRHUTTFE\nOECD unit ID: STSA\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/New Zealand"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "WUIUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "World Uncertainty Index for Ukraine",
+    "observation_start": "1992-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index",
+    "units_short": "Index",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-02-22 09:49:06-06",
+    "popularity": 4,
+    "group_popularity": 4,
+    "notes": "The World Uncertainty Index determines uncertainty using the frequency of the selfsame word in the quarterly Economist Intelligence Unit country reports.\n\nPlease see Hites Ahir, Nicholas Bloom and Davide Furceri (2018), 'The World Uncertainty Index' (https://www.policyuncertainty.com/media/WUI_mimeo_10_29.pdf) for additional explanation.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

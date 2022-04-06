@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SPADOTFRTUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Adolescent Fertility Rate for Ukraine",
+    "observation_start": "1960-01-01",
+    "observation_end": "2019-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Births per 1,000 Women Ages 15-19",
+    "units_short": "Births per 1,000 Women Ages 15-19",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-04-27 11:18:08-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19.\n\nSource Indicator: SP.ADO.TFRT",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

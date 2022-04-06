@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SLEMPTOTLSPZSUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Employment to Population Ratio for Ukraine",
+    "observation_start": "1991-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-02-16 16:23:13-06",
+    "popularity": 4,
+    "group_popularity": 4,
+    "notes": "Employment to population ratio is the proportion of a country's population that is employed. Ages 15 and older are generally considered the working-age population (modeled ILO estimate).\n\nSource Indicator: SL.EMP.TOTL.SP.ZS",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

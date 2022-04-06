@@ -1,0 +1,21 @@
+{
+  "Switzerland": {
+    "id": "IR3TED01CHA156N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "3-Month or 90-day Rates and Yields: Eurodollar Deposits for Switzerland",
+    "observation_start": "1974-01-01",
+    "observation_end": "2021-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-02-15 11:17:54-06",
+    "popularity": 2,
+    "group_popularity": 16,
+    "notes": "OECD descriptor ID: IR3TED01\nOECD unit ID: ST\nOECD country ID: CHE\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Switzerland"
+  }
+}

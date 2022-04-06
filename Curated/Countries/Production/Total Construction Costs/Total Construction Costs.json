@@ -1,0 +1,65 @@
+{
+  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "OPCNTT01BRA661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Construction Costs for Brazil",
+      "observation_start": "1970-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-15 11:18:27-06",
+      "popularity": 3,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: OPCNTT01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Monthly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "OPCNTT01BRM661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Construction Costs for Brazil",
+      "observation_start": "1970-01-01",
+      "observation_end": "2022-01-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 10:50:14-06",
+      "popularity": 4,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: OPCNTT01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "OPCNTT01BRQ661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Construction Costs for Brazil",
+      "observation_start": "1970-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-15 10:21:07-06",
+      "popularity": 9,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: OPCNTT01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Japan": {
+    "id": "IR3TCD01JPM156N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "3-Month or 90-day Rates and Yields: Certificates of Deposit for Japan",
+    "observation_start": "1979-05-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 10:44:05-06",
+    "popularity": 22,
+    "group_popularity": 25,
+    "notes": "OECD descriptor ID: IR3TCD01\nOECD unit ID: ST\nOECD country ID: JPN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Japan"
+  }
+}

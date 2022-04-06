@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "PATENT4NUAPLANT",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "U.S. Granted Patents: Plant Patents Originating in Ukraine",
+    "observation_start": "1994-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number",
+    "units_short": "Number",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-05-21 13:02:44-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Patent origin is determined by the residence of the first-named inventor.\n\nA plant patent is granted by the United States government to an inventor (or the inventor's heirs or assigns) who has invented or discovered and asexually reproduced a distinct and new variety of plant, other than a tuber propagated plant or a plant found in an uncultivated state.\n\nSee PTMT Products and Services Brochure (https://www.uspto.gov/web/offices/ac/ido/oeip/taf/brochure.htm) and Types of patent applications and proceedings (https://www.uspto.gov/patents/basics/types-patent-applications) for more information.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

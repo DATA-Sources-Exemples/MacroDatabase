@@ -1,0 +1,21 @@
+{
+  "Singapore": {
+    "id": "RNSGBIS",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Real Narrow Effective Exchange Rate for Singapore",
+    "observation_start": "1964-01-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 2010=100",
+    "units_short": "Index 2010=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-17 11:01:57-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Real effective exchange rates are calculated as weighted averages of bilateral exchange rates adjusted by relative consumer prices.\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.",
+    "path": "../Database/International Data/Countries/Singapore"
+  }
+}

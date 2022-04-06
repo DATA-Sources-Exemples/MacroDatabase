@@ -1,0 +1,21 @@
+{
+  "Japan": {
+    "id": "JPNRGDPPC",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Real Private Consumption for Japan",
+    "observation_start": "1994-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Billions of Chained 2015 Yen",
+    "units_short": "Bil. of Chn. 2015 Yen",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-08 17:56:07-06",
+    "popularity": 5,
+    "group_popularity": 5,
+    "notes": "Copyright, 2016, Cabinet Office of Japan.",
+    "path": "../Database/International Data/Countries/Japan"
+  }
+}

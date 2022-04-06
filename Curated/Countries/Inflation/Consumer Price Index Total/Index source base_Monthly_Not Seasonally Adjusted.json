@@ -1,0 +1,21 @@
+{
+  "Saudi Arabia": {
+    "id": "SAUCPALTT01IXNBM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Consumer Price Index : All items : Total : Total for Saudi Arabia",
+    "observation_start": "1995-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index source base",
+    "units_short": "Index source base",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 10:40:07-06",
+    "popularity": 5,
+    "group_popularity": 5,
+    "notes": "OECD descriptor ID: SAU.CPALTT01.IXNB.M OECD unit ID: OECD country ID: CPALTT01 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Saudi Arabia"
+  }
+}

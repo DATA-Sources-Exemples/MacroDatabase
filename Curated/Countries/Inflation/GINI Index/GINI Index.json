@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SIPOVGINIUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "GINI Index for Ukraine",
+    "observation_start": "1992-01-01",
+    "observation_end": "2019-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Index",
+    "units_short": "Index",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-03-22 15:45:35-05",
+    "popularity": 28,
+    "group_popularity": 28,
+    "notes": "Gini index measures the extent to which the distribution of income or consumption expenditure among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.\n\nData are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).\n\nSource Indicator: SI.POV.GINI\n\nWorld Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available and includes national, regional, and global estimates. The World Bank labels these annual series, but several observations are missing.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}
