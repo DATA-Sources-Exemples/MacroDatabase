@@ -1,0 +1,21 @@
+{
+  "Georgia": {
+    "id": "ALLMARGATGA",
+    "realtime_start": "2022-04-05",
+    "realtime_end": "2022-04-05",
+    "title": "All Marginally Attached Workers for Georgia",
+    "observation_start": "2003-10-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Persons, 4-Quarter Moving Average",
+    "units_short": "Persons, 4-Qtr. Moving Average",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-01-31 09:38:32-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "The BLS defines marginally attached workers as persons who are not in the labor force, want and are available for work, and had looked for a job sometime in the prior 12 months. They are not counted as unemployed because they had not searched for work in the prior 4 weeks, for any reason whatsoever. The marginally attached are a group that includes discouraged workers.",
+    "path": "../Database/International Data/Countries/Georgia"
+  }
+}
