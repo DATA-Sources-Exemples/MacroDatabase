@@ -19,17 +19,22 @@ except FileNotFoundError:
     id_str = "../IDs/"
     base_directory = "../"
 
+try:
+    from config import API_KEYS
+except ModuleNotFoundError:
+    API_KEYS = False
+
 
 def obtain_series_data(dictionary):
     name = dictionary[0]
     data = dictionary[1]
+    key_counter = 1
 
     try:
         print(f"Attempting {name} ({data['id']})")
+        fred_id = data['id']
     except KeyError:
         return print(f"Not able to get data for {name}")
-
-    fred_id = data['id']
 
     try:
         children = fred.category_series(fred_id)
@@ -42,26 +47,43 @@ def obtain_series_data(dictionary):
         if error_message == 'Too Many Requests.  Exceeded Rate Limit':
             print("Too many requests.. waiting..")
             while error_message == 'Too Many Requests.  Exceeded Rate Limit':
-                time.sleep(65)
-                children = fred.category_series(fred_id)
+                if API_KEYS:
+                    fred.key(API_KEYS[key_counter])
+                    children = fred.category_series(fred_id)
 
-                if "error_message" in children.keys():
-                    error_message = children['error_message']
+                    if "error_message" in children.keys():
+                        error_message = children['error_message']
+                    else:
+                        error_message = None
+
+                    key_counter += 1
+
+                    if key_counter == 7:
+                        key_counter = 0
                 else:
-                    error_message = None
+                    time.sleep(65)
+                    children = fred.category_series(fred_id)
 
-    children = children['seriess']
+                    if "error_message" in children.keys():
+                        error_message = children['error_message']
+                    else:
+                        error_message = None
 
-    if "Discontinued" not in os.listdir(data['path']):
-        os.mkdir(f"{data['path']}/Discontinued")
+    elif children['seriess']:
+        children = children['seriess']
 
-    for series in children:
-        if "DISCONTINUED" in series['title']:
-            path = f"{data['path']}/Discontinued/{series['id']}.json"
-        else:
-            path = f"{data['path']}/{series['id']}.json"
+        if "Discontinued" not in os.listdir(data['path']):
+            os.mkdir(f"{data['path']}/Discontinued")
 
-        json.dump(series, open(path, "w"), indent=2)
+        for series in children:
+            if "DISCONTINUED" in series['title']:
+                path = f"{data['path']}/Discontinued/{series['id']}.json"
+            else:
+                path = f"{data['path']}/{series['id']}.json"
+
+            json.dump(series, open(path, "w"), indent=2)
+    else:
+        return print(f"Seriess is empty ({children['seriess']}) for {name} ({data['id']}")
 
 
 if __name__ == "__main__":
@@ -96,13 +118,12 @@ if __name__ == "__main__":
     children_directories = {}
 
     for directory_path, directory_names, _ in os.walk(path_str):
-        if len(directory_names) == 0:
-            if directory_path.split("/")[-1] == "Discontinued":
-                directory_path = "/".join(directory_path.split("/")[:-1])
+        if directory_path.split("/")[-1] == "Discontinued":
+            directory_path = "/".join(directory_path.split("/")[:-1])
 
-            name = directory_path.split("/")[-1]
-            children_directories[name] = {}
-            children_directories[name]["path"] = directory_path
+        name = directory_path.split("/")[-1]
+        children_directories[name] = {}
+        children_directories[name]["path"] = directory_path
 
     for fred_number, value in json_data.items():
         if value:

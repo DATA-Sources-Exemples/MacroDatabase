@@ -49,6 +49,11 @@ countries = list(tree['Database']['International Data']['Countries'].keys())
 countries.remove("ID.json")
 countries.sort()
 
+states = list(tree['Database']['U.S. Regional Data']['States'].keys())
+states.remove("ID.json")
+states.sort()
+
 json.dump(tree, open(f"../Structure/directory_structure.json", "w"), indent=2)
 json.dump(json_containers, open(f"../Structure/json_structure.json", "w"), indent=2)
 json.dump(countries, open(f"../Structure/countries.json", "w"), indent=2)
+json.dump(states, open(f"../Structure/states.json", "w"), indent=2)

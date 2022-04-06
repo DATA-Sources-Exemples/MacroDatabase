@@ -36,28 +36,28 @@ for table_location in [path_str]:
 
     # Create README files for subpages
     for directory_path, directory_names, _ in os.walk(table_location):
-        if len(directory_names) == 0:
-            if directory_path.split("/")[-1] == "Discontinued":
-                paths = directory_path, "/".join(directory_path.split("/")[:-1])
-            else:
-                paths = None, directory_path
+        if directory_path.split("/")[-1] == "Discontinued":
+            paths = directory_path, "/".join(directory_path.split("/")[:-1])
+        else:
+            paths = None, directory_path
 
-            for path in paths:
-                if path:
-                    name = paths[1].split("/")[-1]
+        for path in paths:
+            if path:
+                name = paths[1].split("/")[-1]
 
-                    if 'Discontinued' in path:
-                        all_json_name = f"_{name}_Discontinued.json"
-                    else:
-                        all_json_name = f"_{name}.json"
+                if 'Discontinued' in path:
+                    all_json_name = f"_{name}_Discontinued.json"
+                else:
+                    all_json_name = f"_{name}.json"
 
-                    print(f"Creating Series README for {name} ({path})")
+                print(f"Creating Series README for {name} ({path})")
 
-                    all_json_data = json.load(open(f"{path}/{all_json_name}", "r"))
+                all_json_data = json.load(open(f"{path}/{all_json_name}", "r"))
 
-                    if all_json_data:
-                        df = pd.DataFrame.from_dict(all_json_data, orient='index')[
-                            ['id', 'title', 'observation_start', 'observation_end']]
+                if all_json_data:
+                    df = pd.DataFrame.from_dict(all_json_data, orient='index')
+                    if 'title' in df:
+                        df = df[['id', 'title', 'observation_start', 'observation_end']]
                         markdown = df.to_markdown(tablefmt="github", index=False)
 
                         with open(f"{path}/README.md", "w") as file:
@@ -68,14 +68,14 @@ for table_location in [path_str]:
 
     print(f"Creating Overview README in {table_location}")
     for top_level in os.listdir(table_location):
-        if top_level in ['.DS_Store', "README.md"]:
+        if top_level in ['.DS_Store', "README.md", "_Database.json"]:
             continue
 
         table_structure[top_level] = {}
         path_secondary = f"{table_location}/{top_level}"
 
         for secondary_level in os.listdir(path_secondary):
-            if secondary_level in ['.DS_Store', "README.md", "ID.json"]:
+            if secondary_level in ['.DS_Store', "README.md", "ID.json", f"_{secondary_level}.json"]:
                 continue
 
             amount_of_files = 0
