@@ -1,4 +1,6 @@
-![Header](logs/Header.png)
+<p align="center">
+  <img src="logs/Header.png" alt="MacroDatabase"/>
+</p>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-brightgreen?logo=buymeacoffee)](https://www.buymeacoffee.com/jerbouma)
 [![Issues](https://img.shields.io/github/issues/jerbouma/macrodatabase)](https://github.com/JerBouma/MacroDatabase/issues)
