@@ -1,13 +1,12 @@
-![MacroDatabase](https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/logs/Header.png)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-brightgreen?logo=buymeacoffee)](https://www.buymeacoffee.com/jerbouma)
-[![Issues](https://img.shields.io/github/issues/jerbouma/macrodatabase)](https://github.com/JerBouma/MacroDatabase/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/JerBouma/MacroDatabase?color=yellow)](https://github.com/JerBouma/MacroDatabase/pulls)
-[![PYPI Version](https://img.shields.io/pypi/v/MacroDatabase)](https://pypi.org/project/MacroDatabase/)
-[![PYPI Downloads](https://img.shields.io/pypi/dm/MacroDatabase)](https://pypi.org/project/MacroDatabase/)
+<p align="center">
+  <a href="https://openbb.co/">
+    <img src="https://raw.githubusercontent.com/OpenBB-finance/OpenBBTerminal/main/images/openbb_splashscreen.png" alt="Logo" width="1000">
+  </a>
+</p>
+<h3 align="center">Macro Database 🌎</h3>
 
 It's one thing to understand companies existing in countries, sectors and industries and another to understand 
-movements within these categories due to macroeconomics. The former I attempted to solve with the 
+movements within these categories due to macroeconomics. The former is attempted to be solved with
 [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) and the MacroDatabase is an attempt to cover the latter. 
 
 Within this database of over 570.000 datasets, you are able to view an incredibly large amount of financial indicators 
@@ -69,27 +68,25 @@ the function returns all types.
 - `select_database_data(parameter)` - grab data from the whole database. This follows the structure that can be 
 obtained via `show_database_options`. E.g. to select Mortgage Rates you would use 'Interest Rates/Mortgage Rates'.
 - `collect_data(ids, api_key, show_progress=True)` - based on IDs, collect data via the 
-- [FREDAPI](https://github.com/mortada/fredapi) package. This allows you to instantly collect all data for the 
+[FREDAPI](https://github.com/mortada/fredapi) package. This allows you to instantly collect all data for the 
 curated list. For example, all countries you can find within 'Liquid Liabilities to GDP' (150+).
 
 ## Questions & Answers
 In this section you can find answers to commonly asked questions. In case the answer to your question is not here, 
-consider creating an [Issue](https://github.com/JerBouma/MacroDatabase/issues).
+consider creating an [Issue](https://github.com/OpenBB-finance/MacroDatabase/issues).
 
 - **How did you get your data?**
-    - Please check the [Methodology](https://github.com/JerBouma/MacroDatabase/tree/master/Methodology).
+    - Please check the [Methodology](https://github.com/OpenBB-finance/MacroDatabase/tree/master/Methodology).
 - **Which countries and states are supported?**
-    - Please see [Countries](https://github.com/JerBouma/MacroDatabase/tree/master/Structure/countries.json) and
-    [States](https://github.com/JerBouma/MacroDatabase/tree/master/Structure/states.json).
+    - Please see [Countries](https://github.com/OpenBB-finance/MacroDatabase/tree/master/Structure/countries.json) and
+    [States](https://github.com/OpenBB-finance/MacroDatabase/tree/master/Structure/states.json).
 - **How can I find out which options exists?**
     - For this you can use the ``show_country_options`` function for the Curated Countries, ``show_state_options`` 
     for the Curated States and ``show_database_options`` function for general database querying.
 - **How frequently does the Database get updated?**
     - Every sunday this database gets refreshed via GitHub Actions.
-    See [Methodology](https://github.com/JerBouma/MacroDatabase/tree/master/Methodology) for how this is done.
+    See [Methodology](https://github.com/OpenBB-finance/MacroDatabase/tree/master/Methodology) for how this is done.
 
 ## Contribution
-Projects are bound to have (small) errors and can always be improved. Therefore, I highly encourage you to submit 
+Projects are bound to have (small) errors and can always be improved. Therefore, we highly encourage you to submit 
 issues and create pull requests to improve the package.
-
-<a href="https://www.buymeacoffee.com/jerbouma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
