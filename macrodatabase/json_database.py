@@ -5,19 +5,20 @@ import requests
 
 LIST_OF_DATABASE_OPTIONS = json.loads(
     requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Structure/"
-                 "directory_structure.json").text)
+                 "database_structure.json").text)
 
 LIST_OF_DATABASE_DISCONTINUED_OPTIONS = json.loads(
     requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Structure/"
-                 "directory_discontinued_structure.json").text)
+                 "database_discontinued_structure.json").text)
 
 
-def select_database_data(parameter, repo_url="https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Database/"):
+def select_database_data(parameter, repo_url="https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/"
+                                             "Database/"):
     """
     Description
     ----
     Obtain data from the entire database. For example, obtain all Commodity Prices by setting the parameter equal to
-    'Prices/Commodities'. For the usage of this, please use the function show_database_options.
+    'Commodities'. For the usage of this, please use the function show_database_options.
 
     Input
     ----
@@ -54,31 +55,33 @@ def show_database_options(search=None, include_discontinued=False):
     """
     Description
     ----
-    This function returns information about the available options in certain categories and parameters.
+    This function returns information about the available options in the database.
 
     Input
     ----
-    category (string, default is None)
-        The category you wish to show options for
-    parameter (string, default is None)
-        The parameter you wish to show options for
+    search (string, default is None)
+        The search term you want to use.
 
     Output
     ----
-    LIST_OF_OPTIONS (Dictionary)
-        Returns a dictionary with a selection or all available options based on the input.
+     Returns a dictionary with a selection or all available options based on the input. Output depends
+     on search parameter and if you included the discontinued series:
     """
-    search_dict = {}
+    if search:
+        search_dict = {}
 
-    for parameter in LIST_OF_DATABASE_OPTIONS:
-        if search.lower() in parameter.lower():
-            search_dict[parameter] = LIST_OF_DATABASE_OPTIONS[parameter]
-
-    if include_discontinued:
-        for parameter in LIST_OF_DATABASE_DISCONTINUED_OPTIONS:
+        for parameter in LIST_OF_DATABASE_OPTIONS:
             if search.lower() in parameter.lower():
-                search_dict[parameter] = LIST_OF_DATABASE_DISCONTINUED_OPTIONS[parameter]
+                search_dict[parameter] = LIST_OF_DATABASE_OPTIONS[parameter]
 
-    df = pd.Series.from_dict(search_dict)
+        if include_discontinued:
+            for parameter in LIST_OF_DATABASE_DISCONTINUED_OPTIONS:
+                if search.lower() in parameter.lower():
+                    search_dict[parameter] = LIST_OF_DATABASE_DISCONTINUED_OPTIONS[parameter]
 
-    return df
+        return search_dict
+    else:
+        if include_discontinued:
+            return LIST_OF_DATABASE_DISCONTINUED_OPTIONS
+        else:
+            return LIST_OF_DATABASE_OPTIONS
