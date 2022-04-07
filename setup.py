@@ -9,7 +9,7 @@ setuptools.setup(
     version="1.0.0",
     license="MIT",
     description="This is a macro database of 570.000+ data series containing International Data (150+ countries), "
-                "Interest Rates. Inflation, Monetary Data, U.S. (regional) data, Commodities, Real Estate and so "
+                "Interest Rates, Inflation, Monetary Data, U.S. (regional) data, Commodities, Real Estate and so "
                 "much more. U.S. States and Countries curation is also included.",
     author="JerBouma",
     author_email="jer.bouma@gmail.com",
