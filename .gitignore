@@ -2,8 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.DS_Store
-.idea/
+.idea
+Pickles/
+build/
+dist/
+MacroDatabase.egg-info/
+PyPi Build/
 Methodology/config.py
 
 # C extensions
@@ -130,4 +134,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.DS_Store
