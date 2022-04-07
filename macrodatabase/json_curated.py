@@ -17,7 +17,8 @@ STATES = json.loads(
 
 
 def select_country_data(category, parameter, country=None, unit=None, period=None, seasonality=True,
-                        repo_url="https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Curated/Countries/"):
+                        repo_url="https://raw.githubusercontent.com/OpenBB-finance/MacroDatabase/master/"
+                                 "Curated/Countries/"):
     """
     Description
     ----
@@ -147,7 +148,8 @@ def show_country_options(search=None, category=None, parameter=None):
 
 
 def select_states_data(category, parameter, state=None, unit=None, period=None, seasonality=True,
-                       repo_url="https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Curated/States/"):
+                       repo_url="https://raw.githubusercontent.com/OpenBB-finance/MacroDatabase/master/"
+                                "Curated/States/"):
     """
     Description
     ----

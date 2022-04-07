@@ -4,15 +4,15 @@ import pandas as pd
 import requests
 
 LIST_OF_DATABASE_OPTIONS = json.loads(
-    requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Structure/"
+    requests.get("https://raw.githubusercontent.com/OpenBB-finance/MacroDatabase/master/Structure/"
                  "database_structure.json").text)
 
 LIST_OF_DATABASE_DISCONTINUED_OPTIONS = json.loads(
-    requests.get("https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/Structure/"
+    requests.get("https://raw.githubusercontent.com/OpenBB-finance/MacroDatabase/master/Structure/"
                  "database_discontinued_structure.json").text)
 
 
-def select_database_data(parameter, repo_url="https://raw.githubusercontent.com/JerBouma/MacroDatabase/master/"
+def select_database_data(parameter, repo_url="https://raw.githubusercontent.com/OpenBB-finance/MacroDatabase/master/"
                                              "Database/"):
     """
     Description
