@@ -133,7 +133,7 @@ def show_country_options(search=None, category=None, parameter=None):
         return search_dict
 
     elif category:
-        if category not in LIST_OF_OPTIONS:
+        if category not in LIST_OF_COUNTRY_OPTIONS:
             print(f"Can not find '{category}'")
         elif parameter:
             if parameter not in LIST_OF_COUNTRY_OPTIONS[category]:
