@@ -1,5 +1,4 @@
-fred==3.1
-natsort==8.1.0
-pandas==1.4.1
-tabulate==0.8.9
-requests==2.26.0
+fredapi>=0.5.0
+pandas>=1.4.1
+requests>=2.26.0
+tqdm>=4.63.0
