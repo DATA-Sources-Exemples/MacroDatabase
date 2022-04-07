@@ -6,13 +6,13 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="macrodatabase",
     packages=["macrodatabase"],
-    version="1.0.2",
+    version="1.0.3",
     license="MIT",
     description="This is a macro database of 570.000+ data series containing International Data (150+ countries), "
                 "Interest Rates, Inflation, Monetary Data, U.S. (regional) data, Commodities, Real Estate and so "
                 "much more. U.S. States and Countries curation is also included.",
-    author="JerBouma",
-    author_email="jer.bouma@gmail.com",
+    author="OpenBB",
+    author_email="hello@openbb.co",
     url="https://github.com/OpenBB-finance/MacroDatabase",
     long_description=long_description,
     long_description_content_type="text/markdown",
