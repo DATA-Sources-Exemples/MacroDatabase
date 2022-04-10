@@ -1,0 +1,6 @@
+Methodology/collect_series.py:97: SyntaxWarning: "is not" with a literal. Did you mean "!="?
+  if ".json" in file and file is not "ID.json":
+Traceback (most recent call last):
+  File "Methodology/collect_series.py", line 6, in <module>
+    import fred
+ModuleNotFoundError: No module named 'fred'
