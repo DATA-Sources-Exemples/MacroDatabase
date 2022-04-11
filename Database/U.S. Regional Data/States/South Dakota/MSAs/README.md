@@ -1,5 +1,5 @@
 | Folder               |   Files / Folders |
 |----------------------|-------------------|
-| Rapid City, SD       |               152 |
-| Sioux City, IA-NE-SD |                 1 |
 | Sioux Falls, SD      |               161 |
+| Sioux City, IA-NE-SD |                 1 |
+| Rapid City, SD       |               152 |

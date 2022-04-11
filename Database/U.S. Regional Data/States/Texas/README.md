@@ -322,7 +322,6 @@
 | GROUAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                             | 2004-06-01          | 2022-03-01        |
 | HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                      | 2006-01-07          | 2022-03-26        |
 | HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                      | 2007-01-06          | 2022-03-26        |
-| 27326                     | nan                                                                                                                                  | nan                 | nan               |
 | IHLCHGUSTX                | Job Postings on Indeed in Texas                                                                                                      | 2020-02-01          | 2022-03-25        |
 | IMPMANTX                  | Imports of Goods: Manufactured Commodities for Texas                                                                                 | 2008-01-01          | 2022-02-01        |
 | IMPNONTX                  | Imports of Goods: Non-Manufactured Commodities for Texas                                                                             | 2008-01-01          | 2022-02-01        |

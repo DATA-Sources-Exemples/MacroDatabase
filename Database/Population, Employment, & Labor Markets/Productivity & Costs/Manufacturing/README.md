@@ -30,5 +30,4 @@
 | CEU3000000030 | Average Weekly Earnings of Production and Nonsupervisory Employees, Manufacturing              | 1939-01-01          | 2022-03-01        |
 | CEU3000000034 | Indexes of Aggregate Weekly Hours of Production and Nonsupervisory Employees, Manufacturing    | 1939-01-01          | 2022-03-01        |
 | CEU3000000035 | Indexes of Aggregate Weekly Payrolls of Production and Nonsupervisory Employees, Manufacturing | 1939-01-01          | 2022-03-01        |
-| 32349         | nan                                                                                            | nan                 | nan               |
 | MANEMP        | All Employees, Manufacturing                                                                   | 1939-01-01          | 2022-03-01        |

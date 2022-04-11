@@ -25,7 +25,6 @@
 | BOST625TRADN           | All Employees: Trade, Transportation, and Utilities in Boston-Cambridge-Nashua, MA-NH (NECTA)     | 1990-01-01          | 2022-02-01        |
 | BOST625UR              | Unemployment Rate in Boston-Cambridge-Nashua, MA-NH (NECTA)                                       | 1990-01-01          | 2022-01-01        |
 | BOST625URN             | Unemployment Rate in Boston-Cambridge-Nashua, MA-NH (NECTA)                                       | 1990-01-01          | 2022-01-01        |
-| 32113                  | nan                                                                                               | nan                 | nan               |
 | SMS25716500000000026   | All Employees: Total Nonfarm in Boston-Cambridge-Nashua, MA-NH (NECTA)                            | 1990-04-01          | 2022-02-01        |
 | SMU25716500000000001A  | All Employees: Total Nonfarm in Boston-Cambridge-Nashua, MA-NH (NECTA)                            | 1990-01-01          | 2021-01-01        |
 | SMU25716500500000001   | All Employees: Total Private in Boston-Cambridge-Nashua, MA-NH (NECTA)                            | 1990-01-01          | 2022-02-01        |

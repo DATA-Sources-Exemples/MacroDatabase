@@ -1,7 +1,6 @@
 | id         | title                                                                                                  | observation_start   | observation_end   |
 |------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | HPGDPUKA   | Hodrick-Prescott (HP) Filtered Log of Real Gross Domestic Product at Factor Cost in the United Kingdom | 1270-01-01          | 2016-01-01        |
-| 32997      | nan                                                                                                    | nan                 | nan               |
 | IPIUKM     | Industrial Production Index in the United Kingdom                                                      | 1920-01-01          | 2017-01-01        |
 | IPIUKQ     | Industrial Production Index in the United Kingdom                                                      | 1920-04-01          | 2016-10-01        |
 | NGDPMBUKA  | Nominal Gross Domestic Product at Market Prices, Break Adjusted in the United Kingdom                  | 1700-01-01          | 2016-01-01        |

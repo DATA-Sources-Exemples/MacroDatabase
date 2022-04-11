@@ -1,6 +1,5 @@
 | id               | title                                           | observation_start   | observation_end   |
 |------------------|-------------------------------------------------|---------------------|-------------------|
-| 104              | nan                                             | nan                 | nan               |
 | POPTT2CNA173NUPN | Population for China                            | 1950-01-01          | 2010-01-01        |
 | POPTTLAEA173NUPN | Population for United Arab Emirates             | 1950-01-01          | 2010-01-01        |
 | POPTTLAFA173NUPN | Population for Afghanistan                      | 1950-01-01          | 2010-01-01        |

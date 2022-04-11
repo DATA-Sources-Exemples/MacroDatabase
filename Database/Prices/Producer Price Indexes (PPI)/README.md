@@ -1,6 +1,5 @@
 | id              | title                                                                                                            | observation_start   | observation_end   |
 |-----------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| 31              | nan                                                                                                              | nan                 | nan               |
 | PCUADLVWRADLVWR | Producer Price Index by Industry: Delivery and Warehouse Industries                                              | 2006-12-01          | 2022-02-01        |
 | PCUAINFOAINFO   | Producer Price Index by Industry: Information                                                                    | 2006-12-01          | 2022-02-01        |
 | PCUAMUMAMUM     | Producer Price Index by Industry: Total Mining, Utilities, and Manufacturing Industries                          | 2006-12-01          | 2022-02-01        |

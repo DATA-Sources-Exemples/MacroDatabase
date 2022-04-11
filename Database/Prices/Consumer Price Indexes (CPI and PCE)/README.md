@@ -25,7 +25,6 @@
 | FLEXCPIM158SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-01-01          | 2022-02-01        |
 | FLEXCPIM159SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-12-01          | 2022-02-01        |
 | FLEXCPIM679SFRBATL        | Flexible Price Consumer Price Index                                                                                                            | 1967-03-01          | 2022-02-01        |
-| 9                         | nan                                                                                                                                            | nan                 | nan               |
 | JCXFE                     | Personal Consumption Expenditures: Chain-type Price Index Less Food and Energy                                                                 | 1959-01-01          | 2021-10-01        |
 | JCXFECTH                  | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, High     | 2022-01-01          | 2024-01-01        |
 | JCXFECTL                  | FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, Low      | 2022-01-01          | 2024-01-01        |

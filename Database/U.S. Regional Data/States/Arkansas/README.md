@@ -1,7 +1,7 @@
 | Folder              |   Files / Folders |
 |---------------------|-------------------|
-| MSAs                |                 7 |
-| BEA Economic Areas  |                 1 |
-| Basic Trading Areas |                 1 |
-| Discontinued        |                15 |
 | Counties            |                75 |
+| Discontinued        |                15 |
+| MSAs                |                 7 |
+| Basic Trading Areas |                 1 |
+| BEA Economic Areas  |                 1 |

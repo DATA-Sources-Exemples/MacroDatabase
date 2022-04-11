@@ -138,4 +138,3 @@
 | CUUS0400SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in West                    | 1984-01-01          | 2021-07-01        |
 | CUUS0400SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in West                   | 1994-01-01          | 2021-07-01        |
 | CUUS0400SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in West                    | 1984-01-01          | 2021-07-01        |
-| 32853           | nan                                                                                                 | nan                 | nan               |

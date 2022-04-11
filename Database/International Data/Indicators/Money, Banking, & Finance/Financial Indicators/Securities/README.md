@@ -66,7 +66,6 @@
 | DSAMRIAOAITR   | Amount Outstanding of Domestic Debt Securities for All Issuers, Residence of Issuer in Turkey                                                 | 2004-10-01          | 2021-07-01        |
 | DSAMRIAOAITW   | Amount Outstanding of Domestic Debt Securities for All Issuers, Residence of Issuer in Chinese Taipei                                         | 1987-04-01          | 2021-07-01        |
 | DSAMRIAOAIZA   | Amount Outstanding of Domestic Debt Securities for All Issuers, Residence of Issuer in South Africa                                           | 1946-10-01          | 2021-07-01        |
-| 33493          | nan                                                                                                                                           | nan                 | nan               |
 | IDS1MNIAOAI1C  | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in International organisations | 1966-04-01          | 2021-10-01        |
 | IDS1MNIAOAI1N  | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Offshore Centres            | 1971-10-01          | 2021-10-01        |
 | IDS1MNIAOAI3C  | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Europe                      | 1972-07-01          | 2021-10-01        |

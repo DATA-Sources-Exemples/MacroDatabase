@@ -1,6 +1,5 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| 33504                  | nan                                                                                          | nan                 | nan               |
 | PATENTCBSA121940       | U.S. Granted Utility Patents Originating in Fajardo, PR (MSA)                                | 2000-01-01          | 2015-01-01        |
 | PR7321A475SCEN         | Number of Identified Exporters to Sudan from Puerto Rico                                     | 2012-01-01          | 2016-01-01        |
 | PRABWA052SCEN          | Value of Exports to Aruba from Puerto Rico                                                   | 1992-01-01          | 2017-01-01        |

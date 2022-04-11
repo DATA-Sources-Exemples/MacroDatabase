@@ -789,4 +789,3 @@
 | DDOI07ZAA648NWDB | Liquid Liabilities (Broad Money) for South Africa                              | 1965-01-01          | 2020-01-01        |
 | DDOI07ZMA648NWDB | Liquid Liabilities (Broad Money) for Zambia                                    | 1996-01-01          | 2017-01-01        |
 | DDOI07ZWA648NWDB | Liquid Liabilities (Broad Money) for Zimbabwe                                  | 1979-01-01          | 2017-01-01        |
-| 32950            | nan                                                                            | nan                 | nan               |

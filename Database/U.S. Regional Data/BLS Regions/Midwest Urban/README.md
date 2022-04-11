@@ -138,4 +138,3 @@
 | CUUS0200SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Midwest                    | 1984-01-01          | 2021-07-01        |
 | CUUS0200SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Midwest                   | 1994-01-01          | 2021-07-01        |
 | CUUS0200SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Midwest                    | 1984-01-01          | 2021-07-01        |
-| 32851           | nan                                                                                                    | nan                 | nan               |

@@ -10,4 +10,3 @@
 | CRTINDEXTIER1   | AD&Co US Mortgage High Yield Index: Tier 1                                      | 2015-06-01          | 2022-02-01        |
 | CRTINDEXTIER2   | AD&Co US Mortgage High Yield Index: Tier 2                                      | 2015-06-01          | 2022-02-01        |
 | CRTINDEXTIER3   | AD&Co US Mortgage High Yield Index: Tier 3                                      | 2015-06-01          | 2022-02-01        |
-| 33099           | nan                                                                             | nan                 | nan               |

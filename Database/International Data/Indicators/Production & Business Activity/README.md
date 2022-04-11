@@ -792,4 +792,3 @@
 | BFBF8QNAICS72SAUS   | Business Formations Within Eight Quarters: Accommodation and Food Services in the United States   | 2004-07-01          | 2017-12-01        |
 | BFBF8QNAICS81NSAUS  | Business Formations Within Eight Quarters: Other Services in the United States                    | 2004-07-01          | 2017-12-01        |
 | BFBF8QNAICS81SAUS   | Business Formations Within Eight Quarters: Other Services in the United States                    | 2004-07-01          | 2017-12-01        |
-| 32294               | nan                                                                                               | nan                 | nan               |

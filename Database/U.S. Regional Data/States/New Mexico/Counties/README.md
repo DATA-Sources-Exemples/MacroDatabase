@@ -1,35 +1,35 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Valencia County, NM   |               147 |
-| Torrance County, NM   |                89 |
-| Socorro County, NM    |                90 |
-| Lea County, NM        |               147 |
-| Los Alamos County, NM |                90 |
-| Santa Fe County, NM   |               147 |
-| Dona Ana County, NM   |               146 |
-| Colfax County, NM     |                90 |
-| Cibola County, NM     |                89 |
-| Hidalgo County, NM    |                87 |
-| De Baca County, NM    |                88 |
-| Lincoln County, NM    |                90 |
-| McKinley County, NM   |               145 |
-| Eddy County, NM       |               146 |
-| Roosevelt County, NM  |                89 |
-| Grant County, NM      |                90 |
-| Chaves County, NM     |               147 |
 | Guadalupe County, NM  |                87 |
-| Union County, NM      |                87 |
-| Mora County, NM       |                87 |
-| Sierra County, NM     |                90 |
-| Bernalillo County, NM |               147 |
 | San Miguel County, NM |                89 |
-| Otero County, NM      |               147 |
-| Taos County, NM       |                90 |
-| Catron County, NM     |                87 |
-| Harding County, NM    |                84 |
-| Sandoval County, NM   |               147 |
+| Sierra County, NM     |                90 |
+| De Baca County, NM    |                88 |
+| Grant County, NM      |                90 |
+| Los Alamos County, NM |                90 |
 | Rio Arriba County, NM |                90 |
-| Luna County, NM       |                90 |
+| Santa Fe County, NM   |               147 |
 | Curry County, NM      |               146 |
-| San Juan County, NM   |               147 |
+| Dona Ana County, NM   |               146 |
+| Otero County, NM      |               147 |
+| Luna County, NM       |                90 |
+| Sandoval County, NM   |               147 |
+| Socorro County, NM    |                90 |
 | Quay County, NM       |                87 |
+| Colfax County, NM     |                90 |
+| Union County, NM      |                87 |
+| Bernalillo County, NM |               147 |
+| McKinley County, NM   |               145 |
+| Harding County, NM    |                84 |
+| Hidalgo County, NM    |                87 |
+| Lincoln County, NM    |                90 |
+| Catron County, NM     |                87 |
+| Torrance County, NM   |                89 |
+| San Juan County, NM   |               147 |
+| Eddy County, NM       |               146 |
+| Valencia County, NM   |               147 |
+| Lea County, NM        |               147 |
+| Roosevelt County, NM  |                89 |
+| Taos County, NM       |                90 |
+| Mora County, NM       |                87 |
+| Cibola County, NM     |                89 |
+| Chaves County, NM     |               147 |

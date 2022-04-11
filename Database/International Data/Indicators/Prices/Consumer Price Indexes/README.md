@@ -291,7 +291,6 @@
 | HUNCPIFODQINMEI | Consumer Price Index: Food for Hungary                                                      | 1980-01-01          | 2018-01-01        |
 | HUNCPIHICAINMEI | Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Hungary           | 1995-01-01          | 2021-01-01        |
 | HUNCPIHICMINMEI | Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Hungary           | 1995-01-01          | 2022-01-01        |
-| 32266           | nan                                                                                         | nan                 | nan               |
 | IDNCPIALLAINMEI | Consumer Price Index: All Items for Indonesia                                               | 1968-01-01          | 2021-01-01        |
 | IDNCPIALLMINMEI | Consumer Price Index: All Items for Indonesia                                               | 1968-01-01          | 2022-02-01        |
 | IDNCPIALLQINMEI | Consumer Price Index: All Items for Indonesia                                               | 1968-01-01          | 2021-10-01        |

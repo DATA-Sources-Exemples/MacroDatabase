@@ -138,4 +138,3 @@
 | CUUS0100SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Northeast                    | 1984-01-01          | 2021-07-01        |
 | CUUS0100SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Northeast                   | 1994-01-01          | 2021-07-01        |
 | CUUS0100SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Northeast                    | 1984-01-01          | 2021-07-01        |
-| 32850           | nan                                                                                                      | nan                 | nan               |

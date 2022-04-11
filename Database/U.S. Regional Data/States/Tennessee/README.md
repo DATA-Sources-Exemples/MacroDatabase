@@ -145,7 +145,6 @@
 | HBUSAPPWNSATN             | High-Propensity Business Applications for Tennessee                                                                                                 | 2006-01-07          | 2022-03-26        |
 | HBUSAPPWNSATNYY           | High-Propensity Business Applications for Tennessee                                                                                                 | 2007-01-06          | 2022-03-26        |
 | HSTBNDTNW052N             | Disunion Era Bond Prices for Tennessee                                                                                                              | 1855-02-21          | 1865-10-24        |
-| 193                       | nan                                                                                                                                                 | nan                 | nan               |
 | IHLCHGUSTN                | Job Postings on Indeed in Tennessee                                                                                                                 | 2020-02-01          | 2022-03-25        |
 | IMPMANTN                  | Imports of Goods: Manufactured Commodities for Tennessee                                                                                            | 2008-01-01          | 2022-02-01        |
 | IMPNONTN                  | Imports of Goods: Non-Manufactured Commodities for Tennessee                                                                                        | 2008-01-01          | 2022-02-01        |

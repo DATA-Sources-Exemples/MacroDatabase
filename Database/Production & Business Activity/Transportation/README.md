@@ -18,7 +18,6 @@
 | ENPLANEID11          | Enplanements for U.S. Air Carrier International, Scheduled Passenger Flights                         | 2000-01-01          | 2021-11-01        |
 | FRGEXPUSM649NCIS     | Cass Freight Index: Expenditures                                                                     | 1990-01-01          | 2022-02-01        |
 | FRGSHPUSM649NCIS     | Cass Freight Index: Shipments                                                                        | 1990-01-01          | 2022-02-01        |
-| 33202                | nan                                                                                                  | nan                 | nan               |
 | LOADFACTOR           | Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights             | 2000-01-01          | 2021-11-01        |
 | LOADFACTORD          | Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights                               | 2000-01-01          | 2021-11-01        |
 | LOADFACTORD11        | Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights             | 2000-01-01          | 2021-11-01        |

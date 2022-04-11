@@ -138,4 +138,3 @@
 | CUUS0300SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in South                    | 1984-01-01          | 2021-07-01        |
 | CUUS0300SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in South                   | 1994-01-01          | 2021-07-01        |
 | CUUS0300SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in South                    | 1984-01-01          | 2021-07-01        |
-| 32852           | nan                                                                                                  | nan                 | nan               |

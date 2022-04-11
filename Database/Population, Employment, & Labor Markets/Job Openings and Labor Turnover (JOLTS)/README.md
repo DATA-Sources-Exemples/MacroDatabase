@@ -1,6 +1,5 @@
 | id         | title                            | observation_start   | observation_end   |
 |------------|----------------------------------|---------------------|-------------------|
-| 32241      | nan                              | nan                 | nan               |
 | JTS1000OSL | Other Separations: Total Private | 2000-12-01          | 2022-02-01        |
 | JTS1000OSR | Other Separations: Total Private | 2000-12-01          | 2022-02-01        |
 | JTS9000OSL | Other Separations: Government    | 2000-12-01          | 2022-02-01        |
