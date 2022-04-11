@@ -92,7 +92,7 @@ for country_1 in tqdm(dataset, desc="Collecting country options"):
                         similarities[item_1][name][country_2] = value_2
 
 # Obtain Academic Data JSON files:
-json_structure = json.load(open(f"{structure_str}/json_structure.json", "r"))
+json_structure = json.load(open(f"{structure_str}/database_structure.json", "r"))
 
 academic_data = []
 for path in json_structure:
