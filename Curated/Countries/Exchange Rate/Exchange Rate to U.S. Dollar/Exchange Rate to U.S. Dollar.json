@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "FXRATEUAA618NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Exchange Rate to U.S. Dollar for Ukraine",
+    "observation_start": "1993-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency Units per US Dollar",
+    "units_short": "National Currency Units per US $",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-08-31 14:30:46-05",
+    "popularity": 7,
+    "group_popularity": 7,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: XRAT",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "FXRATESRA618NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Exchange Rate to U.S. Dollar for Suriname",
+    "observation_start": "1950-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency Units per US Dollar",
+    "units_short": "National Currency Units per US $",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-09-17 11:13:43-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: XRAT",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

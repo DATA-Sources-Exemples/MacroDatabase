@@ -1,0 +1,21 @@
+{
+  "Iceland": {
+    "id": "ISLLCEAPR03IXOBM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Labour Compensation: Earnings: Private sector: Monthly for Iceland",
+    "observation_start": "2015-01-01",
+    "observation_end": "2021-11-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index 2015=100",
+    "units_short": "Index 2015=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 11:16:55-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: LCEAPR03 OECD unit ID: IXOB OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Iceland"
+  }
+}

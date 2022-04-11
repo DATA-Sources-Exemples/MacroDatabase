@@ -1,0 +1,21 @@
+{
+  "Japan": {
+    "id": "JPNPISPPR02GYM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Producer Prices Index: Stage of processing: Primary products: Domestic for Japan",
+    "observation_start": "1971-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Growth rate same period previous year",
+    "units_short": "Growth rate same period previous Yr.",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 11:12:51-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: PISPPR02 OECD unit ID: GY OECD country ID: JPNAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Japan"
+  }
+}

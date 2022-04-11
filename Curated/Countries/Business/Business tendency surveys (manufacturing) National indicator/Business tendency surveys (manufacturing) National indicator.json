@@ -1,0 +1,40 @@
+{
+  "Lithuania": {
+    "id": "LTUBSXRLV02STSAM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Business tendency surveys (manufacturing): Export order books or demand: Level: National indicator for Lithuania",
+    "observation_start": "1993-05-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-10 11:10:59-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: BSXRLV02 OECD unit ID: STSA OECD country ID: LTU All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Lithuania"
+  },
+  "Latvia": {
+    "id": "LVABSXRLV02STSAM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Business tendency surveys (manufacturing): Export order books or demand: Level: National indicator for Latvia",
+    "observation_start": "1993-04-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-10 11:08:06-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: BSXRLV02 OECD unit ID: STSA OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Latvia"
+  }
+}

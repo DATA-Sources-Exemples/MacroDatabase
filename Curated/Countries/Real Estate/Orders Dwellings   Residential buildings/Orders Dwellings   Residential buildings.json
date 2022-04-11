@@ -1,0 +1,44 @@
+{
+  "Growth rate previous period_Monthly_Seasonally Adjusted": {
+    "Germany": {
+      "id": "DEUODCNPI03GPSAM",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Orders : Construction : Permits issued : Dwellings / Residential buildings for Germany",
+      "observation_start": "1994-02-01",
+      "observation_end": "2021-11-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Growth rate previous period",
+      "units_short": "Growth rate previous period",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-02-15 11:03:15-06",
+      "popularity": 2,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: DEU.ODCNPI03.GPSA.M OECD unit ID: OECD country ID: ODCNPI03 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Germany"
+    }
+  },
+  "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
+    "Germany": {
+      "id": "DEUODCNPI03GYSAM",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Orders : Construction : Permits issued : Dwellings / Residential buildings for Germany",
+      "observation_start": "1995-01-01",
+      "observation_end": "2021-11-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Growth rate same period previous year",
+      "units_short": "Growth rate same period previous Yr.",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-02-15 11:03:15-06",
+      "popularity": 2,
+      "group_popularity": 2,
+      "notes": "OECD descriptor ID: DEU.ODCNPI03.GYSA.M OECD unit ID: OECD country ID: ODCNPI03 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Germany"
+    }
+  }
+}

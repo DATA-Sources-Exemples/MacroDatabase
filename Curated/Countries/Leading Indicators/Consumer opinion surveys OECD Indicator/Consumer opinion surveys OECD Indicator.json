@@ -1,0 +1,40 @@
+{
+  "Latvia": {
+    "id": "LVACSCICP03IXNSAM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Consumer opinion surveys: Confidence indicators: Composite indicators: OECD Indicator for Latvia",
+    "observation_start": "2001-05-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Normalised, seasonally adjusted (normal = 100)",
+    "units_short": "Normalised, seasonally adjusted (normal = 100)",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-10 11:08:46-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: CSCICP03 OECD unit ID: IXNSA OECD country ID: LVA All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Latvia"
+  },
+  "Israel": {
+    "id": "ISRCSCICP03IXNSAM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Consumer opinion surveys: Confidence indicators: Composite indicators: OECD Indicator for Israel",
+    "observation_start": "2011-03-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Normalised, seasonally adjusted (normal = 100)",
+    "units_short": "Normalised, seasonally adjusted (normal = 100)",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-10 11:17:35-06",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "OECD descriptor ID: CSCICP03 OECD unit ID: IXNSA OECD country ID: ISR All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Israel"
+  }
+}

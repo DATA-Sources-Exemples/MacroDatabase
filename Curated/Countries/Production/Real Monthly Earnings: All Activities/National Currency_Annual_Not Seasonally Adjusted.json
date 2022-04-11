@@ -1,0 +1,21 @@
+{
+  "Brazil": {
+    "id": "LCEATT04BRA189N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Real Monthly Earnings: All Activities for Brazil",
+    "observation_start": "2013-01-01",
+    "observation_end": "2021-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency",
+    "units_short": "National Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 10:54:12-06",
+    "popularity": 1,
+    "group_popularity": 6,
+    "notes": "OECD descriptor ID: LCEATT04\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Brazil"
+  }
+}

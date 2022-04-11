@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SPPOPGROWUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Population Growth for Ukraine",
+    "observation_start": "1961-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent Change at Annual Rate",
+    "units_short": "% Chg. at Annual Rate",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-07-01 11:21:56-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "Annual population growth rate for year t is the exponential rate of growth of midyear population from year t-1 to t, expressed as a percentage. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of the country of origin.\n\nSource Indicator: SP.POP.GROW",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SEENRPRIMFMZSUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Ratio of Female to Male Primary School Enrollment for Ukraine",
+    "observation_start": "1993-01-01",
+    "observation_end": "2014-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Ratio",
+    "units_short": "Ratio",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2020-10-08 10:37:00-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Ratio of girls to boys enrolled at primary level in public and private schools.\n\nSource Indicator: SE.ENR.PRIM.FM.ZS",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

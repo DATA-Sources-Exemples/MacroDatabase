@@ -1,0 +1,21 @@
+{
+  "Japan": {
+    "id": "CCEUSP01JPA651N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Euro to National Currency Spot Exchange Rate for Japan",
+    "observation_start": "1999-01-01",
+    "observation_end": "2021-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Euro to 100 National Currency Spot Exchange Rate for Japan",
+    "units_short": "Euro to 100 National Currency Spot Exchange Rate for Japan",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-01-18 12:31:49-06",
+    "popularity": 1,
+    "group_popularity": 5,
+    "notes": "OECD descriptor ID: CCEUSP01\nOECD unit ID: ST\nOECD country ID: JPN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Japan"
+  }
+}

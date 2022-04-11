@@ -1,0 +1,40 @@
+{
+  "Russian Federation": {
+    "id": "NAEXKP01RUQ652S",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for the Russian Federation",
+    "observation_start": "2003-01-01",
+    "observation_end": "2021-07-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Chained 2000 National Currency Units",
+    "units_short": "Chn. 2000 National Currency Units",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-01-18 11:25:02-06",
+    "popularity": 37,
+    "group_popularity": 42,
+    "notes": "OECD descriptor ID: NAEXKP01\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Russian Federation"
+  },
+  "Brazil": {
+    "id": "NAEXKP01BRQ661S",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for Brazil",
+    "observation_start": "1996-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index 2015=100",
+    "units_short": "Index 2015=100",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-10 10:38:07-06",
+    "popularity": 10,
+    "group_popularity": 40,
+    "notes": "OECD descriptor ID: NAEXKP01\nOECD unit ID: IXOBSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Brazil"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Canada": {
+    "id": "COCANZ311",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Import Price Index by Origin (NAICS): Food Manufacturing for Canada",
+    "observation_start": "2012-06-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Jun 2012=100",
+    "units_short": "Index Jun 2012=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-16 07:38:47-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/",
+    "path": "../Database/International Data/Countries/Canada"
+  }
+}

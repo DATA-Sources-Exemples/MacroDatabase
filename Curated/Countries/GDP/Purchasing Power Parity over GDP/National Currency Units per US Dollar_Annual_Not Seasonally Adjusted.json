@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "PPPTTLUAA618NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Purchasing Power Parity over GDP for Ukraine",
+    "observation_start": "1993-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency Units per US Dollar",
+    "units_short": "National Currency Units per US $",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-08-31 14:23:10-05",
+    "popularity": 13,
+    "group_popularity": 13,
+    "notes": "Note: Over GDP, 1 US dollar (US$) = 1 international dollar (I$). Purchasing power parity is the number of currency units required to buy goods equivalent to what can be bought with one unit of the base country. We calculated our PPP over GDP. That is, our PPP is the national currency value of GDP divided by the real value of GDP in international dollars. International dollar has the same purchasing power over total U.S. GDP as the U.S. dollar in a given base year.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: ppp",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "PPPTTLSRA618NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Purchasing Power Parity over GDP for Suriname",
+    "observation_start": "1970-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency Units per US Dollar",
+    "units_short": "National Currency Units per US $",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-08-31 14:27:54-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Note: Over GDP, 1 US dollar (US$) = 1 international dollar (I$). Purchasing power parity is the number of currency units required to buy goods equivalent to what can be bought with one unit of the base country. We calculated our PPP over GDP. That is, our PPP is the national currency value of GDP divided by the real value of GDP in international dollars. International dollar has the same purchasing power over total U.S. GDP as the U.S. dollar in a given base year.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: ppp",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

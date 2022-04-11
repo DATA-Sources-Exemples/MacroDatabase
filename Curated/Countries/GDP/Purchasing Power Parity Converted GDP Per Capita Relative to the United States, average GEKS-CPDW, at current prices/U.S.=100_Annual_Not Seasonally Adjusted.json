@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "PGD2USUAA621NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices for Ukraine",
+    "observation_start": "1993-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "U.S.=100",
+    "units_short": "U.S.=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-09-17 10:12:26-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "This is the current per capita GDP expressed relative to the United State (US=100) in each year.\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: y2",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "PGD2USSRA621NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices for Suriname",
+    "observation_start": "1970-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "U.S.=100",
+    "units_short": "U.S.=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-09-17 11:01:23-05",
+    "popularity": 0,
+    "group_popularity": 0,
+    "notes": "This is the current per capita GDP expressed relative to the United State (US=100) in each year.\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: y2",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

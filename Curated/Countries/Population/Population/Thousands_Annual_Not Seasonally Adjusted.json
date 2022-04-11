@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "POPTTLUAA173NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Population for Ukraine",
+    "observation_start": "1950-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Thousands",
+    "units_short": "Thous.",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-08-31 14:31:54-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "POPTTLSRA173NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Population for Suriname",
+    "observation_start": "1950-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Thousands",
+    "units_short": "Thous.",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-08-31 14:48:21-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: POP",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

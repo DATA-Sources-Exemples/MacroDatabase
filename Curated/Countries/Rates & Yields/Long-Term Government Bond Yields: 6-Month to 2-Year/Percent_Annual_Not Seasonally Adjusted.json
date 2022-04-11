@@ -1,0 +1,21 @@
+{
+  "Turkey": {
+    "id": "IRLTST01TRA156N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Long-Term Government Bond Yields: 6-Month to 2-Year for Turkey",
+    "observation_start": "1992-01-01",
+    "observation_end": "1992-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-02-28 11:37:43-06",
+    "popularity": 3,
+    "group_popularity": 21,
+    "notes": "OECD descriptor ID: IRLTST01\nOECD unit ID: ST\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Turkey"
+  }
+}

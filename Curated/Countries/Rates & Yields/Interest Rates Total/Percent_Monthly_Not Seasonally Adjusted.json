@@ -1,0 +1,21 @@
+{
+  "Iceland": {
+    "id": "ISLIR3TTS01STM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Interest Rates: 3-month or 90-day rates and yields: Treasury securities: Total for Iceland",
+    "observation_start": "1998-01-01",
+    "observation_end": "2022-01-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 10:45:26-06",
+    "popularity": 3,
+    "group_popularity": 4,
+    "notes": "OECD descriptor ID: IR3TTS01 OECD unit ID: ST OECD country ID: ISL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Iceland"
+  }
+}

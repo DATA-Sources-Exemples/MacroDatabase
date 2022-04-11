@@ -1,0 +1,40 @@
+{
+  "Samoa": {
+    "id": "WSMFCAOFMSNUM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Use of Financial Services: Number of Deposit Accounts for Small and Medium Enterprises at Other Financial Intermediaries for Samoa",
+    "observation_start": "2011-01-01",
+    "observation_end": "2017-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number",
+    "units_short": "Number",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-12-26 13:03:05-06",
+    "popularity": 0,
+    "group_popularity": 0,
+    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "../Database/International Data/Countries/Samoa"
+  },
+  "Cameroon": {
+    "id": "CMRFCAOFMSNUM",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Use of Financial Services: Number of Deposit Accounts for Small and Medium Enterprises at Other Financial Intermediaries for Cameroon",
+    "observation_start": "2014-01-01",
+    "observation_end": "2014-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number",
+    "units_short": "Number",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2015-12-15 16:00:17-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "../Database/International Data/Countries/Cameroon"
+  }
+}

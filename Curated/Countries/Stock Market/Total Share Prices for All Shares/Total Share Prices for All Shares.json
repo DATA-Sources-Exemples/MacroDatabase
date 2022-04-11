@@ -1,0 +1,128 @@
+{
+  "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SPASTT01BRA657N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Share Prices for All Shares for Brazil",
+      "observation_start": "1989-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Growth Rate Previous Period",
+      "units_short": "Growth Rate Previous Period",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-18 12:33:25-06",
+      "popularity": 1,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SPASTT01BRA661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Share Prices for All Shares for Brazil",
+      "observation_start": "1980-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-18 12:33:25-06",
+      "popularity": 1,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Growth Rate Previous Period_Monthly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SPASTT01BRM657N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Share Prices for All Shares for Brazil",
+      "observation_start": "1988-11-01",
+      "observation_end": "2022-02-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Growth Rate Previous Period",
+      "units_short": "Growth Rate Previous Period",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 10:50:24-06",
+      "popularity": 3,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Monthly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SPASTT01BRM661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Share Prices for All Shares for Brazil",
+      "observation_start": "1980-01-01",
+      "observation_end": "2022-02-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 10:50:12-06",
+      "popularity": 9,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Growth Rate Previous Period_Quarterly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SPASTT01BRQ657N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Share Prices for All Shares for Brazil",
+      "observation_start": "1989-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Growth Rate Previous Period",
+      "units_short": "Growth Rate Previous Period",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-18 11:55:33-06",
+      "popularity": 1,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SPASTT01BRQ661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Total Share Prices for All Shares for Brazil",
+      "observation_start": "1980-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-18 11:32:13-06",
+      "popularity": 3,
+      "group_popularity": 12,
+      "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  }
+}

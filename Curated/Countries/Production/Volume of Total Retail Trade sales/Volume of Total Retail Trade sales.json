@@ -1,0 +1,128 @@
+{
+  "Growth Rate Previous Period_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SLRTTO01BRA657S",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Volume of Total Retail Trade sales for Brazil",
+      "observation_start": "2001-01-01",
+      "observation_end": "2020-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Growth Rate Previous Period",
+      "units_short": "Growth Rate Previous Period",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2021-04-16 12:39:56-05",
+      "popularity": 1,
+      "group_popularity": 14,
+      "notes": "OECD descriptor ID: SLRTTO01\nOECD unit ID: GPSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Growth Rate Same Period Previous Year_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SLRTTO01BRA659S",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Volume of Total Retail Trade sales for Brazil",
+      "observation_start": "2001-01-01",
+      "observation_end": "2020-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Growth Rate Same Period Previous Year",
+      "units_short": "Growth Rate Same Period Previous Yr.",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2021-04-16 12:39:56-05",
+      "popularity": 1,
+      "group_popularity": 14,
+      "notes": "OECD descriptor ID: SLRTTO01\nOECD unit ID: GYSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SLRTTO01BRA661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Volume of Total Retail Trade sales for Brazil",
+      "observation_start": "2000-01-01",
+      "observation_end": "2020-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2021-04-16 12:39:56-05",
+      "popularity": 1,
+      "group_popularity": 14,
+      "notes": "OECD descriptor ID: SLRTTO01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Growth Rate Previous Period_Quarterly_Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SLRTTO01BRQ657S",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Volume of Total Retail Trade sales for Brazil",
+      "observation_start": "2000-04-01",
+      "observation_end": "2021-07-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Growth Rate Previous Period",
+      "units_short": "Growth Rate Previous Period",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-02-15 10:39:11-06",
+      "popularity": 1,
+      "group_popularity": 14,
+      "notes": "OECD descriptor ID: SLRTTO01\nOECD unit ID: GPSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Growth Rate Same Period Previous Year_Quarterly_Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SLRTTO01BRQ659S",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Volume of Total Retail Trade sales for Brazil",
+      "observation_start": "2001-01-01",
+      "observation_end": "2021-07-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Growth Rate Same Period Previous Year",
+      "units_short": "Growth Rate Same Period Previous Yr.",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-02-15 10:21:04-06",
+      "popularity": 13,
+      "group_popularity": 14,
+      "notes": "OECD descriptor ID: SLRTTO01\nOECD unit ID: GYSA\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "SLRTTO01BRQ661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Volume of Total Retail Trade sales for Brazil",
+      "observation_start": "2000-01-01",
+      "observation_end": "2021-07-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-18 11:32:07-06",
+      "popularity": 2,
+      "group_popularity": 14,
+      "notes": "OECD descriptor ID: SLRTTO01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Canada": {
+    "id": "COCANZ3221",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Import Price Index by Origin (NAICS): Pulp, Paper, and Paperboard Mills for Canada",
+    "observation_start": "2019-12-01",
+    "observation_end": "2021-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Index Dec 2019=100",
+    "units_short": "Index Dec 2019=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-01-14 07:37:31-06",
+    "popularity": 3,
+    "group_popularity": 3,
+    "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/",
+    "path": "../Database/International Data/Countries/Canada"
+  }
+}

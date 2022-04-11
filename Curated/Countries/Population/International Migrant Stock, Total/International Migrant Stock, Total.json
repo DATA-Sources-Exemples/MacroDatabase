@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SMPOPTOTLUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "International Migrant Stock, Total for Ukraine",
+    "observation_start": "1990-01-01",
+    "observation_end": "2015-01-01",
+    "frequency": "5 Year",
+    "frequency_short": "5Y",
+    "units": "Persons",
+    "units_short": "Persons",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2019-09-23 13:35:25-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "International migrant stock is the number of people born in a country other than that in which they live, including refugees.\n\nRefugees are people who are recognized as refugees under the 1951 Convention Relating to the Status of Refugees or its 1967 Protocol, the 1969 Organization of African Unity Convention Governing the Specific Aspects of Refugee Problems in Africa, people recognized as refugees in accordance with the UNHCR statute, people granted refugee-like humanitarian status, and people provided temporary protection. Asylum seekers - people who have applied for asylum or refugee status and who have not yet received a decision or who are registered as asylum seekers - are excluded.\n\nWorld Bank Source: United Nations Population Division, Trends in Total Migrant Stock\n\nSource Indicator: SM.POP.TOTL",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

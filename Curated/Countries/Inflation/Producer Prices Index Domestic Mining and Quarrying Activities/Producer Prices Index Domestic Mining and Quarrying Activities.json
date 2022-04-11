@@ -1,0 +1,65 @@
+{
+  "Index 2015=100_Annual_Not Seasonally Adjusted": {
+    "Russian Federation": {
+      "id": "PIEAMI02RUA661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Producer Prices Index: Economic Activities: Domestic Mining and Quarrying Activities for the Russian Federation",
+      "observation_start": "1998-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 11:39:38-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: PIEAMI02\nOECD unit ID: IXOB\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Russian Federation"
+    }
+  },
+  "Index 2015=100_Monthly_Not Seasonally Adjusted": {
+    "Russian Federation": {
+      "id": "PIEAMI02RUM661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Producer Prices Index: Economic Activities: Domestic Mining and Quarrying Activities for the Russian Federation",
+      "observation_start": "1998-01-01",
+      "observation_end": "2021-12-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 10:41:25-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: PIEAMI02\nOECD unit ID: IXOB\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Russian Federation"
+    }
+  },
+  "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
+    "Russian Federation": {
+      "id": "PIEAMI02RUQ661N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Producer Prices Index: Economic Activities: Domestic Mining and Quarrying Activities for the Russian Federation",
+      "observation_start": "1998-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 12:07:04-06",
+      "popularity": 0,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: PIEAMI02\nOECD unit ID: IXOB\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Russian Federation"
+    }
+  }
+}

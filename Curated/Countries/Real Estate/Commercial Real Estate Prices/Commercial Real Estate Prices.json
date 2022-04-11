@@ -1,0 +1,21 @@
+{
+  "Brazil": {
+    "id": "COMREPBRQ159N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Commercial Real Estate Prices for Brazil",
+    "observation_start": "2005-01-01",
+    "observation_end": "2021-07-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent Change from Year Ago",
+    "units_short": "% Chg. from Yr. Ago",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-02-01 07:02:25-06",
+    "popularity": 5,
+    "group_popularity": 5,
+    "notes": "This series covers commercial real estate price indices. Currently, there is limited international experience in constructing representative real estate price indices as real estate markets are heterogeneous, both within and across countries, and illiquid. A rapid increase in real estate prices, followed by a sharp economic downturn, can have a detrimental effect on financial sector soundness by affecting credit quality and the value of collateral.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "../Database/International Data/Countries/Brazil"
+  }
+}

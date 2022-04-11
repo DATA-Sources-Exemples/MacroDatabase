@@ -1,0 +1,21 @@
+{
+  "Russian Federation": {
+    "id": "MYAGM0RUM189N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "M0 for Russian Federation",
+    "observation_start": "2000-12-01",
+    "observation_end": "2017-05-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "National Currency",
+    "units_short": "National Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2017-08-01 14:41:32-05",
+    "popularity": 7,
+    "group_popularity": 7,
+    "notes": "M0 comprises currency in circulation outside depository corporations.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "../Database/International Data/Countries/Russian Federation"
+  }
+}

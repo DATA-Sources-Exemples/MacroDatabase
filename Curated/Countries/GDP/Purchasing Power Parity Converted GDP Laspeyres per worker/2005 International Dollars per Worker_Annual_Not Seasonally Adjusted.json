@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "RGDPLWUAA627NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Purchasing Power Parity Converted GDP Laspeyres per worker for Ukraine",
+    "observation_start": "1993-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "2005 International Dollars per Worker",
+    "units_short": "2005 International $ per Worker",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-09-17 10:49:03-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "Worker for this variable is usually a census definition based of economically active population.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: rgdpl2wok",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "RGDPLWSRA627NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Purchasing Power Parity Converted GDP Laspeyres per worker for Suriname",
+    "observation_start": "1970-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "2005 International Dollars per Worker",
+    "units_short": "2005 International $ per Worker",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-08-31 14:29:52-05",
+    "popularity": 0,
+    "group_popularity": 0,
+    "notes": "Worker for this variable is usually a census definition based of economically active population.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: rgdpl2wok",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

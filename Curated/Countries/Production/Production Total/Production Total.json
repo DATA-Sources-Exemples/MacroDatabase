@@ -1,0 +1,44 @@
+{
+  "Index 2015=100_Monthly_Not Seasonally Adjusted": {
+    "Ireland": {
+      "id": "IRLPRENEL01IXOBM",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Production: Energy: Electricity: Total for Ireland",
+      "observation_start": "1980-01-01",
+      "observation_end": "2021-09-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-15 10:55:28-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: PRENEL01 OECD unit ID: IXOB OECD country ID: IRL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Ireland"
+    }
+  },
+  "Index 2015=100_Monthly_Seasonally Adjusted": {
+    "Ireland": {
+      "id": "IRLPRENEL01IXOBSAM",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Production: Energy: Electricity: Total for Ireland",
+      "observation_start": "1980-01-01",
+      "observation_end": "2021-09-01",
+      "frequency": "Monthly",
+      "frequency_short": "M",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-02-15 10:55:28-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: PRENEL01 OECD unit ID: IXOBSA OECD country ID: IRL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Ireland"
+    }
+  }
+}

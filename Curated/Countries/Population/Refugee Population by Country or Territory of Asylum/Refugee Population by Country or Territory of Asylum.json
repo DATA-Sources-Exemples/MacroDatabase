@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SMPOPREFGUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Refugee Population by Country or Territory of Asylum for Ukraine",
+    "observation_start": "1994-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Persons",
+    "units_short": "Persons",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-07-01 11:24:44-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Refugees are people who are recognized as refugees under the 1951 Convention Relating to the Status of Refugees or its 1967 Protocol, the 1969 Organization of African Unity Convention Governing the Specific Aspects of Refugee Problems in Africa, people recognized as refugees in accordance with the UNHCR statute, people granted refugee-like humanitarian status, and people provided temporary protection. Asylum seekers - people who have applied for asylum or refugee status and who have not yet received a decision or who are registered as asylum seekers - are excluded. Palestinian refugees are people (and their descendants) whose residence was Palestine between June 1946 and May 1948 and who lost their homes and means of livelihood as a result of the 1948 Arab-Israeli conflict. Country of asylum is the country where an asylum claim was filed and granted.\n\nWorld Bank Source: Data before 2018 are from United Nations High Commissioner for Refugees (UNHCR), Statistics Database, Statistical Yearbook and data files, complemented by statistics on Palestinian refugees under the mandate of the UNRWA as published on its website. Data from UNHCR are available online (www.unhcr.org/en-us/figures-at-a-glance.html). The data for 2018 are from UNHCR Global Trends report 2018 and World Bank's estimates (for Palestinian refugees in the UNRWA areas of operation).\n\nSource Indicator: SM.POP.REFG",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

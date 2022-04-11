@@ -1,0 +1,21 @@
+{
+  "Brazil": {
+    "id": "CPGDFD01BRQ661N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Consumer Price Index: Total Food Including Restaurants for Brazil",
+    "observation_start": "1980-10-01",
+    "observation_end": "2018-01-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index 2010=100",
+    "units_short": "Index 2010=100",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-04-20 10:34:42-05",
+    "popularity": 2,
+    "group_popularity": 6,
+    "notes": "OECD descriptor ID: CPGDFD01\nOECD unit ID: IXOB\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Brazil"
+  }
+}

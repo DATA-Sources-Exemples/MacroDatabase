@@ -1,0 +1,38 @@
+{
+  "Great Britain": {
+    "id": "NSDGDPSAXDCGBQ",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Nominal Statistical Discrepancy for Great Britain",
+    "observation_start": "1955-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Domestic Currency",
+    "units_short": "Domestic Currency",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-03-07 07:10:06-06",
+    "popularity": 0,
+    "group_popularity": 1,
+    "path": "../Database/International Data/Countries/Great Britain"
+  },
+  "Argentina": {
+    "id": "NSDGDPXDCARA",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Nominal Statistical Discrepancy for Argentina",
+    "observation_start": "2016-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Domestic Currency",
+    "units_short": "Domestic Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-10-12 09:26:01-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "../Database/International Data/Countries/Argentina"
+  }
+}

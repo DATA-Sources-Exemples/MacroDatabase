@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "PATENT4NUAUTILITY",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "U.S. Granted Patents: Utility Patents Originating in Ukraine",
+    "observation_start": "1994-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number",
+    "units_short": "Number",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-05-21 13:02:43-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Patent origin is determined by the residence of the first-named inventor.\n\nUtility patents are patents for invention.\n\nSee PTMT Products and Services Brochure (https://www.uspto.gov/web/offices/ac/ido/oeip/taf/brochure.htm) and Types of patent applications and proceedings (https://www.uspto.gov/patents/basics/types-patent-applications) for more information.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

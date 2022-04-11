@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "CGPPPGUAA156NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices for Ukraine",
+    "observation_start": "1993-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-09-17 10:25:34-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: cg",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "CGPPPGSRA156NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices for Suriname",
+    "observation_start": "1970-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2012-09-17 11:11:06-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: cg",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

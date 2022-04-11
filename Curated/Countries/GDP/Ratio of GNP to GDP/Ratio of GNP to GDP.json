@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "GNPGDPUAA156NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Ratio of GNP to GDP for Ukraine",
+    "observation_start": "1960-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2013-04-03 11:07:01-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: cgnp",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Suriname": {
+    "id": "GNPGDPSRA156NUPN",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Ratio of GNP to GDP for Suriname",
+    "observation_start": "1960-01-01",
+    "observation_end": "2010-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2013-04-03 11:07:20-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: cgnp",
+    "path": "../Database/International Data/Countries/Suriname"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "ITNETSECRP6UKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Secure Internet Servers for Ukraine",
+    "observation_start": "2010-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number per 1 Million People",
+    "units_short": "Number per 1 Mil. People",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-07-01 11:21:46-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "Secure servers are servers using encryption technology in Internet transactions.\n\nSource Indicator: IT.NET.SECR.P411",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "Persons_Annual_Not Seasonally Adjusted": {
+    "New Zealand": {
+      "id": "LFWATTMANZA647S",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
+      "observation_start": "1986-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Persons",
+      "units_short": "Persons",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-15 11:28:49-06",
+      "popularity": 0,
+      "group_popularity": 0,
+      "notes": "OECD descriptor ID: LFWATTMA\nOECD unit ID: STSA\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/New Zealand"
+    }
+  },
+  "Persons_Quarterly_Not Seasonally Adjusted": {
+    "New Zealand": {
+      "id": "LFWATTMANZQ647N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
+      "observation_start": "1986-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Persons",
+      "units_short": "Persons",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-15 11:21:49-06",
+      "popularity": 0,
+      "group_popularity": 0,
+      "notes": "OECD descriptor ID: LFWATTMA\nOECD unit ID: ST\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/New Zealand"
+    }
+  },
+  "Persons_Quarterly_Seasonally Adjusted": {
+    "New Zealand": {
+      "id": "LFWATTMANZQ647S",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
+      "observation_start": "1986-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Persons",
+      "units_short": "Persons",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "seasonal_adjustment_short": "SA",
+      "last_updated": "2022-02-15 11:21:48-06",
+      "popularity": 0,
+      "group_popularity": 0,
+      "notes": "OECD descriptor ID: LFWATTMA\nOECD unit ID: STSA\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/New Zealand"
+    }
+  }
+}

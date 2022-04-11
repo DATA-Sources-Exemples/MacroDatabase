@@ -1,0 +1,40 @@
+{
+  "Ukraine": {
+    "id": "UKRFCLOFMFHXDC",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Use of Financial Services, Liabilities: Outstanding Deposits by Households at Non-deposit Taking Microfinance Institutions (MFIs) for Ukraine",
+    "observation_start": "2004-01-01",
+    "observation_end": "2017-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency",
+    "units_short": "National Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-06-26 15:25:08-05",
+    "popularity": 0,
+    "group_popularity": 0,
+    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  },
+  "Myanmar": {
+    "id": "MMRFCLOFMFHXDC",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Use of Financial Services, Liabilities: Outstanding Deposits by Households at Non-deposit Taking Microfinance Institutions (MFIs) for Myanmar",
+    "observation_start": "2012-01-01",
+    "observation_end": "2017-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "National Currency",
+    "units_short": "National Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2018-12-26 13:02:12-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "../Database/International Data/Countries/Myanmar"
+  }
+}

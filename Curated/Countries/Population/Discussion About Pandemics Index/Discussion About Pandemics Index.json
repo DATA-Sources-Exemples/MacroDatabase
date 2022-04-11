@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "WPDIUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Discussion About Pandemics Index for Ukraine",
+    "observation_start": "1996-01-01",
+    "observation_end": "2021-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index",
+    "units_short": "Index",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-02-22 09:49:51-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "The index of discussion about pandemics is constructed by counting the number of times a word related to pandemics is mentioned in the Economist Intelligence Unit country reports. Specifically, the index is the percent of the words related to pandemic episodes in EIU country reports, multiplied by 1,000. A higher number means higher discussion about pandemics and vice versa.\n\nPlease see Hites Ahir, Nicholas Bloom and Davide Furceri (2018), 'The World Uncertainty Index' (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3275033) for additional explanation.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

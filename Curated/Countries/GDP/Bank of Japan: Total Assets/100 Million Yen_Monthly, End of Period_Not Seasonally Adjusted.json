@@ -1,0 +1,21 @@
+{
+  "Japan": {
+    "id": "JPNASSETS",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Bank of Japan: Total Assets for Japan",
+    "observation_start": "1998-04-01",
+    "observation_end": "2022-02-01",
+    "frequency": "Monthly, End of Period",
+    "frequency_short": "M",
+    "units": "100 Million Yen",
+    "units_short": "100 Mil. Yen",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-02 20:11:02-06",
+    "popularity": 55,
+    "group_popularity": 55,
+    "notes": "Copyright, 2016, Bank of Japan.",
+    "path": "../Database/International Data/Countries/Japan"
+  }
+}

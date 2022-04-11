@@ -1,0 +1,42 @@
+{
+  "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
+    "Argentina": {
+      "id": "NFIDRNSAXDCARQ",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Real Gross Fixed Capital Formation, Dwellings for Argentina",
+      "observation_start": "2004-01-01",
+      "observation_end": "2021-07-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Domestic Currency",
+      "units_short": "Domestic Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-01-10 07:09:42-06",
+      "popularity": 0,
+      "group_popularity": 0,
+      "path": "../Database/International Data/Countries/Argentina"
+    }
+  },
+  "Domestic Currency_Annual_Not Seasonally Adjusted": {
+    "Argentina": {
+      "id": "NFIDRXDCARA",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Real Gross Fixed Capital Formation, Dwellings for Argentina",
+      "observation_start": "2004-01-01",
+      "observation_end": "2020-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Domestic Currency",
+      "units_short": "Domestic Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2021-07-12 10:00:38-05",
+      "popularity": 0,
+      "group_popularity": 0,
+      "path": "../Database/International Data/Countries/Argentina"
+    }
+  }
+}

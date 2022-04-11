@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SPPOPDPNDOLUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Age Dependency Ratio: Older Dependents to Working-Age Population for Ukraine",
+    "observation_start": "1960-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Percent of Working-Age Population",
+    "units_short": "% of Working-Age Population",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-07-01 11:22:30-05",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "Age dependency ratio, old, is the ratio of older dependents (people older than 64) to the working-age population (those ages 15-64). Data are shown as the proportion of dependents per 100 working-age population.\n\nSource Indicator: SP.POP.DPND.OL",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

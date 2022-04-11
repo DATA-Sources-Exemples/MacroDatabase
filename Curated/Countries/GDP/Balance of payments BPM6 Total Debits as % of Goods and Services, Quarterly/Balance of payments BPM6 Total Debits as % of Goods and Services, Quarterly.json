@@ -1,0 +1,21 @@
+{
+  "Czech Republic": {
+    "id": "CZEB6DBSE03STSAQ",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Balance of payments BPM6: Current account Debits: Services: Total Debits as % of Goods and Services, Quarterly for the Czech Republic",
+    "observation_start": "1993-01-01",
+    "observation_end": "2021-07-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-01-18 12:50:43-06",
+    "popularity": 0,
+    "group_popularity": 0,
+    "notes": "OECD descriptor ID: B6DBSE03 OECD unit ID: STSA OECD country ID: CZE All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Czech Republic"
+  }
+}

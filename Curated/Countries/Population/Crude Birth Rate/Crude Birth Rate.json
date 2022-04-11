@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "SPDYNCBRTINUKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Crude Birth Rate for Ukraine",
+    "observation_start": "1960-01-01",
+    "observation_end": "2019-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Births per 1,000 People",
+    "units_short": "Births per 1,000 People",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-04-27 10:45:47-05",
+    "popularity": 7,
+    "group_popularity": 7,
+    "notes": "Crude birth rate indicates the number of live births occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration.\n\nSource Indicator: SP.DYN.CBRT.IN",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

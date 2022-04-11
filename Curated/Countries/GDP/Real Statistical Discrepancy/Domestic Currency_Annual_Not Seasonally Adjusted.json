@@ -1,0 +1,20 @@
+{
+  "Argentina": {
+    "id": "NSDGDPRXDCARA",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Real Statistical Discrepancy for Argentina",
+    "observation_start": "2016-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Domestic Currency",
+    "units_short": "Domestic Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-07-20 13:27:12-05",
+    "popularity": 0,
+    "group_popularity": 0,
+    "path": "../Database/International Data/Countries/Argentina"
+  }
+}

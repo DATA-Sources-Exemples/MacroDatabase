@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "ITCELSETSP2UKR",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Mobile Cellular Subscriptions in Ukraine",
+    "observation_start": "1960-01-01",
+    "observation_end": "2020-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Number per 100 People",
+    "units_short": "Number per 100 People",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-09-22 10:33:03-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service using cellular technology, which provide access to the public switched telephone network. Post-paid and prepaid subscriptions are included.\n\nSource Indicator: IT.CEL.SETS.P2",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

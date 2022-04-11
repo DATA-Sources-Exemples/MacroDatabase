@@ -1,0 +1,20 @@
+{
+  "Saudi Arabia": {
+    "id": "NMGNSAXDCSAQ",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Nominal Imports of Goods for Saudi Arabia",
+    "observation_start": "2005-01-01",
+    "observation_end": "2021-07-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Domestic Currency",
+    "units_short": "Domestic Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-28 07:09:42-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "../Database/International Data/Countries/Saudi Arabia"
+  }
+}

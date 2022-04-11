@@ -1,0 +1,21 @@
+{
+  "Ukraine": {
+    "id": "PLKCPPUAA670NRUG",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Price Level of the Capital Stock for Ukraine",
+    "observation_start": "1994-01-01",
+    "observation_end": "2019-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Price Level of USA Output-side GDP in 2017=1",
+    "units_short": "Price Level of USA Output-side GDP in 2017=1",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-11-08 13:31:14-06",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "Source ID: pl_k\n\nWhen using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), \"The Next Generation of the Penn World Table\" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt\n\nFor more information, see http://www.rug.nl/research/ggdc/data/pwt/.",
+    "path": "../Database/International Data/Countries/Ukraine"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "National Currency_Annual_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "NAEXCP03BRA189N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Gross Domestic Product by Expenditure in Current Prices: Government Final Consumption Expenditure for Brazil",
+      "observation_start": "1996-01-01",
+      "observation_end": "2021-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "National Currency",
+      "units_short": "National Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 11:45:07-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: NAEXCP03\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  },
+  "National Currency_Quarterly_Not Seasonally Adjusted": {
+    "Brazil": {
+      "id": "NAEXCP03BRQ189N",
+      "realtime_start": "2022-04-06",
+      "realtime_end": "2022-04-06",
+      "title": "Gross Domestic Product by Expenditure in Current Prices: Government Final Consumption Expenditure for Brazil",
+      "observation_start": "1996-01-01",
+      "observation_end": "2021-10-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "National Currency",
+      "units_short": "National Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-03-10 10:57:21-06",
+      "popularity": 1,
+      "group_popularity": 1,
+      "notes": "OECD descriptor ID: NAEXCP03\nOECD unit ID: ST\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "../Database/International Data/Countries/Brazil"
+    }
+  }
+}

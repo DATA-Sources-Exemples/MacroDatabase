@@ -1,0 +1,21 @@
+{
+  "Russian Federation": {
+    "id": "PIEAMP02RUM659N",
+    "realtime_start": "2022-04-06",
+    "realtime_end": "2022-04-06",
+    "title": "Producer Prices Index: Economic Activities: Domestic Manufacturing for the Russian Federation",
+    "observation_start": "1999-01-01",
+    "observation_end": "2021-12-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Growth Rate Same Period Previous Year",
+    "units_short": "Growth Rate Same Period Previous Yr.",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-03-10 11:05:27-06",
+    "popularity": 2,
+    "group_popularity": 2,
+    "notes": "OECD descriptor ID: PIEAMP02\nOECD unit ID: GY\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "../Database/International Data/Countries/Russian Federation"
+  }
+}
